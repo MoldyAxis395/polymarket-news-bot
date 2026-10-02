@@ -1,23 +1,6 @@
 {
- "cash": 49.05533063427799,
+ "cash": 48.846997300944665,
  "positions": [
-  {
-   "market_id": "4250268",
-   "question": "Bruins vs. Jets",
-   "slug": "nhl-bos-wpg-2026-10-02",
-   "outcome": "Bruins",
-   "token": "63604192171389485049696117876014282545683353262965966406783543925557960804842",
-   "shares": 20.833333333333336,
-   "entry": 0.4799999999999999,
-   "cost": 10.0,
-   "opened": 1790952923.7812798,
-   "opened_iso": "2026-10-02T14:55:23+00:00",
-   "news": "How valuable is Kyle Monangai if D\u2019Andre Swift is ruled out vs. the Jets?",
-   "reason": "rules: -[ruled out] match[jets] outcome 'Jets' bad",
-   "conf": 0.53,
-   "end": "2026-10-03T00:00:00+00:00",
-   "last_bid": 0.47
-  },
   {
    "market_id": "3871423",
    "question": "Rams vs. Eagles",
@@ -85,6 +68,23 @@
    "conf": 0.71,
    "end": "2026-10-04T17:00:00+00:00",
    "last_bid": 0.36
+  },
+  {
+   "market_id": "3871433",
+   "question": "Chargers vs. Seahawks",
+   "slug": "nfl-lac-sea-2026-10-04",
+   "outcome": "Chargers",
+   "token": "32844225437031105825258751886599297875075257671629157313281070372436622176852",
+   "shares": 40.0,
+   "entry": 0.25,
+   "cost": 10.0,
+   "opened": 1790975142.341556,
+   "opened_iso": "2026-10-02T21:05:42+00:00",
+   "news": "Seahawks Injury Report: Price out, 2 questionable vs Chargers",
+   "reason": "rules: -[questionable] subject 'Seahawks' vs 'Chargers'",
+   "conf": 0.72,
+   "end": "2026-10-04T20:25:00+00:00",
+   "last_bid": 0.24
   }
  ],
  "closed": [
@@ -129,10 +129,32 @@
    "pnl": -0.17543859649122595,
    "why": "max hold",
    "closed_iso": "2026-10-02T18:00:20+00:00"
+  },
+  {
+   "market_id": "4250268",
+   "question": "Bruins vs. Jets",
+   "slug": "nhl-bos-wpg-2026-10-02",
+   "outcome": "Bruins",
+   "token": "63604192171389485049696117876014282545683353262965966406783543925557960804842",
+   "shares": 20.833333333333336,
+   "entry": 0.4799999999999999,
+   "cost": 10.0,
+   "opened": 1790952923.7812798,
+   "opened_iso": "2026-10-02T14:55:23+00:00",
+   "news": "How valuable is Kyle Monangai if D\u2019Andre Swift is ruled out vs. the Jets?",
+   "reason": "rules: -[ruled out] match[jets] outcome 'Jets' bad",
+   "conf": 0.53,
+   "end": "2026-10-03T00:00:00+00:00",
+   "last_bid": 0.47,
+   "exit": 0.47000000000000003,
+   "pnl": -0.20833333333333215,
+   "why": "max hold",
+   "closed_iso": "2026-10-02T20:55:33+00:00"
   }
  ],
  "cooldown": {
   "3871412": 1790967358.6240659,
-  "3871421": 1790967620.5415256
+  "3871421": 1790967620.5415256,
+  "4250268": 1790978133.533784
  }
 }
