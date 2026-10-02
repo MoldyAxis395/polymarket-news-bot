@@ -65,6 +65,27 @@ def _other_entity(headline, name, market_toks):
     return False
 
 
+# Leagues that share team nicknames (Jets, Giants, Cardinals, Kings, Rangers, Panthers...).
+# A headline must carry that sport's vocabulary, or name both teams, to match such a market.
+LEAGUE_KW = {
+    "nfl": r"\bnfl\b|\bqb\b|\brb\b|\bwr\b|\bte\b|quarterback|running back|wide receiver|linebacker|touchdown|injured reserve|super bowl|\bweek \d+\b|gridiron",
+    "cfb": r"college football|\bncaa\b|heisman|\bqb\b|quarterback|\bweek \d+\b|touchdown",
+    "nhl": r"\bnhl\b|hockey|goalie|goaltender|\bpuck\b|power play|stanley cup|defenseman",
+    "nba": r"\bnba\b|basketball|point guard|rebounds|three-pointer",
+    "wnba": r"\bwnba\b|basketball|point guard|rebounds",
+    "mlb": r"\bmlb\b|baseball|pitcher|\binning|home run|world series|bullpen|shortstop|wild card series",
+}
+LEAGUE_RE = {k: re.compile(v, re.I) for k, v in LEAGUE_KW.items()}
+
+
+def _league_ok(m, headline, ht):
+    league = m.slug.split("-", 1)[0]
+    if league not in LEAGUE_RE:
+        return True
+    both = all(set(tokens(o)) and set(tokens(o)) <= ht for o in m.outcomes)
+    return both or bool(LEAGUE_RE[league].search(headline))
+
+
 class MarketIndex:
     def __init__(self, markets):
         self.markets = markets
@@ -101,7 +122,7 @@ class MarketIndex:
             else:  # named outcomes: a full outcome name must appear ("Penn State", not just "State")
                 ok = any(set(tokens(o)) and set(tokens(o)) <= ht and set(tokens(o)) & proper
                          and not _other_entity(headline, o, self.mtoks[i])
-                         for o in m.outcomes)
+                         for o in m.outcomes) and _league_ok(m, headline, ht)
                 strong = strong | {w for o in m.outcomes if set(tokens(o)) <= ht for w in tokens(o)}
             if ok:
                 res.append((m, strength, strong))

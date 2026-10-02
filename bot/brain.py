@@ -109,6 +109,21 @@ class RuleBrain:
             pol = 1 if p > 0 else -1
             if not _near(item.title, matched, pos if pol > 0 else neg):
                 continue
+            if not m.is_binary_yes_no:
+                # both teams named: the one after "vs/against/over" is the opponent, the other the subject
+                hits = [o for o in m.outcomes if set(tokens(o)) & matched]
+                if len(hits) == 2:
+                    after = [o for o in hits if (_is_loser if pol > 0 else _is_opponent)(item.title, set(tokens(o)))]
+                    if len(after) != 1:
+                        continue
+                    subject = hits[1 - hits.index(after[0])]
+                    matched = set(tokens(subject))
+                    side = m.outcomes.index(subject) if pol > 0 else 1 - m.outcomes.index(subject)
+                    conf = min(0.95, 0.30 + 0.12 * min(abs(p), 3) + min(score, 12) / 40)
+                    kw = ",".join(pos if pol > 0 else neg)
+                    out.append(Signal(m, side, round(conf, 2),
+                                      f"rules: {'+' if pol > 0 else '-'}[{kw}] subject '{subject}' vs '{after[0]}'"))
+                    continue
             if pol > 0 and _is_loser(item.title, matched):
                 pol = -1
             elif pol < 0 and _is_opponent(item.title, matched):
