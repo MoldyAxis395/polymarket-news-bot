@@ -1,40 +1,6 @@
 {
- "cash": 50.0,
+ "cash": 59.05533063427799,
  "positions": [
-  {
-   "market_id": "3871412",
-   "question": "Jets vs. Bears",
-   "slug": "nfl-nyj-chi-2026-10-04",
-   "outcome": "Jets",
-   "token": "48313193319491243668169356003044063173222345500939889625533023969245134692041",
-   "shares": 25.64102564102564,
-   "entry": 0.39,
-   "cost": 10.0,
-   "opened": 1790942149.5064049,
-   "opened_iso": "2026-10-02T11:55:49+00:00",
-   "news": "D\u2019Andre Swift Injury Update: Bears RB\u2019s Week 4 Status Revealed",
-   "reason": "rules: -[injury] match[bears] outcome 'Bears' bad",
-   "conf": 0.55,
-   "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.36
-  },
-  {
-   "market_id": "3871421",
-   "question": "Cardinals vs. Giants",
-   "slug": "nfl-ari-nyg-2026-10-04",
-   "outcome": "Cardinals",
-   "token": "72246934062619254858598608942083418119821898480654244040473201735482142304798",
-   "shares": 17.54385964912281,
-   "entry": 0.57,
-   "cost": 10.0,
-   "opened": 1790942414.1406903,
-   "opened_iso": "2026-10-02T12:00:14+00:00",
-   "news": "New York Giants injury report: RB Tyrone Tracy upgraded",
-   "reason": "rules: -[injury] match[giants] outcome 'Giants' bad",
-   "conf": 0.55,
-   "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.56
-  },
   {
    "market_id": "4250268",
    "question": "Bruins vs. Jets",
@@ -85,8 +51,71 @@
    "conf": 0.59,
    "end": "2026-10-04T13:30:00+00:00",
    "last_bid": 0.65
+  },
+  {
+   "market_id": "3871411",
+   "question": "Patriots vs. Bills",
+   "slug": "nfl-ne-buf-2026-10-04",
+   "outcome": "Bills",
+   "token": "15787281545209094830506007568300481024119366525905311364292947040850746897112",
+   "shares": 13.333333333333334,
+   "entry": 0.75,
+   "cost": 10.0,
+   "opened": 1790965068.150573,
+   "opened_iso": "2026-10-02T18:17:48+00:00",
+   "news": "Patriots takeaways: Christian Gonzalez, Christian Barmore ruled out vs. Buffalo Bills",
+   "reason": "rules: -[ruled out] subject 'Patriots' vs 'Bills'",
+   "conf": 0.72,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.74
   }
  ],
- "closed": [],
- "cooldown": {}
+ "closed": [
+  {
+   "market_id": "3871412",
+   "question": "Jets vs. Bears",
+   "slug": "nfl-nyj-chi-2026-10-04",
+   "outcome": "Jets",
+   "token": "48313193319491243668169356003044063173222345500939889625533023969245134692041",
+   "shares": 25.64102564102564,
+   "entry": 0.39,
+   "cost": 10.0,
+   "opened": 1790942149.5064049,
+   "opened_iso": "2026-10-02T11:55:49+00:00",
+   "news": "D\u2019Andre Swift Injury Update: Bears RB\u2019s Week 4 Status Revealed",
+   "reason": "rules: -[injury] match[bears] outcome 'Bears' bad",
+   "conf": 0.55,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.36,
+   "exit": 0.36,
+   "pnl": -0.76923076923077,
+   "why": "max hold",
+   "closed_iso": "2026-10-02T17:55:58+00:00"
+  },
+  {
+   "market_id": "3871421",
+   "question": "Cardinals vs. Giants",
+   "slug": "nfl-ari-nyg-2026-10-04",
+   "outcome": "Cardinals",
+   "token": "72246934062619254858598608942083418119821898480654244040473201735482142304798",
+   "shares": 17.54385964912281,
+   "entry": 0.57,
+   "cost": 10.0,
+   "opened": 1790942414.1406903,
+   "opened_iso": "2026-10-02T12:00:14+00:00",
+   "news": "New York Giants injury report: RB Tyrone Tracy upgraded",
+   "reason": "rules: -[injury] match[giants] outcome 'Giants' bad",
+   "conf": 0.55,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.56,
+   "exit": 0.56,
+   "pnl": -0.17543859649122595,
+   "why": "max hold",
+   "closed_iso": "2026-10-02T18:00:20+00:00"
+  }
+ ],
+ "cooldown": {
+  "3871412": 1790967358.6240659,
+  "3871421": 1790967620.5415256
+ }
 }

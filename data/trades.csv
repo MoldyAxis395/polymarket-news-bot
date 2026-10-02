@@ -4,3 +4,6 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-02T14:55:23+00:00,BUY,Bruins vs. Jets,Bruins,20.83,0.4800,10.00,,How valuable is Kyle Monangai if D’Andre Swift is ruled out vs. the Jets? | rules: -[ruled out] match[jets] outcome 'Jets' bad
 2026-10-02T16:23:54+00:00,BUY,Rams vs. Eagles,Rams,15.62,0.6400,10.00,,"Will Eagles' DeVonta Smith play vs. Rams? Latest on WR injury, status | rules: -[injury] subject 'Eagles' vs 'Rams'"
 2026-10-02T16:40:46+00:00,BUY,Colts vs. Commanders,Colts,15.38,0.6500,10.00,,Good news for the Commanders: Two injured starters returning in Week 4 | rules: -[injured] match[commanders] outcome 'Commanders' bad
+2026-10-02T17:55:58+00:00,SELL,Jets vs. Bears,Jets,25.64,0.3600,9.23,-0.77,max hold
+2026-10-02T18:00:20+00:00,SELL,Cardinals vs. Giants,Cardinals,17.54,0.5600,9.82,-0.18,max hold
+2026-10-02T18:17:48+00:00,BUY,Patriots vs. Bills,Bills,13.33,0.7500,10.00,,"Patriots takeaways: Christian Gonzalez, Christian Barmore ruled out vs. Buffalo Bills | rules: -[ruled out] subject 'Patriots' vs 'Bills'"
