@@ -26,3 +26,8 @@
 2026-10-02 13:44:37 indexed 177 markets
 2026-10-02 13:54:39 indexed 178 markets
 2026-10-02 14:04:40 indexed 175 markets
+2026-10-02 14:14:43 indexed 176 markets
+2026-10-02 14:19:02 feed espn error x100: no element found: line 1, column 0
+2026-10-02 14:24:43 indexed 178 markets
+2026-10-02 14:35:13 ERROR  in request |     resp = self.send(prep, **send_kwargs) |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send |     r = adapter.send(request, **kwargs) |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/site-packages/requests/adapters.py", line 742, in send |     raise ReadTimeout(e, request=request) | requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=30)
+2026-10-02 14:35:27 indexed 181 markets

@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-02T14:07:00",
+ "updated": "2026-10-02T14:37:08",
  "mode": "paper",
  "brain": "rules",
- "markets_indexed": 175,
- "news_processed": 102,
+ "markets_indexed": 181,
+ "news_processed": 149,
  "cash": 80.0,
  "equity": 99.31,
  "start": 100.0,
