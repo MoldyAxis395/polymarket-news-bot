@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-02T18:20:59",
+ "updated": "2026-10-02T18:51:03",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 931,
- "news_processed": 9,
- "cash": 70.0,
- "equity": 98.85,
+ "markets_indexed": 956,
+ "news_processed": 64,
+ "cash": 50.0,
+ "equity": 98.69,
  "start": 100.0,
  "open": [
   {
@@ -59,6 +59,40 @@
    "conf": 0.53,
    "end": "2026-10-03T00:00:00+00:00",
    "last_bid": 0.47
+  },
+  {
+   "market_id": "3871423",
+   "question": "Rams vs. Eagles",
+   "slug": "nfl-la-phi-2026-10-04",
+   "outcome": "Rams",
+   "token": "5221793757117831071159655852450033355086775124068751029399319513607725883166",
+   "shares": 15.625,
+   "entry": 0.64,
+   "cost": 10.0,
+   "opened": 1790958234.1653886,
+   "opened_iso": "2026-10-02T16:23:54+00:00",
+   "news": "Will Eagles' DeVonta Smith play vs. Rams? Latest on WR injury, status",
+   "reason": "rules: -[injury] subject 'Eagles' vs 'Rams'",
+   "conf": 0.72,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.63
+  },
+  {
+   "market_id": "3871405",
+   "question": "Colts vs. Commanders",
+   "slug": "nfl-ind-was-2026-10-04",
+   "outcome": "Colts",
+   "token": "55191072292387454815694753195916103150712742081012585602610134124350197643160",
+   "shares": 15.384615384615383,
+   "entry": 0.65,
+   "cost": 10.0,
+   "opened": 1790959246.1744769,
+   "opened_iso": "2026-10-02T16:40:46+00:00",
+   "news": "Good news for the Commanders: Two injured starters returning in Week 4",
+   "reason": "rules: -[injured] match[commanders] outcome 'Commanders' bad",
+   "conf": 0.59,
+   "end": "2026-10-04T13:30:00+00:00",
+   "last_bid": 0.65
   }
  ],
  "closed_count": 0,

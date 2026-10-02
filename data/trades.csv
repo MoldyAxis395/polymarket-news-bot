@@ -2,3 +2,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-02T11:55:49+00:00,BUY,Jets vs. Bears,Jets,25.64,0.3900,10.00,,D’Andre Swift Injury Update: Bears RB’s Week 4 Status Revealed | rules: -[injury] match[bears] outcome 'Bears' bad
 2026-10-02T12:00:14+00:00,BUY,Cardinals vs. Giants,Cardinals,17.54,0.5700,10.00,,New York Giants injury report: RB Tyrone Tracy upgraded | rules: -[injury] match[giants] outcome 'Giants' bad
 2026-10-02T14:55:23+00:00,BUY,Bruins vs. Jets,Bruins,20.83,0.4800,10.00,,How valuable is Kyle Monangai if D’Andre Swift is ruled out vs. the Jets? | rules: -[ruled out] match[jets] outcome 'Jets' bad
+2026-10-02T16:23:54+00:00,BUY,Rams vs. Eagles,Rams,15.62,0.6400,10.00,,"Will Eagles' DeVonta Smith play vs. Rams? Latest on WR injury, status | rules: -[injury] subject 'Eagles' vs 'Rams'"
+2026-10-02T16:40:46+00:00,BUY,Colts vs. Commanders,Colts,15.38,0.6500,10.00,,Good news for the Commanders: Two injured starters returning in Week 4 | rules: -[injured] match[commanders] outcome 'Commanders' bad

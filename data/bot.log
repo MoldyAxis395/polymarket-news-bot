@@ -70,3 +70,18 @@
 2026-10-02 18:16:08 brain=llm cash=70.00 open=3
 2026-10-02 18:16:08 resuming with 1227 known news items
 2026-10-02 18:16:32 indexed 931 markets
+2026-10-02 18:23:53 NEWS [gnews_injury 6m] Will Eagles' DeVonta Smith play vs. Rams? Latest on WR injury, status
+2026-10-02 18:23:54   BUY Rams @ 0.640 x15.6 ($10.00) :: Rams vs. Eagles
+2026-10-02 18:26:34 indexed 930 markets
+2026-10-02 18:33:51 NEWS [gnews_injury 2m] RB Hall, WR Mitchell among Jets’ offensive starters ruled out vs. Bears
+2026-10-02 18:33:51   skip Bears :: Jets vs. Bears (already in market)
+2026-10-02 18:36:20 NEWS [gnews_injury 2m] Week 4 Friday Injury Report: Two ruled out for Lions game
+2026-10-02 18:36:20   skip Panthers :: Lions vs. Panthers (illiquid)
+2026-10-02 18:36:47 indexed 937 markets
+2026-10-02 18:38:27 NEWS [gnews_injury 3m] Panthers Week 4 injury report: 2 offensive starters ruled out vs. Lions
+2026-10-02 18:38:27   skip Lions :: Lions vs. Panthers (illiquid)
+2026-10-02 18:40:45 NEWS [gnews_injury 6m] Good news for the Commanders: Two injured starters returning in Week 4
+2026-10-02 18:40:46   BUY Colts @ 0.650 x15.4 ($10.00) :: Colts vs. Commanders
+2026-10-02 18:46:45 indexed 956 markets
+2026-10-02 18:47:40 NEWS [gnews_injury 4m] Jets RB Hall ruled out for game at Chicago with quadriceps injury
+2026-10-02 18:47:40   skip Bears :: Jets vs. Bears (max positions)
