@@ -41,6 +41,30 @@ def proper_tokens(text):
     return res
 
 
+# Title-case words that may follow a team name without changing which team it is
+FOLLOWERS = set("""week game games star stars coach coaches quarterback injury injuries news report
+update updates fans roster depth lineup preview prediction predictions odds score scores rookie
+receiver running defense offense head president minister""".split())
+
+
+def _other_entity(headline, name, market_toks):
+    """'Washington Commanders' when the market is about 'Washington' (Huskies): different entity."""
+    words = _WORD.findall(headline)
+    last = tokens(name)[-1] if tokens(name) else None
+    for i, w in enumerate(words[:-1]):
+        if w.lower().strip(".'-") != last:
+            continue
+        nxt = words[i + 1]
+        n = nxt.lower().strip(".'-")
+        if n.endswith("'s"):
+            n = n[:-2]
+        n = n.rstrip("'")
+        if (nxt[0].isupper() and len(n) >= 4 and not nxt.isupper() and n not in market_toks
+                and n not in FOLLOWERS and n not in STOP):
+            return True
+    return False
+
+
 class MarketIndex:
     def __init__(self, markets):
         self.markets = markets
@@ -76,6 +100,7 @@ class MarketIndex:
                 ok = len(strong) >= 2 and strength >= 7
             else:  # named outcomes: a full outcome name must appear ("Penn State", not just "State")
                 ok = any(set(tokens(o)) and set(tokens(o)) <= ht and set(tokens(o)) & proper
+                         and not _other_entity(headline, o, self.mtoks[i])
                          for o in m.outcomes)
                 strong = strong | {w for o in m.outcomes if set(tokens(o)) <= ht for w in tokens(o)}
             if ok:

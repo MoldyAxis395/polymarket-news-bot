@@ -52,9 +52,16 @@ def _parse_dt(s):
 def fetch_markets(n=config.MARKETS_TO_INDEX):
     out, offset, page = [], 0, 500
     while len(out) < n:
-        r = _s.get(f"{GAMMA}/markets", params={
-            "active": "true", "closed": "false", "limit": page, "offset": offset,
-            "order": "volume24hr", "ascending": "false"}, timeout=30)
+        params = {"active": "true", "closed": "false", "limit": page, "offset": offset,
+                  "order": "volume24hr", "ascending": "false"}
+        for attempt in range(3):  # Gamma sometimes times out from cloud runners
+            try:
+                r = _s.get(f"{GAMMA}/markets", params=params, timeout=30)
+                break
+            except requests.exceptions.RequestException:
+                if attempt == 2:
+                    raise
+                time.sleep(5)
         if r.status_code == 422:  # past API's max offset
             break
         r.raise_for_status()

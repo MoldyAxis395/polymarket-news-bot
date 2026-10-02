@@ -26,7 +26,7 @@ ENTRY_PRICE_MAX = 0.90
 ALREADY_MOVED = 0.05                # skip if price moved > 5c since last index (news priced in)
 MIN_MINUTES_TO_END = 20             # don't enter markets about to close
 MAX_DAYS_TO_END = 30                # one headline barely moves long-dated futures
-SKIP_QUESTION = r"temperature|tweets?|spread:|o/u|over/under|up or down|price of|hit \$"
+SKIP_QUESTION = r"temperature|tweets?|spread:|o/u|over/under|up or down|price of|\bhit\b"
 
 # --- news ---
 NEWS_MAX_AGE_MIN = 20               # ignore items older than this
@@ -49,7 +49,6 @@ RSS_FEEDS = {
     "gnews_injury": "https://news.google.com/rss/search?q=when:1h+(injury+OR+%22ruled+out%22+OR+suspended)&hl=en-US&gl=US&ceid=US:en",
     "bbc_world": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "bbc_sport": "https://feeds.bbci.co.uk/sport/rss.xml",
-    "espn": "https://www.espn.com/espn/rss/news",
     "skysports": "https://www.skysports.com/rss/12040",
     "aljazeera": "https://www.aljazeera.com/xml/rss/all.xml",
     "cnbc": "https://www.cnbc.com/id/100003114/device/rss/rss.html",

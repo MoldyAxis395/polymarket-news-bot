@@ -85,6 +85,17 @@ def _is_loser(title, matched):
     return False
 
 
+OPP_AFTER = re.compile(r"\b(?:vs\.?|v\.?|versus|against|at|facing)\s+(?:the\s+)?([a-z0-9' ]{3,40})")
+
+
+def _is_opponent(title, matched):
+    """'Hall ruled out vs. Bears' -> the bad news is for the Bears' opponent."""
+    for mt in OPP_AFTER.finditer(_norm(title)):
+        if set(_words(mt.group(1))[:3]) & matched:
+            return True
+    return False
+
+
 class RuleBrain:
     name = "rules"
 
@@ -100,6 +111,8 @@ class RuleBrain:
                 continue
             if pol > 0 and _is_loser(item.title, matched):
                 pol = -1
+            elif pol < 0 and _is_opponent(item.title, matched):
+                pol = 1
             side, why = self._side(m, matched, pol)
             if side is None:
                 continue
