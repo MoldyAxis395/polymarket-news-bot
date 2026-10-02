@@ -25,6 +25,7 @@ jobs:
       - name: Run bot for one shift
         env:
           RUN_SECONDS: "20700"       # 5h45m
+          TZ: Europe/Rome
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
