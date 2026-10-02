@@ -1,31 +1,14 @@
 {
- "updated": "2026-10-03T00:35:59",
+ "updated": "2026-10-03T01:06:24",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 804,
- "news_processed": 64,
- "cash": 48.69,
+ "markets_indexed": 820,
+ "news_processed": 85,
+ "cash": 58.69,
  "equity": 97.71,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "3871405",
-   "question": "Colts vs. Commanders",
-   "slug": "nfl-ind-was-2026-10-04",
-   "outcome": "Colts",
-   "token": "55191072292387454815694753195916103150712742081012585602610134124350197643160",
-   "shares": 15.384615384615383,
-   "entry": 0.65,
-   "cost": 10.0,
-   "opened": 1790959246.1744769,
-   "opened_iso": "2026-10-02T16:40:46+00:00",
-   "news": "Good news for the Commanders: Two injured starters returning in Week 4",
-   "reason": "rules: -[injured] match[commanders] outcome 'Commanders' bad",
-   "conf": 0.59,
-   "end": "2026-10-04T13:30:00+00:00",
-   "last_bid": 0.65
-  },
   {
    "market_id": "3871411",
    "question": "Patriots vs. Bills",
@@ -95,6 +78,6 @@
    "last_bid": 0.57
   }
  ],
- "closed_count": 4,
+ "closed_count": 5,
  "realized_pnl": -1.31
 }

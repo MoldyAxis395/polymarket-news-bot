@@ -1,23 +1,6 @@
 {
- "cash": 48.690747300944665,
+ "cash": 58.690747300944665,
  "positions": [
-  {
-   "market_id": "3871405",
-   "question": "Colts vs. Commanders",
-   "slug": "nfl-ind-was-2026-10-04",
-   "outcome": "Colts",
-   "token": "55191072292387454815694753195916103150712742081012585602610134124350197643160",
-   "shares": 15.384615384615383,
-   "entry": 0.65,
-   "cost": 10.0,
-   "opened": 1790959246.1744769,
-   "opened_iso": "2026-10-02T16:40:46+00:00",
-   "news": "Good news for the Commanders: Two injured starters returning in Week 4",
-   "reason": "rules: -[injured] match[commanders] outcome 'Commanders' bad",
-   "conf": 0.59,
-   "end": "2026-10-04T13:30:00+00:00",
-   "last_bid": 0.65
-  },
   {
    "market_id": "3871411",
    "question": "Patriots vs. Bills",
@@ -171,12 +154,34 @@
    "pnl": -0.15625,
    "why": "max hold",
    "closed_iso": "2026-10-02T22:24:15+00:00"
+  },
+  {
+   "market_id": "3871405",
+   "question": "Colts vs. Commanders",
+   "slug": "nfl-ind-was-2026-10-04",
+   "outcome": "Colts",
+   "token": "55191072292387454815694753195916103150712742081012585602610134124350197643160",
+   "shares": 15.384615384615383,
+   "entry": 0.65,
+   "cost": 10.0,
+   "opened": 1790959246.1744769,
+   "opened_iso": "2026-10-02T16:40:46+00:00",
+   "news": "Good news for the Commanders: Two injured starters returning in Week 4",
+   "reason": "rules: -[injured] match[commanders] outcome 'Commanders' bad",
+   "conf": 0.59,
+   "end": "2026-10-04T13:30:00+00:00",
+   "last_bid": 0.65,
+   "exit": 0.65,
+   "pnl": 0.0,
+   "why": "max hold",
+   "closed_iso": "2026-10-02T22:41:05+00:00"
   }
  ],
  "cooldown": {
   "3871412": 1790967358.6240659,
   "3871421": 1790967620.5415256,
   "4250268": 1790978133.533784,
-  "3871423": 1790983455.311521
+  "3871423": 1790983455.311521,
+  "3871405": 1790984465.975696
  }
 }
