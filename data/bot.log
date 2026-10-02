@@ -42,3 +42,11 @@
 2026-10-02 14:56:18 indexed 175 markets
 2026-10-02 15:06:47 ERROR  in request |     resp = self.send(prep, **send_kwargs) |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send |     r = adapter.send(request, **kwargs) |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/site-packages/requests/adapters.py", line 742, in send |     raise ReadTimeout(e, request=request) | requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=30)
 2026-10-02 15:07:01 indexed 181 markets
+2026-10-02 17:09:12 === start mode=paper pid=2390 ===
+2026-10-02 17:09:12 brain=rules cash=70.00 open=3
+2026-10-02 17:09:12 resuming with 988 known news items
+2026-10-02 17:09:14 indexed 170 markets
+2026-10-02 17:11:28 NEWS [gnews_injury 1m] Breece Hall, Adonai Mitchell among Jets ruled out for Week 4 vs. Bears
+2026-10-02 17:11:28   skip Bruins :: Bruins vs. Jets (already in market)
+2026-10-02 17:11:28 NEWS [gnews_injury 4m] Chicago Bears catch break as multiple New York Jets starters ruled OUT for Week 4 matchup
+2026-10-02 17:11:28   skip Bruins :: Bruins vs. Jets (already in market)
