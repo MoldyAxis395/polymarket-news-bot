@@ -1,0 +1,23 @@
+name: llm-test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  models: read
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call GitHub Models
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for m in openai/gpt-4.1-mini openai/gpt-4.1; do
+            echo "== $m"
+            curl -s -m 60 -w "\nHTTP %{http_code}\n" https://models.github.ai/inference/chat/completions \
+              -H "Authorization: Bearer $GITHUB_TOKEN" -H "Content-Type: application/json" \
+              -d "{\"model\":\"$m\",\"messages\":[{\"role\":\"user\",\"content\":\"Lionel Messi ruled out of next match. Which national team does this hurt? Answer one word.\"}],\"max_tokens\":10}" | tail -c 500
+          done
