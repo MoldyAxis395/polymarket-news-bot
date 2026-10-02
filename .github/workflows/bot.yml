@@ -1,0 +1,42 @@
+name: paper-bot
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # new shift every 6h (GitHub may start it a few minutes late)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: paper-bot          # never two bots at once; a late shift waits for the previous one
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 358
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Run bot for one shift
+        env:
+          RUN_SECONDS: "20700"       # 5h45m
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python -m bot.main > /dev/null &
+          BOT=$!
+          # push state every 30 min so a killed runner loses little
+          while kill -0 $BOT 2>/dev/null; do
+            for i in $(seq 180); do kill -0 $BOT 2>/dev/null || break; sleep 10; done
+            bash ci/commit.sh "checkpoint" || true
+          done
+          wait $BOT
+      - name: Save state
+        if: always()
+        run: bash ci/commit.sh "shift end"

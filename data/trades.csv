@@ -1,0 +1,3 @@
+time,action,market,outcome,shares,price,usd,pnl,reason
+2026-10-02T11:55:49+00:00,BUY,Jets vs. Bears,Jets,25.64,0.3900,10.00,,D’Andre Swift Injury Update: Bears RB’s Week 4 Status Revealed | rules: -[injury] match[bears] outcome 'Bears' bad
+2026-10-02T12:00:14+00:00,BUY,Cardinals vs. Giants,Cardinals,17.54,0.5700,10.00,,New York Giants injury report: RB Tyrone Tracy upgraded | rules: -[injury] match[giants] outcome 'Giants' bad
