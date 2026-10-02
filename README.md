@@ -5,7 +5,11 @@ compra il lato che la notizia favorisce → rivende quando il prezzo sale (+15%)
 scende (-10%) o dopo 6 ore. Soldi FINTI: $100, max $10 a trade, max 5 posizioni.
 Prezzi e fill simulati sul vero order book CLOB di Polymarket.
 
-- `start.bat` avvia nascosto · `stop.bat` ferma · `report.bat` riepilogo
+- Gira su **GitHub Actions** (repo pubblico): turni da 5h45 ogni 6h, stato salvato in `data/` con commit ogni 30 min.
+  Avvio manuale: tab Actions → paper-bot → Run workflow. Stop: Actions → paper-bot → `...` → Disable workflow.
+- Notifiche Telegram a ogni apertura/chiusura (secrets `TELEGRAM_TOKEN`, `TELEGRAM_CHAT_ID`).
+- In locale: `start.bat` avvia nascosto · `stop.bat` ferma · `report.bat` riepilogo
+  (prima `git pull` per avere lo stato aggiornato; non farlo girare in locale E su GitHub insieme)
 - Log: `data/bot.log` · trade: `data/trades.csv` · segnali (anche scartati): `data/signals.jsonl`
 - Impostazioni: `bot/config.py`
 
