@@ -16,7 +16,7 @@
    "reason": "rules: -[injury] match[bears] outcome 'Bears' bad",
    "conf": 0.55,
    "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.38
+   "last_bid": 0.37
   },
   {
    "market_id": "3871421",

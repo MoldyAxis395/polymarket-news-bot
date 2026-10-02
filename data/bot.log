@@ -11,3 +11,8 @@
 2026-10-02 14:00:14 NEWS [gnews_injury 16m] New York Giants injury report: RB Tyrone Tracy upgraded
 2026-10-02 14:00:14   BUY Cardinals @ 0.570 x17.5 ($10.00) :: Cardinals vs. Giants
 2026-10-02 14:02:37 indexed 187 markets
+2026-10-02 13:02:09 === start mode=paper pid=2262 ===
+2026-10-02 13:02:09 brain=rules cash=80.00 open=2
+2026-10-02 13:02:10 feed espn error x1: no element found: line 1, column 0
+2026-10-02 13:02:23 priming news: 538 existing items ignored
+2026-10-02 13:02:25 indexed 181 markets
