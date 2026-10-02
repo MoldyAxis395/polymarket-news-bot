@@ -10,3 +10,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-02T19:20:23+00:00,BUY,Jets vs. Bears,Jets,27.03,0.3700,10.00,,"Chicago Bears Injury Report: 5 Players Ruled Out For Week 4 | rules: -[ruled out,out for] match[bears] outcome 'Bears' bad"
 2026-10-02T20:55:33+00:00,SELL,Bruins vs. Jets,Bruins,20.83,0.4700,9.79,-0.21,max hold
 2026-10-02T21:05:42+00:00,BUY,Chargers vs. Seahawks,Chargers,40.00,0.2500,10.00,,"Seahawks Injury Report: Price out, 2 questionable vs Chargers | rules: -[questionable] subject 'Seahawks' vs 'Chargers'"
+2026-10-02T22:24:14+00:00,SELL,Rams vs. Eagles,Rams,15.62,0.6300,9.84,-0.16,max hold
+2026-10-02T22:32:12+00:00,BUY,Cardinals vs. Giants,Cardinals,17.24,0.5800,10.00,,The New York QB Curse: What Jaxson Dart’s Injury Means for the Giants | rules: -[injury] match[giants] outcome 'Giants' bad

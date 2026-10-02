@@ -1,31 +1,14 @@
 {
- "updated": "2026-10-03T00:06:10",
+ "updated": "2026-10-03T00:35:59",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 814,
- "news_processed": 23,
- "cash": 48.85,
- "equity": 97.89,
+ "markets_indexed": 804,
+ "news_processed": 64,
+ "cash": 48.69,
+ "equity": 97.71,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "3871423",
-   "question": "Rams vs. Eagles",
-   "slug": "nfl-la-phi-2026-10-04",
-   "outcome": "Rams",
-   "token": "5221793757117831071159655852450033355086775124068751029399319513607725883166",
-   "shares": 15.625,
-   "entry": 0.64,
-   "cost": 10.0,
-   "opened": 1790958234.1653886,
-   "opened_iso": "2026-10-02T16:23:54+00:00",
-   "news": "Will Eagles' DeVonta Smith play vs. Rams? Latest on WR injury, status",
-   "reason": "rules: -[injury] subject 'Eagles' vs 'Rams'",
-   "conf": 0.72,
-   "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.63
-  },
   {
    "market_id": "3871405",
    "question": "Colts vs. Commanders",
@@ -93,8 +76,25 @@
    "conf": 0.72,
    "end": "2026-10-04T20:25:00+00:00",
    "last_bid": 0.24
+  },
+  {
+   "market_id": "3871421",
+   "question": "Cardinals vs. Giants",
+   "slug": "nfl-ari-nyg-2026-10-04",
+   "outcome": "Cardinals",
+   "token": "72246934062619254858598608942083418119821898480654244040473201735482142304798",
+   "shares": 17.24137931034483,
+   "entry": 0.58,
+   "cost": 10.0,
+   "opened": 1790980332.0163486,
+   "opened_iso": "2026-10-02T22:32:12+00:00",
+   "news": "The New York QB Curse: What Jaxson Dart\u2019s Injury Means for the Giants",
+   "reason": "rules: -[injury] match[giants] outcome 'Giants' bad",
+   "conf": 0.59,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.57
   }
  ],
- "closed_count": 3,
- "realized_pnl": -1.15
+ "closed_count": 4,
+ "realized_pnl": -1.31
 }
