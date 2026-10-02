@@ -31,3 +31,14 @@
 2026-10-02 14:24:43 indexed 178 markets
 2026-10-02 14:35:13 ERROR  in request |     resp = self.send(prep, **send_kwargs) |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send |     r = adapter.send(request, **kwargs) |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/site-packages/requests/adapters.py", line 742, in send |     raise ReadTimeout(e, request=request) | requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=30)
 2026-10-02 14:35:27 indexed 181 markets
+2026-10-02 14:46:03 ERROR  in request |     resp = self.send(prep, **send_kwargs) |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send |     r = adapter.send(request, **kwargs) |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/site-packages/requests/adapters.py", line 742, in send |     raise ReadTimeout(e, request=request) | requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=30)
+2026-10-02 14:46:17 indexed 172 markets
+2026-10-02 14:51:44 NEWS [gnews_injury 1m] Breece Hall (quad) officially ruled out vs. Bears
+2026-10-02 14:51:44   skip Jets :: Jets vs. Bears (already in market)
+2026-10-02 14:53:52 NEWS [gnews_injury 6m] Washington Commanders' Jayden Daniels officially ruled out for Week 4
+2026-10-02 14:53:52   skip USC :: Washington vs. USC (illiquid)
+2026-10-02 14:55:23 NEWS [gnews_injury 3m] How valuable is Kyle Monangai if D’Andre Swift is ruled out vs. the Jets?
+2026-10-02 14:55:23   BUY Bruins @ 0.480 x20.8 ($10.00) :: Bruins vs. Jets
+2026-10-02 14:56:18 indexed 175 markets
+2026-10-02 15:06:47 ERROR  in request |     resp = self.send(prep, **send_kwargs) |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send |     r = adapter.send(request, **kwargs) |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/site-packages/requests/adapters.py", line 742, in send |     raise ReadTimeout(e, request=request) | requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=30)
+2026-10-02 15:07:01 indexed 181 markets

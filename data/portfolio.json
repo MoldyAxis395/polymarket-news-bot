@@ -1,5 +1,5 @@
 {
- "cash": 80.0,
+ "cash": 70.0,
  "positions": [
   {
    "market_id": "3871412",
@@ -34,6 +34,23 @@
    "conf": 0.55,
    "end": "2026-10-04T17:00:00+00:00",
    "last_bid": 0.56
+  },
+  {
+   "market_id": "4250268",
+   "question": "Bruins vs. Jets",
+   "slug": "nhl-bos-wpg-2026-10-02",
+   "outcome": "Bruins",
+   "token": "63604192171389485049696117876014282545683353262965966406783543925557960804842",
+   "shares": 20.833333333333336,
+   "entry": 0.4799999999999999,
+   "cost": 10.0,
+   "opened": 1790952923.7812798,
+   "opened_iso": "2026-10-02T14:55:23+00:00",
+   "news": "How valuable is Kyle Monangai if D\u2019Andre Swift is ruled out vs. the Jets?",
+   "reason": "rules: -[ruled out] match[jets] outcome 'Jets' bad",
+   "conf": 0.53,
+   "end": "2026-10-03T00:00:00+00:00",
+   "last_bid": 0.47
   }
  ],
  "closed": [],
