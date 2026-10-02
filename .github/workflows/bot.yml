@@ -31,9 +31,11 @@ jobs:
         run: |
           python -m bot.main > /dev/null &
           BOT=$!
-          # push state every 30 min so a killed runner loses little
+          # push state after 5 min (sanity check), then every 30 min so a killed runner loses little
+          WAIT=30
           while kill -0 $BOT 2>/dev/null; do
-            for i in $(seq 180); do kill -0 $BOT 2>/dev/null || break; sleep 10; done
+            for i in $(seq $WAIT); do kill -0 $BOT 2>/dev/null || break; sleep 10; done
+            WAIT=180
             bash ci/commit.sh "checkpoint" || true
           done
           wait $BOT
