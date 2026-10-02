@@ -7,7 +7,7 @@ git add data/
 git diff --cached --quiet && exit 0
 git commit -qm "data: $1 $(date -u +%Y-%m-%dT%H:%MZ)"
 for i in 1 2 3; do
-  git pull -q --rebase -X theirs origin "${GITHUB_REF_NAME:-main}" && git push -q && exit 0
+  git pull -q --rebase --autostash -X theirs origin "${GITHUB_REF_NAME:-main}" && git push -q && exit 0
   sleep 5
 done
 exit 1
