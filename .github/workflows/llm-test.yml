@@ -4,20 +4,24 @@ on:
   workflow_dispatch:
 
 permissions:
-  models: read
   contents: read
 
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: Call GitHub Models
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Install Ollama
         run: |
-          for m in openai/gpt-4.1-mini openai/gpt-4.1; do
-            echo "== $m"
-            curl -s -m 60 -w "\nHTTP %{http_code}\n" https://models.github.ai/inference/chat/completions \
-              -H "Authorization: Bearer $GITHUB_TOKEN" -H "Content-Type: application/json" \
-              -d "{\"model\":\"$m\",\"messages\":[{\"role\":\"user\",\"content\":\"Lionel Messi ruled out of next match. Which national team does this hurt? Answer one word.\"}],\"max_tokens\":10}" | tail -c 500
+          curl -fsSL https://ollama.com/install.sh | sh
+          (ollama serve > /tmp/ollama.log 2>&1 &)
+          sleep 5
+      - name: Benchmark models
+        run: |
+          nproc; free -g | head -2
+          P='News: "Lionel Messi ruled out of Argentina next match with hamstring injury". Market: "Argentina vs. Croatia" outcomes ["Argentina","Croatia"]. Also: "D Andre Swift ruled out" and market "Jets vs. Bears" outcomes ["Jets","Bears"]. For EACH, which outcome to BUY? Answer JSON list [{"market":..,"buy":..,"why":..}] only.'
+          for m in qwen2.5:3b qwen2.5:7b llama3.1:8b; do
+            echo "== $m"; s=$(date +%s); ollama pull $m >/dev/null 2>&1; echo "pull $(( $(date +%s)-s ))s"
+            s=$(date +%s)
+            curl -s localhost:11434/v1/chat/completions -d "$(jq -n --arg m "$m" --arg p "$P" '{model:$m,temperature:0,messages:[{role:"user",content:$p}]}')" | jq -r '.choices[0].message.content'
+            echo "infer $(( $(date +%s)-s ))s"
           done
