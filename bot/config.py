@@ -61,12 +61,17 @@ GDELT_QUERY = ('(injured OR injury OR "ruled out" OR suspended OR resigns OR res
                'OR withdraws OR arrested OR indicted OR ceasefire OR wins OR elected) sourcelang:english')
 
 # --- brain ---
-# "llm"   = local Ollama model (runs inside the GitHub Actions shift, free, no limits).
-#           Any OpenAI-compatible URL works. If unreachable -> rule brain fallback.
+# "llm"   = LLM backends tried in order; a backend is skipped when its key is missing,
+#           its daily cap is hit, it is rate limited (429) or unreachable. All fail -> rule brain.
 # "rules" = free keyword heuristics only.
 BRAIN = "llm"
-LLM_URL = os.environ.get("LLM_URL", "http://localhost:11434/v1/chat/completions")
-LLM_MODEL = os.environ.get("LLM_MODEL", "qwen2.5:7b")
-LLM_API_KEY_ENV = "LLM_API_KEY"                    # optional
-LLM_MIN_INTERVAL = 0                               # seconds between calls (raise for rate-limited APIs)
-LLM_DAILY_CAP = 3000
+LLM_BACKENDS = [
+    {"name": "groq-120b", "url": "https://api.groq.com/openai/v1/chat/completions",
+     "model": "openai/gpt-oss-120b", "key_env": "GROQ_API_KEY", "daily_cap": 950,
+     "extra": {"reasoning_effort": "low"}},
+    {"name": "groq-20b", "url": "https://api.groq.com/openai/v1/chat/completions",
+     "model": "openai/gpt-oss-20b", "key_env": "GROQ_API_KEY", "daily_cap": 950,
+     "extra": {"reasoning_effort": "low"}},
+    {"name": "ollama", "url": "http://localhost:11434/v1/chat/completions",   # started by ci/ollama.sh
+     "model": os.environ.get("LLM_MODEL", "qwen2.5:7b"), "daily_cap": 100000, "timeout": 180},
+]

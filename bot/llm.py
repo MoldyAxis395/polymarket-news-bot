@@ -33,44 +33,63 @@ class LLMBrain:
 
     def __init__(self, fallback):
         self.fallback = fallback
-        self.key = os.environ.get(config.LLM_API_KEY_ENV, "")
-        self.last_call = 0.0
-        self.usage = {}
+        self.cooldown = {}   # backend name -> unix time until which it is skipped
+        self.last_backend = None
+        self.usage = {}      # {"day": "YYYY-MM-DD", "<backend>": calls}
         if USAGE.exists():
             try:
                 self.usage = json.loads(USAGE.read_text())
             except Exception:
                 pass
+        self.backends = [b for b in config.LLM_BACKENDS if not b.get("key_env") or os.environ.get(b["key_env"])]
 
     # ---------- plumbing ----------
     def _today(self):
         return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
+    def _count_call(self, name):
+        if self.usage.get("day") != self._today():
+            self.usage = {"day": self._today()}
+        self.usage[name] = self.usage.get(name, 0) + 1
+        USAGE.write_text(json.dumps(self.usage))
+
     def calls_today(self):
-        return self.usage.get(self._today(), 0)
+        if self.usage.get("day") != self._today():
+            return 0
+        return sum(v for k, v in self.usage.items() if k != "day")
 
     def _ask(self, prompt):
-        """Returns parsed JSON dict, or None on any failure / budget exhausted."""
-        if self.calls_today() >= config.LLM_DAILY_CAP:
-            return None
-        wait = config.LLM_MIN_INTERVAL - (time.time() - self.last_call)
-        if wait > 0:
-            time.sleep(wait)
-        self.last_call = time.time()
-        day = self._today()
-        self.usage = {day: self.usage.get(day, 0) + 1}
-        USAGE.write_text(json.dumps(self.usage))
-        headers = {"Authorization": f"Bearer {self.key}"} if self.key else {}
-        try:
-            r = requests.post(config.LLM_URL, timeout=180, headers=headers, json={
-                "model": config.LLM_MODEL, "temperature": 0,
-                "response_format": {"type": "json_object"},
-                "messages": [{"role": "user", "content": prompt}]})
-            r.raise_for_status()
-            txt = r.json()["choices"][0]["message"]["content"]
-            return json.loads(txt[txt.find("{"): txt.rfind("}") + 1])
-        except Exception:
-            return None
+        """Try backends in order (fast cloud first, local last). Parsed JSON dict, or None."""
+        for b in self.backends:
+            name = b["name"]
+            if time.time() < self.cooldown.get(name, 0):
+                continue
+            if self.usage.get("day") == self._today() and self.usage.get(name, 0) >= b["daily_cap"]:
+                continue
+            headers = {"Authorization": f"Bearer {os.environ[b['key_env']]}"} if b.get("key_env") else {}
+            try:
+                r = requests.post(b["url"], timeout=b.get("timeout", 60), headers=headers, json={
+                    "model": b["model"], "temperature": 0, "response_format": {"type": "json_object"},
+                    "messages": [{"role": "user", "content": prompt}], **b.get("extra", {})})
+            except requests.exceptions.RequestException:
+                self.cooldown[name] = time.time() + 300  # down/unreachable: skip for 5 min
+                continue
+            self._count_call(name)
+            if r.status_code == 429:  # rate limited: skip until it resets
+                try:
+                    wait = float(r.headers.get("retry-after", 60))
+                except ValueError:
+                    wait = 60
+                self.cooldown[name] = time.time() + wait
+                continue
+            try:
+                r.raise_for_status()
+                txt = r.json()["choices"][0]["message"]["content"]
+                self.last_backend = name
+                return json.loads(txt[txt.find("{"): txt.rfind("}") + 1])
+            except Exception:
+                continue
+        return None
 
     # ---------- brain API ----------
     def worth_asking(self, item):
@@ -120,6 +139,7 @@ class LLMBrain:
             j = int(d["outcome"])
             if j not in (0, 1):
                 return []
-            return [Signal(m, j, float(d.get("confidence", 0)), "llm: " + str(d.get("reason", ""))[:200])]
+            return [Signal(m, j, float(d.get("confidence", 0)),
+                           f"llm[{self.last_backend}]: " + str(d.get("reason", ""))[:200])]
         except (ValueError, IndexError, KeyError, TypeError):
             return []
