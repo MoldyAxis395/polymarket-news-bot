@@ -2,7 +2,7 @@
 import json
 import time
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import requests
 
@@ -50,10 +50,13 @@ def _parse_dt(s):
 
 
 def fetch_markets(n=config.MARKETS_TO_INDEX):
-    out, offset, page = [], 0, 500
+    out, offset, page = [], 0, 100  # Gamma caps page size at 100
+    now = datetime.now(timezone.utc)
+    horizon = {"end_date_min": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+               "end_date_max": (now + timedelta(days=config.MAX_DAYS_TO_END)).strftime("%Y-%m-%dT%H:%M:%SZ")}
     while len(out) < n:
         params = {"active": "true", "closed": "false", "limit": page, "offset": offset,
-                  "order": "volume24hr", "ascending": "false"}
+                  "order": "volume24hr", "ascending": "false", **horizon}
         for attempt in range(3):  # Gamma sometimes times out from cloud runners
             try:
                 r = _s.get(f"{GAMMA}/markets", params=params, timeout=30)
@@ -87,7 +90,9 @@ def fetch_markets(n=config.MARKETS_TO_INDEX):
             except Exception:
                 continue
         offset += page
-        time.sleep(0.3)
+        if len(batch) < page:
+            break
+        time.sleep(0.2)
     return out[:n]
 
 

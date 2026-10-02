@@ -1,27 +1,26 @@
-name: llm-test
+name: brain-dryrun
 
 on:
   workflow_dispatch:
+    inputs:
+      minutes:
+        description: "News window (minutes)"
+        default: "180"
 
 permissions:
   contents: read
 
 jobs:
-  test:
+  dryrun:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     steps:
-      - name: Install Ollama
-        run: |
-          curl -fsSL https://ollama.com/install.sh | sh
-          (ollama serve > /tmp/ollama.log 2>&1 &)
-          sleep 5
-      - name: Benchmark models
-        run: |
-          nproc; free -g | head -2
-          P='News: "Lionel Messi ruled out of Argentina next match with hamstring injury". Market: "Argentina vs. Croatia" outcomes ["Argentina","Croatia"]. Also: "D Andre Swift ruled out" and market "Jets vs. Bears" outcomes ["Jets","Bears"]. For EACH, which outcome to BUY? Answer JSON list [{"market":..,"buy":..,"why":..}] only.'
-          for m in qwen2.5:3b qwen2.5:7b llama3.1:8b; do
-            echo "== $m"; s=$(date +%s); ollama pull $m >/dev/null 2>&1; echo "pull $(( $(date +%s)-s ))s"
-            s=$(date +%s)
-            curl -s localhost:11434/v1/chat/completions -d "$(jq -n --arg m "$m" --arg p "$P" '{model:$m,temperature:0,messages:[{role:"user",content:$p}]}')" | jq -r '.choices[0].message.content'
-            echo "infer $(( $(date +%s)-s ))s"
-          done
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Start Ollama
+        run: bash ci/ollama.sh
+      - name: Dry run
+        run: python tools/dryrun.py ${{ inputs.minutes }}

@@ -22,6 +22,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests
+      - name: Start Ollama (local LLM brain)
+        run: bash ci/ollama.sh || echo "ollama failed, bot will use rule brain"
       - name: Run bot for one shift
         env:
           RUN_SECONDS: "20700"       # 5h45m

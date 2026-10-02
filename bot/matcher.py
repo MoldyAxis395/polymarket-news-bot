@@ -128,3 +128,32 @@ class MarketIndex:
                 res.append((m, strength, strong))
         res.sort(key=lambda x: -x[1])
         return res[:k]
+
+    def candidates_loose(self, headline, k=8):
+        """For the LLM brain: any market sharing a rare proper noun (LLM filters the rest)."""
+        ht = set(tokens(headline))
+        proper = proper_tokens(headline)
+        scores = defaultdict(float)
+        matched = defaultdict(set)
+        for w in ht & proper:
+            if self.idf.get(w, 0) < 2.5:
+                continue
+            for i in self.inv.get(w, ()):
+                scores[i] += self.idf[w]
+                matched[i].add(w)
+        best = sorted(scores, key=lambda i: -scores[i])[:k]
+        return [(self.markets[i], scores[i], matched[i]) for i in best]
+
+    def search(self, names, k=8):
+        """Markets whose text contains all tokens of any of `names` (LLM-suggested entities)."""
+        res, seen = [], set()
+        for name in names:
+            nt = set(tokens(str(name)))
+            if not nt:
+                continue
+            for i in sorted(set.intersection(*(self.inv.get(w, set()) for w in nt)),
+                            key=lambda i: -self.markets[i].volume24h):
+                if i not in seen:
+                    seen.add(i)
+                    res.append((self.markets[i], sum(self.idf.get(w, 0) for w in nt), nt))
+        return res[:k]

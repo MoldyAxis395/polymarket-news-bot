@@ -99,7 +99,7 @@ def _is_opponent(title, matched):
 class RuleBrain:
     name = "rules"
 
-    def analyze(self, item, candidates):
+    def analyze(self, item, candidates, index=None):
         neg, pos = _count(item.title, NEG), _count(item.title, POS)
         p = len(pos) - len(neg)
         if p == 0:
@@ -163,43 +163,8 @@ class RuleBrain:
         return (i if pol > 0 else 1 - i), f"outcome '{m.outcomes[i]}' {'good' if pol > 0 else 'bad'}"
 
 
-class LLMBrain:
-    """OpenAI-compatible chat API. Works with Groq (free tier), Gemini, Ollama, OpenRouter..."""
-    name = "llm"
-
-    def __init__(self):
-        self.key = os.environ.get(config.LLM_API_KEY_ENV, "")
-        self.fallback = RuleBrain()
-
-    def analyze(self, item, candidates):
-        if not candidates:
-            return []
-        lines = [f"{i}. {m.question} | outcomes: {m.outcomes} | prices: {m.prices}"
-                 for i, (m, _, _) in enumerate(candidates)]
-        prompt = (
-            "You trade prediction markets on breaking news. Headline:\n"
-            f"\"{item.title}\"\n{item.summary}\n\nCandidate markets:\n" + "\n".join(lines) +
-            "\n\nIf the headline clearly and materially changes the probability of ONE market, "
-            "answer JSON {\"market\": i, \"outcome\": j, \"confidence\": 0..1, \"reason\": \"...\"} "
-            "where outcome j is the one to BUY because its price should rise. "
-            "Otherwise answer {\"market\": null}. JSON only.")
-        try:
-            r = requests.post(f"{config.LLM_BASE_URL}/chat/completions", timeout=30,
-                              headers={"Authorization": f"Bearer {self.key}"},
-                              json={"model": config.LLM_MODEL, "temperature": 0,
-                                    "messages": [{"role": "user", "content": prompt}]})
-            r.raise_for_status()
-            txt = r.json()["choices"][0]["message"]["content"]
-            d = json.loads(txt[txt.find("{"): txt.rfind("}") + 1])
-        except Exception:
-            return self.fallback.analyze(item, candidates)
-        if d.get("market") is None:
-            return []
-        m = candidates[int(d["market"])][0]
-        return [Signal(m, int(d["outcome"]), float(d.get("confidence", 0)), "llm: " + d.get("reason", ""))]
-
-
 def make_brain():
-    if config.BRAIN == "llm" and os.environ.get(config.LLM_API_KEY_ENV):
-        return LLMBrain()
+    if config.BRAIN == "llm":
+        from .llm import LLMBrain
+        return LLMBrain(RuleBrain())
     return RuleBrain()

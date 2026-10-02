@@ -1,4 +1,5 @@
 """Bot settings. Edit here, restart bot."""
+import os
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -17,7 +18,7 @@ MAX_HOLD_HOURS = 6                  # sell anyway after this
 COOLDOWN_MIN_PER_MARKET = 60        # don't re-enter same market within N min of exit
 
 # --- market filters ---
-MARKETS_TO_INDEX = 1500             # top markets by 24h volume
+MARKETS_TO_INDEX = 2100             # top markets by 24h volume ending within MAX_DAYS_TO_END
 MIN_LIQUIDITY = 3000.0
 MIN_VOLUME_24H = 5000.0
 MAX_SPREAD = 0.04                   # skip if ask - bid > 4c
@@ -60,9 +61,12 @@ GDELT_QUERY = ('(injured OR injury OR "ruled out" OR suspended OR resigns OR res
                'OR withdraws OR arrested OR indicted OR ceasefire OR wins OR elected) sourcelang:english')
 
 # --- brain ---
-# "rules" = free keyword brain (default).
-# "llm"   = any OpenAI-compatible endpoint (Groq free tier, Gemini, local Ollama...).
-BRAIN = "rules"
-LLM_BASE_URL = "https://api.groq.com/openai/v1"   # or http://localhost:11434/v1 for Ollama
-LLM_MODEL = "llama-3.3-70b-versatile"
-LLM_API_KEY_ENV = "LLM_API_KEY"
+# "llm"   = local Ollama model (runs inside the GitHub Actions shift, free, no limits).
+#           Any OpenAI-compatible URL works. If unreachable -> rule brain fallback.
+# "rules" = free keyword heuristics only.
+BRAIN = "llm"
+LLM_URL = os.environ.get("LLM_URL", "http://localhost:11434/v1/chat/completions")
+LLM_MODEL = os.environ.get("LLM_MODEL", "qwen2.5:7b")
+LLM_API_KEY_ENV = "LLM_API_KEY"                    # optional
+LLM_MIN_INTERVAL = 0                               # seconds between calls (raise for rate-limited APIs)
+LLM_DAILY_CAP = 3000

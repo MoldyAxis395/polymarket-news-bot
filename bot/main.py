@@ -58,7 +58,7 @@ def entry_check(sig, idx_prices):
 def write_status(paper, brain, n_markets, n_news):
     STATUS.write_text(json.dumps({
         "updated": datetime.now().isoformat(timespec="seconds"), "mode": config.MODE,
-        "brain": brain.name, "markets_indexed": n_markets, "news_processed": n_news,
+        "brain": brain.name, "llm_calls_today": getattr(brain, "calls_today", lambda: 0)(), "markets_indexed": n_markets, "news_processed": n_news,
         "cash": round(paper.cash, 2), "equity": round(paper.equity(), 2),
         "start": config.START_CASH, "open": paper.positions,
         "closed_count": len(paper.closed),
@@ -104,10 +104,15 @@ def run():
                 last_news = now
                 for item in feed.poll():
                     n_news += 1
-                    cands = index.candidates(item.title)
-                    if not cands:
-                        continue
-                    sigs = brain.analyze(item, cands)
+                    if brain.name == "llm":
+                        if not brain.worth_asking(item):
+                            continue
+                        cands = index.candidates_loose(item.title)
+                    else:
+                        cands = index.candidates(item.title)
+                        if not cands:
+                            continue
+                    sigs = brain.analyze(item, cands, index)
                     if not sigs:
                         continue
                     log(f"NEWS [{item.source} {item.age_min:.0f}m] {item.title}")
