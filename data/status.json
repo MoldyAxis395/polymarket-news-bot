@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-02T17:14:01",
+ "updated": "2026-10-02T17:44:00",
  "mode": "paper",
  "brain": "rules",
- "markets_indexed": 170,
- "news_processed": 11,
+ "markets_indexed": 162,
+ "news_processed": 62,
  "cash": 70.0,
- "equity": 99.1,
+ "equity": 98.85,
  "start": 100.0,
  "open": [
   {
@@ -23,7 +23,7 @@
    "reason": "rules: -[injury] match[bears] outcome 'Bears' bad",
    "conf": 0.55,
    "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.37
+   "last_bid": 0.36
   },
   {
    "market_id": "3871421",
