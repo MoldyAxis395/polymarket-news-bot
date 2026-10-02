@@ -23,4 +23,9 @@ jobs:
       - name: Start Ollama
         run: bash ci/ollama.sh
       - name: Dry run
-        run: python tools/dryrun.py ${{ inputs.minutes }}
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          [ -n "$GROQ_API_KEY" ] && echo "groq key length ${#GROQ_API_KEY}" || echo "groq key EMPTY"
+          python tools/dryrun.py ${{ inputs.minutes }}
+          cat data/llm_usage.json
