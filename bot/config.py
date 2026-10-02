@@ -72,6 +72,6 @@ LLM_BACKENDS = [
     {"name": "groq-20b", "url": "https://api.groq.com/openai/v1/chat/completions",
      "model": "openai/gpt-oss-20b", "key_env": "GROQ_API_KEY", "daily_cap": 950,
      "extra": {"reasoning_effort": "low"}},
-    {"name": "ollama", "url": "http://localhost:11434/v1/chat/completions",   # started by ci/ollama.sh
-     "model": os.environ.get("LLM_MODEL", "qwen2.5:7b"), "daily_cap": 100000, "timeout": 180},
+    # Local Ollama (ci/ollama.sh) was tested 2026-10-02: qwen2.5:7b got 4/8 headlines wrong
+    # (wrong team/sport/direction) and takes ~25 s per call -> not used; rules are the fallback.
 ]
