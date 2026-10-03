@@ -345,3 +345,8 @@
 2026-10-03 11:26:19   BUY India @ 0.590 x16.9 ($10.00) :: West Indies Tour of India ODIs: India vs West Indies
 2026-10-03 11:27:54 indexed 860 markets
 2026-10-03 11:31:39 shift over, state saved
+2026-10-03 12:44:34 === start mode=paper pid=2334 ===
+2026-10-03 12:44:34 brain=llm cash=75.32 open=2
+2026-10-03 12:44:34 resuming with 3305 known news items
+2026-10-03 12:44:57 indexed 825 markets
+2026-10-03 12:45:14   SELL India @ 0.770 (take profit) pnl +3.05 :: West Indies Tour of India ODIs: India vs West Indies

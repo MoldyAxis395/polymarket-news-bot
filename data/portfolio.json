@@ -1,5 +1,5 @@
 {
- "cash": 75.32050846407535,
+ "cash": 88.37135592170246,
  "positions": [
   {
    "market_id": "4752979",
@@ -16,24 +16,7 @@
    "reason": "rules: +[confirmed] match[croatia,england] yes/no q_neg=False opp=False",
    "conf": 0.66,
    "end": "2026-10-03T16:00:00+00:00",
-   "last_bid": 0.55
-  },
-  {
-   "market_id": "5155340",
-   "question": "West Indies Tour of India ODIs: India vs West Indies",
-   "slug": "crint-ind-wst-2026-10-03",
-   "outcome": "India",
-   "token": "58519952555737648255320025880860643969568423032577401123584141288580897516965",
-   "shares": 16.949152542372882,
-   "entry": 0.59,
-   "cost": 10.0,
-   "opened": 1791019579.242696,
-   "opened_iso": "2026-10-03T09:26:19+00:00",
-   "news": "India beat Pakistan to take Asian Games gold",
-   "reason": "rules: +[beat] match[india] outcome 'India' good",
-   "conf": 0.54,
-   "end": "2026-10-10T08:30:00+00:00",
-   "last_bid": 0.62
+   "last_bid": 0.56
   }
  ],
  "closed": [
@@ -288,6 +271,27 @@
    "pnl": -0.15625,
    "why": "max hold",
    "closed_iso": "2026-10-03T06:48:56+00:00"
+  },
+  {
+   "market_id": "5155340",
+   "question": "West Indies Tour of India ODIs: India vs West Indies",
+   "slug": "crint-ind-wst-2026-10-03",
+   "outcome": "India",
+   "token": "58519952555737648255320025880860643969568423032577401123584141288580897516965",
+   "shares": 16.949152542372882,
+   "entry": 0.59,
+   "cost": 10.0,
+   "opened": 1791019579.242696,
+   "opened_iso": "2026-10-03T09:26:19+00:00",
+   "news": "India beat Pakistan to take Asian Games gold",
+   "reason": "rules: +[beat] match[india] outcome 'India' good",
+   "conf": 0.54,
+   "end": "2026-10-10T08:30:00+00:00",
+   "last_bid": 0.77,
+   "exit": 0.77,
+   "pnl": 3.0508474576271194,
+   "why": "take profit",
+   "closed_iso": "2026-10-03T10:45:15+00:00"
   }
  ],
  "cooldown": {
@@ -299,6 +303,7 @@
   "3871411": 1790990277.2691798,
   "3871433": 1791002836.3637323,
   "5172450": 1791010060.5172195,
-  "4815716": 1791011781.7216542
+  "4815716": 1791011781.7216542,
+  "5155340": 1791027915.1204865
  }
 }
