@@ -18,3 +18,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-03T00:48:41+00:00,BUY,Rams vs. Eagles,Rams,15.62,0.6400,10.00,,Eagles rule out DeVonta Smith against Rams with hamstring injury | rules: -[injury] subject 'Eagles' vs 'Rams'
 2026-10-03T01:20:33+00:00,SELL,Jets vs. Bears,Jets,27.03,0.3600,9.73,-0.27,max hold
 2026-10-03T03:47:15+00:00,SELL,Chargers vs. Seahawks,Chargers,40.00,0.2400,9.60,-0.40,max hold
+2026-10-03T04:32:27+00:00,SELL,Cardinals vs. Giants,Cardinals,17.24,0.5600,9.66,-0.34,max hold

@@ -1,31 +1,14 @@
 {
- "updated": "2026-10-03T06:21:32",
+ "updated": "2026-10-03T06:51:34",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 815,
- "news_processed": 23,
- "cash": 67.89,
+ "markets_indexed": 829,
+ "news_processed": 37,
+ "cash": 77.54,
  "equity": 97.09,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "3871421",
-   "question": "Cardinals vs. Giants",
-   "slug": "nfl-ari-nyg-2026-10-04",
-   "outcome": "Cardinals",
-   "token": "72246934062619254858598608942083418119821898480654244040473201735482142304798",
-   "shares": 17.24137931034483,
-   "entry": 0.58,
-   "cost": 10.0,
-   "opened": 1790980332.0163486,
-   "opened_iso": "2026-10-02T22:32:12+00:00",
-   "news": "The New York QB Curse: What Jaxson Dart\u2019s Injury Means for the Giants",
-   "reason": "rules: -[injury] match[giants] outcome 'Giants' bad",
-   "conf": 0.59,
-   "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.56
-  },
   {
    "market_id": "4815716",
    "question": "Alabama vs. Mississippi State",
@@ -61,6 +44,6 @@
    "last_bid": 0.63
   }
  ],
- "closed_count": 8,
- "realized_pnl": -2.11
+ "closed_count": 9,
+ "realized_pnl": -2.46
 }
