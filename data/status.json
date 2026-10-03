@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-03T20:04:48",
+ "updated": "2026-10-03T20:34:54",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 827,
- "news_processed": 108,
- "cash": 68.22,
- "equity": 97.82,
+ "markets_indexed": 839,
+ "news_processed": 149,
+ "cash": 58.22,
+ "equity": 97.5,
  "start": 100.0,
  "open": [
   {
@@ -59,6 +59,23 @@
    "conf": 0.72,
    "end": "2026-10-04T17:00:00+00:00",
    "last_bid": 0.63
+  },
+  {
+   "market_id": "4817439",
+   "question": "Auburn vs. Tennessee",
+   "slug": "cfb-aubrn-tenn-2026-10-03",
+   "outcome": "Auburn",
+   "token": "34297041852393542513226735816156738950949015146141075514769956911839128573019",
+   "shares": 32.25806451612903,
+   "entry": 0.31,
+   "cost": 10.0,
+   "opened": 1791051018.750823,
+   "opened_iso": "2026-10-03T18:10:18+00:00",
+   "news": "Tennessee Football Starting Defensive Back Ruled Out vs. Auburn",
+   "reason": "rules: -[ruled out] subject 'Tennessee' vs 'Auburn'",
+   "conf": 0.72,
+   "end": "2026-10-03T19:30:00+00:00",
+   "last_bid": 0.3
   }
  ],
  "closed_count": 15,
