@@ -1,23 +1,6 @@
 {
- "cash": 48.55741396761133,
+ "cash": 58.287143697341065,
  "positions": [
-  {
-   "market_id": "3871412",
-   "question": "Jets vs. Bears",
-   "slug": "nfl-nyj-chi-2026-10-04",
-   "outcome": "Jets",
-   "token": "48313193319491243668169356003044063173222345500939889625533023969245134692041",
-   "shares": 27.027027027027028,
-   "entry": 0.37,
-   "cost": 10.0,
-   "opened": 1790968823.4387114,
-   "opened_iso": "2026-10-02T19:20:23+00:00",
-   "news": "Chicago Bears Injury Report: 5 Players Ruled Out For Week 4",
-   "reason": "rules: -[ruled out,out for] match[bears] outcome 'Bears' bad",
-   "conf": 0.71,
-   "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.36
-  },
   {
    "market_id": "3871433",
    "question": "Chargers vs. Seahawks",
@@ -213,10 +196,31 @@
    "pnl": -0.13333333333333286,
    "why": "max hold",
    "closed_iso": "2026-10-03T00:17:57+00:00"
+  },
+  {
+   "market_id": "3871412",
+   "question": "Jets vs. Bears",
+   "slug": "nfl-nyj-chi-2026-10-04",
+   "outcome": "Jets",
+   "token": "48313193319491243668169356003044063173222345500939889625533023969245134692041",
+   "shares": 27.027027027027028,
+   "entry": 0.37,
+   "cost": 10.0,
+   "opened": 1790968823.4387114,
+   "opened_iso": "2026-10-02T19:20:23+00:00",
+   "news": "Chicago Bears Injury Report: 5 Players Ruled Out For Week 4",
+   "reason": "rules: -[ruled out,out for] match[bears] outcome 'Bears' bad",
+   "conf": 0.71,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.36,
+   "exit": 0.36,
+   "pnl": -0.2702702702702702,
+   "why": "max hold",
+   "closed_iso": "2026-10-03T01:20:49+00:00"
   }
  ],
  "cooldown": {
-  "3871412": 1790967358.6240659,
+  "3871412": 1790994049.020159,
   "3871421": 1790967620.5415256,
   "4250268": 1790978133.533784,
   "3871423": 1790983455.311521,

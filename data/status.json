@@ -1,31 +1,14 @@
 {
- "updated": "2026-10-03T03:06:16",
+ "updated": "2026-10-03T03:36:22",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 798,
- "news_processed": 166,
- "cash": 48.56,
+ "markets_indexed": 797,
+ "news_processed": 185,
+ "cash": 58.29,
  "equity": 97.26,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "3871412",
-   "question": "Jets vs. Bears",
-   "slug": "nfl-nyj-chi-2026-10-04",
-   "outcome": "Jets",
-   "token": "48313193319491243668169356003044063173222345500939889625533023969245134692041",
-   "shares": 27.027027027027028,
-   "entry": 0.37,
-   "cost": 10.0,
-   "opened": 1790968823.4387114,
-   "opened_iso": "2026-10-02T19:20:23+00:00",
-   "news": "Chicago Bears Injury Report: 5 Players Ruled Out For Week 4",
-   "reason": "rules: -[ruled out,out for] match[bears] outcome 'Bears' bad",
-   "conf": 0.71,
-   "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.36
-  },
   {
    "market_id": "3871433",
    "question": "Chargers vs. Seahawks",
@@ -95,6 +78,6 @@
    "last_bid": 0.63
   }
  ],
- "closed_count": 6,
- "realized_pnl": -1.44
+ "closed_count": 7,
+ "realized_pnl": -1.71
 }
