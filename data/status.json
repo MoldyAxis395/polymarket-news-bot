@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-03T05:51:31",
+ "updated": "2026-10-03T06:21:32",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 821,
- "news_processed": 6,
+ "markets_indexed": 815,
+ "news_processed": 23,
  "cash": 67.89,
- "equity": 97.26,
+ "equity": 97.09,
  "start": 100.0,
  "open": [
   {
@@ -24,7 +24,7 @@
    "reason": "rules: -[injury] match[giants] outcome 'Giants' bad",
    "conf": 0.59,
    "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.57
+   "last_bid": 0.56
   },
   {
    "market_id": "4815716",
