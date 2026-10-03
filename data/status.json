@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-03T02:36:22",
+ "updated": "2026-10-03T03:06:16",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 803,
- "news_processed": 148,
- "cash": 58.56,
- "equity": 97.42,
+ "markets_indexed": 798,
+ "news_processed": 166,
+ "cash": 48.56,
+ "equity": 97.26,
  "start": 100.0,
  "open": [
   {
@@ -76,6 +76,23 @@
    "conf": 0.84,
    "end": "2026-10-03T17:00:00+00:00",
    "last_bid": 0.33
+  },
+  {
+   "market_id": "3871423",
+   "question": "Rams vs. Eagles",
+   "slug": "nfl-la-phi-2026-10-04",
+   "outcome": "Rams",
+   "token": "5221793757117831071159655852450033355086775124068751029399319513607725883166",
+   "shares": 15.625,
+   "entry": 0.64,
+   "cost": 10.0,
+   "opened": 1790988521.7984474,
+   "opened_iso": "2026-10-03T00:48:41+00:00",
+   "news": "Eagles rule out DeVonta Smith against Rams with hamstring injury",
+   "reason": "rules: -[injury] subject 'Eagles' vs 'Rams'",
+   "conf": 0.72,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.63
   }
  ],
  "closed_count": 6,
