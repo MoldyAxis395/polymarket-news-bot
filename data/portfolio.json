@@ -1,23 +1,6 @@
 {
- "cash": 58.37135592170246,
+ "cash": 68.21510592170246,
  "positions": [
-  {
-   "market_id": "3871423",
-   "question": "Rams vs. Eagles",
-   "slug": "nfl-la-phi-2026-10-04",
-   "outcome": "Rams",
-   "token": "5221793757117831071159655852450033355086775124068751029399319513607725883166",
-   "shares": 15.625,
-   "entry": 0.64,
-   "cost": 10.0,
-   "opened": 1791026541.347708,
-   "opened_iso": "2026-10-03T11:22:21+00:00",
-   "news": "Puka Nacua Injury Update: Rams WR \"Will Play\" In Week 4",
-   "reason": "rules: +[will play] match[rams] outcome 'Rams' good",
-   "conf": 0.59,
-   "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.63
-  },
   {
    "market_id": "3871418",
    "question": "Cowboys vs. Texans",
@@ -364,13 +347,34 @@
    "pnl": 0.0,
    "why": "max hold",
    "closed_iso": "2026-10-03T13:57:16+00:00"
+  },
+  {
+   "market_id": "3871423",
+   "question": "Rams vs. Eagles",
+   "slug": "nfl-la-phi-2026-10-04",
+   "outcome": "Rams",
+   "token": "5221793757117831071159655852450033355086775124068751029399319513607725883166",
+   "shares": 15.625,
+   "entry": 0.64,
+   "cost": 10.0,
+   "opened": 1791026541.347708,
+   "opened_iso": "2026-10-03T11:22:21+00:00",
+   "news": "Puka Nacua Injury Update: Rams WR \"Will Play\" In Week 4",
+   "reason": "rules: +[will play] match[rams] outcome 'Rams' good",
+   "conf": 0.59,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.63,
+   "exit": 0.63,
+   "pnl": -0.15625,
+   "why": "max hold",
+   "closed_iso": "2026-10-03T17:22:35+00:00"
   }
  ],
  "cooldown": {
   "3871412": 1790994049.020159,
   "3871421": 1791005548.3782864,
   "4250268": 1790978133.533784,
-  "3871423": 1791013736.433592,
+  "3871423": 1791051755.4974613,
   "3871405": 1790984465.975696,
   "3871411": 1790990277.2691798,
   "3871433": 1791002836.3637323,
