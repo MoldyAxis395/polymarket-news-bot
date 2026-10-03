@@ -24,3 +24,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-03T06:16:21+00:00,SELL,Alabama vs. Mississippi State,Mississippi State,29.41,0.3300,9.71,-0.29,max hold
 2026-10-03T06:48:55+00:00,SELL,Rams vs. Eagles,Rams,15.62,0.6300,9.84,-0.16,max hold
 2026-10-03T07:57:04+00:00,BUY,Will England win on 2026-10-03?,Yes,17.86,0.5600,10.00,,"England XI vs Croatia: Predicted lineup and confirmed team news | rules: +[confirmed] match[croatia,england] yes/no q_neg=False opp=False"
+2026-10-03T09:26:19+00:00,BUY,West Indies Tour of India ODIs: India vs West Indies,India,16.95,0.5900,10.00,,India beat Pakistan to take Asian Games gold | rules: +[beat] match[india] outcome 'India' good
