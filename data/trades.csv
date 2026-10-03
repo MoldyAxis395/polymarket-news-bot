@@ -13,3 +13,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-02T22:24:14+00:00,SELL,Rams vs. Eagles,Rams,15.62,0.6300,9.84,-0.16,max hold
 2026-10-02T22:32:12+00:00,BUY,Cardinals vs. Giants,Cardinals,17.24,0.5800,10.00,,The New York QB Curse: What Jaxson Dart’s Injury Means for the Giants | rules: -[injury] match[giants] outcome 'Giants' bad
 2026-10-02T22:41:05+00:00,SELL,Colts vs. Commanders,Colts,15.38,0.6500,10.00,+0.00,max hold
+2026-10-03T00:16:10+00:00,BUY,Alabama vs. Mississippi State,Mississippi State,29.41,0.3400,10.00,,"Friday Availability Report: Alabama OL ruled out for game at Mississippi State | rules: -[ruled out,out for] subject 'Alabama' vs 'Mississippi State'"
+2026-10-03T00:17:56+00:00,SELL,Patriots vs. Bills,Bills,13.33,0.7400,9.87,-0.13,max hold

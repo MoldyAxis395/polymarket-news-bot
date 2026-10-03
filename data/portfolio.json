@@ -1,23 +1,6 @@
 {
- "cash": 58.690747300944665,
+ "cash": 58.55741396761133,
  "positions": [
-  {
-   "market_id": "3871411",
-   "question": "Patriots vs. Bills",
-   "slug": "nfl-ne-buf-2026-10-04",
-   "outcome": "Bills",
-   "token": "15787281545209094830506007568300481024119366525905311364292947040850746897112",
-   "shares": 13.333333333333334,
-   "entry": 0.75,
-   "cost": 10.0,
-   "opened": 1790965068.150573,
-   "opened_iso": "2026-10-02T18:17:48+00:00",
-   "news": "Patriots takeaways: Christian Gonzalez, Christian Barmore ruled out vs. Buffalo Bills",
-   "reason": "rules: -[ruled out] subject 'Patriots' vs 'Bills'",
-   "conf": 0.72,
-   "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.74
-  },
   {
    "market_id": "3871412",
    "question": "Jets vs. Bears",
@@ -68,6 +51,23 @@
    "conf": 0.59,
    "end": "2026-10-04T17:00:00+00:00",
    "last_bid": 0.57
+  },
+  {
+   "market_id": "4815716",
+   "question": "Alabama vs. Mississippi State",
+   "slug": "cfb-ala-mspst-2026-10-03",
+   "outcome": "Mississippi State",
+   "token": "197305954639902228770890798441414374970161195621294956348257526059797587900",
+   "shares": 29.41176470588235,
+   "entry": 0.34,
+   "cost": 10.0,
+   "opened": 1790986570.095797,
+   "opened_iso": "2026-10-03T00:16:10+00:00",
+   "news": "Friday Availability Report: Alabama OL ruled out for game at Mississippi State",
+   "reason": "rules: -[ruled out,out for] subject 'Alabama' vs 'Mississippi State'",
+   "conf": 0.84,
+   "end": "2026-10-03T17:00:00+00:00",
+   "last_bid": 0.33
   }
  ],
  "closed": [
@@ -175,6 +175,27 @@
    "pnl": 0.0,
    "why": "max hold",
    "closed_iso": "2026-10-02T22:41:05+00:00"
+  },
+  {
+   "market_id": "3871411",
+   "question": "Patriots vs. Bills",
+   "slug": "nfl-ne-buf-2026-10-04",
+   "outcome": "Bills",
+   "token": "15787281545209094830506007568300481024119366525905311364292947040850746897112",
+   "shares": 13.333333333333334,
+   "entry": 0.75,
+   "cost": 10.0,
+   "opened": 1790965068.150573,
+   "opened_iso": "2026-10-02T18:17:48+00:00",
+   "news": "Patriots takeaways: Christian Gonzalez, Christian Barmore ruled out vs. Buffalo Bills",
+   "reason": "rules: -[ruled out] subject 'Patriots' vs 'Bills'",
+   "conf": 0.72,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.74,
+   "exit": 0.74,
+   "pnl": -0.13333333333333286,
+   "why": "max hold",
+   "closed_iso": "2026-10-03T00:17:57+00:00"
   }
  ],
  "cooldown": {
@@ -182,6 +203,7 @@
   "3871421": 1790967620.5415256,
   "4250268": 1790978133.533784,
   "3871423": 1790983455.311521,
-  "3871405": 1790984465.975696
+  "3871405": 1790984465.975696,
+  "3871411": 1790990277.2691798
  }
 }
