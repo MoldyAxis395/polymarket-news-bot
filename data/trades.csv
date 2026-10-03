@@ -42,3 +42,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-03T19:49:17+00:00,BUY,Cowboys vs. Texans,Texans,16.95,0.5900,10.00,,"Cowboys Killer? Dallas Makes 2 Roster Moves, Catches Major Injury Break vs. Texans | rules: -[injury] subject 'Cowboys' vs 'Texans'"
 2026-10-03T19:53:59+00:00,BUY,Falcons vs. Saints,Saints,18.52,0.5400,10.00,,Falcons list 3 players questionable for “Monday Night Football” bout at Saints | rules: -[questionable] subject 'Falcons' vs 'Saints'
 2026-10-03T22:15:43+00:00,SELL,Jets vs. Bears,Bears,15.62,0.6300,9.84,-0.16,max hold
+2026-10-03T22:36:30+00:00,BUY,Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage,Aurora Gaming,25.00,0.4000,10.00,,Saints D Declares Trio Out for Falcons in Saturday Injury Report | rules: -[out for] match[falcons] outcome 'Team Falcons' bad
+2026-10-03T22:36:30+00:00,BUY,Will the New York Yankees win the 2026 World Series?,No,11.49,0.8700,10.00,,"Yankees’ Aaron Judge Left Off AL Division Series Roster Due to Injury | rules: -[injury] match[series,yankees] yes/no q_neg=False opp=False"
