@@ -1,31 +1,14 @@
 {
- "updated": "2026-10-03T04:36:37",
+ "updated": "2026-10-03T05:06:30",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 815,
- "news_processed": 221,
- "cash": 58.29,
+ "markets_indexed": 819,
+ "news_processed": 235,
+ "cash": 67.89,
  "equity": 97.26,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "3871433",
-   "question": "Chargers vs. Seahawks",
-   "slug": "nfl-lac-sea-2026-10-04",
-   "outcome": "Chargers",
-   "token": "32844225437031105825258751886599297875075257671629157313281070372436622176852",
-   "shares": 40.0,
-   "entry": 0.25,
-   "cost": 10.0,
-   "opened": 1790975142.341556,
-   "opened_iso": "2026-10-02T21:05:42+00:00",
-   "news": "Seahawks Injury Report: Price out, 2 questionable vs Chargers",
-   "reason": "rules: -[questionable] subject 'Seahawks' vs 'Chargers'",
-   "conf": 0.72,
-   "end": "2026-10-04T20:25:00+00:00",
-   "last_bid": 0.24
-  },
   {
    "market_id": "3871421",
    "question": "Cardinals vs. Giants",
@@ -78,6 +61,6 @@
    "last_bid": 0.63
   }
  ],
- "closed_count": 7,
- "realized_pnl": -1.71
+ "closed_count": 8,
+ "realized_pnl": -2.11
 }

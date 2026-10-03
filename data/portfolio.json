@@ -1,23 +1,6 @@
 {
- "cash": 58.287143697341065,
+ "cash": 67.88714369734106,
  "positions": [
-  {
-   "market_id": "3871433",
-   "question": "Chargers vs. Seahawks",
-   "slug": "nfl-lac-sea-2026-10-04",
-   "outcome": "Chargers",
-   "token": "32844225437031105825258751886599297875075257671629157313281070372436622176852",
-   "shares": 40.0,
-   "entry": 0.25,
-   "cost": 10.0,
-   "opened": 1790975142.341556,
-   "opened_iso": "2026-10-02T21:05:42+00:00",
-   "news": "Seahawks Injury Report: Price out, 2 questionable vs Chargers",
-   "reason": "rules: -[questionable] subject 'Seahawks' vs 'Chargers'",
-   "conf": 0.72,
-   "end": "2026-10-04T20:25:00+00:00",
-   "last_bid": 0.24
-  },
   {
    "market_id": "3871421",
    "question": "Cardinals vs. Giants",
@@ -217,6 +200,27 @@
    "pnl": -0.2702702702702702,
    "why": "max hold",
    "closed_iso": "2026-10-03T01:20:49+00:00"
+  },
+  {
+   "market_id": "3871433",
+   "question": "Chargers vs. Seahawks",
+   "slug": "nfl-lac-sea-2026-10-04",
+   "outcome": "Chargers",
+   "token": "32844225437031105825258751886599297875075257671629157313281070372436622176852",
+   "shares": 40.0,
+   "entry": 0.25,
+   "cost": 10.0,
+   "opened": 1790975142.341556,
+   "opened_iso": "2026-10-02T21:05:42+00:00",
+   "news": "Seahawks Injury Report: Price out, 2 questionable vs Chargers",
+   "reason": "rules: -[questionable] subject 'Seahawks' vs 'Chargers'",
+   "conf": 0.72,
+   "end": "2026-10-04T20:25:00+00:00",
+   "last_bid": 0.24,
+   "exit": 0.24,
+   "pnl": -0.40000000000000036,
+   "why": "max hold",
+   "closed_iso": "2026-10-03T03:05:48+00:00"
   }
  ],
  "cooldown": {
@@ -225,6 +229,7 @@
   "4250268": 1790978133.533784,
   "3871423": 1790983455.311521,
   "3871405": 1790984465.975696,
-  "3871411": 1790990277.2691798
+  "3871411": 1790990277.2691798,
+  "3871433": 1791000348.4343874
  }
 }
