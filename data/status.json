@@ -1,31 +1,14 @@
 {
- "updated": "2026-10-03T20:34:54",
+ "updated": "2026-10-03T21:04:48",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 839,
- "news_processed": 149,
- "cash": 58.22,
- "equity": 97.5,
+ "markets_indexed": 821,
+ "news_processed": 180,
+ "cash": 57.98,
+ "equity": 97.99,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "3871418",
-   "question": "Cowboys vs. Texans",
-   "slug": "nfl-dal-hou-2026-10-04",
-   "outcome": "Cowboys",
-   "token": "108653009756878287304893015674356809964287093182199342345923641842454304788128",
-   "shares": 23.80952380952381,
-   "entry": 0.42,
-   "cost": 10.0,
-   "opened": 1791030959.8644073,
-   "opened_iso": "2026-10-03T12:35:59+00:00",
-   "news": "Texans Injury Round Up: Final Injury Report for Week 4 vs. Cowboys",
-   "reason": "rules: -[injury] subject 'Texans' vs 'Cowboys'",
-   "conf": 0.72,
-   "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.41
-  },
   {
    "market_id": "3871405",
    "question": "Colts vs. Commanders",
@@ -75,9 +58,26 @@
    "reason": "rules: -[ruled out] subject 'Tennessee' vs 'Auburn'",
    "conf": 0.72,
    "end": "2026-10-03T19:30:00+00:00",
-   "last_bid": 0.3
+   "last_bid": 0.32
+  },
+  {
+   "market_id": "4816710",
+   "question": "Louisville vs. NC State",
+   "slug": "cfb-lou-ncst-2026-10-03",
+   "outcome": "Louisville",
+   "token": "67059719769294081355683158613387778224171745947809838310884285372733122683010",
+   "shares": 15.15151515151515,
+   "entry": 0.66,
+   "cost": 10.0,
+   "opened": 1791052679.5215285,
+   "opened_iso": "2026-10-03T18:37:59+00:00",
+   "news": "Cam Fancher injury update: Michigan State loses backup QB vs Wisconsin",
+   "reason": "rules: -[loses] match[state] outcome 'NC State' bad",
+   "conf": 0.52,
+   "end": "2026-10-03T19:30:00+00:00",
+   "last_bid": 0.65
   }
  ],
- "closed_count": 15,
- "realized_pnl": -1.78
+ "closed_count": 16,
+ "realized_pnl": -2.02
 }

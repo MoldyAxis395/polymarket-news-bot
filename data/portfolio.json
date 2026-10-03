@@ -1,23 +1,6 @@
 {
- "cash": 58.21510592170246,
+ "cash": 57.97701068360722,
  "positions": [
-  {
-   "market_id": "3871418",
-   "question": "Cowboys vs. Texans",
-   "slug": "nfl-dal-hou-2026-10-04",
-   "outcome": "Cowboys",
-   "token": "108653009756878287304893015674356809964287093182199342345923641842454304788128",
-   "shares": 23.80952380952381,
-   "entry": 0.42,
-   "cost": 10.0,
-   "opened": 1791030959.8644073,
-   "opened_iso": "2026-10-03T12:35:59+00:00",
-   "news": "Texans Injury Round Up: Final Injury Report for Week 4 vs. Cowboys",
-   "reason": "rules: -[injury] subject 'Texans' vs 'Cowboys'",
-   "conf": 0.72,
-   "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.41
-  },
   {
    "market_id": "3871405",
    "question": "Colts vs. Commanders",
@@ -67,7 +50,24 @@
    "reason": "rules: -[ruled out] subject 'Tennessee' vs 'Auburn'",
    "conf": 0.72,
    "end": "2026-10-03T19:30:00+00:00",
-   "last_bid": 0.3
+   "last_bid": 0.32
+  },
+  {
+   "market_id": "4816710",
+   "question": "Louisville vs. NC State",
+   "slug": "cfb-lou-ncst-2026-10-03",
+   "outcome": "Louisville",
+   "token": "67059719769294081355683158613387778224171745947809838310884285372733122683010",
+   "shares": 15.15151515151515,
+   "entry": 0.66,
+   "cost": 10.0,
+   "opened": 1791052679.5215285,
+   "opened_iso": "2026-10-03T18:37:59+00:00",
+   "news": "Cam Fancher injury update: Michigan State loses backup QB vs Wisconsin",
+   "reason": "rules: -[loses] match[state] outcome 'NC State' bad",
+   "conf": 0.52,
+   "end": "2026-10-03T19:30:00+00:00",
+   "last_bid": 0.65
   }
  ],
  "closed": [
@@ -385,6 +385,27 @@
    "pnl": -0.15625,
    "why": "max hold",
    "closed_iso": "2026-10-03T17:22:35+00:00"
+  },
+  {
+   "market_id": "3871418",
+   "question": "Cowboys vs. Texans",
+   "slug": "nfl-dal-hou-2026-10-04",
+   "outcome": "Cowboys",
+   "token": "108653009756878287304893015674356809964287093182199342345923641842454304788128",
+   "shares": 23.80952380952381,
+   "entry": 0.42,
+   "cost": 10.0,
+   "opened": 1791030959.8644073,
+   "opened_iso": "2026-10-03T12:35:59+00:00",
+   "news": "Texans Injury Round Up: Final Injury Report for Week 4 vs. Cowboys",
+   "reason": "rules: -[injury] subject 'Texans' vs 'Cowboys'",
+   "conf": 0.72,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.41,
+   "exit": 0.41,
+   "pnl": -0.23809523809523903,
+   "why": "max hold",
+   "closed_iso": "2026-10-03T18:36:18+00:00"
   }
  ],
  "cooldown": {
@@ -398,6 +419,7 @@
   "5172450": 1791010060.5172195,
   "4815716": 1791011781.7216542,
   "5155340": 1791027915.1204865,
-  "4752979": 1791039436.4844685
+  "4752979": 1791039436.4844685,
+  "3871418": 1791056178.8450549
  }
 }
