@@ -19,3 +19,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-03T01:20:33+00:00,SELL,Jets vs. Bears,Jets,27.03,0.3600,9.73,-0.27,max hold
 2026-10-03T03:47:15+00:00,SELL,Chargers vs. Seahawks,Chargers,40.00,0.2400,9.60,-0.40,max hold
 2026-10-03T04:32:27+00:00,SELL,Cardinals vs. Giants,Cardinals,17.24,0.5600,9.66,-0.34,max hold
+2026-10-03T05:47:38+00:00,BUY,Asian Games Men: Pakistan vs India,Pakistan,68.57,0.1458,10.00,,"Asian Games 2026: India's Yash Kumar Chauhan suspended after failed dope test | rules: -[suspended,failed] match[asian,india] outcome 'India' bad"
+2026-10-03T05:47:40+00:00,SELL,Asian Games Men: Pakistan vs India,Pakistan,68.57,0.1200,8.23,-1.77,stop loss

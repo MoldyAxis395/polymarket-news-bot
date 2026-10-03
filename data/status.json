@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-03T07:21:39",
+ "updated": "2026-10-03T07:51:45",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 828,
- "news_processed": 55,
- "cash": 77.54,
- "equity": 97.09,
+ "markets_indexed": 830,
+ "news_processed": 66,
+ "cash": 75.77,
+ "equity": 95.32,
  "start": 100.0,
  "open": [
   {
@@ -44,6 +44,6 @@
    "last_bid": 0.63
   }
  ],
- "closed_count": 9,
- "realized_pnl": -2.46
+ "closed_count": 10,
+ "realized_pnl": -4.23
 }

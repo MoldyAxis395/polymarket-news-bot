@@ -1,5 +1,5 @@
 {
- "cash": 77.54231611113417,
+ "cash": 75.77087611113417,
  "positions": [
   {
    "market_id": "4815716",
@@ -225,6 +225,27 @@
    "pnl": -0.344827586206895,
    "why": "max hold",
    "closed_iso": "2026-10-03T04:32:28+00:00"
+  },
+  {
+   "market_id": "5172450",
+   "question": "Asian Games Men: Pakistan vs India",
+   "slug": "crint-pak-ind-2026-10-03",
+   "outcome": "Pakistan",
+   "token": "19945920247035479978339423722369779445170966463264451004148212703627172475975",
+   "shares": 68.57133333333334,
+   "entry": 0.14583353587991094,
+   "cost": 10.0,
+   "opened": 1791006458.9172995,
+   "opened_iso": "2026-10-03T05:47:38+00:00",
+   "news": "Asian Games 2026: India's Yash Kumar Chauhan suspended after failed dope test",
+   "reason": "rules: -[suspended,failed] match[asian,india] outcome 'India' bad",
+   "conf": 0.83,
+   "end": "2026-10-10T04:30:00+00:00",
+   "last_bid": 0.12,
+   "exit": 0.12000000000000001,
+   "pnl": -1.7714399999999983,
+   "why": "stop loss",
+   "closed_iso": "2026-10-03T05:47:40+00:00"
   }
  ],
  "cooldown": {
@@ -234,6 +255,7 @@
   "3871423": 1790983455.311521,
   "3871405": 1790984465.975696,
   "3871411": 1790990277.2691798,
-  "3871433": 1791002836.3637323
+  "3871433": 1791002836.3637323,
+  "5172450": 1791010060.5172195
  }
 }
