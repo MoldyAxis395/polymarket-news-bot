@@ -1,23 +1,6 @@
 {
- "cash": 58.14807617725336,
+ "cash": 57.99182617725336,
  "positions": [
-  {
-   "market_id": "3871412",
-   "question": "Jets vs. Bears",
-   "slug": "nfl-nyj-chi-2026-10-04",
-   "outcome": "Bears",
-   "token": "42545377507742507274548049495279421819492695843741695973228817396862882253801",
-   "shares": 15.625,
-   "entry": 0.64,
-   "cost": 10.0,
-   "opened": 1791037247.2959893,
-   "opened_iso": "2026-10-03T14:20:47+00:00",
-   "news": "Breece Hall & 3 starters out: How injury crisis affects Jets vs. Bears Week 4 lines",
-   "reason": "rules: -[injury] subject 'Jets' vs 'Bears'",
-   "conf": 0.72,
-   "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.63
-  },
   {
    "market_id": "3871423",
    "question": "Rams vs. Eagles",
@@ -68,6 +51,23 @@
    "conf": 0.72,
    "end": "2026-10-06T00:15:00+00:00",
    "last_bid": 0.53
+  },
+  {
+   "market_id": "3871424",
+   "question": "Packers vs. Buccaneers",
+   "slug": "nfl-gb-tb-2026-10-04",
+   "outcome": "Buccaneers",
+   "token": "56801310133355853536472057522244889248711141845236110861397080679588241722213",
+   "shares": 24.390243902439025,
+   "entry": 0.41,
+   "cost": 10.0,
+   "opened": 1791058226.8416057,
+   "opened_iso": "2026-10-03T20:10:26+00:00",
+   "news": "Green Bay Packers place Warren Brinson on injured reserve",
+   "reason": "rules: -[injured] match[packers] outcome 'Packers' bad",
+   "conf": 0.59,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.4
   }
  ],
  "closed": [
@@ -469,10 +469,31 @@
    "pnl": 0.0,
    "why": "max hold",
    "closed_iso": "2026-10-03T19:30:58+00:00"
+  },
+  {
+   "market_id": "3871412",
+   "question": "Jets vs. Bears",
+   "slug": "nfl-nyj-chi-2026-10-04",
+   "outcome": "Bears",
+   "token": "42545377507742507274548049495279421819492695843741695973228817396862882253801",
+   "shares": 15.625,
+   "entry": 0.64,
+   "cost": 10.0,
+   "opened": 1791037247.2959893,
+   "opened_iso": "2026-10-03T14:20:47+00:00",
+   "news": "Breece Hall & 3 starters out: How injury crisis affects Jets vs. Bears Week 4 lines",
+   "reason": "rules: -[injury] subject 'Jets' vs 'Bears'",
+   "conf": 0.72,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.63,
+   "exit": 0.63,
+   "pnl": -0.15625,
+   "why": "max hold",
+   "closed_iso": "2026-10-03T20:21:00+00:00"
   }
  ],
  "cooldown": {
-  "3871412": 1790994049.020159,
+  "3871412": 1791062460.5996919,
   "3871421": 1791005548.3782864,
   "4250268": 1790978133.533784,
   "3871423": 1791051755.4974613,

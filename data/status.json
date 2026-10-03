@@ -1,31 +1,14 @@
 {
- "updated": "2026-10-03T22:05:00",
+ "updated": "2026-10-03T22:34:32",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 800,
- "news_processed": 236,
- "cash": 58.15,
- "equity": 97.48,
+ "markets_indexed": 785,
+ "news_processed": 263,
+ "cash": 57.99,
+ "equity": 97.24,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "3871412",
-   "question": "Jets vs. Bears",
-   "slug": "nfl-nyj-chi-2026-10-04",
-   "outcome": "Bears",
-   "token": "42545377507742507274548049495279421819492695843741695973228817396862882253801",
-   "shares": 15.625,
-   "entry": 0.64,
-   "cost": 10.0,
-   "opened": 1791037247.2959893,
-   "opened_iso": "2026-10-03T14:20:47+00:00",
-   "news": "Breece Hall & 3 starters out: How injury crisis affects Jets vs. Bears Week 4 lines",
-   "reason": "rules: -[injury] subject 'Jets' vs 'Bears'",
-   "conf": 0.72,
-   "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.63
-  },
   {
    "market_id": "3871423",
    "question": "Rams vs. Eagles",
@@ -76,8 +59,25 @@
    "conf": 0.72,
    "end": "2026-10-06T00:15:00+00:00",
    "last_bid": 0.53
+  },
+  {
+   "market_id": "3871424",
+   "question": "Packers vs. Buccaneers",
+   "slug": "nfl-gb-tb-2026-10-04",
+   "outcome": "Buccaneers",
+   "token": "56801310133355853536472057522244889248711141845236110861397080679588241722213",
+   "shares": 24.390243902439025,
+   "entry": 0.41,
+   "cost": 10.0,
+   "opened": 1791058226.8416057,
+   "opened_iso": "2026-10-03T20:10:26+00:00",
+   "news": "Green Bay Packers place Warren Brinson on injured reserve",
+   "reason": "rules: -[injured] match[packers] outcome 'Packers' bad",
+   "conf": 0.59,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.4
   }
  ],
- "closed_count": 19,
- "realized_pnl": -1.85
+ "closed_count": 20,
+ "realized_pnl": -2.01
 }
