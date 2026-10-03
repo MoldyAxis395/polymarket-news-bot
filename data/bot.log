@@ -398,3 +398,12 @@
 2026-10-03 16:45:34 indexed 853 markets
 2026-10-03 16:47:55 NEWS [gnews_injury 5m] Patriots CB Christian Gonzalez out with shoulder injury vs Bills
 2026-10-03 16:47:55   skip Bills :: Patriots vs. Bills (illiquid)
+2026-10-03 16:55:35 indexed 854 markets
+2026-10-03 16:57:11 NEWS [gnews_injury 2m] England XI vs Croatia: Starting lineup and confirmed team news
+2026-10-03 16:57:11   skip Yes :: Exact Score: Croatia 3 - 3 England? (ask 0.016 out of range)
+2026-10-03 16:57:11   skip Yes :: Will England win on 2026-10-03? (cooldown)
+2026-10-03 16:57:11   skip Yes :: Croatia vs. England: Both Teams to Score in First Half (illiquid)
+2026-10-03 17:06:12 indexed 852 markets
+2026-10-03 17:16:12 indexed 849 markets
+2026-10-03 17:16:16 NEWS [gnews_injury 5m] Aaron Judge Injury: Impact on ALDS, Yankees, Rays
+2026-10-03 17:16:16   skip No :: Tampa Bay Rays winning after 5 innings? (illiquid)
