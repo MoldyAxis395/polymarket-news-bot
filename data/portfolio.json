@@ -1,23 +1,6 @@
 {
- "cash": 58.37135592170246,
+ "cash": 68.37135592170246,
  "positions": [
-  {
-   "market_id": "4752979",
-   "question": "Will England win on 2026-10-03?",
-   "slug": "unl-hrv-eng-2026-10-03-eng",
-   "outcome": "Yes",
-   "token": "28216570787929077754091402387541496199332411246907975568777153471525339772703",
-   "shares": 17.857142857142854,
-   "entry": 0.56,
-   "cost": 10.0,
-   "opened": 1791014224.84214,
-   "opened_iso": "2026-10-03T07:57:04+00:00",
-   "news": "England XI vs Croatia: Predicted lineup and confirmed team news",
-   "reason": "rules: +[confirmed] match[croatia,england] yes/no q_neg=False opp=False",
-   "conf": 0.66,
-   "end": "2026-10-03T16:00:00+00:00",
-   "last_bid": 0.56
-  },
   {
    "market_id": "3871423",
    "question": "Rams vs. Eagles",
@@ -343,6 +326,27 @@
    "pnl": 3.0508474576271194,
    "why": "take profit",
    "closed_iso": "2026-10-03T10:45:15+00:00"
+  },
+  {
+   "market_id": "4752979",
+   "question": "Will England win on 2026-10-03?",
+   "slug": "unl-hrv-eng-2026-10-03-eng",
+   "outcome": "Yes",
+   "token": "28216570787929077754091402387541496199332411246907975568777153471525339772703",
+   "shares": 17.857142857142854,
+   "entry": 0.56,
+   "cost": 10.0,
+   "opened": 1791014224.84214,
+   "opened_iso": "2026-10-03T07:57:04+00:00",
+   "news": "England XI vs Croatia: Predicted lineup and confirmed team news",
+   "reason": "rules: +[confirmed] match[croatia,england] yes/no q_neg=False opp=False",
+   "conf": 0.66,
+   "end": "2026-10-03T16:00:00+00:00",
+   "last_bid": 0.56,
+   "exit": 0.56,
+   "pnl": 0.0,
+   "why": "max hold",
+   "closed_iso": "2026-10-03T13:57:16+00:00"
   }
  ],
  "cooldown": {
@@ -355,6 +359,7 @@
   "3871433": 1791002836.3637323,
   "5172450": 1791010060.5172195,
   "4815716": 1791011781.7216542,
-  "5155340": 1791027915.1204865
+  "5155340": 1791027915.1204865,
+  "4752979": 1791039436.4844685
  }
 }

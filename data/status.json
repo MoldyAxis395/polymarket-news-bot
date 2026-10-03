@@ -1,31 +1,14 @@
 {
- "updated": "2026-10-03T15:49:41",
+ "updated": "2026-10-03T16:19:37",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 910,
- "news_processed": 162,
- "cash": 58.37,
+ "markets_indexed": 866,
+ "news_processed": 188,
+ "cash": 68.37,
  "equity": 97.83,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "4752979",
-   "question": "Will England win on 2026-10-03?",
-   "slug": "unl-hrv-eng-2026-10-03-eng",
-   "outcome": "Yes",
-   "token": "28216570787929077754091402387541496199332411246907975568777153471525339772703",
-   "shares": 17.857142857142854,
-   "entry": 0.56,
-   "cost": 10.0,
-   "opened": 1791014224.84214,
-   "opened_iso": "2026-10-03T07:57:04+00:00",
-   "news": "England XI vs Croatia: Predicted lineup and confirmed team news",
-   "reason": "rules: +[confirmed] match[croatia,england] yes/no q_neg=False opp=False",
-   "conf": 0.66,
-   "end": "2026-10-03T16:00:00+00:00",
-   "last_bid": 0.56
-  },
   {
    "market_id": "3871423",
    "question": "Rams vs. Eagles",
@@ -78,6 +61,6 @@
    "last_bid": 0.65
   }
  ],
- "closed_count": 13,
+ "closed_count": 14,
  "realized_pnl": -1.63
 }
