@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-03T22:34:32",
+ "updated": "2026-10-03T23:05:01",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 785,
- "news_processed": 263,
+ "markets_indexed": 788,
+ "news_processed": 282,
  "cash": 57.99,
- "equity": 97.24,
+ "equity": 96.99,
  "start": 100.0,
  "open": [
   {
@@ -75,7 +75,7 @@
    "reason": "rules: -[injured] match[packers] outcome 'Packers' bad",
    "conf": 0.59,
    "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.4
+   "last_bid": 0.39
   }
  ],
  "closed_count": 20,
