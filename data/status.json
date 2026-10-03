@@ -1,31 +1,14 @@
 {
- "updated": "2026-10-03T07:51:45",
+ "updated": "2026-10-03T08:21:42",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 830,
- "news_processed": 66,
- "cash": 75.77,
+ "markets_indexed": 837,
+ "news_processed": 81,
+ "cash": 85.48,
  "equity": 95.32,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "4815716",
-   "question": "Alabama vs. Mississippi State",
-   "slug": "cfb-ala-mspst-2026-10-03",
-   "outcome": "Mississippi State",
-   "token": "197305954639902228770890798441414374970161195621294956348257526059797587900",
-   "shares": 29.41176470588235,
-   "entry": 0.34,
-   "cost": 10.0,
-   "opened": 1790986570.095797,
-   "opened_iso": "2026-10-03T00:16:10+00:00",
-   "news": "Friday Availability Report: Alabama OL ruled out for game at Mississippi State",
-   "reason": "rules: -[ruled out,out for] subject 'Alabama' vs 'Mississippi State'",
-   "conf": 0.84,
-   "end": "2026-10-03T17:00:00+00:00",
-   "last_bid": 0.33
-  },
   {
    "market_id": "3871423",
    "question": "Rams vs. Eagles",
@@ -44,6 +27,6 @@
    "last_bid": 0.63
   }
  ],
- "closed_count": 10,
- "realized_pnl": -4.23
+ "closed_count": 11,
+ "realized_pnl": -4.52
 }

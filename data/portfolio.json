@@ -1,23 +1,6 @@
 {
- "cash": 75.77087611113417,
+ "cash": 85.47675846407535,
  "positions": [
-  {
-   "market_id": "4815716",
-   "question": "Alabama vs. Mississippi State",
-   "slug": "cfb-ala-mspst-2026-10-03",
-   "outcome": "Mississippi State",
-   "token": "197305954639902228770890798441414374970161195621294956348257526059797587900",
-   "shares": 29.41176470588235,
-   "entry": 0.34,
-   "cost": 10.0,
-   "opened": 1790986570.095797,
-   "opened_iso": "2026-10-03T00:16:10+00:00",
-   "news": "Friday Availability Report: Alabama OL ruled out for game at Mississippi State",
-   "reason": "rules: -[ruled out,out for] subject 'Alabama' vs 'Mississippi State'",
-   "conf": 0.84,
-   "end": "2026-10-03T17:00:00+00:00",
-   "last_bid": 0.33
-  },
   {
    "market_id": "3871423",
    "question": "Rams vs. Eagles",
@@ -246,6 +229,27 @@
    "pnl": -1.7714399999999983,
    "why": "stop loss",
    "closed_iso": "2026-10-03T05:47:40+00:00"
+  },
+  {
+   "market_id": "4815716",
+   "question": "Alabama vs. Mississippi State",
+   "slug": "cfb-ala-mspst-2026-10-03",
+   "outcome": "Mississippi State",
+   "token": "197305954639902228770890798441414374970161195621294956348257526059797587900",
+   "shares": 29.41176470588235,
+   "entry": 0.34,
+   "cost": 10.0,
+   "opened": 1790986570.095797,
+   "opened_iso": "2026-10-03T00:16:10+00:00",
+   "news": "Friday Availability Report: Alabama OL ruled out for game at Mississippi State",
+   "reason": "rules: -[ruled out,out for] subject 'Alabama' vs 'Mississippi State'",
+   "conf": 0.84,
+   "end": "2026-10-03T17:00:00+00:00",
+   "last_bid": 0.33,
+   "exit": 0.33,
+   "pnl": -0.2941176470588225,
+   "why": "max hold",
+   "closed_iso": "2026-10-03T06:16:21+00:00"
   }
  ],
  "cooldown": {
@@ -256,6 +260,7 @@
   "3871405": 1790984465.975696,
   "3871411": 1790990277.2691798,
   "3871433": 1791002836.3637323,
-  "5172450": 1791010060.5172195
+  "5172450": 1791010060.5172195,
+  "4815716": 1791011781.7216542
  }
 }
