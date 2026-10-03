@@ -1,5 +1,5 @@
 {
- "cash": 88.14807617725336,
+ "cash": 58.14807617725336,
  "positions": [
   {
    "market_id": "3871412",
@@ -17,6 +17,57 @@
    "conf": 0.72,
    "end": "2026-10-04T17:00:00+00:00",
    "last_bid": 0.63
+  },
+  {
+   "market_id": "3871423",
+   "question": "Rams vs. Eagles",
+   "slug": "nfl-la-phi-2026-10-04",
+   "outcome": "Rams",
+   "token": "5221793757117831071159655852450033355086775124068751029399319513607725883166",
+   "shares": 15.625,
+   "entry": 0.64,
+   "cost": 10.0,
+   "opened": 1791056819.745159,
+   "opened_iso": "2026-10-03T19:46:59+00:00",
+   "news": "Report: Eagles WR DeVonta Smith (hamstring) to miss multiple games",
+   "reason": "rules: -[to miss] match[eagles] outcome 'Eagles' bad",
+   "conf": 0.59,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.63
+  },
+  {
+   "market_id": "3871418",
+   "question": "Cowboys vs. Texans",
+   "slug": "nfl-dal-hou-2026-10-04",
+   "outcome": "Texans",
+   "token": "3583393485474166686913248297334197319629389088040448613569945943726572499207",
+   "shares": 16.949152542372882,
+   "entry": 0.59,
+   "cost": 10.0,
+   "opened": 1791056957.6481292,
+   "opened_iso": "2026-10-03T19:49:17+00:00",
+   "news": "Cowboys Killer? Dallas Makes 2 Roster Moves, Catches Major Injury Break vs. Texans",
+   "reason": "rules: -[injury] subject 'Cowboys' vs 'Texans'",
+   "conf": 0.72,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.58
+  },
+  {
+   "market_id": "3871438",
+   "question": "Falcons vs. Saints",
+   "slug": "nfl-atl-no-2026-10-06",
+   "outcome": "Saints",
+   "token": "85136895700587472145139044285588726129987300693913705807225547084542225428119",
+   "shares": 18.51851851851852,
+   "entry": 0.54,
+   "cost": 10.000000000000002,
+   "opened": 1791057239.6449864,
+   "opened_iso": "2026-10-03T19:53:59+00:00",
+   "news": "Falcons list 3 players questionable for \u201cMonday Night Football\u201d bout at Saints",
+   "reason": "rules: -[questionable] subject 'Falcons' vs 'Saints'",
+   "conf": 0.72,
+   "end": "2026-10-06T00:15:00+00:00",
+   "last_bid": 0.53
   }
  ],
  "closed": [
