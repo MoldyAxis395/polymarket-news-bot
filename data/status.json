@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-04T01:19:56",
+ "updated": "2026-10-04T01:50:03",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 824,
- "news_processed": 46,
+ "markets_indexed": 834,
+ "news_processed": 64,
  "cash": 47.99,
- "equity": 97.12,
+ "equity": 97.23,
  "start": 100.0,
  "open": [
   {
@@ -92,7 +92,7 @@
    "reason": "rules: -[injury] match[series,yankees] yes/no q_neg=False opp=False",
    "conf": 0.68,
    "end": "2026-10-31T23:55:00+00:00",
-   "last_bid": 0.86
+   "last_bid": 0.87
   }
  ],
  "closed_count": 20,
