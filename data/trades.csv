@@ -22,3 +22,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-03T05:47:38+00:00,BUY,Asian Games Men: Pakistan vs India,Pakistan,68.57,0.1458,10.00,,"Asian Games 2026: India's Yash Kumar Chauhan suspended after failed dope test | rules: -[suspended,failed] match[asian,india] outcome 'India' bad"
 2026-10-03T05:47:40+00:00,SELL,Asian Games Men: Pakistan vs India,Pakistan,68.57,0.1200,8.23,-1.77,stop loss
 2026-10-03T06:16:21+00:00,SELL,Alabama vs. Mississippi State,Mississippi State,29.41,0.3300,9.71,-0.29,max hold
+2026-10-03T06:48:55+00:00,SELL,Rams vs. Eagles,Rams,15.62,0.6300,9.84,-0.16,max hold

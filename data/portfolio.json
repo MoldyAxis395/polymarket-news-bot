@@ -1,24 +1,6 @@
 {
- "cash": 85.47675846407535,
- "positions": [
-  {
-   "market_id": "3871423",
-   "question": "Rams vs. Eagles",
-   "slug": "nfl-la-phi-2026-10-04",
-   "outcome": "Rams",
-   "token": "5221793757117831071159655852450033355086775124068751029399319513607725883166",
-   "shares": 15.625,
-   "entry": 0.64,
-   "cost": 10.0,
-   "opened": 1790988521.7984474,
-   "opened_iso": "2026-10-03T00:48:41+00:00",
-   "news": "Eagles rule out DeVonta Smith against Rams with hamstring injury",
-   "reason": "rules: -[injury] subject 'Eagles' vs 'Rams'",
-   "conf": 0.72,
-   "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.63
-  }
- ],
+ "cash": 95.32050846407535,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -250,13 +232,34 @@
    "pnl": -0.2941176470588225,
    "why": "max hold",
    "closed_iso": "2026-10-03T06:16:21+00:00"
+  },
+  {
+   "market_id": "3871423",
+   "question": "Rams vs. Eagles",
+   "slug": "nfl-la-phi-2026-10-04",
+   "outcome": "Rams",
+   "token": "5221793757117831071159655852450033355086775124068751029399319513607725883166",
+   "shares": 15.625,
+   "entry": 0.64,
+   "cost": 10.0,
+   "opened": 1790988521.7984474,
+   "opened_iso": "2026-10-03T00:48:41+00:00",
+   "news": "Eagles rule out DeVonta Smith against Rams with hamstring injury",
+   "reason": "rules: -[injury] subject 'Eagles' vs 'Rams'",
+   "conf": 0.72,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.63,
+   "exit": 0.63,
+   "pnl": -0.15625,
+   "why": "max hold",
+   "closed_iso": "2026-10-03T06:48:56+00:00"
   }
  ],
  "cooldown": {
   "3871412": 1790994049.020159,
   "3871421": 1791005548.3782864,
   "4250268": 1790978133.533784,
-  "3871423": 1790983455.311521,
+  "3871423": 1791013736.433592,
   "3871405": 1790984465.975696,
   "3871411": 1790990277.2691798,
   "3871433": 1791002836.3637323,
