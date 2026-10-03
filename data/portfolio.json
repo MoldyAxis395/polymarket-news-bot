@@ -1,5 +1,5 @@
 {
- "cash": 88.37135592170246,
+ "cash": 78.37135592170246,
  "positions": [
   {
    "market_id": "4752979",
@@ -17,6 +17,23 @@
    "conf": 0.66,
    "end": "2026-10-03T16:00:00+00:00",
    "last_bid": 0.56
+  },
+  {
+   "market_id": "3871423",
+   "question": "Rams vs. Eagles",
+   "slug": "nfl-la-phi-2026-10-04",
+   "outcome": "Rams",
+   "token": "5221793757117831071159655852450033355086775124068751029399319513607725883166",
+   "shares": 15.625,
+   "entry": 0.64,
+   "cost": 10.0,
+   "opened": 1791026541.347708,
+   "opened_iso": "2026-10-03T11:22:21+00:00",
+   "news": "Puka Nacua Injury Update: Rams WR \"Will Play\" In Week 4",
+   "reason": "rules: +[will play] match[rams] outcome 'Rams' good",
+   "conf": 0.59,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.63
   }
  ],
  "closed": [

@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-03T13:19:24",
+ "updated": "2026-10-03T13:49:19",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 845,
- "news_processed": 42,
- "cash": 88.37,
- "equity": 98.37,
+ "markets_indexed": 854,
+ "news_processed": 68,
+ "cash": 78.37,
+ "equity": 98.22,
  "start": 100.0,
  "open": [
   {
@@ -25,6 +25,23 @@
    "conf": 0.66,
    "end": "2026-10-03T16:00:00+00:00",
    "last_bid": 0.56
+  },
+  {
+   "market_id": "3871423",
+   "question": "Rams vs. Eagles",
+   "slug": "nfl-la-phi-2026-10-04",
+   "outcome": "Rams",
+   "token": "5221793757117831071159655852450033355086775124068751029399319513607725883166",
+   "shares": 15.625,
+   "entry": 0.64,
+   "cost": 10.0,
+   "opened": 1791026541.347708,
+   "opened_iso": "2026-10-03T11:22:21+00:00",
+   "news": "Puka Nacua Injury Update: Rams WR \"Will Play\" In Week 4",
+   "reason": "rules: +[will play] match[rams] outcome 'Rams' good",
+   "conf": 0.59,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.63
   }
  ],
  "closed_count": 13,
