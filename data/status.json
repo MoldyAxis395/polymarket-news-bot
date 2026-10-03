@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-03T14:19:36",
+ "updated": "2026-10-03T14:49:39",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
  "markets_indexed": 927,
- "news_processed": 91,
- "cash": 78.37,
- "equity": 98.22,
+ "news_processed": 113,
+ "cash": 68.37,
+ "equity": 97.98,
  "start": 100.0,
  "open": [
   {
@@ -42,6 +42,23 @@
    "conf": 0.59,
    "end": "2026-10-04T17:00:00+00:00",
    "last_bid": 0.63
+  },
+  {
+   "market_id": "3871418",
+   "question": "Cowboys vs. Texans",
+   "slug": "nfl-dal-hou-2026-10-04",
+   "outcome": "Cowboys",
+   "token": "108653009756878287304893015674356809964287093182199342345923641842454304788128",
+   "shares": 23.80952380952381,
+   "entry": 0.42,
+   "cost": 10.0,
+   "opened": 1791030959.8644073,
+   "opened_iso": "2026-10-03T12:35:59+00:00",
+   "news": "Texans Injury Round Up: Final Injury Report for Week 4 vs. Cowboys",
+   "reason": "rules: -[injury] subject 'Texans' vs 'Cowboys'",
+   "conf": 0.72,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.41
   }
  ],
  "closed_count": 13,
