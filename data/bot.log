@@ -466,29 +466,11 @@
 2026-10-03 21:53:59 NEWS [gnews_injury 2m] Falcons list 3 players questionable for “Monday Night Football” bout at Saints
 2026-10-03 21:53:59   BUY Saints @ 0.540 x18.5 ($10.00) :: Falcons vs. Saints
 2026-10-03 22:00:54 indexed 800 markets
-2026-10-03 22:10:26 NEWS [gnews_injury 11m] Green Bay Packers place Warren Brinson on injured reserve
-2026-10-03 22:10:26   BUY Buccaneers @ 0.410 x24.4 ($10.00) :: Packers vs. Buccaneers
-2026-10-03 22:10:56 indexed 802 markets
-2026-10-03 22:20:57 indexed 802 markets
-2026-10-03 22:21:00   SELL Bears @ 0.630 (max hold) pnl -0.16 :: Jets vs. Bears
-2026-10-03 22:30:56 indexed 785 markets
-2026-10-03 22:40:57 indexed 781 markets
-2026-10-03 22:51:00 indexed 782 markets
-2026-10-03 23:01:02 indexed 788 markets
-2026-10-03 23:11:01 indexed 782 markets
-2026-10-03 23:21:03 indexed 781 markets
-2026-10-03 23:31:08 indexed 781 markets
-2026-10-03 23:35:49 NEWS [gnews_injury 4m] How many San Diego State football players are ruled out with mumps?
-2026-10-03 23:35:49   skip No :: Will the San Diego Padres win the 2026 World Series? (ask 0.911 out of range)
-2026-10-03 23:35:49   skip No :: Will there be a run scored in the first inning?: San Diego Padres vs.  (illiquid)
-2026-10-03 23:35:49   skip No :: Milwaukee Brewers winning after 5 innings? (illiquid)
-2026-10-03 23:41:11 indexed 791 markets
-2026-10-03 23:51:11 indexed 792 markets
-2026-10-04 00:01:11 indexed 807 markets
-2026-10-04 00:01:44 NEWS [gnews_injury 3m] Vikings Injury Forces Another Roster Move vs. Dolphins
-2026-10-04 00:01:44   skip Dolphins :: Dolphins vs. Vikings: 1H Moneyline (illiquid)
-2026-10-04 00:01:44   skip Dolphins :: Dolphins vs. Vikings (illiquid)
-2026-10-04 00:01:44 NEWS [gnews_injury 7m] Mason Heintschel injury: What happened to Panthers RB? Fresh update confirms Pittsburgh’s major blow | Hindustan Times
-2026-10-04 00:01:44   skip Lions :: Lions vs. Panthers (illiquid)
-2026-10-04 00:11:14 indexed 797 markets
-2026-10-04 00:14:51 shift over, state saved
+2026-10-04 00:15:07 === start mode=paper pid=2123 ===
+2026-10-04 00:15:07 brain=llm cash=58.15 open=4
+2026-10-04 00:15:07 resuming with 4360 known news items
+2026-10-04 00:15:30 indexed 800 markets
+2026-10-04 00:15:43 NEWS [gnews_injury 17m] Vikings Injury Forces Another Roster Move vs. Dolphins
+2026-10-04 00:15:43   skip Dolphins :: Dolphins vs. Vikings: 1H Moneyline (illiquid)
+2026-10-04 00:15:43   skip Dolphins :: Dolphins vs. Vikings (illiquid)
+2026-10-04 00:15:43   SELL Bears @ 0.630 (max hold) pnl -0.16 :: Jets vs. Bears

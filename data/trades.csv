@@ -41,5 +41,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-03T19:46:59+00:00,BUY,Rams vs. Eagles,Rams,15.62,0.6400,10.00,,Report: Eagles WR DeVonta Smith (hamstring) to miss multiple games | rules: -[to miss] match[eagles] outcome 'Eagles' bad
 2026-10-03T19:49:17+00:00,BUY,Cowboys vs. Texans,Texans,16.95,0.5900,10.00,,"Cowboys Killer? Dallas Makes 2 Roster Moves, Catches Major Injury Break vs. Texans | rules: -[injury] subject 'Cowboys' vs 'Texans'"
 2026-10-03T19:53:59+00:00,BUY,Falcons vs. Saints,Saints,18.52,0.5400,10.00,,Falcons list 3 players questionable for “Monday Night Football” bout at Saints | rules: -[questionable] subject 'Falcons' vs 'Saints'
-2026-10-03T20:10:26+00:00,BUY,Packers vs. Buccaneers,Buccaneers,24.39,0.4100,10.00,,Green Bay Packers place Warren Brinson on injured reserve | rules: -[injured] match[packers] outcome 'Packers' bad
-2026-10-03T20:21:00+00:00,SELL,Jets vs. Bears,Bears,15.62,0.6300,9.84,-0.16,max hold
+2026-10-03T22:15:43+00:00,SELL,Jets vs. Bears,Bears,15.62,0.6300,9.84,-0.16,max hold
