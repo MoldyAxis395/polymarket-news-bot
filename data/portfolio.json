@@ -1,6 +1,24 @@
 {
- "cash": 95.32050846407535,
- "positions": [],
+ "cash": 85.32050846407535,
+ "positions": [
+  {
+   "market_id": "4752979",
+   "question": "Will England win on 2026-10-03?",
+   "slug": "unl-hrv-eng-2026-10-03-eng",
+   "outcome": "Yes",
+   "token": "28216570787929077754091402387541496199332411246907975568777153471525339772703",
+   "shares": 17.857142857142854,
+   "entry": 0.56,
+   "cost": 10.0,
+   "opened": 1791014224.84214,
+   "opened_iso": "2026-10-03T07:57:04+00:00",
+   "news": "England XI vs Croatia: Predicted lineup and confirmed team news",
+   "reason": "rules: +[confirmed] match[croatia,england] yes/no q_neg=False opp=False",
+   "conf": 0.66,
+   "end": "2026-10-03T16:00:00+00:00",
+   "last_bid": 0.55
+  }
+ ],
  "closed": [
   {
    "market_id": "3871412",
