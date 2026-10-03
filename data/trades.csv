@@ -35,3 +35,6 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-03T18:10:18+00:00,BUY,Auburn vs. Tennessee,Auburn,32.26,0.3100,10.00,,Tennessee Football Starting Defensive Back Ruled Out vs. Auburn | rules: -[ruled out] subject 'Tennessee' vs 'Auburn'
 2026-10-03T18:36:18+00:00,SELL,Cowboys vs. Texans,Cowboys,23.81,0.4100,9.76,-0.24,max hold
 2026-10-03T18:37:59+00:00,BUY,Louisville vs. NC State,Louisville,15.15,0.6600,10.00,,Cam Fancher injury update: Michigan State loses backup QB vs Wisconsin | rules: -[loses] match[state] outcome 'NC State' bad
+2026-10-03T19:25:15+00:00,SELL,Auburn vs. Tennessee,Auburn,32.26,0.3200,10.32,+0.32,market closing
+2026-10-03T19:25:16+00:00,SELL,Louisville vs. NC State,Louisville,15.15,0.6500,9.85,-0.15,market closing
+2026-10-03T19:30:57+00:00,SELL,Colts vs. Commanders,Colts,15.15,0.6600,10.00,+0.00,max hold
