@@ -1,23 +1,6 @@
 {
- "cash": 67.66608465182964,
+ "cash": 77.48089946664444,
  "positions": [
-  {
-   "market_id": "3871438",
-   "question": "Falcons vs. Saints",
-   "slug": "nfl-atl-no-2026-10-06",
-   "outcome": "Saints",
-   "token": "85136895700587472145139044285588726129987300693913705807225547084542225428119",
-   "shares": 18.51851851851852,
-   "entry": 0.54,
-   "cost": 10.000000000000002,
-   "opened": 1791057239.6449864,
-   "opened_iso": "2026-10-03T19:53:59+00:00",
-   "news": "Falcons list 3 players questionable for \u201cMonday Night Football\u201d bout at Saints",
-   "reason": "rules: -[questionable] subject 'Falcons' vs 'Saints'",
-   "conf": 0.72,
-   "end": "2026-10-06T00:15:00+00:00",
-   "last_bid": 0.53
-  },
   {
    "market_id": "5247152",
    "question": "Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
@@ -515,6 +498,27 @@
    "pnl": -0.16949152542372836,
    "why": "max hold",
    "closed_iso": "2026-10-04T01:49:31+00:00"
+  },
+  {
+   "market_id": "3871438",
+   "question": "Falcons vs. Saints",
+   "slug": "nfl-atl-no-2026-10-06",
+   "outcome": "Saints",
+   "token": "85136895700587472145139044285588726129987300693913705807225547084542225428119",
+   "shares": 18.51851851851852,
+   "entry": 0.54,
+   "cost": 10.000000000000002,
+   "opened": 1791057239.6449864,
+   "opened_iso": "2026-10-03T19:53:59+00:00",
+   "news": "Falcons list 3 players questionable for \u201cMonday Night Football\u201d bout at Saints",
+   "reason": "rules: -[questionable] subject 'Falcons' vs 'Saints'",
+   "conf": 0.72,
+   "end": "2026-10-06T00:15:00+00:00",
+   "last_bid": 0.53,
+   "exit": 0.53,
+   "pnl": -0.1851851851851869,
+   "why": "max hold",
+   "closed_iso": "2026-10-04T01:54:18+00:00"
   }
  ],
  "cooldown": {
@@ -531,6 +535,7 @@
   "4752979": 1791039436.4844685,
   "3871418": 1791082171.2332447,
   "4817439": 1791059115.8845325,
-  "4816710": 1791059116.6679444
+  "4816710": 1791059116.6679444,
+  "3871438": 1791082458.975126
  }
 }
