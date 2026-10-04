@@ -1,5 +1,5 @@
 {
- "cash": 66.66209068921498,
+ "cash": 56.66209068921498,
  "positions": [
   {
    "market_id": "3871405",
@@ -51,6 +51,23 @@
    "conf": 0.71,
    "end": "2026-10-04T17:00:00+00:00",
    "last_bid": 0.85
+  },
+  {
+   "market_id": "5097093",
+   "question": "Colts vs. Commanders: 1H Moneyline",
+   "slug": "nfl-ind-was-2026-10-04-1h-moneyline",
+   "outcome": "Colts",
+   "token": "27333019747173379593151678048839857128915770378373484912211718672970219896102",
+   "shares": 15.625,
+   "entry": 0.64,
+   "cost": 10.0,
+   "opened": 1791116513.9700322,
+   "opened_iso": "2026-10-04T12:21:53+00:00",
+   "news": "Commanders' McLaurin inactive in London vs. Colts due to hamstring injury",
+   "reason": "rules: -[injury] subject 'Commanders' vs 'Colts'",
+   "conf": 0.69,
+   "end": "2026-10-04T13:30:00+00:00",
+   "last_bid": 0.64
   }
  ],
  "closed": [
