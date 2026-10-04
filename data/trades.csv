@@ -62,3 +62,7 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-04T13:47:39+00:00,BUY,Jets vs. Bears,Bears,15.62,0.6400,10.00,,Kenyon Sadiq Questionable for Week 4 Against Bears Due to Back Injury | rules: +[] match[bears] outcome 'Bears' good
 2026-10-04T14:09:57+00:00,SELL,Will England win on 2026-10-06?,No,66.67,0.1300,8.67,-1.33,stop loss
 2026-10-04T14:59:49+00:00,BUY,Cowboys vs. Texans,Cowboys,23.26,0.4300,10.00,,Will Jadeveon Clowney return from injury for Week 4 as Texans try to save season? | rules: -[injury] match[texans] outcome 'Texans' bad
+2026-10-04T16:55:13+00:00,SELL,Rams vs. Eagles,Eagles,27.03,0.3700,10.00,+0.00,market closing
+2026-10-04T16:55:14+00:00,SELL,Titans vs. Ravens,Ravens,11.63,0.8500,9.88,-0.12,market closing
+2026-10-04T16:55:15+00:00,SELL,Jets vs. Bears,Bears,15.62,0.6200,9.69,-0.31,market closing
+2026-10-04T16:55:16+00:00,SELL,Cowboys vs. Texans,Cowboys,23.26,0.4200,9.77,-0.23,market closing
