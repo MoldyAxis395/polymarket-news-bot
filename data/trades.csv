@@ -44,3 +44,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-03T22:15:43+00:00,SELL,Jets vs. Bears,Bears,15.62,0.6300,9.84,-0.16,max hold
 2026-10-03T22:36:30+00:00,BUY,Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage,Aurora Gaming,25.00,0.4000,10.00,,Saints D Declares Trio Out for Falcons in Saturday Injury Report | rules: -[out for] match[falcons] outcome 'Team Falcons' bad
 2026-10-03T22:36:30+00:00,BUY,Will the New York Yankees win the 2026 World Series?,No,11.49,0.8700,10.00,,"Yankees’ Aaron Judge Left Off AL Division Series Roster Due to Injury | rules: -[injury] match[series,yankees] yes/no q_neg=False opp=False"
+2026-10-04T01:47:01+00:00,SELL,Rams vs. Eagles,Rams,15.62,0.6300,9.84,-0.16,max hold
+2026-10-04T01:49:30+00:00,SELL,Cowboys vs. Texans,Texans,16.95,0.5800,9.83,-0.17,max hold
