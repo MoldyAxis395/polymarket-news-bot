@@ -739,3 +739,17 @@
 2026-10-04 22:32:06 indexed 772 markets
 2026-10-04 22:42:10 indexed 772 markets
 2026-10-04 22:43:28 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-04 22:52:09 indexed 770 markets
+2026-10-04 23:02:09 indexed 777 markets
+2026-10-04 23:05:15 NEWS [gnews_injury 3m] What Happened to Kyle Monangai? Bears RB Exits Late in Win Over Jets
+2026-10-04 23:05:16   BUY Bears @ 0.530 x18.9 ($10.00) :: Bears vs. Packers
+2026-10-04 23:05:16 NEWS [gnews_injury 3m] Will Rashee Rice bets be refunded after injury during Chiefs vs. Raiders NFL Week 4?
+2026-10-04 23:05:16   skip Raiders :: Raiders vs. Patriots (illiquid)
+2026-10-04 23:07:45 NEWS [gnews_injury 12m] Lamar Jackson injury: Ravens QB being monitored, considered day-to-day after exiting vs. Titans
+2026-10-04 23:07:45   BUY Falcons @ 0.320 x31.2 ($10.00) :: Ravens vs. Falcons
+2026-10-04 23:07:45 NEWS [gnews_injury 2m] Chiefs WR Rashee Rice Exits Week 4 Game vs. Raiders With Injury
+2026-10-04 23:07:45   skip Raiders :: Raiders vs. Patriots (illiquid)
+2026-10-04 23:09:55 NEWS [gnews_injury 6m] Rashee Rice Injury: Latest update on Kansas City Chiefs receiver after Week 4 non-contact injury vs. Las Vegas Raiders
+2026-10-04 23:09:55   skip Raiders :: Raiders vs. Patriots (illiquid)
+2026-10-04 23:10:13   SELL Falcons @ 0.280 (stop loss) pnl -1.25 :: Ravens vs. Falcons
+2026-10-04 23:12:11 indexed 803 markets

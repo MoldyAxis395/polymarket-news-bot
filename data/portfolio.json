@@ -1,6 +1,24 @@
 {
- "cash": 93.74189793544664,
- "positions": [],
+ "cash": 82.49189793544664,
+ "positions": [
+  {
+   "market_id": "4024678",
+   "question": "Bears vs. Packers",
+   "slug": "nfl-chi-gb-2026-10-11",
+   "outcome": "Bears",
+   "token": "63546091087240539748724947550196129065614606331910011695218131445029473790201",
+   "shares": 18.867924528301884,
+   "entry": 0.53,
+   "cost": 10.0,
+   "opened": 1791147916.0555065,
+   "opened_iso": "2026-10-04T21:05:16+00:00",
+   "news": "What Happened to Kyle Monangai? Bears RB Exits Late in Win Over Jets",
+   "reason": "rules: +[win] match[bears] outcome 'Bears' good",
+   "conf": 0.59,
+   "end": "2026-10-11T20:25:00+00:00",
+   "last_bid": 0.5
+  }
+ ],
  "closed": [
   {
    "market_id": "3871412",
@@ -736,6 +754,27 @@
    "pnl": -1.2499999999999982,
    "why": "stop loss",
    "closed_iso": "2026-10-04T20:06:52+00:00"
+  },
+  {
+   "market_id": "4024681",
+   "question": "Ravens vs. Falcons",
+   "slug": "nfl-bal-atl-2026-10-12",
+   "outcome": "Falcons",
+   "token": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
+   "shares": 31.25,
+   "entry": 0.32,
+   "cost": 10.0,
+   "opened": 1791148065.4041252,
+   "opened_iso": "2026-10-04T21:07:45+00:00",
+   "news": "Lamar Jackson injury: Ravens QB being monitored, considered day-to-day after exiting vs. Titans",
+   "reason": "rules: -[injury] match[ravens] outcome 'Ravens' bad",
+   "conf": 0.59,
+   "end": "2026-10-12T00:20:00+00:00",
+   "last_bid": 0.28,
+   "exit": 0.28,
+   "pnl": -1.2499999999999982,
+   "why": "stop loss",
+   "closed_iso": "2026-10-04T21:10:13+00:00"
   }
  ],
  "cooldown": {
@@ -761,6 +800,6 @@
   "4877201": 1791126598.4894545,
   "3871410": 1791137518.3286154,
   "3871436": 1791143265.9806473,
-  "4024681": 1791148012.0428784
+  "4024681": 1791151813.9395204
  }
 }
