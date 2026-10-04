@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-04T10:35:32",
+ "updated": "2026-10-04T11:05:31",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 798,
- "news_processed": 124,
+ "markets_indexed": 835,
+ "news_processed": 131,
  "cash": 86.66,
  "equity": 96.38,
  "start": 100.0,
