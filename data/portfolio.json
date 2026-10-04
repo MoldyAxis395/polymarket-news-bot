@@ -1,5 +1,5 @@
 {
- "cash": 56.66209068921498,
+ "cash": 46.66209068921498,
  "positions": [
   {
    "market_id": "3871405",
@@ -33,7 +33,7 @@
    "reason": "rules: -[injury] subject 'Rams' vs 'Eagles'",
    "conf": 0.72,
    "end": "2026-10-04T17:00:00+00:00",
-   "last_bid": 0.36
+   "last_bid": 0.37
   },
   {
    "market_id": "3871410",
@@ -67,6 +67,23 @@
    "reason": "rules: -[injury] subject 'Commanders' vs 'Colts'",
    "conf": 0.69,
    "end": "2026-10-04T13:30:00+00:00",
+   "last_bid": 0.64
+  },
+  {
+   "market_id": "3871436",
+   "question": "Lions vs. Panthers",
+   "slug": "nfl-det-car-2026-10-05",
+   "outcome": "Lions",
+   "token": "71912173585476848089813793902646109294000823405483344703924356187769640356974",
+   "shares": 15.384615384615383,
+   "entry": 0.65,
+   "cost": 10.0,
+   "opened": 1791118061.358957,
+   "opened_iso": "2026-10-04T12:47:41+00:00",
+   "news": "Report: Panthers' Coker unlikely to play on SNF vs. Lions due to quad injury",
+   "reason": "rules: -[injury] subject 'Panthers' vs 'Lions'",
+   "conf": 0.71,
+   "end": "2026-10-05T00:20:00+00:00",
    "last_bid": 0.64
   }
  ],
