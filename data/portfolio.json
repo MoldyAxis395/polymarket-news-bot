@@ -1,5 +1,5 @@
 {
- "cash": 87.82572705285133,
+ "cash": 86.66209068921498,
  "positions": [
   {
    "market_id": "3871405",
@@ -544,6 +544,27 @@
    "pnl": 0.3448275862068968,
    "why": "max hold",
    "closed_iso": "2026-10-04T04:36:33+00:00"
+  },
+  {
+   "market_id": "5206572",
+   "question": "Will Max Verstappen win the 2026 F1 Bahrain Grand Prix?",
+   "slug": "f1-bahrain-grand-prix-winner-verstappen-2026-10-04",
+   "outcome": "No",
+   "token": "86072793207393944508487874542002572925422811634866470759250312420760328854672",
+   "shares": 22.727272727272727,
+   "entry": 0.44,
+   "cost": 10.0,
+   "opened": 1791102415.5648196,
+   "opened_iso": "2026-10-04T08:26:55+00:00",
+   "news": "F1 Bahrain Grand Prix 2026: Race Starting Procedure Suspended at Sepang, Max Verstappen To Start On Pole \u2014 Start Order Unchanged",
+   "reason": "rules: -[suspended] match[bahrain,grand,max,prix,verstappen] yes/no q_neg=False opp=False",
+   "conf": 0.72,
+   "end": "2026-10-11T07:00:00+00:00",
+   "last_bid": 0.39,
+   "exit": 0.3888,
+   "pnl": -1.163636363636364,
+   "why": "stop loss",
+   "closed_iso": "2026-10-04T08:28:21+00:00"
   }
  ],
  "cooldown": {
@@ -563,6 +584,7 @@
   "4816710": 1791059116.6679444,
   "3871438": 1791082458.975126,
   "5247152": 1791092192.9879236,
-  "1235547": 1791092193.6584835
+  "1235547": 1791092193.6584835,
+  "5206572": 1791106101.1991994
  }
 }
