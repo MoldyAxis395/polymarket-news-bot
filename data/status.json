@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-04T23:46:29",
+ "updated": "2026-10-05T00:16:23",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 803,
- "news_processed": 469,
+ "markets_indexed": 808,
+ "news_processed": 515,
  "cash": 82.49,
- "equity": 91.93,
+ "equity": 91.55,
  "start": 100.0,
  "open": [
   {
@@ -24,7 +24,7 @@
    "reason": "rules: +[win] match[bears] outcome 'Bears' good",
    "conf": 0.59,
    "end": "2026-10-11T20:25:00+00:00",
-   "last_bid": 0.5
+   "last_bid": 0.48
   }
  ],
  "closed_count": 36,
