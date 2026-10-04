@@ -735,44 +735,17 @@
 2026-10-04 22:12:04 indexed 777 markets
 2026-10-04 22:12:11 NEWS [gnews_injury 9m] Seahawks GM describes Jadarian Price’s injury prognosis--and looks at Joe Mixon
 2026-10-04 22:12:11   skip No :: Jadarian Price: Anytime Touchdown (illiquid)
-2026-10-04 22:22:04 indexed 781 markets
-2026-10-04 22:32:06 indexed 772 markets
-2026-10-04 22:42:10 indexed 772 markets
-2026-10-04 22:43:28 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
-2026-10-04 22:52:09 indexed 770 markets
-2026-10-04 23:02:09 indexed 777 markets
-2026-10-04 23:05:15 NEWS [gnews_injury 3m] What Happened to Kyle Monangai? Bears RB Exits Late in Win Over Jets
-2026-10-04 23:05:16   BUY Bears @ 0.530 x18.9 ($10.00) :: Bears vs. Packers
-2026-10-04 23:05:16 NEWS [gnews_injury 3m] Will Rashee Rice bets be refunded after injury during Chiefs vs. Raiders NFL Week 4?
-2026-10-04 23:05:16   skip Raiders :: Raiders vs. Patriots (illiquid)
-2026-10-04 23:07:45 NEWS [gnews_injury 12m] Lamar Jackson injury: Ravens QB being monitored, considered day-to-day after exiting vs. Titans
-2026-10-04 23:07:45   BUY Falcons @ 0.320 x31.2 ($10.00) :: Ravens vs. Falcons
-2026-10-04 23:07:45 NEWS [gnews_injury 2m] Chiefs WR Rashee Rice Exits Week 4 Game vs. Raiders With Injury
-2026-10-04 23:07:45   skip Raiders :: Raiders vs. Patriots (illiquid)
-2026-10-04 23:09:55 NEWS [gnews_injury 6m] Rashee Rice Injury: Latest update on Kansas City Chiefs receiver after Week 4 non-contact injury vs. Las Vegas Raiders
-2026-10-04 23:09:55   skip Raiders :: Raiders vs. Patriots (illiquid)
-2026-10-04 23:10:13   SELL Falcons @ 0.280 (stop loss) pnl -1.25 :: Ravens vs. Falcons
-2026-10-04 23:12:11 indexed 803 markets
-2026-10-04 23:22:11 indexed 802 markets
-2026-10-04 23:32:14 indexed 804 markets
-2026-10-04 23:33:03 NEWS [gnews_injury 8m] Chiefs WR Rashee Rice leaves game vs. Raiders with hamstring injury
-2026-10-04 23:33:03   skip Raiders :: Raiders vs. Patriots (illiquid)
-2026-10-04 23:42:13 indexed 803 markets
-2026-10-04 23:52:11 indexed 798 markets
-2026-10-05 00:02:13 indexed 805 markets
-2026-10-05 00:12:14 indexed 808 markets
-2026-10-05 00:16:56 NEWS [gnews_injury 4m] Falcons vs. Saints injury report: Divine Deablo, Samson Ebukam questionable for Monday night
-2026-10-05 00:16:56   BUY Saints @ 0.540 x18.5 ($10.00) :: Falcons vs. Saints
-2026-10-05 00:22:14 indexed 811 markets
-2026-10-05 00:32:17 indexed 816 markets
-2026-10-05 00:42:17 indexed 827 markets
-2026-10-05 00:47:10 NEWS [gnews_injury 4m] Ladd McConkey injury update as Chargers WR is ruled out vs. Seahawks
-2026-10-05 00:47:10   skip Seahawks :: 49ers vs. Seahawks (illiquid)
-2026-10-05 00:47:10   skip Broncos :: Broncos vs. Chargers (illiquid)
-2026-10-05 00:51:36 NEWS [gnews_injury 4m] Will Ladd McConkey bets be refunded after injury during Chargers vs. Seahawks NFL Week 4?
-2026-10-05 00:51:36   skip Seahawks :: 49ers vs. Seahawks (illiquid)
-2026-10-05 00:51:36   skip Broncos :: Broncos vs. Chargers (illiquid)
-2026-10-05 00:52:17 indexed 826 markets
-2026-10-05 00:53:56 NEWS [gnews_injury 5m] Lamar Jackson injury: Latest on Ravens QB's status vs. Falcons
-2026-10-05 00:53:56   BUY Falcons @ 0.344 x29.0 ($10.00) :: Ravens vs. Falcons
-2026-10-05 00:56:25 shift over, state saved
+2026-10-05 00:56:40 === start mode=paper pid=2117 ===
+2026-10-05 00:56:40 brain=llm cash=93.74 open=0
+2026-10-05 00:56:40 resuming with 4762 known news items
+2026-10-05 00:57:01 indexed 831 markets
+2026-10-05 00:57:14 NEWS [gnews_injury 5m] Lamar Jackson injury: Latest on Ravens QB's status vs. Falcons
+2026-10-05 00:57:14   BUY Falcons @ 0.344 x29.0 ($10.00) :: Ravens vs. Falcons
+2026-10-05 00:57:15 NEWS [gnews_injury 14m] Ladd McConkey injury update as Chargers WR is ruled out vs. Seahawks
+2026-10-05 00:57:15   skip Seahawks :: 49ers vs. Seahawks (illiquid)
+2026-10-05 00:57:15   skip Broncos :: Broncos vs. Chargers (illiquid)
+2026-10-05 00:57:15 NEWS [gnews_injury 9m] Will Ladd McConkey bets be refunded after injury during Chargers vs. Seahawks NFL Week 4?
+2026-10-05 00:57:15   skip Seahawks :: 49ers vs. Seahawks (illiquid)
+2026-10-05 00:57:15   skip Broncos :: Broncos vs. Chargers (illiquid)
+2026-10-05 00:59:46 NEWS [gnews_injury 8m] Jesse Minter’s statement on Lamar Jackson’s injury after Baltimore Ravens QB fails to complete game
+2026-10-05 00:59:46   skip Falcons :: Ravens vs. Falcons (already in market)
