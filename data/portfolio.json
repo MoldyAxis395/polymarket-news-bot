@@ -67,7 +67,7 @@
    "reason": "rules: -[out for] match[falcons] outcome 'Team Falcons' bad",
    "conf": 0.56,
    "end": "2026-10-04T17:30:00+00:00",
-   "last_bid": 0.39
+   "last_bid": 0.4
   },
   {
    "market_id": "1235547",
@@ -84,7 +84,7 @@
    "reason": "rules: -[injury] match[series,yankees] yes/no q_neg=False opp=False",
    "conf": 0.68,
    "end": "2026-10-31T23:55:00+00:00",
-   "last_bid": 0.88
+   "last_bid": 0.9
   }
  ],
  "closed": [
