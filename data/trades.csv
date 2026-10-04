@@ -47,3 +47,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-04T01:47:01+00:00,SELL,Rams vs. Eagles,Rams,15.62,0.6300,9.84,-0.16,max hold
 2026-10-04T01:49:30+00:00,SELL,Cowboys vs. Texans,Texans,16.95,0.5800,9.83,-0.17,max hold
 2026-10-04T01:54:18+00:00,SELL,Falcons vs. Saints,Saints,18.52,0.5300,9.81,-0.19,max hold
+2026-10-04T04:36:32+00:00,SELL,Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage,Aurora Gaming,25.00,0.4000,10.00,+0.00,max hold
+2026-10-04T04:36:33+00:00,SELL,Will the New York Yankees win the 2026 World Series?,No,11.49,0.9000,10.34,+0.34,max hold

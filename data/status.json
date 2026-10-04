@@ -1,49 +1,14 @@
 {
- "updated": "2026-10-04T06:35:09",
+ "updated": "2026-10-04T07:05:17",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 802,
- "news_processed": 25,
- "cash": 77.48,
+ "markets_indexed": 814,
+ "news_processed": 30,
+ "cash": 97.83,
  "equity": 97.83,
  "start": 100.0,
- "open": [
-  {
-   "market_id": "5247152",
-   "question": "Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
-   "slug": "cs2-fal2-aur1-2026-10-04",
-   "outcome": "Aurora Gaming",
-   "token": "95630200868615709506059370121494032635871194341390285235919670120788340162316",
-   "shares": 25.0,
-   "entry": 0.4,
-   "cost": 10.0,
-   "opened": 1791066990.23971,
-   "opened_iso": "2026-10-03T22:36:30+00:00",
-   "news": "Saints D Declares Trio Out for Falcons in Saturday Injury Report",
-   "reason": "rules: -[out for] match[falcons] outcome 'Team Falcons' bad",
-   "conf": 0.56,
-   "end": "2026-10-04T17:30:00+00:00",
-   "last_bid": 0.4
-  },
-  {
-   "market_id": "1235547",
-   "question": "Will the New York Yankees win the 2026 World Series?",
-   "slug": "will-the-new-york-yankees-win-the-2026-world-series",
-   "outcome": "No",
-   "token": "95543103909155130948704747260000445052441626108012711535497120196961332271236",
-   "shares": 11.494252873563218,
-   "entry": 0.8700000000000001,
-   "cost": 10.0,
-   "opened": 1791066990.8377728,
-   "opened_iso": "2026-10-03T22:36:30+00:00",
-   "news": "Yankees\u2019 Aaron Judge Left Off AL Division Series Roster Due to Injury",
-   "reason": "rules: -[injury] match[series,yankees] yes/no q_neg=False opp=False",
-   "conf": 0.68,
-   "end": "2026-10-31T23:55:00+00:00",
-   "last_bid": 0.9
-  }
- ],
- "closed_count": 23,
- "realized_pnl": -2.52
+ "open": [],
+ "closed_count": 25,
+ "realized_pnl": -2.17
 }

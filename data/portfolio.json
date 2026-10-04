@@ -1,41 +1,6 @@
 {
- "cash": 77.48089946664444,
- "positions": [
-  {
-   "market_id": "5247152",
-   "question": "Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
-   "slug": "cs2-fal2-aur1-2026-10-04",
-   "outcome": "Aurora Gaming",
-   "token": "95630200868615709506059370121494032635871194341390285235919670120788340162316",
-   "shares": 25.0,
-   "entry": 0.4,
-   "cost": 10.0,
-   "opened": 1791066990.23971,
-   "opened_iso": "2026-10-03T22:36:30+00:00",
-   "news": "Saints D Declares Trio Out for Falcons in Saturday Injury Report",
-   "reason": "rules: -[out for] match[falcons] outcome 'Team Falcons' bad",
-   "conf": 0.56,
-   "end": "2026-10-04T17:30:00+00:00",
-   "last_bid": 0.4
-  },
-  {
-   "market_id": "1235547",
-   "question": "Will the New York Yankees win the 2026 World Series?",
-   "slug": "will-the-new-york-yankees-win-the-2026-world-series",
-   "outcome": "No",
-   "token": "95543103909155130948704747260000445052441626108012711535497120196961332271236",
-   "shares": 11.494252873563218,
-   "entry": 0.8700000000000001,
-   "cost": 10.0,
-   "opened": 1791066990.8377728,
-   "opened_iso": "2026-10-03T22:36:30+00:00",
-   "news": "Yankees\u2019 Aaron Judge Left Off AL Division Series Roster Due to Injury",
-   "reason": "rules: -[injury] match[series,yankees] yes/no q_neg=False opp=False",
-   "conf": 0.68,
-   "end": "2026-10-31T23:55:00+00:00",
-   "last_bid": 0.9
-  }
- ],
+ "cash": 97.82572705285133,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -519,6 +484,48 @@
    "pnl": -0.1851851851851869,
    "why": "max hold",
    "closed_iso": "2026-10-04T01:54:18+00:00"
+  },
+  {
+   "market_id": "5247152",
+   "question": "Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
+   "slug": "cs2-fal2-aur1-2026-10-04",
+   "outcome": "Aurora Gaming",
+   "token": "95630200868615709506059370121494032635871194341390285235919670120788340162316",
+   "shares": 25.0,
+   "entry": 0.4,
+   "cost": 10.0,
+   "opened": 1791066990.23971,
+   "opened_iso": "2026-10-03T22:36:30+00:00",
+   "news": "Saints D Declares Trio Out for Falcons in Saturday Injury Report",
+   "reason": "rules: -[out for] match[falcons] outcome 'Team Falcons' bad",
+   "conf": 0.56,
+   "end": "2026-10-04T17:30:00+00:00",
+   "last_bid": 0.4,
+   "exit": 0.4,
+   "pnl": 0.0,
+   "why": "max hold",
+   "closed_iso": "2026-10-04T04:36:32+00:00"
+  },
+  {
+   "market_id": "1235547",
+   "question": "Will the New York Yankees win the 2026 World Series?",
+   "slug": "will-the-new-york-yankees-win-the-2026-world-series",
+   "outcome": "No",
+   "token": "95543103909155130948704747260000445052441626108012711535497120196961332271236",
+   "shares": 11.494252873563218,
+   "entry": 0.8700000000000001,
+   "cost": 10.0,
+   "opened": 1791066990.8377728,
+   "opened_iso": "2026-10-03T22:36:30+00:00",
+   "news": "Yankees\u2019 Aaron Judge Left Off AL Division Series Roster Due to Injury",
+   "reason": "rules: -[injury] match[series,yankees] yes/no q_neg=False opp=False",
+   "conf": 0.68,
+   "end": "2026-10-31T23:55:00+00:00",
+   "last_bid": 0.9,
+   "exit": 0.9,
+   "pnl": 0.3448275862068968,
+   "why": "max hold",
+   "closed_iso": "2026-10-04T04:36:33+00:00"
   }
  ],
  "cooldown": {
@@ -536,6 +543,8 @@
   "3871418": 1791082171.2332447,
   "4817439": 1791059115.8845325,
   "4816710": 1791059116.6679444,
-  "3871438": 1791082458.975126
+  "3871438": 1791082458.975126,
+  "5247152": 1791092192.9879236,
+  "1235547": 1791092193.6584835
  }
 }
