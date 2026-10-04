@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-05T00:16:23",
+ "updated": "2026-10-05T00:46:30",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 808,
- "news_processed": 515,
- "cash": 82.49,
- "equity": 91.55,
+ "markets_indexed": 827,
+ "news_processed": 554,
+ "cash": 72.49,
+ "equity": 91.36,
  "start": 100.0,
  "open": [
   {
@@ -25,6 +25,23 @@
    "conf": 0.59,
    "end": "2026-10-11T20:25:00+00:00",
    "last_bid": 0.48
+  },
+  {
+   "market_id": "3871438",
+   "question": "Falcons vs. Saints",
+   "slug": "nfl-atl-no-2026-10-06",
+   "outcome": "Saints",
+   "token": "85136895700587472145139044285588726129987300693913705807225547084542225428119",
+   "shares": 18.51851851851852,
+   "entry": 0.54,
+   "cost": 10.000000000000002,
+   "opened": 1791152216.9728925,
+   "opened_iso": "2026-10-04T22:16:56+00:00",
+   "news": "Falcons vs. Saints injury report: Divine Deablo, Samson Ebukam questionable for Monday night",
+   "reason": "rules: -[questionable] subject 'Falcons' vs 'Saints'",
+   "conf": 0.72,
+   "end": "2026-10-06T00:15:00+00:00",
+   "last_bid": 0.53
   }
  ],
  "closed_count": 36,
