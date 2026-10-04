@@ -735,3 +735,7 @@
 2026-10-04 22:12:04 indexed 777 markets
 2026-10-04 22:12:11 NEWS [gnews_injury 9m] Seahawks GM describes Jadarian Price’s injury prognosis--and looks at Joe Mixon
 2026-10-04 22:12:11   skip No :: Jadarian Price: Anytime Touchdown (illiquid)
+2026-10-04 22:22:04 indexed 781 markets
+2026-10-04 22:32:06 indexed 772 markets
+2026-10-04 22:42:10 indexed 772 markets
+2026-10-04 22:43:28 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
