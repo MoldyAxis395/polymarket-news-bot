@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-04T16:01:12",
+ "updated": "2026-10-04T16:31:09",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 869,
- "news_processed": 190,
- "cash": 46.09,
- "equity": 95.0,
+ "markets_indexed": 867,
+ "news_processed": 242,
+ "cash": 54.76,
+ "equity": 94.33,
  "start": 100.0,
  "open": [
   {
@@ -61,23 +61,6 @@
    "last_bid": 0.64
   },
   {
-   "market_id": "4877201",
-   "question": "Will England win on 2026-10-06?",
-   "slug": "unl-eng-cze-2026-10-06-eng",
-   "outcome": "No",
-   "token": "103897761223782760367766602994934330475010089757264968293197265023286555043339",
-   "shares": 66.66666666666667,
-   "entry": 0.15,
-   "cost": 10.0,
-   "opened": 1791121658.649952,
-   "opened_iso": "2026-10-04T13:47:38+00:00",
-   "news": "England call up Man City star for Czechia clash amid injury worries",
-   "reason": "rules: -[injury] match[czechia,england] yes/no q_neg=False opp=False",
-   "conf": 0.72,
-   "end": "2026-10-06T18:45:00+00:00",
-   "last_bid": 0.14
-  },
-  {
    "market_id": "3871412",
    "question": "Jets vs. Bears",
    "slug": "nfl-nyj-chi-2026-10-04",
@@ -95,6 +78,6 @@
    "last_bid": 0.63
   }
  ],
- "closed_count": 28,
- "realized_pnl": -3.91
+ "closed_count": 29,
+ "realized_pnl": -5.24
 }

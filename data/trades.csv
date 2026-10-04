@@ -60,3 +60,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-04T13:25:18+00:00,SELL,Colts vs. Commanders: 1H Moneyline,Colts,15.62,0.6400,10.00,+0.00,market closing
 2026-10-04T13:47:38+00:00,BUY,Will England win on 2026-10-06?,No,66.67,0.1500,10.00,,"England call up Man City star for Czechia clash amid injury worries | rules: -[injury] match[czechia,england] yes/no q_neg=False opp=False"
 2026-10-04T13:47:39+00:00,BUY,Jets vs. Bears,Bears,15.62,0.6400,10.00,,Kenyon Sadiq Questionable for Week 4 Against Bears Due to Back Injury | rules: +[] match[bears] outcome 'Bears' good
+2026-10-04T14:09:57+00:00,SELL,Will England win on 2026-10-06?,No,66.67,0.1300,8.67,-1.33,stop loss
