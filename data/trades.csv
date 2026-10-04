@@ -66,3 +66,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-04T17:11:57+00:00,SELL,Titans vs. Ravens,Ravens,11.63,0.9300,10.81,+0.81,market closing
 2026-10-04T17:11:58+00:00,SELL,Jets vs. Bears,Bears,15.63,0.6900,10.78,+0.78,market closing
 2026-10-04T17:11:59+00:00,SELL,Cowboys vs. Texans,Cowboys,23.26,0.3200,7.44,-2.56,stop loss
+2026-10-04T18:47:45+00:00,SELL,Lions vs. Panthers,Lions,15.38,0.6400,9.85,-0.15,max hold
+2026-10-04T19:12:00+00:00,BUY,Ravens vs. Falcons,Falcons,31.25,0.3200,10.00,,Ravens QB Lamar Jackson (ankle) questionable to return vs. Titans | rules: -[questionable] match[ravens] outcome 'Ravens' bad
