@@ -1,14 +1,32 @@
 {
- "updated": "2026-10-04T09:35:22",
+ "updated": "2026-10-04T10:05:25",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 795,
- "news_processed": 89,
- "cash": 97.83,
- "equity": 97.83,
+ "markets_indexed": 796,
+ "news_processed": 106,
+ "cash": 87.83,
+ "equity": 97.54,
  "start": 100.0,
- "open": [],
+ "open": [
+  {
+   "market_id": "3871405",
+   "question": "Colts vs. Commanders",
+   "slug": "nfl-ind-was-2026-10-04",
+   "outcome": "Commanders",
+   "token": "14989640499892393230652279129128061254515881318826836990208837181485887480029",
+   "shares": 28.571428571428573,
+   "entry": 0.35,
+   "cost": 10.0,
+   "opened": 1791100879.8032386,
+   "opened_iso": "2026-10-04T08:01:19+00:00",
+   "news": "Colts rule starting wide receiver out for Week 4 game vs Commanders",
+   "reason": "rules: -[out for] subject 'Colts' vs 'Commanders'",
+   "conf": 0.7,
+   "end": "2026-10-04T13:30:00+00:00",
+   "last_bid": 0.34
+  }
+ ],
  "closed_count": 25,
  "realized_pnl": -2.17
 }

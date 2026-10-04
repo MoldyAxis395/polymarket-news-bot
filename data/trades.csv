@@ -49,3 +49,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-04T01:54:18+00:00,SELL,Falcons vs. Saints,Saints,18.52,0.5300,9.81,-0.19,max hold
 2026-10-04T04:36:32+00:00,SELL,Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League Group Stage,Aurora Gaming,25.00,0.4000,10.00,+0.00,max hold
 2026-10-04T04:36:33+00:00,SELL,Will the New York Yankees win the 2026 World Series?,No,11.49,0.9000,10.34,+0.34,max hold
+2026-10-04T08:01:19+00:00,BUY,Colts vs. Commanders,Commanders,28.57,0.3500,10.00,,Colts rule starting wide receiver out for Week 4 game vs Commanders | rules: -[out for] subject 'Colts' vs 'Commanders'
