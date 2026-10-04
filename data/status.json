@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-04T11:45:14",
+ "updated": "2026-10-04T13:30:50",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 836,
- "news_processed": 151,
+ "markets_indexed": 821,
+ "news_processed": 10,
  "cash": 86.66,
- "equity": 96.38,
+ "equity": 96.09,
  "start": 100.0,
  "open": [
   {
@@ -24,7 +24,7 @@
    "reason": "rules: -[out for] subject 'Colts' vs 'Commanders'",
    "conf": 0.7,
    "end": "2026-10-04T13:30:00+00:00",
-   "last_bid": 0.34
+   "last_bid": 0.33
   }
  ],
  "closed_count": 26,
