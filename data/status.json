@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-04T19:16:09",
+ "updated": "2026-10-04T19:46:16",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 877,
- "news_processed": 21,
+ "markets_indexed": 890,
+ "news_processed": 74,
  "cash": 85.15,
- "equity": 94.99,
+ "equity": 95.15,
  "start": 100.0,
  "open": [
   {
@@ -24,7 +24,7 @@
    "reason": "rules: -[injury] subject 'Panthers' vs 'Lions'",
    "conf": 0.71,
    "end": "2026-10-05T00:20:00+00:00",
-   "last_bid": 0.64
+   "last_bid": 0.65
   }
  ],
  "closed_count": 33,
