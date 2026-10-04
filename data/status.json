@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-05T01:01:31",
+ "updated": "2026-10-05T01:31:41",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 831,
- "news_processed": 33,
- "cash": 83.74,
- "equity": 93.03,
+ "markets_indexed": 826,
+ "news_processed": 91,
+ "cash": 73.74,
+ "equity": 92.83,
  "start": 100.0,
  "open": [
   {
@@ -25,6 +25,23 @@
    "conf": 0.72,
    "end": "2026-10-12T00:20:00+00:00",
    "last_bid": 0.32
+  },
+  {
+   "market_id": "5199920",
+   "question": "T20 Series South Africa, Women: Warriors vs Lions",
+   "slug": "criccsat20w-war-lio-2026-10-04",
+   "outcome": "Lions",
+   "token": "88797404974110500679704366865141631853268371790462696895990007090490283940967",
+   "shares": 19.607843137254903,
+   "entry": 0.51,
+   "cost": 10.0,
+   "opened": 1791155827.0336356,
+   "opened_iso": "2026-10-04T23:17:07+00:00",
+   "news": "Jalen Coker Ruled Out for Sunday Night Football Vs. Lions - NFL News | Fantasy Football",
+   "reason": "rules: +[] match[lions] outcome 'Lions' good",
+   "conf": 0.66,
+   "end": "2026-10-11T08:00:00+00:00",
+   "last_bid": 0.5
   }
  ],
  "closed_count": 35,
