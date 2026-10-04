@@ -84,7 +84,7 @@
    "reason": "rules: -[injury] match[series,yankees] yes/no q_neg=False opp=False",
    "conf": 0.68,
    "end": "2026-10-31T23:55:00+00:00",
-   "last_bid": 0.87
+   "last_bid": 0.88
   }
  ],
  "closed": [
