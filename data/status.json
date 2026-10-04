@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-04T15:31:05",
+ "updated": "2026-10-04T16:01:12",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 868,
- "news_processed": 159,
- "cash": 66.09,
- "equity": 95.82,
+ "markets_indexed": 869,
+ "news_processed": 190,
+ "cash": 46.09,
+ "equity": 95.0,
  "start": 100.0,
  "open": [
   {
@@ -59,6 +59,40 @@
    "conf": 0.71,
    "end": "2026-10-05T00:20:00+00:00",
    "last_bid": 0.64
+  },
+  {
+   "market_id": "4877201",
+   "question": "Will England win on 2026-10-06?",
+   "slug": "unl-eng-cze-2026-10-06-eng",
+   "outcome": "No",
+   "token": "103897761223782760367766602994934330475010089757264968293197265023286555043339",
+   "shares": 66.66666666666667,
+   "entry": 0.15,
+   "cost": 10.0,
+   "opened": 1791121658.649952,
+   "opened_iso": "2026-10-04T13:47:38+00:00",
+   "news": "England call up Man City star for Czechia clash amid injury worries",
+   "reason": "rules: -[injury] match[czechia,england] yes/no q_neg=False opp=False",
+   "conf": 0.72,
+   "end": "2026-10-06T18:45:00+00:00",
+   "last_bid": 0.14
+  },
+  {
+   "market_id": "3871412",
+   "question": "Jets vs. Bears",
+   "slug": "nfl-nyj-chi-2026-10-04",
+   "outcome": "Bears",
+   "token": "42545377507742507274548049495279421819492695843741695973228817396862882253801",
+   "shares": 15.625,
+   "entry": 0.64,
+   "cost": 10.0,
+   "opened": 1791121659.561059,
+   "opened_iso": "2026-10-04T13:47:39+00:00",
+   "news": "Kenyon Sadiq Questionable for Week 4 Against Bears Due to Back Injury",
+   "reason": "rules: +[] match[bears] outcome 'Bears' good",
+   "conf": 0.69,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.63
   }
  ],
  "closed_count": 28,
