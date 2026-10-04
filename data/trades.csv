@@ -56,3 +56,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-04T11:59:34+00:00,BUY,Titans vs. Ravens,Ravens,11.63,0.8600,10.00,,"NFL insider confirms suspicion surrounding Zay Flowers' injury that had him questionable heading into Titans matchup | rules: -[injury,questionable] match[titans] outcome 'Titans' bad"
 2026-10-04T12:21:53+00:00,BUY,Colts vs. Commanders: 1H Moneyline,Colts,15.62,0.6400,10.00,,Commanders' McLaurin inactive in London vs. Colts due to hamstring injury | rules: -[injury] subject 'Commanders' vs 'Colts'
 2026-10-04T12:47:41+00:00,BUY,Lions vs. Panthers,Lions,15.38,0.6500,10.00,,Report: Panthers' Coker unlikely to play on SNF vs. Lions due to quad injury | rules: -[injury] subject 'Panthers' vs 'Lions'
+2026-10-04T13:25:17+00:00,SELL,Colts vs. Commanders,Commanders,28.57,0.3300,9.43,-0.57,market closing
+2026-10-04T13:25:18+00:00,SELL,Colts vs. Commanders: 1H Moneyline,Colts,15.62,0.6400,10.00,+0.00,market closing
