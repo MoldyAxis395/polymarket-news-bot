@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-04T13:30:50",
+ "updated": "2026-10-04T14:01:02",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
  "markets_indexed": 821,
- "news_processed": 10,
- "cash": 86.66,
- "equity": 96.09,
+ "news_processed": 42,
+ "cash": 66.66,
+ "equity": 95.7,
  "start": 100.0,
  "open": [
   {
@@ -25,6 +25,40 @@
    "conf": 0.7,
    "end": "2026-10-04T13:30:00+00:00",
    "last_bid": 0.33
+  },
+  {
+   "market_id": "3871423",
+   "question": "Rams vs. Eagles",
+   "slug": "nfl-la-phi-2026-10-04",
+   "outcome": "Eagles",
+   "token": "10889876095126367877938328104129413870379389916189414854301662043767769125622",
+   "shares": 27.027027027027028,
+   "entry": 0.37,
+   "cost": 10.0,
+   "opened": 1791114770.6663647,
+   "opened_iso": "2026-10-04T11:52:50+00:00",
+   "news": "New NFL Rumors on Puka Nacua's Snap Count in Return From Injury for Rams vs. Eagles",
+   "reason": "rules: -[injury] subject 'Rams' vs 'Eagles'",
+   "conf": 0.72,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.36
+  },
+  {
+   "market_id": "3871410",
+   "question": "Titans vs. Ravens",
+   "slug": "nfl-ten-bal-2026-10-04",
+   "outcome": "Ravens",
+   "token": "20769138198650474260608010012760114451960295507238561528972423627349347943119",
+   "shares": 11.627906976744185,
+   "entry": 0.8600000000000001,
+   "cost": 10.0,
+   "opened": 1791115174.7929976,
+   "opened_iso": "2026-10-04T11:59:34+00:00",
+   "news": "NFL insider confirms suspicion surrounding Zay Flowers' injury that had him questionable heading into Titans matchup",
+   "reason": "rules: -[injury,questionable] match[titans] outcome 'Titans' bad",
+   "conf": 0.71,
+   "end": "2026-10-04T17:00:00+00:00",
+   "last_bid": 0.85
   }
  ],
  "closed_count": 26,

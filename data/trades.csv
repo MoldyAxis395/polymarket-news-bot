@@ -52,3 +52,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-04T08:01:19+00:00,BUY,Colts vs. Commanders,Commanders,28.57,0.3500,10.00,,Colts rule starting wide receiver out for Week 4 game vs Commanders | rules: -[out for] subject 'Colts' vs 'Commanders'
 2026-10-04T08:26:55+00:00,BUY,Will Max Verstappen win the 2026 F1 Bahrain Grand Prix?,No,22.73,0.4400,10.00,,"F1 Bahrain Grand Prix 2026: Race Starting Procedure Suspended at Sepang, Max Verstappen To Start On Pole — Start Order Unchanged | rules: -[suspended] match[bahrain,grand,max,prix,verstappen] yes/no q_neg=False opp=False"
 2026-10-04T08:28:20+00:00,SELL,Will Max Verstappen win the 2026 F1 Bahrain Grand Prix?,No,22.73,0.3888,8.84,-1.16,stop loss
+2026-10-04T11:52:50+00:00,BUY,Rams vs. Eagles,Eagles,27.03,0.3700,10.00,,New NFL Rumors on Puka Nacua's Snap Count in Return From Injury for Rams vs. Eagles | rules: -[injury] subject 'Rams' vs 'Eagles'
+2026-10-04T11:59:34+00:00,BUY,Titans vs. Ravens,Ravens,11.63,0.8600,10.00,,"NFL insider confirms suspicion surrounding Zay Flowers' injury that had him questionable heading into Titans matchup | rules: -[injury,questionable] match[titans] outcome 'Titans' bad"
