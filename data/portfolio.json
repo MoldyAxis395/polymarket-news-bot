@@ -1,24 +1,6 @@
 {
- "cash": 84.99189793544664,
- "positions": [
-  {
-   "market_id": "4024681",
-   "question": "Ravens vs. Falcons",
-   "slug": "nfl-bal-atl-2026-10-12",
-   "outcome": "Falcons",
-   "token": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
-   "shares": 31.25,
-   "entry": 0.32,
-   "cost": 10.0,
-   "opened": 1791141120.6583486,
-   "opened_iso": "2026-10-04T19:12:00+00:00",
-   "news": "Ravens QB Lamar Jackson (ankle) questionable to return vs. Titans",
-   "reason": "rules: -[questionable] match[ravens] outcome 'Ravens' bad",
-   "conf": 0.59,
-   "end": "2026-10-12T00:20:00+00:00",
-   "last_bid": 0.3
-  }
- ],
+ "cash": 93.74189793544664,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -733,6 +715,27 @@
    "pnl": -0.15384615384615508,
    "why": "max hold",
    "closed_iso": "2026-10-04T18:47:45+00:00"
+  },
+  {
+   "market_id": "4024681",
+   "question": "Ravens vs. Falcons",
+   "slug": "nfl-bal-atl-2026-10-12",
+   "outcome": "Falcons",
+   "token": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
+   "shares": 31.25,
+   "entry": 0.32,
+   "cost": 10.0,
+   "opened": 1791141120.6583486,
+   "opened_iso": "2026-10-04T19:12:00+00:00",
+   "news": "Ravens QB Lamar Jackson (ankle) questionable to return vs. Titans",
+   "reason": "rules: -[questionable] match[ravens] outcome 'Ravens' bad",
+   "conf": 0.59,
+   "end": "2026-10-12T00:20:00+00:00",
+   "last_bid": 0.28,
+   "exit": 0.28,
+   "pnl": -1.2499999999999982,
+   "why": "stop loss",
+   "closed_iso": "2026-10-04T20:06:52+00:00"
   }
  ],
  "cooldown": {
@@ -757,6 +760,7 @@
   "5097093": 1791123919.144898,
   "4877201": 1791126598.4894545,
   "3871410": 1791137518.3286154,
-  "3871436": 1791143265.9806473
+  "3871436": 1791143265.9806473,
+  "4024681": 1791148012.0428784
  }
 }

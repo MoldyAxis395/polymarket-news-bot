@@ -1,32 +1,14 @@
 {
- "updated": "2026-10-04T21:46:30",
+ "updated": "2026-10-04T22:16:17",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 825,
- "news_processed": 291,
- "cash": 84.99,
- "equity": 94.37,
+ "markets_indexed": 777,
+ "news_processed": 334,
+ "cash": 93.74,
+ "equity": 93.74,
  "start": 100.0,
- "open": [
-  {
-   "market_id": "4024681",
-   "question": "Ravens vs. Falcons",
-   "slug": "nfl-bal-atl-2026-10-12",
-   "outcome": "Falcons",
-   "token": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
-   "shares": 31.25,
-   "entry": 0.32,
-   "cost": 10.0,
-   "opened": 1791141120.6583486,
-   "opened_iso": "2026-10-04T19:12:00+00:00",
-   "news": "Ravens QB Lamar Jackson (ankle) questionable to return vs. Titans",
-   "reason": "rules: -[questionable] match[ravens] outcome 'Ravens' bad",
-   "conf": 0.59,
-   "end": "2026-10-12T00:20:00+00:00",
-   "last_bid": 0.3
-  }
- ],
- "closed_count": 34,
- "realized_pnl": -5.01
+ "open": [],
+ "closed_count": 35,
+ "realized_pnl": -6.26
 }
