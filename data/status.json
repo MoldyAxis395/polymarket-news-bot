@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-05T22:36:32",
+ "updated": "2026-10-05T23:06:19",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 242,
- "markets_indexed": 900,
- "news_processed": 252,
+ "llm_calls_today": 297,
+ "markets_indexed": 896,
+ "news_processed": 305,
  "cash": 40.78,
- "equity": 89.91,
+ "equity": 89.96,
  "start": 100.0,
  "open": [
   {
@@ -75,7 +75,7 @@
    "reason": "llm[groq-20b]: Defender out, Buccaneers weakened, Cowboys favored",
    "conf": 0.8,
    "end": "2026-10-09T00:15:00+00:00",
-   "last_bid": 0.82
+   "last_bid": 0.81
   },
   {
    "market_id": "5175495",
@@ -92,7 +92,7 @@
    "reason": "llm[groq-20b]: Tyquan Thornton injury likely hurts White Sox, boosting Guardians win odds",
    "conf": 0.6,
    "end": "2026-10-12T21:00:00+00:00",
-   "last_bid": 0.58
+   "last_bid": 0.59
   }
  ],
  "closed_count": 43,
