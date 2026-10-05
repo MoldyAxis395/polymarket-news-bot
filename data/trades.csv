@@ -85,3 +85,8 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-05T12:47:10+00:00,SELL,West Indies Tour of India T20s: India vs West Indies,India,12.66,0.7700,9.75,-0.25,max hold
 2026-10-05T18:32:22+00:00,BUY,Browns vs. Jets,Jets,17.86,0.5600,10.00,,"Jets Should Sign 5-Time Pro Bowler After Season-Ending Injury | llm[groq-120b]: Jets signing a 5‑time Pro Bowler after an injury should boost their win probability, so the Jets price is likely to rise"
 2026-10-05T18:32:27+00:00,SELL,Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro League Group Stage,Team Falcons,27.03,0.3900,10.54,+0.54,max hold
+2026-10-05T18:45:49+00:00,BUY,Falcons vs. Saints,Falcons,20.83,0.4800,10.00,,"Saints WR Jordyn Tyson still likely weeks away from injury return: report | llm[groq-120b]: Tyson's injury lowers Saints' offense, boosting Falcons win odds"
+2026-10-05T18:47:02+00:00,SELL,Bears vs. Packers,Packers,23.81,0.4100,9.76,-0.24,max hold
+2026-10-05T18:47:24+00:00,SELL,Ravens vs. Falcons,Falcons,27.78,0.3700,10.28,+0.28,max hold
+2026-10-05T18:50:25+00:00,BUY,Buccaneers vs. Cowboys,Cowboys,12.05,0.8300,10.00,,"Star Buccaneers Defender Out For Multiple Weeks After Week 4 Injury | llm[groq-20b]: Defender out, Buccaneers weakened, Cowboys favored"
+2026-10-05T18:50:27+00:00,BUY,Chicago White Sox vs. Cleveland Guardians,Cleveland Guardians,16.95,0.5900,10.00,,"New angle shows Tyquan Thornton getting up unaware of horrific injury | llm[groq-20b]: Tyquan Thornton injury likely hurts White Sox, boosting Guardians win odds"

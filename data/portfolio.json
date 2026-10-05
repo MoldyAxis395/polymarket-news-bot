@@ -1,5 +1,5 @@
 {
- "cash": 50.74457503947333,
+ "cash": 40.78425757915587,
  "positions": [
   {
    "market_id": "5199920",
@@ -19,40 +19,6 @@
    "last_bid": 0.5
   },
   {
-   "market_id": "4024678",
-   "question": "Bears vs. Packers",
-   "slug": "nfl-chi-gb-2026-10-11",
-   "outcome": "Packers",
-   "token": "54279491274786956127455930816409059670408770683649891919452938777692299299587",
-   "shares": 23.80952380952381,
-   "entry": 0.42,
-   "cost": 10.0,
-   "opened": 1791204416.7679415,
-   "opened_iso": "2026-10-05T12:46:56+00:00",
-   "news": "Alternate angle of Tyquan Thornton\u2019s gruesome ankle injury shows his amazing toughness",
-   "reason": "llm[groq-120b]: Tyquan Thornton (Bears WR) injury lowers Bears' chance, likely boosting Packers win probability",
-   "conf": 0.7,
-   "end": "2026-10-11T20:25:00+00:00",
-   "last_bid": 0.41
-  },
-  {
-   "market_id": "4024681",
-   "question": "Ravens vs. Falcons",
-   "slug": "nfl-bal-atl-2026-10-12",
-   "outcome": "Falcons",
-   "token": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
-   "shares": 27.77777777777778,
-   "entry": 0.36,
-   "cost": 10.0,
-   "opened": 1791204425.7078872,
-   "opened_iso": "2026-10-05T12:47:05+00:00",
-   "news": "Lamar Jackson Ankle Injury vs Titans: Ravens Turn to Huntley",
-   "reason": "llm[groq-120b]: Jackson injury lowers Ravens win chance, boosting Falcons odds",
-   "conf": 0.8,
-   "end": "2026-10-12T00:20:00+00:00",
-   "last_bid": 0.37
-  },
-  {
    "market_id": "4024666",
    "question": "Browns vs. Jets",
    "slug": "nfl-cle-nyj-2026-10-11",
@@ -68,6 +34,57 @@
    "conf": 0.7,
    "end": "2026-10-11T17:00:00+00:00",
    "last_bid": 0.55
+  },
+  {
+   "market_id": "3871438",
+   "question": "Falcons vs. Saints",
+   "slug": "nfl-atl-no-2026-10-06",
+   "outcome": "Falcons",
+   "token": "99779894568963227232071656210774919959161987056159213353797239805610524496082",
+   "shares": 20.833333333333336,
+   "entry": 0.4799999999999999,
+   "cost": 10.0,
+   "opened": 1791225949.404074,
+   "opened_iso": "2026-10-05T18:45:49+00:00",
+   "news": "Saints WR Jordyn Tyson still likely weeks away from injury return: report",
+   "reason": "llm[groq-120b]: Tyson's injury lowers Saints' offense, boosting Falcons win odds",
+   "conf": 0.7,
+   "end": "2026-10-06T00:15:00+00:00",
+   "last_bid": 0.47
+  },
+  {
+   "market_id": "3951230",
+   "question": "Buccaneers vs. Cowboys",
+   "slug": "nfl-tb-dal-2026-10-09",
+   "outcome": "Cowboys",
+   "token": "66616602105135321479456151494379932980062039030841962258728108349184895983957",
+   "shares": 12.048192771084338,
+   "entry": 0.83,
+   "cost": 10.0,
+   "opened": 1791226225.6727831,
+   "opened_iso": "2026-10-05T18:50:25+00:00",
+   "news": "Star Buccaneers Defender Out For Multiple Weeks After Week 4 Injury",
+   "reason": "llm[groq-20b]: Defender out, Buccaneers weakened, Cowboys favored",
+   "conf": 0.8,
+   "end": "2026-10-09T00:15:00+00:00",
+   "last_bid": 0.82
+  },
+  {
+   "market_id": "5175495",
+   "question": "Chicago White Sox vs. Cleveland Guardians",
+   "slug": "mlb-cws-cle-2026-10-05",
+   "outcome": "Cleveland Guardians",
+   "token": "27296269198398302531536013075855418914527539696484241277841783361211959096632",
+   "shares": 16.949152542372882,
+   "entry": 0.59,
+   "cost": 10.0,
+   "opened": 1791226227.2826579,
+   "opened_iso": "2026-10-05T18:50:27+00:00",
+   "news": "New angle shows Tyquan Thornton getting up unaware of horrific injury",
+   "reason": "llm[groq-20b]: Tyquan Thornton injury likely hurts White Sox, boosting Guardians win odds",
+   "conf": 0.6,
+   "end": "2026-10-12T21:00:00+00:00",
+   "last_bid": 0.58
   }
  ],
  "closed": [
@@ -931,6 +948,48 @@
    "pnl": 0.5405405405405421,
    "why": "max hold",
    "closed_iso": "2026-10-05T18:32:28+00:00"
+  },
+  {
+   "market_id": "4024678",
+   "question": "Bears vs. Packers",
+   "slug": "nfl-chi-gb-2026-10-11",
+   "outcome": "Packers",
+   "token": "54279491274786956127455930816409059670408770683649891919452938777692299299587",
+   "shares": 23.80952380952381,
+   "entry": 0.42,
+   "cost": 10.0,
+   "opened": 1791204416.7679415,
+   "opened_iso": "2026-10-05T12:46:56+00:00",
+   "news": "Alternate angle of Tyquan Thornton\u2019s gruesome ankle injury shows his amazing toughness",
+   "reason": "llm[groq-120b]: Tyquan Thornton (Bears WR) injury lowers Bears' chance, likely boosting Packers win probability",
+   "conf": 0.7,
+   "end": "2026-10-11T20:25:00+00:00",
+   "last_bid": 0.41,
+   "exit": 0.41,
+   "pnl": -0.23809523809523903,
+   "why": "max hold",
+   "closed_iso": "2026-10-05T18:47:03+00:00"
+  },
+  {
+   "market_id": "4024681",
+   "question": "Ravens vs. Falcons",
+   "slug": "nfl-bal-atl-2026-10-12",
+   "outcome": "Falcons",
+   "token": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
+   "shares": 27.77777777777778,
+   "entry": 0.36,
+   "cost": 10.0,
+   "opened": 1791204425.7078872,
+   "opened_iso": "2026-10-05T12:47:05+00:00",
+   "news": "Lamar Jackson Ankle Injury vs Titans: Ravens Turn to Huntley",
+   "reason": "llm[groq-120b]: Jackson injury lowers Ravens win chance, boosting Falcons odds",
+   "conf": 0.8,
+   "end": "2026-10-12T00:20:00+00:00",
+   "last_bid": 0.37,
+   "exit": 0.37,
+   "pnl": 0.27777777777777857,
+   "why": "max hold",
+   "closed_iso": "2026-10-05T18:47:25+00:00"
   }
  ],
  "cooldown": {
@@ -956,9 +1015,10 @@
   "4877201": 1791194397.1493647,
   "3871410": 1791137518.3286154,
   "3871436": 1791143265.9806473,
-  "4024681": 1791179842.8141334,
+  "4024681": 1791229645.2189603,
   "5155252": 1791208030.8017554,
   "601826": 1791178955.2599277,
-  "5299146": 1791228748.0808034
+  "5299146": 1791228748.0808034,
+  "4024678": 1791229623.4370823
  }
 }
