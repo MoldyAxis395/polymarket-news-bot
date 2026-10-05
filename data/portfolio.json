@@ -1,5 +1,5 @@
 {
- "cash": 40.20403449893279,
+ "cash": 49.933764228662525,
  "positions": [
   {
    "market_id": "5199920",
@@ -19,23 +19,6 @@
    "last_bid": 0.5
   },
   {
-   "market_id": "5299146",
-   "question": "Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro League Group Stage",
-   "slug": "cs2-vit-fal2-2026-10-05",
-   "outcome": "Team Falcons",
-   "token": "13406352742460433491528562384955982820520815051593243221282108340791310517672",
-   "shares": 27.027027027027028,
-   "entry": 0.37,
-   "cost": 10.0,
-   "opened": 1791195645.6574152,
-   "opened_iso": "2026-10-05T10:20:45+00:00",
-   "news": "Lamar Jackson ankle injury: will he play against the Falcons?",
-   "reason": "rules: +[] match[falcons] outcome 'Team Falcons' good",
-   "conf": 0.55,
-   "end": "2026-10-05T22:30:00+00:00",
-   "last_bid": 0.36
-  },
-  {
    "market_id": "4024678",
    "question": "Bears vs. Packers",
    "slug": "nfl-chi-gb-2026-10-11",
@@ -50,7 +33,7 @@
    "reason": "llm[groq-120b]: Tyquan Thornton (Bears WR) injury lowers Bears' chance, likely boosting Packers win probability",
    "conf": 0.7,
    "end": "2026-10-11T20:25:00+00:00",
-   "last_bid": 0.42
+   "last_bid": 0.43
   },
   {
    "market_id": "4024681",
@@ -927,6 +910,27 @@
    "pnl": -0.2531645569620249,
    "why": "max hold",
    "closed_iso": "2026-10-05T12:47:10+00:00"
+  },
+  {
+   "market_id": "5299146",
+   "question": "Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro League Group Stage",
+   "slug": "cs2-vit-fal2-2026-10-05",
+   "outcome": "Team Falcons",
+   "token": "13406352742460433491528562384955982820520815051593243221282108340791310517672",
+   "shares": 27.027027027027028,
+   "entry": 0.37,
+   "cost": 10.0,
+   "opened": 1791195645.6574152,
+   "opened_iso": "2026-10-05T10:20:45+00:00",
+   "news": "Lamar Jackson ankle injury: will he play against the Falcons?",
+   "reason": "rules: +[] match[falcons] outcome 'Team Falcons' good",
+   "conf": 0.55,
+   "end": "2026-10-05T22:30:00+00:00",
+   "last_bid": 0.36,
+   "exit": 0.36,
+   "pnl": -0.2702702702702702,
+   "why": "max hold",
+   "closed_iso": "2026-10-05T16:21:17+00:00"
   }
  ],
  "cooldown": {
@@ -954,6 +958,7 @@
   "3871436": 1791143265.9806473,
   "4024681": 1791179842.8141334,
   "5155252": 1791208030.8017554,
-  "601826": 1791178955.2599277
+  "601826": 1791178955.2599277,
+  "5299146": 1791220877.5116923
  }
 }

@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-05T17:51:26",
+ "updated": "2026-10-05T18:21:18",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 261,
- "markets_indexed": 916,
- "news_processed": 308,
- "cash": 40.2,
- "equity": 89.25,
+ "llm_calls_today": 304,
+ "markets_indexed": 937,
+ "news_processed": 364,
+ "cash": 49.93,
+ "equity": 89.48,
  "start": 100.0,
  "open": [
   {
@@ -27,23 +27,6 @@
    "last_bid": 0.5
   },
   {
-   "market_id": "5299146",
-   "question": "Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro League Group Stage",
-   "slug": "cs2-vit-fal2-2026-10-05",
-   "outcome": "Team Falcons",
-   "token": "13406352742460433491528562384955982820520815051593243221282108340791310517672",
-   "shares": 27.027027027027028,
-   "entry": 0.37,
-   "cost": 10.0,
-   "opened": 1791195645.6574152,
-   "opened_iso": "2026-10-05T10:20:45+00:00",
-   "news": "Lamar Jackson ankle injury: will he play against the Falcons?",
-   "reason": "rules: +[] match[falcons] outcome 'Team Falcons' good",
-   "conf": 0.55,
-   "end": "2026-10-05T22:30:00+00:00",
-   "last_bid": 0.36
-  },
-  {
    "market_id": "4024678",
    "question": "Bears vs. Packers",
    "slug": "nfl-chi-gb-2026-10-11",
@@ -58,7 +41,7 @@
    "reason": "llm[groq-120b]: Tyquan Thornton (Bears WR) injury lowers Bears' chance, likely boosting Packers win probability",
    "conf": 0.7,
    "end": "2026-10-11T20:25:00+00:00",
-   "last_bid": 0.42
+   "last_bid": 0.43
   },
   {
    "market_id": "4024681",
@@ -95,6 +78,6 @@
    "last_bid": 0.12
   }
  ],
- "closed_count": 40,
- "realized_pnl": -9.8
+ "closed_count": 41,
+ "realized_pnl": -10.07
 }
