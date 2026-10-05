@@ -1,5 +1,5 @@
 {
- "cash": 40.78425757915587,
+ "cash": 42.64866435881689,
  "positions": [
   {
    "market_id": "5199920",
@@ -70,21 +70,21 @@
    "last_bid": 0.81
   },
   {
-   "market_id": "5175495",
-   "question": "Chicago White Sox vs. Cleveland Guardians",
-   "slug": "mlb-cws-cle-2026-10-05",
-   "outcome": "Cleveland Guardians",
-   "token": "27296269198398302531536013075855418914527539696484241277841783361211959096632",
-   "shares": 16.949152542372882,
-   "entry": 0.59,
+   "market_id": "4024655",
+   "question": "Eagles vs. Jaguars",
+   "slug": "nfl-phi-jax-2026-10-11",
+   "outcome": "Jaguars",
+   "token": "79216258135316305711557803023672391620131317040612549629193559999300974564217",
+   "shares": 14.492753623188406,
+   "entry": 0.69,
    "cost": 10.0,
-   "opened": 1791226227.2826579,
-   "opened_iso": "2026-10-05T18:50:27+00:00",
-   "news": "New angle shows Tyquan Thornton getting up unaware of horrific injury",
-   "reason": "llm[groq-20b]: Tyquan Thornton injury likely hurts White Sox, boosting Guardians win odds",
-   "conf": 0.6,
-   "end": "2026-10-12T21:00:00+00:00",
-   "last_bid": 0.59
+   "opened": 1791235752.0631397,
+   "opened_iso": "2026-10-05T21:29:12+00:00",
+   "news": "Eagles RB Tank Bigsby to have surgery on a core muscle injury",
+   "reason": "llm[groq-120b]: Eagles RB Tank Bigsby surgery lowers Eagles offensive strength, likely increasing Jaguars win probability by >5 points",
+   "conf": 0.7,
+   "end": "2026-10-11T13:30:00+00:00",
+   "last_bid": 0.68
   }
  ],
  "closed": [
@@ -990,6 +990,27 @@
    "pnl": 0.27777777777777857,
    "why": "max hold",
    "closed_iso": "2026-10-05T18:47:25+00:00"
+  },
+  {
+   "market_id": "5175495",
+   "question": "Chicago White Sox vs. Cleveland Guardians",
+   "slug": "mlb-cws-cle-2026-10-05",
+   "outcome": "Cleveland Guardians",
+   "token": "27296269198398302531536013075855418914527539696484241277841783361211959096632",
+   "shares": 16.949152542372882,
+   "entry": 0.59,
+   "cost": 10.0,
+   "opened": 1791226227.2826579,
+   "opened_iso": "2026-10-05T18:50:27+00:00",
+   "news": "New angle shows Tyquan Thornton getting up unaware of horrific injury",
+   "reason": "llm[groq-20b]: Tyquan Thornton injury likely hurts White Sox, boosting Guardians win odds",
+   "conf": 0.6,
+   "end": "2026-10-12T21:00:00+00:00",
+   "last_bid": 0.7,
+   "exit": 0.7,
+   "pnl": 1.8644067796610173,
+   "why": "take profit",
+   "closed_iso": "2026-10-05T21:17:34+00:00"
   }
  ],
  "cooldown": {
@@ -1019,6 +1040,7 @@
   "5155252": 1791208030.8017554,
   "601826": 1791178955.2599277,
   "5299146": 1791228748.0808034,
-  "4024678": 1791229623.4370823
+  "4024678": 1791229623.4370823,
+  "5175495": 1791238654.6412206
  }
 }
