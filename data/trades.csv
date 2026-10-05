@@ -80,3 +80,6 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-05T08:18:21+00:00,BUY,Will England win on 2026-10-06?,No,71.43,0.1400,10.00,,"Alex Scott ruled out of England’s clash with Czechia | rules: -[ruled out] match[czechia,england] yes/no q_neg=False opp=False"
 2026-10-05T08:59:56+00:00,SELL,Will England win on 2026-10-06?,No,71.43,0.1200,8.57,-1.43,stop loss
 2026-10-05T10:20:45+00:00,BUY,Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro League Group Stage,Team Falcons,27.03,0.3700,10.00,,Lamar Jackson ankle injury: will he play against the Falcons? | rules: +[] match[falcons] outcome 'Team Falcons' good
+2026-10-05T12:46:56+00:00,BUY,Bears vs. Packers,Packers,23.81,0.4200,10.00,,"Alternate angle of Tyquan Thornton’s gruesome ankle injury shows his amazing toughness | llm[groq-120b]: Tyquan Thornton (Bears WR) injury lowers Bears' chance, likely boosting Packers win probability"
+2026-10-05T12:47:05+00:00,BUY,Ravens vs. Falcons,Falcons,27.78,0.3600,10.00,,"Lamar Jackson Ankle Injury vs Titans: Ravens Turn to Huntley | llm[groq-120b]: Jackson injury lowers Ravens win chance, boosting Falcons odds"
+2026-10-05T12:47:10+00:00,SELL,West Indies Tour of India T20s: India vs West Indies,India,12.66,0.7700,9.75,-0.25,max hold
