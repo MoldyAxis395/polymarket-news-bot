@@ -50,7 +50,7 @@
    "reason": "rules: +[wins] match[bolsonaro,fl\u00e1vio] yes/no q_neg=False opp=False",
    "conf": 0.61,
    "end": "2026-10-05T03:59:00+00:00",
-   "last_bid": 0.844
+   "last_bid": 0.841
   }
  ],
  "closed": [
