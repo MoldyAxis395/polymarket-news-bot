@@ -1,5 +1,5 @@
 {
- "cash": 61.88577048446625,
+ "cash": 70.45719905589482,
  "positions": [
   {
    "market_id": "5199920",
@@ -34,23 +34,6 @@
    "conf": 0.72,
    "end": "2026-10-13T13:30:00+00:00",
    "last_bid": 0.78
-  },
-  {
-   "market_id": "4877201",
-   "question": "Will England win on 2026-10-06?",
-   "slug": "unl-eng-cze-2026-10-06-eng",
-   "outcome": "No",
-   "token": "103897761223782760367766602994934330475010089757264968293197265023286555043339",
-   "shares": 71.42857142857142,
-   "entry": 0.14,
-   "cost": 10.0,
-   "opened": 1791188301.871062,
-   "opened_iso": "2026-10-05T08:18:21+00:00",
-   "news": "Alex Scott ruled out of England\u2019s clash with Czechia",
-   "reason": "rules: -[ruled out] match[czechia,england] yes/no q_neg=False opp=False",
-   "conf": 0.7,
-   "end": "2026-10-06T18:45:00+00:00",
-   "last_bid": 0.13
   }
  ],
  "closed": [
@@ -851,6 +834,27 @@
    "pnl": -0.4208333333333325,
    "why": "max hold",
    "closed_iso": "2026-10-05T04:57:22+00:00"
+  },
+  {
+   "market_id": "4877201",
+   "question": "Will England win on 2026-10-06?",
+   "slug": "unl-eng-cze-2026-10-06-eng",
+   "outcome": "No",
+   "token": "103897761223782760367766602994934330475010089757264968293197265023286555043339",
+   "shares": 71.42857142857142,
+   "entry": 0.14,
+   "cost": 10.0,
+   "opened": 1791188301.871062,
+   "opened_iso": "2026-10-05T08:18:21+00:00",
+   "news": "Alex Scott ruled out of England\u2019s clash with Czechia",
+   "reason": "rules: -[ruled out] match[czechia,england] yes/no q_neg=False opp=False",
+   "conf": 0.7,
+   "end": "2026-10-06T18:45:00+00:00",
+   "last_bid": 0.12,
+   "exit": 0.12,
+   "pnl": -1.4285714285714306,
+   "why": "stop loss",
+   "closed_iso": "2026-10-05T08:59:57+00:00"
   }
  ],
  "cooldown": {
@@ -873,7 +877,7 @@
   "1235547": 1791092193.6584835,
   "5206572": 1791106101.1991994,
   "5097093": 1791123919.144898,
-  "4877201": 1791126598.4894545,
+  "4877201": 1791194397.1493647,
   "3871410": 1791137518.3286154,
   "3871436": 1791143265.9806473,
   "4024681": 1791179842.8141334,
