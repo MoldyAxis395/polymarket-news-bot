@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-05T19:51:18",
+ "updated": "2026-10-05T20:21:26",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 407,
- "markets_indexed": 942,
- "news_processed": 534,
+ "llm_calls_today": 440,
+ "markets_indexed": 939,
+ "news_processed": 576,
  "cash": 39.93,
- "equity": 89.02,
+ "equity": 88.79,
  "start": 100.0,
  "open": [
   {
@@ -41,7 +41,7 @@
    "reason": "llm[groq-120b]: Tyquan Thornton (Bears WR) injury lowers Bears' chance, likely boosting Packers win probability",
    "conf": 0.7,
    "end": "2026-10-11T20:25:00+00:00",
-   "last_bid": 0.42
+   "last_bid": 0.41
   },
   {
    "market_id": "4024681",
