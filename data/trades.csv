@@ -71,3 +71,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-04T20:06:51+00:00,SELL,Ravens vs. Falcons,Falcons,31.25,0.2800,8.75,-1.25,stop loss
 2026-10-04T22:57:14+00:00,BUY,Ravens vs. Falcons,Falcons,29.03,0.3445,10.00,,Lamar Jackson injury: Latest on Ravens QB's status vs. Falcons | rules: -[injury] subject 'Ravens' vs 'Falcons'
 2026-10-04T23:17:07+00:00,BUY,"T20 Series South Africa, Women: Warriors vs Lions",Lions,19.61,0.5100,10.00,,Jalen Coker Ruled Out for Sunday Night Football Vs. Lions - NFL News | Fantasy Football | rules: +[] match[lions] outcome 'Lions' good
+2026-10-05T00:16:06+00:00,BUY,Will Flávio Bolsonaro win the 2026 Brazilian presidential election?,Yes,11.76,0.8500,10.00,,"Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round | rules: +[wins] match[bolsonaro,flávio] yes/no q_neg=False opp=False"

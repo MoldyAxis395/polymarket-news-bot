@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-05T02:01:42",
+ "updated": "2026-10-05T02:31:24",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 826,
- "news_processed": 124,
- "cash": 73.74,
- "equity": 92.83,
+ "markets_indexed": 828,
+ "news_processed": 156,
+ "cash": 63.74,
+ "equity": 92.79,
  "start": 100.0,
  "open": [
   {
@@ -42,6 +42,23 @@
    "conf": 0.66,
    "end": "2026-10-11T08:00:00+00:00",
    "last_bid": 0.5
+  },
+  {
+   "market_id": "601826",
+   "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+   "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+   "outcome": "Yes",
+   "token": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+   "shares": 11.764705882352942,
+   "entry": 0.85,
+   "cost": 10.0,
+   "opened": 1791159366.7449965,
+   "opened_iso": "2026-10-05T00:16:06+00:00",
+   "news": "Brazil election goes to run-off as right-wing Fl\u00e1vio Bolsonaro wins first round",
+   "reason": "rules: +[wins] match[bolsonaro,fl\u00e1vio] yes/no q_neg=False opp=False",
+   "conf": 0.61,
+   "end": "2026-10-05T03:59:00+00:00",
+   "last_bid": 0.846
   }
  ],
  "closed_count": 35,
