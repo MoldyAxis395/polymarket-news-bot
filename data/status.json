@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-05T17:21:09",
+ "updated": "2026-10-05T17:51:26",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 228,
- "markets_indexed": 910,
- "news_processed": 265,
+ "llm_calls_today": 261,
+ "markets_indexed": 916,
+ "news_processed": 308,
  "cash": 40.2,
- "equity": 89.52,
+ "equity": 89.25,
  "start": 100.0,
  "open": [
   {
@@ -75,7 +75,7 @@
    "reason": "llm[groq-120b]: Jackson injury lowers Ravens win chance, boosting Falcons odds",
    "conf": 0.8,
    "end": "2026-10-12T00:20:00+00:00",
-   "last_bid": 0.38
+   "last_bid": 0.37
   },
   {
    "market_id": "4877201",
