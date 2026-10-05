@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-05T18:51:27",
+ "updated": "2026-10-05T19:21:26",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 343,
- "markets_indexed": 938,
- "news_processed": 422,
- "cash": 49.93,
- "equity": 89.25,
+ "llm_calls_today": 375,
+ "markets_indexed": 935,
+ "news_processed": 479,
+ "cash": 39.93,
+ "equity": 89.02,
  "start": 100.0,
  "open": [
   {
@@ -76,6 +76,23 @@
    "conf": 0.6,
    "end": "2026-10-06T18:45:00+00:00",
    "last_bid": 0.12
+  },
+  {
+   "market_id": "4024666",
+   "question": "Browns vs. Jets",
+   "slug": "nfl-cle-nyj-2026-10-11",
+   "outcome": "Browns",
+   "token": "2848035063391309734286002757484669737569315121420636475181738567011659885287",
+   "shares": 22.22222222222222,
+   "entry": 0.45,
+   "cost": 10.0,
+   "opened": 1791220068.8668127,
+   "opened_iso": "2026-10-05T17:07:48+00:00",
+   "news": "Jets preseason hero Nate Lynn primed for first NFL opportunity after latest injury",
+   "reason": "llm[groq-120b]: Nate Lynn injury hurts Jets, likely boosting Browns odds",
+   "conf": 0.7,
+   "end": "2026-10-11T17:00:00+00:00",
+   "last_bid": 0.44
   }
  ],
  "closed_count": 41,
