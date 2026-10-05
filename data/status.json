@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-06T01:06:39",
+ "updated": "2026-10-06T01:36:50",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 449,
- "markets_indexed": 898,
- "news_processed": 481,
+ "llm_calls_today": 477,
+ "markets_indexed": 904,
+ "news_processed": 519,
  "cash": 42.65,
- "equity": 91.97,
+ "equity": 92.47,
  "start": 100.0,
  "open": [
   {
@@ -58,7 +58,7 @@
    "reason": "llm[groq-120b]: Tyson's injury lowers Saints' offense, boosting Falcons win odds",
    "conf": 0.7,
    "end": "2026-10-06T00:15:00+00:00",
-   "last_bid": 0.47
+   "last_bid": 0.48
   },
   {
    "market_id": "3951230",
@@ -92,7 +92,7 @@
    "reason": "llm[groq-120b]: Eagles RB Tank Bigsby surgery lowers Eagles offensive strength, likely increasing Jaguars win probability by >5 points",
    "conf": 0.7,
    "end": "2026-10-11T13:30:00+00:00",
-   "last_bid": 0.7
+   "last_bid": 0.72
   }
  ],
  "closed_count": 44,
