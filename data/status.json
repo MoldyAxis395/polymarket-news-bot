@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-05T03:31:33",
+ "updated": "2026-10-05T04:01:48",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 820,
- "news_processed": 227,
+ "markets_indexed": 809,
+ "news_processed": 252,
  "cash": 62.54,
- "equity": 91.6,
+ "equity": 91.84,
  "start": 100.0,
  "open": [
   {
@@ -24,7 +24,7 @@
    "reason": "rules: -[injury] subject 'Ravens' vs 'Falcons'",
    "conf": 0.72,
    "end": "2026-10-12T00:20:00+00:00",
-   "last_bid": 0.32
+   "last_bid": 0.33
   },
   {
    "market_id": "5199920",
@@ -58,7 +58,7 @@
    "reason": "rules: +[wins] match[bolsonaro,fl\u00e1vio] yes/no q_neg=False opp=False",
    "conf": 0.61,
    "end": "2026-10-05T03:59:00+00:00",
-   "last_bid": 0.847
+   "last_bid": 0.843
   }
  ],
  "closed_count": 36,
