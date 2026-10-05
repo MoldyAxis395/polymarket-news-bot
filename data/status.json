@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-05T02:31:24",
+ "updated": "2026-10-05T03:01:28",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 828,
- "news_processed": 156,
+ "markets_indexed": 839,
+ "news_processed": 193,
  "cash": 63.74,
- "equity": 92.79,
+ "equity": 92.74,
  "start": 100.0,
  "open": [
   {
@@ -58,7 +58,7 @@
    "reason": "rules: +[wins] match[bolsonaro,fl\u00e1vio] yes/no q_neg=False opp=False",
    "conf": 0.61,
    "end": "2026-10-05T03:59:00+00:00",
-   "last_bid": 0.846
+   "last_bid": 0.842
   }
  ],
  "closed_count": 35,
