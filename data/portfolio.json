@@ -1,5 +1,5 @@
 {
- "cash": 39.933764228662525,
+ "cash": 50.74457503947333,
  "positions": [
   {
    "market_id": "5199920",
@@ -53,38 +53,21 @@
    "last_bid": 0.37
   },
   {
-   "market_id": "4877201",
-   "question": "Will England win on 2026-10-06?",
-   "slug": "unl-eng-cze-2026-10-06-eng",
-   "outcome": "No",
-   "token": "103897761223782760367766602994934330475010089757264968293197265023286555043339",
-   "shares": 76.92307692307692,
-   "entry": 0.13,
-   "cost": 10.0,
-   "opened": 1791205099.7449148,
-   "opened_iso": "2026-10-05T12:58:19+00:00",
-   "news": "England Hit By Scott Injury Blow Ahead Of Czech Republic Clash",
-   "reason": "llm[groq-120b]: England injury lowers win odds, boosting the No outcome",
-   "conf": 0.6,
-   "end": "2026-10-06T18:45:00+00:00",
-   "last_bid": 0.12
-  },
-  {
    "market_id": "4024666",
    "question": "Browns vs. Jets",
    "slug": "nfl-cle-nyj-2026-10-11",
-   "outcome": "Browns",
-   "token": "2848035063391309734286002757484669737569315121420636475181738567011659885287",
-   "shares": 22.22222222222222,
-   "entry": 0.45,
+   "outcome": "Jets",
+   "token": "13178437423787613306714793123862154236291774865703775281016183012011117761161",
+   "shares": 17.857142857142854,
+   "entry": 0.56,
    "cost": 10.0,
-   "opened": 1791220068.8668127,
-   "opened_iso": "2026-10-05T17:07:48+00:00",
-   "news": "Jets preseason hero Nate Lynn primed for first NFL opportunity after latest injury",
-   "reason": "llm[groq-120b]: Nate Lynn injury hurts Jets, likely boosting Browns odds",
+   "opened": 1791225142.7354221,
+   "opened_iso": "2026-10-05T18:32:22+00:00",
+   "news": "Jets Should Sign 5-Time Pro Bowler After Season-Ending Injury",
+   "reason": "llm[groq-120b]: Jets signing a 5\u2011time Pro Bowler after an injury should boost their win probability, so the Jets price is likely to rise",
    "conf": 0.7,
    "end": "2026-10-11T17:00:00+00:00",
-   "last_bid": 0.44
+   "last_bid": 0.55
   }
  ],
  "closed": [
@@ -943,11 +926,11 @@
    "reason": "rules: +[] match[falcons] outcome 'Team Falcons' good",
    "conf": 0.55,
    "end": "2026-10-05T22:30:00+00:00",
-   "last_bid": 0.36,
-   "exit": 0.36,
-   "pnl": -0.2702702702702702,
+   "last_bid": 0.39,
+   "exit": 0.39000000000000007,
+   "pnl": 0.5405405405405421,
    "why": "max hold",
-   "closed_iso": "2026-10-05T16:21:17+00:00"
+   "closed_iso": "2026-10-05T18:32:28+00:00"
   }
  ],
  "cooldown": {
@@ -976,6 +959,6 @@
   "4024681": 1791179842.8141334,
   "5155252": 1791208030.8017554,
   "601826": 1791178955.2599277,
-  "5299146": 1791220877.5116923
+  "5299146": 1791228748.0808034
  }
 }

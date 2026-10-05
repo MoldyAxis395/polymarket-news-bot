@@ -83,6 +83,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-05T12:46:56+00:00,BUY,Bears vs. Packers,Packers,23.81,0.4200,10.00,,"Alternate angle of Tyquan Thornton’s gruesome ankle injury shows his amazing toughness | llm[groq-120b]: Tyquan Thornton (Bears WR) injury lowers Bears' chance, likely boosting Packers win probability"
 2026-10-05T12:47:05+00:00,BUY,Ravens vs. Falcons,Falcons,27.78,0.3600,10.00,,"Lamar Jackson Ankle Injury vs Titans: Ravens Turn to Huntley | llm[groq-120b]: Jackson injury lowers Ravens win chance, boosting Falcons odds"
 2026-10-05T12:47:10+00:00,SELL,West Indies Tour of India T20s: India vs West Indies,India,12.66,0.7700,9.75,-0.25,max hold
-2026-10-05T12:58:19+00:00,BUY,Will England win on 2026-10-06?,No,76.92,0.1300,10.00,,"England Hit By Scott Injury Blow Ahead Of Czech Republic Clash | llm[groq-120b]: England injury lowers win odds, boosting the No outcome"
-2026-10-05T16:21:17+00:00,SELL,Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro League Group Stage,Team Falcons,27.03,0.3600,9.73,-0.27,max hold
-2026-10-05T17:07:48+00:00,BUY,Browns vs. Jets,Browns,22.22,0.4500,10.00,,"Jets preseason hero Nate Lynn primed for first NFL opportunity after latest injury | llm[groq-120b]: Nate Lynn injury hurts Jets, likely boosting Browns odds"
+2026-10-05T18:32:22+00:00,BUY,Browns vs. Jets,Jets,17.86,0.5600,10.00,,"Jets Should Sign 5-Time Pro Bowler After Season-Ending Injury | llm[groq-120b]: Jets signing a 5‑time Pro Bowler after an injury should boost their win probability, so the Jets price is likely to rise"
+2026-10-05T18:32:27+00:00,SELL,Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro League Group Stage,Team Falcons,27.03,0.3900,10.54,+0.54,max hold

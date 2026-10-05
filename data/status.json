@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-05T20:30:42",
+ "updated": "2026-10-05T20:36:28",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 447,
- "markets_indexed": 944,
- "news_processed": 589,
- "cash": 39.93,
- "equity": 88.79,
+ "llm_calls_today": 55,
+ "markets_indexed": 943,
+ "news_processed": 34,
+ "cash": 50.74,
+ "equity": 90.41,
  "start": 100.0,
  "open": [
   {
@@ -61,40 +61,23 @@
    "last_bid": 0.37
   },
   {
-   "market_id": "4877201",
-   "question": "Will England win on 2026-10-06?",
-   "slug": "unl-eng-cze-2026-10-06-eng",
-   "outcome": "No",
-   "token": "103897761223782760367766602994934330475010089757264968293197265023286555043339",
-   "shares": 76.92307692307692,
-   "entry": 0.13,
-   "cost": 10.0,
-   "opened": 1791205099.7449148,
-   "opened_iso": "2026-10-05T12:58:19+00:00",
-   "news": "England Hit By Scott Injury Blow Ahead Of Czech Republic Clash",
-   "reason": "llm[groq-120b]: England injury lowers win odds, boosting the No outcome",
-   "conf": 0.6,
-   "end": "2026-10-06T18:45:00+00:00",
-   "last_bid": 0.12
-  },
-  {
    "market_id": "4024666",
    "question": "Browns vs. Jets",
    "slug": "nfl-cle-nyj-2026-10-11",
-   "outcome": "Browns",
-   "token": "2848035063391309734286002757484669737569315121420636475181738567011659885287",
-   "shares": 22.22222222222222,
-   "entry": 0.45,
+   "outcome": "Jets",
+   "token": "13178437423787613306714793123862154236291774865703775281016183012011117761161",
+   "shares": 17.857142857142854,
+   "entry": 0.56,
    "cost": 10.0,
-   "opened": 1791220068.8668127,
-   "opened_iso": "2026-10-05T17:07:48+00:00",
-   "news": "Jets preseason hero Nate Lynn primed for first NFL opportunity after latest injury",
-   "reason": "llm[groq-120b]: Nate Lynn injury hurts Jets, likely boosting Browns odds",
+   "opened": 1791225142.7354221,
+   "opened_iso": "2026-10-05T18:32:22+00:00",
+   "news": "Jets Should Sign 5-Time Pro Bowler After Season-Ending Injury",
+   "reason": "llm[groq-120b]: Jets signing a 5\u2011time Pro Bowler after an injury should boost their win probability, so the Jets price is likely to rise",
    "conf": 0.7,
    "end": "2026-10-11T17:00:00+00:00",
-   "last_bid": 0.44
+   "last_bid": 0.55
   }
  ],
  "closed_count": 41,
- "realized_pnl": -10.07
+ "realized_pnl": -9.26
 }
