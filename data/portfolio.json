@@ -1,5 +1,5 @@
 {
- "cash": 70.45719905589482,
+ "cash": 60.45719905589482,
  "positions": [
   {
    "market_id": "5199920",
@@ -34,6 +34,23 @@
    "conf": 0.72,
    "end": "2026-10-13T13:30:00+00:00",
    "last_bid": 0.78
+  },
+  {
+   "market_id": "5299146",
+   "question": "Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro League Group Stage",
+   "slug": "cs2-vit-fal2-2026-10-05",
+   "outcome": "Team Falcons",
+   "token": "13406352742460433491528562384955982820520815051593243221282108340791310517672",
+   "shares": 27.027027027027028,
+   "entry": 0.37,
+   "cost": 10.0,
+   "opened": 1791195645.6574152,
+   "opened_iso": "2026-10-05T10:20:45+00:00",
+   "news": "Lamar Jackson ankle injury: will he play against the Falcons?",
+   "reason": "rules: +[] match[falcons] outcome 'Team Falcons' good",
+   "conf": 0.55,
+   "end": "2026-10-05T22:30:00+00:00",
+   "last_bid": 0.36
   }
  ],
  "closed": [

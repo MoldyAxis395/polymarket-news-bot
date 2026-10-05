@@ -79,3 +79,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-05T06:35:42+00:00,BUY,West Indies Tour of India T20s: India vs West Indies,India,12.66,0.7900,10.00,,"West Indies young opener ruled out of 1st T20I vs India, batter with T20 strike rate of 104.25 named as replacement | rules: -[ruled out] subject 'West Indies' vs 'India'"
 2026-10-05T08:18:21+00:00,BUY,Will England win on 2026-10-06?,No,71.43,0.1400,10.00,,"Alex Scott ruled out of England’s clash with Czechia | rules: -[ruled out] match[czechia,england] yes/no q_neg=False opp=False"
 2026-10-05T08:59:56+00:00,SELL,Will England win on 2026-10-06?,No,71.43,0.1200,8.57,-1.43,stop loss
+2026-10-05T10:20:45+00:00,BUY,Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro League Group Stage,Team Falcons,27.03,0.3700,10.00,,Lamar Jackson ankle injury: will he play against the Falcons? | rules: +[] match[falcons] outcome 'Team Falcons' good
