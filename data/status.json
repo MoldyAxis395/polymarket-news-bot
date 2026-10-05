@@ -1,31 +1,14 @@
 {
- "updated": "2026-10-05T06:46:43",
+ "updated": "2026-10-05T07:16:59",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 665,
- "news_processed": 12,
- "cash": 72.31,
+ "markets_indexed": 784,
+ "news_processed": 28,
+ "cash": 81.89,
  "equity": 91.69,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "4024681",
-   "question": "Ravens vs. Falcons",
-   "slug": "nfl-bal-atl-2026-10-12",
-   "outcome": "Falcons",
-   "token": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
-   "shares": 29.02777777777778,
-   "entry": 0.34449760765550236,
-   "cost": 10.0,
-   "opened": 1791154634.8979735,
-   "opened_iso": "2026-10-04T22:57:14+00:00",
-   "news": "Lamar Jackson injury: Latest on Ravens QB's status vs. Falcons",
-   "reason": "rules: -[injury] subject 'Ravens' vs 'Falcons'",
-   "conf": 0.72,
-   "end": "2026-10-12T00:20:00+00:00",
-   "last_bid": 0.33
-  },
   {
    "market_id": "5199920",
    "question": "T20 Series South Africa, Women: Warriors vs Lions",
@@ -44,6 +27,6 @@
    "last_bid": 0.5
   }
  ],
- "closed_count": 37,
- "realized_pnl": -7.69
+ "closed_count": 38,
+ "realized_pnl": -8.11
 }

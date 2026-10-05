@@ -1,23 +1,6 @@
 {
- "cash": 72.30660381779958,
+ "cash": 81.88577048446625,
  "positions": [
-  {
-   "market_id": "4024681",
-   "question": "Ravens vs. Falcons",
-   "slug": "nfl-bal-atl-2026-10-12",
-   "outcome": "Falcons",
-   "token": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
-   "shares": 29.02777777777778,
-   "entry": 0.34449760765550236,
-   "cost": 10.0,
-   "opened": 1791154634.8979735,
-   "opened_iso": "2026-10-04T22:57:14+00:00",
-   "news": "Lamar Jackson injury: Latest on Ravens QB's status vs. Falcons",
-   "reason": "rules: -[injury] subject 'Ravens' vs 'Falcons'",
-   "conf": 0.72,
-   "end": "2026-10-12T00:20:00+00:00",
-   "last_bid": 0.33
-  },
   {
    "market_id": "5199920",
    "question": "T20 Series South Africa, Women: Warriors vs Lions",
@@ -813,6 +796,27 @@
    "pnl": -0.235294117647058,
    "why": "market closing",
    "closed_iso": "2026-10-05T04:42:35+00:00"
+  },
+  {
+   "market_id": "4024681",
+   "question": "Ravens vs. Falcons",
+   "slug": "nfl-bal-atl-2026-10-12",
+   "outcome": "Falcons",
+   "token": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
+   "shares": 29.02777777777778,
+   "entry": 0.34449760765550236,
+   "cost": 10.0,
+   "opened": 1791154634.8979735,
+   "opened_iso": "2026-10-04T22:57:14+00:00",
+   "news": "Lamar Jackson injury: Latest on Ravens QB's status vs. Falcons",
+   "reason": "rules: -[injury] subject 'Ravens' vs 'Falcons'",
+   "conf": 0.72,
+   "end": "2026-10-12T00:20:00+00:00",
+   "last_bid": 0.33,
+   "exit": 0.33,
+   "pnl": -0.4208333333333325,
+   "why": "max hold",
+   "closed_iso": "2026-10-05T04:57:22+00:00"
   }
  ],
  "cooldown": {
@@ -838,7 +842,7 @@
   "4877201": 1791126598.4894545,
   "3871410": 1791137518.3286154,
   "3871436": 1791143265.9806473,
-  "4024681": 1791148012.0428784,
+  "4024681": 1791179842.8141334,
   "5155252": 1791166575.5718176,
   "601826": 1791178955.2599277
  }
