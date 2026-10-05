@@ -74,6 +74,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-05T00:16:06+00:00,BUY,Will Flávio Bolsonaro win the 2026 Brazilian presidential election?,Yes,11.76,0.8500,10.00,,"Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round | rules: +[wins] match[bolsonaro,flávio] yes/no q_neg=False opp=False"
 2026-10-05T01:16:09+00:00,BUY,West Indies Tour of India T20s: India vs West Indies,West Indies,40.00,0.2500,10.00,,Capital punishment only possible if reformation of convict is ruled out: Supreme Court | India News | rules: -[ruled out] match[india] outcome 'India' bad
 2026-10-05T01:16:15+00:00,SELL,West Indies Tour of India T20s: India vs West Indies,West Indies,40.00,0.2200,8.80,-1.20,stop loss
-2026-10-05T03:39:31+00:00,BUY,Lula flips Bolsonaro for Brazil president by October 15?,Yes,187.18,0.0534,10.00,,"Bolsonaro beats expectations in Brazil presidential vote, will face Lula in runoff | rules: +[beats] match[bolsonaro,lula] yes/no q_neg=False opp=False"
-2026-10-05T03:39:42+00:00,SELL,Lula flips Bolsonaro for Brazil president by October 15?,Yes,187.18,0.0255,4.78,-5.22,stop loss
-2026-10-05T03:54:24+00:00,SELL,Will Flávio Bolsonaro win the 2026 Brazilian presidential election?,Yes,11.76,0.8350,9.82,-0.18,market closing
+2026-10-05T04:42:34+00:00,SELL,Will Flávio Bolsonaro win the 2026 Brazilian presidential election?,Yes,11.76,0.8300,9.76,-0.24,market closing

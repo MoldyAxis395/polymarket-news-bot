@@ -1,5 +1,5 @@
 {
- "cash": 67.14497395738084,
+ "cash": 72.30660381779958,
  "positions": [
   {
    "market_id": "4024681",
@@ -794,27 +794,6 @@
    "closed_iso": "2026-10-05T01:16:15+00:00"
   },
   {
-   "market_id": "4913739",
-   "question": "Lula flips Bolsonaro for Brazil president by October 15?",
-   "slug": "lula-flips-bolsonaro-for-brazil-president-by-october-15",
-   "outcome": "Yes",
-   "token": "104218536333852010566545207418600613196690419666302242787026247959065774175979",
-   "shares": 187.18186440677965,
-   "entry": 0.05342397903606843,
-   "cost": 10.0,
-   "opened": 1791171571.4125338,
-   "opened_iso": "2026-10-05T03:39:31+00:00",
-   "news": "Bolsonaro beats expectations in Brazil presidential vote, will face Lula in runoff",
-   "reason": "rules: +[beats] match[bolsonaro,lula] yes/no q_neg=False opp=False",
-   "conf": 0.6,
-   "end": "2026-10-16T03:59:00+00:00",
-   "last_bid": 0.026,
-   "exit": 0.025534239790360687,
-   "pnl": -5.220453389830508,
-   "why": "stop loss",
-   "closed_iso": "2026-10-05T03:39:42+00:00"
-  },
-  {
    "market_id": "601826",
    "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
    "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
@@ -829,11 +808,11 @@
    "reason": "rules: +[wins] match[bolsonaro,fl\u00e1vio] yes/no q_neg=False opp=False",
    "conf": 0.61,
    "end": "2026-10-05T03:59:00+00:00",
-   "last_bid": 0.835,
-   "exit": 0.835,
-   "pnl": -0.1764705882352935,
+   "last_bid": 0.83,
+   "exit": 0.83,
+   "pnl": -0.235294117647058,
    "why": "market closing",
-   "closed_iso": "2026-10-05T03:54:25+00:00"
+   "closed_iso": "2026-10-05T04:42:35+00:00"
   }
  ],
  "cooldown": {
@@ -861,7 +840,6 @@
   "3871436": 1791143265.9806473,
   "4024681": 1791148012.0428784,
   "5155252": 1791166575.5718176,
-  "4913739": 1791175182.5018067,
-  "601826": 1791176065.113616
+  "601826": 1791178955.2599277
  }
 }
