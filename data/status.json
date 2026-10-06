@@ -1,65 +1,14 @@
 {
- "updated": "2026-10-06T13:46:56",
+ "updated": "2026-10-06T14:24:25",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 358,
- "markets_indexed": 875,
- "news_processed": 423,
- "cash": 41.44,
+ "markets_indexed": 1006,
+ "news_processed": 1,
+ "cash": 70.93,
  "equity": 90.7,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "5199920",
-   "question": "T20 Series South Africa, Women: Warriors vs Lions",
-   "slug": "criccsat20w-war-lio-2026-10-04",
-   "outcome": "Lions",
-   "token": "88797404974110500679704366865141631853268371790462696895990007090490283940967",
-   "shares": 19.607843137254903,
-   "entry": 0.51,
-   "cost": 10.0,
-   "opened": 1791155827.0336356,
-   "opened_iso": "2026-10-04T23:17:07+00:00",
-   "news": "Jalen Coker Ruled Out for Sunday Night Football Vs. Lions - NFL News | Fantasy Football",
-   "reason": "rules: +[] match[lions] outcome 'Lions' good",
-   "conf": 0.66,
-   "end": "2026-10-11T08:00:00+00:00",
-   "last_bid": 0.5
-  },
-  {
-   "market_id": "3951230",
-   "question": "Buccaneers vs. Cowboys",
-   "slug": "nfl-tb-dal-2026-10-09",
-   "outcome": "Cowboys",
-   "token": "66616602105135321479456151494379932980062039030841962258728108349184895983957",
-   "shares": 12.345679012345679,
-   "entry": 0.81,
-   "cost": 10.0,
-   "opened": 1791267452.0038168,
-   "opened_iso": "2026-10-06T06:17:32+00:00",
-   "news": "Buccaneers hit with injury bug",
-   "reason": "llm[groq-120b]: Injury bug lowers Buccaneers' chances, boosting Cowboys win probability",
-   "conf": 0.7,
-   "end": "2026-10-09T00:15:00+00:00",
-   "last_bid": 0.8
-  },
-  {
-   "market_id": "4409705",
-   "question": "Senators vs. Red Wings",
-   "slug": "nhl-ott-det-2026-10-06",
-   "outcome": "Senators",
-   "token": "115125528612332873855300893530905033417509090087913135445114896199898196949090",
-   "shares": 19.23076923076923,
-   "entry": 0.52,
-   "cost": 10.0,
-   "opened": 1791267590.730645,
-   "opened_iso": "2026-10-06T06:19:50+00:00",
-   "news": "St\u00fctzle Scores Twice as Senators Beat Bruins 4-1, But Now Face Another Key Injury Concern",
-   "reason": "llm[groq-120b]: Senators win boosts confidence they\u2019ll beat Red Wings, likely raising their win probability >5%",
-   "conf": 0.6,
-   "end": "2026-10-06T23:00:00+00:00",
-   "last_bid": 0.51
-  },
   {
    "market_id": "4877201",
    "question": "Will England win on 2026-10-06?",
@@ -75,7 +24,8 @@
    "reason": "llm[groq-120b]: Confirmed line\u2011up gives England a stronger squad, likely pushing win odds up >5pts",
    "conf": 0.6,
    "end": "2026-10-06T18:45:00+00:00",
-   "last_bid": 0.88
+   "last_bid": 0.88,
+   "book_err": false
   },
   {
    "market_id": "5009015",
@@ -92,9 +42,22 @@
    "reason": "llm[groq-120b]: Leeds injury news likely worsens their win odds, pushing the No outcome higher",
    "conf": 0.6,
    "end": "2026-10-10T11:30:00+00:00",
-   "last_bid": 0.89
+   "last_bid": 0.89,
+   "book_err": false
   }
  ],
- "closed_count": 49,
- "realized_pnl": -8.56
+ "closed_count": 52,
+ "llm": {
+  "backends": [
+   "groq-120b",
+   "groq-20b"
+  ],
+  "fallbacks": 0,
+  "errors": {},
+  "calls": {
+   "groq-120b": 200,
+   "groq-20b": 158
+  }
+ },
+ "realized_pnl": -9.07
 }

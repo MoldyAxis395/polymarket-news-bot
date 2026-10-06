@@ -102,3 +102,6 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-06T06:19:50+00:00,BUY,Senators vs. Red Wings,Senators,19.23,0.5200,10.00,,"Stützle Scores Twice as Senators Beat Bruins 4-1, But Now Face Another Key Injury Concern | llm[groq-120b]: Senators win boosts confidence they’ll beat Red Wings, likely raising their win probability >5%"
 2026-10-06T06:25:10+00:00,BUY,Will England win on 2026-10-06?,Yes,11.24,0.8900,10.00,,"England XI vs Czech Republic: Predicted lineup and confirmed team news | llm[groq-120b]: Confirmed line‑up gives England a stronger squad, likely pushing win odds up >5pts"
 2026-10-06T06:50:40+00:00,BUY,Will Leeds United FC win on 2026-10-10?,No,11.11,0.9000,10.00,,"Leeds injury blow threatens to derail Daniel Farke’s transfer plans | llm[groq-120b]: Leeds injury news likely worsens their win odds, pushing the No outcome higher"
+2026-10-06T12:20:14+00:00,SELL,"T20 Series South Africa, Women: Warriors vs Lions",Lions,19.61,0.5000,9.80,-0.20,resolved
+2026-10-06T12:20:15+00:00,SELL,Buccaneers vs. Cowboys,Cowboys,12.35,0.8000,9.88,-0.12,max hold
+2026-10-06T12:20:16+00:00,SELL,Senators vs. Red Wings,Senators,19.23,0.5100,9.81,-0.19,max hold

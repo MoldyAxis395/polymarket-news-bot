@@ -4632,3 +4632,11 @@
 2026-10-06 13:46:34   book error T20 Series South Africa, Women: Warriors vs Lions: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=88797404974110500679704366865141631853268371790462696895990007090490283940967
 2026-10-06 13:46:55   book error T20 Series South Africa, Women: Warriors vs Lions: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=88797404974110500679704366865141631853268371790462696895990007090490283940967
 2026-10-06 13:47:04 shift over, state saved
+2026-10-06 14:19:36 === start mode=paper pid=2339 ===
+2026-10-06 14:19:36 brain=llm cash=41.44 open=5
+2026-10-06 14:19:36 resuming with 5713 known news items
+2026-10-06 14:20:00 indexed 1006 markets
+2026-10-06 14:20:14   book error T20 Series South Africa, Women: Warriors vs Lions: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=88797404974110500679704366865141631853268371790462696895990007090490283940967
+2026-10-06 14:20:14   SELL Lions @ 0.500 (resolved) pnl -0.20 :: T20 Series South Africa, Women: Warriors vs Lions
+2026-10-06 14:20:15   SELL Cowboys @ 0.800 (max hold) pnl -0.12 :: Buccaneers vs. Cowboys
+2026-10-06 14:20:16   SELL Senators @ 0.510 (max hold) pnl -0.19 :: Senators vs. Red Wings
