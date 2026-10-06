@@ -1,5 +1,5 @@
 {
- "cash": 20.703043716563855,
+ "cash": 10.703043716563855,
  "positions": [
   {
    "market_id": "4409732",
@@ -16,7 +16,7 @@
    "reason": "llm[groq-20b]: Brock Faber injury likely reduces Wild\u2019s chances, boosting Sabres win probability.",
    "conf": 0.7,
    "end": "2026-10-06T23:00:00+00:00",
-   "last_bid": 0.48,
+   "last_bid": 0.49,
    "book_err": false
   },
   {
@@ -34,7 +34,7 @@
    "reason": "llm[groq-20b]: Lamar Jackson injury likely reduces Ravens\u2019 chances vs Falcons",
    "conf": 0.7,
    "end": "2026-10-12T00:20:00+00:00",
-   "last_bid": 0.58,
+   "last_bid": 0.59,
    "book_err": false
   },
   {
@@ -125,6 +125,24 @@
    "conf": 0.7,
    "end": "2026-10-06T23:00:00+00:00",
    "last_bid": 0.59,
+   "book_err": false
+  },
+  {
+   "market_id": "4024680",
+   "question": "49ers vs. Seahawks",
+   "slug": "nfl-sf-sea-2026-10-11",
+   "outcome": "Seahawks",
+   "token": "98905985735656534874399889933780300059476082879846776272208832784485523440286",
+   "shares": 17.24137931034483,
+   "entry": 0.58,
+   "cost": 10.0,
+   "opened": 1791304230.8576941,
+   "opened_iso": "2026-10-06T16:30:30+00:00",
+   "news": "NFL BREAKING: Seahawks Signing 2-Time Pro Bowl RB Amid Injury Troubles; Can Joe Mixon Help?",
+   "reason": "llm[groq-20b]: Seahawks signing a key RB amid injuries likely boosts win probability",
+   "conf": 0.7,
+   "end": "2026-10-11T20:25:00+00:00",
+   "last_bid": 0.57,
    "book_err": false
   }
  ],
