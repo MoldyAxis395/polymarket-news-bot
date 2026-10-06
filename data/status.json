@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-06T18:54:44",
+ "updated": "2026-10-06T19:24:52",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 536,
- "markets_indexed": 963,
- "news_processed": 199,
+ "llm_calls_today": 544,
+ "markets_indexed": 957,
+ "news_processed": 212,
  "cash": 10.7,
- "equity": 90.67,
+ "equity": 91.42,
  "start": 100.0,
  "open": [
   {
@@ -42,7 +42,7 @@
    "reason": "llm[groq-20b]: Lamar Jackson injury likely reduces Ravens\u2019 chances vs Falcons",
    "conf": 0.7,
    "end": "2026-10-12T00:20:00+00:00",
-   "last_bid": 0.59,
+   "last_bid": 0.6,
    "book_err": false
   },
   {
@@ -78,7 +78,7 @@
    "reason": "llm[groq-120b]: Coby White injury lowers Hornets chance, boosting Nets win odds",
    "conf": 0.7,
    "end": "2026-10-06T23:00:00+00:00",
-   "last_bid": 0.36,
+   "last_bid": 0.38,
    "book_err": false
   },
   {
@@ -163,7 +163,7 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 304,
+   "groq-120b": 312,
    "groq-20b": 232
   }
  },
