@@ -1,42 +1,6 @@
 {
- "cash": 64.6090282725484,
+ "cash": 84.44236160588173,
  "positions": [
-  {
-   "market_id": "4409654",
-   "question": "Predators vs. Maple Leafs",
-   "slug": "nhl-nsh-tor-2026-10-06",
-   "outcome": "Maple Leafs",
-   "token": "90186934599193249042221468323169466373248487545319534613763788757155608908637",
-   "shares": 16.666666666666668,
-   "entry": 0.6,
-   "cost": 10.0,
-   "opened": 1791303475.0528069,
-   "opened_iso": "2026-10-06T16:17:55+00:00",
-   "news": "NHL Status Report: Annunen placed on injured reserve by Predators",
-   "reason": "llm[groq-20b]: Annunen, a key Predators defenseman, is injured, likely weakening the Predators and boosting the Maple Leafs' chances.",
-   "conf": 0.7,
-   "end": "2026-10-06T23:00:00+00:00",
-   "last_bid": 0.59,
-   "book_err": false
-  },
-  {
-   "market_id": "4024680",
-   "question": "49ers vs. Seahawks",
-   "slug": "nfl-sf-sea-2026-10-11",
-   "outcome": "Seahawks",
-   "token": "98905985735656534874399889933780300059476082879846776272208832784485523440286",
-   "shares": 17.24137931034483,
-   "entry": 0.58,
-   "cost": 10.0,
-   "opened": 1791304230.8576941,
-   "opened_iso": "2026-10-06T16:30:30+00:00",
-   "news": "NFL BREAKING: Seahawks Signing 2-Time Pro Bowl RB Amid Injury Troubles; Can Joe Mixon Help?",
-   "reason": "llm[groq-20b]: Seahawks signing a key RB amid injuries likely boosts win probability",
-   "conf": 0.7,
-   "end": "2026-10-11T20:25:00+00:00",
-   "last_bid": 0.58,
-   "book_err": false
-  },
   {
    "market_id": "3951230",
    "question": "Buccaneers vs. Cowboys",
@@ -1328,6 +1292,50 @@
    "pnl": -0.40000000000000036,
    "why": "max hold",
    "closed_iso": "2026-10-06T21:58:04+00:00"
+  },
+  {
+   "market_id": "4409654",
+   "question": "Predators vs. Maple Leafs",
+   "slug": "nhl-nsh-tor-2026-10-06",
+   "outcome": "Maple Leafs",
+   "token": "90186934599193249042221468323169466373248487545319534613763788757155608908637",
+   "shares": 16.666666666666668,
+   "entry": 0.6,
+   "cost": 10.0,
+   "opened": 1791303475.0528069,
+   "opened_iso": "2026-10-06T16:17:55+00:00",
+   "news": "NHL Status Report: Annunen placed on injured reserve by Predators",
+   "reason": "llm[groq-20b]: Annunen, a key Predators defenseman, is injured, likely weakening the Predators and boosting the Maple Leafs' chances.",
+   "conf": 0.7,
+   "end": "2026-10-06T23:00:00+00:00",
+   "last_bid": 0.59,
+   "book_err": false,
+   "exit": 0.59,
+   "pnl": -0.16666666666666607,
+   "why": "max hold",
+   "closed_iso": "2026-10-06T22:18:02+00:00"
+  },
+  {
+   "market_id": "4024680",
+   "question": "49ers vs. Seahawks",
+   "slug": "nfl-sf-sea-2026-10-11",
+   "outcome": "Seahawks",
+   "token": "98905985735656534874399889933780300059476082879846776272208832784485523440286",
+   "shares": 17.24137931034483,
+   "entry": 0.58,
+   "cost": 10.0,
+   "opened": 1791304230.8576941,
+   "opened_iso": "2026-10-06T16:30:30+00:00",
+   "news": "NFL BREAKING: Seahawks Signing 2-Time Pro Bowl RB Amid Injury Troubles; Can Joe Mixon Help?",
+   "reason": "llm[groq-20b]: Seahawks signing a key RB amid injuries likely boosts win probability",
+   "conf": 0.7,
+   "end": "2026-10-11T20:25:00+00:00",
+   "last_bid": 0.58,
+   "book_err": false,
+   "exit": 0.58,
+   "pnl": 0.0,
+   "why": "max hold",
+   "closed_iso": "2026-10-06T22:30:44+00:00"
   }
  ],
  "cooldown": {
@@ -1368,6 +1376,8 @@
   "5009015": 1791294645.540316,
   "4409732": 1791327479.8656194,
   "5144656": 1791327482.5154276,
-  "4409693": 1791327483.3714042
+  "4409693": 1791327483.3714042,
+  "4409654": 1791328682.125152,
+  "4024680": 1791329444.1345088
  }
 }
