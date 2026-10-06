@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-06T19:24:52",
+ "updated": "2026-10-06T19:54:44",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 544,
- "markets_indexed": 957,
- "news_processed": 212,
- "cash": 10.7,
- "equity": 91.42,
+ "llm_calls_today": 558,
+ "markets_indexed": 936,
+ "news_processed": 228,
+ "cash": 0.7,
+ "equity": 91.09,
  "start": 100.0,
  "open": [
   {
@@ -150,7 +150,25 @@
    "reason": "llm[groq-20b]: Seahawks signing a key RB amid injuries likely boosts win probability",
    "conf": 0.7,
    "end": "2026-10-11T20:25:00+00:00",
-   "last_bid": 0.57,
+   "last_bid": 0.58,
+   "book_err": false
+  },
+  {
+   "market_id": "3951230",
+   "question": "Buccaneers vs. Cowboys",
+   "slug": "nfl-tb-dal-2026-10-09",
+   "outcome": "Buccaneers",
+   "token": "41073895388163492044683513841262626450248745686629069268834561009386173172680",
+   "shares": 50.0,
+   "entry": 0.2,
+   "cost": 10.0,
+   "opened": 1791308992.5718718,
+   "opened_iso": "2026-10-06T17:49:52+00:00",
+   "news": "Cowboys Update Dak Prescott Hand Injury",
+   "reason": "llm[groq-120b]: Prescott is Cowboys starter; hand injury likely reduces Cowboys win probability, boosting Buccaneers odds",
+   "conf": 0.7,
+   "end": "2026-10-09T00:15:00+00:00",
+   "last_bid": 0.19,
    "book_err": false
   }
  ],
@@ -161,10 +179,12 @@
    "groq-20b"
   ],
   "fallbacks": 0,
-  "errors": {},
+  "errors": {
+   "groq-120b": "rate limited, skip 52s"
+  },
   "calls": {
-   "groq-120b": 312,
-   "groq-20b": 232
+   "groq-120b": 322,
+   "groq-20b": 236
   }
  },
  "realized_pnl": -9.3

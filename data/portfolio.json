@@ -1,5 +1,5 @@
 {
- "cash": 10.703043716563855,
+ "cash": 0.7030437165638546,
  "positions": [
   {
    "market_id": "4409732",
@@ -142,7 +142,25 @@
    "reason": "llm[groq-20b]: Seahawks signing a key RB amid injuries likely boosts win probability",
    "conf": 0.7,
    "end": "2026-10-11T20:25:00+00:00",
-   "last_bid": 0.57,
+   "last_bid": 0.58,
+   "book_err": false
+  },
+  {
+   "market_id": "3951230",
+   "question": "Buccaneers vs. Cowboys",
+   "slug": "nfl-tb-dal-2026-10-09",
+   "outcome": "Buccaneers",
+   "token": "41073895388163492044683513841262626450248745686629069268834561009386173172680",
+   "shares": 50.0,
+   "entry": 0.2,
+   "cost": 10.0,
+   "opened": 1791308992.5718718,
+   "opened_iso": "2026-10-06T17:49:52+00:00",
+   "news": "Cowboys Update Dak Prescott Hand Injury",
+   "reason": "llm[groq-120b]: Prescott is Cowboys starter; hand injury likely reduces Cowboys win probability, boosting Buccaneers odds",
+   "conf": 0.7,
+   "end": "2026-10-09T00:15:00+00:00",
+   "last_bid": 0.19,
    "book_err": false
   }
  ],
