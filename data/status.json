@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-06T02:06:50",
+ "updated": "2026-10-06T02:16:25",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 906,
+ "markets_indexed": 899,
  "news_processed": 527,
- "cash": 42.65,
+ "cash": 52.65,
  "equity": 92.47,
  "start": 100.0,
  "open": [
@@ -44,23 +44,6 @@
    "last_bid": 0.55
   },
   {
-   "market_id": "3871438",
-   "question": "Falcons vs. Saints",
-   "slug": "nfl-atl-no-2026-10-06",
-   "outcome": "Falcons",
-   "token": "99779894568963227232071656210774919959161987056159213353797239805610524496082",
-   "shares": 20.833333333333336,
-   "entry": 0.4799999999999999,
-   "cost": 10.0,
-   "opened": 1791225949.404074,
-   "opened_iso": "2026-10-05T18:45:49+00:00",
-   "news": "Saints WR Jordyn Tyson still likely weeks away from injury return: report",
-   "reason": "llm[groq-120b]: Tyson's injury lowers Saints' offense, boosting Falcons win odds",
-   "conf": 0.7,
-   "end": "2026-10-06T00:15:00+00:00",
-   "last_bid": 0.48
-  },
-  {
    "market_id": "3951230",
    "question": "Buccaneers vs. Cowboys",
    "slug": "nfl-tb-dal-2026-10-09",
@@ -95,6 +78,6 @@
    "last_bid": 0.72
   }
  ],
- "closed_count": 44,
+ "closed_count": 45,
  "realized_pnl": -7.35
 }

@@ -92,3 +92,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-05T18:50:27+00:00,BUY,Chicago White Sox vs. Cleveland Guardians,Cleveland Guardians,16.95,0.5900,10.00,,"New angle shows Tyquan Thornton getting up unaware of horrific injury | llm[groq-20b]: Tyquan Thornton injury likely hurts White Sox, boosting Guardians win odds"
 2026-10-05T21:17:34+00:00,SELL,Chicago White Sox vs. Cleveland Guardians,Cleveland Guardians,16.95,0.7000,11.86,+1.86,take profit
 2026-10-05T21:29:12+00:00,BUY,Eagles vs. Jaguars,Jaguars,14.49,0.6900,10.00,,"Eagles RB Tank Bigsby to have surgery on a core muscle injury | llm[groq-120b]: Eagles RB Tank Bigsby surgery lowers Eagles offensive strength, likely increasing Jaguars win probability by >5 points"
+2026-10-06T00:10:19+00:00,SELL,Falcons vs. Saints,Falcons,20.83,0.4800,10.00,+0.00,market closing
