@@ -1,5 +1,5 @@
 {
- "cash": 82.68835729204046,
+ "cash": 51.438357292040465,
  "positions": [
   {
    "market_id": "5199920",
@@ -17,6 +17,57 @@
    "conf": 0.66,
    "end": "2026-10-11T08:00:00+00:00",
    "last_bid": 0.5
+  },
+  {
+   "market_id": "3951230",
+   "question": "Buccaneers vs. Cowboys",
+   "slug": "nfl-tb-dal-2026-10-09",
+   "outcome": "Cowboys",
+   "token": "66616602105135321479456151494379932980062039030841962258728108349184895983957",
+   "shares": 12.345679012345679,
+   "entry": 0.81,
+   "cost": 10.0,
+   "opened": 1791267452.0038168,
+   "opened_iso": "2026-10-06T06:17:32+00:00",
+   "news": "Buccaneers hit with injury bug",
+   "reason": "llm[groq-120b]: Injury bug lowers Buccaneers' chances, boosting Cowboys win probability",
+   "conf": 0.7,
+   "end": "2026-10-09T00:15:00+00:00",
+   "last_bid": 0.8
+  },
+  {
+   "market_id": "4409705",
+   "question": "Senators vs. Red Wings",
+   "slug": "nhl-ott-det-2026-10-06",
+   "outcome": "Senators",
+   "token": "115125528612332873855300893530905033417509090087913135445114896199898196949090",
+   "shares": 19.23076923076923,
+   "entry": 0.52,
+   "cost": 10.0,
+   "opened": 1791267590.730645,
+   "opened_iso": "2026-10-06T06:19:50+00:00",
+   "news": "St\u00fctzle Scores Twice as Senators Beat Bruins 4-1, But Now Face Another Key Injury Concern",
+   "reason": "llm[groq-120b]: Senators win boosts confidence they\u2019ll beat Red Wings, likely raising their win probability >5%",
+   "conf": 0.6,
+   "end": "2026-10-06T23:00:00+00:00",
+   "last_bid": 0.51
+  },
+  {
+   "market_id": "4877201",
+   "question": "Will England win on 2026-10-06?",
+   "slug": "unl-eng-cze-2026-10-06-eng",
+   "outcome": "Yes",
+   "token": "44552677849174263304715712416252845720862071120783870552720042980779204555230",
+   "shares": 11.235955056179774,
+   "entry": 0.8900000000000001,
+   "cost": 10.0,
+   "opened": 1791267910.6720953,
+   "opened_iso": "2026-10-06T06:25:10+00:00",
+   "news": "England XI vs Czech Republic: Predicted lineup and confirmed team news",
+   "reason": "llm[groq-120b]: Confirmed line\u2011up gives England a stronger squad, likely pushing win odds up >5pts",
+   "conf": 0.6,
+   "end": "2026-10-06T18:45:00+00:00",
+   "last_bid": 0.88
   }
  ],
  "closed": [
@@ -1027,6 +1078,27 @@
    "pnl": 0.579710144927537,
    "why": "max hold",
    "closed_iso": "2026-10-06T06:02:46+00:00"
+  },
+  {
+   "market_id": "5240812",
+   "question": "Will a new pneumonic plague case be confirmed in Russia by October 31?",
+   "slug": "next-confirmed-pneumonic-plague-case-in-russia-20261003t000000000z-will-a-new-pneumonic-plague-case-be-confirmed-in-russia-by-october-31-2026",
+   "outcome": "Yes",
+   "token": "53051815998026826839875003767328934025394828817115753553768487326708495377771",
+   "shares": 62.5,
+   "entry": 0.16,
+   "cost": 10.0,
+   "opened": 1791267162.3881645,
+   "opened_iso": "2026-10-06T06:12:42+00:00",
+   "news": "Dozens quarantined in Siberia after plague institute lab worker dies",
+   "reason": "llm[groq-120b]: Plague lab death raises chance of a confirmed pneumonic plague case in Russia",
+   "conf": 0.8,
+   "end": "2026-11-01T03:59:00+00:00",
+   "last_bid": 0.14,
+   "exit": 0.14,
+   "pnl": -1.2499999999999982,
+   "why": "stop loss",
+   "closed_iso": "2026-10-06T06:12:46+00:00"
   }
  ],
  "cooldown": {
@@ -1060,6 +1132,7 @@
   "5175495": 1791238654.6412206,
   "4024666": 1791250361.9634042,
   "3951230": 1791251428.8390932,
-  "4024655": 1791270166.420178
+  "4024655": 1791270166.420178,
+  "5240812": 1791270766.353486
  }
 }

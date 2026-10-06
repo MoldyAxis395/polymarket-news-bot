@@ -96,3 +96,8 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-06T00:32:41+00:00,SELL,Browns vs. Jets,Jets,17.86,0.5500,9.82,-0.18,max hold
 2026-10-06T00:50:28+00:00,SELL,Buccaneers vs. Cowboys,Cowboys,12.05,0.8000,9.64,-0.36,max hold
 2026-10-06T06:02:45+00:00,SELL,Eagles vs. Jaguars,Jaguars,14.49,0.7300,10.58,+0.58,max hold
+2026-10-06T06:12:42+00:00,BUY,Will a new pneumonic plague case be confirmed in Russia by October 31?,Yes,62.50,0.1600,10.00,,Dozens quarantined in Siberia after plague institute lab worker dies | llm[groq-120b]: Plague lab death raises chance of a confirmed pneumonic plague case in Russia
+2026-10-06T06:12:45+00:00,SELL,Will a new pneumonic plague case be confirmed in Russia by October 31?,Yes,62.50,0.1400,8.75,-1.25,stop loss
+2026-10-06T06:17:32+00:00,BUY,Buccaneers vs. Cowboys,Cowboys,12.35,0.8100,10.00,,"Buccaneers hit with injury bug | llm[groq-120b]: Injury bug lowers Buccaneers' chances, boosting Cowboys win probability"
+2026-10-06T06:19:50+00:00,BUY,Senators vs. Red Wings,Senators,19.23,0.5200,10.00,,"Stützle Scores Twice as Senators Beat Bruins 4-1, But Now Face Another Key Injury Concern | llm[groq-120b]: Senators win boosts confidence they’ll beat Red Wings, likely raising their win probability >5%"
+2026-10-06T06:25:10+00:00,BUY,Will England win on 2026-10-06?,Yes,11.24,0.8900,10.00,,"England XI vs Czech Republic: Predicted lineup and confirmed team news | llm[groq-120b]: Confirmed line‑up gives England a stronger squad, likely pushing win odds up >5pts"
