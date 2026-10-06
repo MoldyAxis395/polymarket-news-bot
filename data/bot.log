@@ -4705,3 +4705,14 @@
 2026-10-06 17:11:56   llm groq-120b: rate limited, skip 117s
 2026-10-06 17:16:17   llm groq-120b: rate limited, skip 188s
 2026-10-06 17:20:19 indexed 978 markets
+2026-10-06 17:25:45   llm groq-120b: rate limited, skip 151s
+2026-10-06 17:30:20 indexed 958 markets
+2026-10-06 17:40:21 indexed 961 markets
+2026-10-06 17:41:56 NEWS [gnews_injury 2m] Larkin game-time decision for Red Wings after injury, trade request
+2026-10-06 17:41:56   BUY Senators @ 0.500 x20.0 ($10.00) :: Senators vs. Red Wings
+2026-10-06 17:46:32   llm groq-120b: rate limited, skip 80s
+2026-10-06 17:49:02 NEWS [gnews_injury 4m] Vergara injury for Italy means Napoli lose talent for 3-4 weeks
+2026-10-06 17:49:02   skip Buducnost Podgorica :: Buducnost Podgorica vs. Napoli Basket (illiquid)
+2026-10-06 17:49:02   llm groq-120b: rate limited, skip 131s
+2026-10-06 17:50:23 indexed 952 markets
+2026-10-06 17:51:13   llm groq-120b: rate limited, skip 236s

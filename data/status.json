@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-06T17:24:29",
+ "updated": "2026-10-06T17:54:37",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 480,
- "markets_indexed": 978,
- "news_processed": 141,
- "cash": 40.7,
- "equity": 90.25,
+ "llm_calls_today": 500,
+ "markets_indexed": 952,
+ "news_processed": 161,
+ "cash": 30.7,
+ "equity": 90.05,
  "start": 100.0,
  "open": [
   {
@@ -98,6 +98,24 @@
    "end": "2026-10-06T23:00:00+00:00",
    "last_bid": 0.53,
    "book_err": false
+  },
+  {
+   "market_id": "4409705",
+   "question": "Senators vs. Red Wings",
+   "slug": "nhl-ott-det-2026-10-06",
+   "outcome": "Senators",
+   "token": "115125528612332873855300893530905033417509090087913135445114896199898196949090",
+   "shares": 20.0,
+   "entry": 0.5,
+   "cost": 10.0,
+   "opened": 1791301316.9858902,
+   "opened_iso": "2026-10-06T15:41:56+00:00",
+   "news": "Larkin game-time decision for Red Wings after injury, trade request",
+   "reason": "llm[groq-120b]: Larkin's game\u2011time decision likely hurts Red Wings, boosting Senators odds by >5 points",
+   "conf": 0.7,
+   "end": "2026-10-06T23:00:00+00:00",
+   "last_bid": 0.49,
+   "book_err": false
   }
  ],
  "closed_count": 54,
@@ -107,10 +125,12 @@
    "groq-20b"
   ],
   "fallbacks": 0,
-  "errors": {},
+  "errors": {
+   "groq-120b": "rate limited, skip 236s"
+  },
   "calls": {
-   "groq-120b": 272,
-   "groq-20b": 208
+   "groq-120b": 283,
+   "groq-20b": 217
   }
  },
  "realized_pnl": -9.3
