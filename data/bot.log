@@ -4716,3 +4716,14 @@
 2026-10-06 17:49:02   llm groq-120b: rate limited, skip 131s
 2026-10-06 17:50:23 indexed 952 markets
 2026-10-06 17:51:13   llm groq-120b: rate limited, skip 236s
+2026-10-06 18:00:57 indexed 947 markets
+2026-10-06 18:03:18 NEWS [gnews_injury 3m] Commanders face Trey Amos decision as Dan Quinn deepens injury mystery
+2026-10-06 18:03:18   skip Giants :: Giants vs. Commanders (illiquid)
+2026-10-06 18:10:57 indexed 960 markets
+2026-10-06 18:15:37 NEWS [gnews_injury 5m] Lamar Jackson injury: Ravens get major bad news as NFL insider reveals $260,000,000 QB’s potential missing time
+2026-10-06 18:15:37   skip Falcons :: Ravens vs. Falcons (already in market)
+2026-10-06 18:17:54   llm groq-120b: rate limited, skip 148s
+2026-10-06 18:17:54 NEWS [gnews_injury 2m] NHL Status Report: Annunen placed on injured reserve by Predators
+2026-10-06 18:17:55   BUY Maple Leafs @ 0.600 x16.7 ($10.00) :: Predators vs. Maple Leafs
+2026-10-06 18:20:23 indexed 959 markets
+2026-10-06 18:20:42   llm groq-120b: rate limited, skip 202s
