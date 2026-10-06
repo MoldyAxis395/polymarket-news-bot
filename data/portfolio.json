@@ -1,5 +1,5 @@
 {
- "cash": 72.68835729204046,
+ "cash": 82.68835729204046,
  "positions": [
   {
    "market_id": "5199920",
@@ -17,23 +17,6 @@
    "conf": 0.66,
    "end": "2026-10-11T08:00:00+00:00",
    "last_bid": 0.5
-  },
-  {
-   "market_id": "4880600",
-   "question": "Will United States win on 2026-10-06?",
-   "slug": "fif-usa-can-2026-10-06-usa",
-   "outcome": "No",
-   "token": "50817939242778672534175574735156892215570697202598590403377435856871932995611",
-   "shares": 21.73913043478261,
-   "entry": 0.45999999999999996,
-   "cost": 10.0,
-   "opened": 1791258747.8391347,
-   "opened_iso": "2026-10-06T03:52:27+00:00",
-   "news": "Macklin Celebrini Injury: Being evaluated",
-   "reason": "llm[groq-120b]: Celebrini is a key US player; his injury likely lowers US win odds >5pts, boosting the No outcome.",
-   "conf": 0.7,
-   "end": "2026-10-07T00:07:00+00:00",
-   "last_bid": 0.45
   }
  ],
  "closed": [
@@ -1043,7 +1026,7 @@
    "exit": 0.73,
    "pnl": 0.579710144927537,
    "why": "max hold",
-   "closed_iso": "2026-10-06T03:29:15+00:00"
+   "closed_iso": "2026-10-06T06:02:46+00:00"
   }
  ],
  "cooldown": {
@@ -1077,6 +1060,6 @@
   "5175495": 1791238654.6412206,
   "4024666": 1791250361.9634042,
   "3951230": 1791251428.8390932,
-  "4024655": 1791260955.8110948
+  "4024655": 1791270166.420178
  }
 }
