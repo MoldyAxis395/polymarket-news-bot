@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-06T02:21:34",
+ "updated": "2026-10-06T02:51:29",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 0,
- "markets_indexed": 919,
- "news_processed": 3,
- "cash": 52.65,
- "equity": 92.47,
+ "markets_indexed": 930,
+ "news_processed": 6,
+ "cash": 72.11,
+ "equity": 92.35,
  "start": 100.0,
  "open": [
   {
@@ -27,40 +27,6 @@
    "last_bid": 0.5
   },
   {
-   "market_id": "4024666",
-   "question": "Browns vs. Jets",
-   "slug": "nfl-cle-nyj-2026-10-11",
-   "outcome": "Jets",
-   "token": "13178437423787613306714793123862154236291774865703775281016183012011117761161",
-   "shares": 17.857142857142854,
-   "entry": 0.56,
-   "cost": 10.0,
-   "opened": 1791225142.7354221,
-   "opened_iso": "2026-10-05T18:32:22+00:00",
-   "news": "Jets Should Sign 5-Time Pro Bowler After Season-Ending Injury",
-   "reason": "llm[groq-120b]: Jets signing a 5\u2011time Pro Bowler after an injury should boost their win probability, so the Jets price is likely to rise",
-   "conf": 0.7,
-   "end": "2026-10-11T17:00:00+00:00",
-   "last_bid": 0.55
-  },
-  {
-   "market_id": "3951230",
-   "question": "Buccaneers vs. Cowboys",
-   "slug": "nfl-tb-dal-2026-10-09",
-   "outcome": "Cowboys",
-   "token": "66616602105135321479456151494379932980062039030841962258728108349184895983957",
-   "shares": 12.048192771084338,
-   "entry": 0.83,
-   "cost": 10.0,
-   "opened": 1791226225.6727831,
-   "opened_iso": "2026-10-05T18:50:25+00:00",
-   "news": "Star Buccaneers Defender Out For Multiple Weeks After Week 4 Injury",
-   "reason": "llm[groq-20b]: Defender out, Buccaneers weakened, Cowboys favored",
-   "conf": 0.8,
-   "end": "2026-10-09T00:15:00+00:00",
-   "last_bid": 0.81
-  },
-  {
    "market_id": "4024655",
    "question": "Eagles vs. Jaguars",
    "slug": "nfl-phi-jax-2026-10-11",
@@ -78,6 +44,6 @@
    "last_bid": 0.72
   }
  ],
- "closed_count": 45,
- "realized_pnl": -7.35
+ "closed_count": 47,
+ "realized_pnl": -7.89
 }
