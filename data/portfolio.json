@@ -1,43 +1,6 @@
 {
- "cash": 70.92651437823676,
- "positions": [
-  {
-   "market_id": "4877201",
-   "question": "Will England win on 2026-10-06?",
-   "slug": "unl-eng-cze-2026-10-06-eng",
-   "outcome": "Yes",
-   "token": "44552677849174263304715712416252845720862071120783870552720042980779204555230",
-   "shares": 11.235955056179774,
-   "entry": 0.8900000000000001,
-   "cost": 10.0,
-   "opened": 1791267910.6720953,
-   "opened_iso": "2026-10-06T06:25:10+00:00",
-   "news": "England XI vs Czech Republic: Predicted lineup and confirmed team news",
-   "reason": "llm[groq-120b]: Confirmed line\u2011up gives England a stronger squad, likely pushing win odds up >5pts",
-   "conf": 0.6,
-   "end": "2026-10-06T18:45:00+00:00",
-   "last_bid": 0.88,
-   "book_err": false
-  },
-  {
-   "market_id": "5009015",
-   "question": "Will Leeds United FC win on 2026-10-10?",
-   "slug": "epl-ars-lee-2026-10-10-lee",
-   "outcome": "No",
-   "token": "52728805072289319153728843007277351534012972248695187944017992734572818854490",
-   "shares": 11.11111111111111,
-   "entry": 0.9,
-   "cost": 10.0,
-   "opened": 1791269440.0859838,
-   "opened_iso": "2026-10-06T06:50:40+00:00",
-   "news": "Leeds injury blow threatens to derail Daniel Farke\u2019s transfer plans",
-   "reason": "llm[groq-120b]: Leeds injury news likely worsens their win odds, pushing the No outcome higher",
-   "conf": 0.6,
-   "end": "2026-10-10T11:30:00+00:00",
-   "last_bid": 0.89,
-   "book_err": false
-  }
- ],
+ "cash": 90.70304371656385,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -1134,6 +1097,50 @@
    "pnl": -0.1923076923076934,
    "why": "max hold",
    "closed_iso": "2026-10-06T12:20:16+00:00"
+  },
+  {
+   "market_id": "4877201",
+   "question": "Will England win on 2026-10-06?",
+   "slug": "unl-eng-cze-2026-10-06-eng",
+   "outcome": "Yes",
+   "token": "44552677849174263304715712416252845720862071120783870552720042980779204555230",
+   "shares": 11.235955056179774,
+   "entry": 0.8900000000000001,
+   "cost": 10.0,
+   "opened": 1791267910.6720953,
+   "opened_iso": "2026-10-06T06:25:10+00:00",
+   "news": "England XI vs Czech Republic: Predicted lineup and confirmed team news",
+   "reason": "llm[groq-120b]: Confirmed line\u2011up gives England a stronger squad, likely pushing win odds up >5pts",
+   "conf": 0.6,
+   "end": "2026-10-06T18:45:00+00:00",
+   "last_bid": 0.88,
+   "book_err": false,
+   "exit": 0.88,
+   "pnl": -0.11235955056179847,
+   "why": "max hold",
+   "closed_iso": "2026-10-06T12:25:27+00:00"
+  },
+  {
+   "market_id": "5009015",
+   "question": "Will Leeds United FC win on 2026-10-10?",
+   "slug": "epl-ars-lee-2026-10-10-lee",
+   "outcome": "No",
+   "token": "52728805072289319153728843007277351534012972248695187944017992734572818854490",
+   "shares": 11.11111111111111,
+   "entry": 0.9,
+   "cost": 10.0,
+   "opened": 1791269440.0859838,
+   "opened_iso": "2026-10-06T06:50:40+00:00",
+   "news": "Leeds injury blow threatens to derail Daniel Farke\u2019s transfer plans",
+   "reason": "llm[groq-120b]: Leeds injury news likely worsens their win odds, pushing the No outcome higher",
+   "conf": 0.6,
+   "end": "2026-10-10T11:30:00+00:00",
+   "last_bid": 0.89,
+   "book_err": false,
+   "exit": 0.89,
+   "pnl": -0.11111111111111072,
+   "why": "max hold",
+   "closed_iso": "2026-10-06T12:50:45+00:00"
   }
  ],
  "cooldown": {
@@ -1156,7 +1163,7 @@
   "1235547": 1791092193.6584835,
   "5206572": 1791106101.1991994,
   "5097093": 1791123919.144898,
-  "4877201": 1791194397.1493647,
+  "4877201": 1791293127.3231778,
   "3871410": 1791137518.3286154,
   "3871436": 1791143265.9806473,
   "4024681": 1791229645.2189603,
@@ -1170,6 +1177,7 @@
   "4024655": 1791270166.420178,
   "5240812": 1791270766.353486,
   "5199920": 1791292815.243157,
-  "4409705": 1791292816.3341837
+  "4409705": 1791292816.3341837,
+  "5009015": 1791294645.540316
  }
 }
