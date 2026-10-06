@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-06T08:37:04",
+ "updated": "2026-10-06T09:06:47",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 21,
- "markets_indexed": 896,
- "news_processed": 41,
- "cash": 51.44,
- "equity": 90.81,
+ "llm_calls_today": 37,
+ "markets_indexed": 884,
+ "news_processed": 66,
+ "cash": 41.44,
+ "equity": 90.7,
  "start": 100.0,
  "open": [
   {
@@ -76,6 +76,23 @@
    "conf": 0.6,
    "end": "2026-10-06T18:45:00+00:00",
    "last_bid": 0.88
+  },
+  {
+   "market_id": "5009015",
+   "question": "Will Leeds United FC win on 2026-10-10?",
+   "slug": "epl-ars-lee-2026-10-10-lee",
+   "outcome": "No",
+   "token": "52728805072289319153728843007277351534012972248695187944017992734572818854490",
+   "shares": 11.11111111111111,
+   "entry": 0.9,
+   "cost": 10.0,
+   "opened": 1791269440.0859838,
+   "opened_iso": "2026-10-06T06:50:40+00:00",
+   "news": "Leeds injury blow threatens to derail Daniel Farke\u2019s transfer plans",
+   "reason": "llm[groq-120b]: Leeds injury news likely worsens their win odds, pushing the No outcome higher",
+   "conf": 0.6,
+   "end": "2026-10-10T11:30:00+00:00",
+   "last_bid": 0.89
   }
  ],
  "closed_count": 49,
