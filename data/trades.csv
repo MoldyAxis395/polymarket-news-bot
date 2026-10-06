@@ -116,3 +116,9 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-06T16:17:55+00:00,BUY,Predators vs. Maple Leafs,Maple Leafs,16.67,0.6000,10.00,,"NHL Status Report: Annunen placed on injured reserve by Predators | llm[groq-20b]: Annunen, a key Predators defenseman, is injured, likely weakening the Predators and boosting the Maple Leafs' chances."
 2026-10-06T16:30:30+00:00,BUY,49ers vs. Seahawks,Seahawks,17.24,0.5800,10.00,,NFL BREAKING: Seahawks Signing 2-Time Pro Bowl RB Amid Injury Troubles; Can Joe Mixon Help? | llm[groq-20b]: Seahawks signing a key RB amid injuries likely boosts win probability
 2026-10-06T17:49:52+00:00,BUY,Buccaneers vs. Cowboys,Buccaneers,50.00,0.2000,10.00,,"Cowboys Update Dak Prescott Hand Injury | llm[groq-120b]: Prescott is Cowboys starter; hand injury likely reduces Cowboys win probability, boosting Buccaneers odds"
+2026-10-06T21:57:59+00:00,SELL,Wild vs. Sabres,Sabres,20.41,0.4900,10.00,+0.00,max hold
+2026-10-06T21:58:00+00:00,SELL,Ravens vs. Falcons,Falcons,17.86,0.6100,10.89,+0.89,max hold
+2026-10-06T21:58:01+00:00,SELL,Eagles vs. Jaguars,Jaguars,13.51,0.7600,10.27,+0.27,max hold
+2026-10-06T21:58:01+00:00,SELL,Nets vs. Hornets,Nets,28.57,0.4600,13.14,+3.14,take profit
+2026-10-06T21:58:02+00:00,SELL,Hurricanes vs. Canadiens,Hurricanes,18.52,0.5400,10.00,+0.00,max hold
+2026-10-06T21:58:03+00:00,SELL,Senators vs. Red Wings,Senators,20.00,0.4800,9.60,-0.40,max hold

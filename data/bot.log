@@ -4760,3 +4760,13 @@
 2026-10-06 20:00:36 indexed 944 markets
 2026-10-06 20:03:44   llm groq-120b: rate limited, skip 8s
 2026-10-06 20:04:45 shift over, state saved
+2026-10-06 23:57:23 === start mode=paper pid=2357 ===
+2026-10-06 23:57:23 brain=llm cash=0.70 open=9
+2026-10-06 23:57:23 resuming with 5894 known news items
+2026-10-06 23:57:46 indexed 853 markets
+2026-10-06 23:57:59   SELL Sabres @ 0.490 (max hold) pnl +0.00 :: Wild vs. Sabres
+2026-10-06 23:58:00   SELL Falcons @ 0.610 (max hold) pnl +0.89 :: Ravens vs. Falcons
+2026-10-06 23:58:01   SELL Jaguars @ 0.760 (max hold) pnl +0.27 :: Eagles vs. Jaguars
+2026-10-06 23:58:01   SELL Nets @ 0.460 (take profit) pnl +3.14 :: Nets vs. Hornets
+2026-10-06 23:58:02   SELL Hurricanes @ 0.540 (max hold) pnl +0.00 :: Hurricanes vs. Canadiens
+2026-10-06 23:58:03   SELL Senators @ 0.480 (max hold) pnl -0.40 :: Senators vs. Red Wings
