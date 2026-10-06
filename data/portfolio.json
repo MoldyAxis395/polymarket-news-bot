@@ -1,5 +1,5 @@
 {
- "cash": 60.703043716563855,
+ "cash": 50.703043716563855,
  "positions": [
   {
    "market_id": "4409732",
@@ -53,6 +53,24 @@
    "conf": 0.7,
    "end": "2026-10-11T13:30:00+00:00",
    "last_bid": 0.73,
+   "book_err": false
+  },
+  {
+   "market_id": "5144656",
+   "question": "Nets vs. Hornets",
+   "slug": "nba-bkn-cha-2026-10-06",
+   "outcome": "Nets",
+   "token": "68433342847482927693592298744164611098558297571031576285062122798846131955963",
+   "shares": 28.571428571428573,
+   "entry": 0.35,
+   "cost": 10.0,
+   "opened": 1791296122.557806,
+   "opened_iso": "2026-10-06T14:15:22+00:00",
+   "news": "Coby White injury creates major problem for Hornets",
+   "reason": "llm[groq-120b]: Coby White injury lowers Hornets chance, boosting Nets win odds",
+   "conf": 0.7,
+   "end": "2026-10-06T23:00:00+00:00",
+   "last_bid": 0.34,
    "book_err": false
   }
  ],

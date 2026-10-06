@@ -4668,3 +4668,18 @@
 2026-10-06 15:43:54   llm groq-120b: rate limited, skip 173s
 2026-10-06 15:48:42   llm groq-120b: rate limited, skip 305s
 2026-10-06 15:50:06 indexed 999 markets
+2026-10-06 15:56:17   llm groq-120b: rate limited, skip 306s
+2026-10-06 15:56:17 NEWS [gnews_injury 1m] Fantasy Hockey Roundup: Stars Break Through, Celebrini Injury Casts Shadow Over Sharks
+2026-10-06 15:56:17   skip Sharks :: Sharks vs. Blues (illiquid)
+2026-10-06 16:00:09 indexed 996 markets
+2026-10-06 16:05:30 NEWS [gnews_injury 3m] Colts DE Arden Key to miss time with hamstring injury
+2026-10-06 16:05:30   skip Steelers :: Colts vs. Steelers (illiquid)
+2026-10-06 16:05:31   llm groq-120b: rate limited, skip 176s
+2026-10-06 16:10:45 indexed 993 markets
+2026-10-06 16:15:22 NEWS [gnews_injury 3m] Coby White injury creates major problem for Hornets
+2026-10-06 16:15:22   BUY Nets @ 0.350 x28.6 ($10.00) :: Nets vs. Hornets
+2026-10-06 16:17:11   llm groq-120b: rate limited, skip 60s
+2026-10-06 16:20:45 indexed 987 markets
+2026-10-06 16:23:07 NEWS [gnews_injury 1m] Real Madrid communicates on Ibrahima Konaté’s injury
+2026-10-06 16:23:07   skip No :: Will Real Madrid CF win on 2026-10-10? (illiquid)
+2026-10-06 16:23:07   llm groq-120b: rate limited, skip 275s
