@@ -1,14 +1,51 @@
 {
- "updated": "2026-10-06T14:54:35",
+ "updated": "2026-10-06T15:24:26",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 368,
- "markets_indexed": 1017,
- "news_processed": 13,
- "cash": 90.7,
- "equity": 90.7,
+ "llm_calls_today": 391,
+ "markets_indexed": 1009,
+ "news_processed": 48,
+ "cash": 70.7,
+ "equity": 90.32,
  "start": 100.0,
- "open": [],
+ "open": [
+  {
+   "market_id": "4409732",
+   "question": "Wild vs. Sabres",
+   "slug": "nhl-min-buf-2026-10-06",
+   "outcome": "Sabres",
+   "token": "6721992158293716393565834228241234761063297707204684003950430197683268988543",
+   "shares": 20.408163265306122,
+   "entry": 0.49,
+   "cost": 10.0,
+   "opened": 1791292255.021354,
+   "opened_iso": "2026-10-06T13:10:55+00:00",
+   "news": "Wild Get Scary New Details on Brock Faber Injury",
+   "reason": "llm[groq-20b]: Brock Faber injury likely reduces Wild\u2019s chances, boosting Sabres win probability.",
+   "conf": 0.7,
+   "end": "2026-10-06T23:00:00+00:00",
+   "last_bid": 0.48,
+   "book_err": false
+  },
+  {
+   "market_id": "4024681",
+   "question": "Ravens vs. Falcons",
+   "slug": "nfl-bal-atl-2026-10-12",
+   "outcome": "Falcons",
+   "token": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
+   "shares": 17.857142857142854,
+   "entry": 0.56,
+   "cost": 10.0,
+   "opened": 1791292982.2004833,
+   "opened_iso": "2026-10-06T13:23:02+00:00",
+   "news": "Ravens Get Rough Injury Timeline For Lamar Jackson After Win Over Titans",
+   "reason": "llm[groq-20b]: Lamar Jackson injury likely reduces Ravens\u2019 chances vs Falcons",
+   "conf": 0.7,
+   "end": "2026-10-12T00:20:00+00:00",
+   "last_bid": 0.55,
+   "book_err": false
+  }
+ ],
  "closed_count": 54,
  "llm": {
   "backends": [
@@ -16,10 +53,12 @@
    "groq-20b"
   ],
   "fallbacks": 0,
-  "errors": {},
+  "errors": {
+   "groq-120b": "rate limited, skip 36s"
+  },
   "calls": {
-   "groq-120b": 210,
-   "groq-20b": 158
+   "groq-120b": 224,
+   "groq-20b": 167
   }
  },
  "realized_pnl": -9.3

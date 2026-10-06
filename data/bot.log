@@ -4645,3 +4645,12 @@
 2026-10-06 14:40:00 indexed 1013 markets
 2026-10-06 14:50:02 indexed 1017 markets
 2026-10-06 14:50:45   SELL No @ 0.890 (max hold) pnl -0.11 :: Will Leeds United FC win on 2026-10-10?
+2026-10-06 15:00:39 indexed 1007 markets
+2026-10-06 15:07:48   llm groq-120b: rate limited, skip 270s
+2026-10-06 15:10:36 indexed 1009 markets
+2026-10-06 15:10:54 NEWS [gnews_injury 3m] Wild Get Scary New Details on Brock Faber Injury
+2026-10-06 15:10:55   BUY Sabres @ 0.490 x20.4 ($10.00) :: Wild vs. Sabres
+2026-10-06 15:20:38 indexed 1009 markets
+2026-10-06 15:23:01   llm groq-120b: rate limited, skip 36s
+2026-10-06 15:23:01 NEWS [gnews_injury 3m] Ravens Get Rough Injury Timeline For Lamar Jackson After Win Over Titans
+2026-10-06 15:23:02   BUY Falcons @ 0.560 x17.9 ($10.00) :: Ravens vs. Falcons

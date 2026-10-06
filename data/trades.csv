@@ -107,3 +107,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-06T12:20:16+00:00,SELL,Senators vs. Red Wings,Senators,19.23,0.5100,9.81,-0.19,max hold
 2026-10-06T12:25:26+00:00,SELL,Will England win on 2026-10-06?,Yes,11.24,0.8800,9.89,-0.11,max hold
 2026-10-06T12:50:45+00:00,SELL,Will Leeds United FC win on 2026-10-10?,No,11.11,0.8900,9.89,-0.11,max hold
+2026-10-06T13:10:55+00:00,BUY,Wild vs. Sabres,Sabres,20.41,0.4900,10.00,,"Wild Get Scary New Details on Brock Faber Injury | llm[groq-20b]: Brock Faber injury likely reduces Wild’s chances, boosting Sabres win probability."
+2026-10-06T13:23:02+00:00,BUY,Ravens vs. Falcons,Falcons,17.86,0.5600,10.00,,Ravens Get Rough Injury Timeline For Lamar Jackson After Win Over Titans | llm[groq-20b]: Lamar Jackson injury likely reduces Ravens’ chances vs Falcons
