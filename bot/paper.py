@@ -40,9 +40,9 @@ class Paper:
             w.writerow(row)
 
     def can_open(self, market_id):
-        if len(self.positions) >= config.MAX_OPEN_POSITIONS:
+        if config.MAX_OPEN_POSITIONS and len(self.positions) >= config.MAX_OPEN_POSITIONS:
             return "max positions"
-        if self.cash < 1:
+        if self.cash < config.MIN_TRADE_USD:
             return "no cash"
         if any(p["market_id"] == market_id for p in self.positions):
             return "already in market"
@@ -81,19 +81,25 @@ class Paper:
 
     def check_exits(self):
         for p in list(self.positions):
+            age_h = (time.time() - p["opened"]) / 3600
             try:
                 bid, _ = pm.best_bid_ask(p["token"])
             except Exception as e:
-                self.log(f"  book error {p['question'][:50]}: {e}")
+                if not p.get("book_err"):  # log once, not every 20 s
+                    self.log(f"  book error {p['question'][:50]}: {e}")
+                    p["book_err"] = True
+                self._try_settle(p)
                 continue
+            p["book_err"] = False
             p["last_bid"] = bid
             if bid is None:
+                if age_h >= config.MAX_HOLD_HOURS:
+                    self._try_settle(p)
                 continue
-            age_h = (time.time() - p["opened"]) / 3600
             why = None
-            if bid >= p["entry"] * (1 + config.TAKE_PROFIT):
+            if bid >= p["entry"] + config.TAKE_PROFIT:
                 why = "take profit"
-            elif bid <= p["entry"] * (1 - config.STOP_LOSS):
+            elif bid <= p["entry"] - config.STOP_LOSS:
                 why = "stop loss"
             elif age_h >= config.MAX_HOLD_HOURS:
                 why = "max hold"
@@ -105,11 +111,32 @@ class Paper:
                 self.close(p, why)
         self.save()
 
+    def _try_settle(self, p):
+        """No order book (market closed/resolved): settle at Gamma's final outcome price."""
+        if time.time() < p.get("settle_retry", 0):
+            return
+        p["settle_retry"] = time.time() + 600  # Gamma check at most every 10 min
+        try:
+            m = pm.get_market(p["market_id"])
+            if not m.get("closed"):
+                return
+            outcomes = json.loads(m.get("outcomes") or "[]")
+            prices = [float(x) for x in json.loads(m.get("outcomePrices") or "[]")]
+            if m.get("umaResolutionStatus") != "resolved" and not all(x in (0.0, 0.5, 1.0) for x in prices):
+                return  # closed but not final yet
+            price = prices[outcomes.index(p["outcome"])]
+        except Exception as e:
+            self.log(f"  settle error {p['question'][:50]}: {e}")
+            return
+        self._book_close(p, p["shares"] * price, price, p["shares"], "resolved")
+
     def close(self, p, why):
         usd, avg = pm.simulate_sell(p["token"], p["shares"])
         if avg is None:
             return
-        sold = usd / avg
+        self._book_close(p, usd, avg, usd / avg, why)
+
+    def _book_close(self, p, usd, avg, sold, why):
         frac = min(1.0, sold / p["shares"])
         cost_part = p["cost"] * frac
         pnl = usd - cost_part

@@ -1,4 +1,4 @@
-"""LLM brain: free OpenAI-compatible chat API (Pollinations by default, no key needed).
+"""LLM brain: OpenAI-compatible chat APIs (backends in config.LLM_BACKENDS).
 
 Flow per headline:
   1. cheap keyword gate (only headlines that sound like market-moving events)
@@ -31,8 +31,11 @@ EXTRACT_GATE = NEG + ["will play", "returns", "cleared", "upgraded", "signs", "e
 class LLMBrain:
     name = "llm"
 
-    def __init__(self, fallback):
+    def __init__(self, fallback, log=print):
         self.fallback = fallback
+        self.log = log
+        self.fallbacks = 0   # headlines handed to the rule brain because every backend failed
+        self.errors = {}     # backend name -> last error, logged only when it changes
         self.cooldown = {}   # backend name -> unix time until which it is skipped
         self.last_backend = None
         self.usage = {}      # {"day": "YYYY-MM-DD", "<backend>": calls}
@@ -42,6 +45,11 @@ class LLMBrain:
             except Exception:
                 pass
         self.backends = [b for b in config.LLM_BACKENDS if not b.get("key_env") or os.environ.get(b["key_env"])]
+        missing = [b["name"] for b in config.LLM_BACKENDS if b not in self.backends]
+        if missing:
+            self.log(f"WARNING llm backends without API key (skipped): {', '.join(missing)}")
+        if not self.backends:
+            self.log("WARNING no LLM backend available: every headline goes to the rule brain")
 
     # ---------- plumbing ----------
     def _today(self):
@@ -52,6 +60,15 @@ class LLMBrain:
             self.usage = {"day": self._today()}
         self.usage[name] = self.usage.get(name, 0) + 1
         USAGE.write_text(json.dumps(self.usage))
+
+    def _err(self, name, msg):
+        if self.errors.get(name) != msg:
+            self.log(f"  llm {name}: {msg}")
+            self.errors[name] = msg
+
+    def stats(self):
+        return {"backends": [b["name"] for b in self.backends], "fallbacks": self.fallbacks,
+                "errors": self.errors, "calls": {k: v for k, v in self.usage.items() if k != "day"}}
 
     def calls_today(self):
         if self.usage.get("day") != self._today():
@@ -71,7 +88,8 @@ class LLMBrain:
                 r = requests.post(b["url"], timeout=b.get("timeout", 60), headers=headers, json={
                     "model": b["model"], "temperature": 0, "response_format": {"type": "json_object"},
                     "messages": [{"role": "user", "content": prompt}], **b.get("extra", {})})
-            except requests.exceptions.RequestException:
+            except requests.exceptions.RequestException as e:
+                self._err(name, f"unreachable ({type(e).__name__}), skip 5 min")
                 self.cooldown[name] = time.time() + 300  # down/unreachable: skip for 5 min
                 continue
             self._count_call(name)
@@ -80,14 +98,18 @@ class LLMBrain:
                     wait = float(r.headers.get("retry-after", 60))
                 except ValueError:
                     wait = 60
+                self._err(name, f"rate limited, skip {wait:.0f}s")
                 self.cooldown[name] = time.time() + wait
                 continue
             try:
                 r.raise_for_status()
                 txt = r.json()["choices"][0]["message"]["content"]
                 self.last_backend = name
-                return json.loads(txt[txt.find("{"): txt.rfind("}") + 1])
-            except Exception:
+                out = json.loads(txt[txt.find("{"): txt.rfind("}") + 1])
+                self.errors.pop(name, None)
+                return out
+            except Exception as e:
+                self._err(name, f"HTTP {r.status_code} / bad answer: {str(e)[:120]}")
                 continue
         return None
 
@@ -127,9 +149,16 @@ class LLMBrain:
             "event and league as the market (same nickname in another sport = different team; know "
             "which team a player plays for). Ignore recaps of finished games, opinion pieces, previews "
             "without new facts, and outcomes already near 0 or 1.\n"
+            "Qualifying news is a concrete, confirmed fact: a named STARTER/key player officially ruled out "
+            "or suspended, a resignation, an official result, a confirmed decision. Answer null for: "
+            "predicted or expected line-ups, 'injury concern/worry/bug', questionable/day-to-day tags, "
+            "bench or depth players, injuries to players already known to be out, rumours, transfer talk, "
+            "fantasy advice, and anything you would not bet your own money on. When unsure, answer null. "
+            "confidence = probability the price moves your way by 5+ points; most real signals are 0.6-0.8.\n"
             'Answer JSON only: {"market": i, "outcome": j, "confidence": 0.0-1.0, "reason": "short"} '
             'where outcome j should RISE, or {"market": null, "reason": "short"}.')
         if d is None:  # API down: rule brain with its own strict matching
+            self.fallbacks += 1
             strict = index.candidates(item.title) if index is not None else []
             return self.fallback.analyze(item, strict)
         if d.get("market") is None:

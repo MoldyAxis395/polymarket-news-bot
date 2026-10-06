@@ -1,8 +1,8 @@
 # Bot news → Polymarket (paper trading)
 
 Legge notizie (14 feed RSS + GDELT) ogni 45s → trova mercato Polymarket collegato →
-compra il lato che la notizia favorisce → rivende quando il prezzo sale (+15%),
-scende (-10%) o dopo 6 ore. Soldi FINTI: $100, max $10 a trade, max 5 posizioni.
+compra il lato che la notizia favorisce (solo prezzi 0.20-0.75) → rivende quando il prezzo
+sale (+6c), scende (-5c), dopo 6 ore o a mercato risolto. Soldi FINTI: $100, max $10 a trade, posizioni senza limite finché c'è cassa (min $2).
 Prezzi e fill simulati sul vero order book CLOB di Polymarket.
 
 - Gira su **GitHub Actions** (repo pubblico): turni da 5h45 ogni 6h, stato salvato in `data/` con commit ogni 30 min.
@@ -17,8 +17,9 @@ Prezzi e fill simulati sul vero order book CLOB di Polymarket.
 - `rules` (default, gratis): parole chiave (injured, ruled out, wins...) vicino a un nome
   di squadra/persona presente nel mercato. Esempio: "Jefferson injury, Vikings" → compra Dolphins.
   Limite: non sa che Messi gioca per l'Argentina se la notizia non nomina l'Argentina.
-- `llm`: qualsiasi API compatibile OpenAI (Groq free tier, Gemini, Ollama locale).
-  `BRAIN = "llm"` in config + variabile d'ambiente `LLM_API_KEY`.
+- `llm` (attivo): Groq gpt-oss-120b → gpt-oss-20b, secret `GROQ_API_KEY`. Se l'LLM non risponde
+  i segnali delle regole vengono solo registrati, non tradati (`RULES_CAN_TRADE`). Errori LLM nel log
+  e in `status.json` → `llm`.
 
 ## Soldi veri — NON implementato
 Serve: wallet Polygon con USDC, chiave privata, `py-clob-client`, verifica che Polymarket

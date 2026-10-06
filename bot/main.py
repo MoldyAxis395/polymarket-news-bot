@@ -62,6 +62,7 @@ def write_status(paper, brain, n_markets, n_news):
         "cash": round(paper.cash, 2), "equity": round(paper.equity(), 2),
         "start": config.START_CASH, "open": paper.positions,
         "closed_count": len(paper.closed),
+        "llm": brain.stats() if hasattr(brain, "stats") else None,
         "realized_pnl": round(sum(c["pnl"] for c in paper.closed), 2)}, indent=1))
 
 
@@ -72,7 +73,7 @@ def run():
         import ctypes
         ctypes.windll.kernel32.SetThreadExecutionState(0x80000000 | 0x00000001)
     log(f"=== start mode={config.MODE} pid={os.getpid()} ===")
-    brain = make_brain()
+    brain = make_brain(log)
     paper = Paper(log)
     feed = NewsFeed(log)
     index, idx_prices, last_refresh = None, {}, 0.0
@@ -117,7 +118,10 @@ def run():
                         continue
                     log(f"NEWS [{item.source} {item.age_min:.0f}m] {item.title}")
                     for sig in sigs:
-                        why = paper.can_open(sig.market.id) or entry_check(sig, idx_prices)
+                        why = None
+                        if brain.name == "llm" and sig.reason.startswith("rules") and not config.RULES_CAN_TRADE:
+                            why = "rules fallback, LLM down (not traded)"
+                        why = why or paper.can_open(sig.market.id) or entry_check(sig, idx_prices)
                         if why:
                             log(f"  skip {sig.market.outcomes[sig.outcome]} :: {sig.market.question[:70]} ({why})")
                             record_signal(item, sig, "skip: " + why)

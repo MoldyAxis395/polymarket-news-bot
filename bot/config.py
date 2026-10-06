@@ -11,9 +11,10 @@ MODE = "paper"                      # only paper trading is implemented
 # --- money (paper) ---
 START_CASH = 100.0
 MAX_PER_TRADE = 10.0
-MAX_OPEN_POSITIONS = 5
-TAKE_PROFIT = 0.15                  # sell when best bid >= entry * 1.15
-STOP_LOSS = 0.10                    # sell when best bid <= entry * 0.90
+MAX_OPEN_POSITIONS = None             # None = no slot limit: buy while cash lasts
+MIN_TRADE_USD = 2.0                 # don't open a position with less cash than this
+TAKE_PROFIT = 0.06                  # sell when best bid >= entry + 6c (absolute: % targets were
+STOP_LOSS = 0.05                    # sell when best bid <= entry - 5c  unreachable at 0.9, noise at 0.15)
 MAX_HOLD_HOURS = 6                  # sell anyway after this
 COOLDOWN_MIN_PER_MARKET = 60        # don't re-enter same market within N min of exit
 
@@ -22,22 +23,24 @@ MARKETS_TO_INDEX = 2100             # top markets by 24h volume ending within MA
 MIN_LIQUIDITY = 3000.0
 MIN_VOLUME_24H = 5000.0
 MAX_SPREAD = 0.04                   # skip if ask - bid > 4c
-ENTRY_PRICE_MIN = 0.05              # don't buy dust / near-certain outcomes
-ENTRY_PRICE_MAX = 0.90
+ENTRY_PRICE_MIN = 0.20              # below: stop loss inside normal noise (6 trades, -$7.38)
+ENTRY_PRICE_MAX = 0.75              # above: no room for take profit
 ALREADY_MOVED = 0.05                # skip if price moved > 5c since last index (news priced in)
 MIN_MINUTES_TO_END = 20             # don't enter markets about to close
 MAX_DAYS_TO_END = 30                # one headline barely moves long-dated futures
 SKIP_QUESTION = r"temperature|tweets?|spread:|o/u|over/under|up or down|price of|\bhit\b"
 
 # --- news ---
-NEWS_MAX_AGE_MIN = 20               # ignore items older than this
+NEWS_MAX_AGE_MIN = 5                # older news is already priced in
 NEWS_POLL_SEC = 45
 GDELT_POLL_SEC = 180
 POSITION_CHECK_SEC = 20
 MARKET_REFRESH_SEC = 600
 
 # --- signal ---
-MIN_CONFIDENCE = 0.5
+MIN_CONFIDENCE = 0.65
+RULES_CAN_TRADE = False             # brain="llm" + LLM down: rule signals are logged, not traded
+                                    # (rules: 41 trades, 7 wins, -$9.28 on 2026-10-02..05)
 
 UA = {"User-Agent": "Mozilla/5.0 (polymarket-news-paperbot)"}
 

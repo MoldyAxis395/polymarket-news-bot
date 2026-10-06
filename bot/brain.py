@@ -163,8 +163,8 @@ class RuleBrain:
         return (i if pol > 0 else 1 - i), f"outcome '{m.outcomes[i]}' {'good' if pol > 0 else 'bad'}"
 
 
-def make_brain():
+def make_brain(log=print):
     if config.BRAIN == "llm":
         from .llm import LLMBrain
-        return LLMBrain(RuleBrain())
+        return LLMBrain(RuleBrain(), log)
     return RuleBrain()
