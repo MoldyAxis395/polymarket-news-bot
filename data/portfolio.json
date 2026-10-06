@@ -1,5 +1,5 @@
 {
- "cash": 72.10864714711293,
+ "cash": 82.68835729204046,
  "positions": [
   {
    "market_id": "5199920",
@@ -17,23 +17,6 @@
    "conf": 0.66,
    "end": "2026-10-11T08:00:00+00:00",
    "last_bid": 0.5
-  },
-  {
-   "market_id": "4024655",
-   "question": "Eagles vs. Jaguars",
-   "slug": "nfl-phi-jax-2026-10-11",
-   "outcome": "Jaguars",
-   "token": "79216258135316305711557803023672391620131317040612549629193559999300974564217",
-   "shares": 14.492753623188406,
-   "entry": 0.69,
-   "cost": 10.0,
-   "opened": 1791235752.0631397,
-   "opened_iso": "2026-10-05T21:29:12+00:00",
-   "news": "Eagles RB Tank Bigsby to have surgery on a core muscle injury",
-   "reason": "llm[groq-120b]: Eagles RB Tank Bigsby surgery lowers Eagles offensive strength, likely increasing Jaguars win probability by >5 points",
-   "conf": 0.7,
-   "end": "2026-10-11T13:30:00+00:00",
-   "last_bid": 0.73
   }
  ],
  "closed": [
@@ -1023,6 +1006,27 @@
    "pnl": -0.3614457831325293,
    "why": "max hold",
    "closed_iso": "2026-10-06T00:50:28+00:00"
+  },
+  {
+   "market_id": "4024655",
+   "question": "Eagles vs. Jaguars",
+   "slug": "nfl-phi-jax-2026-10-11",
+   "outcome": "Jaguars",
+   "token": "79216258135316305711557803023672391620131317040612549629193559999300974564217",
+   "shares": 14.492753623188406,
+   "entry": 0.69,
+   "cost": 10.0,
+   "opened": 1791235752.0631397,
+   "opened_iso": "2026-10-05T21:29:12+00:00",
+   "news": "Eagles RB Tank Bigsby to have surgery on a core muscle injury",
+   "reason": "llm[groq-120b]: Eagles RB Tank Bigsby surgery lowers Eagles offensive strength, likely increasing Jaguars win probability by >5 points",
+   "conf": 0.7,
+   "end": "2026-10-11T13:30:00+00:00",
+   "last_bid": 0.73,
+   "exit": 0.73,
+   "pnl": 0.579710144927537,
+   "why": "max hold",
+   "closed_iso": "2026-10-06T03:29:15+00:00"
   }
  ],
  "cooldown": {
@@ -1055,6 +1059,7 @@
   "4024678": 1791229623.4370823,
   "5175495": 1791238654.6412206,
   "4024666": 1791250361.9634042,
-  "3951230": 1791251428.8390932
+  "3951230": 1791251428.8390932,
+  "4024655": 1791260955.8110948
  }
 }
