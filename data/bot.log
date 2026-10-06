@@ -4753,3 +4753,10 @@
 2026-10-06 19:49:53   llm groq-120b: rate limited, skip 23s
 2026-10-06 19:51:10 indexed 936 markets
 2026-10-06 19:54:17   llm groq-120b: rate limited, skip 52s
+2026-10-06 19:56:38   llm groq-120b: rate limited, skip 96s
+2026-10-06 19:58:53   llm groq-120b: rate limited, skip 188s
+2026-10-06 19:58:54 NEWS [gnews_injury 2m] Ravens news: Baltimore dealt brutal season-ending injury blow to tight end
+2026-10-06 19:58:54   skip Falcons :: Ravens vs. Falcons (no cash)
+2026-10-06 20:00:36 indexed 944 markets
+2026-10-06 20:03:44   llm groq-120b: rate limited, skip 8s
+2026-10-06 20:04:45 shift over, state saved
