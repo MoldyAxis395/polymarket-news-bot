@@ -4693,3 +4693,15 @@
 2026-10-06 16:44:05   llm groq-120b: rate limited, skip 65s
 2026-10-06 16:48:50   llm groq-120b: rate limited, skip 380s
 2026-10-06 16:50:49 indexed 978 markets
+2026-10-06 17:00:22 indexed 971 markets
+2026-10-06 17:00:26 NEWS [gnews_injury 3m] Canadiens forward Ivan Demidov out 2-4 weeks with lower-body injury
+2026-10-06 17:00:27   BUY Hurricanes @ 0.540 x18.5 ($10.00) :: Hurricanes vs. Canadiens
+2026-10-06 17:00:27   llm groq-120b: rate limited, skip 33s
+2026-10-06 17:02:42   llm groq-120b: rate limited, skip 78s
+2026-10-06 17:02:44 NEWS [gnews_injury 3m] Liverpool injury latest and possible return dates including Jeremy Jacquet and Cody Gakpo
+2026-10-06 17:02:44   skip No :: Liverpool FC vs. Manchester City FC: Both Teams to Score (illiquid)
+2026-10-06 17:05:09   llm groq-120b: rate limited, skip 274s
+2026-10-06 17:10:51 indexed 972 markets
+2026-10-06 17:11:56   llm groq-120b: rate limited, skip 117s
+2026-10-06 17:16:17   llm groq-120b: rate limited, skip 188s
+2026-10-06 17:20:19 indexed 978 markets

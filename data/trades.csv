@@ -111,3 +111,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-06T13:23:02+00:00,BUY,Ravens vs. Falcons,Falcons,17.86,0.5600,10.00,,Ravens Get Rough Injury Timeline For Lamar Jackson After Win Over Titans | llm[groq-20b]: Lamar Jackson injury likely reduces Ravens’ chances vs Falcons
 2026-10-06T13:34:44+00:00,BUY,Eagles vs. Jaguars,Jaguars,13.51,0.7400,10.00,,Barkley's injury 'bad timing' for grounded Eagles | llm[groq-20b]: Confirmed injury to key Eagles player reduces Eagles win probability.
 2026-10-06T14:15:22+00:00,BUY,Nets vs. Hornets,Nets,28.57,0.3500,10.00,,"Coby White injury creates major problem for Hornets | llm[groq-120b]: Coby White injury lowers Hornets chance, boosting Nets win odds"
+2026-10-06T15:00:27+00:00,BUY,Hurricanes vs. Canadiens,Hurricanes,18.52,0.5400,10.00,,"Canadiens forward Ivan Demidov out 2-4 weeks with lower-body injury | llm[groq-120b]: Demidov injury reduces Canadiens' chances, likely boosting Hurricanes win odds"

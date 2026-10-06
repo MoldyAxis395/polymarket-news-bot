@@ -1,5 +1,5 @@
 {
- "cash": 50.703043716563855,
+ "cash": 40.703043716563855,
  "positions": [
   {
    "market_id": "4409732",
@@ -71,6 +71,24 @@
    "conf": 0.7,
    "end": "2026-10-06T23:00:00+00:00",
    "last_bid": 0.34,
+   "book_err": false
+  },
+  {
+   "market_id": "4409693",
+   "question": "Hurricanes vs. Canadiens",
+   "slug": "nhl-car-mon-2026-10-06",
+   "outcome": "Hurricanes",
+   "token": "84391935919367187860879262517470414911455933040432682658483596286596218255120",
+   "shares": 18.51851851851852,
+   "entry": 0.54,
+   "cost": 10.000000000000002,
+   "opened": 1791298827.1900415,
+   "opened_iso": "2026-10-06T15:00:27+00:00",
+   "news": "Canadiens forward Ivan Demidov out 2-4 weeks with lower-body injury",
+   "reason": "llm[groq-120b]: Demidov injury reduces Canadiens' chances, likely boosting Hurricanes win odds",
+   "conf": 0.66,
+   "end": "2026-10-06T23:00:00+00:00",
+   "last_bid": 0.53,
    "book_err": false
   }
  ],

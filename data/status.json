@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-06T16:54:39",
+ "updated": "2026-10-06T17:24:29",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 457,
+ "llm_calls_today": 480,
  "markets_indexed": 978,
- "news_processed": 120,
- "cash": 50.7,
- "equity": 90.44,
+ "news_processed": 141,
+ "cash": 40.7,
+ "equity": 90.25,
  "start": 100.0,
  "open": [
   {
@@ -80,6 +80,24 @@
    "end": "2026-10-06T23:00:00+00:00",
    "last_bid": 0.34,
    "book_err": false
+  },
+  {
+   "market_id": "4409693",
+   "question": "Hurricanes vs. Canadiens",
+   "slug": "nhl-car-mon-2026-10-06",
+   "outcome": "Hurricanes",
+   "token": "84391935919367187860879262517470414911455933040432682658483596286596218255120",
+   "shares": 18.51851851851852,
+   "entry": 0.54,
+   "cost": 10.000000000000002,
+   "opened": 1791298827.1900415,
+   "opened_iso": "2026-10-06T15:00:27+00:00",
+   "news": "Canadiens forward Ivan Demidov out 2-4 weeks with lower-body injury",
+   "reason": "llm[groq-120b]: Demidov injury reduces Canadiens' chances, likely boosting Hurricanes win odds",
+   "conf": 0.66,
+   "end": "2026-10-06T23:00:00+00:00",
+   "last_bid": 0.53,
+   "book_err": false
   }
  ],
  "closed_count": 54,
@@ -89,12 +107,10 @@
    "groq-20b"
   ],
   "fallbacks": 0,
-  "errors": {
-   "groq-120b": "rate limited, skip 380s"
-  },
+  "errors": {},
   "calls": {
-   "groq-120b": 258,
-   "groq-20b": 199
+   "groq-120b": 272,
+   "groq-20b": 208
   }
  },
  "realized_pnl": -9.3
