@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-06T15:24:26",
+ "updated": "2026-10-06T15:54:39",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 391,
- "markets_indexed": 1009,
- "news_processed": 48,
- "cash": 70.7,
- "equity": 90.32,
+ "llm_calls_today": 419,
+ "markets_indexed": 999,
+ "news_processed": 80,
+ "cash": 60.7,
+ "equity": 90.72,
  "start": 100.0,
  "open": [
   {
@@ -42,7 +42,25 @@
    "reason": "llm[groq-20b]: Lamar Jackson injury likely reduces Ravens\u2019 chances vs Falcons",
    "conf": 0.7,
    "end": "2026-10-12T00:20:00+00:00",
-   "last_bid": 0.55,
+   "last_bid": 0.58,
+   "book_err": false
+  },
+  {
+   "market_id": "4024655",
+   "question": "Eagles vs. Jaguars",
+   "slug": "nfl-phi-jax-2026-10-11",
+   "outcome": "Jaguars",
+   "token": "79216258135316305711557803023672391620131317040612549629193559999300974564217",
+   "shares": 13.513513513513514,
+   "entry": 0.74,
+   "cost": 10.0,
+   "opened": 1791293684.5990722,
+   "opened_iso": "2026-10-06T13:34:44+00:00",
+   "news": "Barkley's injury 'bad timing' for grounded Eagles",
+   "reason": "llm[groq-20b]: Confirmed injury to key Eagles player reduces Eagles win probability.",
+   "conf": 0.7,
+   "end": "2026-10-11T13:30:00+00:00",
+   "last_bid": 0.73,
    "book_err": false
   }
  ],
@@ -54,11 +72,11 @@
   ],
   "fallbacks": 0,
   "errors": {
-   "groq-120b": "rate limited, skip 36s"
+   "groq-120b": "rate limited, skip 305s"
   },
   "calls": {
-   "groq-120b": 224,
-   "groq-20b": 167
+   "groq-120b": 237,
+   "groq-20b": 182
   }
  },
  "realized_pnl": -9.3

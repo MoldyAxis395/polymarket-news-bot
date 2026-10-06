@@ -109,3 +109,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-06T12:50:45+00:00,SELL,Will Leeds United FC win on 2026-10-10?,No,11.11,0.8900,9.89,-0.11,max hold
 2026-10-06T13:10:55+00:00,BUY,Wild vs. Sabres,Sabres,20.41,0.4900,10.00,,"Wild Get Scary New Details on Brock Faber Injury | llm[groq-20b]: Brock Faber injury likely reduces Wild’s chances, boosting Sabres win probability."
 2026-10-06T13:23:02+00:00,BUY,Ravens vs. Falcons,Falcons,17.86,0.5600,10.00,,Ravens Get Rough Injury Timeline For Lamar Jackson After Win Over Titans | llm[groq-20b]: Lamar Jackson injury likely reduces Ravens’ chances vs Falcons
+2026-10-06T13:34:44+00:00,BUY,Eagles vs. Jaguars,Jaguars,13.51,0.7400,10.00,,Barkley's injury 'bad timing' for grounded Eagles | llm[groq-20b]: Confirmed injury to key Eagles player reduces Eagles win probability.
