@@ -138,3 +138,8 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-07T14:19:49+00:00,BUY,Buccaneers vs. Cowboys,Buccaneers,50.00,0.2000,10.00,,"Cowboys ‘Not Sure’ About All-Pro’s Injury Return in Week 5 | llm[groq-120b]: Cowboys key All‑Pro injury doubt may lower their win probability, boosting Buccaneers win odds"
 2026-10-07T17:31:16+00:00,BUY,Avalanche vs. Jets,Avalanche,15.62,0.6400,10.00,,"Johnson: Monangai’s thumb injury is ‘not an issue’ | llm[groq-20b]: Monangai, an Avalanche starter, confirmed fit to play, likely boosts Avalanche odds."
 2026-10-07T17:43:12+00:00,BUY,Predators vs. Canadiens,Predators,26.32,0.3800,10.00,,"Goalie Samuel Montembeault might join Canadiens’ growing injury list | llm[groq-120b]: Montembeault injury lowers Canadiens' chances, likely boosting Predators win odds"
+2026-10-07T22:22:40+00:00,SELL,Penguins vs. Capitals,Capitals,17.24,0.5800,10.00,+0.00,max hold
+2026-10-07T22:22:41+00:00,SELL,Will Brighton & Hove Albion FC win on 2026-10-10?,No,16.95,0.5800,9.83,-0.17,max hold
+2026-10-07T22:22:42+00:00,SELL,Los Angeles Dodgers vs. Atlanta Braves,Atlanta Braves,23.81,0.5400,12.86,+2.86,take profit
+2026-10-07T22:22:43+00:00,SELL,Bears vs. Packers,Packers,23.81,0.4400,10.48,+0.48,max hold
+2026-10-07T22:22:43+00:00,SELL,Buccaneers vs. Cowboys,Buccaneers,50.00,0.1900,9.50,-0.50,max hold

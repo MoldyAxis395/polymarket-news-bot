@@ -1,104 +1,14 @@
 {
- "updated": "2026-10-07T19:56:30",
+ "updated": "2026-10-08T00:26:55",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 308,
- "markets_indexed": 932,
- "news_processed": 217,
- "cash": 22.79,
- "equity": 91.23,
+ "llm_calls_today": 309,
+ "markets_indexed": 889,
+ "news_processed": 5,
+ "cash": 75.46,
+ "equity": 95.04,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "4440794",
-   "question": "Penguins vs. Capitals",
-   "slug": "nhl-pit-wsh-2026-10-07",
-   "outcome": "Capitals",
-   "token": "111820866359751592701324155582874840407668609550578412244990571867612448032866",
-   "shares": 17.24137931034483,
-   "entry": 0.58,
-   "cost": 10.0,
-   "opened": 1791376637.0726287,
-   "opened_iso": "2026-10-07T12:37:17+00:00",
-   "news": "Dan\u2019s Daily: Trade Tease; Marchand Ugly Injury; Penguins Changes",
-   "reason": "llm[groq-120b]: Marchand injury confirmed, likely hurts Penguins win chance",
-   "conf": 0.7,
-   "end": "2026-10-07T23:30:00+00:00",
-   "last_bid": 0.58,
-   "book_err": false
-  },
-  {
-   "market_id": "5009042",
-   "question": "Will Brighton & Hove Albion FC win on 2026-10-10?",
-   "slug": "epl-sun-bri-2026-10-10-bri",
-   "outcome": "No",
-   "token": "81811361388898370236355657480695105245712839093426166643770361574473044351822",
-   "shares": 16.949152542372882,
-   "entry": 0.59,
-   "cost": 10.0,
-   "opened": 1791377612.4938474,
-   "opened_iso": "2026-10-07T12:53:32+00:00",
-   "news": "Albion support Tzimas through injury as Euros hopes remain",
-   "reason": "llm[groq-120b]: Brighton injury lowers win chance, likely pushes No odds up >5pts",
-   "conf": 0.66,
-   "end": "2026-10-10T14:00:00+00:00",
-   "last_bid": 0.58,
-   "book_err": false
-  },
-  {
-   "market_id": "5203714",
-   "question": "Los Angeles Dodgers vs. Atlanta Braves",
-   "slug": "mlb-lad-atl-2026-10-07",
-   "outcome": "Atlanta Braves",
-   "token": "1708422201171345280012624053234883963245987424642054081874968824543222262040",
-   "shares": 23.80952380952381,
-   "entry": 0.42,
-   "cost": 10.0,
-   "opened": 1791378170.935133,
-   "opened_iso": "2026-10-07T13:02:50+00:00",
-   "news": "Dodgers Notes: Miguel Rojas Injury Update, Shohei Ohtani\u2019s Response to Lineup Demotion, One Win From NLCS",
-   "reason": "llm[groq-120b]: Rojas injury lowers Dodgers chance, boosting Braves odds",
-   "conf": 0.65,
-   "end": "2026-10-14T22:00:00+00:00",
-   "last_bid": 0.41,
-   "book_err": false
-  },
-  {
-   "market_id": "4024678",
-   "question": "Bears vs. Packers",
-   "slug": "nfl-chi-gb-2026-10-11",
-   "outcome": "Packers",
-   "token": "54279491274786956127455930816409059670408770683649891919452938777692299299587",
-   "shares": 23.80952380952381,
-   "entry": 0.42,
-   "cost": 10.0,
-   "opened": 1791379415.9008262,
-   "opened_iso": "2026-10-07T13:23:35+00:00",
-   "news": "Packers have 5 players eligible to return from injury lists after 4 games, and one could fill a sudden need at receiver",
-   "reason": "llm[groq-120b]: Packers get 5 players back, boosting win probability vs Bears",
-   "conf": 0.65,
-   "end": "2026-10-11T20:25:00+00:00",
-   "last_bid": 0.41,
-   "book_err": false
-  },
-  {
-   "market_id": "3951230",
-   "question": "Buccaneers vs. Cowboys",
-   "slug": "nfl-tb-dal-2026-10-09",
-   "outcome": "Buccaneers",
-   "token": "41073895388163492044683513841262626450248745686629069268834561009386173172680",
-   "shares": 50.0,
-   "entry": 0.2,
-   "cost": 10.0,
-   "opened": 1791382789.1821558,
-   "opened_iso": "2026-10-07T14:19:49+00:00",
-   "news": "Cowboys \u2018Not Sure\u2019 About All-Pro\u2019s Injury Return in Week 5",
-   "reason": "llm[groq-120b]: Cowboys key All\u2011Pro injury doubt may lower their win probability, boosting Buccaneers win odds",
-   "conf": 0.65,
-   "end": "2026-10-09T00:15:00+00:00",
-   "last_bid": 0.19,
-   "book_err": false
-  },
   {
    "market_id": "4440789",
    "question": "Avalanche vs. Jets",
@@ -136,20 +46,18 @@
    "book_err": false
   }
  ],
- "closed_count": 66,
+ "closed_count": 71,
  "llm": {
   "backends": [
    "groq-120b",
    "groq-20b"
   ],
   "fallbacks": 0,
-  "errors": {
-   "groq-120b": "rate limited, skip 550s"
-  },
+  "errors": {},
   "calls": {
-   "groq-120b": 297,
+   "groq-120b": 298,
    "groq-20b": 11
   }
  },
- "realized_pnl": -7.21
+ "realized_pnl": -4.54
 }
