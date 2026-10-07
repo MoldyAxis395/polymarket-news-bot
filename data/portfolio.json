@@ -1,25 +1,6 @@
 {
- "cash": 85.30142733669383,
- "positions": [
-  {
-   "market_id": "4469795",
-   "question": "Predators vs. Canadiens",
-   "slug": "nhl-nsh-mon-2026-10-08",
-   "outcome": "Predators",
-   "token": "75825197087166934624141093220560043077941641797125187160760271184380673950744",
-   "shares": 26.31578947368421,
-   "entry": 0.38,
-   "cost": 10.0,
-   "opened": 1791394992.2112627,
-   "opened_iso": "2026-10-07T17:43:12+00:00",
-   "news": "Goalie Samuel Montembeault might join Canadiens\u2019 growing injury list",
-   "reason": "llm[groq-120b]: Montembeault injury lowers Canadiens' chances, likely boosting Predators win odds",
-   "conf": 0.66,
-   "end": "2026-10-08T23:00:00+00:00",
-   "last_bid": 0.37,
-   "book_err": false
-  }
- ],
+ "cash": 95.038269441957,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -1556,6 +1537,28 @@
    "pnl": -0.15625,
    "why": "market closing",
    "closed_iso": "2026-10-07T23:25:16+00:00"
+  },
+  {
+   "market_id": "4469795",
+   "question": "Predators vs. Canadiens",
+   "slug": "nhl-nsh-mon-2026-10-08",
+   "outcome": "Predators",
+   "token": "75825197087166934624141093220560043077941641797125187160760271184380673950744",
+   "shares": 26.31578947368421,
+   "entry": 0.38,
+   "cost": 10.0,
+   "opened": 1791394992.2112627,
+   "opened_iso": "2026-10-07T17:43:12+00:00",
+   "news": "Goalie Samuel Montembeault might join Canadiens\u2019 growing injury list",
+   "reason": "llm[groq-120b]: Montembeault injury lowers Canadiens' chances, likely boosting Predators win odds",
+   "conf": 0.66,
+   "end": "2026-10-08T23:00:00+00:00",
+   "last_bid": 0.37,
+   "book_err": false,
+   "exit": 0.37,
+   "pnl": -0.2631578947368425,
+   "why": "max hold",
+   "closed_iso": "2026-10-07T23:43:33+00:00"
   }
  ],
  "cooldown": {
@@ -1605,6 +1608,7 @@
   "4440794": 1791415361.1077256,
   "5009042": 1791415361.9067981,
   "5203714": 1791415362.718322,
-  "4440789": 1791419116.7755632
+  "4440789": 1791419116.7755632,
+  "4469795": 1791420213.0906844
  }
 }

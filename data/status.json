@@ -1,34 +1,15 @@
 {
- "updated": "2026-10-08T01:26:59",
+ "updated": "2026-10-08T01:56:52",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 332,
- "markets_indexed": 868,
- "news_processed": 40,
- "cash": 85.3,
+ "llm_calls_today": 341,
+ "markets_indexed": 866,
+ "news_processed": 57,
+ "cash": 95.04,
  "equity": 95.04,
  "start": 100.0,
- "open": [
-  {
-   "market_id": "4469795",
-   "question": "Predators vs. Canadiens",
-   "slug": "nhl-nsh-mon-2026-10-08",
-   "outcome": "Predators",
-   "token": "75825197087166934624141093220560043077941641797125187160760271184380673950744",
-   "shares": 26.31578947368421,
-   "entry": 0.38,
-   "cost": 10.0,
-   "opened": 1791394992.2112627,
-   "opened_iso": "2026-10-07T17:43:12+00:00",
-   "news": "Goalie Samuel Montembeault might join Canadiens\u2019 growing injury list",
-   "reason": "llm[groq-120b]: Montembeault injury lowers Canadiens' chances, likely boosting Predators win odds",
-   "conf": 0.66,
-   "end": "2026-10-08T23:00:00+00:00",
-   "last_bid": 0.37,
-   "book_err": false
-  }
- ],
- "closed_count": 72,
+ "open": [],
+ "closed_count": 73,
  "llm": {
   "backends": [
    "groq-120b",
@@ -37,9 +18,9 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 321,
+   "groq-120b": 330,
    "groq-20b": 11
   }
  },
- "realized_pnl": -4.7
+ "realized_pnl": -4.96
 }
