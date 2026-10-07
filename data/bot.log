@@ -4923,3 +4923,15 @@
 2026-10-07 16:06:03 NEWS [gnews_injury 3m] Noussair Mazraoui’s Injury Raises Doubts Ahead of Tottenham Match
 2026-10-07 16:06:03   skip Yes :: Will Tottenham Hotspur FC win on 2026-10-10? (illiquid)
 2026-10-07 16:12:48 indexed 963 markets
+2026-10-07 16:18:27 feed bbc_sport error x1: HTTPSConnectionPool(host='feeds.bbci.co.uk', port=443): Read timed out. (read timeout=15)
+2026-10-07 16:19:48 NEWS [gnews_injury 3m] Cowboys ‘Not Sure’ About All-Pro’s Injury Return in Week 5
+2026-10-07 16:19:49   BUY Buccaneers @ 0.200 x50.0 ($10.00) :: Buccaneers vs. Cowboys
+2026-10-07 16:22:47 indexed 968 markets
+2026-10-07 16:23:04 NEWS [gnews_injury 4m] The Hockey News Morning Skate: Larkin's Red Wings Return, McKenna Milestone, Marchand's Injury Scare
+2026-10-07 16:23:04   skip Red Wings :: Kraken vs. Red Wings (illiquid)
+2026-10-07 16:32:49 indexed 966 markets
+2026-10-07 16:33:14 NEWS [gnews_injury 2m] Alvin Kamara Injury Shows Saints Scary Truth
+2026-10-07 16:33:14   skip Vikings :: Vikings vs. Saints (illiquid)
+2026-10-07 16:39:51 NEWS [gnews_injury 1m] A look at different offensive line combinations as Miami navigates an injury to OL Max Buchanan
+2026-10-07 16:39:51   skip No :: Will Inter Miami CF win on 2026-10-10? (illiquid)
+2026-10-07 16:42:47 indexed 971 markets

@@ -1,5 +1,5 @@
 {
- "cash": 52.79383552878422,
+ "cash": 42.79383552878422,
  "positions": [
   {
    "market_id": "4440794",
@@ -71,6 +71,24 @@
    "conf": 0.65,
    "end": "2026-10-11T20:25:00+00:00",
    "last_bid": 0.41,
+   "book_err": false
+  },
+  {
+   "market_id": "3951230",
+   "question": "Buccaneers vs. Cowboys",
+   "slug": "nfl-tb-dal-2026-10-09",
+   "outcome": "Buccaneers",
+   "token": "41073895388163492044683513841262626450248745686629069268834561009386173172680",
+   "shares": 50.0,
+   "entry": 0.2,
+   "cost": 10.0,
+   "opened": 1791382789.1821558,
+   "opened_iso": "2026-10-07T14:19:49+00:00",
+   "news": "Cowboys \u2018Not Sure\u2019 About All-Pro\u2019s Injury Return in Week 5",
+   "reason": "llm[groq-120b]: Cowboys key All\u2011Pro injury doubt may lower their win probability, boosting Buccaneers win odds",
+   "conf": 0.65,
+   "end": "2026-10-09T00:15:00+00:00",
+   "last_bid": 0.19,
    "book_err": false
   }
  ],
