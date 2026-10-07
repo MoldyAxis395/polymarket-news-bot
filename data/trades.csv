@@ -124,3 +124,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-06T21:58:03+00:00,SELL,Senators vs. Red Wings,Senators,20.00,0.4800,9.60,-0.40,max hold
 2026-10-06T22:18:01+00:00,SELL,Predators vs. Maple Leafs,Maple Leafs,16.67,0.5900,9.83,-0.17,max hold
 2026-10-06T22:30:43+00:00,SELL,49ers vs. Seahawks,Seahawks,17.24,0.5800,10.00,+0.00,max hold
+2026-10-06T23:49:57+00:00,SELL,Buccaneers vs. Cowboys,Buccaneers,50.00,0.2000,10.00,+0.00,max hold

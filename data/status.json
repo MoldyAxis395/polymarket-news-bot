@@ -1,34 +1,15 @@
 {
- "updated": "2026-10-07T01:32:20",
+ "updated": "2026-10-07T02:02:22",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 594,
- "markets_indexed": 843,
- "news_processed": 33,
- "cash": 84.44,
+ "llm_calls_today": 0,
+ "markets_indexed": 847,
+ "news_processed": 40,
+ "cash": 94.44,
  "equity": 94.44,
  "start": 100.0,
- "open": [
-  {
-   "market_id": "3951230",
-   "question": "Buccaneers vs. Cowboys",
-   "slug": "nfl-tb-dal-2026-10-09",
-   "outcome": "Buccaneers",
-   "token": "41073895388163492044683513841262626450248745686629069268834561009386173172680",
-   "shares": 50.0,
-   "entry": 0.2,
-   "cost": 10.0,
-   "opened": 1791308992.5718718,
-   "opened_iso": "2026-10-06T17:49:52+00:00",
-   "news": "Cowboys Update Dak Prescott Hand Injury",
-   "reason": "llm[groq-120b]: Prescott is Cowboys starter; hand injury likely reduces Cowboys win probability, boosting Buccaneers odds",
-   "conf": 0.7,
-   "end": "2026-10-09T00:15:00+00:00",
-   "last_bid": 0.2,
-   "book_err": false
-  }
- ],
- "closed_count": 62,
+ "open": [],
+ "closed_count": 63,
  "llm": {
   "backends": [
    "groq-120b",
@@ -37,7 +18,7 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 354,
+   "groq-120b": 359,
    "groq-20b": 240
   }
  },
