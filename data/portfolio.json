@@ -1,25 +1,6 @@
 {
- "cash": 83.33125049477061,
- "positions": [
-  {
-   "market_id": "4409757",
-   "question": "Panthers vs. Kings",
-   "slug": "nhl-fla-lak-2026-10-06",
-   "outcome": "Kings",
-   "token": "84428850548862215995928496961429764879765094728834927969555027756428441042870",
-   "shares": 20.408163265306122,
-   "entry": 0.49,
-   "cost": 10.0,
-   "opened": 1791334185.61935,
-   "opened_iso": "2026-10-07T00:49:45+00:00",
-   "news": "Florida Panthers' Aleksander Barkov out 6-8 weeks with lower-body injury",
-   "reason": "llm[groq-120b]: Barkov's injury lowers Panthers' win chance, boosting Kings odds",
-   "conf": 0.7,
-   "end": "2026-10-07T02:30:00+00:00",
-   "last_bid": 0.49,
-   "book_err": false
-  }
- ],
+ "cash": 93.12716886211756,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -1380,6 +1361,28 @@
    "pnl": -1.1111111111111107,
    "why": "stop loss",
    "closed_iso": "2026-10-07T01:41:44+00:00"
+  },
+  {
+   "market_id": "4409757",
+   "question": "Panthers vs. Kings",
+   "slug": "nhl-fla-lak-2026-10-06",
+   "outcome": "Kings",
+   "token": "84428850548862215995928496961429764879765094728834927969555027756428441042870",
+   "shares": 20.408163265306122,
+   "entry": 0.49,
+   "cost": 10.0,
+   "opened": 1791334185.61935,
+   "opened_iso": "2026-10-07T00:49:45+00:00",
+   "news": "Florida Panthers' Aleksander Barkov out 6-8 weeks with lower-body injury",
+   "reason": "llm[groq-120b]: Barkov's injury lowers Panthers' win chance, boosting Kings odds",
+   "conf": 0.7,
+   "end": "2026-10-07T02:30:00+00:00",
+   "last_bid": 0.48,
+   "book_err": false,
+   "exit": 0.48000000000000004,
+   "pnl": -0.204081632653061,
+   "why": "market closing",
+   "closed_iso": "2026-10-07T02:25:17+00:00"
   }
  ],
  "cooldown": {
@@ -1423,6 +1426,7 @@
   "4409693": 1791327483.3714042,
   "4409654": 1791328682.125152,
   "4024680": 1791329444.1345088,
-  "5175499": 1791340904.3264194
+  "5175499": 1791340904.3264194,
+  "4409757": 1791343517.895298
  }
 }
