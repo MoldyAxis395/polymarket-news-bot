@@ -1,24 +1,6 @@
 {
- "cash": 53.12716886211756,
+ "cash": 52.79383552878422,
  "positions": [
-  {
-   "market_id": "5009005",
-   "question": "Will Arsenal FC win on 2026-10-10?",
-   "slug": "epl-ars-lee-2026-10-10-ars",
-   "outcome": "No",
-   "token": "104133566882229246943424269281141570450716676763846455559686412072017228592509",
-   "shares": 33.333333333333336,
-   "entry": 0.3,
-   "cost": 10.0,
-   "opened": 1791357993.2800632,
-   "opened_iso": "2026-10-07T07:26:33+00:00",
-   "news": "Leeds United latest news: Four in international action as Arsenal injury nightmare continues",
-   "reason": "llm[groq-120b]: Arsenal injury news likely pushes win probability down",
-   "conf": 0.65,
-   "end": "2026-10-10T11:30:00+00:00",
-   "last_bid": 0.29,
-   "book_err": false
-  },
   {
    "market_id": "4440794",
    "question": "Penguins vs. Capitals",
@@ -70,6 +52,24 @@
    "reason": "llm[groq-120b]: Rojas injury lowers Dodgers chance, boosting Braves odds",
    "conf": 0.65,
    "end": "2026-10-14T22:00:00+00:00",
+   "last_bid": 0.41,
+   "book_err": false
+  },
+  {
+   "market_id": "4024678",
+   "question": "Bears vs. Packers",
+   "slug": "nfl-chi-gb-2026-10-11",
+   "outcome": "Packers",
+   "token": "54279491274786956127455930816409059670408770683649891919452938777692299299587",
+   "shares": 23.80952380952381,
+   "entry": 0.42,
+   "cost": 10.0,
+   "opened": 1791379415.9008262,
+   "opened_iso": "2026-10-07T13:23:35+00:00",
+   "news": "Packers have 5 players eligible to return from injury lists after 4 games, and one could fill a sudden need at receiver",
+   "reason": "llm[groq-120b]: Packers get 5 players back, boosting win probability vs Bears",
+   "conf": 0.65,
+   "end": "2026-10-11T20:25:00+00:00",
    "last_bid": 0.41,
    "book_err": false
   }
@@ -1456,6 +1456,28 @@
    "pnl": -0.204081632653061,
    "why": "market closing",
    "closed_iso": "2026-10-07T02:25:17+00:00"
+  },
+  {
+   "market_id": "5009005",
+   "question": "Will Arsenal FC win on 2026-10-10?",
+   "slug": "epl-ars-lee-2026-10-10-ars",
+   "outcome": "No",
+   "token": "104133566882229246943424269281141570450716676763846455559686412072017228592509",
+   "shares": 33.333333333333336,
+   "entry": 0.3,
+   "cost": 10.0,
+   "opened": 1791357993.2800632,
+   "opened_iso": "2026-10-07T07:26:33+00:00",
+   "news": "Leeds United latest news: Four in international action as Arsenal injury nightmare continues",
+   "reason": "llm[groq-120b]: Arsenal injury news likely pushes win probability down",
+   "conf": 0.65,
+   "end": "2026-10-10T11:30:00+00:00",
+   "last_bid": 0.29,
+   "book_err": false,
+   "exit": 0.29,
+   "pnl": -0.3333333333333339,
+   "why": "max hold",
+   "closed_iso": "2026-10-07T13:26:44+00:00"
   }
  ],
  "cooldown": {
@@ -1500,6 +1522,7 @@
   "4409654": 1791328682.125152,
   "4024680": 1791329444.1345088,
   "5175499": 1791340904.3264194,
-  "4409757": 1791343517.895298
+  "4409757": 1791343517.895298,
+  "5009005": 1791383204.6184287
  }
 }
