@@ -4959,3 +4959,15 @@
 2026-10-07 19:05:25 NEWS [gnews_injury 4m] Arsenal striker’s international form gives Arteta timely boost after Havertz injury
 2026-10-07 19:05:25   skip Yes :: Will Arsenal FC win on 2026-10-10? (low conf 0.62)
 2026-10-07 19:12:30 indexed 958 markets
+2026-10-07 19:17:09 NEWS [gnews_injury 4m] Caleb Douglas injury: Dolphins WR still not ready to practice
+2026-10-07 19:17:09   skip Bengals :: Bengals vs. Dolphins (illiquid)
+2026-10-07 19:22:29 indexed 953 markets
+2026-10-07 19:31:15   llm groq-120b: rate limited, skip 549s
+2026-10-07 19:31:16 NEWS [gnews_injury 2m] Johnson: Monangai’s thumb injury is ‘not an issue’
+2026-10-07 19:31:16   BUY Avalanche @ 0.640 x15.6 ($10.00) :: Avalanche vs. Jets
+2026-10-07 19:32:41 indexed 951 markets
+2026-10-07 19:33:30 NEWS [gnews_injury 3m] Marchand Injury Once Again Will Test Florida Panthers Depth
+2026-10-07 19:33:30   skip Wild :: Wild vs. Panthers (illiquid)
+2026-10-07 19:43:07 indexed 942 markets
+2026-10-07 19:43:11 NEWS [gnews_injury 3m] Goalie Samuel Montembeault might join Canadiens’ growing injury list
+2026-10-07 19:43:12   BUY Predators @ 0.380 x26.3 ($10.00) :: Predators vs. Canadiens

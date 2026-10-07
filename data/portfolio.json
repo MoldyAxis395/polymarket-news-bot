@@ -1,5 +1,5 @@
 {
- "cash": 42.79383552878422,
+ "cash": 22.79383552878422,
  "positions": [
   {
    "market_id": "4440794",
@@ -89,6 +89,42 @@
    "conf": 0.65,
    "end": "2026-10-09T00:15:00+00:00",
    "last_bid": 0.19,
+   "book_err": false
+  },
+  {
+   "market_id": "4440789",
+   "question": "Avalanche vs. Jets",
+   "slug": "nhl-col-wpg-2026-10-07",
+   "outcome": "Avalanche",
+   "token": "88973316029287161710337523546107061952358534796146346031617457706960144486393",
+   "shares": 15.625,
+   "entry": 0.64,
+   "cost": 10.0,
+   "opened": 1791394276.8887386,
+   "opened_iso": "2026-10-07T17:31:16+00:00",
+   "news": "Johnson: Monangai\u2019s thumb injury is \u2018not an issue\u2019",
+   "reason": "llm[groq-20b]: Monangai, an Avalanche starter, confirmed fit to play, likely boosts Avalanche odds.",
+   "conf": 0.7,
+   "end": "2026-10-07T23:30:00+00:00",
+   "last_bid": 0.63,
+   "book_err": false
+  },
+  {
+   "market_id": "4469795",
+   "question": "Predators vs. Canadiens",
+   "slug": "nhl-nsh-mon-2026-10-08",
+   "outcome": "Predators",
+   "token": "75825197087166934624141093220560043077941641797125187160760271184380673950744",
+   "shares": 26.31578947368421,
+   "entry": 0.38,
+   "cost": 10.0,
+   "opened": 1791394992.2112627,
+   "opened_iso": "2026-10-07T17:43:12+00:00",
+   "news": "Goalie Samuel Montembeault might join Canadiens\u2019 growing injury list",
+   "reason": "llm[groq-120b]: Montembeault injury lowers Canadiens' chances, likely boosting Predators win odds",
+   "conf": 0.66,
+   "end": "2026-10-08T23:00:00+00:00",
+   "last_bid": 0.37,
    "book_err": false
   }
  ],
