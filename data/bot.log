@@ -4971,3 +4971,9 @@
 2026-10-07 19:43:07 indexed 942 markets
 2026-10-07 19:43:11 NEWS [gnews_injury 3m] Goalie Samuel Montembeault might join Canadiens’ growing injury list
 2026-10-07 19:43:12   BUY Predators @ 0.380 x26.3 ($10.00) :: Predators vs. Canadiens
+2026-10-07 19:47:49   llm groq-120b: rate limited, skip 110s
+2026-10-07 19:50:22   llm groq-120b: rate limited, skip 550s
+2026-10-07 19:50:23 NEWS [gnews_injury 4m] Alex Romanov injury: Islanders D-man’s season likely over
+2026-10-07 19:50:23   skip Blackhawks :: Blackhawks vs. Islanders (illiquid)
+2026-10-07 19:53:07 indexed 932 markets
+2026-10-07 19:56:34 shift over, state saved
