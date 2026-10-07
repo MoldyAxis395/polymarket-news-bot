@@ -126,3 +126,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-06T22:30:43+00:00,SELL,49ers vs. Seahawks,Seahawks,17.24,0.5800,10.00,+0.00,max hold
 2026-10-06T23:49:57+00:00,SELL,Buccaneers vs. Cowboys,Buccaneers,50.00,0.2000,10.00,+0.00,max hold
 2026-10-07T00:03:27+00:00,BUY,Milwaukee Brewers vs. San Diego Padres,Milwaukee Brewers,22.22,0.4500,10.00,,"Padres Slugger Scratched From Lineup Due to Injury Hours Before NLDS Game 3 | llm[groq-120b]: Padres key slugger ruled out before NLDS Game 3, lowering Padres win probability and raising Brewers win odds by >5 points"
+2026-10-07T00:49:45+00:00,BUY,Panthers vs. Kings,Kings,20.41,0.4900,10.00,,"Florida Panthers' Aleksander Barkov out 6-8 weeks with lower-body injury | llm[groq-120b]: Barkov's injury lowers Panthers' win chance, boosting Kings odds"
