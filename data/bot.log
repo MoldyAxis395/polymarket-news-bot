@@ -4884,3 +4884,7 @@
 2026-10-07 11:14:18 indexed 854 markets
 2026-10-07 11:24:17 indexed 856 markets
 2026-10-07 11:27:41 shift over, state saved
+2026-10-07 14:11:32 === start mode=paper pid=2327 ===
+2026-10-07 14:11:32 brain=llm cash=83.13 open=1
+2026-10-07 14:11:32 resuming with 5424 known news items
+2026-10-07 14:11:56 indexed 987 markets
