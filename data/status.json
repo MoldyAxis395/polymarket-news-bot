@@ -1,14 +1,33 @@
 {
- "updated": "2026-10-07T02:02:22",
+ "updated": "2026-10-07T02:32:20",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 0,
- "markets_indexed": 847,
- "news_processed": 40,
- "cash": 94.44,
- "equity": 94.44,
+ "llm_calls_today": 5,
+ "markets_indexed": 861,
+ "news_processed": 49,
+ "cash": 84.44,
+ "equity": 94.22,
  "start": 100.0,
- "open": [],
+ "open": [
+  {
+   "market_id": "5175499",
+   "question": "Milwaukee Brewers vs. San Diego Padres",
+   "slug": "mlb-mil-sd-2026-10-06",
+   "outcome": "Milwaukee Brewers",
+   "token": "107594980772140507913039673228491371037408479237413601235593247067138991554664",
+   "shares": 22.22222222222222,
+   "entry": 0.45,
+   "cost": 10.0,
+   "opened": 1791331407.720371,
+   "opened_iso": "2026-10-07T00:03:27+00:00",
+   "news": "Padres Slugger Scratched From Lineup Due to Injury Hours Before NLDS Game 3",
+   "reason": "llm[groq-120b]: Padres key slugger ruled out before NLDS Game 3, lowering Padres win probability and raising Brewers win odds by >5 points",
+   "conf": 0.7,
+   "end": "2026-10-14T01:30:00+00:00",
+   "last_bid": 0.44,
+   "book_err": false
+  }
+ ],
  "closed_count": 63,
  "llm": {
   "backends": [
@@ -18,8 +37,7 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 359,
-   "groq-20b": 240
+   "groq-120b": 5
   }
  },
  "realized_pnl": -5.56

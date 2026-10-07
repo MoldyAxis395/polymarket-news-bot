@@ -1,6 +1,25 @@
 {
- "cash": 94.44236160588173,
- "positions": [],
+ "cash": 84.44236160588173,
+ "positions": [
+  {
+   "market_id": "5175499",
+   "question": "Milwaukee Brewers vs. San Diego Padres",
+   "slug": "mlb-mil-sd-2026-10-06",
+   "outcome": "Milwaukee Brewers",
+   "token": "107594980772140507913039673228491371037408479237413601235593247067138991554664",
+   "shares": 22.22222222222222,
+   "entry": 0.45,
+   "cost": 10.0,
+   "opened": 1791331407.720371,
+   "opened_iso": "2026-10-07T00:03:27+00:00",
+   "news": "Padres Slugger Scratched From Lineup Due to Injury Hours Before NLDS Game 3",
+   "reason": "llm[groq-120b]: Padres key slugger ruled out before NLDS Game 3, lowering Padres win probability and raising Brewers win odds by >5 points",
+   "conf": 0.7,
+   "end": "2026-10-14T01:30:00+00:00",
+   "last_bid": 0.44,
+   "book_err": false
+  }
+ ],
  "closed": [
   {
    "market_id": "3871412",
