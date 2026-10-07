@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-07T15:46:14",
+ "updated": "2026-10-07T16:16:29",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 167,
- "markets_indexed": 964,
- "news_processed": 51,
+ "llm_calls_today": 177,
+ "markets_indexed": 963,
+ "news_processed": 67,
  "cash": 52.79,
- "equity": 91.98,
+ "equity": 92.15,
  "start": 100.0,
  "open": [
   {
@@ -24,7 +24,7 @@
    "reason": "llm[groq-120b]: Marchand injury confirmed, likely hurts Penguins win chance",
    "conf": 0.7,
    "end": "2026-10-07T23:30:00+00:00",
-   "last_bid": 0.57,
+   "last_bid": 0.58,
    "book_err": false
   },
   {
@@ -91,7 +91,7 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 167
+   "groq-120b": 177
   }
  },
  "realized_pnl": -7.21
