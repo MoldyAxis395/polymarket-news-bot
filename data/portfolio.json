@@ -1,5 +1,5 @@
 {
- "cash": 83.12716886211756,
+ "cash": 73.12716886211756,
  "positions": [
   {
    "market_id": "5009005",
@@ -17,6 +17,24 @@
    "conf": 0.65,
    "end": "2026-10-10T11:30:00+00:00",
    "last_bid": 0.29,
+   "book_err": false
+  },
+  {
+   "market_id": "4440794",
+   "question": "Penguins vs. Capitals",
+   "slug": "nhl-pit-wsh-2026-10-07",
+   "outcome": "Capitals",
+   "token": "111820866359751592701324155582874840407668609550578412244990571867612448032866",
+   "shares": 17.24137931034483,
+   "entry": 0.58,
+   "cost": 10.0,
+   "opened": 1791376637.0726287,
+   "opened_iso": "2026-10-07T12:37:17+00:00",
+   "news": "Dan\u2019s Daily: Trade Tease; Marchand Ugly Injury; Penguins Changes",
+   "reason": "llm[groq-120b]: Marchand injury confirmed, likely hurts Penguins win chance",
+   "conf": 0.7,
+   "end": "2026-10-07T23:30:00+00:00",
+   "last_bid": 0.57,
    "book_err": false
   }
  ],
