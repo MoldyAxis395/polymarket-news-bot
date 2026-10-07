@@ -1,24 +1,6 @@
 {
- "cash": 75.45767733669383,
+ "cash": 85.30142733669383,
  "positions": [
-  {
-   "market_id": "4440789",
-   "question": "Avalanche vs. Jets",
-   "slug": "nhl-col-wpg-2026-10-07",
-   "outcome": "Avalanche",
-   "token": "88973316029287161710337523546107061952358534796146346031617457706960144486393",
-   "shares": 15.625,
-   "entry": 0.64,
-   "cost": 10.0,
-   "opened": 1791394276.8887386,
-   "opened_iso": "2026-10-07T17:31:16+00:00",
-   "news": "Johnson: Monangai\u2019s thumb injury is \u2018not an issue\u2019",
-   "reason": "llm[groq-20b]: Monangai, an Avalanche starter, confirmed fit to play, likely boosts Avalanche odds.",
-   "conf": 0.7,
-   "end": "2026-10-07T23:30:00+00:00",
-   "last_bid": 0.63,
-   "book_err": false
-  },
   {
    "market_id": "4469795",
    "question": "Predators vs. Canadiens",
@@ -1552,6 +1534,28 @@
    "pnl": -0.5,
    "why": "max hold",
    "closed_iso": "2026-10-07T22:22:44+00:00"
+  },
+  {
+   "market_id": "4440789",
+   "question": "Avalanche vs. Jets",
+   "slug": "nhl-col-wpg-2026-10-07",
+   "outcome": "Avalanche",
+   "token": "88973316029287161710337523546107061952358534796146346031617457706960144486393",
+   "shares": 15.625,
+   "entry": 0.64,
+   "cost": 10.0,
+   "opened": 1791394276.8887386,
+   "opened_iso": "2026-10-07T17:31:16+00:00",
+   "news": "Johnson: Monangai\u2019s thumb injury is \u2018not an issue\u2019",
+   "reason": "llm[groq-20b]: Monangai, an Avalanche starter, confirmed fit to play, likely boosts Avalanche odds.",
+   "conf": 0.7,
+   "end": "2026-10-07T23:30:00+00:00",
+   "last_bid": 0.63,
+   "book_err": false,
+   "exit": 0.63,
+   "pnl": -0.15625,
+   "why": "market closing",
+   "closed_iso": "2026-10-07T23:25:16+00:00"
   }
  ],
  "cooldown": {
@@ -1600,6 +1604,7 @@
   "5009005": 1791383204.6184287,
   "4440794": 1791415361.1077256,
   "5009042": 1791415361.9067981,
-  "5203714": 1791415362.718322
+  "5203714": 1791415362.718322,
+  "4440789": 1791419116.7755632
  }
 }

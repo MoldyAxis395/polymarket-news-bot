@@ -1,32 +1,14 @@
 {
- "updated": "2026-10-08T00:56:57",
+ "updated": "2026-10-08T01:26:59",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 318,
- "markets_indexed": 878,
- "news_processed": 23,
- "cash": 75.46,
+ "llm_calls_today": 332,
+ "markets_indexed": 868,
+ "news_processed": 40,
+ "cash": 85.3,
  "equity": 95.04,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "4440789",
-   "question": "Avalanche vs. Jets",
-   "slug": "nhl-col-wpg-2026-10-07",
-   "outcome": "Avalanche",
-   "token": "88973316029287161710337523546107061952358534796146346031617457706960144486393",
-   "shares": 15.625,
-   "entry": 0.64,
-   "cost": 10.0,
-   "opened": 1791394276.8887386,
-   "opened_iso": "2026-10-07T17:31:16+00:00",
-   "news": "Johnson: Monangai\u2019s thumb injury is \u2018not an issue\u2019",
-   "reason": "llm[groq-20b]: Monangai, an Avalanche starter, confirmed fit to play, likely boosts Avalanche odds.",
-   "conf": 0.7,
-   "end": "2026-10-07T23:30:00+00:00",
-   "last_bid": 0.63,
-   "book_err": false
-  },
   {
    "market_id": "4469795",
    "question": "Predators vs. Canadiens",
@@ -46,7 +28,7 @@
    "book_err": false
   }
  ],
- "closed_count": 71,
+ "closed_count": 72,
  "llm": {
   "backends": [
    "groq-120b",
@@ -55,9 +37,9 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 307,
+   "groq-120b": 321,
    "groq-20b": 11
   }
  },
- "realized_pnl": -4.54
+ "realized_pnl": -4.7
 }

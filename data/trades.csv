@@ -143,3 +143,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-07T22:22:42+00:00,SELL,Los Angeles Dodgers vs. Atlanta Braves,Atlanta Braves,23.81,0.5400,12.86,+2.86,take profit
 2026-10-07T22:22:43+00:00,SELL,Bears vs. Packers,Packers,23.81,0.4400,10.48,+0.48,max hold
 2026-10-07T22:22:43+00:00,SELL,Buccaneers vs. Cowboys,Buccaneers,50.00,0.1900,9.50,-0.50,max hold
+2026-10-07T23:25:16+00:00,SELL,Avalanche vs. Jets,Avalanche,15.62,0.6300,9.84,-0.16,market closing
