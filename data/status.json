@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-08T04:57:20",
+ "updated": "2026-10-08T05:27:03",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 45,
- "markets_indexed": 859,
- "news_processed": 140,
+ "llm_calls_today": 51,
+ "markets_indexed": 862,
+ "news_processed": 145,
  "cash": 95.04,
  "equity": 95.04,
  "start": 100.0,
@@ -18,7 +18,7 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 45
+   "groq-120b": 51
   }
  },
  "realized_pnl": -4.96
