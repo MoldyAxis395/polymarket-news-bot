@@ -1,6 +1,25 @@
 {
- "cash": 95.038269441957,
- "positions": [],
+ "cash": 85.038269441957,
+ "positions": [
+  {
+   "market_id": "4024655",
+   "question": "Eagles vs. Jaguars",
+   "slug": "nfl-phi-jax-2026-10-11",
+   "outcome": "Eagles",
+   "token": "10186989480552148019256953810076645337654417739483524090679152288705629993128",
+   "shares": 41.66666666666667,
+   "entry": 0.23999999999999996,
+   "cost": 10.0,
+   "opened": 1791438761.9397821,
+   "opened_iso": "2026-10-08T05:52:41+00:00",
+   "news": "Jaguars Place Caleb Ransaw on IR, Return This Season in Doubt",
+   "reason": "llm[groq-120b]: Jaguars lose a starter, Jaguars win prob should drop, Eagles prob rise >5pts",
+   "conf": 0.7,
+   "end": "2026-10-11T13:30:00+00:00",
+   "last_bid": 0.23,
+   "book_err": false
+  }
+ ],
  "closed": [
   {
    "market_id": "3871412",

@@ -145,3 +145,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-07T22:22:43+00:00,SELL,Buccaneers vs. Cowboys,Buccaneers,50.00,0.1900,9.50,-0.50,max hold
 2026-10-07T23:25:16+00:00,SELL,Avalanche vs. Jets,Avalanche,15.62,0.6300,9.84,-0.16,market closing
 2026-10-07T23:43:32+00:00,SELL,Predators vs. Canadiens,Predators,26.32,0.3700,9.74,-0.26,max hold
+2026-10-08T05:52:41+00:00,BUY,Eagles vs. Jaguars,Eagles,41.67,0.2400,10.00,,"Jaguars Place Caleb Ransaw on IR, Return This Season in Doubt | llm[groq-120b]: Jaguars lose a starter, Jaguars win prob should drop, Eagles prob rise >5pts"
