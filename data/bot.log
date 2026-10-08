@@ -5037,3 +5037,8 @@
 2026-10-08 06:29:10 indexed 809 markets
 2026-10-08 06:31:16 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
 2026-10-08 06:39:11 indexed 801 markets
+2026-10-08 06:48:35 indexed 804 markets
+2026-10-08 06:58:37 indexed 807 markets
+2026-10-08 07:05:00 NEWS [gnews_injury 5m] Newcastle United transfer U-turn boost as significant injury blow revealed
+2026-10-08 07:05:00   skip No :: Will Newcastle United FC win on 2026-10-12? (illiquid)
+2026-10-08 07:08:38 indexed 804 markets
