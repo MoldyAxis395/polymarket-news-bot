@@ -151,3 +151,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-08T13:19:04+00:00,BUY,Georgia vs. Alabama,Alabama,19.23,0.5200,10.00,,"Georgia rushing touchdown leader ruled out for Alabama game | llm[groq-120b]: Georgia's top rusher out, Alabama win prob up"
 2026-10-08T13:21:37+00:00,SELL,Will Arsenal FC win on 2026-10-10?,Yes,14.08,0.7000,9.86,-0.14,max hold
 2026-10-08T13:36:39+00:00,BUY,Giants vs. Commanders,Giants,26.32,0.3800,10.00,,"NFL Trade Pitch Sends Commanders QB Insurance After Marcus Mariota Injury | llm[groq-120b]: Mariota injury weakens Commanders QB depth, boosting Giants win odds"
+2026-10-08T17:05:27+00:00,BUY,Will Arsenal FC win on 2026-10-10?,No,33.33,0.3000,10.00,,"Arsenal & Leeds United fresh injury news as updates now leave 5 out and 6 doubtful but 3 back | llm[groq-120b]: Arsenal injury updates likely lower win probability, pushing No price up"

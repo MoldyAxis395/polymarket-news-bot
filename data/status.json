@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-08T18:56:58",
+ "updated": "2026-10-08T19:27:12",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 239,
- "markets_indexed": 923,
- "news_processed": 186,
- "cash": 74.48,
- "equity": 93.76,
+ "llm_calls_today": 250,
+ "markets_indexed": 912,
+ "news_processed": 199,
+ "cash": 64.48,
+ "equity": 93.43,
  "start": 100.0,
  "open": [
   {
@@ -44,6 +44,24 @@
    "end": "2026-10-11T17:00:00+00:00",
    "last_bid": 0.36,
    "book_err": false
+  },
+  {
+   "market_id": "5009005",
+   "question": "Will Arsenal FC win on 2026-10-10?",
+   "slug": "epl-ars-lee-2026-10-10-ars",
+   "outcome": "No",
+   "token": "104133566882229246943424269281141570450716676763846455559686412072017228592509",
+   "shares": 33.333333333333336,
+   "entry": 0.3,
+   "cost": 10.0,
+   "opened": 1791479127.9360178,
+   "opened_iso": "2026-10-08T17:05:27+00:00",
+   "news": "Arsenal & Leeds United fresh injury news as updates now leave 5 out and 6 doubtful but 3 back",
+   "reason": "llm[groq-120b]: Arsenal injury updates likely lower win probability, pushing No price up",
+   "conf": 0.66,
+   "end": "2026-10-10T11:30:00+00:00",
+   "last_bid": 0.29,
+   "book_err": false
   }
  ],
  "closed_count": 75,
@@ -55,7 +73,7 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 239
+   "groq-120b": 250
   }
  },
  "realized_pnl": -5.52
