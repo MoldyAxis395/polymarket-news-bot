@@ -5176,3 +5176,17 @@
 2026-10-09 00:34:54 indexed 878 markets
 2026-10-09 00:35:11   SELL Alabama @ 0.520 (max hold) pnl +0.00 :: Georgia vs. Alabama
 2026-10-09 00:35:11   SELL Giants @ 0.360 (max hold) pnl -0.53 :: Giants vs. Commanders
+2026-10-09 00:45:07 indexed 877 markets
+2026-10-09 00:46:52 NEWS [gnews_injury 3m] Cowboys CB Joey Porter Jr. has been ruled out out of tonight’s game vs. the Buccaneers due to an illness.
+2026-10-09 00:46:52   BUY Buccaneers @ 0.200 x50.0 ($10.00) :: Buccaneers vs. Cowboys
+2026-10-09 00:46:54 NEWS [gnews_injury 3m] Cowboys' secondary takes another hit as Joey Porter Jr. ruled out ahead of Buccaneers bout
+2026-10-09 00:46:54   skip Buccaneers :: Buccaneers vs. Cowboys (already in market)
+2026-10-09 00:49:12 NEWS [gnews_injury 3m] Oliver Kapanen Injury: Out again Thursday
+2026-10-09 00:49:12   BUY No @ 0.450 x22.2 ($10.00) :: Will Finland win on 2026-10-09?
+2026-10-09 00:55:42 indexed 869 markets
+2026-10-09 00:56:32 NEWS [gnews_injury 4m] New Injury Issues for Dolphins; What to Know About Even More Tryouts
+2026-10-09 00:56:32   skip Bengals :: Bengals vs. Dolphins (illiquid)
+2026-10-09 01:03:46 NEWS [gnews_injury 2m] Ex-Steeler Joey Porter Jr. Ruled out for New Issue Ahead of Cowboys Week 5 TNF Game
+2026-10-09 01:03:46   skip Buccaneers :: Buccaneers vs. Cowboys (already in market)
+2026-10-09 01:05:09 indexed 882 markets
+2026-10-09 01:05:32   SELL No @ 0.290 (max hold) pnl -0.33 :: Will Arsenal FC win on 2026-10-10?

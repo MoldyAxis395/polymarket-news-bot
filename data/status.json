@@ -1,34 +1,52 @@
 {
- "updated": "2026-10-09T00:39:19",
+ "updated": "2026-10-09T01:09:22",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 259,
- "markets_indexed": 878,
- "news_processed": 1,
- "cash": 83.95,
- "equity": 93.62,
+ "llm_calls_today": 276,
+ "markets_indexed": 882,
+ "news_processed": 17,
+ "cash": 73.62,
+ "equity": 92.9,
  "start": 100.0,
  "open": [
   {
-   "market_id": "5009005",
-   "question": "Will Arsenal FC win on 2026-10-10?",
-   "slug": "epl-ars-lee-2026-10-10-ars",
-   "outcome": "No",
-   "token": "104133566882229246943424269281141570450716676763846455559686412072017228592509",
-   "shares": 33.333333333333336,
-   "entry": 0.3,
+   "market_id": "3951230",
+   "question": "Buccaneers vs. Cowboys",
+   "slug": "nfl-tb-dal-2026-10-09",
+   "outcome": "Buccaneers",
+   "token": "41073895388163492044683513841262626450248745686629069268834561009386173172680",
+   "shares": 50.0,
+   "entry": 0.2,
    "cost": 10.0,
-   "opened": 1791479127.9360178,
-   "opened_iso": "2026-10-08T17:05:27+00:00",
-   "news": "Arsenal & Leeds United fresh injury news as updates now leave 5 out and 6 doubtful but 3 back",
-   "reason": "llm[groq-120b]: Arsenal injury updates likely lower win probability, pushing No price up",
-   "conf": 0.66,
-   "end": "2026-10-10T11:30:00+00:00",
-   "last_bid": 0.29,
+   "opened": 1791499612.7537844,
+   "opened_iso": "2026-10-08T22:46:52+00:00",
+   "news": "Cowboys CB Joey Porter Jr. has been ruled out out of tonight\u2019s game vs. the Buccaneers due to an illness.",
+   "reason": "llm[groq-120b]: Porter Jr. ruled out hurts Cowboys, Buccaneers odds should rise",
+   "conf": 0.72,
+   "end": "2026-10-09T00:15:00+00:00",
+   "last_bid": 0.19,
+   "book_err": false
+  },
+  {
+   "market_id": "5224522",
+   "question": "Will Finland win on 2026-10-09?",
+   "slug": "wwcquefa-fin-ser-2026-10-09-fin",
+   "outcome": "No",
+   "token": "93483069569417915397985016937180359670937177299335029518397115414880754191154",
+   "shares": 22.22222222222222,
+   "entry": 0.45,
+   "cost": 10.0,
+   "opened": 1791499752.7733955,
+   "opened_iso": "2026-10-08T22:49:12+00:00",
+   "news": "Oliver Kapanen Injury: Out again Thursday",
+   "reason": "llm[groq-120b]: Kapanen is a key Finnish player; his confirmed injury lowers Finland's win probability, likely pushing the No outcome up",
+   "conf": 0.7,
+   "end": "2026-10-09T15:30:00+00:00",
+   "last_bid": 0.44,
    "book_err": false
   }
  ],
- "closed_count": 77,
+ "closed_count": 78,
  "llm": {
   "backends": [
    "groq-120b",
@@ -37,8 +55,8 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 259
+   "groq-120b": 276
   }
  },
- "realized_pnl": -6.05
+ "realized_pnl": -6.38
 }

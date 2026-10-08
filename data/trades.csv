@@ -154,3 +154,6 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-08T17:05:27+00:00,BUY,Will Arsenal FC win on 2026-10-10?,No,33.33,0.3000,10.00,,"Arsenal & Leeds United fresh injury news as updates now leave 5 out and 6 doubtful but 3 back | llm[groq-120b]: Arsenal injury updates likely lower win probability, pushing No price up"
 2026-10-08T22:35:11+00:00,SELL,Georgia vs. Alabama,Alabama,19.23,0.5200,10.00,+0.00,max hold
 2026-10-08T22:35:11+00:00,SELL,Giants vs. Commanders,Giants,26.32,0.3600,9.47,-0.53,max hold
+2026-10-08T22:46:52+00:00,BUY,Buccaneers vs. Cowboys,Buccaneers,50.00,0.2000,10.00,,"Cowboys CB Joey Porter Jr. has been ruled out out of tonight’s game vs. the Buccaneers due to an illness. | llm[groq-120b]: Porter Jr. ruled out hurts Cowboys, Buccaneers odds should rise"
+2026-10-08T22:49:12+00:00,BUY,Will Finland win on 2026-10-09?,No,22.22,0.4500,10.00,,"Oliver Kapanen Injury: Out again Thursday | llm[groq-120b]: Kapanen is a key Finnish player; his confirmed injury lowers Finland's win probability, likely pushing the No outcome up"
+2026-10-08T23:05:32+00:00,SELL,Will Arsenal FC win on 2026-10-10?,No,33.33,0.2900,9.67,-0.33,max hold
