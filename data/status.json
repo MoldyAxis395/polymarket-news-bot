@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-08T17:27:11",
+ "updated": "2026-10-08T17:56:57",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 203,
- "markets_indexed": 923,
- "news_processed": 134,
+ "llm_calls_today": 215,
+ "markets_indexed": 921,
+ "news_processed": 151,
  "cash": 74.48,
- "equity": 94.03,
+ "equity": 93.76,
  "start": 100.0,
  "open": [
   {
@@ -42,7 +42,7 @@
    "reason": "llm[groq-120b]: Mariota injury weakens Commanders QB depth, boosting Giants win odds",
    "conf": 0.7,
    "end": "2026-10-11T17:00:00+00:00",
-   "last_bid": 0.37,
+   "last_bid": 0.36,
    "book_err": false
   }
  ],
@@ -55,7 +55,7 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 203
+   "groq-120b": 215
   }
  },
  "realized_pnl": -5.52
