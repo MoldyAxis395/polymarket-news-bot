@@ -5083,3 +5083,8 @@
 2026-10-08 11:39:36 indexed 836 markets
 2026-10-08 11:49:41 indexed 839 markets
 2026-10-08 11:53:22 shift over, state saved
+2026-10-08 14:22:01 === start mode=paper pid=2327 ===
+2026-10-08 14:22:01 brain=llm cash=75.04 open=2
+2026-10-08 14:22:01 resuming with 5556 known news items
+2026-10-08 14:22:22 indexed 955 markets
+2026-10-08 14:22:35   SELL Eagles @ 0.230 (max hold) pnl -0.42 :: Eagles vs. Jaguars

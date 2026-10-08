@@ -147,3 +147,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-07T23:43:32+00:00,SELL,Predators vs. Canadiens,Predators,26.32,0.3700,9.74,-0.26,max hold
 2026-10-08T05:52:41+00:00,BUY,Eagles vs. Jaguars,Eagles,41.67,0.2400,10.00,,"Jaguars Place Caleb Ransaw on IR, Return This Season in Doubt | llm[groq-120b]: Jaguars lose a starter, Jaguars win prob should drop, Eagles prob rise >5pts"
 2026-10-08T07:21:17+00:00,BUY,Will Arsenal FC win on 2026-10-10?,Yes,14.08,0.7100,10.00,,"Kai Havertz injury return date ahead of Leeds clash | llm[groq-120b]: Havertz confirmed to return before Leeds match, boosting Arsenal's chances"
+2026-10-08T12:22:35+00:00,SELL,Eagles vs. Jaguars,Eagles,41.67,0.2300,9.58,-0.42,max hold

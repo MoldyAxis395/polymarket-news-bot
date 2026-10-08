@@ -1,24 +1,6 @@
 {
- "cash": 75.038269441957,
+ "cash": 84.62160277529034,
  "positions": [
-  {
-   "market_id": "4024655",
-   "question": "Eagles vs. Jaguars",
-   "slug": "nfl-phi-jax-2026-10-11",
-   "outcome": "Eagles",
-   "token": "10186989480552148019256953810076645337654417739483524090679152288705629993128",
-   "shares": 41.66666666666667,
-   "entry": 0.23999999999999996,
-   "cost": 10.0,
-   "opened": 1791438761.9397821,
-   "opened_iso": "2026-10-08T05:52:41+00:00",
-   "news": "Jaguars Place Caleb Ransaw on IR, Return This Season in Doubt",
-   "reason": "llm[groq-120b]: Jaguars lose a starter, Jaguars win prob should drop, Eagles prob rise >5pts",
-   "conf": 0.7,
-   "end": "2026-10-11T13:30:00+00:00",
-   "last_bid": 0.23,
-   "book_err": false
-  },
   {
    "market_id": "5009005",
    "question": "Will Arsenal FC win on 2026-10-10?",
@@ -1596,6 +1578,28 @@
    "pnl": -0.2631578947368425,
    "why": "max hold",
    "closed_iso": "2026-10-07T23:43:33+00:00"
+  },
+  {
+   "market_id": "4024655",
+   "question": "Eagles vs. Jaguars",
+   "slug": "nfl-phi-jax-2026-10-11",
+   "outcome": "Eagles",
+   "token": "10186989480552148019256953810076645337654417739483524090679152288705629993128",
+   "shares": 41.66666666666667,
+   "entry": 0.23999999999999996,
+   "cost": 10.0,
+   "opened": 1791438761.9397821,
+   "opened_iso": "2026-10-08T05:52:41+00:00",
+   "news": "Jaguars Place Caleb Ransaw on IR, Return This Season in Doubt",
+   "reason": "llm[groq-120b]: Jaguars lose a starter, Jaguars win prob should drop, Eagles prob rise >5pts",
+   "conf": 0.7,
+   "end": "2026-10-11T13:30:00+00:00",
+   "last_bid": 0.23,
+   "book_err": false,
+   "exit": 0.23000000000000004,
+   "pnl": -0.4166666666666643,
+   "why": "max hold",
+   "closed_iso": "2026-10-08T12:22:36+00:00"
   }
  ],
  "cooldown": {
@@ -1629,7 +1633,7 @@
   "5175495": 1791238654.6412206,
   "4024666": 1791250361.9634042,
   "3951230": 1791415364.3361216,
-  "4024655": 1791327481.5998986,
+  "4024655": 1791465756.1235983,
   "5240812": 1791270766.353486,
   "5199920": 1791292815.243157,
   "4409705": 1791327484.2469695,
