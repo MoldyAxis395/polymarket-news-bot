@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-08T09:12:49",
+ "updated": "2026-10-08T09:43:00",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 80,
- "markets_indexed": 795,
- "news_processed": 61,
- "cash": 85.04,
- "equity": 94.62,
+ "llm_calls_today": 92,
+ "markets_indexed": 804,
+ "news_processed": 76,
+ "cash": 75.04,
+ "equity": 94.48,
  "start": 100.0,
  "open": [
   {
@@ -26,6 +26,24 @@
    "end": "2026-10-11T13:30:00+00:00",
    "last_bid": 0.23,
    "book_err": false
+  },
+  {
+   "market_id": "5009005",
+   "question": "Will Arsenal FC win on 2026-10-10?",
+   "slug": "epl-ars-lee-2026-10-10-ars",
+   "outcome": "Yes",
+   "token": "15328071393183042384698581273750652653989425198085030465882744379857544320805",
+   "shares": 14.084507042253522,
+   "entry": 0.71,
+   "cost": 10.0,
+   "opened": 1791444077.220486,
+   "opened_iso": "2026-10-08T07:21:17+00:00",
+   "news": "Kai Havertz injury return date ahead of Leeds clash",
+   "reason": "llm[groq-120b]: Havertz confirmed to return before Leeds match, boosting Arsenal's chances",
+   "conf": 0.65,
+   "end": "2026-10-10T11:30:00+00:00",
+   "last_bid": 0.7,
+   "book_err": false
   }
  ],
  "closed_count": 73,
@@ -37,7 +55,7 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 80
+   "groq-120b": 92
   }
  },
  "realized_pnl": -4.96
