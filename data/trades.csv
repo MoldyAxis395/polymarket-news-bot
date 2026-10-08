@@ -150,3 +150,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-08T12:22:35+00:00,SELL,Eagles vs. Jaguars,Eagles,41.67,0.2300,9.58,-0.42,max hold
 2026-10-08T13:19:04+00:00,BUY,Georgia vs. Alabama,Alabama,19.23,0.5200,10.00,,"Georgia rushing touchdown leader ruled out for Alabama game | llm[groq-120b]: Georgia's top rusher out, Alabama win prob up"
 2026-10-08T13:21:37+00:00,SELL,Will Arsenal FC win on 2026-10-10?,Yes,14.08,0.7000,9.86,-0.14,max hold
+2026-10-08T13:36:39+00:00,BUY,Giants vs. Commanders,Giants,26.32,0.3800,10.00,,"NFL Trade Pitch Sends Commanders QB Insurance After Marcus Mariota Injury | llm[groq-120b]: Mariota injury weakens Commanders QB depth, boosting Giants win odds"

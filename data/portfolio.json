@@ -1,5 +1,5 @@
 {
- "cash": 84.48075770486781,
+ "cash": 74.48075770486781,
  "positions": [
   {
    "market_id": "5101510",
@@ -17,6 +17,24 @@
    "conf": 0.7,
    "end": "2026-10-10T23:30:00+00:00",
    "last_bid": 0.51,
+   "book_err": false
+  },
+  {
+   "market_id": "4024671",
+   "question": "Giants vs. Commanders",
+   "slug": "nfl-nyg-was-2026-10-11",
+   "outcome": "Giants",
+   "token": "27609249705459209781330629711573643123728845148921217801100488818279131286272",
+   "shares": 26.31578947368421,
+   "entry": 0.38,
+   "cost": 10.0,
+   "opened": 1791466599.9355998,
+   "opened_iso": "2026-10-08T13:36:39+00:00",
+   "news": "NFL Trade Pitch Sends Commanders QB Insurance After Marcus Mariota Injury",
+   "reason": "llm[groq-120b]: Mariota injury weakens Commanders QB depth, boosting Giants win odds",
+   "conf": 0.7,
+   "end": "2026-10-11T17:00:00+00:00",
+   "last_bid": 0.37,
    "book_err": false
   }
  ],
