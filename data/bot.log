@@ -5031,3 +5031,9 @@
 2026-10-08 06:07:56 brain=llm cash=95.04 open=0
 2026-10-08 06:07:56 resuming with 5654 known news items
 2026-10-08 06:08:19 indexed 824 markets
+2026-10-08 06:18:34 indexed 819 markets
+2026-10-08 06:20:17 NEWS [gnews_injury 1m] Kyrie Irving’s first NBA game for Mavericks back from injury gets major hint
+2026-10-08 06:20:17   skip Mavericks :: Rockets vs. Mavericks (illiquid)
+2026-10-08 06:29:10 indexed 809 markets
+2026-10-08 06:31:16 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-08 06:39:11 indexed 801 markets
