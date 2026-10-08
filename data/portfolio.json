@@ -1,42 +1,6 @@
 {
- "cash": 64.48075770486781,
+ "cash": 83.95444191539413,
  "positions": [
-  {
-   "market_id": "5101510",
-   "question": "Georgia vs. Alabama",
-   "slug": "cfb-ga-ala-2026-10-10",
-   "outcome": "Alabama",
-   "token": "17844913919156925846573907872622878643047106739872011452123944070114978578659",
-   "shares": 19.23076923076923,
-   "entry": 0.52,
-   "cost": 10.0,
-   "opened": 1791465544.9521909,
-   "opened_iso": "2026-10-08T13:19:04+00:00",
-   "news": "Georgia rushing touchdown leader ruled out for Alabama game",
-   "reason": "llm[groq-120b]: Georgia's top rusher out, Alabama win prob up",
-   "conf": 0.7,
-   "end": "2026-10-10T23:30:00+00:00",
-   "last_bid": 0.51,
-   "book_err": false
-  },
-  {
-   "market_id": "4024671",
-   "question": "Giants vs. Commanders",
-   "slug": "nfl-nyg-was-2026-10-11",
-   "outcome": "Giants",
-   "token": "27609249705459209781330629711573643123728845148921217801100488818279131286272",
-   "shares": 26.31578947368421,
-   "entry": 0.38,
-   "cost": 10.0,
-   "opened": 1791466599.9355998,
-   "opened_iso": "2026-10-08T13:36:39+00:00",
-   "news": "NFL Trade Pitch Sends Commanders QB Insurance After Marcus Mariota Injury",
-   "reason": "llm[groq-120b]: Mariota injury weakens Commanders QB depth, boosting Giants win odds",
-   "conf": 0.7,
-   "end": "2026-10-11T17:00:00+00:00",
-   "last_bid": 0.36,
-   "book_err": false
-  },
   {
    "market_id": "5009005",
    "question": "Will Arsenal FC win on 2026-10-10?",
@@ -1658,6 +1622,50 @@
    "pnl": -0.1408450704225359,
    "why": "max hold",
    "closed_iso": "2026-10-08T13:21:37+00:00"
+  },
+  {
+   "market_id": "5101510",
+   "question": "Georgia vs. Alabama",
+   "slug": "cfb-ga-ala-2026-10-10",
+   "outcome": "Alabama",
+   "token": "17844913919156925846573907872622878643047106739872011452123944070114978578659",
+   "shares": 19.23076923076923,
+   "entry": 0.52,
+   "cost": 10.0,
+   "opened": 1791465544.9521909,
+   "opened_iso": "2026-10-08T13:19:04+00:00",
+   "news": "Georgia rushing touchdown leader ruled out for Alabama game",
+   "reason": "llm[groq-120b]: Georgia's top rusher out, Alabama win prob up",
+   "conf": 0.7,
+   "end": "2026-10-10T23:30:00+00:00",
+   "last_bid": 0.52,
+   "book_err": false,
+   "exit": 0.52,
+   "pnl": 0.0,
+   "why": "max hold",
+   "closed_iso": "2026-10-08T22:35:11+00:00"
+  },
+  {
+   "market_id": "4024671",
+   "question": "Giants vs. Commanders",
+   "slug": "nfl-nyg-was-2026-10-11",
+   "outcome": "Giants",
+   "token": "27609249705459209781330629711573643123728845148921217801100488818279131286272",
+   "shares": 26.31578947368421,
+   "entry": 0.38,
+   "cost": 10.0,
+   "opened": 1791466599.9355998,
+   "opened_iso": "2026-10-08T13:36:39+00:00",
+   "news": "NFL Trade Pitch Sends Commanders QB Insurance After Marcus Mariota Injury",
+   "reason": "llm[groq-120b]: Mariota injury weakens Commanders QB depth, boosting Giants win odds",
+   "conf": 0.7,
+   "end": "2026-10-11T17:00:00+00:00",
+   "last_bid": 0.36,
+   "book_err": false,
+   "exit": 0.36,
+   "pnl": -0.526315789473685,
+   "why": "max hold",
+   "closed_iso": "2026-10-08T22:35:11+00:00"
   }
  ],
  "cooldown": {
@@ -1708,6 +1716,8 @@
   "5009042": 1791415361.9067981,
   "5203714": 1791415362.718322,
   "4440789": 1791419116.7755632,
-  "4469795": 1791420213.0906844
+  "4469795": 1791420213.0906844,
+  "5101510": 1791502511.4024835,
+  "4024671": 1791502511.9340239
  }
 }

@@ -5170,3 +5170,9 @@
 2026-10-08 19:53:10 indexed 906 markets
 2026-10-08 20:03:14 indexed 897 markets
 2026-10-08 20:07:02 shift over, state saved
+2026-10-09 00:34:32 === start mode=paper pid=2405 ===
+2026-10-09 00:34:32 brain=llm cash=64.48 open=3
+2026-10-09 00:34:32 resuming with 5341 known news items
+2026-10-09 00:34:54 indexed 878 markets
+2026-10-09 00:35:11   SELL Alabama @ 0.520 (max hold) pnl +0.00 :: Georgia vs. Alabama
+2026-10-09 00:35:11   SELL Giants @ 0.360 (max hold) pnl -0.53 :: Giants vs. Commanders
