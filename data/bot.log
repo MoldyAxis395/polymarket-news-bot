@@ -5581,3 +5581,149 @@
 2026-10-09 19:52:41   drop[not-key] Christian Gonzalez Among Few Players Ruled Out For Patriots-Raiders Game (roundtable.io) :: Christian Gonzalez: injury
 2026-10-09 19:53:21 indexed 951 markets
 2026-10-09 19:57:05 shift over, state saved
+2026-10-09 23:56:46 === start mode=paper pid=2334 ===
+2026-10-09 23:56:46 brain=llm cash=84.56 open=0
+2026-10-09 23:56:46 resuming with 5793 known news items
+2026-10-09 23:57:10 indexed 904 markets
+2026-10-09 23:57:13 [pengwin]   BUY Over @ 0.790 x12.7 ($10.00) :: Genoa CFC vs. ACF Fiorentina: ACF Fiorentina O/U 0.5
+2026-10-09 23:57:19 [pengwin] skip INTER-PARMA [Parma +4 Handicap (0:4)]: Spread: FC Internazionale Milano (-4.5) -> Parma Calcio 1913: spread 0.070
+2026-10-09 23:57:22   drop[not-key] Yasir Abdullah (LB, Atlanta Falcons) ruled out: Questionable -> Out [NFL] (ESPN) :: Yasir Abdullah: injury
+2026-10-09 23:57:22   llm groq-120b: rate limited, skip 4s
+2026-10-09 23:57:23   drop[no-pick] Trey Hendrickson (LB, Baltimore Ravens) ruled out: Questionable -> Out [NFL] (ESPN) :: no suitable market
+2026-10-09 23:57:24   drop[not-key] Cam Jurgens (C, Baltimore Ravens) ruled out: Questionable -> Out [NFL] (ESPN) :: Cam Jurgens: injury
+2026-10-09 23:57:24 [pengwin]   BUY Over @ 0.430 x23.3 ($10.00) :: SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.5
+2026-10-09 23:57:24   drop[not-key] Ja'Kobi Lane (WR, Baltimore Ravens) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Ja'Kobi Lane: injured reserve
+2026-10-09 23:57:24   drop[not-key] Keyshaun Elliott (LB, Chicago Bears) ruled out: Questionable -> Out [NFL] (ESPN) :: Keyshaun Elliott: injury
+2026-10-09 23:57:25   drop[not-key] Kyle Dugger (S, Cincinnati Bengals) ruled out: Questionable -> Out [NFL] (ESPN) :: Kyle Dugger: injury
+2026-10-09 23:57:25   drop[no-pick] Pat Bryant (WR, Denver Broncos) ruled out: Doubtful -> Injured Reserve [NFL] (ESPN) :: short
+2026-10-09 23:57:26   llm groq-20b: rate limited, skip 1s
+2026-10-09 23:57:26   drop[no-pick] Pat Surtain II (CB, Denver Broncos) ruled out: Doubtful -> Out [NFL] (ESPN) :: None
+2026-10-09 23:57:26 NEWS [ESPN 0m] Riley Moss (CB, Denver Broncos) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Chargers :: Broncos vs. Chargers (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Chris Brooks (RB, Green Bay Packers) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Bears :: Bears vs. Packers (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Jalen Nailor (WR, Las Vegas Raiders) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Patriots :: Raiders vs. Patriots (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Trey Zuhn III (C, Las Vegas Raiders) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Patriots :: Raiders vs. Patriots (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 35m] Donte Jackson (CB, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip No :: Will the Los Angeles Dodgers win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26   skip Broncos :: Broncos vs. Chargers (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 35m] Derwin James Jr. (S, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip No :: Will the Los Angeles Dodgers win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26   skip Broncos :: Broncos vs. Chargers (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Quentin Johnston (WR, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip No :: Will the Los Angeles Dodgers win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26   skip Broncos :: Broncos vs. Chargers (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Brenen Thompson (WR, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip No :: Will the Los Angeles Dodgers win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26   skip Broncos :: Broncos vs. Chargers (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Kayode Awosika (G, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip No :: Will the Los Angeles Dodgers win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26   skip Broncos :: Broncos vs. Chargers (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Trevor Penning (G, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip No :: Will the Los Angeles Dodgers win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26   skip Broncos :: Broncos vs. Chargers (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Joe Alt (OT, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip No :: Will the Los Angeles Dodgers win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26   skip Broncos :: Broncos vs. Chargers (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Caleb Douglas (WR, Miami Dolphins) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Bengals :: Bengals vs. Dolphins (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Justin Joly (TE, Miami Dolphins) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Bengals :: Bengals vs. Dolphins (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Robert Beal Jr. (DE, Miami Dolphins) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Bengals :: Bengals vs. Dolphins (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Charles Demmings (CB, Minnesota Vikings) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Saints :: Vikings vs. Saints (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Christian Darrisaw (OT, Minnesota Vikings) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Saints :: Vikings vs. Saints (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Jeremiah Wright (G, New Orleans Saints) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Vikings :: Vikings vs. Saints (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Anfernee Jennings (LB, New Orleans Saints) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Vikings :: Vikings vs. Saints (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Kaden Elliss (LB, New Orleans Saints) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Vikings :: Vikings vs. Saints (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 17m] Jason Pinnock (S, New York Giants) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Commanders :: Giants vs. Commanders (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 28m] Drew Kendall (C, Philadelphia Eagles) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Jaguars :: Eagles vs. Jaguars (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 28m] Marcus Epps (S, Philadelphia Eagles) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Jaguars :: Eagles vs. Jaguars (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 36m] Uar Bernard (DT, Philadelphia Eagles) ruled out: healthy -> Out [NFL]
+2026-10-09 23:57:26   skip Jaguars :: Eagles vs. Jaguars (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] DeVonta Smith (WR, Philadelphia Eagles) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Jaguars :: Eagles vs. Jaguars (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Saquon Barkley (RB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Jaguars :: Eagles vs. Jaguars (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Hollywood Brown (WR, Philadelphia Eagles) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Jaguars :: Eagles vs. Jaguars (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Amani Hooker (S, Tennessee Titans) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Texans :: Texans vs. Titans (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 22m] Marcus Mariota (QB, Washington Commanders) ruled out: Doubtful -> Out [NFL]
+2026-10-09 23:57:26   skip Giants :: Giants vs. Commanders (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Stefon Diggs (WR, Washington Commanders) ruled out: Questionable -> Out [NFL]
+2026-10-09 23:57:26   skip Giants :: Giants vs. Commanders (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Mats Zuccarello (RW, Los Angeles Kings) ruled out: healthy -> Out [NHL]
+2026-10-09 23:57:26   skip No :: Will the Los Angeles Dodgers win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26   skip Golden Knights :: Kings vs. Golden Knights (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 0m] Dillon Dube (C, St. Louis Blues) ruled out: healthy -> Out [NHL]
+2026-10-09 23:57:26   skip Blue Jackets :: Blue Jackets vs. Blues (rules fallback, LLM down (not traded))
+2026-10-09 23:57:26 NEWS [ESPN 24m] John Tavares (C, Toronto Maple Leafs) ruled out: healthy -> Out [NHL]
+2026-10-09 23:57:26   skip Avalanche :: Maple Leafs vs. Avalanche (rules fallback, LLM down (not traded))
+2026-10-09 23:57:29 [pengwin]   BUY Yes @ 0.280 x35.7 ($10.00) :: Will Como 1907 vs. AS Roma end in a draw?
+2026-10-09 23:57:32   llm groq-120b: rate limited, skip 8s
+2026-10-09 23:57:32   llm groq-20b: rate limited, skip 2s
+2026-10-09 23:57:32 [pengwin] LAZIO-MONZA: no LLM answer (try 1)
+2026-10-09 23:57:34   llm groq-20b: rate limited, skip 1s
+2026-10-09 23:57:34 [pengwin] LECCE-BOLOGNA: no LLM answer (try 1)
+2026-10-09 23:57:39 [pengwin]   BUY Over @ 0.800 x12.5 ($10.00) :: US Sassuolo Calcio vs. AC Milan: O/U 1.5
+2026-10-09 23:57:45 [pengwin]   BUY Over @ 0.856 x11.7 ($10.00) :: Cagliari Calcio vs. Juventus FC: Juventus FC O/U 0.5
+2026-10-09 23:57:48   llm groq-120b: rate limited, skip 15s
+2026-10-09 23:57:48   llm groq-20b: rate limited, skip 7s
+2026-10-09 23:57:48 [pengwin] ATALANTA-VENEZIA: no LLM answer (try 1)
+2026-10-09 23:57:51 [pengwin] TORINO-UDINESE: no LLM answer (try 1)
+2026-10-09 23:58:11   llm groq-120b: rate limited, skip 2s
+2026-10-09 23:58:12   llm groq-20b: rate limited, skip 14s
+2026-10-09 23:58:12   drop[no-pick] Charles Omenihu (DE, Washington Commanders) ruled out: Questionable -> Out [NFL] (ESPN) :: None
+2026-10-09 23:58:12 [pengwin]   BUY Yes @ 0.700 x14.3 ($10.00) :: Will Arsenal FC win on 2026-10-10?
+2026-10-09 23:58:17 [pengwin]   BUY Yes @ 0.620 x16.1 ($10.00) :: Aston Villa FC vs. Brentford FC: Both Teams to Score
+2026-10-09 23:58:21   llm groq-120b: rate limited, skip 7s
+2026-10-09 23:58:21 [pengwin] CHELSEA-BOURNEMOUTH: no LLM answer (try 1)
+2026-10-09 23:58:24 [pengwin] IPSWICH TOWN-FULHAM: no LLM answer (try 1)
+2026-10-09 23:58:28 [pengwin] skip SUNDERLAND-BRIGHTON [MULTIGOL 1-3 OSPITE]: no matching market
+2026-10-09 23:58:32 [pengwin] skip MANCHESTER UNITED-TOTTENHAM [OVER 9.5 CORNERS & OVER 4.5 YELLOW CARDS]: Polymarket offers no corner or card markets, so no matching market available
+2026-10-09 23:58:36   llm groq-120b: rate limited, skip 9s
+2026-10-09 23:58:36   llm groq-20b: rate limited, skip 3s
+2026-10-09 23:58:36 [pengwin] CRYSTAL PALACE-NOTTINGHAM FOREST: no LLM answer (try 1)
+2026-10-09 23:58:39 [pengwin] HULL CITY-EVERTON: no LLM answer (try 1)
+2026-10-09 23:58:41   llm groq-20b: rate limited, skip 4s
+2026-10-09 23:58:41 [pengwin] LIVERPOOL-MANCHESTER CITY: no LLM answer (try 1)
+2026-10-09 23:58:44 [pengwin] COVENTRY CITY-NEWCASTLE: no LLM answer (try 1)
+2026-10-09 23:58:46 [pengwin] Malaga-Espanyol: no Polymarket event (try 1)
+2026-10-09 23:58:52 [pengwin]   BUY Under @ 0.870 x11.5 ($10.00) :: Deportivo Alavés vs. Club Atlético de Madrid: O/U 4.5
+2026-10-09 23:58:56   llm groq-120b: rate limited, skip 11s
+2026-10-09 23:58:57 [pengwin]   BUY Under @ 0.240 x41.7 ($10.00) :: FC Barcelona vs. Getafe CF: O/U 2.5
+2026-10-09 23:59:00   llm groq-20b: rate limited, skip 10s
+2026-10-09 23:59:00 [pengwin] Real Madrid-Villarreal: no LLM answer (try 1)
+2026-10-09 23:59:04 [pengwin] Elche-Celta Vigo: no LLM answer (try 1)
+2026-10-09 23:59:08 [pengwin] skip Real Sociedad-Deportivo [1 Corner (over 0.5 total corners)]: Polymarket provides no corner markets, so the pick cannot be mapped
+2026-10-09 23:59:11   llm groq-120b: rate limited, skip 10s
+2026-10-09 23:59:13 [pengwin]   BUY Over @ 0.790 x12.7 ($10.00) :: Real Betis Balompié vs. CA Osasuna: O/U 1.5
+2026-10-09 23:59:13   drop[not-key] Nick Cross (S, Washington Commanders) ruled out: Questionable -> Out [NFL] (ESPN) :: Nick Cross: injury
+2026-10-09 23:59:16   llm groq-20b: rate limited, skip 6s
+2026-10-09 23:59:16 [pengwin] Racing Santander-Valencia: no LLM answer (try 1)
+2026-10-09 23:59:19 [pengwin] Levante-Siviglia: no Polymarket event (try 1)
+2026-10-10 00:00:10 [pengwin] FENERBAHCE-ROMA: no Polymarket event (try 1)
+2026-10-10 00:00:13 [pengwin] PSV-SHAKHTAR: no Polymarket event (try 1)
+2026-10-10 00:00:16 [pengwin] BAYERN MONACO-BODO/GLIMT: no Polymarket event (try 1)
+2026-10-10 00:00:20 [pengwin] MANCHESTER UNITED-SABAH BAKU: no Polymarket event (try 1)
+2026-10-10 00:00:22 [pengwin] COMO-LIPSIA: no Polymarket event (try 1)
+2026-10-10 00:00:26 [pengwin] SLAVIA PRAGA-LENS: no Polymarket event (try 1)
+2026-10-10 00:00:29 [pengwin] BARCELLONA-FEYENOORD: no Polymarket event (try 1)
+2026-10-10 00:00:32 [pengwin] STOCCARDA-VIKING: no Polymarket event (try 1)
+2026-10-10 00:00:35 [pengwin] LIVERPOOL-ATLETICO MADRID: no Polymarket event (try 1)
+2026-10-10 00:00:38 [pengwin] skip PSG-SLOVAN BRATISLAVA [OVER 3.5 @1.53]: MFK Skalica vs. ŠK Slovan Bratislava: O/U 3.5 -> Over: no cash
+2026-10-10 00:00:55   drop[kind] US lifts sanctions on daughter of Myanmar military-linked businessman reut.rs/4ATE8fz (Reuters) :: other
+2026-10-10 00:01:14 NEWS [ESPN 8m] Tyler Owens (S, Washington Commanders) ruled out: healthy -> Out [NFL]
+2026-10-10 00:01:14   skip Giants :: Giants vs. Commanders (low conf 0.62)
+2026-10-10 00:01:17   drop[verify] Percy Butler (S, Washington Commanders) ruled out: Questionable -> Out [NFL] (ESPN) :: player not on team and not impactful
