@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-09T06:09:32",
+ "updated": "2026-10-09T06:19:14",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 67,
- "markets_indexed": 844,
- "news_processed": 151,
+ "llm_calls_today": 69,
+ "markets_indexed": 829,
+ "news_processed": 153,
  "cash": 51.32,
- "equity": 90.05,
+ "equity": 90.51,
  "start": 100.0,
  "open": [
   {
@@ -78,7 +78,7 @@
    "reason": "llm[groq-120b]: India key bowlers ruled out, weakening side; West Indies win odds should rise >5pts",
    "conf": 0.7,
    "end": "2026-10-16T13:30:00+00:00",
-   "last_bid": 0.21,
+   "last_bid": 0.22,
    "book_err": false
   }
  ],
@@ -91,7 +91,7 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 67
+   "groq-120b": 69
   }
  },
  "realized_pnl": -8.68
