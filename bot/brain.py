@@ -19,6 +19,7 @@ class Signal:
     outcome: int          # index into market.outcomes to BUY
     confidence: float
     reason: str
+    trade: bool = True    # False: record + measure only (e.g. sports news from slow RSS articles)
 
 
 NEG = [

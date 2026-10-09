@@ -144,3 +144,18 @@ def simulate_sell(token_id, shares):
 def best_bid_ask(token_id):
     bids, asks = book(token_id)
     return (bids[0][0] if bids else None), (asks[0][0] if asks else None)
+
+
+def price_history(token_id, start_ts, end_ts):
+    """[(unix_ts, price)] at ~1 min resolution from CLOB price history."""
+    r = _s.get(f"{CLOB}/prices-history", timeout=15, params={
+        "market": token_id, "startTs": int(start_ts), "endTs": int(end_ts), "fidelity": 1})
+    r.raise_for_status()
+    return [(h["t"], float(h["p"])) for h in r.json().get("history", [])]
+
+
+def price_at(token_id, ts, hist=None):
+    """Last recorded price at or before `ts` (None if no data in the 30 min before)."""
+    hist = hist if hist is not None else price_history(token_id, ts - 1800, ts + 60)
+    before = [p for t, p in hist if t <= ts]
+    return before[-1] if before else None

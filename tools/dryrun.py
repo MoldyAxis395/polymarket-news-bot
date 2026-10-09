@@ -1,6 +1,7 @@
 """Run the configured brain over recent news without trading.
 Usage: python tools/dryrun.py [minutes]   live news of the last N minutes
-       python tools/dryrun.py replay      headlines of past closed trades: would the checks keep them?"""
+       python tools/dryrun.py replay      headlines of past closed trades: would the checks keep them?
+       python tools/dryrun.py fast        fast feeds: Bluesky posts of the last 12 h + ESPN/MLB changes seen in 3 min"""
 import re
 import sys
 import time
@@ -33,12 +34,27 @@ if sys.argv[1:] == ["replay"]:
     print(f"kept {kept}/{len(closed)} (then: 2nd source + market + side + verify checks)")
     sys.exit(0)
 
-minutes = float(sys.argv[1]) if len(sys.argv) > 1 else 180
+fast = sys.argv[1:] == ["fast"]
+minutes = 720 if fast else float(sys.argv[1]) if len(sys.argv) > 1 else 180
 skip_q = re.compile(config.SKIP_QUESTION, re.I)
 markets = [m for m in pm.fetch_markets() if m.liquidity >= config.MIN_LIQUIDITY and not skip_q.search(m.question)]
 index = MarketIndex(markets)
 brain = make_brain()
-items = [i for i in NewsFeed(print)._collect() if i.age_min <= minutes]
+if fast:
+    from datetime import datetime, timedelta, timezone
+    from bot import fastfeeds
+    st = {}
+    srcs = [fastfeeds.EspnInjuries(st, print), fastfeeds.MlbLineups(st, print), fastfeeds.Bluesky(st, print)]
+    for src in srcs:
+        list(src._poll())  # baseline
+    since = (datetime.now(timezone.utc) - timedelta(minutes=minutes)).isoformat().replace("+00:00", "Z")
+    st["bluesky"] = {h: since for h in st.get("bluesky", {})}
+    items = list(srcs[2]._poll())
+    for _ in range(3):
+        time.sleep(60)
+        items += list(srcs[0]._poll()) + list(srcs[1]._poll())
+else:
+    items = [i for i in NewsFeed(print)._collect() if i.age_min <= minutes]
 print(f"brain={brain.name} markets={len(markets)} news={len(items)}", flush=True)
 t0, n_sig, n_asked = time.time(), 0, 0
 for it in items:
@@ -53,7 +69,7 @@ for it in items:
     n_asked += 1
     for s in brain.analyze(it, cands, index):
         n_sig += 1
-        print(f"[{s.confidence:.2f}] {it.title[:100]}\n    -> BUY {s.market.outcomes[s.outcome]} "
+        print(f"[{s.confidence:.2f}{'' if s.trade else ' measure-only'}] {it.title[:100]}\n    -> BUY {s.market.outcomes[s.outcome]} "
               f"@{s.market.prices[s.outcome]:.2f} :: {s.market.question[:80]}\n    {s.reason[:160]}", flush=True)
 calls = getattr(brain, "calls_today", lambda: 0)()
 print(f"asked={n_asked} signals={n_sig} llm_calls={calls} time={time.time() - t0:.0f}s")

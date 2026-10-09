@@ -53,7 +53,8 @@ TRUSTED_PUBLISHERS = {p.lower() for p in [
     "Bloomberg", "Bloomberg.com", "CNBC", "Politico", "Al Jazeera", "The Guardian", "NPR", "Axios",
     "NBC News", "NBC Sports", "CBS Sports", "CBS News", "FOX Sports", "Yahoo Sports", "USA Today",
     "Field Level Media", "NFL.com", "NHL.com", "NBA.com", "MLB.com", "WNBA.com", "UEFA.com", "FIFA",
-    "Premier League", "Sportsnet", "TSN", "CoinDesk", "Barron's", "Los Angeles Times"]}
+    "Premier League", "Sportsnet", "TSN", "CoinDesk", "Barron's", "Los Angeles Times",
+    "Ian Rapoport", "Shams Charania", "Jeff Passan", "Elliotte Friedman", "Pierre LeBrun", "Fabrizio Romano"]}
 TRUSTED_DOMAINS = ["reuters.com", "apnews.com", "bbc.co.uk", "bbc.com", "skysports.com", "espn.com",
                    "nytimes.com", "washingtonpost.com", "wsj.com", "ft.com", "bloomberg.com", "cnbc.com",
                    "politico.com", "aljazeera.com", "theguardian.com", "npr.org", "axios.com",
@@ -62,6 +63,29 @@ TRUSTED_DOMAINS = ["reuters.com", "apnews.com", "bbc.co.uk", "bbc.com", "skyspor
 FEED_PUBLISHER = {"bbc_world": "BBC", "bbc_sport": "BBC", "skysports": "Sky Sports",
                   "aljazeera": "Al Jazeera", "cnbc": "CNBC", "politico": "Politico", "coindesk": "CoinDesk"}
 CORROBORATE_MIN = 60
+# RSS articles arrive minutes after insiders/official data: sports signals from RSS are only
+# recorded for measurement (tools/reactions.py), sports trades come from the fast feeds below.
+RSS_SPORTS_TRADE = False
+SPORTS_LEAGUES = {"nfl", "cfb", "nba", "wnba", "nhl", "mlb", "soccer", "tennis"}
+
+# --- fast feeds (bot/fastfeeds.py) ---
+FAST_FEEDS = {"espn_injuries", "mlb_lineups", "soccer_lineups", "bluesky"}
+FAST_POLL_SEC = {"espn_injuries": 60, "mlb_lineups": 90, "soccer_lineups": 120, "bluesky": 30}
+ESPN_INJURY_LEAGUES = ["football/nfl", "football/college-football", "basketball/nba",
+                       "basketball/wnba", "hockey/nhl", "baseball/mlb"]
+ESPN_SOCCER_LEAGUES = ["eng.1", "esp.1", "ita.1", "ger.1", "fra.1", "uefa.champions", "uefa.europa", "usa.1"]
+# Bluesky handle -> publisher name (insiders are trusted: one post is enough). Checked active 2026-10-09.
+BLUESKY_ACCOUNTS = {
+    "rapsheet.bsky.social": "Ian Rapoport",
+    "shamsbot.bsky.social": "Shams Charania",
+    "jeffpassanbot.bsky.social": "Jeff Passan",
+    "notfriedgehnic.bsky.social": "Elliotte Friedman",
+    "notpierrevlebrun.bsky.social": "Pierre LeBrun",
+    "fabrizioromano.yopro20.com": "Fabrizio Romano",
+    "mlbtraderumors.bsky.social": "MLB Trade Rumors",
+    "reuters.com": "Reuters",
+    "politico.com": "Politico",
+}
 # Headlines that are never a confirmed new fact (all 33 trades 2026-10-06..09 came from such news)
 FLUFF = (r"fantasy|predicted|prediction|preview|report card|\bnotes?:|daily:|mailbag|\brumou?rs?\b|"
          r"trade pitch|\bodds\b|best bets?|\bpicks?\b|what we know|\bcould\b|\bmight\b|\bwould\b|"

@@ -29,7 +29,9 @@ USAGE = config.DATA / "llm_usage.json"
 GATE = NEG + POS + [
     "ceasefire", "verdict", "acquire", "acquires", "merger", "bankrupt", "bankruptcy", "tariff",
     "rate cut", "rate hike", "impeach", "impeached", "invades", "invasion", "launches", "strikes",
+    "scratched", "placed on", "will not play", "won't play", "out for", "starting xi",
 ]
+FAST_SOURCES = {"espn_injuries", "mlb_lineups", "soccer_lineups", "bluesky"}
 FLUFF_RE = re.compile(config.FLUFF, re.I)
 KINDS = {"ruled_out", "suspended", "returns", "result", "resignation", "official_decision"}
 WIN_Q = re.compile(r"^will (?:the )?(.+?) win\b", re.I)
@@ -278,4 +280,8 @@ class LLMBrain:
         if not v or not v.get("ok"):
             return self._reject("verify", item, (v or {}).get("why", "no answer"))
         src = "trusted" if item.trusted else "2 sources"
-        return [Signal(m, j, conf, f"llm[{self.last_backend}] {src}: " + str(d.get("reason", ""))[:200])]
+        # sports from RSS articles: the crowd has usually repriced already -> measure, don't trade
+        slow = (item.source not in FAST_SOURCES and (fact.get("league") or "").lower() in config.SPORTS_LEAGUES
+                and not config.RSS_SPORTS_TRADE)
+        return [Signal(m, j, conf, f"llm[{self.last_backend}] {src}: " + str(d.get("reason", ""))[:200],
+                       trade=not slow)]

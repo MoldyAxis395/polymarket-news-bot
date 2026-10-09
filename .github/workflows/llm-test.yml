@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       minutes:
-        description: "News window (minutes), or 'replay' for past trade headlines"
+        description: "News window (minutes), or replay (past trade headlines) or fast (fast feeds)"
         default: "180"
 
 permissions:
