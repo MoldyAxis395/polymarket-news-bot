@@ -5526,3 +5526,45 @@
 2026-10-09 19:14:51   drop[kind] Falcons injury report: Za'Darius Smith, Jake Matthews questionable vs. Ravens (Atlanta Falcons) :: other
 2026-10-09 19:14:53   drop[verify] Another injury plague strikes Commanders in Jayden Daniel’s return vs Giants (The Big Lead) :: Jayden Daniel’s roster status uncertain and he’s not a star player
 2026-10-09 19:17:08   drop[kind] Russian search engine Yandex struggles after Ukrainian strikes on data centres (BBC) :: other
+2026-10-09 19:18:13 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-09 19:21:54   drop[not-key] Kyle Monangai Ruled out for Week 5 (Fantasy Footballers Podcast) :: Kyle Monangai: injury
+2026-10-09 19:21:54   llm groq-120b: rate limited, skip 118s
+2026-10-09 19:21:55   drop[not-key] Christian Gonzalez ruled out for 2nd straight week (NBC Sports) :: Christian Gonzalez: injury
+2026-10-09 19:22:35 NEWS [ESPN 0m] Christian Gonzalez (CB, New England Patriots) ruled out: Questionable -> Out [NFL]
+2026-10-09 19:22:35   skip Raiders :: Raiders vs. Patriots (low conf 0.6)
+2026-10-09 19:23:53 indexed 961 markets
+2026-10-09 19:23:59   llm groq-120b: rate limited, skip 297s
+2026-10-09 19:23:59   drop[kind] Iberia woman gets suspended 14-year sentence, 5 years’ probation in Eldon theft case (KRCG) :: other
+2026-10-09 19:23:59   drop[not-key] Winnipeg Jets coach Scott Arniel indicates that Josh Morrissey is day-to-day with an upper (Illegal Curve Hockey) :: Josh Morrissey: upper-body injury day-to-day
+2026-10-09 19:25:27   drop[kind] One person dies, one in serious condition after Greek refinery incident reut.rs/476Gh9Y (Reuters) :: other
+2026-10-09 19:27:57   drop[no-pick] Carlton Davis III (CB, New England Patriots) ruled out: Questionable -> Out [NFL] (ESPN) :: no suitable outcome that should rise
+2026-10-09 19:28:46   drop[not-key] Bears RB Kyle Monangai ruled out for Packers game (Chicago Sun-Times) :: Kyle Monangai: injury
+2026-10-09 19:28:46   drop[team-not-named] Mack Hollins Ruled out for Sunday's game (Fantasy Footballers Podcast) :: New York Jets
+2026-10-09 19:28:46   drop[not-key] Carlton Davis III (neck) ruled out Sunday (FantasyPros) :: Carlton Davis III: neck injury
+2026-10-09 19:28:58   drop[not-key] Karon Prunty (CB, New England Patriots) ruled out: Questionable -> Out [NFL] (ESPN) :: Karon Prunty: ruled out due to injury
+2026-10-09 19:28:59   drop[not-key] Channing Canada (CB, New England Patriots) ruled out: Questionable -> Out [NFL] (ESPN) :: Channing Canada: ruled out due to injury
+2026-10-09 19:28:59   llm groq-120b: rate limited, skip 282s
+2026-10-09 19:29:00   drop[unconfirmed] Reggie Gilliam (FB, New England Patriots) ruled out: Questionable -> Out [NFL] (ESPN) :: ankle injury
+2026-10-09 19:30:50   drop[kind] Falcons release final injury report: 5 players questionable vs. Ravens (Falcons Wire) :: other
+2026-10-09 19:30:50   drop[not-key] Reggie Gilliam (knee) ruled out Sunday (FantasyPros) :: Reggie Gilliam: knee injury
+2026-10-09 19:30:50   drop[1-source] Patriots reveal brutal news for Raiders game as four cornerbacks are ruled out (www.sportingnews.com) :: New England Patriots, wait 2nd source
+2026-10-09 19:33:55 indexed 952 markets
+2026-10-09 19:34:01   drop[team-not-named] Lamar Jackson (ankle) ruled out vs. Falcons (NBC Sports) :: Baltimore Ravens
+2026-10-09 19:36:00   llm groq-120b: rate limited, skip 119s
+2026-10-09 19:36:01   drop[verify] Lamar Jackson (QB, Baltimore Ravens) ruled out: Questionable -> Out [NFL] (ESPN) :: uncertain about newness
+2026-10-09 19:36:17 NEWS [Yahoo Sports 4m] Lamar Jackson (ankle) ruled out by Ravens for Week 5 matchup vs. Falcons
+2026-10-09 19:36:17   skip Falcons :: Ravens vs. Falcons (low conf 0.6)
+2026-10-09 19:36:17   drop[kind] 'Put Him On IR': James Harrison Doesn't Want Steelers To 'Rush' Michael Pittman Jr. Back F (Steelers Depot) :: other
+2026-10-09 19:38:36   drop[team-not-named] Lamar Jackson Officially ruled out for Week 5 (Fantasy Footballers Podcast) :: Baltimore Ravens
+2026-10-09 19:38:36   llm groq-120b: rate limited, skip 240s
+2026-10-09 19:38:36   drop[team-not-named] Lamar Jackson Injury: Officially ruled out for Week 5 (RotoWire) :: Baltimore Ravens
+2026-10-09 19:38:37   drop[unconfirmed] Bengals Get Bleak Tee Higgins Injury Outlook Before Dolphins Game (Heavy.com) :: injury outlook bleak
+2026-10-09 19:38:37   drop[not-key] Chicago Bears lose Kyle Monangai for Packers game as toe injury more serious than expected (ChiCitySports) :: Kyle Monangai: toe injury more serious
+2026-10-09 19:38:37   drop[team-not-named] Malik Nabers Injury: Expected to play Sunday (RotoWire) :: Philadelphia Eagles
+2026-10-09 19:41:07   drop[team-not-named] Lamar Jackson ruled out, Tyler Huntley to start vs. Falcons (NBC Sports) :: Baltimore Ravens
+2026-10-09 19:42:12   drop[not-key] Tylan Wallace (WR, Cleveland Browns) ruled out: Questionable -> Out [NFL] (ESPN) :: Tylan Wallace: knee injury
+2026-10-09 19:43:18 indexed 962 markets
+2026-10-09 19:43:23   drop[kind] NHL Status Report: Islanders' Horvat still being evaluated for injury (NHL.com) :: other
+2026-10-09 19:43:23   llm groq-120b: rate limited, skip 255s
+2026-10-09 19:43:24   drop[kind] Patriots’ 227-Pound Starting RB ‘Ready to Go’ vs. Raiders Amid Knee Injury (heavy.com) :: other
+2026-10-09 19:47:26   drop[not-key] Carsen Ryan (TE, Cleveland Browns) ruled out: Questionable -> Out [NFL] (ESPN) :: Carsen Ryan: injury
