@@ -5316,3 +5316,9 @@
 2026-10-09 11:57:58   skip No :: Will Brighton & Hove Albion FC win on 2026-10-10? (illiquid)
 2026-10-09 12:02:26 indexed 863 markets
 2026-10-09 12:04:56 shift over, state saved
+2026-10-09 14:12:04 === start mode=paper pid=2397 ===
+2026-10-09 14:12:04 brain=llm cash=74.89 open=1
+2026-10-09 14:12:04 resuming with 5578 known news items
+2026-10-09 14:12:30 indexed 951 markets
+2026-10-09 14:12:50 NEWS [The New York Times 5m] Raphinha to miss Barcelona’s next two matches but not ‘big injury’ – Hansi Flick
+2026-10-09 14:12:50   skip No :: Will FC Barcelona win on 2026-10-10? (low conf 0.6)

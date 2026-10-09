@@ -1,0 +1,16 @@
+{
+ "updated": "2026-10-09T14:16:20",
+ "start": 100.0,
+ "cash": 100.0,
+ "equity": 100.0,
+ "open": [],
+ "closed_count": 0,
+ "realized_pnl": 0,
+ "pages": {
+  "pending": 0,
+  "picked": 0,
+  "traded": 0,
+  "skipped": 0,
+  "expired": 0
+ }
+}
