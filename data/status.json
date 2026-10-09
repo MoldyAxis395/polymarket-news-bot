@@ -1,34 +1,15 @@
 {
- "updated": "2026-10-09T15:16:58",
+ "updated": "2026-10-09T15:47:05",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 198,
- "markets_indexed": 935,
- "news_processed": 68,
- "cash": 74.89,
+ "llm_calls_today": 216,
+ "markets_indexed": 934,
+ "news_processed": 101,
+ "cash": 84.56,
  "equity": 84.56,
  "start": 100.0,
- "open": [
-  {
-   "market_id": "5009005",
-   "question": "Will Arsenal FC win on 2026-10-10?",
-   "slug": "epl-ars-lee-2026-10-10-ars",
-   "outcome": "No",
-   "token": "104133566882229246943424269281141570450716676763846455559686412072017228592509",
-   "shares": 33.333333333333336,
-   "entry": 0.3,
-   "cost": 10.0,
-   "opened": 1791531662.7815795,
-   "opened_iso": "2026-10-09T07:41:02+00:00",
-   "news": "Mikel Arteta handed significant boost with Max Dowman Arsenal injury update",
-   "reason": "llm[groq-120b]: Arsenal injury to starter Max Dowman lowers win probability, likely >5pt shift",
-   "conf": 0.65,
-   "end": "2026-10-10T11:30:00+00:00",
-   "last_bid": 0.29,
-   "book_err": false
-  }
- ],
- "closed_count": 84,
+ "open": [],
+ "closed_count": 85,
  "llm": {
   "backends": [
    "groq-120b",
@@ -37,16 +18,17 @@
   "fallbacks": 0,
   "errors": {},
   "rejects": {
-   "fluff": 22,
-   "kind": 13,
-   "1-source": 10,
+   "fluff": 36,
+   "kind": 19,
+   "1-source": 12,
    "team-not-named": 6,
-   "verify": 1
+   "verify": 2,
+   "unconfirmed": 1
   },
   "calls": {
-   "groq-120b": 188,
-   "groq-20b": 10
+   "groq-120b": 200,
+   "groq-20b": 16
   }
  },
- "realized_pnl": -15.11
+ "realized_pnl": -15.44
 }

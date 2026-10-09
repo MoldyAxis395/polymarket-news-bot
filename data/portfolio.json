@@ -1,25 +1,6 @@
 {
- "cash": 74.88886645468081,
- "positions": [
-  {
-   "market_id": "5009005",
-   "question": "Will Arsenal FC win on 2026-10-10?",
-   "slug": "epl-ars-lee-2026-10-10-ars",
-   "outcome": "No",
-   "token": "104133566882229246943424269281141570450716676763846455559686412072017228592509",
-   "shares": 33.333333333333336,
-   "entry": 0.3,
-   "cost": 10.0,
-   "opened": 1791531662.7815795,
-   "opened_iso": "2026-10-09T07:41:02+00:00",
-   "news": "Mikel Arteta handed significant boost with Max Dowman Arsenal injury update",
-   "reason": "llm[groq-120b]: Arsenal injury to starter Max Dowman lowers win probability, likely >5pt shift",
-   "conf": 0.65,
-   "end": "2026-10-10T11:30:00+00:00",
-   "last_bid": 0.29,
-   "book_err": false
-  }
- ],
+ "cash": 84.55553312134748,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -1820,6 +1801,28 @@
    "pnl": -5.1724137931034475,
    "why": "stop loss",
    "closed_iso": "2026-10-09T06:17:55+00:00"
+  },
+  {
+   "market_id": "5009005",
+   "question": "Will Arsenal FC win on 2026-10-10?",
+   "slug": "epl-ars-lee-2026-10-10-ars",
+   "outcome": "No",
+   "token": "104133566882229246943424269281141570450716676763846455559686412072017228592509",
+   "shares": 33.333333333333336,
+   "entry": 0.3,
+   "cost": 10.0,
+   "opened": 1791531662.7815795,
+   "opened_iso": "2026-10-09T07:41:02+00:00",
+   "news": "Mikel Arteta handed significant boost with Max Dowman Arsenal injury update",
+   "reason": "llm[groq-120b]: Arsenal injury to starter Max Dowman lowers win probability, likely >5pt shift",
+   "conf": 0.65,
+   "end": "2026-10-10T11:30:00+00:00",
+   "last_bid": 0.29,
+   "book_err": false,
+   "exit": 0.29,
+   "pnl": -0.3333333333333339,
+   "why": "max hold",
+   "closed_iso": "2026-10-09T13:41:23+00:00"
   }
  ],
  "cooldown": {
@@ -1865,7 +1868,7 @@
   "4024680": 1791329444.1345088,
   "5175499": 1791340904.3264194,
   "4409757": 1791343517.895298,
-  "5009005": 1791504333.2390857,
+  "5009005": 1791564083.121451,
   "4440794": 1791415361.1077256,
   "5009042": 1791415361.9067981,
   "5203714": 1791415362.718322,
