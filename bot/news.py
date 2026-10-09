@@ -25,6 +25,13 @@ class NewsItem:
     summary: str
     url: str
     published: datetime
+    publisher: str = ""
+
+    @property
+    def trusted(self):
+        """Wire services / official league sites / major outlets: one report is enough."""
+        p = self.publisher.lower().removeprefix("www.")
+        return p in config.TRUSTED_PUBLISHERS or any(p.endswith("." + d) or p == d for d in config.TRUSTED_DOMAINS)
 
     @property
     def key(self):
@@ -46,9 +53,12 @@ def _rss(name, url):
     root = ET.fromstring(r.content)
     for it in root.iter("item"):
         title = _clean(it.findtext("title"))
-        # Google News appends " - Publisher"
-        if name.startswith("gnews") and " - " in title:
-            title = title.rsplit(" - ", 1)[0]
+        # Google News appends " - Publisher" and names it in <source>; other feeds are one outlet
+        publisher = config.FEED_PUBLISHER.get(name, name)
+        if name.startswith("gnews"):
+            publisher = _clean(it.findtext("source")) or (title.rsplit(" - ", 1)[1] if " - " in title else "")
+            if " - " in title:
+                title = title.rsplit(" - ", 1)[0]
         pd = it.findtext("pubDate")
         try:
             dt = parsedate_to_datetime(pd).astimezone(timezone.utc) if pd else None
@@ -56,7 +66,7 @@ def _rss(name, url):
             dt = None
         if not title or not dt:
             continue
-        yield NewsItem(name, title, _clean(it.findtext("description"))[:400], it.findtext("link") or "", dt)
+        yield NewsItem(name, title, _clean(it.findtext("description"))[:400], it.findtext("link") or "", dt, publisher)
 
 
 def _gdelt():
@@ -70,7 +80,7 @@ def _gdelt():
             dt = datetime.strptime(a["seendate"], "%Y%m%dT%H%M%SZ").replace(tzinfo=timezone.utc)
         except Exception:
             continue
-        yield NewsItem("gdelt", a.get("title", ""), "", a.get("url", ""), dt)
+        yield NewsItem("gdelt", a.get("title", ""), "", a.get("url", ""), dt, a.get("domain", ""))
 
 
 class NewsFeed:
