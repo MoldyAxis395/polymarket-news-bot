@@ -1,32 +1,14 @@
 {
- "updated": "2026-10-09T02:09:29",
+ "updated": "2026-10-09T02:39:26",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 1,
- "markets_indexed": 874,
- "news_processed": 51,
- "cash": 53.62,
- "equity": 92.53,
+ "llm_calls_today": 19,
+ "markets_indexed": 878,
+ "news_processed": 77,
+ "cash": 61.32,
+ "equity": 90.73,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "3951230",
-   "question": "Buccaneers vs. Cowboys",
-   "slug": "nfl-tb-dal-2026-10-09",
-   "outcome": "Buccaneers",
-   "token": "41073895388163492044683513841262626450248745686629069268834561009386173172680",
-   "shares": 50.0,
-   "entry": 0.2,
-   "cost": 10.0,
-   "opened": 1791499612.7537844,
-   "opened_iso": "2026-10-08T22:46:52+00:00",
-   "news": "Cowboys CB Joey Porter Jr. has been ruled out out of tonight\u2019s game vs. the Buccaneers due to an illness.",
-   "reason": "llm[groq-120b]: Porter Jr. ruled out hurts Cowboys, Buccaneers odds should rise",
-   "conf": 0.72,
-   "end": "2026-10-09T00:15:00+00:00",
-   "last_bid": 0.19,
-   "book_err": false
-  },
   {
    "market_id": "5224522",
    "question": "Will Finland win on 2026-10-09?",
@@ -82,7 +64,7 @@
    "book_err": false
   }
  ],
- "closed_count": 78,
+ "closed_count": 80,
  "llm": {
   "backends": [
    "groq-120b",
@@ -91,8 +73,8 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 1
+   "groq-120b": 19
   }
  },
- "realized_pnl": -6.38
+ "realized_pnl": -8.68
 }

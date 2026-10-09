@@ -159,3 +159,6 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-08T23:05:32+00:00,SELL,Will Arsenal FC win on 2026-10-10?,No,33.33,0.2900,9.67,-0.33,max hold
 2026-10-08T23:31:39+00:00,BUY,Bills vs. Rams,Rams,16.13,0.6200,10.00,,"Bills' Josh Allen Addresses Knee Injury Rumors After Recording 4 Rushing Yards vs. Patriots | llm[groq-120b]: Josh Allen injury rumor likely hurts Bills win odds, boosting Rams price"
 2026-10-08T23:33:41+00:00,BUY,Bears vs. Packers,Packers,20.83,0.4800,10.00,,"Bears 1st Quarter Report Card: Caleb Williams' Injury Can't Slow This Offense Down | llm[groq-120b]: Caleb Williams injury lowers Bears win chance, boosting Packers odds"
+2026-10-09T00:10:10+00:00,SELL,Buccaneers vs. Cowboys,Buccaneers,50.00,0.1900,9.50,-0.50,market closing
+2026-10-09T00:20:44+00:00,BUY,Will Microsoft (MSFT) close above $520 on October 9?,No,26.45,0.3781,10.00,,"Microsoft suspended from visa program | llm[groq-120b]: visa suspension is negative news likely lowering MSFT price, boosting No probability"
+2026-10-09T00:29:55+00:00,SELL,Will Microsoft (MSFT) close above $520 on October 9?,No,26.45,0.3100,8.20,-1.80,stop loss

@@ -1,24 +1,6 @@
 {
- "cash": 53.6211085820608,
+ "cash": 61.319792792587116,
  "positions": [
-  {
-   "market_id": "3951230",
-   "question": "Buccaneers vs. Cowboys",
-   "slug": "nfl-tb-dal-2026-10-09",
-   "outcome": "Buccaneers",
-   "token": "41073895388163492044683513841262626450248745686629069268834561009386173172680",
-   "shares": 50.0,
-   "entry": 0.2,
-   "cost": 10.0,
-   "opened": 1791499612.7537844,
-   "opened_iso": "2026-10-08T22:46:52+00:00",
-   "news": "Cowboys CB Joey Porter Jr. has been ruled out out of tonight\u2019s game vs. the Buccaneers due to an illness.",
-   "reason": "llm[groq-120b]: Porter Jr. ruled out hurts Cowboys, Buccaneers odds should rise",
-   "conf": 0.72,
-   "end": "2026-10-09T00:15:00+00:00",
-   "last_bid": 0.19,
-   "book_err": false
-  },
   {
    "market_id": "5224522",
    "question": "Will Finland win on 2026-10-09?",
@@ -1742,6 +1724,50 @@
    "pnl": -0.3333333333333339,
    "why": "max hold",
    "closed_iso": "2026-10-08T23:05:33+00:00"
+  },
+  {
+   "market_id": "3951230",
+   "question": "Buccaneers vs. Cowboys",
+   "slug": "nfl-tb-dal-2026-10-09",
+   "outcome": "Buccaneers",
+   "token": "41073895388163492044683513841262626450248745686629069268834561009386173172680",
+   "shares": 50.0,
+   "entry": 0.2,
+   "cost": 10.0,
+   "opened": 1791499612.7537844,
+   "opened_iso": "2026-10-08T22:46:52+00:00",
+   "news": "Cowboys CB Joey Porter Jr. has been ruled out out of tonight\u2019s game vs. the Buccaneers due to an illness.",
+   "reason": "llm[groq-120b]: Porter Jr. ruled out hurts Cowboys, Buccaneers odds should rise",
+   "conf": 0.72,
+   "end": "2026-10-09T00:15:00+00:00",
+   "last_bid": 0.19,
+   "book_err": false,
+   "exit": 0.19,
+   "pnl": -0.5,
+   "why": "market closing",
+   "closed_iso": "2026-10-09T00:10:10+00:00"
+  },
+  {
+   "market_id": "5428024",
+   "question": "Will Microsoft (MSFT) close above $520 on October 9?",
+   "slug": "msft-close-above-520-on-october-9-2026",
+   "outcome": "No",
+   "token": "18101595960284020759711654530748711059762369360669418219302332257992168891278",
+   "shares": 26.447368421052634,
+   "entry": 0.37810945273631835,
+   "cost": 10.0,
+   "opened": 1791505244.2701085,
+   "opened_iso": "2026-10-09T00:20:44+00:00",
+   "news": "Microsoft suspended from visa program",
+   "reason": "llm[groq-120b]: visa suspension is negative news likely lowering MSFT price, boosting No probability",
+   "conf": 0.65,
+   "end": "2026-10-09T20:00:00+00:00",
+   "last_bid": 0.31,
+   "book_err": false,
+   "exit": 0.31,
+   "pnl": -1.8013157894736835,
+   "why": "stop loss",
+   "closed_iso": "2026-10-09T00:29:56+00:00"
   }
  ],
  "cooldown": {
@@ -1774,7 +1800,7 @@
   "4024678": 1791415363.5591848,
   "5175495": 1791238654.6412206,
   "4024666": 1791250361.9634042,
-  "3951230": 1791415364.3361216,
+  "3951230": 1791508210.667733,
   "4024655": 1791465756.1235983,
   "5240812": 1791270766.353486,
   "5199920": 1791292815.243157,
@@ -1794,6 +1820,7 @@
   "4440789": 1791419116.7755632,
   "4469795": 1791420213.0906844,
   "5101510": 1791502511.4024835,
-  "4024671": 1791502511.9340239
+  "4024671": 1791502511.9340239,
+  "5428024": 1791509396.0314937
  }
 }
