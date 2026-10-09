@@ -27,3 +27,15 @@ if (D / "signals.jsonl").exists():
     print(f"\nSIGNALS {len(sig)}  ->", dict(Counter(s['action'].split(':')[0] for s in sig)))
     for s in sig[-10:]:
         print(f"  {s['t'][11:19]} {s['action'][:28]:28} {s['buy'][:12]:12} :: {s['market'][:50]}  <= {s['news'][:50]}")
+
+P = D / "pengwin"
+if (P / "status.json").exists():
+    ps = json.loads((P / "status.json").read_text())
+    print(f"\n=== BOT PENGWIN ===  cash ${ps['cash']}  equity ${ps['equity']}  (start ${ps['start']})  "
+          f"realized P&L ${ps['realized_pnl']}  closed {ps['closed_count']}  pages {ps['pages']}")
+    for p in ps["open"]:
+        print(f"  OPEN {p['outcome']} @{p['entry']:.3f} now bid {p['last_bid']}  :: {p['question'][:70]}")
+        print(f"       pick: {p['news'][:90]}")
+    if (P / "trades.csv").exists():
+        for r in csv.DictReader((P / "trades.csv").open(encoding="utf-8")):
+            print(f"  {r['time'][:16]} {r['action']:4} {r['outcome'][:14]:14} @{r['price']} ${r['usd']:>6} {r['pnl']:>6}  {r['market'][:55]}")

@@ -49,6 +49,45 @@ def _parse_dt(s):
         return None
 
 
+def parse_market(m, ev=None):
+    """Gamma market dict -> Market, or None if not a tradable 2-outcome order-book market."""
+    try:
+        if not m.get("enableOrderBook") or not m.get("acceptingOrders", True) or m.get("closed"):
+            return None
+        outcomes = json.loads(m.get("outcomes") or "[]")
+        prices = [float(p) for p in json.loads(m.get("outcomePrices") or "[]")]
+        tokens = json.loads(m.get("clobTokenIds") or "[]")
+        if len(outcomes) != 2 or len(tokens) != 2 or len(prices) != 2:
+            return None
+        ev = ev or (m.get("events") or [{}])[0]
+        return Market(
+            id=str(m["id"]), question=m.get("question", ""), slug=m.get("slug", ""),
+            event_title=ev.get("title", "") or "", outcomes=outcomes, prices=prices,
+            token_ids=tokens, volume24h=float(m.get("volume24hr") or 0),
+            liquidity=float(m.get("liquidityNum") or 0), end=_parse_dt(m.get("endDate")),
+            best_bid=m.get("bestBid"), best_ask=m.get("bestAsk"))
+    except Exception:
+        return None
+
+
+def search_events(q, limit=10):
+    """Active events matching free text (Gamma public search)."""
+    r = _s.get(f"{GAMMA}/public-search", timeout=20,
+               params={"q": q, "limit_per_type": limit, "events_status": "active"})
+    r.raise_for_status()
+    return r.json().get("events", [])
+
+
+def event_markets(slug):
+    """Markets of an event by slug ([] if it doesn't exist)."""
+    r = _s.get(f"{GAMMA}/events", params={"slug": slug}, timeout=20)
+    r.raise_for_status()
+    out = []
+    for ev in r.json():
+        out += [mk for mk in (parse_market(m, ev) for m in ev.get("markets", [])) if mk]
+    return out
+
+
 def fetch_markets(n=config.MARKETS_TO_INDEX):
     out, offset, page = [], 0, 100  # Gamma caps page size at 100
     now = datetime.now(timezone.utc)
@@ -72,23 +111,9 @@ def fetch_markets(n=config.MARKETS_TO_INDEX):
         if not batch:
             break
         for m in batch:
-            try:
-                if not m.get("enableOrderBook") or not m.get("acceptingOrders", True):
-                    continue
-                outcomes = json.loads(m.get("outcomes") or "[]")
-                prices = [float(p) for p in json.loads(m.get("outcomePrices") or "[]")]
-                tokens = json.loads(m.get("clobTokenIds") or "[]")
-                if len(outcomes) != 2 or len(tokens) != 2 or len(prices) != 2:
-                    continue
-                ev = (m.get("events") or [{}])[0]
-                out.append(Market(
-                    id=str(m["id"]), question=m.get("question", ""), slug=m.get("slug", ""),
-                    event_title=ev.get("title", "") or "", outcomes=outcomes, prices=prices,
-                    token_ids=tokens, volume24h=float(m.get("volume24hr") or 0),
-                    liquidity=float(m.get("liquidityNum") or 0), end=_parse_dt(m.get("endDate")),
-                    best_bid=m.get("bestBid"), best_ask=m.get("bestAsk")))
-            except Exception:
-                continue
+            mk = parse_market(m)
+            if mk:
+                out.append(mk)
         offset += page
         if len(batch) < page:
             break
