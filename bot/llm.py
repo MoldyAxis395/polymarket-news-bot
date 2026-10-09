@@ -214,6 +214,9 @@ class LLMBrain:
             return self._reject("unconfirmed", item, fact.get("why"))
         if fact.get("person") and not fact.get("key_player"):
             return self._reject("not-key", item, f"{fact.get('person')}: {fact.get('why')}")
+        # LLM rosters go stale (Barkley -> Giants on an "Eagles" headline): the team must be named
+        if not set(tokens(fact.get("team") or "")) & set(tokens(f"{item.title} {item.summary}")):
+            return self._reject("team-not-named", item, fact.get("team"))
         if not self._corroborated(item, fact):
             return self._reject("1-source", item, f"{fact.get('person') or fact.get('team')}, wait 2nd source")
 
