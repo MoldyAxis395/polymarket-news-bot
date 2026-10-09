@@ -5568,3 +5568,16 @@
 2026-10-09 19:43:23   llm groq-120b: rate limited, skip 255s
 2026-10-09 19:43:24   drop[kind] Patriots’ 227-Pound Starting RB ‘Ready to Go’ vs. Raiders Amid Knee Injury (heavy.com) :: other
 2026-10-09 19:47:26   drop[not-key] Carsen Ryan (TE, Cleveland Browns) ruled out: Questionable -> Out [NFL] (ESPN) :: Carsen Ryan: injury
+2026-10-09 19:47:26   drop[not-key] Teven Jenkins (G, Cleveland Browns) ruled out: Questionable -> Out [NFL] (ESPN) :: Teven Jenkins: injury
+2026-10-09 19:47:29   drop[verify] Mason Graham (DT, Cleveland Browns) ruled out: Doubtful -> Out [NFL] (ESPN) :: uncertain about newness
+2026-10-09 19:47:29   drop[not-key] Mike Hall Jr. (DT, Cleveland Browns) ruled out: Questionable -> Out [NFL] (ESPN) :: Mike Hall Jr.: injury
+2026-10-09 19:50:32   drop[1-source] Lions Quick Hitters: Injury returns targeted for Green Bay, defensive benchmarks in Arizon (Detroit Football Network) :: Detroit Lions, wait 2nd source
+2026-10-09 19:50:36   llm groq-120b: rate limited, skip 66s
+2026-10-09 19:50:36   drop[not-key] Andrew Wingard (S, Arizona Cardinals) ruled out: Questionable -> Out [NFL] (ESPN) :: Andrew Wingard: injury
+2026-10-09 19:52:38   drop[1-source] Jets' Breece Hall, Adonai Mitchell ruled out for Browns game (www.upi.com) :: Breece Hall, wait 2nd source
+2026-10-09 19:52:38   llm groq-120b: rate limited, skip 315s
+2026-10-09 19:52:40   drop[verify] Ravens news: Lamar Jackson ruled out vs. Falcons with ankle injury (ClutchPoints) :: unsure about newness
+2026-10-09 19:52:40   drop[1-source] Bears RB Kyle Monangai officially ruled out for Packers bout with toe turf injury (ClutchPoints) :: Kyle Monaghi, wait 2nd source
+2026-10-09 19:52:41   drop[not-key] Christian Gonzalez Among Few Players Ruled Out For Patriots-Raiders Game (roundtable.io) :: Christian Gonzalez: injury
+2026-10-09 19:53:21 indexed 951 markets
+2026-10-09 19:57:05 shift over, state saved
