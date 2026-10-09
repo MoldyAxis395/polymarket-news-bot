@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       minutes:
-        description: "News window (minutes), or replay (past trade headlines) or fast (fast feeds)"
+        description: "News window (minutes), or replay (past trade headlines) or fast (fast feeds) or pengwin"
         default: "180"
 
 permissions:
@@ -25,5 +25,5 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
           [ -n "$GROQ_API_KEY" ] && echo "groq key length ${#GROQ_API_KEY}" || echo "groq key EMPTY"
-          python tools/dryrun.py ${{ inputs.minutes }}
+          if [ "${{ inputs.minutes }}" = "pengwin" ]; then python tools/pengwin_test.py; else python tools/dryrun.py ${{ inputs.minutes }}; fi
           cat data/llm_usage.json

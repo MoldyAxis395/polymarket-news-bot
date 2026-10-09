@@ -2,7 +2,7 @@
 import csv
 import json
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 from . import config, polymarket as pm
 from .notify import telegram
@@ -16,24 +16,31 @@ def _now():
 
 
 class Paper:
-    def __init__(self, log):
+    """hold_to_resolution: no take profit / stop loss / max hold, keep until the market settles
+    (copy-trading a pick on the final result). label prefixes Telegram messages."""
+
+    def __init__(self, log, state=STATE, trades=TRADES, label="", start_cash=config.START_CASH,
+                 per_trade=config.MAX_PER_TRADE, hold_to_resolution=False, news_label="Notizia"):
         self.log = log
-        if STATE.exists():
-            s = json.loads(STATE.read_text())
+        self.state_path, self.trades_path, self.label = state, trades, label
+        self.start_cash, self.per_trade, self.hold = start_cash, per_trade, hold_to_resolution
+        self.news_label = news_label
+        if state.exists():
+            s = json.loads(state.read_text())
         else:
-            s = {"cash": config.START_CASH, "positions": [], "closed": [], "cooldown": {}}
+            s = {"cash": start_cash, "positions": [], "closed": [], "cooldown": {}}
         self.cash = s["cash"]
         self.positions = s["positions"]
         self.closed = s["closed"]
         self.cooldown = s["cooldown"]
 
     def save(self):
-        STATE.write_text(json.dumps({"cash": self.cash, "positions": self.positions,
+        self.state_path.write_text(json.dumps({"cash": self.cash, "positions": self.positions,
                                      "closed": self.closed, "cooldown": self.cooldown}, indent=1))
 
     def _trade_row(self, row):
-        new = not TRADES.exists()
-        with TRADES.open("a", newline="", encoding="utf-8") as f:
+        new = not self.trades_path.exists()
+        with self.trades_path.open("a", newline="", encoding="utf-8") as f:
             w = csv.writer(f)
             if new:
                 w.writerow(["time", "action", "market", "outcome", "shares", "price", "usd", "pnl", "reason"])
@@ -58,7 +65,7 @@ class Paper:
     def open(self, sig, news_title):
         m = sig.market
         token = m.token_ids[sig.outcome]
-        usd = min(config.MAX_PER_TRADE, self.cash)
+        usd = min(self.per_trade, self.cash)
         shares, avg = pm.simulate_buy(token, usd)
         if not shares:
             self.log(f"  no asks to buy on {m.question}")
@@ -75,10 +82,10 @@ class Paper:
                          f"{cost:.2f}", "", f"{news_title} | {sig.reason}"])
         self.log(f"  BUY {p['outcome']} @ {avg:.3f} x{shares:.1f} (${cost:.2f}) :: {m.question}")
         telegram("\n".join([
-            "🟢 APERTO (paper)",
+            f"{self.label}🟢 APERTO (paper)",
             m.question,
             f"Compro: {p['outcome']} @ {avg:.3f} x{shares:.1f} = ${cost:.2f}",
-            f"Notizia: {news_title}",
+            f"{self.news_label}: {news_title}",
             f"Conf {sig.confidence} | cassa ${self.cash:.2f}",
             f"https://polymarket.com/market/{m.slug}"]))
         return p
@@ -97,10 +104,15 @@ class Paper:
             p["book_err"] = False
             p["last_bid"] = bid
             if bid is None:
-                if age_h >= config.MAX_HOLD_HOURS:
+                if age_h >= config.MAX_HOLD_HOURS or self.hold:
                     self._try_settle(p)
                 continue
             why = None
+            if self.hold:
+                # pick on the final result: wait for settlement (book closes -> _try_settle)
+                if p["end"] and datetime.now(timezone.utc) > datetime.fromisoformat(p["end"]) + timedelta(hours=3):
+                    self._try_settle(p)
+                continue
             if bid >= p["entry"] + config.TAKE_PROFIT:
                 why = "take profit"
             elif bid <= p["entry"] - config.STOP_LOSS:
@@ -152,7 +164,7 @@ class Paper:
         hold_h = (time.time() - p["opened"]) / 3600
         pct = pnl / cost_part * 100 if cost_part else 0
         telegram("\n".join([
-            f"{'✅' if pnl >= 0 else '🔴'} CHIUSO (paper) — {why}",
+            f"{self.label}{'✅' if pnl >= 0 else '🔴'} CHIUSO (paper) — {why}",
             p["question"],
             f"{p['outcome']}: {p['entry']:.3f} → {avg:.3f} in {hold_h:.1f}h",
             f"P&L trade: {pnl:+.2f}$ ({pct:+.1f}%)",

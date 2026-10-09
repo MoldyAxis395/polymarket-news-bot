@@ -116,6 +116,19 @@ RSS_FEEDS = {
 GDELT_QUERY = ('(injured OR injury OR "ruled out" OR suspended OR resigns OR resigned '
                'OR withdraws OR arrested OR indicted OR ceasefire OR wins OR elected) sourcelang:english')
 
+# --- BOT PENGWIN (bot/pengwin.py): copy Kristian Pengwin's football picks, separate $100 ---
+PENGWIN_ENABLED = True
+PENGWIN_START_CASH = 100.0
+PENGWIN_STAKE = 10.0                # per pick, held until the market settles
+PENGWIN_POLL_SEC = 1800             # picks appear ~24 h before kick-off
+PENGWIN_LEAGUES = ["serie-a", "serie-b", "premier-league", "la-liga", "bundesliga", "ligue-1",
+                   "eredivisie", "champions-league", "europa-league", "uefa-europa-conference-league",
+                   "coppa-italia", "nazionali"]
+PENGWIN_MIN_LIQUIDITY = 1000.0
+PENGWIN_MAX_SPREAD = 0.05
+PENGWIN_PRICE_MIN = 0.05
+PENGWIN_PRICE_MAX = 0.92            # above: tiny upside, one upset wipes many wins
+
 # --- brain ---
 # "llm"   = LLM backends tried in order; a backend is skipped when its key is missing,
 #           its daily cap is hit, it is rate limited (429) or unreachable. All fail -> rule brain.

@@ -98,6 +98,9 @@ def run():
         log(f"priming news: {feed.prime()} existing items ignored")
     # RUN_SECONDS: stop cleanly after N seconds (GitHub Actions shifts are max 6h)
     stop_at = time.time() + float(os.environ.get("RUN_SECONDS", "inf"))
+    if config.PENGWIN_ENABLED:
+        from .pengwin import Pengwin
+        Pengwin(brain, log).start(stop_at)
 
     while time.time() < stop_at:
         try:
