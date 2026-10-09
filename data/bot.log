@@ -5421,3 +5421,31 @@
 2026-10-09 16:43:38 indexed 958 markets
 2026-10-09 16:45:15 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-09 16:45:47   drop[team-not-named] Trump launches committee to probe Fed's Lisa Cook, White House says reut.rs/4enQVgl (Reuters) :: Federal Reserve
+2026-10-09 16:48:20   llm groq-120b: rate limited, skip 68s
+2026-10-09 16:48:20   drop[team-not-named] Breece Hall (quad) ruled out for Week 5 vs. Browns (NBC Sports) :: Indianapolis Colts
+2026-10-09 16:50:41   drop[kind] FBI Director Patel says bureau has arrested another person tied to ShinyHunters hackers re (Reuters) :: other
+2026-10-09 16:53:03 indexed 961 markets
+2026-10-09 16:53:04   llm groq-120b: rate limited, skip 30s
+2026-10-09 16:53:05   drop[no-pick] Breece Hall (RB, New York Jets) ruled out: Doubtful -> Out [NFL] (ESPN) :: no outcome should rise
+2026-10-09 16:55:27   drop[team-not-named] NC gas tax suspended: Stein signs law aimed at lowering prices at the pump (WRAL) :: North Carolina
+2026-10-09 16:55:27   llm groq-120b: rate limited, skip 244s
+2026-10-09 16:55:28   drop[kind] 'Xabi, you did it wrong!' – Alonso honest confession as Chelsea suffer major injury blow (Goal.com) :: other
+2026-10-09 16:59:11   drop[unconfirmed] Adonai Mitchell (WR, New York Jets) ruled out: Doubtful -> Out [NFL] (ESPN) :: injury
+2026-10-09 17:00:02   drop[kind] Mikel Arteta issues Declan Rice injury warning as Arsenal boss faces midfield selection he (Goal.com) :: other
+2026-10-09 17:00:02   llm groq-120b: rate limited, skip 267s
+2026-10-09 17:00:03   drop[kind] Lakers' Luka Doncic already playing with fire after doing something that suspended him las (Sporting News) :: other
+2026-10-09 17:00:04   drop[1-source] Jets get bad news as two key offensive weapons are ruled out for Week 5 vs. Browns (Sporting News) :: New York Jets, wait 2nd source
+2026-10-09 17:00:04   drop[1-source] Seth Rollins has been dealing with minor injury, WWE return being saved for 'maximum impac (WrestleTalk) :: Seth Rollins, wait 2nd source
+2026-10-09 17:00:30   drop[team-not-named] ICC prosecutor condemns US sanctions, says work will continue reut.rs/3VqM085 (Reuters) :: International Criminal Court
+2026-10-09 17:02:34   drop[no-market] CJP protest in Delhi: Mobile internet suspended near Janpath-Kartavya Path (MorungExpress) :: Delhi
+2026-10-09 17:03:41 indexed 957 markets
+2026-10-09 17:06:52   drop[kind] Ex-Man City star, 40, now a Sunday League manager after 'life-changing' injury (The Sun) :: other
+2026-10-09 17:07:43   llm groq-120b: rate limited, skip 131s
+2026-10-09 17:07:44   drop[not-key] Kiko Mauigoa (LB, New York Jets) ruled out: Doubtful -> Out [NFL] (ESPN) :: Kiko Mauigoa: injury
+2026-10-09 17:07:44   drop[not-key] Dylan Parham (G, New York Jets) ruled out: Doubtful -> Out [NFL] (ESPN) :: Dylan Parham: injury
+2026-10-09 17:09:20   drop[kind] Emergency Cowboys-Browns trade proposal to keep CeeDee Lamb injury from blowing up the sea (FanSided) :: other
+2026-10-09 17:11:29   drop[not-key] Lakers Urged to Take ‘Leap of Faith’ on 39% 3-Point Big Man Amid Kessler Injury (Heavy.com) :: Kessler: Kessler is injured and unavailable
+2026-10-09 17:13:06 indexed 959 markets
+2026-10-09 17:13:57   llm groq-120b: rate limited, skip 201s
+2026-10-09 17:13:58   drop[no-pick] Jets Make Final Breece Hall, Adonai Mitchell Injury Decisions for Week 5 (Heavy.com) :: no suitable outcome to rise
+2026-10-09 17:16:16   drop[1-source] HHS Touts New Vaccine-Injury Initiatives (MedPage Today) :: HHS, wait 2nd source
