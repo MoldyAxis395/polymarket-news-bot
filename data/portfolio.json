@@ -1,25 +1,6 @@
 {
- "cash": 80.06128024778425,
- "positions": [
-  {
-   "market_id": "5428024",
-   "question": "Will Microsoft (MSFT) close above $520 on October 9?",
-   "slug": "msft-close-above-520-on-october-9-2026",
-   "outcome": "No",
-   "token": "18101595960284020759711654530748711059762369360669418219302332257992168891278",
-   "shares": 34.48275862068966,
-   "entry": 0.29,
-   "cost": 10.0,
-   "opened": 1791524021.4601781,
-   "opened_iso": "2026-10-09T05:33:41+00:00",
-   "news": "The US has suspended major IT firms, including TCS, Infosys, Wipro, HCL and Cognizant, from the PERM green card programme amid alleged visa fraud investigations. Microsoft and Adobe are also affected. The move could delay permanent residency applic",
-   "reason": "llm[groq-120b]: visa fraud suspensions hit Microsoft, likely lowering price expectations",
-   "conf": 0.66,
-   "end": "2026-10-09T20:00:00+00:00",
-   "last_bid": 0.26,
-   "book_err": false
-  }
- ],
+ "cash": 84.88886645468081,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -1798,6 +1779,28 @@
    "pnl": -0.20833333333333215,
    "why": "max hold",
    "closed_iso": "2026-10-09T05:33:46+00:00"
+  },
+  {
+   "market_id": "5428024",
+   "question": "Will Microsoft (MSFT) close above $520 on October 9?",
+   "slug": "msft-close-above-520-on-october-9-2026",
+   "outcome": "No",
+   "token": "18101595960284020759711654530748711059762369360669418219302332257992168891278",
+   "shares": 34.48275862068966,
+   "entry": 0.29,
+   "cost": 10.0,
+   "opened": 1791524021.4601781,
+   "opened_iso": "2026-10-09T05:33:41+00:00",
+   "news": "The US has suspended major IT firms, including TCS, Infosys, Wipro, HCL and Cognizant, from the PERM green card programme amid alleged visa fraud investigations. Microsoft and Adobe are also affected. The move could delay permanent residency applic",
+   "reason": "llm[groq-120b]: visa fraud suspensions hit Microsoft, likely lowering price expectations",
+   "conf": 0.66,
+   "end": "2026-10-09T20:00:00+00:00",
+   "last_bid": 0.14,
+   "book_err": false,
+   "exit": 0.14,
+   "pnl": -5.1724137931034475,
+   "why": "stop loss",
+   "closed_iso": "2026-10-09T06:17:55+00:00"
   }
  ],
  "cooldown": {
@@ -1851,7 +1854,7 @@
   "4469795": 1791420213.0906844,
   "5101510": 1791502511.4024835,
   "4024671": 1791502511.9340239,
-  "5428024": 1791509396.0314937,
+  "5428024": 1791530275.8413374,
   "5224522": 1791524954.8634791,
   "4058840": 1791527502.917582
  }
