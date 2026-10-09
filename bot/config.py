@@ -124,7 +124,7 @@ PENGWIN_POLL_SEC = 1800             # picks appear ~24 h before kick-off
 PENGWIN_LEAGUES = ["serie-a", "serie-b", "premier-league", "la-liga", "bundesliga", "ligue-1",
                    "eredivisie", "champions-league", "europa-league", "uefa-europa-conference-league",
                    "coppa-italia", "nazionali"]
-PENGWIN_MIN_LIQUIDITY = 1000.0
+PENGWIN_MIN_LIQUIDITY = 3000.0     # also keeps the LLM prompt short (~25 markets)
 PENGWIN_MAX_SPREAD = 0.05
 PENGWIN_PRICE_MIN = 0.05
 PENGWIN_PRICE_MAX = 0.92            # above: tiny upside, one upset wipes many wins

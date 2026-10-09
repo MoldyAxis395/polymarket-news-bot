@@ -23,10 +23,14 @@ print(f"{len(picks)} past picks")
 
 ev = pw.find_event("ARSENAL-LEEDS UNITED")
 markets = [m for m in pm.event_markets(ev["slug"]) + pm.event_markets(ev["slug"] + "-more-markets")
-           if m.liquidity >= 1000]
+           if m.liquidity >= 3000 and "2nd Half" not in m.question]
 print(f"mapping onto {ev['title']} ({len(markets)} liquid markets)\n")
+import time  # noqa: E402
 for match, pick in picks:
-    d = pw.map_pick("ARSENAL-LEEDS UNITED", pick, markets) or {}
+    time.sleep(8)  # stay under Groq's tokens/minute
+    # the pick names its own teams: map them onto this match's home/away
+    d = pw.map_pick(f"ARSENAL-LEEDS UNITED (read the pick's home team {match.split('-')[0]} as Arsenal, "
+                    f"away team as Leeds)", pick, markets) or {}
     tgt = (f"{markets[d['market']].question} -> {markets[d['market']].outcomes[d['outcome']]} [{d.get('match')}]"
            if d.get("market") is not None else "NONE")
     print(f"{match}: ...{pick[-90:]}\n    pick={d.get('pick')}  =>  {tgt}\n    {d.get('why')}", flush=True)

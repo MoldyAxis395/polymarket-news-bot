@@ -137,14 +137,16 @@ class Pengwin:
             "X=draw, 2=away win, 1X/X2/12=double chance, GG/Goal=both teams score, NG/No Goal=not both, "
             "Over/Under N=total goals, 'casa'=home team, 'ospite/trasferta'=away team, Multigol A-B = "
             "goals between A and B, 'combo' = several legs.\n"
-            "Exact equivalent -> match=exact (e.g. X2 = NO on 'Will <home> win?'). Multigol, combos or "
-            "lines Polymarket lacks -> the single market that captures the main leg in the same "
-            "direction, match=approx (e.g. 'Multigol 2-5 casa' -> home team O/U 1.5 Over). Never a "
-            "market that could win while the pick loses on its main leg. Corners, cards, scorers, "
-            "nothing close -> market null.\n"
+            "Rules:\n- exact: same bet (e.g. X2 = NO on 'Will <home> win?', 1 = YES on 'Will <home> win?', "
+            "GG = YES on Both Teams to Score).\n- approx: the pick is a combo/multigol/line Polymarket lacks; "
+            "take ONE of its legs, same team, same period (full match vs 1st half), same direction, same "
+            "or nearest line (e.g. 'Multigol 2-5 casa' -> <home> O/U 1.5 Over; '1X + Under 3.5' -> NO on "
+            "'Will <away> win?'; 'casa over 0.5 primo tempo' -> <home> 1st Half O/U 0.5 Over).\n"
+            "- NEVER a different bet type, team or period than a leg of the pick (an 'X or Under 2.5' pick "
+            "is NOT a 1st-half under).\n- shots (tiri), corners, cards, scorers, or no leg available -> market null.\n"
             'Answer JSON only: {"market": i, "outcome": j, "match": "exact|approx", '
             '"pick": "the bet in short, e.g. MULTIGOL 2-5 CASA @1.45", "why": "short"} '
-            'or {"market": null, "pick": "...", "why": "short"}.')
+            'or {"market": null, "pick": "...", "why": "short"}.', effort="medium")
 
     def handle(self, url, pg):
         match, pick = pg["match"], pg["pick"]
@@ -157,7 +159,7 @@ class Pengwin:
             self.log(f"skip {match}: no Polymarket event")
             return
         markets = pm.event_markets(ev["slug"]) + pm.event_markets(ev["slug"] + "-more-markets")
-        markets = [m for m in markets if m.liquidity >= config.PENGWIN_MIN_LIQUIDITY]
+        markets = [m for m in markets if m.liquidity >= config.PENGWIN_MIN_LIQUIDITY and "2nd Half" not in m.question]
         d = self.map_pick(match, pick, markets) if markets else None
         short = (d or {}).get("pick") or pick[-120:]
         if not d or d.get("market") is None:
