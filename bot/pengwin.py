@@ -154,21 +154,31 @@ class Pengwin:
             pg.update(status="skipped", why="no LLM")
             return
         ev = self.find_event(match)
-        if not ev:
-            pg.update(status="skipped", why="no Polymarket event")
-            self.log(f"skip {match}: no Polymarket event")
-            return
-        markets = pm.event_markets(ev["slug"]) + pm.event_markets(ev["slug"] + "-more-markets")
-        markets = [m for m in markets if m.liquidity >= config.PENGWIN_MIN_LIQUIDITY and "2nd Half" not in m.question]
+        markets = []
+        if ev:
+            markets = pm.event_markets(ev["slug"]) + pm.event_markets(ev["slug"] + "-more-markets")
+            markets = [m for m in markets
+                       if m.liquidity >= config.PENGWIN_MIN_LIQUIDITY and "2nd Half" not in m.question]
         d = self.map_pick(match, pick, markets) if markets else None
-        short = (d or {}).get("pick") or pick[-120:]
-        if not d or d.get("market") is None:
-            return self.skip(pg, match, short, (d or {}).get("why", "no market"))
+        if not ev or d is None:
+            # no event yet / LLM rate limited: retry on the next scans, then give up quietly
+            pg["tries"] = pg.get("tries", 0) + 1
+            pg.update(status="pending" if pg["tries"] < 4 else "skipped",
+                      why="no Polymarket event" if not ev else "no LLM answer")
+            self.log(f"{match}: {pg['why']} (try {pg['tries']})")
+            return
+        short = d.get("pick") or pick[-120:]
+        if d.get("market") is None:
+            return self.skip(pg, match, short, d.get("why", "no market"))
         try:
             m, j = markets[int(d["market"])], int(d["outcome"])
             assert j in (0, 1)
         except (ValueError, IndexError, KeyError, TypeError, AssertionError):
             return self.skip(pg, match, short, f"bad LLM answer {d}")
+        # same period as the pick: a full-match pick is never replicated with a 1st-half market
+        first_half_pick = bool(re.search(r"primo tempo|1[°º]? ?tempo|\bpt\b|first half|1st half", pick[-400:], re.I))
+        if ("1st Half" in m.question) != first_half_pick:
+            return self.skip(pg, match, short, f"period mismatch: {m.question}")
         why = self.paper.can_open(m.id)
         if not why:
             bid, ask = pm.best_bid_ask(m.token_ids[j])
@@ -204,6 +214,7 @@ class Pengwin:
 
     def run(self):
         last_scan = 0.0
+        self.write_status()
         while time.time() < self.stop_at:
             try:
                 if time.time() - last_scan > config.PENGWIN_POLL_SEC:

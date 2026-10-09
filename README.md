@@ -34,6 +34,14 @@ Prezzi e fill simulati sul vero order book CLOB di Polymarket.
   il bot ha visto la notizia e quanto si muove dopo (+5/+15/+60 min).
   Test: Actions → brain-dryrun (minuti, oppure `replay` per rigiocare i titoli dei trade passati).
 
+## BOT PENGWIN (2° bot, stesso processo)
+Copia i pronostici calcio di Kristian Pengwin (mondopengwin.it, escono ~24h prima della partita).
+Portafoglio separato da $100 in `data/pengwin/` (trades.csv, status.json), $10 a pronostico, tenuto
+fino a fine partita (niente TP/SL). Telegram con prefisso "🐧 BOT PENGWIN", PnL separato.
+L'LLM mappa il pronostico su UN mercato Polymarket della partita: `esatto` (1, X2, GG, over 2.5...)
+o `approssimato` (una gamba di combo/multigol). Tiri, corner, cartellini → saltato (notifica ⚪).
+Impostazioni `PENGWIN_*` in `bot/config.py`. Test: Actions → brain-dryrun con `pengwin`.
+
 ## Soldi veri — NON implementato
 Serve: wallet Polygon con USDC, chiave privata, `py-clob-client`, verifica che Polymarket
 sia accessibile dall'Italia.
