@@ -5502,3 +5502,27 @@
 2026-10-09 18:44:04   llm groq-120b: rate limited, skip 80s
 2026-10-09 18:44:04   drop[not-key] William Eklund (LW, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: William Eklund: day-to-day
 2026-10-09 18:44:55   drop[unconfirmed] William Eklund Injury: Set to miss extended time (RotoWire) :: injury
+2026-10-09 18:49:32   drop[kind] Video: A tornado in Sicily overturned cars and seriously injured a married couple (UA.NEWS) :: other
+2026-10-09 18:51:51   drop[no-market] Senators' William Eklund out 'extended' period of time with ankle injury (Sportsnet.ca) :: Ottawa Senators
+2026-10-09 18:51:52   llm groq-120b: rate limited, skip 197s
+2026-10-09 18:51:52   drop[kind] Vitor Matos: Swansea boss confirms double injury blow for Norwich (BBC) :: other
+2026-10-09 18:53:50 indexed 975 markets
+2026-10-09 18:54:05   drop[unconfirmed] Commanders’ Jayden Daniels gets green light to return from injury, will play vs. Giants (ClutchPoints) :: player returning from injury
+2026-10-09 18:56:14   drop[1-source] Commanders Make Final Injury Decision on QB Jayden Daniels for Giants Game (Heavy.com) :: Jayden Daniels, wait 2nd source
+2026-10-09 18:58:30   llm groq-120b: rate limited, skip 64s
+2026-10-09 18:58:31   drop[kind] Arteta Reveals Arsenal’s Injury Situation Before Leeds Showdown (Nigerian Voice) :: other
+2026-10-09 18:58:56   drop[not-key] Kyle Monangai (RB, Chicago Bears) ruled out: Questionable -> Out [NFL] (ESPN) :: Kyle Monangai: thumb injury
+2026-10-09 19:00:48   drop[team-not-named] Panthers' Brad Marchand to miss six weeks with injury (Sportsnet.ca) :: Boston Bruins
+2026-10-09 19:01:00   llm groq-120b: rate limited, skip 181s
+2026-10-09 19:01:00   drop[no-market] EU aviation body widens Saudi airspace warning after Houthi strikes reut.rs/47JZOND (Reuters) :: European Union Aviation Safety Agency
+2026-10-09 19:03:14 indexed 960 markets
+2026-10-09 19:03:30   drop[not-key] Winnipeg Jets defenceman Josh Morrissey listed as day-to-day with upper-body injury (Castanet) :: Josh Morrissey: upper-body injury
+2026-10-09 19:05:37   drop[kind] Suspended driver crashes into tree in a school zone (CTV News) :: other
+2026-10-09 19:12:44   drop[kind] Alex Sarr Injury: Trending in right direction (RotoWire) :: other
+2026-10-09 19:12:44   llm groq-120b: rate limited, skip 133s
+2026-10-09 19:12:45   drop[no-market] US unveils sanctions on ICC in move court condems as 'assault on rule of law' (BBC) :: International Criminal Court
+2026-10-09 19:13:15 indexed 951 markets
+2026-10-09 19:14:26   drop[not-key] Mack Hollins (WR, New England Patriots) ruled out: Questionable -> Out [NFL] (ESPN) :: Mack Hollins: injury
+2026-10-09 19:14:51   drop[kind] Falcons injury report: Za'Darius Smith, Jake Matthews questionable vs. Ravens (Atlanta Falcons) :: other
+2026-10-09 19:14:53   drop[verify] Another injury plague strikes Commanders in Jayden Daniel’s return vs Giants (The Big Lead) :: Jayden Daniel’s roster status uncertain and he’s not a star player
+2026-10-09 19:17:08   drop[kind] Russian search engine Yandex struggles after Ukrainian strikes on data centres (BBC) :: other
