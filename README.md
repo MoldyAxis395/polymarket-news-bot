@@ -26,6 +26,12 @@ Prezzi e fill simulati sul vero order book CLOB di Polymarket.
   5. mercati cercati per squadra + filtro lega; lato verificato con regola fissa
   6. verifica scettica LLM (reasoning medium) prima di comprare
   Se l'LLM non risponde i segnali delle regole vengono solo registrati, non tradati (`RULES_CAN_TRADE`).
+  Fonti veloci (`bot/fastfeeds.py`, più rapide degli articoli): cambi di stato infortuni ESPN
+  (NFL NBA NHL MLB WNBA CFB, ogni 60s), esclusioni MLB dalla formazione, formazioni ufficiali calcio
+  vs partita precedente, post Bluesky degli insider (`BLUESKY_ACCOUNTS`). Le notizie SPORTIVE da RSS
+  vengono solo registrate per misura, non tradate (`RSS_SPORTS_TRADE`): arrivano tardi.
+  Misura: `python tools/reactions.py [giorni]` → per fonte, quanto il prezzo si era già mosso quando
+  il bot ha visto la notizia e quanto si muove dopo (+5/+15/+60 min).
   Test: Actions → brain-dryrun (minuti, oppure `replay` per rigiocare i titoli dei trade passati).
 
 ## Soldi veri — NON implementato
