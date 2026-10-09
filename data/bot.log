@@ -5807,3 +5807,32 @@
 2026-10-10 01:00:47 [pengwin] STOCCARDA-VIKING: no Polymarket event (try 3)
 2026-10-10 01:00:50 [pengwin] LIVERPOOL-ATLETICO MADRID: no Polymarket event (try 3)
 2026-10-10 01:01:36 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-10 01:07:22 indexed 893 markets
+2026-10-10 01:08:43 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 01:09:43   drop[team-not-named] Robert Saleh Announces Carnell Tate News After Suffering Injury (heavy.com) :: Detroit Lions
+2026-10-10 01:12:26   drop[unconfirmed] Isaiah Stewart (C, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: injury
+2026-10-10 01:14:20   drop[team-not-named] Super-sub Osimhen powers Gala comeback on injury return (Punch Newspapers) :: Newcastle United
+2026-10-10 01:16:47   drop[team-not-named] After a spinal injury, Celina QB returns for Senior Night (WHIO TV) :: 
+2026-10-10 01:16:47   llm groq-120b: rate limited, skip 136s
+2026-10-10 01:16:47   drop[1-source] Diggs out, McLaurin questionable for Commanders vs. Giants in Week 5 (Commanders Wire) :: J.K. Diggs, wait 2nd source
+2026-10-10 01:17:56 indexed 891 markets
+2026-10-10 01:23:38   drop[kind] Red Sox’ Garrett Whitlock unknowingly pitched through major injury this season (Boston Herald) :: other
+2026-10-10 01:23:38   drop[1-source] Adobe, Microsoft among tech giants suspended from foreign visa program (SFGATE) :: Adobe and Microsoft, wait 2nd source
+2026-10-10 01:23:39   drop[1-source] Referee Suspended After Glendale Player Grabbed On Field (TotalProSports) :: Glendale, wait 2nd source
+2026-10-10 01:27:59 indexed 886 markets
+2026-10-10 01:29:16   llm groq-120b: rate limited, skip 265s
+2026-10-10 01:29:17 [pengwin] skip COVENTRY CITY-NEWCASTLE [X2]: Will Coventry City FC win on 2026-10-12? -> No: no cash
+2026-10-10 01:29:21 [pengwin] Malaga-Espanyol: no Polymarket event (try 4)
+2026-10-10 01:29:26 [pengwin] skip Racing Santander-Valencia [MULTIGOL 1-3 CASA]: Real Racing Club vs. Valencia CF: Real Racing Club O/U 0.5 -> Over: no cash
+2026-10-10 01:29:30 [pengwin] skip Levante-Siviglia [1X]: no matching market
+2026-10-10 01:30:20 [pengwin] FENERBAHCE-ROMA: no Polymarket event (try 4)
+2026-10-10 01:30:22 [pengwin] PSV-SHAKHTAR: no Polymarket event (try 4)
+2026-10-10 01:30:23   drop[unconfirmed] Senators forward William Eklund expected to miss 'extended' time due to ankle injury (Midland Daily News) :: ankle injury
+2026-10-10 01:30:23   drop[1-source] Louisville running back Keyjuan Brown officially ruled out for Florida State clash (ClutchPoints) :: Keyjuan Brown, wait 2nd source
+2026-10-10 01:30:25 [pengwin] BAYERN MONACO-BODO/GLIMT: no Polymarket event (try 4)
+2026-10-10 01:30:29 [pengwin] MANCHESTER UNITED-SABAH BAKU: no Polymarket event (try 4)
+2026-10-10 01:30:31 [pengwin] COMO-LIPSIA: no Polymarket event (try 4)
+2026-10-10 01:30:34 [pengwin] SLAVIA PRAGA-LENS: no Polymarket event (try 4)
+2026-10-10 01:30:37 [pengwin] BARCELLONA-FEYENOORD: no Polymarket event (try 4)
+2026-10-10 01:30:40 [pengwin] STOCCARDA-VIKING: no Polymarket event (try 4)
+2026-10-10 01:30:43 [pengwin] LIVERPOOL-ATLETICO MADRID: no Polymarket event (try 4)
