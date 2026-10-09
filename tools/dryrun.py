@@ -29,8 +29,7 @@ if sys.argv[1:] == ["replay"]:
         ok = (f and f.get("kind") in {"ruled_out", "suspended", "returns", "result", "resignation", "official_decision"}
               and f.get("confirmed") and f.get("new") and (f.get("key_player") or not f.get("person")))
         kept += bool(ok)
-        print(f"{'KEEP' if ok else 'DROP'}    {tag}
-        {json.dumps(f, ensure_ascii=False)[:300]}", flush=True)
+        print(f"{'KEEP' if ok else 'DROP'}    {tag}\n        {json.dumps(f, ensure_ascii=False)[:300]}", flush=True)
     print(f"kept {kept}/{len(closed)} (then: 2nd source + market + side + verify checks)")
     sys.exit(0)
 
