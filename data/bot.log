@@ -5776,3 +5776,34 @@
 2026-10-10 00:30:33 [pengwin] LIVERPOOL-ATLETICO MADRID: no Polymarket event (try 2)
 2026-10-10 00:31:00   drop[unconfirmed] Allisha Gray (G, Atlanta Dream) ruled out: Day-To-Day -> Out [WNBA] (ESPN) :: hand injury
 2026-10-10 00:31:36 [pengwin]   book error Genoa CFC vs. ACF Fiorentina: ACF Fiorentina O/U 0: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-10 00:32:46   drop[unconfirmed] Seth Rollins Says Becky Lynch Had A Fractured Vertebrae Injury For Reason For Her WWE In-R (TPWW.net) :: fractured vertebrae injury
+2026-10-10 00:34:52   drop[1-source] Osimhen assists on return from injury as 10-man Galatasaray beat Kasımpaşa 3-1 (The Sun Nigeria) :: Victor Osimhen, wait 2nd source
+2026-10-10 00:34:53   llm groq-120b: rate limited, skip 393s
+2026-10-10 00:34:54   drop[verify] 49ers news: Kyle Juszczyk, Nick Bosa ruled out, Mike Evans available for Seahawks clash (ClutchPoints) :: Juszczyk not a starter/star
+2026-10-10 00:37:58 indexed 897 markets
+2026-10-10 00:47:54 indexed 899 markets
+2026-10-10 00:48:09   drop[1-source] A return no one expected: Real Madrid star leaves the prison of injury (Goal.com) :: Luka Modrić, wait 2nd source
+2026-10-10 00:50:16   drop[kind] Kerr ankle injury as error-hit Matildas fall to Germany (Newcastle Herald) :: other
+2026-10-10 00:57:55 indexed 884 markets
+2026-10-10 00:58:48 [pengwin] skip LAZIO-MONZA [Casa vince a zero NO]: Will SS Lazio win on 2026-10-11? -> No: no cash
+2026-10-10 00:59:08   llm groq-120b: rate limited, skip 1036s
+2026-10-10 00:59:09 [pengwin] skip IPSWICH TOWN-FULHAM [X2]: Will Ipswich Town FC win on 2026-10-10? -> No: no cash
+2026-10-10 00:59:14 [pengwin] skip CRYSTAL PALACE-NOTTINGHAM FOREST [X2]: Will Crystal Palace FC win on 2026-10-11? -> No: no cash
+2026-10-10 00:59:19 [pengwin] skip LIVERPOOL-MANCHESTER CITY [1X]: no matching market
+2026-10-10 00:59:22   llm groq-20b: rate limited, skip 3s
+2026-10-10 00:59:22 [pengwin] COVENTRY CITY-NEWCASTLE: no LLM answer (try 3)
+2026-10-10 00:59:24 [pengwin] Malaga-Espanyol: no Polymarket event (try 3)
+2026-10-10 00:59:29 [pengwin] skip Real Madrid-Villarreal [GG]: Real Madrid CF vs. Villarreal CF: Both Teams to Score -> Yes: no cash
+2026-10-10 00:59:33   llm groq-20b: rate limited, skip 11s
+2026-10-10 00:59:33 [pengwin] Racing Santander-Valencia: no LLM answer (try 3)
+2026-10-10 00:59:36 [pengwin] Levante-Siviglia: no Polymarket event (try 3)
+2026-10-10 01:00:26 [pengwin] FENERBAHCE-ROMA: no Polymarket event (try 3)
+2026-10-10 01:00:28 [pengwin] PSV-SHAKHTAR: no Polymarket event (try 3)
+2026-10-10 01:00:32 [pengwin] BAYERN MONACO-BODO/GLIMT: no Polymarket event (try 3)
+2026-10-10 01:00:36 [pengwin] MANCHESTER UNITED-SABAH BAKU: no Polymarket event (try 3)
+2026-10-10 01:00:39 [pengwin] COMO-LIPSIA: no Polymarket event (try 3)
+2026-10-10 01:00:41 [pengwin] SLAVIA PRAGA-LENS: no Polymarket event (try 3)
+2026-10-10 01:00:44 [pengwin] BARCELLONA-FEYENOORD: no Polymarket event (try 3)
+2026-10-10 01:00:47 [pengwin] STOCCARDA-VIKING: no Polymarket event (try 3)
+2026-10-10 01:00:50 [pengwin] LIVERPOOL-ATLETICO MADRID: no Polymarket event (try 3)
+2026-10-10 01:01:36 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
