@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-09T01:39:32",
+ "updated": "2026-10-09T02:09:29",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 283,
- "markets_indexed": 884,
- "news_processed": 33,
+ "llm_calls_today": 1,
+ "markets_indexed": 874,
+ "news_processed": 51,
  "cash": 53.62,
- "equity": 92.75,
+ "equity": 92.53,
  "start": 100.0,
  "open": [
   {
@@ -42,7 +42,7 @@
    "reason": "llm[groq-120b]: Kapanen is a key Finnish player; his confirmed injury lowers Finland's win probability, likely pushing the No outcome up",
    "conf": 0.7,
    "end": "2026-10-09T15:30:00+00:00",
-   "last_bid": 0.45,
+   "last_bid": 0.44,
    "book_err": false
   },
   {
@@ -91,7 +91,7 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 283
+   "groq-120b": 1
   }
  },
  "realized_pnl": -6.38
