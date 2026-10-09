@@ -5256,3 +5256,11 @@
 2026-10-09 07:10:34 indexed 835 markets
 2026-10-09 07:20:40 indexed 832 markets
 2026-10-09 07:22:15 feed politico error x1: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-09 07:31:18 indexed 834 markets
+2026-10-09 07:31:42   SELL Rams @ 0.610 (max hold) pnl -0.16 :: Bills vs. Rams
+2026-10-09 07:33:41 NEWS [gnews_injury 4m] The US has suspended major IT firms, including TCS, Infosys, Wipro, HCL and Cognizant, from the PERM green card programme amid alleged visa fraud investigations. Microsoft and Adobe are also affected. The move could delay permanent residency applic
+2026-10-09 07:33:41   BUY No @ 0.290 x34.5 ($10.00) :: Will Microsoft (MSFT) close above $520 on October 9?
+2026-10-09 07:33:46   SELL Packers @ 0.470 (max hold) pnl -0.21 :: Bears vs. Packers
+2026-10-09 07:40:23 ERROR   File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 70, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=800&order=volume24hr&ascending=false&end_date_min=2026-10-09T05%3A40%3A14Z&end_date_max=2026-11-08T05%3A40%3A14Z
+2026-10-09 07:41:07 indexed 836 markets
+2026-10-09 07:51:57 indexed 837 markets

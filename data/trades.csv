@@ -164,3 +164,6 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-09T00:29:55+00:00,SELL,Will Microsoft (MSFT) close above $520 on October 9?,No,26.45,0.3100,8.20,-1.80,stop loss
 2026-10-09T04:05:46+00:00,BUY,West Indies Tour of India T20s: India vs West Indies,West Indies,45.45,0.2200,10.00,,"Chapman, Foulkes ruled out of India T20Is; Clarkson, Tickner named replacements | llm[groq-120b]: India key bowlers ruled out, weakening side; West Indies win odds should rise >5pts"
 2026-10-09T04:49:14+00:00,SELL,Will Finland win on 2026-10-09?,No,22.22,0.4100,9.11,-0.89,max hold
+2026-10-09T05:31:42+00:00,SELL,Bills vs. Rams,Rams,16.13,0.6100,9.84,-0.16,max hold
+2026-10-09T05:33:41+00:00,BUY,Will Microsoft (MSFT) close above $520 on October 9?,No,34.48,0.2900,10.00,,"The US has suspended major IT firms, including TCS, Infosys, Wipro, HCL and Cognizant, from the PERM green card programme amid alleged visa fraud investigations. Microsoft and Adobe are also affected. The move could delay permanent residency applic | llm[groq-120b]: visa fraud suspensions hit Microsoft, likely lowering price expectations"
+2026-10-09T05:33:46+00:00,SELL,Bears vs. Packers,Packers,20.83,0.4700,9.79,-0.21,max hold

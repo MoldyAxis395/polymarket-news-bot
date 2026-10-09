@@ -1,52 +1,34 @@
 {
- "updated": "2026-10-09T07:24:58",
+ "updated": "2026-10-09T07:54:51",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 77,
- "markets_indexed": 832,
- "news_processed": 30,
- "cash": 70.43,
- "equity": 90.06,
+ "llm_calls_today": 80,
+ "markets_indexed": 837,
+ "news_processed": 37,
+ "cash": 80.06,
+ "equity": 89.03,
  "start": 100.0,
  "open": [
   {
-   "market_id": "4058840",
-   "question": "Bills vs. Rams",
-   "slug": "nfl-buf-la-2026-10-13",
-   "outcome": "Rams",
-   "token": "11185747780899587106799033540417199868833602518954973243319524571966674881114",
-   "shares": 16.129032258064516,
-   "entry": 0.62,
+   "market_id": "5428024",
+   "question": "Will Microsoft (MSFT) close above $520 on October 9?",
+   "slug": "msft-close-above-520-on-october-9-2026",
+   "outcome": "No",
+   "token": "18101595960284020759711654530748711059762369360669418219302332257992168891278",
+   "shares": 34.48275862068966,
+   "entry": 0.29,
    "cost": 10.0,
-   "opened": 1791502299.601431,
-   "opened_iso": "2026-10-08T23:31:39+00:00",
-   "news": "Bills' Josh Allen Addresses Knee Injury Rumors After Recording 4 Rushing Yards vs. Patriots",
-   "reason": "llm[groq-120b]: Josh Allen injury rumor likely hurts Bills win odds, boosting Rams price",
-   "conf": 0.65,
-   "end": "2026-10-13T00:15:00+00:00",
-   "last_bid": 0.61,
-   "book_err": false
-  },
-  {
-   "market_id": "4024678",
-   "question": "Bears vs. Packers",
-   "slug": "nfl-chi-gb-2026-10-11",
-   "outcome": "Packers",
-   "token": "54279491274786956127455930816409059670408770683649891919452938777692299299587",
-   "shares": 20.833333333333336,
-   "entry": 0.4799999999999999,
-   "cost": 10.0,
-   "opened": 1791502421.10114,
-   "opened_iso": "2026-10-08T23:33:41+00:00",
-   "news": "Bears 1st Quarter Report Card: Caleb Williams' Injury Can't Slow This Offense Down",
-   "reason": "llm[groq-120b]: Caleb Williams injury lowers Bears win chance, boosting Packers odds",
-   "conf": 0.65,
-   "end": "2026-10-11T20:25:00+00:00",
-   "last_bid": 0.47,
+   "opened": 1791524021.4601781,
+   "opened_iso": "2026-10-09T05:33:41+00:00",
+   "news": "The US has suspended major IT firms, including TCS, Infosys, Wipro, HCL and Cognizant, from the PERM green card programme amid alleged visa fraud investigations. Microsoft and Adobe are also affected. The move could delay permanent residency applic",
+   "reason": "llm[groq-120b]: visa fraud suspensions hit Microsoft, likely lowering price expectations",
+   "conf": 0.66,
+   "end": "2026-10-09T20:00:00+00:00",
+   "last_bid": 0.26,
    "book_err": false
   }
  ],
- "closed_count": 81,
+ "closed_count": 83,
  "llm": {
   "backends": [
    "groq-120b",
@@ -55,8 +37,8 @@
   "fallbacks": 0,
   "errors": {},
   "calls": {
-   "groq-120b": 77
+   "groq-120b": 80
   }
  },
- "realized_pnl": -9.57
+ "realized_pnl": -9.94
 }
