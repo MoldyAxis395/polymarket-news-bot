@@ -38,16 +38,16 @@
 "status": "pending",
 "pick": "I biancocelesti hanno vissuto un inizio campionato convincente dal punto di vista dei punti conquistati, con quattro vittorie in cinque partite. I numeri, però, ci dicono che la Lazio ha vissuto non poche difficoltà in ciascuna gara disputata prima della pausa. Al contrario, il Monza non ha raccolto molti punti, ma è in fase di costruzione e con Juric ha le qualità giuste per sorprendere la formazione romana. Per questo motivo, punto sull’ esito Casa vince a zero No, quotato a 1.40 .",
 "match": "LAZIO-MONZA",
-"tries": 1,
+"tries": 2,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/lecce-bologna-statistiche-quote-e-pronostico-2026": {
 "first": 1791555260.9806032,
-"status": "pending",
+"status": "skipped",
 "pick": "I felsinei cambiano allenatore e riescono a raccogliere un punto che dà fiducia all’ambiente in vista del resto della stagione. Ancora nessun pareggio per i salentini, che hanno conquistato due vittorie e tre sconfitte in questo inizio campionato. Con Palladino in panchina, i rossoblù potrebbero provare a comandare il gioco, anche in virtù di una rosa comunque di livello, e quindi cercare la porta avversaria con maggiore frequenza. Difficilmente, però, sarà una partita ricca di gol. Pertanto, punto sulla combo 2 Tiri totali + Under 4.5, a quota 1.50.",
 "match": "LECCE-BOLOGNA",
 "tries": 1,
-"why": "no LLM answer"
+"why": "shots not available"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/sassuolo-milan-statistiche-quote-e-pronostico-2026": {
 "first": 1791555260.9806032,
@@ -69,19 +69,19 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/atalanta-venezia-statistiche-quote-e-pronostico-2026": {
 "first": 1791555260.9806032,
-"status": "pending",
+"status": "skipped",
 "pick": "Tre sconfitte consecutive per l’Atalanta, che dopo la sconfitta con la Roma ha vissuto un momento non felice. Ancora più complessa la stagione del Venezia, che in cinque partite non è ancora riuscito a conquistare un punto. Per Sarri, però, il match con gli arancioneroverdi è già un dentro o fuori, considerando il rendimento negativo delle ultime settimane. E i nerazzurri potrebbero quindi cercare di alzare il ritmo per mettere in difficoltà gli avversari. Nel tentativo di arginare le spinte offensive atalantine, il Venezia potrebbe dover ricorrere alle maniere forti, rischiando più cartellini. Per questo motivo, punto sull’esito Ospite Over 1.5 Cartellini, quotato a 1.50 .",
 "match": "ATALANTA-VENEZIA",
 "tries": 1,
-"why": "no LLM answer"
+"why": "no card market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/torino-udinese-statistiche-quote-e-pronostico-2026": {
 "first": 1791555260.9806032,
-"status": "pending",
+"status": "skipped",
 "pick": "Non un inizio entusiasmante per la squadra di Abate, che finora ha vinto solo una partita su cinque. L’Udinese, invece, è uscita sconfitta in gare delicate, come contro la Lazio e il Cagliari, pur non avendo mai perso un primo tempo. Entrambe le formazioni, dunque, hanno bisogno di un buon risultato per ripartire dopo settimane non proprio facilissime, in particolare i bianconeri, che hanno perso le ultime tre partite. Pertanto, mi affido al pronostico MG 1-3 Ospite, a quota 1.45 .",
 "match": "TORINO-UDINESE",
 "tries": 1,
-"why": "no LLM answer"
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-b/avellino-sampdoria-statistiche-quote-e-pronostico-2026-2": {
 "first": 1791583006.511736,
@@ -143,18 +143,18 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/chelsea-bournemouth-statistiche-quote-e-pronostico-2026": {
 "first": 1791583006.511736,
-"status": "pending",
+"status": "skipped",
 "pick": "Prima della sosta per le nazionali è arrivata una pesante scoppola contro il Brentford per i Blues . Il problema principale del Chelsea rimane sempre lo stesso: una difesa decisamente troppo ballerina. Anche il Bournemouth di questo avvio di stagione, però, non sembra più la stessa squadra schiacciasassi vista nella passata annata, mostrandosi decisamente meno imponente in mezzo al campo. C'è un fattore chiave da tenere d'occhio in questo match a Stamford Bridge: la disciplina degli ospiti. Le Cherries, infatti, sono attualmente la compagine più indisciplinata dell'intera Premier League , avendo già collezionato la bellezza di 60 falli e 14 cartellini gialli, con una media spaventosa di 2,8 ammonizioni a partita. Per l'occasione arbitrerà Barrott , un fischietto severo che viaggia su una media personale di 3,68 cartellini per match. In una trasferta così calda la sanzione è dietro l'angolo, considerando anche il precedente storico del settembre 2024, quando questa identica sfida registrò il record assoluto della Premier League con ben 14 ammoniti totali. In avanti, i riflettori sono tutti puntati su Cole Palmer : complice l'assenza per infortunio di João Pedr o, sarà proprio lui il punto di riferimento totale della manovra offensiva dei Blues . Mettendo insieme tutti i pezzi del puzzle, per me la base solida da accendere in questo match è la combo 1X+OVER 1,5 a quota 1.40 . Inoltre, vedendo la foga degli ospiti e il metro arbitrale, trovo ottimo l 'OVER 1,5 CARTELLINI OSPITE a 1.45 , mentre la giocata speciale su Palmer GOAL O ASSIST XL , a quota 1.80 , è da considerarsi un vero e proprio regalo!",
 "match": "CHELSEA-BOURNEMOUTH",
 "tries": 1,
-"why": "no LLM answer"
+"why": "Chelsea FC vs. AFC Bournemouth: O/U 1.5 -> Over: no cash"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/ipswich-town-fulham-statistiche-quote-e-pronostico-2026": {
 "first": 1791583006.511736,
 "status": "pending",
 "pick": "Il Fulham si presenta a questa sfida con un avvio di stagione complicato e bloccato: i Cottagers non sono ancora riusciti a trovare la via della vittoria in questo campionato, arrivando a questo appuntamento reduci da ben due pareggi consecutivi. Situazione del tutto opposta per l’ Ipswich Town , che invece ha dimostrato di essere una squadra da \"dentro o fuori\", non avendo ancora mai registrato il segno X dall'inizio della stagione. Considerando la forte necessità degli ospiti di sbloccarsi ed evitare un altro passo falso, unita all'assenza di mezze misure dei padroni di casa, per me la doppia chance esterna X2 a quota 1.41 è davvero molto alta e rappresenta una giocata dal valore indiscutibile!",
 "match": "IPSWICH TOWN-FULHAM",
-"tries": 1,
+"tries": 2,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/sunderland-brighton-statistiche-quote-e-pronostico-2026-2": {
@@ -176,23 +176,23 @@
 "status": "pending",
 "pick": "Il grande tema di questa sfida è sicuramente il ritorno a Selhurst Park di Oliver Glasner , l'attuale allenatore del Nottingham Forest che si ritrova ad affrontare da grande ex il suo passato sulla panchina del Crystal Palace . Se guardiamo la storia recente di questo incrocio, i dati sono a dir poco sorprendenti: prendendo in esame gli ultimi 10 scontri diretti disputati in casa del Palace , i padroni di casa sono riusciti a strappare la vittoria in una sola singola occasione, lasciando spazio a ben nove risultati utili a favore degli ospiti. Le statistiche generali non fanno che confermare questo trend: le Eagles non sono ancora mai riuscite a battere il Nottingham da quando le due formazioni hanno ricominciato a sfidarsi sul palcoscenico della Premier League . Visti i precedenti schiaccianti e l'aria di riscatto del tecnico ospite, per me la doppia chance esterna X2 a quota 1.45 è un'ottima opportunità da inserire in bolletta!",
 "match": "CRYSTAL PALACE-NOTTINGHAM FOREST",
-"tries": 1,
+"tries": 2,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/hull-city-everton-statistiche-quote-e-pronostico-2026": {
 "first": 1791583006.511736,
-"status": "pending",
+"status": "skipped",
 "pick": "L' Everton si presenta a questa sfida con il vento in poppa, mostrandosi solido e ancora imbattuto in questo avvio. Di contro, l' Hull City sta compensando il divario tecnico con un'aggressività fuori dal comune: dati alla mano, è la squadra più ammonita di tutto il campionato, avendo già collezionato la bellezza di 18 cartellini gialli in appena 5 partite. Per sbrogliare una matassa che si preannuncia caldissima è stato designato l'arbitro Salisbury, un fischietto che non ama troppi giri di parole e viaggia su una media severa di circa 4 gialli a partita. Considerando la foga agonistica dei padroni di casa e un direttore di gara che tiene in mano il match con autorità, la giocata ideale è l' OVER 1,5 CARTELLINI SQUADRA CASA a quota 1.55 !",
 "match": "HULL CITY-EVERTON",
 "tries": 1,
-"why": "no LLM answer"
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/liverpool-manchester-city-statistiche-quote-e-pronostico-2026-2": {
 "first": 1791583006.511736,
 "status": "pending",
 "pick": "Il Manchester City si presenta a questo appuntamento con un ruolino di marcia spaventoso, forte di ben 5 vittorie su 5 partite in campionato e una striscia aperta di ben 7 successi consecutivi in questo strepitoso avvio di stagione. Tuttavia, l'ambiente è stato inevitabilmente scosso dal verdetto della Commissione indipendente, arrivato come una vera e propria mazzata che preannuncia pesanti problemi legali e societari in vista per il club. Sul campo, la trasferta di Anfield si prospetta infuocata: negli ultimi anni i Citizens hanno sempre sofferto maledettamente questo stadio, raccogliendo appena 2 vittorie nelle ultime 10 visite in casa del Liverpool . Come se non bastasse, le rotazioni offensive degli ospiti saranno limitate a causa dell'assenza forzata di Phil Foden . Considerando il peso psicologico del verdetto extra-campo, la spinta incessante di Anfield e le storiche difficoltà dei campioni in carica in questo stadio, per me la giocata solida è la doppia chance interna 1X a quota 1.51 !",
 "match": "LIVERPOOL-MANCHESTER CITY",
-"tries": 1,
+"tries": 2,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/coventry-city-newcastle-statistiche-quote-e-pronostico-2026": {
@@ -200,7 +200,7 @@
 "status": "pending",
 "pick": "Il Coventry City ospita il Newcastle dopo essere finalmente riuscito a sbloccarsi nell'ultimo turno prima della sosta, trovando una vittoria fondamentale per 1 a 0 in casa del Nottingham Forest. Un successo pesantissimo per gli uomini di Frank Lampard , arrivato dopo ben quattro sconfitte consecutive e un digiuno di gol preoccupante. I problemi per i padroni di casa, però, rimangono evidenti, soprattutto tra le mura amiche dove hanno finora perso tutti i match disputati, complice una lista pesante di assenti che limiterà le rotazioni della squadra. Dall'altra parte c'è un Newcastle decisamente più in salute e solido a metà classifica con i suoi 8 punti. I Magpies stanno mostrando un ottimo rendimento soprattutto lontano da casa e vantano un dato statistico importante: hanno trovato la via del gol in tutte le ultime 10 partite disputate. Anche dal punto di vista degli storici scontri diretti i precedenti sorridono nettamente agli ospiti, con il Coventry che non è mai riuscito a battere i rivali nei loro incroci più recenti. Considerando il tasso tecnico superiore degli ospiti e le evidenti difficoltà casalinghe dei neopromossi, la strada per la squadra di Jaissle sembra spianata: per me la doppia chance esterna X2 a quota 1.31 è una base eccellente e sicura da mettere in schedina!",
 "match": "COVENTRY CITY-NEWCASTLE",
-"tries": 1,
+"tries": 2,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/malaga-espanyol-statistiche-quote-e-pronostico-2026": {
@@ -208,7 +208,7 @@
 "status": "pending",
 "pick": "Il Malaga si è dimostrato in queste prime giornato come il gruppo meno adatto ad affrontare la prima divisione tra le neopromosse. I numeri parlano chiaro: 0 vittorie e una media di appena 2 tiri in porta a partita, un disastro. Storicamente i padroni di casa non battono l'Espanyol da 8 scontri diretti consecutivi e questo dovrebbe far pendere la bilancia verso gli ospiti. A mio avviso ci può stare pensare ad un minimo riscatto, mi aspetto soprattutto un primo tempo di reazione. Vado con. 1X 1° Tempo dal valore di 1.31.",
 "match": "Malaga-Espanyol",
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/vallecano-athletic-bilbao-statistiche-quote-e-pronostico-2026-2": {
@@ -238,16 +238,16 @@
 "status": "pending",
 "pick": "Il Real Madrid non ha mai pareggiato in questo campionato, partiamo da questo presupposto per quello che saranno i pronostici. Entrambe sono squadre che producono tanto, i Blancos hanno 18 XG generali mentre il Villarreal 16.5 XG. E' scontato quindi immaginare una partita dove entrambe concederanno e, di conseguenza, troveranno la via della rete. Di base ci prendiamo il segno GOL dal valore di 1.45, chi invece cerca qualcosa di più corposo può andare con l'1X+Gol a 1.65.",
 "match": "Real Madrid-Villarreal",
-"tries": 1,
-"why": "no LLM answer"
+"tries": 2,
+"why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/elche-celta-vigo-statistiche-quote-e-pronostico-2026": {
 "first": 1791583006.511736,
-"status": "pending",
+"status": "skipped",
 "pick": "Entrambe vengono da belle e convincenti vittorie ma hanno percorsi diversi. Il Celta fuori dalla Galizia solitamente sceglie di non rischiare e lo dimostrano i 3 pareggi mentre, dall'altra parte, l'Elche in casa costruisce le proprie stagione e dopo la vittoria del pre sosta cercherà continuità. Mi concentro sul Franjiverde e vado con un classico Multigol 1-3 casa dal valore di 1.40.",
 "match": "Elche-Celta Vigo",
 "tries": 1,
-"why": "no LLM answer"
+"why": "Elche CF vs. RC Celta de Vigo: Elche CF O/U 0.5 -> Over: no cash"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/real-sociedad-deportivo-statistiche-quote-e-pronostico-2026": {
 "first": 1791583006.511736,
@@ -270,7 +270,7 @@
 "status": "pending",
 "pick": "La difesa peggiore del campionato, il Racing con 21 gol presi e addirittura 12 nelle ultime 2, incontra il peggior attacco del campionato che ha però cambiato allenatore. Il Racing, perlomeno, può vantare nella sua rosa la presenza di bomber Zabiri che ha già segnato 6 gol e potrebbe davvero fare la differenza in questo match. Mi prendo una quota safe, visto che il club di Santander in casa, Barcellona a parte, vanta 2 vittorie e 1 pareggio: Multigol 1-3 casa a 1.30.",
 "match": "Racing Santander-Valencia",
-"tries": 1,
+"tries": 2,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/levante-siviglia-statistiche-quote-e-pronostico-2026-2": {
@@ -278,7 +278,7 @@
 "status": "pending",
 "pick": "Il Levante in casa ha già dimostrato di poter tirare scherzetti, ne sa qualcosa il Betis, segnale che tra le mura amiche i ragazzi di Castro funzionano molto meglio. Il Siviglia in classifica è messo molto bene ma ha segnato molto più rispetto a quanto creato, sta overperformando. Mi prendo di base un 1X a 1.47. Se vogliamo andare oltre, gli ospiti sono come al solito fallosissimi, 101 falli conditi da 19 gialli e 2 rossi. Occhio anche un maggior numero di sanzioni dal lato del Siviglia.",
 "match": "Levante-Siviglia",
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/borussia-dortmund-werder-brema-statistiche-quote-e-pronostico-2": {
@@ -406,7 +406,7 @@
 "status": "pending",
 "pick": "La Roma si presenta in Turchia con fiducia, ma attenzione alle insidie di una trasferta che può regalare brutte sorprese alla formazione di Gasperini. Nonostante le assenze, infatti, il Fenerbahce ha a disposizione una rosa competitiva, ricca di qualità ed esperienza e ha tutte le carte in regola per ottenere un buon risultato. I capitolini, inoltre, sono attesi da un calendario estremamente impegnativo nelle prossime settimane e dovranno dosare le energie. Da non escludere un pareggio. Come pronostico base mi affido alla chance mix X o gol, a quota 1.45.",
 "match": "FENERBAHCE-ROMA",
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/psv-shakhtar-statistiche-quote-e-pronostico-2026": {
@@ -414,7 +414,7 @@
 "status": "pending",
 "pick": "Il PSV ha iniziato nel migliore dei modi la stagione, dimostrando la propria straordinaria forza offensiva. Lo Shakhtar può rappresentare un avversario abbordabile per la formazione olandese, che tra le mura amiche non dovrebbe avere grossi problemi a superare la compagine ucraina. I padroni di casa potrebbero trovare la via della rete in entrambi i tempi (a quota 1.95), attenzione anche a Pepi marcatore plus (quota 2.00). Mi prendo il segno 1 a moltiplicatore 1.40 , a mio avviso di assoluto valore.",
 "match": "PSV-SHAKHTAR",
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/bayern-monaco-bodo-glimt-statistiche-quote-e-pronostico-2026": {
@@ -422,7 +422,7 @@
 "status": "pending",
 "pick": "Il Bayern Monaco riceve il Bodo/Glimt e tra le mura amiche vanta un ruolino clamoroso in Champions League. I bavaresi possono segnare diverse reti, in una gara che mi aspetto divertente e ricca di emozioni. Riflettori puntati su Olise, straordinario assist man nella passata stagione: escludendo la Supercoppa, l’attaccante francese è ancora alla ricerca del primo assist stagionale e contro i norvegesi ha parecchie chance di mettere i compagni nelle migliori condizioni per segnare. Dunque, punto sul pronostico Olise assist, a moltiplicatore 2.00, di valore.",
 "match": "BAYERN MONACO-BODO/GLIMT",
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/manchester-united-sabah-baku-statistiche-quote-e-pronostico-2026": {
@@ -430,7 +430,7 @@
 "status": "pending",
 "pick": "Preferisco evitare di presentare pronostici su questo match, il Manchester United non mi convince. Dunque, NO BET.",
 "match": "MANCHESTER UNITED-SABAH BAKU",
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/como-lipsia-statistiche-quote-e-pronostico-2026": {
@@ -438,7 +438,7 @@
 "status": "pending",
 "pick": "Il Como si prepara al debutto assoluto in Champions League, giungendo in totale fiducia all’appuntamento. I lariani hanno effettuato un ulteriore salto di qualità rispetto alla scorsa stagione, acquisendo maggiore sicurezza ed esperienza: penso che gli uomini di Fabregas disputeranno un’ottima prova, con buone chance di conquistare la vittoria. Attenzione anche a Moise Kean, che in caso di titolarità potrebbe segnare. Sono convinto che entrambe le squadre hanno possibilità di trovare la via del gol, con i padroni di casa che usciranno imbattuti dal confronto: mi affido al pronostico 1X + over 1.5, a quota 1.50.",
 "match": "COMO-LIPSIA",
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/slavia-praga-lens-statistiche-quote-e-pronostico-2026": {
@@ -446,7 +446,7 @@
 "status": "pending",
 "pick": "Lo Slavia Praga proverà ad iniziare al meglio il proprio percorso in Champions League, sfruttando la spinta dei propri sostenitori. Mi aspetto che i cechi adotteranno un atteggiamento offensivo, con buone chance di trovare la via della rete. Come pronostico base mi affido al multigol casa 1-2, quotato a 1.55.",
 "match": "SLAVIA PRAGA-LENS",
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/barcellona-feyenoord-statistiche-quote-e-pronostico-2026": {
@@ -454,7 +454,7 @@
 "status": "pending",
 "pick": "Blaugrana micidiali già in questo inizio di stagione. Nonostante le poche partite disputate, la squadra catalana sembra già aver messo la sesta. E con i cinque gol rifilati in trasferta al Valencia, nell'ultimo turno de LaLiga, ha mandato un segnale forte e chiaro alle pretendenti al titolo. Dall'altro lato, Il Feyenoord è una squadra in forma, arriva da una bella vittoria in campionato e magari potrebbe anche riuscire a mettere in difficoltà la difesa avversaria, ma difficilmente riuscirà a contenere le offensive blaugrana. Il Barcellona potrà quindi già dare spettacolo al debutto, con una prestazione autorevole soprattutto dal punto di vista offensivo e con almeno tre reti segnate. Per questo motivo, punto sulla combo Over 0.5 1T + Over 1.5 2T, a quota 1.50 .",
 "match": "BARCELLONA-FEYENOORD",
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/stoccarda-viking-statistiche-quote-e-pronostico-2026": {
@@ -462,7 +462,7 @@
 "status": "pending",
 "pick": "Lo ha già dimostrato in queste prime partite: lo Stoccarda è una squadra che sa dare spettacolo. E il match d'esordio in Champions contro il Viking potrebbe essere un'altra partita ricca di gol. La compagine tedesca è una squadra abituata a segnare, come dimostrano i nove gol segnati nelle prime tre gare ufficiali. Ma è anche una formazione che di reti ne subisce e questo match potrebbe non essere da meno. Gli ospiti infatti propongono un gioco offensivo, costruito intorno alla punta centrale Christiansen . Con il gioco costantemente offensivo dello Stoccarda, poi, il Viking potrebbe vedere aprirsi ampi spazi per le proprie ripartenze. Punto perciò sull'esito Segna Ospite, quotato 1.55.",
 "match": "STOCCARDA-VIKING",
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/liverpool-atletico-madrid-statistiche-quote-e-pronostico-2026": {
@@ -470,7 +470,7 @@
 "status": "pending",
 "pick": "Un inizio di stagione a fasi alterne per entrambe le squadre. I Reds, infatti, non sono ancora riusciti a trovare la condizione ottimale e hanno incontrato non poche difficoltà in queste prime partite di Premier League. D'altro canto anche i Colchoneros non hanno brillato, faticando in particolare dal punto di vista realizzativo. Difficile dunque stabilire chi delle due squadre parta realmente favorita in questo match. Probabilmente, la squadra rojiblanca potrebbe ritrovarsi a difendere, aspettando il passo falso degli inglesi. Il Liverpool invece, giocando in casa, proverà a trovare la via del gol con più insistenza dei propri avversari. Pertanto, mi affido all'esito 1 Corner, quotato a 1.45 .",
 "match": "LIVERPOOL-ATLETICO MADRID",
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/psg-slovan-bratislava-statistiche-quote-e-pronostico-2026": {

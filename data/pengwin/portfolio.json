@@ -17,7 +17,8 @@
    "conf": 1.0,
    "end": "2026-10-10T13:00:00+00:00",
    "last_bid": 0.76,
-   "book_err": false
+   "book_err": true,
+   "settle_retry": 1791585696.908247
   },
   {
    "market_id": "5012784",

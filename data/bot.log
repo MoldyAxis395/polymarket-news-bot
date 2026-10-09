@@ -5727,3 +5727,52 @@
 2026-10-10 00:01:14 NEWS [ESPN 8m] Tyler Owens (S, Washington Commanders) ruled out: healthy -> Out [NFL]
 2026-10-10 00:01:14   skip Giants :: Giants vs. Commanders (low conf 0.62)
 2026-10-10 00:01:17   drop[verify] Percy Butler (S, Washington Commanders) ruled out: Questionable -> Out [NFL] (ESPN) :: player not on team and not impactful
+2026-10-10 00:07:55 indexed 904 markets
+2026-10-10 00:13:30   drop[team-not-named] Campbell, Sexton set to return to Riders’ after lengthy injury spells (980 CJME) :: Saskatchewan Roughriders
+2026-10-10 00:15:38   drop[1-source] Juszczyk and Three More Ruled Out vs. Seahawks in Week 5; Williams Questionable Ahead of # (San Francisco 49ers) :: Kyle Juszczyk, wait 2nd source
+2026-10-10 00:15:39   drop[1-source] Game of the Week: Osage captains return to the gridiron stronger after injury (kaaltv.com) :: Osage, wait 2nd source
+2026-10-10 00:17:18 indexed 900 markets
+2026-10-10 00:19:22   drop[verify] James Thompson Jr. (DT, San Francisco 49ers) ruled out: Doubtful -> Out [NFL] (ESPN) :: player status uncertain and not impactful enough
+2026-10-10 00:19:24 NEWS [ESPN 2m] Nick Bosa (DE, San Francisco 49ers) ruled out: Doubtful -> Out [NFL]
+2026-10-10 00:19:24   skip Seahawks :: 49ers vs. Seahawks (illiquid)
+2026-10-10 00:22:22   llm groq-120b: rate limited, skip 286s
+2026-10-10 00:22:23   drop[no-pick] Julian Neal (CB, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: no outcome should rise
+2026-10-10 00:25:02   drop[verify] NFL Week 5 injury report: Eagles' Saquon Barkley and DeVonta Smith out, Bears' Caleb Willi (CBS Sports) :: Barkley is a Giants player, not an Eagles player
+2026-10-10 00:25:02   drop[not-key] Broncos Make Multiple Injury-Related Roster Moves (roundtable.io) :: Jalen Reagor: injury
+2026-10-10 00:25:24 NEWS [ESPN 13m] Chazz Surratt (LB, Seattle Seahawks) ruled out: Questionable -> Out [NFL]
+2026-10-10 00:25:24   skip 49ers :: 49ers vs. Seahawks (low conf 0.6)
+2026-10-10 00:25:41   drop[no-market] GTCR, Elliott in advanced talks to acquire CCC Intelligent Solutions, Bloomberg News repor (Reuters) :: CCC Intelligent Solutions
+2026-10-10 00:27:48 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 00:27:54 indexed 887 markets
+2026-10-10 00:28:07   llm groq-120b: rate limited, skip 358s
+2026-10-10 00:28:10   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-10 00:28:10 [pengwin] LAZIO-MONZA: no LLM answer (try 2)
+2026-10-10 00:28:15 [pengwin] skip LECCE-BOLOGNA [combo 2 Tiri totali + Under 4.5]: shots not available
+2026-10-10 00:28:20 [pengwin] skip ATALANTA-VENEZIA [Ospite Over 1.5 Cartellini]: no card market
+2026-10-10 00:28:24 [pengwin] skip TORINO-UDINESE [MG 1-3 Ospite]: no matching market
+2026-10-10 00:28:46 [pengwin] skip CHELSEA-BOURNEMOUTH [OVER 1.5]: Chelsea FC vs. AFC Bournemouth: O/U 1.5 -> Over: no cash
+2026-10-10 00:28:49   llm groq-20b: rate limited, skip 3s
+2026-10-10 00:28:49 [pengwin] IPSWICH TOWN-FULHAM: no LLM answer (try 2)
+2026-10-10 00:28:53   llm groq-20b: rate limited, skip 2s
+2026-10-10 00:28:53 [pengwin] CRYSTAL PALACE-NOTTINGHAM FOREST: no LLM answer (try 2)
+2026-10-10 00:28:56 [pengwin] skip HULL CITY-EVERTON [OVER 1.5 CARTELLINI SQUADRA CASA]: no matching market
+2026-10-10 00:29:00   llm groq-20b: rate limited, skip 11s
+2026-10-10 00:29:00 [pengwin] LIVERPOOL-MANCHESTER CITY: no LLM answer (try 2)
+2026-10-10 00:29:02 [pengwin] COVENTRY CITY-NEWCASTLE: no LLM answer (try 2)
+2026-10-10 00:29:04 [pengwin] Malaga-Espanyol: no Polymarket event (try 2)
+2026-10-10 00:29:09 [pengwin] Real Madrid-Villarreal: no Polymarket event (try 2)
+2026-10-10 00:29:14 [pengwin] skip Elche-Celta Vigo [MULTIGOL 1-3 CASA]: Elche CF vs. RC Celta de Vigo: Elche CF O/U 0.5 -> Over: no cash
+2026-10-10 00:29:17   llm groq-20b: rate limited, skip 15s
+2026-10-10 00:29:17 [pengwin] Racing Santander-Valencia: no LLM answer (try 2)
+2026-10-10 00:29:20 [pengwin] Levante-Siviglia: no Polymarket event (try 2)
+2026-10-10 00:30:09 [pengwin] FENERBAHCE-ROMA: no Polymarket event (try 2)
+2026-10-10 00:30:12 [pengwin] PSV-SHAKHTAR: no Polymarket event (try 2)
+2026-10-10 00:30:15 [pengwin] BAYERN MONACO-BODO/GLIMT: no Polymarket event (try 2)
+2026-10-10 00:30:18 [pengwin] MANCHESTER UNITED-SABAH BAKU: no Polymarket event (try 2)
+2026-10-10 00:30:21 [pengwin] COMO-LIPSIA: no Polymarket event (try 2)
+2026-10-10 00:30:24 [pengwin] SLAVIA PRAGA-LENS: no Polymarket event (try 2)
+2026-10-10 00:30:27 [pengwin] BARCELLONA-FEYENOORD: no Polymarket event (try 2)
+2026-10-10 00:30:30 [pengwin] STOCCARDA-VIKING: no Polymarket event (try 2)
+2026-10-10 00:30:33 [pengwin] LIVERPOOL-ATLETICO MADRID: no Polymarket event (try 2)
+2026-10-10 00:31:00   drop[unconfirmed] Allisha Gray (G, Atlanta Dream) ruled out: Day-To-Day -> Out [WNBA] (ESPN) :: hand injury
+2026-10-10 00:31:36 [pengwin]   book error Genoa CFC vs. ACF Fiorentina: ACF Fiorentina O/U 0: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
