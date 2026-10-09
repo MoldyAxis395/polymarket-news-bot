@@ -5401,3 +5401,23 @@
 2026-10-09 16:08:33   drop[1-source] Mobile Internet Suspended in Central Delhi for 24 Hours Ahead of CJP Protest (Pioneer Daily) :: Central Delhi, wait 2nd source
 2026-10-09 16:13:33 indexed 949 markets
 2026-10-09 16:15:56   drop[1-source] Arsenal attacker ruled out injured for four weeks (now.arsenal) :: Gabriel Jesus, wait 2nd source
+2026-10-09 16:18:27   drop[1-source] Microsoft and Adobe are suspended from H-1B visa program, with Vance accusing the tech gia (Fast Company) :: Microsoft and Adobe, wait 2nd source
+2026-10-09 16:18:27   llm groq-120b: rate limited, skip 165s
+2026-10-09 16:18:28   drop[kind] Southampton v Portsmouth: perfect home start meets injury-hit visitors (OneFootball) :: other
+2026-10-09 16:18:28   drop[1-source] Injury relief for Hansi Flick as two key Barcelona stars cleared for brutal 14-day stretch (Lente Desportiva) :: FC Barcelona, wait 2nd source
+2026-10-09 16:22:57 indexed 958 markets
+2026-10-09 16:26:05   drop[kind] Qualcomm and Arm set for jury verdict in contract breach feud reut.rs/4j7DHrs (Reuters) :: other
+2026-10-09 16:32:14   drop[kind] Delhi Fortified Ahead Of Protest: Internet Suspended, 57 Metro Stations Shut - India Today (India Today) :: other
+2026-10-09 16:33:35 indexed 961 markets
+2026-10-09 16:34:37   drop[1-source] Raphinha Injury: The Barcelona Games Hansi Flick’s Star Man Will Miss (Sports Illustrated) :: Raphinha, wait 2nd source
+2026-10-09 16:34:37   llm groq-120b: rate limited, skip 71s
+2026-10-09 16:34:37   drop[kind] Carlos Alcaraz states tennis is 'going in the wrong direction' as injury-hit season for to (Tennisuptodate.com) :: other
+2026-10-09 16:35:43   drop[team-not-named] EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize reu (Reuters) :: International Criminal Court
+2026-10-09 16:39:05   llm groq-120b: rate limited, skip 248s
+2026-10-09 16:39:08   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-09 16:39:08   drop[verify] EPL: Chelsea receive injury boost over five players ahead of Bournemouth clash (Daily Post Nigeria) :: no answer
+2026-10-09 16:41:23   drop[team-not-named] GP who entered incorrect data in death certificates suspended for 10 months (Pulse Today) :: 
+2026-10-09 16:41:23   drop[kind] Internet services temporarily suspended within 4-km radius of Janpath-Kartavya Path crossi (ANI News) :: other
+2026-10-09 16:43:38 indexed 958 markets
+2026-10-09 16:45:15 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-09 16:45:47   drop[team-not-named] Trump launches committee to probe Fed's Lisa Cook, White House says reut.rs/4enQVgl (Reuters) :: Federal Reserve
