@@ -48,7 +48,7 @@ if fast:
     for src in srcs:
         list(src._poll())  # baseline
     since = (datetime.now(timezone.utc) - timedelta(minutes=minutes)).isoformat().replace("+00:00", "Z")
-    st["bluesky"] = {h: since for h in st.get("bluesky", {})}
+    st["bluesky"].update({h: since for h in st["bluesky"]})
     items = list(srcs[2]._poll())
     for _ in range(3):
         time.sleep(60)
