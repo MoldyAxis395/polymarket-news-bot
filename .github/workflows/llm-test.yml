@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       minutes:
-        description: "News window (minutes)"
+        description: "News window (minutes), or 'replay' for past trade headlines"
         default: "180"
 
 permissions:
@@ -20,8 +20,6 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests
-      - name: Start Ollama
-        run: bash ci/ollama.sh
       - name: Dry run
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}

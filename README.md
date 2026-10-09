@@ -17,9 +17,16 @@ Prezzi e fill simulati sul vero order book CLOB di Polymarket.
 - `rules` (default, gratis): parole chiave (injured, ruled out, wins...) vicino a un nome
   di squadra/persona presente nel mercato. Esempio: "Jefferson injury, Vikings" → compra Dolphins.
   Limite: non sa che Messi gioca per l'Argentina se la notizia non nomina l'Argentina.
-- `llm` (attivo): Groq gpt-oss-120b → gpt-oss-20b, secret `GROQ_API_KEY`. Se l'LLM non risponde
-  i segnali delle regole vengono solo registrati, non tradati (`RULES_CAN_TRADE`). Errori LLM nel log
-  e in `status.json` → `llm`.
+- `llm` (attivo): Groq gpt-oss-120b → gpt-oss-20b, secret `GROQ_API_KEY`. Controlli per ogni notizia
+  (ogni scarto finisce nel log come `drop[motivo]`, conteggi in `status.json` → `llm.rejects`):
+  1. filtro fuffa (`FLUFF`): preview, fantasy, rumor, "could/might", timeline, titoli-domanda
+  2. LLM estrae il fatto: chi, squadra, lega, confermato? nuovo? titolare? buono/cattivo
+  3. squadra estratta deve comparire nel titolo (l'LLM sbaglia le rose)
+  4. fonte: editore affidabile (`TRUSTED_PUBLISHERS`) oppure 2ª fonte diversa entro 60 min
+  5. mercati cercati per squadra + filtro lega; lato verificato con regola fissa
+  6. verifica scettica LLM (reasoning medium) prima di comprare
+  Se l'LLM non risponde i segnali delle regole vengono solo registrati, non tradati (`RULES_CAN_TRADE`).
+  Test: Actions → brain-dryrun (minuti, oppure `replay` per rigiocare i titoli dei trade passati).
 
 ## Soldi veri — NON implementato
 Serve: wallet Polygon con USDC, chiave privata, `py-clob-client`, verifica che Polymarket

@@ -39,7 +39,7 @@ class Paper:
                 w.writerow(["time", "action", "market", "outcome", "shares", "price", "usd", "pnl", "reason"])
             w.writerow(row)
 
-    def can_open(self, market_id):
+    def can_open(self, market_id, outcome=None):
         if config.MAX_OPEN_POSITIONS and len(self.positions) >= config.MAX_OPEN_POSITIONS:
             return "max positions"
         if self.cash < config.MIN_TRADE_USD:
@@ -49,6 +49,10 @@ class Paper:
         until = self.cooldown.get(market_id, 0)
         if time.time() < until:
             return "cooldown"
+        cutoff = time.time() - config.NO_FLIP_HOURS * 3600
+        if outcome and any(c["market_id"] == market_id and c["outcome"] != outcome and c["opened"] > cutoff
+                           for c in self.closed):
+            return "would flip side"
         return None
 
     def open(self, sig, news_title):

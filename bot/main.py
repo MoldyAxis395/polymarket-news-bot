@@ -27,7 +27,7 @@ def log(msg):
 def record_signal(item, sig, action):
     with SIGNALS.open("a", encoding="utf-8") as f:
         f.write(json.dumps({"t": datetime.now().isoformat(timespec="seconds"), "news": item.title,
-                            "src": item.source, "age_min": round(item.age_min, 1),
+                            "src": item.source, "pub": item.publisher, "age_min": round(item.age_min, 1),
                             "market": sig.market.question, "buy": sig.market.outcomes[sig.outcome],
                             "price": sig.market.prices[sig.outcome], "conf": sig.confidence,
                             "reason": sig.reason, "action": action}) + "\n")
@@ -116,12 +116,12 @@ def run():
                     sigs = brain.analyze(item, cands, index)
                     if not sigs:
                         continue
-                    log(f"NEWS [{item.source} {item.age_min:.0f}m] {item.title}")
+                    log(f"NEWS [{item.publisher or item.source} {item.age_min:.0f}m] {item.title}")
                     for sig in sigs:
                         why = None
                         if brain.name == "llm" and sig.reason.startswith("rules") and not config.RULES_CAN_TRADE:
                             why = "rules fallback, LLM down (not traded)"
-                        why = why or paper.can_open(sig.market.id) or entry_check(sig, idx_prices)
+                        why = why or paper.can_open(sig.market.id, sig.market.outcomes[sig.outcome]) or entry_check(sig, idx_prices)
                         if why:
                             log(f"  skip {sig.market.outcomes[sig.outcome]} :: {sig.market.question[:70]} ({why})")
                             record_signal(item, sig, "skip: " + why)

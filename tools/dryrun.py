@@ -1,4 +1,6 @@
-"""Run the configured brain over recent news without trading. Usage: python tools/dryrun.py [minutes]"""
+"""Run the configured brain over recent news without trading.
+Usage: python tools/dryrun.py [minutes]   live news of the last N minutes
+       python tools/dryrun.py replay      headlines of past closed trades: would the checks keep them?"""
 import re
 import sys
 import time
@@ -9,6 +11,27 @@ from bot import config, polymarket as pm  # noqa: E402
 from bot.brain import make_brain  # noqa: E402
 from bot.matcher import MarketIndex  # noqa: E402
 from bot.news import NewsFeed  # noqa: E402
+
+if sys.argv[1:] == ["replay"]:
+    import json
+    from bot.llm import FLUFF_RE
+    brain = make_brain()
+    closed = json.loads((config.DATA / "portfolio.json").read_text(encoding="utf-8"))["closed"]
+    kept = 0
+    for c in closed:
+        if c["reason"].startswith("rules"):
+            continue
+        tag = f"{c['pnl']:+.2f} {c['outcome']} :: {c['news'][:90]}"
+        if FLUFF_RE.search(c["news"]):
+            print(f"FLUFF   {tag}")
+            continue
+        f = brain._fact(type("I", (), {"title": c["news"], "summary": "", "publisher": "", "source": "replay"})())
+        ok = (f and f.get("kind") in {"ruled_out", "suspended", "returns", "result", "resignation", "official_decision"}
+              and f.get("confirmed") and f.get("new") and (f.get("key_player") or not f.get("person")))
+        kept += bool(ok)
+        print(f"{'KEEP' if ok else 'DROP'}    {tag}\n        {json.dumps(f, ensure_ascii=False)[:300]}", flush=True)
+    print(f"kept {kept}/{len(closed)} (then: 2nd source + market + side + verify checks)")
+    sys.exit(0)
 
 minutes = float(sys.argv[1]) if len(sys.argv) > 1 else 180
 skip_q = re.compile(config.SKIP_QUESTION, re.I)
