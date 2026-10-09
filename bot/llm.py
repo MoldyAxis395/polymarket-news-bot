@@ -150,6 +150,9 @@ class LLMBrain:
             '"league": "nfl|cfb|nba|wnba|nhl|mlb|soccer|tennis|politics|business|crypto|other", '
             '"key_player": true/false, "confirmed": true/false, "new": true/false, '
             '"effect": "good|bad" (for team), "why": "short"}\n'
+            "kind: ruled_out = will miss a game or more (ruled out, scratched, week-to-week, out N weeks, "
+            "placed on IR, season-ending); returns = cleared/back from absence; result = final score/outcome; "
+            "official_decision = ruling, policy, deal, appointment; other = anything else.\n"
             "key_player: a regular starter / star / the person in charge. False for backups, prospects, "
             "youth, depth, already long-term injured players.\n"
             "confirmed: officially announced or reported as fact (ruled out, placed on IR, signed, "
