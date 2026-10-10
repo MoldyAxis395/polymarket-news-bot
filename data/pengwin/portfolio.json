@@ -16,7 +16,7 @@
    "reason": "pengwin approx: Fiorentina to score \u22651 goal (Over 0.5) matches lower bound of the multigol range",
    "conf": 1.0,
    "end": "2026-10-10T13:00:00+00:00",
-   "last_bid": 0.66,
+   "last_bid": 0.58,
    "book_err": false,
    "settle_retry": 1791585696.908247
   },
@@ -108,7 +108,8 @@
    "conf": 1.0,
    "end": "2026-10-10T11:30:00+00:00",
    "last_bid": 0.999,
-   "book_err": false
+   "book_err": true,
+   "settle_retry": 1791640962.6929367
   },
   {
    "market_id": "5013270",
