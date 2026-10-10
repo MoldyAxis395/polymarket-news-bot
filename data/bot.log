@@ -6203,3 +6203,11 @@
 2026-10-10 20:16:00 indexed 979 markets
 2026-10-10 20:16:50 NEWS [BBC 1m] Bayern strike late to avoid shock defeat at Augsburg
 2026-10-10 20:16:50   skip No :: Will FC Bayern München win on 2026-10-17? (low conf 0.6)
+2026-10-10 20:22:44   drop[verify] Alex Turcotte (C, Los Angeles Kings) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: Turcotte not on Kings roster and not a key player
+2026-10-10 20:23:38 [pengwin]   settle error FC Barcelona vs. Getafe CF: O/U 2.5: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 20:26:00 indexed 974 markets
+2026-10-10 20:34:09 [pengwin]   settle error FC Barcelona vs. Getafe CF: O/U 2.5: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 20:36:02 indexed 978 markets
+2026-10-10 20:38:28   drop[verify] Bills Announce Sudden Joshua Palmer Injury Decision Before Rams Game (heavy.com) :: player not on Bills and not impactful
+2026-10-10 20:45:44 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 20:46:04 indexed 962 markets
