@@ -6183,3 +6183,12 @@
 2026-10-10 19:00:27   skip Canucks :: Canucks vs. Rangers (illiquid)
 2026-10-10 19:00:51   drop[kind] Man seriously injured by tiger after entering enclosure at British zoo reut.rs/3UlYTQm (Reuters) :: other
 2026-10-10 19:01:23 indexed 975 markets
+2026-10-10 19:05:17 NEWS [ASHARQ AL-AWSAT English 4m] GACA: Operations at Riyadh Airport Suspended after Attack
+2026-10-10 19:05:17   skip Yes :: Will Riyadh airport be closed by October 31? (low conf 0.62)
+2026-10-10 19:05:30   drop[not-key] Rasmus Ristolainen (D, Philadelphia Flyers) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: Rasmus Ristolainen: injured
+2026-10-10 19:05:59 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 19:09:56 [pengwin]   settle error Aston Villa FC vs. Brentford FC: Both Teams to Sco: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 19:11:25 indexed 983 markets
+2026-10-10 19:12:16 NEWS [RealGM 4m] Rangers' Igor Shesterkin Out For Year With Knee Injury
+2026-10-10 19:12:16   skip Canucks :: Canucks vs. Rangers (rss sport (measure only))
+2026-10-10 19:14:23 shift over, state saved
