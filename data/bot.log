@@ -5843,3 +5843,24 @@
 2026-10-10 01:49:03   drop[kind] SBA disaster assistance available for Hurricane Lowell damage and economic injury (Maui Now) :: other
 2026-10-10 01:55:58   drop[team-not-named] Sancet ruled out with left calf issue, 458 days on the sidelines (OneFootball) :: FC Barcelona
 2026-10-10 01:58:00 indexed 893 markets
+2026-10-10 02:05:01   drop[kind] Injury-hit Voodoos get reinforcements from OHL affiliate North Bay Battalion (BayToday.ca) :: other
+2026-10-10 02:07:27 indexed 892 markets
+2026-10-10 02:07:29   drop[not-key] M.J. Stewart (S, Houston Texans) ruled out: healthy -> Out [NFL] (ESPN) :: M.J. Stewart: ruled out with knee injury
+2026-10-10 02:07:44   drop[1-source] Washington Elementary Principal Arielle Curry was suspended for leading election that allo (Santa Barbara News-Press) :: Arielle Curry, wait 2nd source
+2026-10-10 02:07:44   drop[team-not-named] Baby elephant case: Suspended District judge removed from service (Island.lk) :: Sri Lankan judiciary
+2026-10-10 02:09:51   drop[no-market] Microsoft, Adobe and others suspended from H-1B visa program (AsAmNews) :: Microsoft; Adobe
+2026-10-10 02:16:54   drop[1-source] Giants vs. Commanders Week 5 Injury Report: Chauncey Golston, Jason Pinnock ruled out (Giants.com) :: Chauncey Golston, wait 2nd source
+2026-10-10 02:16:55   drop[kind] Texas A&M-Missouri Friday injury report: Craver still questionable (Bryan College Station Eagle) :: other
+2026-10-10 02:16:57   llm groq-120b: rate limited, skip 208s
+2026-10-10 02:16:58   drop[team-not-named] Canadian cyber executive charged in federal hacking case politi.co/4zpJTzZ (Politico) :: 
+2026-10-10 02:18:04 indexed 888 markets
+2026-10-10 02:18:54   drop[1-source] Four officially ruled out for South Carolina vs. Florida (On3) :: South Carolina Gamecocks, wait 2nd source
+2026-10-10 02:18:55   drop[1-source] Texas DL Justus Terry again questionable, Oklahoma gains more players back on Friday's SEC (247Sports) :: University of Oklahoma, wait 2nd source
+2026-10-10 02:21:13   drop[1-source] Another Georgia Bulldog ruled out for Alabama game (247Sports) :: Georgia Bulldogs, wait 2nd source
+2026-10-10 02:25:49   drop[1-source] Kentucky vs. LSU Injury Report: Kalen Edwards ruled out (A Sea Of Blue) :: Kalen Edwards, wait 2nd source
+2026-10-10 02:25:49   llm groq-120b: rate limited, skip 309s
+2026-10-10 02:25:49   drop[not-key] Penn State Football Linebacker Alex Tatsch Ruled Out For White Out In Friday Availability  (Onward State) :: Alex Tatsch: injury
+2026-10-10 02:25:49   drop[unconfirmed] Senators' William Eklund Out For 'Extended' Time With Ankle Injury (RealGM) :: ankle injury
+2026-10-10 02:27:29 indexed 899 markets
+2026-10-10 02:28:19   drop[1-source] Penn State vs. No. 19 USC injury report (Friday): Linebacker ruled out for White Out; DT l (247Sports) :: Penn State, wait 2nd source
+2026-10-10 02:30:20 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
