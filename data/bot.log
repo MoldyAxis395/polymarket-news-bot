@@ -6274,3 +6274,14 @@
 2026-10-10 23:09:02 [pengwin]   SELL Over @ 1.000 (resolved) pnl +13.26 :: SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.5
 2026-10-10 23:16:54 indexed 979 markets
 2026-10-10 23:19:34 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 23:23:22 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 23:24:13   drop[not-key] Alex Sarr Injury: Will make preseason debut Saturday (RotoWire) :: Alex Sarr: will make preseason debut Saturday
+2026-10-10 23:26:58 indexed 968 markets
+2026-10-10 23:32:06 NEWS [ESPN 0m] De'Von Achane (RB, Miami Dolphins) ruled out: healthy -> Injured Reserve [NFL]
+2026-10-10 23:32:06   skip Bengals :: Bengals vs. Dolphins (low conf 0.62)
+2026-10-10 23:34:01   drop[team-not-named] Tevaughn Campbell set to return at DB for Riders, KeeSean Johnson officially out for Montr (SportsCage.com) :: Saskatchewan Roughriders
+2026-10-10 23:36:58 indexed 977 markets
+2026-10-10 23:37:13   drop[kind] Red Sox pitcher played through insane injury during playoffs (Larry Brown Sports) :: other
+2026-10-10 23:37:59   drop[not-key] Zach Bogosian (D, Minnesota Wild) ruled out: healthy -> Out [NHL] (ESPN) :: Zach Bogosian: ruled out due to injury
+2026-10-10 23:41:39   drop[kind] Lakers’ Luka Doncic using last year’s injury to fuel championship hopes (Orange County Register) :: other
+2026-10-10 23:46:57 indexed 974 markets
