@@ -6086,3 +6086,18 @@
 2026-10-10 15:00:36   drop[1-source] Canada get welcome injury boost ahead of home WXV fixtures against England (Rugbypass.com) :: England women's national rugby union team, wait 2nd source
 2026-10-10 15:02:36   drop[no-market] Cristiano Ronaldo suspended as Portuguese FA opens disciplinary proceedings (Portugal Resident) :: Portugal national football team
 2026-10-10 15:02:37   drop[no-market] Cristiano Ronaldo Temporarily Suspended by Portugal (BGNES) :: Portugal national football team
+2026-10-10 15:04:54   drop[kind] Haaland 'injury' clarified: City have 2 injury doubts vs. LFC (This Is Anfield) :: other
+2026-10-10 15:07:13   drop[1-source] Pune: Six Maharashtra Pollution Control Board Officials Suspended Over Alleged Financial I (PUNE PULSE) :: Maharashtra Pollution Control Board, wait 2nd source
+2026-10-10 15:09:40   drop[team-not-named] Achraf Hakimi Returns to PSG Squad After Thigh Injury (Morocco World News) :: Paris Saint-Germain Football Club
+2026-10-10 15:09:59 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1300&order=volume24hr&ascending=false&end_date_min=2026-10-10T13%3A09%3A46Z&end_date_max=2026-11-09T13%3A09%3A46Z
+2026-10-10 15:10:33 indexed 1005 markets
+2026-10-10 15:14:27   drop[1-source] Sunderland vs Brighton: Fabian Hurzeler makes Lewis Dunk decision; Jack Hinshelwood still  (SussexWorld) :: Lewis Dunk, wait 2nd source
+2026-10-10 15:16:45   drop[no-market] Cristiano Ronaldo suspended by Portugal after Jorge Jesus fallout as federation opens inve (101 Great Goals) :: Portugal national football team
+2026-10-10 15:19:13   drop[not-key] Gasperini announces Svilar injury: "He miss at least 1 month." (RomaPress) :: Stefano Svilar: injury will keep him out at least a month
+2026-10-10 15:20:01 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 15:21:14 indexed 999 markets
+2026-10-10 15:28:18   drop[no-market] Cristiano Ronaldo provisionally suspended after Portugal walkout (RFI) :: Portugal national football team
+2026-10-10 15:31:14 indexed 990 markets
+2026-10-10 15:31:34   drop[kind] Lurgan man accused of causing grievous bodily injury through dangerous driving set for Cro (Armagh I) :: other
+2026-10-10 15:31:36 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 15:33:37   drop[kind] Rayo Vallecano v Athletic suspended after paper plane protest in Vallecas (OneFootball) :: other

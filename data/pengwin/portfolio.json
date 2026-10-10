@@ -16,7 +16,7 @@
    "reason": "pengwin approx: Fiorentina to score \u22651 goal (Over 0.5) matches lower bound of the multigol range",
    "conf": 1.0,
    "end": "2026-10-10T13:00:00+00:00",
-   "last_bid": 0.72,
+   "last_bid": 0.66,
    "book_err": false,
    "settle_retry": 1791585696.908247
   },
@@ -89,7 +89,7 @@
    "reason": "pengwin approx: Juventus to score at least 1 goal (Over 0.5) matches one leg of the combo",
    "conf": 1.0,
    "end": "2026-10-11T18:45:00+00:00",
-   "last_bid": 0.81,
+   "last_bid": 0.8,
    "book_err": false
   },
   {
@@ -107,7 +107,7 @@
    "reason": "pengwin exact: home win",
    "conf": 1.0,
    "end": "2026-10-10T11:30:00+00:00",
-   "last_bid": 0.86,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
