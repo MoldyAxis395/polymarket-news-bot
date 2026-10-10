@@ -6061,3 +6061,13 @@
 2026-10-10 13:46:29 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
 2026-10-10 13:50:36 indexed 896 markets
 2026-10-10 13:59:59 indexed 902 markets
+2026-10-10 14:04:54   drop[kind] Texas A&M, Missouri Face Major Injury Questions Ahead Of SEC Showdown (roundtable.io) :: other
+2026-10-10 14:10:36 indexed 1038 markets
+2026-10-10 14:18:18   drop[1-source] ARTO & Clerk suspended following allegations of illegal extortion (Cross Town News) :: Cross Town News, wait 2nd source
+2026-10-10 14:20:38 indexed 1029 markets
+2026-10-10 14:20:53   drop[team-not-named] 🚨 Official: Cristiano Ronaldo suspended by the Portuguese FA! (OneFootball) :: Portugal national football team
+2026-10-10 14:21:23 soccer_lineups error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 14:23:01   drop[kind] Nic Nemeth Considered Faking an Injury to Get Away From WWE (Ringside News) :: other
+2026-10-10 14:25:20   drop[kind] Real Madrid injury curse examined: Several seasons of setbacks and a possible turning poin (Madrid Universal) :: other
+2026-10-10 14:30:29 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 14:30:39 indexed 1022 markets
