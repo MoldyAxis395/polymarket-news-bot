@@ -35,7 +35,7 @@
    "reason": "pengwin approx: home O/U 2.5 Over approximates 2-5 goals",
    "conf": 1.0,
    "end": "2026-10-10T18:45:00+00:00",
-   "last_bid": 0.41,
+   "last_bid": 0.4,
    "book_err": false
   },
   {
@@ -107,7 +107,7 @@
    "reason": "pengwin exact: home win",
    "conf": 1.0,
    "end": "2026-10-10T11:30:00+00:00",
-   "last_bid": 0.68,
+   "last_bid": 0.66,
    "book_err": false
   },
   {
@@ -143,7 +143,7 @@
    "reason": "pengwin approx: Under 4.5 maps to market 13 Under",
    "conf": 1.0,
    "end": "2026-10-10T14:15:00+00:00",
-   "last_bid": 0.85,
+   "last_bid": 0.86,
    "book_err": false
   },
   {

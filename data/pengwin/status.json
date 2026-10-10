@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-10T11:26:41",
+ "updated": "2026-10-10T13:34:06",
  "start": 100.0,
  "cash": 0.0,
- "equity": 96.7,
+ "equity": 96.3,
  "open": [
   {
    "market_id": "5013279",
@@ -38,7 +38,7 @@
    "reason": "pengwin approx: home O/U 2.5 Over approximates 2-5 goals",
    "conf": 1.0,
    "end": "2026-10-10T18:45:00+00:00",
-   "last_bid": 0.41,
+   "last_bid": 0.4,
    "book_err": false
   },
   {
@@ -110,7 +110,7 @@
    "reason": "pengwin exact: home win",
    "conf": 1.0,
    "end": "2026-10-10T11:30:00+00:00",
-   "last_bid": 0.68,
+   "last_bid": 0.66,
    "book_err": false
   },
   {
@@ -146,7 +146,7 @@
    "reason": "pengwin approx: Under 4.5 maps to market 13 Under",
    "conf": 1.0,
    "end": "2026-10-10T14:15:00+00:00",
-   "last_bid": 0.85,
+   "last_bid": 0.86,
    "book_err": false
   },
   {
@@ -189,7 +189,7 @@
  "closed_count": 0,
  "realized_pnl": 0,
  "pages": {
-  "pending": 81,
+  "pending": 86,
   "picked": 0,
   "traded": 10,
   "skipped": 29,
