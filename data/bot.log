@@ -5955,3 +5955,19 @@
 2026-10-10 06:08:08   drop[kind] Suspended DSP arrested for assault, caste abuse of wife in TN (The New Indian Express) :: other
 2026-10-10 06:12:32 indexed 872 markets
 2026-10-10 06:13:04 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 06:17:26   drop[1-source] Will O’Rourke ruled out of India series, eyes Australia Test comeback (IANS LIVE) :: Will O'Rourke, wait 2nd source
+2026-10-10 06:17:27   drop[1-source] Online Property Tax Payment Suspended for Three Days (The Live Nagpur) :: Nagpur Municipal Corporation, wait 2nd source
+2026-10-10 06:19:53   drop[1-source] Wautoma football player returns for senior night 1 week after neurological injury (WLUK) :: Wautoma High School Football, wait 2nd source
+2026-10-10 06:19:55   drop[verify] Capitals rally to beat the Rangers, 3-1, after New York loses Igor Shesterkin to injury (The Washington Post) :: point 1 uncertain (player status unknown) and point 3 fails (headline is a recap)
+2026-10-10 06:22:33 indexed 872 markets
+2026-10-10 06:24:17   drop[1-source] New Zealand Star Pacer Ruled Out Of India Series As Precaution: 'Picked For Both Series Bu (News18) :: Tim Southee, wait 2nd source
+2026-10-10 06:26:35   llm groq-120b: rate limited, skip 140s
+2026-10-10 06:26:35   drop[kind] THE HONEY BADGER STRIKES: Weir Runs Wild Before Injury Scare as Brockway Rolls Past Punxsu (exploreJefferson) :: other
+2026-10-10 06:33:11 indexed 870 markets
+2026-10-10 06:33:17   drop[1-source] Binance Stock Trading Suspended on 10/10: Irony Hits Crypto Traders (Coin Gabbar) :: Binance, wait 2nd source
+2026-10-10 06:43:13 indexed 868 markets
+2026-10-10 06:44:03 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 06:45:38 NEWS [ABC27 4m] Rangers goalie Igor Shesterkin helped off ice with leg injury after awkward fall against Capitals
+2026-10-10 06:45:38   skip Canucks :: Canucks vs. Rangers (rss sport (measure only))
+2026-10-10 06:45:38   llm groq-120b: rate limited, skip 129s
+2026-10-10 06:45:40   drop[not-key] Hank Brown Injury: Unused against Washington (RotoWire) :: Hank Brown: unused
