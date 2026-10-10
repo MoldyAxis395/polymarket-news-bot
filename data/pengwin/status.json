@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-10T16:00:55",
+ "updated": "2026-10-10T16:31:36",
  "start": 100.0,
- "cash": 0.0,
- "equity": 98.99,
+ "cash": 14.29,
+ "equity": 103.06,
  "open": [
   {
    "market_id": "5013279",
@@ -19,7 +19,7 @@
    "reason": "pengwin approx: Fiorentina to score \u22651 goal (Over 0.5) matches lower bound of the multigol range",
    "conf": 1.0,
    "end": "2026-10-10T13:00:00+00:00",
-   "last_bid": 0.58,
+   "last_bid": 0.4,
    "book_err": false,
    "settle_retry": 1791585696.908247
   },
@@ -38,7 +38,7 @@
    "reason": "pengwin approx: home O/U 2.5 Over approximates 2-5 goals",
    "conf": 1.0,
    "end": "2026-10-10T18:45:00+00:00",
-   "last_bid": 0.4,
+   "last_bid": 0.39,
    "book_err": false
   },
   {
@@ -92,27 +92,8 @@
    "reason": "pengwin approx: Juventus to score at least 1 goal (Over 0.5) matches one leg of the combo",
    "conf": 1.0,
    "end": "2026-10-11T18:45:00+00:00",
-   "last_bid": 0.8,
+   "last_bid": 0.79,
    "book_err": false
-  },
-  {
-   "market_id": "5009005",
-   "question": "Will Arsenal FC win on 2026-10-10?",
-   "slug": "epl-ars-lee-2026-10-10-ars",
-   "outcome": "Yes",
-   "token": "15328071393183042384698581273750652653989425198085030465882744379857544320805",
-   "shares": 14.285714285714286,
-   "entry": 0.7,
-   "cost": 10.0,
-   "opened": 1791583092.8105254,
-   "opened_iso": "2026-10-09T21:58:12+00:00",
-   "news": "ARSENAL-LEEDS UNITED: 1 fisso @1.40 (esatto)",
-   "reason": "pengwin exact: home win",
-   "conf": 1.0,
-   "end": "2026-10-10T11:30:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1791640962.6929367
   },
   {
    "market_id": "5013270",
@@ -129,7 +110,7 @@
    "reason": "pengwin exact: Tipster calls it a 'gara da GOAL', i.e., both teams to score",
    "conf": 1.0,
    "end": "2026-10-10T14:00:00+00:00",
-   "last_bid": 0.62,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -147,7 +128,7 @@
    "reason": "pengwin approx: Under 4.5 maps to market 13 Under",
    "conf": 1.0,
    "end": "2026-10-10T14:15:00+00:00",
-   "last_bid": 0.87,
+   "last_bid": 0.92,
    "book_err": false
   },
   {
@@ -187,8 +168,8 @@
    "book_err": false
   }
  ],
- "closed_count": 0,
- "realized_pnl": 0,
+ "closed_count": 1,
+ "realized_pnl": 4.29,
  "pages": {
   "pending": 86,
   "picked": 0,
