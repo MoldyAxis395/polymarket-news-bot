@@ -1,28 +1,9 @@
 {
- "updated": "2026-10-10T22:47:09",
+ "updated": "2026-10-10T23:18:09",
  "start": 100.0,
- "cash": 54.57,
- "equity": 116.52,
+ "cash": 77.82,
+ "equity": 116.66,
  "open": [
-  {
-   "market_id": "5012784",
-   "question": "SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.5",
-   "slug": "sea-nap-fro-2026-10-10-team-total-home-2pt5",
-   "outcome": "Over",
-   "token": "89804222844072745218054326513718330179870887138021540219872653561981601638704",
-   "shares": 23.25581395348837,
-   "entry": 0.43000000000000005,
-   "cost": 10.0,
-   "opened": 1791583044.3567863,
-   "opened_iso": "2026-10-09T21:57:24+00:00",
-   "news": "NAPOLI-FROSINONE: MULTIGOL 2-5 CASA (approssimato)",
-   "reason": "pengwin approx: home O/U 2.5 Over approximates 2-5 goals",
-   "conf": 1.0,
-   "end": "2026-10-10T18:45:00+00:00",
-   "last_bid": 0.994,
-   "book_err": false,
-   "settle_retry": 1791665140.085466
-  },
   {
    "market_id": "5057077",
    "question": "Will Como 1907 vs. AS Roma end in a draw?",
@@ -96,8 +77,8 @@
    "book_err": false
   }
  ],
- "closed_count": 5,
- "realized_pnl": 4.57,
+ "closed_count": 6,
+ "realized_pnl": 17.82,
  "pages": {
   "pending": 86,
   "picked": 0,

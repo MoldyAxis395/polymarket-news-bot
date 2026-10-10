@@ -6262,3 +6262,15 @@
 2026-10-10 22:47:54   drop[no-pick] Za'Darius Smith (DE, Atlanta Falcons) ruled out: Questionable -> Out [NFL] (ESPN) :: no suitable market
 2026-10-10 22:48:34 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-10 22:49:16   drop[1-source] Penn Football Survives Quarterback Injury in Fourth Quarter Comeback (Philadelphia Sports Now) :: Penn State Nittany Lions, wait 2nd source
+2026-10-10 22:51:57 NEWS [ESPN 0m] Mykel Williams (DE, San Francisco 49ers) cleared to play: Out -> Active [NFL]
+2026-10-10 22:51:57   skip 49ers :: 49ers vs. Seahawks (low conf 0.62)
+2026-10-10 22:53:53   drop[team-not-named] Collin Sexton dealing with a lower leg injury (HoopsHype) :: Utah Jazz
+2026-10-10 22:56:53 indexed 986 markets
+2026-10-10 22:56:58   llm groq-120b: rate limited, skip 29s
+2026-10-10 22:56:58   drop[team-not-named] Saturday Night Injury Watch: Week 5 Skill Players (Footballguys) :: Kansas City Chiefs
+2026-10-10 22:58:53 [pengwin]   book error SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=89804222844072745218054326513718330179870887138021540219872653561981601638704
+2026-10-10 23:01:34   drop[1-source] Cardinals Roster Moves Send Clear Message on Walter Nolen’s Injury (Sports Illustrated) :: Walter Nolen, wait 2nd source
+2026-10-10 23:06:54 indexed 991 markets
+2026-10-10 23:09:02 [pengwin]   SELL Over @ 1.000 (resolved) pnl +13.26 :: SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.5
+2026-10-10 23:16:54 indexed 979 markets
+2026-10-10 23:19:34 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)

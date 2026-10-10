@@ -1,25 +1,6 @@
 {
- "cash": 54.567227265443286,
+ "cash": 77.82304121893165,
  "positions": [
-  {
-   "market_id": "5012784",
-   "question": "SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.5",
-   "slug": "sea-nap-fro-2026-10-10-team-total-home-2pt5",
-   "outcome": "Over",
-   "token": "89804222844072745218054326513718330179870887138021540219872653561981601638704",
-   "shares": 23.25581395348837,
-   "entry": 0.43000000000000005,
-   "cost": 10.0,
-   "opened": 1791583044.3567863,
-   "opened_iso": "2026-10-09T21:57:24+00:00",
-   "news": "NAPOLI-FROSINONE: MULTIGOL 2-5 CASA (approssimato)",
-   "reason": "pengwin approx: home O/U 2.5 Over approximates 2-5 goals",
-   "conf": 1.0,
-   "end": "2026-10-10T18:45:00+00:00",
-   "last_bid": 0.994,
-   "book_err": false,
-   "settle_retry": 1791665140.085466
-  },
   {
    "market_id": "5057077",
    "question": "Will Como 1907 vs. AS Roma end in a draw?",
@@ -208,6 +189,29 @@
    "pnl": -10.0,
    "why": "resolved",
    "closed_iso": "2026-10-10T19:28:37+00:00"
+  },
+  {
+   "market_id": "5012784",
+   "question": "SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.5",
+   "slug": "sea-nap-fro-2026-10-10-team-total-home-2pt5",
+   "outcome": "Over",
+   "token": "89804222844072745218054326513718330179870887138021540219872653561981601638704",
+   "shares": 23.25581395348837,
+   "entry": 0.43000000000000005,
+   "cost": 10.0,
+   "opened": 1791583044.3567863,
+   "opened_iso": "2026-10-09T21:57:24+00:00",
+   "news": "NAPOLI-FROSINONE: MULTIGOL 2-5 CASA (approssimato)",
+   "reason": "pengwin approx: home O/U 2.5 Over approximates 2-5 goals",
+   "conf": 1.0,
+   "end": "2026-10-10T18:45:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1791667142.0602503,
+   "exit": 1.0,
+   "pnl": 13.25581395348837,
+   "why": "resolved",
+   "closed_iso": "2026-10-10T21:09:02+00:00"
   }
  ],
  "cooldown": {
@@ -215,6 +219,7 @@
   "5013279": 1791657423.9379785,
   "5013270": 1791663436.1595876,
   "5016496": 1791663437.1294613,
-  "5016358": 1791671317.6366687
+  "5016358": 1791671317.6366687,
+  "5012784": 1791677342.8081746
  }
 }

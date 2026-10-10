@@ -14,3 +14,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-10T17:17:15+00:00,SELL,Aston Villa FC vs. Brentford FC: Both Teams to Score,Yes,16.13,1.0000,16.13,+6.13,resolved
 2026-10-10T17:17:16+00:00,SELL,Deportivo Alavés vs. Club Atlético de Madrid: O/U 4.5,Under,11.49,1.0000,11.49,+1.49,resolved
 2026-10-10T19:28:37+00:00,SELL,FC Barcelona vs. Getafe CF: O/U 2.5,Under,41.67,0.0000,0.00,-10.00,resolved
+2026-10-10T21:09:02+00:00,SELL,SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.5,Over,23.26,1.0000,23.26,+13.26,resolved
