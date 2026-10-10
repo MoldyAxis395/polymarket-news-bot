@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-10T22:16:51",
+ "updated": "2026-10-10T22:47:09",
  "start": 100.0,
  "cash": 54.57,
- "equity": 100.5,
+ "equity": 116.52,
  "open": [
   {
    "market_id": "5012784",
@@ -19,9 +19,9 @@
    "reason": "pengwin approx: home O/U 2.5 Over approximates 2-5 goals",
    "conf": 1.0,
    "end": "2026-10-10T18:45:00+00:00",
-   "last_bid": 0.31,
+   "last_bid": 0.994,
    "book_err": false,
-   "settle_retry": 1791660102.4496946
+   "settle_retry": 1791665140.085466
   },
   {
    "market_id": "5057077",
@@ -74,7 +74,7 @@
    "reason": "pengwin approx: Juventus to score at least 1 goal (Over 0.5) matches one leg of the combo",
    "conf": 1.0,
    "end": "2026-10-11T18:45:00+00:00",
-   "last_bid": 0.82,
+   "last_bid": 0.83,
    "book_err": false
   },
   {

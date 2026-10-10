@@ -6242,3 +6242,23 @@
 2026-10-10 22:17:50   drop[not-key] Tim Patrick (WR, New York Jets) cleared to play: Injured Reserve -> Active [NFL] (ESPN) :: Tim Patrick: cleared from injured reserve to active roster
 2026-10-10 22:18:16 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-10 22:19:15   drop[not-key] Chiefs WR Tyquan Thornton's Injury Leads NFL to Controversial Call on Discipline for Raide (heavy.com) :: Tyquan Thornton: injury
+2026-10-10 22:24:06   drop[kind] With Ashton Jeanty questionable because of foot and ankle injuries, the Raiders elevated R (Ian Rapoport) :: other
+2026-10-10 22:24:38 NEWS [Ian Rapoport 0m] The Commanders activated DE Deatrich Wise Jr. off PUP and elevated S Darren Hall and WR Van Jefferson from the practice squad. In addition, CB Trey Amos (ankle) and RB Jeremy McNichols (quad) are out.
+2026-10-10 22:24:38   skip Commanders :: Giants vs. Commanders (low conf 0.62)
+2026-10-10 22:25:12   drop[verify] The Patriots activated S Brenden Schooler to the 53-man roster and placed FB Reggie Gillia (Ian Rapoport) :: key players (Gilliam, Hollins) are depth, unlikely to move market >5 points
+2026-10-10 22:26:18 indexed 1003 markets
+2026-10-10 22:26:31   drop[kind] Oktoberfest Suspended For The Day (WHKY) :: other
+2026-10-10 22:28:42   drop[1-source] Maracanã order suspended for Vasco v Boca, concession cites Nilton Santos and pitch risks (OneFootball) :: Vasco da Gama, wait 2nd source
+2026-10-10 22:33:29 NEWS [ESPN 14m] Myles Garrett (DE, Los Angeles Rams) ruled out: healthy -> Injured Reserve [NFL]
+2026-10-10 22:33:29   skip Bills :: Bills vs. Rams (low conf 0.6)
+2026-10-10 22:36:00 [pengwin]   settle error SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 22:36:19 indexed 998 markets
+2026-10-10 22:36:33   drop[verify] Trey Lance (QB, Los Angeles Chargers) ruled out: Doubtful -> Injured Reserve [NFL] (ESPN) :: player status uncertain
+2026-10-10 22:40:37 NEWS [ESPN 14m] Deatrich Wise Jr. (DE, Washington Commanders) cleared to play: Out -> Active [NFL]
+2026-10-10 22:40:37   skip Commanders :: Giants vs. Commanders (low conf 0.62)
+2026-10-10 22:46:51 indexed 993 markets
+2026-10-10 22:46:57   drop[kind] Giants ‘didn’t flinch’ after emotional injury wounds that threatened to upend season (New York Post) :: other
+2026-10-10 22:47:54   llm groq-120b: rate limited, skip 150s
+2026-10-10 22:47:54   drop[no-pick] Za'Darius Smith (DE, Atlanta Falcons) ruled out: Questionable -> Out [NFL] (ESPN) :: no suitable market
+2026-10-10 22:48:34 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 22:49:16   drop[1-source] Penn Football Survives Quarterback Injury in Fourth Quarter Comeback (Philadelphia Sports Now) :: Penn State Nittany Lions, wait 2nd source
