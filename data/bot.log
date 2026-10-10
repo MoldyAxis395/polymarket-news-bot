@@ -6191,3 +6191,15 @@
 2026-10-10 19:40:00   drop[no-market] Ronaldo provisionally suspended by Portuguese FA (BBC) :: Portugal national football team
 2026-10-10 19:45:08 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-10 19:46:28 indexed 994 markets
+2026-10-10 19:50:38   drop[kind] India's Infosys does not expect material impact from US PERM suspension reut.rs/4eq0yuZ (Reuters) :: other
+2026-10-10 19:51:33   drop[not-key] Samuel Honzek (LW, Calgary Flames) ruled out: healthy -> Out [NHL] (ESPN) :: Samuel Honzek: injury
+2026-10-10 19:55:57 indexed 994 markets
+2026-10-10 19:58:49 bluesky error x1: HTTPSConnectionPool(host='public.api.bsky.app', port=443): Read timed out. (read timeout=15)
+2026-10-10 20:05:59 indexed 976 markets
+2026-10-10 20:09:37   drop[kind] Cleared Miner (COL) on waivers (Elliotte Friedman) :: other
+2026-10-10 20:14:33   drop[verify] Ed Oliver (DT, Buffalo Bills) ruled out: Questionable -> Out [NFL] (ESPN) :: player not on team and not impactful
+2026-10-10 20:14:35   drop[verify] Joshua Palmer (WR, Buffalo Bills) ruled out: Questionable -> Out [NFL] (ESPN) :: Palmer isn’t on the Bills roster in 2026, so the premise fails
+2026-10-10 20:14:35   drop[not-key] Bryce Oliver (WR, Houston Texans) ruled out: Active -> Out [NFL] (ESPN) :: Bryce Oliver: injury
+2026-10-10 20:16:00 indexed 979 markets
+2026-10-10 20:16:50 NEWS [BBC 1m] Bayern strike late to avoid shock defeat at Augsburg
+2026-10-10 20:16:50   skip No :: Will FC Bayern München win on 2026-10-17? (low conf 0.6)
