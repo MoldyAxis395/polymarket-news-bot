@@ -1,25 +1,6 @@
 {
- "cash": 14.285714285714286,
+ "cash": 26.943942133815554,
  "positions": [
-  {
-   "market_id": "5013279",
-   "question": "Genoa CFC vs. ACF Fiorentina: ACF Fiorentina O/U 0.5",
-   "slug": "sea-gen-fio-2026-10-10-team-total-away-0pt5",
-   "outcome": "Over",
-   "token": "42599692332006448617660443314678016308105713128977993927791677308206423861142",
-   "shares": 12.658227848101266,
-   "entry": 0.79,
-   "cost": 10.0,
-   "opened": 1791583033.7177453,
-   "opened_iso": "2026-10-09T21:57:13+00:00",
-   "news": "GENOA-FIORENTINA: MG 1-3 OSPITE (approssimato)",
-   "reason": "pengwin approx: Fiorentina to score \u22651 goal (Over 0.5) matches lower bound of the multigol range",
-   "conf": 1.0,
-   "end": "2026-10-10T13:00:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1791646592.0134423
-  },
   {
    "market_id": "5012784",
    "question": "SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.5",
@@ -125,7 +106,7 @@
    "reason": "pengwin approx: Under 4.5 maps to market 13 Under",
    "conf": 1.0,
    "end": "2026-10-10T14:15:00+00:00",
-   "last_bid": 0.866,
+   "last_bid": 0.983,
    "book_err": false
   },
   {
@@ -143,7 +124,7 @@
    "reason": "pengwin exact: full\u2011match under 2.5",
    "conf": 1.0,
    "end": "2026-10-10T16:30:00+00:00",
-   "last_bid": 0.23,
+   "last_bid": 0.24,
    "book_err": false
   },
   {
@@ -188,9 +169,33 @@
    "pnl": 4.2857142857142865,
    "why": "resolved",
    "closed_iso": "2026-10-10T14:04:58+00:00"
+  },
+  {
+   "market_id": "5013279",
+   "question": "Genoa CFC vs. ACF Fiorentina: ACF Fiorentina O/U 0.5",
+   "slug": "sea-gen-fio-2026-10-10-team-total-away-0pt5",
+   "outcome": "Over",
+   "token": "42599692332006448617660443314678016308105713128977993927791677308206423861142",
+   "shares": 12.658227848101266,
+   "entry": 0.79,
+   "cost": 10.0,
+   "opened": 1791583033.7177453,
+   "opened_iso": "2026-10-09T21:57:13+00:00",
+   "news": "GENOA-FIORENTINA: MG 1-3 OSPITE (approssimato)",
+   "reason": "pengwin approx: Fiorentina to score \u22651 goal (Over 0.5) matches lower bound of the multigol range",
+   "conf": 1.0,
+   "end": "2026-10-10T13:00:00+00:00",
+   "last_bid": null,
+   "book_err": false,
+   "settle_retry": 1791647223.042655,
+   "exit": 1.0,
+   "pnl": 2.6582278481012658,
+   "why": "resolved",
+   "closed_iso": "2026-10-10T15:37:03+00:00"
   }
  ],
  "cooldown": {
-  "5009005": 1791651898.9464061
+  "5009005": 1791651898.9464061,
+  "5013279": 1791657423.9379785
  }
 }

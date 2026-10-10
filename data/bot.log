@@ -6143,3 +6143,16 @@
 2026-10-10 17:29:08   skip Lions :: Lions vs. Cardinals (low conf 0.6)
 2026-10-10 17:30:57 indexed 956 markets
 2026-10-10 17:34:27 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 17:34:51   drop[1-source] Florida pregame availability report: Vernell Brown III ruled out Saturday vs South Carolin (247Sports) :: Vernell Brown III, wait 2nd source
+2026-10-10 17:37:03 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.66 :: Genoa CFC vs. ACF Fiorentina: ACF Fiorentina O/U 0.5
+2026-10-10 17:40:46 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 17:41:12 indexed 955 markets
+2026-10-10 17:42:02   drop[team-not-named] Cristiano Ronaldo Provisionally Suspended as Portuguese FA Opens Disciplinary Proceedings (Africa Top Sports) :: Portugal national football team
+2026-10-10 17:46:51 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 17:49:34   drop[not-key] Florian Xhekaj (LW, Montreal Canadiens) ruled out: healthy -> Out [NHL] (ESPN) :: Florian Xhekaj: ruled out due to injury
+2026-10-10 17:51:47 indexed 967 markets
+2026-10-10 17:56:33   drop[team-not-named] Chaos at Vallecas, Rayo-Athletic suspended: the protest against the president with paper a (Goal.com) :: Rayo Athletic
+2026-10-10 17:58:44   drop[1-source] 15 Miami Carol City players suspended, team banned from postseason play after brawl (WSVN) :: Miami Carol City High School football team, wait 2nd source
+2026-10-10 18:01:50 indexed 981 markets
+2026-10-10 18:01:52   drop[not-key] Darius Slayton (WR, Indianapolis Colts) ruled out: Questionable -> Out [NFL] (ESPN) :: Darius Slayton: knee issue
+2026-10-10 18:01:56   drop[kind] Sunderland face injury doubts over Brobbey and Ballard (SSBCrack) :: other
