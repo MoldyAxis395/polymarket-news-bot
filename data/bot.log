@@ -6298,3 +6298,11 @@
 2026-10-11 00:12:43   drop[kind] Fashion designer Bob Mackie suffered head injury days before death at 87 (New York Daily News) :: other
 2026-10-11 00:17:05 indexed 978 markets
 2026-10-11 00:17:25 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-11 00:27:07 indexed 976 markets
+2026-10-11 00:30:12   drop[not-key] Mavrik Bourque (C, Nashville Predators) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Mavrik Bourque: injury ruled him out
+2026-10-11 00:34:07   drop[kind] popular weight loss drug sued for severe injury (Olhar Digital) :: other
+2026-10-11 00:36:32 indexed 987 markets
+2026-10-11 00:36:34   drop[not-key] Michael Carcone (LW, Utah Mammoth) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Michael Carcone: ruled out due to injury
+2026-10-11 00:43:34   drop[1-source] Jaylen Brown ruled out for first game in Boston since trade (HoopsHype) :: Jaylen Brown, wait 2nd source
+2026-10-11 00:46:31 indexed 993 markets
+2026-10-11 00:48:12   drop[1-source] Pacers star Tyrese Haliburton out with ankle injury for Saturday’s preseason game (WISH-TV) :: Tyrese Haliburton, wait 2nd source
