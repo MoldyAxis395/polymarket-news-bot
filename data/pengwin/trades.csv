@@ -11,4 +11,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-09T21:59:13+00:00,BUY,Real Betis Balompié vs. CA Osasuna: O/U 1.5,Over,12.66,0.7900,10.00,,"Betis-Osasuna: OVER 1.5 (approssimato) | pengwin approx: combo 1X+Over 1.5, pick Over 1.5 leg"
 2026-10-10T14:04:58+00:00,SELL,Will Arsenal FC win on 2026-10-10?,Yes,14.29,1.0000,14.29,+4.29,resolved
 2026-10-10T15:37:03+00:00,SELL,Genoa CFC vs. ACF Fiorentina: ACF Fiorentina O/U 0.5,Over,12.66,1.0000,12.66,+2.66,resolved
-2026-10-10T16:55:23+00:00,SELL,Deportivo Alavés vs. Club Atlético de Madrid: O/U 4.5,Under,11.49,1.0000,11.49,+1.49,resolved
+2026-10-10T17:17:15+00:00,SELL,Aston Villa FC vs. Brentford FC: Both Teams to Score,Yes,16.13,1.0000,16.13,+6.13,resolved
+2026-10-10T17:17:16+00:00,SELL,Deportivo Alavés vs. Club Atlético de Madrid: O/U 4.5,Under,11.49,1.0000,11.49,+1.49,resolved

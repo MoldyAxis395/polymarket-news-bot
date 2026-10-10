@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-10T19:14:01",
+ "updated": "2026-10-10T19:19:19",
  "start": 100.0,
- "cash": 38.44,
- "equity": 99.1,
+ "cash": 54.57,
+ "equity": 106.06,
  "open": [
   {
    "market_id": "5012784",
@@ -77,25 +77,6 @@
    "book_err": false
   },
   {
-   "market_id": "5013270",
-   "question": "Aston Villa FC vs. Brentford FC: Both Teams to Score",
-   "slug": "epl-ast-bre-2026-10-10-btts",
-   "outcome": "Yes",
-   "token": "33244970013462140258721194272952115740184827666479528239887763993157889622661",
-   "shares": 16.129032258064516,
-   "entry": 0.62,
-   "cost": 10.0,
-   "opened": 1791583097.7462215,
-   "opened_iso": "2026-10-09T21:58:17+00:00",
-   "news": "ASTON VILLA-BRENTFORD: GG (Both Teams to Score) @1.60 (esatto)",
-   "reason": "pengwin exact: Tipster calls it a 'gara da GOAL', i.e., both teams to score",
-   "conf": 1.0,
-   "end": "2026-10-10T14:00:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1791652776.7428706
-  },
-  {
    "market_id": "5016358",
    "question": "FC Barcelona vs. Getafe CF: O/U 2.5",
    "slug": "lal-bar-get-2026-10-10-total-2pt5",
@@ -110,7 +91,7 @@
    "reason": "pengwin exact: full\u2011match under 2.5",
    "conf": 1.0,
    "end": "2026-10-10T16:30:00+00:00",
-   "last_bid": 0.08,
+   "last_bid": 0.1,
    "book_err": false
   },
   {
@@ -132,8 +113,8 @@
    "book_err": false
   }
  ],
- "closed_count": 3,
- "realized_pnl": 8.44,
+ "closed_count": 4,
+ "realized_pnl": 14.57,
  "pages": {
   "pending": 86,
   "picked": 0,

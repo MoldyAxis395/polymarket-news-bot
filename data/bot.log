@@ -6156,39 +6156,23 @@
 2026-10-10 18:01:50 indexed 981 markets
 2026-10-10 18:01:52   drop[not-key] Darius Slayton (WR, Indianapolis Colts) ruled out: Questionable -> Out [NFL] (ESPN) :: Darius Slayton: knee issue
 2026-10-10 18:01:56   drop[kind] Sunderland face injury doubts over Brobbey and Ballard (SSBCrack) :: other
-2026-10-10 18:05:55   drop[kind] Several injured as Saudi capital airport reportedly hit again (BBC) :: other
-2026-10-10 18:11:13 indexed 986 markets
-2026-10-10 18:13:35   drop[not-key] Blues' Dillon Dube Out Eight Weeks With A Neck Injury (The Hockey News) :: Dillon Dube: neck injury sidelines him for eight weeks
-2026-10-10 18:21:53 indexed 980 markets
-2026-10-10 18:27:18   drop[1-source] Cristiano Ronaldo provisionally suspended by Portuguese Football Federation amid disciplin (Sports Tiger) :: Cristiano Ronaldo, wait 2nd source
-2026-10-10 18:31:58 indexed 972 markets
-2026-10-10 18:32:18   drop[team-not-named] Piero Hincapie suffers ankle injury during warm-down session after win vs Leeds United (ArsenalNews.co.uk) :: Arsenal
-2026-10-10 18:32:19   drop[kind] US murderer Christa Pike discharged from hospital 10 days after failed execution (BBC) :: other
-2026-10-10 18:34:21   drop[kind] Vermont Man Says American Express Suspended All 6 of His Credit Cards Days Before Internat (The Nerd Stash) :: other
-2026-10-10 18:34:21   drop[1-source] Arsenal injury blow as star carried off pitch during warm-down after Leeds win (The Irish Sun) :: Arsenal FC, wait 2nd source
-2026-10-10 18:35:20 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-10 18:36:39   drop[team-not-named] Really bad news: Igor Shesterkin is out for the year (Elliotte Friedman) :: New York Rangers
-2026-10-10 18:41:53 indexed 969 markets
-2026-10-10 18:42:06   drop[kind] 'Blood clots developed after Moderna shot…': Witness makes explosive COVID vaccine injury  (The Economic Times) :: other
-2026-10-10 18:45:10 [pengwin]   book error Deportivo Alavés vs. Club Atlético de Madrid: O/U : 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=96458128150202899174912829154619691820837606133845421553732735785453692189366
-2026-10-10 18:48:52   drop[kind] SLCo SAR rescues China Wall hiker with leg injury (Gephardt Daily) :: other
-2026-10-10 18:48:52   drop[1-source] Riyadh airport operations suspended after attack causes injuries (Dubai Eye 103.8) :: Riyadh Airport, wait 2nd source
-2026-10-10 18:50:02   drop[verify] Cam York (D, Philadelphia Flyers) ruled out: healthy -> Out [NHL] (ESPN) :: Cam York may not be on the Flyers roster or is a depth player; his absence likely won’t shift the market 5+ points
-2026-10-10 18:51:19 indexed 966 markets
-2026-10-10 18:55:23 [pengwin]   SELL Under @ 1.000 (resolved) pnl +1.49 :: Deportivo Alavés vs. Club Atlético de Madrid: O/U 4.5
-2026-10-10 18:55:58   drop[1-source] Rangers Get Worst Possible News on Shesterkin Injury (Heavy.com) :: Igor Shesterkin, wait 2nd source
-2026-10-10 18:55:59   drop[team-not-named] Wilson Isidor kept quiet as Brian Brobbey injury leaves Sunderland striker light (Peterborough Matters) :: Tottenham Hotspur
-2026-10-10 18:57:39   drop[kind] Several injured in attack on airport in Saudi capital Riyadh (BBC) :: other
-2026-10-10 19:00:27 NEWS [ESPN 6m] Igor Shesterkin (G, New York Rangers) ruled out: Day-To-Day -> Out [NHL]
-2026-10-10 19:00:27   skip Canucks :: Canucks vs. Rangers (illiquid)
-2026-10-10 19:00:51   drop[kind] Man seriously injured by tiger after entering enclosure at British zoo reut.rs/3UlYTQm (Reuters) :: other
-2026-10-10 19:01:23 indexed 975 markets
-2026-10-10 19:05:17 NEWS [ASHARQ AL-AWSAT English 4m] GACA: Operations at Riyadh Airport Suspended after Attack
-2026-10-10 19:05:17   skip Yes :: Will Riyadh airport be closed by October 31? (low conf 0.62)
-2026-10-10 19:05:30   drop[not-key] Rasmus Ristolainen (D, Philadelphia Flyers) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: Rasmus Ristolainen: injured
-2026-10-10 19:05:59 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-10 19:09:56 [pengwin]   settle error Aston Villa FC vs. Brentford FC: Both Teams to Sco: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
-2026-10-10 19:11:25 indexed 983 markets
-2026-10-10 19:12:16 NEWS [RealGM 4m] Rangers' Igor Shesterkin Out For Year With Knee Injury
-2026-10-10 19:12:16   skip Canucks :: Canucks vs. Rangers (rss sport (measure only))
-2026-10-10 19:14:23 shift over, state saved
+2026-10-10 19:14:42 === start mode=paper pid=2342 ===
+2026-10-10 19:14:42 brain=llm cash=84.56 open=0
+2026-10-10 19:14:42 resuming with 5564 known news items
+2026-10-10 19:15:05 indexed 980 markets
+2026-10-10 19:15:15 feed gnews_top error x1: 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en
+2026-10-10 19:15:21 feed gnews_sport error x1: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en
+2026-10-10 19:15:30 feed gnews_world error x1: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en
+2026-10-10 19:15:36 feed gnews_business error x1: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en
+2026-10-10 19:15:46 feed gnews_reuters error x1: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=when:1h+source:reuters&hl=en-US&gl=US&ceid=US:en
+2026-10-10 19:15:54 feed gnews_injury error x1: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=when:1h+(injury+OR+%22ruled+out%22+OR+suspended)&hl=en-US&gl=US&ceid=US:en
+2026-10-10 19:16:09 NEWS [ESPN 15m] Igor Shesterkin (G, New York Rangers) ruled out: Day-To-Day -> Out [NHL]
+2026-10-10 19:16:09   skip Canucks :: Canucks vs. Rangers (illiquid)
+2026-10-10 19:16:11   drop[verify] Rasmus Ristolainen (D, Philadelphia Flyers) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: Ristolainen isn't a star; unlikely to shift market 5+ points
+2026-10-10 19:16:13 NEWS [ESPN 41m] Cam York (D, Philadelphia Flyers) ruled out: healthy -> Out [NHL]
+2026-10-10 19:16:13   skip Hurricanes :: Hurricanes vs. Flyers (low conf 0.6)
+2026-10-10 19:16:13   drop[team-not-named] Really bad news: Igor Shesterkin is out for the year (Elliotte Friedman) :: New York Rangers
+2026-10-10 19:16:14   drop[kind] Man seriously injured by tiger after entering enclosure at British zoo reut.rs/3UlYTQm (Reuters) :: other
+2026-10-10 19:17:15 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +6.13 :: Aston Villa FC vs. Brentford FC: Both Teams to Score
+2026-10-10 19:17:16 [pengwin]   book error Deportivo Alavés vs. Club Atlético de Madrid: O/U : 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=96458128150202899174912829154619691820837606133845421553732735785453692189366
+2026-10-10 19:17:16 [pengwin]   SELL Under @ 1.000 (resolved) pnl +1.49 :: Deportivo Alavés vs. Club Atlético de Madrid: O/U 4.5
