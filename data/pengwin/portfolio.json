@@ -106,7 +106,7 @@
    "reason": "pengwin approx: Under 4.5 maps to market 13 Under",
    "conf": 1.0,
    "end": "2026-10-10T14:15:00+00:00",
-   "last_bid": 0.983,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -124,7 +124,7 @@
    "reason": "pengwin exact: full\u2011match under 2.5",
    "conf": 1.0,
    "end": "2026-10-10T16:30:00+00:00",
-   "last_bid": 0.24,
+   "last_bid": 0.23,
    "book_err": false
   },
   {
