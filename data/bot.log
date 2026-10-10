@@ -5949,3 +5949,9 @@
 2026-10-10 05:42:37   llm groq-120b: rate limited, skip 20s
 2026-10-10 05:42:38 NEWS [ESPN 0m] Charlie McAvoy (D, Boston Bruins) ruled out: healthy -> Suspension [NHL]
 2026-10-10 05:42:38   skip Flyers :: Flyers vs. Bruins (illiquid)
+2026-10-10 05:49:43   drop[1-source] Washington quarterback Demond Williams exits Iowa clash with shoulder injury (ClutchPoints) :: Demond Williams, wait 2nd source
+2026-10-10 05:52:32 indexed 893 markets
+2026-10-10 06:02:35 indexed 876 markets
+2026-10-10 06:08:08   drop[kind] Suspended DSP arrested for assault, caste abuse of wife in TN (The New Indian Express) :: other
+2026-10-10 06:12:32 indexed 872 markets
+2026-10-10 06:13:04 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
