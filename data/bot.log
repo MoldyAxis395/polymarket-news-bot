@@ -5899,3 +5899,15 @@
 2026-10-10 03:28:12 indexed 889 markets
 2026-10-10 03:31:20 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-10 03:31:24   drop[kind] Texas DL Justus Terry again questionable, Oklahoma LG Eddy Pierre-Louis downgraded on Frid (247Sports) :: other
+2026-10-10 03:37:34 indexed 887 markets
+2026-10-10 03:48:14 indexed 899 markets
+2026-10-10 03:48:21 NEWS [Sports Illustrated 2m] NY Rangers' Winning Streak Snapped by Capitals Following Igor Shesterkin Injury
+2026-10-10 03:48:21   skip Canucks :: Canucks vs. Rangers (rss sport (measure only))
+2026-10-10 03:50:36   drop[kind] UNC Injury Report: Two Starters Doubtful, Two More Questionable vs. Pitt (247Sports) :: other
+2026-10-10 03:50:36   drop[kind] Raccoon Eyes with No Injury Were a 60-Year-Old Woman's Only Clue to a Rare Blood Protein D (Medical Daily) :: other
+2026-10-10 03:53:03   drop[1-source] Tamil Nadu: Pay hike for ration shop staff ruled out (DT Next) :: Tamil Nadu government / Tamil Nadu ration shop staff, wait 2nd source
+2026-10-10 03:55:13   drop[1-source] 49ers finally get good news as key defender returns after devastating injury (Sporting News) :: Nick Bosa, wait 2nd source
+2026-10-10 03:57:43 indexed 903 markets
+2026-10-10 03:57:47   llm groq-120b: rate limited, skip 210s
+2026-10-10 03:57:48   drop[no-pick] Capitals prevail after Rangers lose G Igor Shesterkin to injury (Big News Network.com) :: short
+2026-10-10 04:00:06   drop[kind] Rangers Get Frightening Shesterkin Injury Possibility, Expert Says (Heavy.com) :: other
