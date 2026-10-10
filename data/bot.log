@@ -6263,3 +6263,14 @@
 2026-10-11 01:00:52   llm groq-20b: rate limited, skip 5s
 2026-10-11 01:02:31 [pengwin]   book error SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=89804222844072745218054326513718330179870887138021540219872653561981601638704
 2026-10-11 01:02:31 [pengwin]   SELL Over @ 1.000 (resolved) pnl +13.26 :: SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.5
+2026-10-11 01:06:18   drop[1-source] Rangers' goalie crisis: Three options to back up Dylan Garand following Igor Shesterkin's  (SNY) :: Igor Shesterkin, wait 2nd source
+2026-10-11 01:06:36   llm groq-120b: rate limited, skip 50s
+2026-10-11 01:06:36   drop[side] Trevor van Riemsdyk (D, Pittsburgh Penguins) ruled out: healthy -> Out [NHL] (ESPN) :: Stars vs. Penguins -> Penguins vs fact ruled_out: Trevor van Riemsdyk (Pittsburgh Penguins, nhl), bad for Pittsburgh Pen
+2026-10-11 01:08:38   llm groq-120b: rate limited, skip 204s
+2026-10-11 01:08:39   drop[verify] Cameron Crotty (D, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Crotty is depth, not star, insufficient impact
+2026-10-11 01:08:39   drop[no-pick] Jake Sanderson (D, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: no suitable outcome to rise
+2026-10-11 01:10:56 indexed 998 markets
+2026-10-11 01:13:21   drop[team-not-named] Domantas Sabonis Injury: Won't play Saturday (RotoWire) :: Sacramento Kings
+2026-10-11 01:20:21 indexed 999 markets
+2026-10-11 01:30:59 indexed 992 markets
+2026-10-11 01:31:16 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
