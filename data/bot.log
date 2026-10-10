@@ -6044,3 +6044,7 @@
 2026-10-10 11:05:57   drop[verify] News | Raphinha ruled out of Barcelona fixtures against Getafe and Galatasaray (Vodacom Soccer) :: uncertain if Raphinha still at Barcelona, impact on market unclear, and relevance to the specific date match is not conf
 2026-10-10 11:05:58   drop[kind] EC-SIR row protest escalates: Internet suspended, 1,500+ detained; AISA Chief Neha Bora ar (Zee News) :: other
 2026-10-10 11:13:29 indexed 903 markets
+2026-10-10 11:20:40 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 11:22:59 indexed 898 markets
+2026-10-10 11:25:24   drop[not-key] Inglis to rejoin Australia Test squad after finger injury (Cricinfo) :: Cameron Inglis: Inglis is back in the squad after recovering from a finger injury
+2026-10-10 11:27:04 shift over, state saved
