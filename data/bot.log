@@ -6242,70 +6242,24 @@
 2026-10-10 22:17:50   drop[not-key] Tim Patrick (WR, New York Jets) cleared to play: Injured Reserve -> Active [NFL] (ESPN) :: Tim Patrick: cleared from injured reserve to active roster
 2026-10-10 22:18:16 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-10 22:19:15   drop[not-key] Chiefs WR Tyquan Thornton's Injury Leads NFL to Controversial Call on Discipline for Raide (heavy.com) :: Tyquan Thornton: injury
-2026-10-10 22:24:06   drop[kind] With Ashton Jeanty questionable because of foot and ankle injuries, the Raiders elevated R (Ian Rapoport) :: other
-2026-10-10 22:24:38 NEWS [Ian Rapoport 0m] The Commanders activated DE Deatrich Wise Jr. off PUP and elevated S Darren Hall and WR Van Jefferson from the practice squad. In addition, CB Trey Amos (ankle) and RB Jeremy McNichols (quad) are out.
-2026-10-10 22:24:38   skip Commanders :: Giants vs. Commanders (low conf 0.62)
-2026-10-10 22:25:12   drop[verify] The Patriots activated S Brenden Schooler to the 53-man roster and placed FB Reggie Gillia (Ian Rapoport) :: key players (Gilliam, Hollins) are depth, unlikely to move market >5 points
-2026-10-10 22:26:18 indexed 1003 markets
-2026-10-10 22:26:31   drop[kind] Oktoberfest Suspended For The Day (WHKY) :: other
-2026-10-10 22:28:42   drop[1-source] Maracanã order suspended for Vasco v Boca, concession cites Nilton Santos and pitch risks (OneFootball) :: Vasco da Gama, wait 2nd source
-2026-10-10 22:33:29 NEWS [ESPN 14m] Myles Garrett (DE, Los Angeles Rams) ruled out: healthy -> Injured Reserve [NFL]
-2026-10-10 22:33:29   skip Bills :: Bills vs. Rams (low conf 0.6)
-2026-10-10 22:36:00 [pengwin]   settle error SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
-2026-10-10 22:36:19 indexed 998 markets
-2026-10-10 22:36:33   drop[verify] Trey Lance (QB, Los Angeles Chargers) ruled out: Doubtful -> Injured Reserve [NFL] (ESPN) :: player status uncertain
-2026-10-10 22:40:37 NEWS [ESPN 14m] Deatrich Wise Jr. (DE, Washington Commanders) cleared to play: Out -> Active [NFL]
-2026-10-10 22:40:37   skip Commanders :: Giants vs. Commanders (low conf 0.62)
-2026-10-10 22:46:51 indexed 993 markets
-2026-10-10 22:46:57   drop[kind] Giants ‘didn’t flinch’ after emotional injury wounds that threatened to upend season (New York Post) :: other
-2026-10-10 22:47:54   llm groq-120b: rate limited, skip 150s
-2026-10-10 22:47:54   drop[no-pick] Za'Darius Smith (DE, Atlanta Falcons) ruled out: Questionable -> Out [NFL] (ESPN) :: no suitable market
-2026-10-10 22:48:34 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-10 22:49:16   drop[1-source] Penn Football Survives Quarterback Injury in Fourth Quarter Comeback (Philadelphia Sports Now) :: Penn State Nittany Lions, wait 2nd source
-2026-10-10 22:51:57 NEWS [ESPN 0m] Mykel Williams (DE, San Francisco 49ers) cleared to play: Out -> Active [NFL]
-2026-10-10 22:51:57   skip 49ers :: 49ers vs. Seahawks (low conf 0.62)
-2026-10-10 22:53:53   drop[team-not-named] Collin Sexton dealing with a lower leg injury (HoopsHype) :: Utah Jazz
-2026-10-10 22:56:53 indexed 986 markets
-2026-10-10 22:56:58   llm groq-120b: rate limited, skip 29s
-2026-10-10 22:56:58   drop[team-not-named] Saturday Night Injury Watch: Week 5 Skill Players (Footballguys) :: Kansas City Chiefs
-2026-10-10 22:58:53 [pengwin]   book error SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=89804222844072745218054326513718330179870887138021540219872653561981601638704
-2026-10-10 23:01:34   drop[1-source] Cardinals Roster Moves Send Clear Message on Walter Nolen’s Injury (Sports Illustrated) :: Walter Nolen, wait 2nd source
-2026-10-10 23:06:54 indexed 991 markets
-2026-10-10 23:09:02 [pengwin]   SELL Over @ 1.000 (resolved) pnl +13.26 :: SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.5
-2026-10-10 23:16:54 indexed 979 markets
-2026-10-10 23:19:34 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-10 23:23:22 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
-2026-10-10 23:24:13   drop[not-key] Alex Sarr Injury: Will make preseason debut Saturday (RotoWire) :: Alex Sarr: will make preseason debut Saturday
-2026-10-10 23:26:58 indexed 968 markets
-2026-10-10 23:32:06 NEWS [ESPN 0m] De'Von Achane (RB, Miami Dolphins) ruled out: healthy -> Injured Reserve [NFL]
-2026-10-10 23:32:06   skip Bengals :: Bengals vs. Dolphins (low conf 0.62)
-2026-10-10 23:34:01   drop[team-not-named] Tevaughn Campbell set to return at DB for Riders, KeeSean Johnson officially out for Montr (SportsCage.com) :: Saskatchewan Roughriders
-2026-10-10 23:36:58 indexed 977 markets
-2026-10-10 23:37:13   drop[kind] Red Sox pitcher played through insane injury during playoffs (Larry Brown Sports) :: other
-2026-10-10 23:37:59   drop[not-key] Zach Bogosian (D, Minnesota Wild) ruled out: healthy -> Out [NHL] (ESPN) :: Zach Bogosian: ruled out due to injury
-2026-10-10 23:41:39   drop[kind] Lakers’ Luka Doncic using last year’s injury to fuel championship hopes (Orange County Register) :: other
-2026-10-10 23:46:57 indexed 974 markets
-2026-10-10 23:50:34 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-10 23:51:40   drop[1-source] Ronaldo provisionally suspended after leaving Portugal’s international camp (Fijivillage) :: Cristiano Ronaldo, wait 2nd source
-2026-10-10 23:53:01   drop[not-key] Marcus Foligno (LW, Minnesota Wild) ruled out: healthy -> Out [NHL] (ESPN) :: Marcus Foligno: ruled out due to injury
-2026-10-10 23:56:24 indexed 973 markets
-2026-10-10 23:58:49   drop[team-not-named] Nico Iamaleava Injury: Not starting second half (RotoWire) :: Washington Commanders
-2026-10-11 00:01:07   drop[1-source] Igor Shesterkin lost to injury, so some possible Rangers' goaltending additions (Newsday) :: Igor Shesterkin, wait 2nd source
-2026-10-11 00:03:31 soccer_lineups error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
-2026-10-11 00:06:03   drop[1-source] UCLA QB Nico Iamaleava exits Oregon game with injury (ClutchPoints) :: Nico Iamaleava, wait 2nd source
-2026-10-11 00:07:03 indexed 979 markets
-2026-10-11 00:07:54   drop[not-key] Jacob Melanson Injury: Kraken Forward Out Indefinitely (Gino Hard) :: Jacob Melanson: out indefinitely due to injury
-2026-10-11 00:12:43   drop[kind] Fashion designer Bob Mackie suffered head injury days before death at 87 (New York Daily News) :: other
-2026-10-11 00:17:05 indexed 978 markets
-2026-10-11 00:17:25 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
-2026-10-11 00:27:07 indexed 976 markets
-2026-10-11 00:30:12   drop[not-key] Mavrik Bourque (C, Nashville Predators) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Mavrik Bourque: injury ruled him out
-2026-10-11 00:34:07   drop[kind] popular weight loss drug sued for severe injury (Olhar Digital) :: other
-2026-10-11 00:36:32 indexed 987 markets
-2026-10-11 00:36:34   drop[not-key] Michael Carcone (LW, Utah Mammoth) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Michael Carcone: ruled out due to injury
-2026-10-11 00:43:34   drop[1-source] Jaylen Brown ruled out for first game in Boston since trade (HoopsHype) :: Jaylen Brown, wait 2nd source
-2026-10-11 00:46:31 indexed 993 markets
-2026-10-11 00:48:12   drop[1-source] Pacers star Tyrese Haliburton out with ankle injury for Saturday’s preseason game (WISH-TV) :: Tyrese Haliburton, wait 2nd source
-2026-10-11 00:52:06 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-11 00:57:09 indexed 989 markets
-2026-10-11 00:59:43 shift over, state saved
+2026-10-11 00:59:58 === start mode=paper pid=2335 ===
+2026-10-11 00:59:58 brain=llm cash=84.56 open=0
+2026-10-11 00:59:58 resuming with 5741 known news items
+2026-10-11 01:00:25 indexed 987 markets
+2026-10-11 01:00:45   drop[verify] Za'Darius Smith (DE, Atlanta Falcons) ruled out: Questionable -> Out [NFL] (ESPN) :: Uncertain if Smith still on Falcons and unlikely his absence alone shifts market >5 points
+2026-10-11 01:00:46 NEWS [ESPN 0m] Trey Lance (QB, Los Angeles Chargers) ruled out: Doubtful -> Injured Reserve [NFL]
+2026-10-11 01:00:46   skip Broncos :: Broncos vs. Chargers (low conf 0.6)
+2026-10-11 01:00:46   llm groq-120b: rate limited, skip 115s
+2026-10-11 01:00:47   drop[no-pick] Myles Garrett (DE, Los Angeles Rams) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: no outcome should rise
+2026-10-11 01:00:47   drop[unconfirmed] De'Von Achane (RB, Miami Dolphins) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: season-ending injury
+2026-10-11 01:00:49   drop[verify] Mykel Williams (DE, San Francisco 49ers) cleared to play: Out -> Active [NFL] (ESPN) :: Player depth, not enough impact
+2026-10-11 01:00:50   drop[not-key] Deatrich Wise Jr. (DE, Washington Commanders) cleared to play: Out -> Active [NFL] (ESPN) :: Deatrich Wise Jr.: cleared to play
+2026-10-11 01:00:50   drop[not-key] Marcus Foligno (LW, Minnesota Wild) ruled out: healthy -> Out [NHL] (ESPN) :: Marcus Foligno: ruled out
+2026-10-11 01:00:50   drop[not-key] Zach Bogosian (D, Minnesota Wild) ruled out: healthy -> Out [NHL] (ESPN) :: Zach Bogosian: injury
+2026-10-11 01:00:51   drop[not-key] Mavrik Bourque (C, Nashville Predators) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Mavrik Bourque: day-to-day injury
+2026-10-11 01:00:51   drop[not-key] Michael Carcone (LW, Utah Mammoth) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Michael Carcone: injury
+2026-10-11 01:00:51   drop[kind] The Patriots activated S Brenden Schooler to the 53-man roster and placed FB Reggie Gillia (Ian Rapoport) :: other
+2026-10-11 01:00:52   drop[not-key] The Commanders activated DE Deatrich Wise Jr. off PUP and elevated S Darren Hall and WR Va (Ian Rapoport) :: Deatrich Wise Jr.: activation
+2026-10-11 01:00:52   llm groq-20b: rate limited, skip 5s
+2026-10-11 01:02:31 [pengwin]   book error SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=89804222844072745218054326513718330179870887138021540219872653561981601638704
+2026-10-11 01:02:31 [pengwin]   SELL Over @ 1.000 (resolved) pnl +13.26 :: SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.5
