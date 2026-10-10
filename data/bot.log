@@ -5931,3 +5931,14 @@
 2026-10-10 04:27:44 indexed 897 markets
 2026-10-10 04:27:57   llm groq-120b: rate limited, skip 381s
 2026-10-10 04:27:57   drop[1-source] Malia Steinmetz Poised For Long Awaited Ford Football Ferns Injury Return (NZ Football) :: Malia Steinmetz, wait 2nd source
+2026-10-10 04:32:25   drop[team-not-named] Suspended Term for Bus Obscenities During Sexual Violence Trial (조선일보) :: 
+2026-10-10 04:38:22 indexed 890 markets
+2026-10-10 04:39:11   drop[1-source] Blackhawks’ Frank Nazar suspended 2 games for check to the head (Beaumont Enterprise) :: Frank Nazar, wait 2nd source
+2026-10-10 04:41:31   drop[kind] Man in 20s Gets Suspended Sentence for Bus Obscenity During Trial (조선일보) :: other
+2026-10-10 04:41:31   llm groq-120b: rate limited, skip 3s
+2026-10-10 04:41:31   drop[1-source] New Zealand paceman O'Rourke to miss India series with injury (Bangladesh Sangbad Sangstha (BSS)) :: O'Rourke, wait 2nd source
+2026-10-10 04:47:47 indexed 894 markets
+2026-10-10 04:48:37   drop[kind] 538-Homer Choi Jeong Vows Injury-Free Season (조선일보) :: other
+2026-10-10 04:58:22 indexed 890 markets
+2026-10-10 05:00:44   drop[not-key] Iowa State football's Dominic Overby exits BYU game with injury (The Des Moines Register) :: Dominic Overby: left BYU game with injury
+2026-10-10 05:00:44   drop[not-key] William O'Rourke set to miss India series with injury, targets Australia Tests for comebac (India TV News) :: William O'Rourke: injury rules him out of India series
