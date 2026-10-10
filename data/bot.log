@@ -6176,3 +6176,18 @@
 2026-10-10 19:17:15 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +6.13 :: Aston Villa FC vs. Brentford FC: Both Teams to Score
 2026-10-10 19:17:16 [pengwin]   book error Deportivo Alavés vs. Club Atlético de Madrid: O/U : 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=96458128150202899174912829154619691820837606133845421553732735785453692189366
 2026-10-10 19:17:16 [pengwin]   SELL Under @ 1.000 (resolved) pnl +1.49 :: Deportivo Alavés vs. Club Atlético de Madrid: O/U 4.5
+2026-10-10 19:20:33   drop[verify] Travis Konecny (RW, Philadelphia Flyers) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: uncertain if Konecny still plays for the Flyers in 2026
+2026-10-10 19:23:10 feed gnews_top error x10: 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en
+2026-10-10 19:23:16 feed gnews_sport error x10: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en
+2026-10-10 19:23:25 feed gnews_world error x10: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en
+2026-10-10 19:23:30 feed gnews_business error x10: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en
+2026-10-10 19:23:35 feed gnews_reuters error x10: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=when:1h+source:reuters&hl=en-US&gl=US&ceid=US:en
+2026-10-10 19:23:42 feed gnews_injury error x10: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=when:1h+(injury+OR+%22ruled+out%22+OR+suspended)&hl=en-US&gl=US&ceid=US:en
+2026-10-10 19:26:27 indexed 983 markets
+2026-10-10 19:28:12   drop[kind] Entire coaching staff on leave, 6 players suspended amid hazing investigation at Ohio high (WHIO TV) :: other
+2026-10-10 19:28:13   drop[kind] Major Concern for Arteta! Arsenal Defender Piero Hincapie Suffers Fresh Injury Scare Ahead (Goal.com) :: other
+2026-10-10 19:35:13   drop[kind] Darren Cahill may extend Jannik Sinner partnership amid Italian star’s injury layoff (Tennis Tonic) :: other
+2026-10-10 19:35:55 indexed 987 markets
+2026-10-10 19:40:00   drop[no-market] Ronaldo provisionally suspended by Portuguese FA (BBC) :: Portugal national football team
+2026-10-10 19:45:08 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 19:46:28 indexed 994 markets

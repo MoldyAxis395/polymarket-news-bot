@@ -16,7 +16,7 @@
    "reason": "pengwin approx: home O/U 2.5 Over approximates 2-5 goals",
    "conf": 1.0,
    "end": "2026-10-10T18:45:00+00:00",
-   "last_bid": 0.38,
+   "last_bid": 0.4,
    "book_err": false
   },
   {
@@ -88,7 +88,7 @@
    "reason": "pengwin exact: full\u2011match under 2.5",
    "conf": 1.0,
    "end": "2026-10-10T16:30:00+00:00",
-   "last_bid": 0.1,
+   "last_bid": 0.15,
    "book_err": false
   },
   {

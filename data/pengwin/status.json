@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-10T19:19:19",
+ "updated": "2026-10-10T19:49:25",
  "start": 100.0,
  "cash": 54.57,
- "equity": 106.06,
+ "equity": 108.61,
  "open": [
   {
    "market_id": "5012784",
@@ -19,7 +19,7 @@
    "reason": "pengwin approx: home O/U 2.5 Over approximates 2-5 goals",
    "conf": 1.0,
    "end": "2026-10-10T18:45:00+00:00",
-   "last_bid": 0.38,
+   "last_bid": 0.4,
    "book_err": false
   },
   {
@@ -91,7 +91,7 @@
    "reason": "pengwin exact: full\u2011match under 2.5",
    "conf": 1.0,
    "end": "2026-10-10T16:30:00+00:00",
-   "last_bid": 0.1,
+   "last_bid": 0.15,
    "book_err": false
   },
   {
