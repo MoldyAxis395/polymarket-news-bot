@@ -6285,3 +6285,16 @@
 2026-10-10 23:37:59   drop[not-key] Zach Bogosian (D, Minnesota Wild) ruled out: healthy -> Out [NHL] (ESPN) :: Zach Bogosian: ruled out due to injury
 2026-10-10 23:41:39   drop[kind] Lakers’ Luka Doncic using last year’s injury to fuel championship hopes (Orange County Register) :: other
 2026-10-10 23:46:57 indexed 974 markets
+2026-10-10 23:50:34 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 23:51:40   drop[1-source] Ronaldo provisionally suspended after leaving Portugal’s international camp (Fijivillage) :: Cristiano Ronaldo, wait 2nd source
+2026-10-10 23:53:01   drop[not-key] Marcus Foligno (LW, Minnesota Wild) ruled out: healthy -> Out [NHL] (ESPN) :: Marcus Foligno: ruled out due to injury
+2026-10-10 23:56:24 indexed 973 markets
+2026-10-10 23:58:49   drop[team-not-named] Nico Iamaleava Injury: Not starting second half (RotoWire) :: Washington Commanders
+2026-10-11 00:01:07   drop[1-source] Igor Shesterkin lost to injury, so some possible Rangers' goaltending additions (Newsday) :: Igor Shesterkin, wait 2nd source
+2026-10-11 00:03:31 soccer_lineups error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-11 00:06:03   drop[1-source] UCLA QB Nico Iamaleava exits Oregon game with injury (ClutchPoints) :: Nico Iamaleava, wait 2nd source
+2026-10-11 00:07:03 indexed 979 markets
+2026-10-11 00:07:54   drop[not-key] Jacob Melanson Injury: Kraken Forward Out Indefinitely (Gino Hard) :: Jacob Melanson: out indefinitely due to injury
+2026-10-11 00:12:43   drop[kind] Fashion designer Bob Mackie suffered head injury days before death at 87 (New York Daily News) :: other
+2026-10-11 00:17:05 indexed 978 markets
+2026-10-11 00:17:25 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
