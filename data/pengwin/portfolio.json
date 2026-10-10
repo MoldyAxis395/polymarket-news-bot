@@ -16,7 +16,7 @@
    "reason": "pengwin approx: Fiorentina to score \u22651 goal (Over 0.5) matches lower bound of the multigol range",
    "conf": 1.0,
    "end": "2026-10-10T13:00:00+00:00",
-   "last_bid": 0.75,
+   "last_bid": 0.76,
    "book_err": false,
    "settle_retry": 1791585696.908247
   },
@@ -125,7 +125,7 @@
    "reason": "pengwin exact: Tipster calls it a 'gara da GOAL', i.e., both teams to score",
    "conf": 1.0,
    "end": "2026-10-10T14:00:00+00:00",
-   "last_bid": 0.61,
+   "last_bid": 0.62,
    "book_err": false
   },
   {
