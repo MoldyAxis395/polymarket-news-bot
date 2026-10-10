@@ -5971,3 +5971,10 @@
 2026-10-10 06:45:38   skip Canucks :: Canucks vs. Rangers (rss sport (measure only))
 2026-10-10 06:45:38   llm groq-120b: rate limited, skip 129s
 2026-10-10 06:45:40   drop[not-key] Hank Brown Injury: Unused against Washington (RotoWire) :: Hank Brown: unused
+2026-10-10 06:51:28 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-10 06:53:12 indexed 863 markets
+2026-10-10 07:03:14 indexed 865 markets
+2026-10-10 07:03:30   drop[kind] Lee Kang-in's Ankle Injury Raises Bench Start Chances (조선일보) :: other
+2026-10-10 07:05:37   drop[team-not-named] Allisha Gray's Hand Injury Ahead of WNBA Finals Stream of WNBA (CBS Sports) :: Las Vegas Aces
+2026-10-10 07:07:57   drop[no-market] Grizzlies C Isaiah Stewart out 2 weeks with ankle injury (NBA.com) :: Memphis Grizzlies
+2026-10-10 07:12:36 indexed 861 markets
