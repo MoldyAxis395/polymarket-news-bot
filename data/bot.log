@@ -5874,3 +5874,28 @@
 2026-10-10 02:58:10 indexed 900 markets
 2026-10-10 02:58:25   llm groq-120b: rate limited, skip 8s
 2026-10-10 02:58:26   drop[not-key] Nazar suspended 2 games for hit to head on Horvat (theScore) :: Nazar: suspension
+2026-10-10 03:02:51   drop[1-source] Colorado Buffaloes Basketball Earns Preseason Boost With Injury Return (Sports Illustrated) :: KJ Simpson, wait 2nd source
+2026-10-10 03:02:51   llm groq-120b: rate limited, skip 423s
+2026-10-10 03:02:52 NEWS [Daily Faceoff 2m] Rangers’ Igor Shesterkin helped off ice with lower-body injury
+2026-10-10 03:02:52   skip No :: Will Rangers FC win on 2026-10-10? (low conf 0.6)
+2026-10-10 03:02:52   drop[not-key] Blackhawks' Frank Nazar suspended two games for illegal check to head (Sportsnet.ca) :: Frank Nazar: suspension
+2026-10-10 03:05:16   drop[no-pick] Frank Nazar (C, Chicago Blackhawks) ruled out: healthy -> Suspension [NHL] (ESPN) :: no suitable market where outcome should rise
+2026-10-10 03:08:08 indexed 893 markets
+2026-10-10 03:08:28   drop[not-key] Blackhawks' Frank Nazar suspended two games for hit on Islanders' Bo Horvat (Chicago Sun-Times) :: Frank Nazar: suspension
+2026-10-10 03:08:28 NEWS [NHL.com 3m] Nazar suspended two games for actions in Blackhawks game
+2026-10-10 03:08:28   skip Hurricanes :: Hurricanes vs. Blackhawks (low conf 0.6)
+2026-10-10 03:08:29 NEWS [The New York Times 4m] Rangers goalie Igor Shesterkin helped off ice after apparent leg injury
+2026-10-10 03:08:29   skip Canucks :: Canucks vs. Rangers (low conf 0.6)
+2026-10-10 03:08:29   drop[1-source] Eight IT Companies, Including TCS and Infosys, Suspended from US Green Card Program: Impac (Observer Voice) :: US Green Card Program, wait 2nd source
+2026-10-10 03:10:11 NEWS [ESPN 9m] Spencer Martin (G, New York Rangers) ruled out: healthy -> Out [NHL]
+2026-10-10 03:10:11   skip Canucks :: Canucks vs. Rangers (low conf 0.6)
+2026-10-10 03:15:08 NEWS [heavy.com 2m] Blackhawks’ Frank Nazar Suspended For Multiple Games
+2026-10-10 03:15:08   skip Hurricanes :: Hurricanes vs. Blackhawks (low conf 0.6)
+2026-10-10 03:17:38 indexed 905 markets
+2026-10-10 03:20:01   llm groq-120b: rate limited, skip 36s
+2026-10-10 03:20:01   drop[not-key] Blackhawks news: Frank Nazar suspended 2 games for illegally checking Bo Horvat (ClutchPoints) :: Frank Nazar: illegal checking
+2026-10-10 03:22:45   llm groq-120b: rate limited, skip 312s
+2026-10-10 03:22:45   drop[not-key] Garrett Whitlock (RP, Boston Red Sox) ruled out: healthy -> Out [MLB] (ESPN) :: Garrett Whitlock: injury
+2026-10-10 03:28:12 indexed 889 markets
+2026-10-10 03:31:20 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 03:31:24   drop[kind] Texas DL Justus Terry again questionable, Oklahoma LG Eddy Pierre-Louis downgraded on Frid (247Sports) :: other
