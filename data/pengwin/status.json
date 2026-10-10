@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-10T18:33:55",
+ "updated": "2026-10-10T19:04:34",
  "start": 100.0,
- "cash": 26.94,
- "equity": 111.45,
+ "cash": 38.44,
+ "equity": 98.68,
  "open": [
   {
    "market_id": "5012784",
@@ -91,26 +91,9 @@
    "reason": "pengwin exact: Tipster calls it a 'gara da GOAL', i.e., both teams to score",
    "conf": 1.0,
    "end": "2026-10-10T14:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false
-  },
-  {
-   "market_id": "5016496",
-   "question": "Deportivo Alav\u00e9s vs. Club Atl\u00e9tico de Madrid: O/U 4.5",
-   "slug": "lal-ala-mad-2026-10-10-total-4pt5",
-   "outcome": "Under",
-   "token": "96458128150202899174912829154619691820837606133845421553732735785453692189366",
-   "shares": 11.494252873563218,
-   "entry": 0.8700000000000001,
-   "cost": 10.0,
-   "opened": 1791583132.6204367,
-   "opened_iso": "2026-10-09T21:58:52+00:00",
-   "news": "Alaves-Atletico Madrid: X2+Under 4.5 (approssimato)",
-   "reason": "pengwin approx: Under 4.5 maps to market 13 Under",
-   "conf": 1.0,
-   "end": "2026-10-10T14:15:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false
+   "last_bid": null,
+   "book_err": false,
+   "settle_retry": 1791652168.414731
   },
   {
    "market_id": "5016358",
@@ -127,7 +110,7 @@
    "reason": "pengwin exact: full\u2011match under 2.5",
    "conf": 1.0,
    "end": "2026-10-10T16:30:00+00:00",
-   "last_bid": 0.23,
+   "last_bid": 0.07,
    "book_err": false
   },
   {
@@ -149,8 +132,8 @@
    "book_err": false
   }
  ],
- "closed_count": 2,
- "realized_pnl": 6.94,
+ "closed_count": 3,
+ "realized_pnl": 8.44,
  "pages": {
   "pending": 86,
   "picked": 0,

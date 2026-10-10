@@ -6166,3 +6166,20 @@
 2026-10-10 18:32:19   drop[kind] US murderer Christa Pike discharged from hospital 10 days after failed execution (BBC) :: other
 2026-10-10 18:34:21   drop[kind] Vermont Man Says American Express Suspended All 6 of His Credit Cards Days Before Internat (The Nerd Stash) :: other
 2026-10-10 18:34:21   drop[1-source] Arsenal injury blow as star carried off pitch during warm-down after Leeds win (The Irish Sun) :: Arsenal FC, wait 2nd source
+2026-10-10 18:35:20 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 18:36:39   drop[team-not-named] Really bad news: Igor Shesterkin is out for the year (Elliotte Friedman) :: New York Rangers
+2026-10-10 18:41:53 indexed 969 markets
+2026-10-10 18:42:06   drop[kind] 'Blood clots developed after Moderna shot…': Witness makes explosive COVID vaccine injury  (The Economic Times) :: other
+2026-10-10 18:45:10 [pengwin]   book error Deportivo Alavés vs. Club Atlético de Madrid: O/U : 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=96458128150202899174912829154619691820837606133845421553732735785453692189366
+2026-10-10 18:48:52   drop[kind] SLCo SAR rescues China Wall hiker with leg injury (Gephardt Daily) :: other
+2026-10-10 18:48:52   drop[1-source] Riyadh airport operations suspended after attack causes injuries (Dubai Eye 103.8) :: Riyadh Airport, wait 2nd source
+2026-10-10 18:50:02   drop[verify] Cam York (D, Philadelphia Flyers) ruled out: healthy -> Out [NHL] (ESPN) :: Cam York may not be on the Flyers roster or is a depth player; his absence likely won’t shift the market 5+ points
+2026-10-10 18:51:19 indexed 966 markets
+2026-10-10 18:55:23 [pengwin]   SELL Under @ 1.000 (resolved) pnl +1.49 :: Deportivo Alavés vs. Club Atlético de Madrid: O/U 4.5
+2026-10-10 18:55:58   drop[1-source] Rangers Get Worst Possible News on Shesterkin Injury (Heavy.com) :: Igor Shesterkin, wait 2nd source
+2026-10-10 18:55:59   drop[team-not-named] Wilson Isidor kept quiet as Brian Brobbey injury leaves Sunderland striker light (Peterborough Matters) :: Tottenham Hotspur
+2026-10-10 18:57:39   drop[kind] Several injured in attack on airport in Saudi capital Riyadh (BBC) :: other
+2026-10-10 19:00:27 NEWS [ESPN 6m] Igor Shesterkin (G, New York Rangers) ruled out: Day-To-Day -> Out [NHL]
+2026-10-10 19:00:27   skip Canucks :: Canucks vs. Rangers (illiquid)
+2026-10-10 19:00:51   drop[kind] Man seriously injured by tiger after entering enclosure at British zoo reut.rs/3UlYTQm (Reuters) :: other
+2026-10-10 19:01:23 indexed 975 markets
