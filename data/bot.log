@@ -6128,3 +6128,8 @@
 2026-10-10 16:25:30   drop[kind] Three injured in Poland's third youth stabbing attack in four days reut.rs/3TPeEyY (Reuters) :: other
 2026-10-10 16:31:28 indexed 948 markets
 2026-10-10 16:33:01 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 16:36:09   drop[1-source] Kings' Marquee Signing Set to Miss Weeks After Injury (The Hockey News) :: Los Angeles Kings, wait 2nd source
+2026-10-10 16:40:50 indexed 960 markets
+2026-10-10 16:46:17 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 16:50:49 indexed 960 markets
+2026-10-10 17:01:26 indexed 966 markets

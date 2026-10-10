@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-10T16:31:36",
+ "updated": "2026-10-10T17:02:18",
  "start": 100.0,
  "cash": 14.29,
- "equity": 103.06,
+ "equity": 110.37,
  "open": [
   {
    "market_id": "5013279",
@@ -19,7 +19,7 @@
    "reason": "pengwin approx: Fiorentina to score \u22651 goal (Over 0.5) matches lower bound of the multigol range",
    "conf": 1.0,
    "end": "2026-10-10T13:00:00+00:00",
-   "last_bid": 0.4,
+   "last_bid": 0.999,
    "book_err": false,
    "settle_retry": 1791585696.908247
   },
@@ -92,7 +92,7 @@
    "reason": "pengwin approx: Juventus to score at least 1 goal (Over 0.5) matches one leg of the combo",
    "conf": 1.0,
    "end": "2026-10-11T18:45:00+00:00",
-   "last_bid": 0.79,
+   "last_bid": 0.8,
    "book_err": false
   },
   {
@@ -128,7 +128,7 @@
    "reason": "pengwin approx: Under 4.5 maps to market 13 Under",
    "conf": 1.0,
    "end": "2026-10-10T14:15:00+00:00",
-   "last_bid": 0.92,
+   "last_bid": 0.886,
    "book_err": false
   },
   {
