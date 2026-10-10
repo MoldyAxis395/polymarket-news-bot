@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-10T05:31:51",
+ "updated": "2026-10-10T05:41:35",
  "start": 100.0,
  "cash": 0.0,
- "equity": 96.41,
+ "equity": 96.57,
  "open": [
   {
    "market_id": "5013279",
@@ -128,7 +128,7 @@
    "reason": "pengwin exact: Tipster calls it a 'gara da GOAL', i.e., both teams to score",
    "conf": 1.0,
    "end": "2026-10-10T14:00:00+00:00",
-   "last_bid": 0.6,
+   "last_bid": 0.61,
    "book_err": false
   },
   {
