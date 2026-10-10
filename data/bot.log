@@ -6133,3 +6133,13 @@
 2026-10-10 16:46:17 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
 2026-10-10 16:50:49 indexed 960 markets
 2026-10-10 17:01:26 indexed 966 markets
+2026-10-10 17:08:26   drop[1-source] Cristiano Ronaldo Provisionally Suspended by Portugal FA (Morocco World News) :: Cristiano Ronaldo, wait 2nd source
+2026-10-10 17:11:27 indexed 958 markets
+2026-10-10 17:20:56 indexed 957 markets
+2026-10-10 17:23:20   drop[kind] Man Utd XI vs Tottenham: Confirmed team news and starting lineup (London Evening Standard) :: other
+2026-10-10 17:25:38   drop[kind] Nobel peace laureate says US sanctions on ICC 'unacceptable' (BBC) :: other
+2026-10-10 17:26:52 [pengwin]   settle error Genoa CFC vs. ACF Fiorentina: ACF Fiorentina O/U 0: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 17:29:08 NEWS [ESPN 17m] Marvin Harrison Jr. (WR, Arizona Cardinals) ruled out: Active -> Out [NFL]
+2026-10-10 17:29:08   skip Lions :: Lions vs. Cardinals (low conf 0.6)
+2026-10-10 17:30:57 indexed 956 markets
+2026-10-10 17:34:27 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
