@@ -6071,3 +6071,18 @@
 2026-10-10 14:25:20   drop[kind] Real Madrid injury curse examined: Several seasons of setbacks and a possible turning poin (Madrid Universal) :: other
 2026-10-10 14:30:29 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-10 14:30:39 indexed 1022 markets
+2026-10-10 14:35:20   drop[kind] 🚨 Breaking: ¡Rayo-Athletic suspended over protests against Presa! (OneFootball) :: other
+2026-10-10 14:40:43 indexed 1015 markets
+2026-10-10 14:45:26   drop[no-market] Philips wins Dutch court battle with shareholders over recall reut.rs/3UemYsm (Reuters) :: Philips
+2026-10-10 14:50:44 indexed 1027 markets
+2026-10-10 14:53:04   drop[kind] Chelsea XI vs Bournemouth: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-10-10 14:55:23   drop[1-source] Ronaldo provisionally suspended by Portugal after team walkout (Vanguard News) :: Cristiano Ronaldo, wait 2nd source
+2026-10-10 14:55:24   drop[1-source] TEAM NEWS: Preston North End – Millwall – two more return from injury (Southwark News) :: Preston North End, wait 2nd source
+2026-10-10 14:55:24   drop[not-key] Injury rules Sami Ouaissa out of the start of his jou… (YSscores) :: Sami Ouaissa: injury
+2026-10-10 14:55:25   drop[no-market] Cristiano Ronaldo Suspended by Portugal After National Team Walkout (IceCric News) :: Portugal national football team
+2026-10-10 14:55:47 soccer_lineups error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 14:57:51   drop[1-source] Nick Pope | Jaissle praises Newcastle keeper after Jaouen injury (Read Newcastle) :: Jaouen, wait 2nd source
+2026-10-10 15:00:14 indexed 1030 markets
+2026-10-10 15:00:36   drop[1-source] Canada get welcome injury boost ahead of home WXV fixtures against England (Rugbypass.com) :: England women's national rugby union team, wait 2nd source
+2026-10-10 15:02:36   drop[no-market] Cristiano Ronaldo suspended as Portuguese FA opens disciplinary proceedings (Portugal Resident) :: Portugal national football team
+2026-10-10 15:02:37   drop[no-market] Cristiano Ronaldo Temporarily Suspended by Portugal (BGNES) :: Portugal national football team
