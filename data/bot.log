@@ -5864,3 +5864,13 @@
 2026-10-10 02:27:29 indexed 899 markets
 2026-10-10 02:28:19   drop[1-source] Penn State vs. No. 19 USC injury report (Friday): Linebacker ruled out for White Out; DT l (247Sports) :: Penn State, wait 2nd source
 2026-10-10 02:30:20 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 02:37:31 indexed 897 markets
+2026-10-10 02:42:24   drop[1-source] Igor Shesterkin exits Rangers game against Capitals with apparent lower-body injury (SNY) :: Igor Shesterkin, wait 2nd source
+2026-10-10 02:42:25   drop[no-pick] NY Rangers' Igor Shesterkin Leaves Game Early With Apparent Leg Injury (Sports Illustrated) :: short
+2026-10-10 02:44:29   drop[kind] Injury crash shuts down stretch of Tates Creek Road (WKYT) :: other
+2026-10-10 02:47:35 indexed 896 markets
+2026-10-10 02:51:38   drop[not-key] Celebrini Talks Injury, GQ Profile, Listening to Sharks Medical Staff (San Jose Hockey Now) :: Mason Celebrini: injury
+2026-10-10 02:53:47   drop[kind] Cowboys LT Guyton’s (back) injury not serious. (NBC Sports) :: other
+2026-10-10 02:58:10 indexed 900 markets
+2026-10-10 02:58:25   llm groq-120b: rate limited, skip 8s
+2026-10-10 02:58:26   drop[not-key] Nazar suspended 2 games for hit to head on Horvat (theScore) :: Nazar: suspension
