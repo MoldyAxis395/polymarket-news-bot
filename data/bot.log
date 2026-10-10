@@ -6211,3 +6211,17 @@
 2026-10-10 20:38:28   drop[verify] Bills Announce Sudden Joshua Palmer Injury Decision Before Rams Game (heavy.com) :: player not on Bills and not impactful
 2026-10-10 20:45:44 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-10 20:46:04 indexed 962 markets
+2026-10-10 20:54:33   drop[1-source] Injury ends season for NHL Rangers star goalie Shesterkin (France 24) :: Igor Shesterkin, wait 2nd source
+2026-10-10 20:56:06 indexed 972 markets
+2026-10-10 20:58:59 soccer_lineups error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 20:59:15   drop[no-market] Ronaldo suspended by Portugal FA after leaving camp, criticizing coach (Field Level Media) :: Portugal national football team
+2026-10-10 20:59:40   drop[not-key] Jake Walman (D, Edmonton Oilers) ruled out: healthy -> Out [NHL] (ESPN) :: Jake Walman: ruled out due to injury
+2026-10-10 21:04:50   drop[no-pick] Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds (BBC) :: short
+2026-10-10 21:04:50   drop[no-market] Struijk sees red but Brighton march on with win against Sunderland (BBC) :: Brighton & Hove Albion
+2026-10-10 21:05:37 [pengwin]   settle error FC Barcelona vs. Getafe CF: O/U 2.5: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 21:06:06 indexed 964 markets
+2026-10-10 21:06:10   drop[verify] Oliver Kapanen (C, Montreal Canadiens) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Oliver Kapanen isn’t on the Canadiens’ NHL roster
+2026-10-10 21:08:30   drop[kind] Eustace confirms another Derby County injury blow after draw with Wrexham (LiveScore) :: other
+2026-10-10 21:11:33   drop[kind] Four dead and thousands without power after Hurricane Isaias lashes US (BBC) :: other
+2026-10-10 21:12:02 [pengwin]   settle error SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-10 21:16:07 indexed 970 markets

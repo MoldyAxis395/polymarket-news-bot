@@ -16,8 +16,9 @@
    "reason": "pengwin approx: home O/U 2.5 Over approximates 2-5 goals",
    "conf": 1.0,
    "end": "2026-10-10T18:45:00+00:00",
-   "last_bid": 0.38,
-   "book_err": false
+   "last_bid": 0.52,
+   "book_err": false,
+   "settle_retry": 1791660102.4496946
   },
   {
    "market_id": "5057077",
@@ -90,7 +91,7 @@
    "end": "2026-10-10T16:30:00+00:00",
    "last_bid": null,
    "book_err": false,
-   "settle_retry": 1791658459.1270897
+   "settle_retry": 1791660506.810866
   },
   {
    "market_id": "5067010",
