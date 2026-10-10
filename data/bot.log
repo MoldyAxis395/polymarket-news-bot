@@ -5911,3 +5911,23 @@
 2026-10-10 03:57:47   llm groq-120b: rate limited, skip 210s
 2026-10-10 03:57:48   drop[no-pick] Capitals prevail after Rangers lose G Igor Shesterkin to injury (Big News Network.com) :: short
 2026-10-10 04:00:06   drop[kind] Rangers Get Frightening Shesterkin Injury Possibility, Expert Says (Heavy.com) :: other
+2026-10-10 04:02:04 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-10 04:04:41   drop[1-source] Georgia football news: WR Isiah Canion ruled out for Alabama clash (ClutchPoints) :: Isiah Canion, wait 2nd source
+2026-10-10 04:04:42   drop[1-source] Goyang Sono coach allays fears on Kevin Quiambao ankle injury (FASTBREAK.com.ph) :: Kevin Quiambao, wait 2nd source
+2026-10-10 04:05:50   llm groq-120b: rate limited, skip 257s
+2026-10-10 04:05:51   drop[not-key] Mykel Williams (DE, San Francisco 49ers) ruled out: healthy -> Out [NFL] (ESPN) :: Mykel Williams: injury
+2026-10-10 04:08:13 indexed 896 markets
+2026-10-10 04:09:17   drop[1-source] ED Gets Eight-Day Custody of Suspended DIG Harcharan Singh Bhullar in Money Laundering Cas (Punjab News Express) :: Harcharan Singh Bhullar, wait 2nd source
+2026-10-10 04:13:39   drop[not-key] Chicago Blackhawks’ Frank Nazar suspended 2 games for illegal check to head of NY Islander (Chicago Tribune) :: Frank Nazar: illegal check to head of Bo Horvat
+2026-10-10 04:15:26 feed cnbc error x1: HTTPSConnectionPool(host='www.cnbc.com', port=443): Read timed out. (read timeout=15)
+2026-10-10 04:15:57   llm groq-120b: rate limited, skip 123s
+2026-10-10 04:15:57 NEWS [New York Post 5m] Igor Shesterkin’s injury and the all the possible ramifications hang over Rangers after loss to Capitals
+2026-10-10 04:15:57   skip Canucks :: Canucks vs. Rangers (low conf 0.6)
+2026-10-10 04:17:42 indexed 902 markets
+2026-10-10 04:18:43   drop[team-not-named] Allisha Gray to Miss Game 3 of Semifinal Series Due to Hand Injury (SSBCrack) :: Chicago Sky
+2026-10-10 04:20:54   llm groq-120b: rate limited, skip 238s
+2026-10-10 04:20:55   drop[no-pick] Lens hang on for much needed win to climb up Ligue 1 standings reut.rs/4iekkMg (Reuters) :: short
+2026-10-10 04:25:29   drop[1-source] Toure’s Asian Cup dreams in serious doubt after Norwich boss admits he will be out for ‘a  (football360.com.au) :: Moussa Toure, wait 2nd source
+2026-10-10 04:27:44 indexed 897 markets
+2026-10-10 04:27:57   llm groq-120b: rate limited, skip 381s
+2026-10-10 04:27:57   drop[1-source] Malia Steinmetz Poised For Long Awaited Ford Football Ferns Injury Return (NZ Football) :: Malia Steinmetz, wait 2nd source
