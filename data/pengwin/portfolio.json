@@ -75,25 +75,6 @@
    "book_err": false
   },
   {
-   "market_id": "5016358",
-   "question": "FC Barcelona vs. Getafe CF: O/U 2.5",
-   "slug": "lal-bar-get-2026-10-10-total-2pt5",
-   "outcome": "Under",
-   "token": "7176344326436751476140013593604701785786220956035960721329752578498448384964",
-   "shares": 41.66666666666667,
-   "entry": 0.23999999999999996,
-   "cost": 10.0,
-   "opened": 1791583137.4067385,
-   "opened_iso": "2026-10-09T21:58:57+00:00",
-   "news": "Barcellona-Getafe: UNDER 2.5 (esatto)",
-   "reason": "pengwin exact: full\u2011match under 2.5",
-   "conf": 1.0,
-   "end": "2026-10-10T16:30:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1791660506.810866
-  },
-  {
    "market_id": "5067010",
    "question": "Real Betis Balompi\u00e9 vs. CA Osasuna: O/U 1.5",
    "slug": "lal-bet-osa-2026-10-11-total-1pt5",
@@ -204,12 +185,36 @@
    "pnl": 1.4942528735632177,
    "why": "resolved",
    "closed_iso": "2026-10-10T17:17:17+00:00"
+  },
+  {
+   "market_id": "5016358",
+   "question": "FC Barcelona vs. Getafe CF: O/U 2.5",
+   "slug": "lal-bar-get-2026-10-10-total-2pt5",
+   "outcome": "Under",
+   "token": "7176344326436751476140013593604701785786220956035960721329752578498448384964",
+   "shares": 41.66666666666667,
+   "entry": 0.23999999999999996,
+   "cost": 10.0,
+   "opened": 1791583137.4067385,
+   "opened_iso": "2026-10-09T21:58:57+00:00",
+   "news": "Barcellona-Getafe: UNDER 2.5 (esatto)",
+   "reason": "pengwin exact: full\u2011match under 2.5",
+   "conf": 1.0,
+   "end": "2026-10-10T16:30:00+00:00",
+   "last_bid": null,
+   "book_err": true,
+   "settle_retry": 1791661117.0632205,
+   "exit": 0.0,
+   "pnl": -10.0,
+   "why": "resolved",
+   "closed_iso": "2026-10-10T19:28:37+00:00"
   }
  ],
  "cooldown": {
   "5009005": 1791651898.9464061,
   "5013279": 1791657423.9379785,
   "5013270": 1791663436.1595876,
-  "5016496": 1791663437.1294613
+  "5016496": 1791663437.1294613,
+  "5016358": 1791671317.6366687
  }
 }

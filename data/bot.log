@@ -6225,3 +6225,11 @@
 2026-10-10 21:11:33   drop[kind] Four dead and thousands without power after Hurricane Isaias lashes US (BBC) :: other
 2026-10-10 21:12:02 [pengwin]   settle error SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
 2026-10-10 21:16:07 indexed 970 markets
+2026-10-10 21:20:28 [pengwin]   book error FC Barcelona vs. Getafe CF: O/U 2.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=7176344326436751476140013593604701785786220956035960721329752578498448384964
+2026-10-10 21:26:08 indexed 971 markets
+2026-10-10 21:28:37 [pengwin]   SELL Under @ 0.000 (resolved) pnl -10.00 :: FC Barcelona vs. Getafe CF: O/U 2.5
+2026-10-10 21:30:34   drop[not-key] Bryce Oliver (WR, Houston Texans) cleared to play: Out -> Active [NFL] (ESPN) :: Bryce Oliver: cleared to play
+2026-10-10 21:35:15   drop[kind] Nine dead in Erie, Pennsylvania mass shooting reut.rs/47LCpLE (Reuters) :: other
+2026-10-10 21:36:46 indexed 1009 markets
+2026-10-10 21:46:11 indexed 999 markets
+2026-10-10 21:47:17 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
