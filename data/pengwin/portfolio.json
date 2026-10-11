@@ -16,7 +16,7 @@
    "reason": "pengwin exact: draw leg matches market 1 Yes",
    "conf": 1.0,
    "end": "2026-10-11T10:30:00+00:00",
-   "last_bid": 0.26,
+   "last_bid": 0.32,
    "book_err": false
   },
   {
@@ -70,7 +70,7 @@
    "reason": "pengwin approx: combo 1X+Over 1.5, pick Over 1.5 leg",
    "conf": 1.0,
    "end": "2026-10-11T16:30:00+00:00",
-   "last_bid": 0.8,
+   "last_bid": 0.81,
    "book_err": false
   }
  ],
