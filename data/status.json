@@ -1,30 +1,30 @@
 {
- "updated": "2026-10-12T01:13:12",
+ "updated": "2026-10-12T01:18:25",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 467,
- "markets_indexed": 973,
- "news_processed": 295,
+ "llm_calls_today": 420,
+ "markets_indexed": 970,
+ "news_processed": 22,
  "cash": 74.23,
- "equity": 83.98,
+ "equity": 84.07,
  "start": 100.0,
  "open": [
   {
    "market_id": "4024681",
    "question": "Ravens vs. Falcons",
    "slug": "nfl-bal-atl-2026-10-12",
-   "outcome": "Ravens",
-   "token": "74165380163331720979414921501152578019938536235617754598507002443817009987344",
-   "shares": 25.64102564102564,
-   "entry": 0.39,
+   "outcome": "Falcons",
+   "token": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
+   "shares": 16.129032258064516,
+   "entry": 0.62,
    "cost": 10.0,
-   "opened": 1791760377.480951,
-   "opened_iso": "2026-10-11T23:12:57+00:00",
-   "news": "Christian Harris (LB, Atlanta Falcons) ruled out: healthy -> Out [NFL]",
-   "reason": "llm[groq-20b] trusted: Harris out hurts Falcons, likely boosts Ravens win odds",
-   "conf": 0.7,
+   "opened": 1791760459.6689935,
+   "opened_iso": "2026-10-11T23:14:19+00:00",
+   "news": "Aeneas Peebles (DT, Baltimore Ravens) ruled out: Active -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: Ravens ruled out, likely boosts Falcons win odds",
+   "conf": 0.65,
    "end": "2026-10-12T00:20:00+00:00",
-   "last_bid": 0.38,
+   "last_bid": 0.61,
    "book_err": false
   }
  ],
@@ -34,25 +34,19 @@
    "groq-120b",
    "groq-20b"
   ],
-  "fallbacks": 0,
+  "fallbacks": 5,
   "errors": {
-   "groq-120b": "rate limited, skip 19s"
+   "groq-120b": "rate limited, skip 30s",
+   "groq-20b": "rate limited, skip 4s"
   },
   "rejects": {
-   "fluff": 83,
-   "not-key": 38,
-   "no-pick": 11,
-   "unconfirmed": 15,
-   "team-not-named": 14,
-   "kind": 26,
-   "1-source": 30,
-   "no-market": 12,
-   "verify": 4,
-   "side": 3
+   "not-key": 5,
+   "side": 1,
+   "verify": 1
   },
   "calls": {
-   "groq-120b": 294,
-   "groq-20b": 173
+   "groq-120b": 259,
+   "groq-20b": 161
   }
  },
  "realized_pnl": -15.77
