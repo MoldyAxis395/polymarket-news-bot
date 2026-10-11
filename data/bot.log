@@ -6618,3 +6618,8 @@
 2026-10-11 19:13:35   drop[no-market] Forrest earns major invites with Spanish Open win (BBC) :: Scotland
 2026-10-11 19:14:10 indexed 1065 markets
 2026-10-11 19:14:15   drop[team-not-named] Poor Milik: Another Injury, Just 34 Minutes for Juve Since June 2024 (La Gazzetta dello Sport) :: Juventus Football Club
+2026-10-11 19:23:26   drop[1-source] Vikings Announce T.J. Hockenson Injury During Saints Game (heavy.com) :: T.J. Hockenson, wait 2nd source
+2026-10-11 19:24:11 indexed 1061 markets
+2026-10-11 19:25:59 NEWS [Politico 0m] Trump announces 'energy ceasefire' between Russia, Ukraine politi.co/4rZv9oY
+2026-10-11 19:25:59   skip Yes :: Will Russia and Ukraine hold any diplomatic meeting by October 31, 202 (low conf 0.6)
+2026-10-11 19:28:03 shift over, state saved
