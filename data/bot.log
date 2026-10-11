@@ -6481,3 +6481,40 @@
 2026-10-11 17:10:21   drop[kind] Zelenskyy urges Trump to endorse 'energy ceasefire' with Russia politi.co/4rZv9oY (Politico) :: other
 2026-10-11 17:11:38   drop[kind] Eagles Slammed With New Injury Scare as Concerns Grow (Yardbarker) :: other
 2026-10-11 17:13:56 indexed 1034 markets
+2026-10-11 17:20:55   drop[1-source] Spurs' Carter Bryant Leaves Preseason Game With Injury (Sports Illustrated) :: Carter Bryant, wait 2nd source
+2026-10-11 17:20:56   drop[1-source] 2nd Arsenal player also picked up injury in post-Leeds warm-down (Daily Cannon) :: Arsenal, wait 2nd source
+2026-10-11 17:23:56 indexed 1022 markets
+2026-10-11 17:27:50   drop[kind] Will Shipley Faces Uncertain Return After Foot Injury (SuaraGarut.ID) :: other
+2026-10-11 17:33:13   drop[kind] Children among 139 dead after boat capsizes off Djibouti, UN says (BBC) :: other
+2026-10-11 17:33:56 indexed 1033 markets
+2026-10-11 17:34:57   drop[team-not-named] Harsh truth revealed about Jayden Daniels' elbow injury that he suffered against the Cowbo (www.hitc.com) :: Washington Commanders
+2026-10-11 17:34:58   drop[kind] Rangers’ Igor Shesterkin Injury Isn’t Yet Officially Season-Ending (heavy.com) :: other
+2026-10-11 17:34:58   drop[team-not-named] Eagles dealing with more RB injury woes vs. Jaguars with Saquon Barkley already out (ClutchPoints) :: New York Giants
+2026-10-11 17:37:02   drop[1-source] Jalyx Hunt injury leaves Eagles short-handed with Greenard already out (Eagles Wire) :: Jalyx Hunt, wait 2nd source
+2026-10-11 17:39:19   drop[1-source] Bears Week 5 inactives: Caleb Williams officially ruled out against Packers (Bear Goggles On) :: Caleb Williams, wait 2nd source
+2026-10-11 17:39:20   drop[unconfirmed] Star Eagles Defender Suffers Concerning Leg Injury vs. Jaguars (Heavy.com) :: Defender suffered a concerning leg injury in game vs Jaguars
+2026-10-11 17:40:24   drop[not-key] Colbie Young (WR, Cincinnati Bengals) ruled out: Questionable -> Out [NFL] (ESPN) :: Colbie Young: injury
+2026-10-11 17:40:25   drop[not-key] Landon Robinson (DT, Cincinnati Bengals) ruled out: Active -> Out [NFL] (ESPN) :: Landon Robinson: ruled out due to injury
+2026-10-11 17:40:27   drop[verify] Connor Lew (C, Cincinnati Bengals) ruled out: healthy -> Out [NFL] (ESPN) :: player not on Bengals roster
+2026-10-11 17:40:28   drop[not-key] Jack Endries (TE, Cincinnati Bengals) ruled out: Active -> Out [NFL] (ESPN) :: Jack Endries: ruled out due to injury
+2026-10-11 17:40:28   drop[not-key] Myles Hinton (OT, Cincinnati Bengals) ruled out: Active -> Out [NFL] (ESPN) :: Myles Hinton: injury
+2026-10-11 17:40:29   drop[not-key] Dalton Tucker (G, Indianapolis Colts) ruled out: Active -> Out [NFL] (ESPN) :: Dalton Tucker: injury
+2026-10-11 17:40:29   drop[not-key] Riley Leonard (QB, Indianapolis Colts) ruled out: Active -> Out [NFL] (ESPN) :: Riley Leonard: injury
+2026-10-11 17:40:30   drop[not-key] Nicholas Singleton (RB, Tennessee Titans) ruled out: Active -> Out [NFL] (ESPN) :: Nicholas Singleton: ruled out due to injury
+2026-10-11 17:40:31 NEWS [ESPN 7m] Jaylon Jones (CB, Tennessee Titans) ruled out: Active -> Out [NFL]
+2026-10-11 17:40:31   skip Texans :: Texans vs. Titans (low conf 0.6)
+2026-10-11 17:40:31   llm groq-120b: rate limited, skip 7s
+2026-10-11 17:40:32   drop[not-key] Jackie Marshall (DT, Tennessee Titans) ruled out: Active -> Out [NFL] (ESPN) :: Jackie Marshall: injury
+2026-10-11 17:40:32   drop[not-key] David Martin-Robinson (TE, Tennessee Titans) ruled out: Questionable -> Out [NFL] (ESPN) :: David Martin-Robinson: injury
+2026-10-11 17:40:32   drop[not-key] Brandon Crenshaw-Dickson (OT, Tennessee Titans) ruled out: Active -> Out [NFL] (ESPN) :: Brandon Crenshaw-Dickson: injury
+2026-10-11 17:40:33   drop[not-key] Michael Carter (RB, Tennessee Titans) ruled out: Active -> Out [NFL] (ESPN) :: Michael Carter: injury
+2026-10-11 17:41:38   drop[not-key] New Orleans Saints vs. Minnesota Vikings Inactives: Vernon Broughton and Nathan Shepherd r (Canal Street Chronicles) :: Vernon Broughton: ruled out for upcoming game
+2026-10-11 17:41:39 NEWS [CoinDesk 1m] President Trump declares 'energy ceasefire' between Russia and Ukraine
+2026-10-11 17:41:39   skip Yes :: Russia-Ukraine peace talks by October 31, 2026? (low conf 0.6)
+2026-10-11 17:43:58 indexed 1038 markets
+2026-10-11 17:46:21   drop[1-source] The Eagles just suffered another major injury blow vs. Jaguars (PennLive.com) :: Philadelphia Eagles, wait 2nd source
+2026-10-11 17:46:22   drop[not-key] Patriots Get Final Injury Verdict on Raiders RB Ashton Jeanty (Heavy.com) :: Ashton Jeanty: final injury verdict rules him out
+2026-10-11 17:46:31   drop[not-key] Behren Morton (QB, New England Patriots) ruled out: Active -> Out [NFL] (ESPN) :: Behren Morton: injury
+2026-10-11 17:46:31   drop[not-key] Dametrious Crownover (OT, New England Patriots) ruled out: Active -> Out [NFL] (ESPN) :: Dametrious Crownover: injury
+2026-10-11 17:46:37 NEWS [Politico 1m] Trump announces 'energy ceasefire' between Russia, Ukraine politi.co/4rZv9oY
+2026-10-11 17:46:37   skip Yes :: Will Russia and Ukraine hold any diplomatic meeting by October 31, 202 (low conf 0.6)
