@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-12T01:18:25",
+ "updated": "2026-10-12T01:48:22",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 420,
- "markets_indexed": 970,
- "news_processed": 22,
+ "llm_calls_today": 431,
+ "markets_indexed": 960,
+ "news_processed": 40,
  "cash": 74.23,
- "equity": 84.07,
+ "equity": 84.23,
  "start": 100.0,
  "open": [
   {
@@ -24,7 +24,7 @@
    "reason": "llm[groq-20b] trusted: Ravens ruled out, likely boosts Falcons win odds",
    "conf": 0.65,
    "end": "2026-10-12T00:20:00+00:00",
-   "last_bid": 0.61,
+   "last_bid": 0.62,
    "book_err": false
   }
  ],
@@ -35,18 +35,21 @@
    "groq-20b"
   ],
   "fallbacks": 5,
-  "errors": {
-   "groq-120b": "rate limited, skip 30s",
-   "groq-20b": "rate limited, skip 4s"
-  },
+  "errors": {},
   "rejects": {
    "not-key": 5,
    "side": 1,
-   "verify": 1
+   "verify": 1,
+   "no-pick": 1,
+   "team-not-named": 1,
+   "1-source": 3,
+   "kind": 1,
+   "fluff": 5,
+   "no-market": 2
   },
   "calls": {
-   "groq-120b": 259,
-   "groq-20b": 161
+   "groq-120b": 266,
+   "groq-20b": 165
   }
  },
  "realized_pnl": -15.77

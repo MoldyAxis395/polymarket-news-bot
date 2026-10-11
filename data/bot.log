@@ -6784,3 +6784,16 @@
 2026-10-12 01:14:19   BUY Falcons @ 0.620 x16.1 ($10.00) :: Ravens vs. Falcons
 2026-10-12 01:14:20   llm groq-20b: rate limited, skip 4s
 2026-10-12 01:15:47 [pengwin]   SELL Over @ 1.000 (resolved) pnl +1.69 :: Cagliari Calcio vs. Juventus FC: Juventus FC O/U 0.5
+2026-10-12 01:21:09   drop[no-pick] Deebo Samuel Sr. (WR, San Francisco 49ers) ruled out: Questionable -> Out [NFL] (ESPN) :: short
+2026-10-12 01:21:20   llm groq-120b: rate limited, skip 113s
+2026-10-12 01:21:21   drop[team-not-named] Deebo Samuel Sr. Ruled out with hamstring injury (Fantasy Footballers Podcast) :: San Francisco 49ers
+2026-10-12 01:21:21   drop[1-source] Ravens inactives @ Atlanta for Sunday Night Football; Lamar Jackson ruled out (ankle) (WBFF) :: Lamar Jackson, wait 2nd source
+2026-10-12 01:21:21   drop[kind] High Chloride Levels in the Blood Linked to Higher Death and Kidney Injury Risk in Critica (Bioengineer.org) :: other
+2026-10-12 01:24:13 indexed 970 markets
+2026-10-12 01:28:10   drop[no-market] 49ers WR Deebo Samuel leaves game with hamstring injury (AP News) :: San Francisco 49ers
+2026-10-12 01:32:59   drop[1-source] 49ers veteran pass rusher suffers injury in 4th quarter vs. Seahawks (Niners Wire) :: Arik Armstead, wait 2nd source
+2026-10-12 01:32:59   llm groq-120b: rate limited, skip 77s
+2026-10-12 01:32:59   drop[1-source] The Rangers salary-cap ramifications of Igor Shesterkin’s season-ending injury (New York Post) :: Igor Shesterkin, wait 2nd source
+2026-10-12 01:34:13 indexed 968 markets
+2026-10-12 01:37:23   drop[no-market] Deebo Samuel Injury Shifts 49ers Receiving Duties Against Seahawks (SuaraGarut.ID) :: San Francisco 49ers
+2026-10-12 01:44:12 indexed 960 markets
