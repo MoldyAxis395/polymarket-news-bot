@@ -6618,3 +6618,26 @@
 2026-10-11 19:28:58 NEWS [Politico 3m] Trump announces 'energy ceasefire' between Russia, Ukraine politi.co/4rZv9oY
 2026-10-11 19:28:58   skip Yes :: Will Russia and Ukraine hold any diplomatic meeting by October 31, 202 (low conf 0.6)
 2026-10-11 19:32:59   drop[not-key] Browns WR KC Concepcion has been ruled out with a head injury after that hit from Jets DB  (Ian Rapoport) :: KC Concepcion: head injury from hit by Jets DB Minkah Fitzpatrick
+2026-10-11 19:34:50   drop[no-pick] KC Concepcion (WR, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: short
+2026-10-11 19:36:04   drop[not-key] KC Concepcion ruled out with head injury, Browns cut Jets lead to 7-3 (NBC Sports) :: KC Concepcion: head injury
+2026-10-11 19:38:45 indexed 1045 markets
+2026-10-11 19:41:27   llm groq-120b: rate limited, skip 594s
+2026-10-11 19:41:27   drop[unconfirmed] KC Concepcion Jr. ruled out vs. the Jets (Cleveland Browns) :: injury
+2026-10-11 19:43:47   drop[team-not-named] Connor Bedard Injury: Cleared for contact (RotoWire) :: Edmonton Oilers
+2026-10-11 19:46:01   drop[kind] Indian national injured in Riyadh airport attack dies, embassy says reut.rs/4zmwLvm (Reuters) :: other
+2026-10-11 19:46:05   drop[not-key] KC Concepcion Jr. Ruled out of Sunday's game (Fantasy Footballers Podcast) :: KC Concepcion Jr.: injury
+2026-10-11 19:46:06   drop[kind] Browns WR room takes major hit after KC Concepcion injury announcement (The Big Lead) :: other
+2026-10-11 19:46:06   drop[1-source] Vikings lose T.J. Hockenson to head injury on the second play in NOLA (Yardbarker) :: T.J. Hockenson, wait 2nd source
+2026-10-11 19:48:44 indexed 1046 markets
+2026-10-11 19:48:57   drop[not-key] Browns Rookie KC Concepcion Ruled Out With Head Injury vs. Jets (247Sports) :: KC Concepcion: head injury
+2026-10-11 19:48:57   drop[unconfirmed] Aaron Jones questionable to return with knee injury, T.J. Hockenson ruled out (NBC Sports) :: injury
+2026-10-11 19:51:28   drop[1-source] Aaron Jones Injury: Vikings Announce Status During Saints Game (heavy.com) :: Aaron Jones, wait 2nd source
+2026-10-11 19:51:29   drop[1-source] Packers’ Weapon Exits Bears Game With Ankle Injury, Matthew Golden Steps In (heavy.com) :: Christian Watson, wait 2nd source
+2026-10-11 19:51:30   drop[kind] Browns Lose Wide Receiver KC Concepcion to Head Injury Against Jets (SSBCrack) :: other
+2026-10-11 19:56:33   drop[no-pick] T.J. Hockenson (TE, Minnesota Vikings) ruled out: Questionable -> Out [NFL] (ESPN) :: short
+2026-10-11 19:59:00 indexed 1044 markets
+2026-10-11 19:59:01   llm groq-120b: rate limited, skip 89s
+2026-10-11 19:59:01   drop[unconfirmed] Brian Fitzpatrick won by 13 points in 2024. Now, Democrats smell blood in the water. polit (Politico) :: won by 13 points
+2026-10-11 20:00:38   llm groq-120b: rate limited, skip 471s
+2026-10-11 20:00:38   drop[kind] Nicole Scherzinger wows in figure-hugging sequins after sharing burns injury (Daily Star) :: other
+2026-10-11 20:02:55   drop[1-source] Raiders DT Tonka Hemingway leaves Week 5 vs Patriots with injury (Raiders Wire) :: Tonka Hemingway, wait 2nd source
