@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-11T20:59:56",
+ "updated": "2026-10-11T21:30:46",
  "start": 100.0,
- "cash": 126.04,
- "equity": 148.15,
+ "cash": 138.7,
+ "equity": 146.99,
  "open": [
   {
    "market_id": "5064385",
@@ -19,31 +19,12 @@
    "reason": "pengwin approx: Juventus to score at least 1 goal (Over 0.5) matches one leg of the combo",
    "conf": 1.0,
    "end": "2026-10-11T18:45:00+00:00",
-   "last_bid": 0.81,
+   "last_bid": 0.71,
    "book_err": false
-  },
-  {
-   "market_id": "5067010",
-   "question": "Real Betis Balompi\u00e9 vs. CA Osasuna: O/U 1.5",
-   "slug": "lal-bet-osa-2026-10-11-total-1pt5",
-   "outcome": "Over",
-   "token": "85145864310070496659156771122843016523499589416716689226005635052814479702347",
-   "shares": 12.658227848101266,
-   "entry": 0.79,
-   "cost": 10.0,
-   "opened": 1791583153.3150659,
-   "opened_iso": "2026-10-09T21:59:13+00:00",
-   "news": "Betis-Osasuna: OVER 1.5 (approssimato)",
-   "reason": "pengwin approx: combo 1X+Over 1.5, pick Over 1.5 leg",
-   "conf": 1.0,
-   "end": "2026-10-11T16:30:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1791745253.4124506
   }
  ],
- "closed_count": 8,
- "realized_pnl": 46.04,
+ "closed_count": 9,
+ "realized_pnl": 48.7,
  "pages": {
   "pending": 86,
   "picked": 0,

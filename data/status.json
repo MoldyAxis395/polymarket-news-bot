@@ -1,14 +1,33 @@
 {
- "updated": "2026-10-11T21:03:19",
+ "updated": "2026-10-11T21:33:07",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 340,
- "markets_indexed": 1013,
- "news_processed": 116,
- "cash": 84.56,
- "equity": 84.56,
+ "llm_calls_today": 373,
+ "markets_indexed": 991,
+ "news_processed": 156,
+ "cash": 74.56,
+ "equity": 84.23,
  "start": 100.0,
- "open": [],
+ "open": [
+  {
+   "market_id": "4024677",
+   "question": "Lions vs. Cardinals",
+   "slug": "nfl-det-ari-2026-10-11",
+   "outcome": "Cardinals",
+   "token": "45771357044293249394701484141194198475871091757894999118580113740262781405581",
+   "shares": 32.25806451612903,
+   "entry": 0.31,
+   "cost": 10.0,
+   "opened": 1791745767.2875834,
+   "opened_iso": "2026-10-11T19:09:27+00:00",
+   "news": "Mekhi Wingo (DT, Detroit Lions) ruled out: Active -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: Wingo out hurts Lions, Cardinals win odds should rise",
+   "conf": 0.8,
+   "end": "2026-10-11T20:25:00+00:00",
+   "last_bid": 0.3,
+   "book_err": false
+  }
+ ],
  "closed_count": 85,
  "llm": {
   "backends": [
@@ -16,21 +35,24 @@
    "groq-20b"
   ],
   "fallbacks": 0,
-  "errors": {},
+  "errors": {
+   "groq-120b": "rate limited, skip 1104s"
+  },
   "rejects": {
-   "fluff": 33,
-   "not-key": 14,
-   "no-pick": 5,
-   "unconfirmed": 8,
-   "team-not-named": 5,
+   "fluff": 44,
+   "not-key": 25,
+   "no-pick": 8,
+   "unconfirmed": 11,
+   "team-not-named": 6,
    "kind": 10,
-   "1-source": 12,
-   "no-market": 4,
-   "verify": 2
+   "1-source": 13,
+   "no-market": 7,
+   "verify": 2,
+   "side": 2
   },
   "calls": {
-   "groq-120b": 229,
-   "groq-20b": 111
+   "groq-120b": 233,
+   "groq-20b": 140
   }
  },
  "realized_pnl": -15.44

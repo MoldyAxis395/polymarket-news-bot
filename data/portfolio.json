@@ -1,6 +1,25 @@
 {
- "cash": 84.55553312134748,
- "positions": [],
+ "cash": 74.55553312134748,
+ "positions": [
+  {
+   "market_id": "4024677",
+   "question": "Lions vs. Cardinals",
+   "slug": "nfl-det-ari-2026-10-11",
+   "outcome": "Cardinals",
+   "token": "45771357044293249394701484141194198475871091757894999118580113740262781405581",
+   "shares": 32.25806451612903,
+   "entry": 0.31,
+   "cost": 10.0,
+   "opened": 1791745767.2875834,
+   "opened_iso": "2026-10-11T19:09:27+00:00",
+   "news": "Mekhi Wingo (DT, Detroit Lions) ruled out: Active -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: Wingo out hurts Lions, Cardinals win odds should rise",
+   "conf": 0.8,
+   "end": "2026-10-11T20:25:00+00:00",
+   "last_bid": 0.3,
+   "book_err": false
+  }
+ ],
  "closed": [
   {
    "market_id": "3871412",

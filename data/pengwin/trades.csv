@@ -17,3 +17,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-10T23:02:31+00:00,SELL,SSC Napoli vs. Frosinone Calcio: SSC Napoli O/U 2.5,Over,23.26,1.0000,23.26,+13.26,resolved
 2026-10-11T13:01:47+00:00,SELL,Will Como 1907 vs. AS Roma end in a draw?,Yes,35.71,1.0000,35.71,+25.71,resolved
 2026-10-11T18:33:47+00:00,SELL,US Sassuolo Calcio vs. AC Milan: O/U 1.5,Over,12.50,1.0000,12.50,+2.50,resolved
+2026-10-11T19:03:41+00:00,SELL,Real Betis Balompié vs. CA Osasuna: O/U 1.5,Over,12.66,1.0000,12.66,+2.66,resolved
