@@ -18,3 +18,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-11T13:01:47+00:00,SELL,Will Como 1907 vs. AS Roma end in a draw?,Yes,35.71,1.0000,35.71,+25.71,resolved
 2026-10-11T18:33:47+00:00,SELL,US Sassuolo Calcio vs. AC Milan: O/U 1.5,Over,12.50,1.0000,12.50,+2.50,resolved
 2026-10-11T19:03:41+00:00,SELL,Real Betis Balompié vs. CA Osasuna: O/U 1.5,Over,12.66,1.0000,12.66,+2.66,resolved
+2026-10-11T21:12:40+00:00,SELL,Cagliari Calcio vs. Juventus FC: Juventus FC O/U 0.5,Over,11.69,1.0000,11.69,+1.69,resolved

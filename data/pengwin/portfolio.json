@@ -1,26 +1,6 @@
 {
- "cash": 138.69555478131863,
- "positions": [
-  {
-   "market_id": "5064385",
-   "question": "Cagliari Calcio vs. Juventus FC: Juventus FC O/U 0.5",
-   "slug": "sea-cag-juv-2026-10-11-team-total-away-0pt5",
-   "outcome": "Over",
-   "token": "28821681694826515643790011909555942301580004709587879153416145488476018521485",
-   "shares": 11.686046511627907,
-   "entry": 0.8557213930348259,
-   "cost": 10.0,
-   "opened": 1791583065.342053,
-   "opened_iso": "2026-10-09T21:57:45+00:00",
-   "news": "CAGLIARI-JUVENTUS: MG 1-3 OSPITE (approssimato)",
-   "reason": "pengwin approx: Juventus to score at least 1 goal (Over 0.5) matches one leg of the combo",
-   "conf": 1.0,
-   "end": "2026-10-11T18:45:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1791753142.3000493
-  }
- ],
+ "cash": 150.38160129294653,
+ "positions": [],
  "closed": [
   {
    "market_id": "5009005",
@@ -228,6 +208,29 @@
    "pnl": 2.6582278481012658,
    "why": "resolved",
    "closed_iso": "2026-10-11T19:03:42+00:00"
+  },
+  {
+   "market_id": "5064385",
+   "question": "Cagliari Calcio vs. Juventus FC: Juventus FC O/U 0.5",
+   "slug": "sea-cag-juv-2026-10-11-team-total-away-0pt5",
+   "outcome": "Over",
+   "token": "28821681694826515643790011909555942301580004709587879153416145488476018521485",
+   "shares": 11.686046511627907,
+   "entry": 0.8557213930348259,
+   "cost": 10.0,
+   "opened": 1791583065.342053,
+   "opened_iso": "2026-10-09T21:57:45+00:00",
+   "news": "CAGLIARI-JUVENTUS: MG 1-3 OSPITE (approssimato)",
+   "reason": "pengwin approx: Juventus to score at least 1 goal (Over 0.5) matches one leg of the combo",
+   "conf": 1.0,
+   "end": "2026-10-11T18:45:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1791753760.837692,
+   "exit": 1.0,
+   "pnl": 1.6860465116279073,
+   "why": "resolved",
+   "closed_iso": "2026-10-11T21:12:41+00:00"
   }
  ],
  "cooldown": {
@@ -239,6 +242,7 @@
   "5012784": 1791684152.432425,
   "5057077": 1791734508.4466627,
   "5064546": 1791754427.7966242,
-  "5067010": 1791756222.2289855
+  "5067010": 1791756222.2289855,
+  "5064385": 1791763961.4269254
  }
 }
