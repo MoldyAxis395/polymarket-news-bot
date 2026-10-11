@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-11T09:50:03",
+ "updated": "2026-10-11T10:19:57",
  "start": 100.0,
  "cash": 77.82,
- "equity": 116.68,
+ "equity": 117.04,
  "open": [
   {
    "market_id": "5057077",
@@ -19,7 +19,7 @@
    "reason": "pengwin exact: draw leg matches market 1 Yes",
    "conf": 1.0,
    "end": "2026-10-11T10:30:00+00:00",
-   "last_bid": 0.26,
+   "last_bid": 0.27,
    "book_err": false
   },
   {
