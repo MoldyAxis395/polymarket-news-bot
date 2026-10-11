@@ -6518,3 +6518,84 @@
 2026-10-11 17:46:31   drop[not-key] Dametrious Crownover (OT, New England Patriots) ruled out: Active -> Out [NFL] (ESPN) :: Dametrious Crownover: injury
 2026-10-11 17:46:37 NEWS [Politico 1m] Trump announces 'energy ceasefire' between Russia, Ukraine politi.co/4rZv9oY
 2026-10-11 17:46:37   skip Yes :: Will Russia and Ukraine hold any diplomatic meeting by October 31, 202 (low conf 0.6)
+2026-10-11 17:48:39   drop[kind] Postecoglou: Al Nassr faces injury challenges and fix… (YSscores) :: other
+2026-10-11 17:49:34   drop[not-key] Taylen Green (QB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Taylen Green: injury
+2026-10-11 17:49:37   drop[verify] Parker Brailsford (C, Cleveland Browns) ruled out: healthy -> Out [NFL] (ESPN) :: player not on Browns or not impactful
+2026-10-11 17:49:37   drop[not-key] Jacob Monk (C, Green Bay Packers) ruled out: Doubtful -> Out [NFL] (ESPN) :: Jacob Monk: injury ruled him out
+2026-10-11 17:49:40   drop[verify] Donovan Jennings (G, Green Bay Packers) ruled out: healthy -> Out [NFL] (ESPN) :: Jennings isn’t a starter or key impact player, so his injury won’t swing the Bears‑Packers market 5+ points; other crite
+2026-10-11 17:49:42   drop[verify] Aaron Banks (G, Green Bay Packers) ruled out: Doubtful -> Out [NFL] (ESPN) :: player status uncertain, not a star impact, some points unclear
+2026-10-11 17:49:42   drop[not-key] Anthony Campbell (DT, Green Bay Packers) ruled out: Questionable -> Out [NFL] (ESPN) :: Anthony Campbell: injury
+2026-10-11 17:49:43   drop[not-key] Terell Smith (CB, Pittsburgh Steelers) ruled out: Active -> Out [NFL] (ESPN) :: Terell Smith: injury
+2026-10-11 17:49:44   drop[not-key] Rico Dowdle (RB, Pittsburgh Steelers) ruled out: Questionable -> Out [NFL] (ESPN) :: Rico Dowdle: injury
+2026-10-11 17:49:44   llm groq-120b: rate limited, skip 4s
+2026-10-11 17:49:44   drop[not-key] Eli Heidenreich (RB, Pittsburgh Steelers) ruled out: Active -> Out [NFL] (ESPN) :: Eli Heidenreich: injury
+2026-10-11 17:49:45 NEWS [ESPN 10m] Will Howard (QB, Pittsburgh Steelers) ruled out: Active -> Out [NFL]
+2026-10-11 17:49:45   skip Colts :: Colts vs. Steelers (low conf 0.6)
+2026-10-11 17:49:45   drop[not-key] Kevin Jobity Jr. (DT, Pittsburgh Steelers) ruled out: Active -> Out [NFL] (ESPN) :: Kevin Jobity Jr.: injury
+2026-10-11 17:49:46   drop[side] Drew Allar (QB, Pittsburgh Steelers) ruled out: Active -> Out [NFL] (ESPN) :: Colts vs. Steelers -> Steelers vs fact ruled_out: Drew Allar (Pittsburgh Steelers, nfl), bad for Pittsburgh Steelers. in
+2026-10-11 17:50:58   drop[1-source] Final Week 5 injury statuses for Vikings’ Justin Jefferson, Jordan Addison, Odell Beckham  (ClutchPoints) :: Justin Jefferson, wait 2nd source
+2026-10-11 17:51:36 NEWS [ESPN 3m] Devin Singletary (RB, New York Giants) ruled out: Active -> Out [NFL]
+2026-10-11 17:51:36   skip Commanders :: Giants vs. Commanders (low conf 0.6)
+2026-10-11 17:51:37 NEWS [ESPN 3m] Nikko Reed (CB, New York Giants) ruled out: Active -> Out [NFL]
+2026-10-11 17:51:37   skip Commanders :: Giants vs. Commanders (low conf 0.6)
+2026-10-11 17:51:39 NEWS [ESPN 3m] Bobby Jamison-Travis (DT, New York Giants) ruled out: Active -> Out [NFL]
+2026-10-11 17:51:39   skip Commanders :: Giants vs. Commanders (low conf 0.6)
+2026-10-11 17:51:40 NEWS [ESPN 3m] J.C. Davis (OT, New York Giants) ruled out: Active -> Out [NFL]
+2026-10-11 17:51:40   skip Commanders :: Giants vs. Commanders (low conf 0.6)
+2026-10-11 17:51:40   drop[not-key] Jake Haener (QB, New York Giants) ruled out: Active -> Out [NFL] (ESPN) :: Jake Haener: injury
+2026-10-11 17:52:36   drop[not-key] Marlin Klein (TE, Houston Texans) ruled out: Active -> Out [NFL] (ESPN) :: Marlin Klein: ruled out for upcoming game
+2026-10-11 17:52:37   llm groq-120b: rate limited, skip 178s
+2026-10-11 17:52:37   drop[not-key] Collin Wright (CB, Houston Texans) ruled out: healthy -> Out [NFL] (ESPN) :: Collin Wright: injury
+2026-10-11 17:52:37   drop[not-key] Nate Thomas (OT, Houston Texans) ruled out: Active -> Out [NFL] (ESPN) :: Nate Thomas: injury
+2026-10-11 17:52:38   drop[not-key] Febechi Nwaiwu (G, Houston Texans) ruled out: Active -> Out [NFL] (ESPN) :: Febechi Nwaiwu: injury
+2026-10-11 17:52:38   drop[not-key] Aiden Fisher (LB, Houston Texans) ruled out: healthy -> Out [NFL] (ESPN) :: Aiden Fisher: injury
+2026-10-11 17:52:38   drop[not-key] Sabastian Harsh (DE, Houston Texans) ruled out: healthy -> Out [NFL] (ESPN) :: Sebastian Harsh: injury
+2026-10-11 17:52:39   drop[not-key] Chris Braswell (DE, Houston Texans) ruled out: Active -> Out [NFL] (ESPN) :: Chris Braswell: injury
+2026-10-11 17:52:39   drop[not-key] Aidan O'Connell (QB, Las Vegas Raiders) ruled out: Active -> Out [NFL] (ESPN) :: Aidan O'Connell: injury
+2026-10-11 17:52:40 NEWS [ESPN 11m] JJ Pegues (DT, Las Vegas Raiders) ruled out: healthy -> Out [NFL]
+2026-10-11 17:52:40   skip Patriots :: Raiders vs. Patriots (low conf 0.6)
+2026-10-11 17:52:40   drop[not-key] Dalton Johnson (S, Las Vegas Raiders) ruled out: healthy -> Out [NFL] (ESPN) :: Dalton Johnson: injury
+2026-10-11 17:52:40   drop[not-key] Tristin McCollum (S, Las Vegas Raiders) ruled out: Active -> Out [NFL] (ESPN) :: Tristin McCollum: injury
+2026-10-11 17:53:30   drop[1-source] Vikings Official Inactives vs Saints: Jordan Addison And Odell Beckham Jr. Ruled Out as Ju (The Sunday Guardian) :: Jordan Addison, wait 2nd source
+2026-10-11 17:54:00 indexed 1024 markets
+2026-10-11 17:54:01   drop[not-key] Chukwuebuka Godrick (OT, Miami Dolphins) ruled out: Active -> Out [NFL] (ESPN) :: Chukwuebuka Godrick: injury
+2026-10-11 17:54:02   drop[not-key] Kaytron Allen (RB, Miami Dolphins) ruled out: Active -> Out [NFL] (ESPN) :: Kaytron Allen: injury
+2026-10-11 17:54:02   drop[not-key] DJ Campbell (G, Miami Dolphins) ruled out: Active -> Out [NFL] (ESPN) :: DJ Campbell: injury
+2026-10-11 17:55:03   drop[not-key] Roman Hemby (RB, Las Vegas Raiders) ruled out: Active -> Out [NFL] (ESPN) :: Roman Hemby: injury
+2026-10-11 17:55:38   drop[no-market] Eagles Superstar Suffers Gruesome Knee Injury — Visibly Concerned Trainers Look On In Horr (TotalProSports) :: Philadelphia Eagles
+2026-10-11 17:56:03   llm groq-120b: rate limited, skip 191s
+2026-10-11 17:56:03   drop[not-key] Elijah Williams (DE, Minnesota Vikings) ruled out: Active -> Out [NFL] (ESPN) :: Elijah Williams: injury
+2026-10-11 17:56:03   drop[not-key] Jakobe Thomas (S, Minnesota Vikings) ruled out: Active -> Out [NFL] (ESPN) :: Jakobe Thomas: injury
+2026-10-11 17:56:04 NEWS [ESPN 4m] Odell Beckham Jr. (WR, Minnesota Vikings) ruled out: Active -> Out [NFL]
+2026-10-11 17:56:04   skip Saints :: Vikings vs. Saints (low conf 0.6)
+2026-10-11 17:56:05 NEWS [ESPN 4m] Max Brosmer (QB, Minnesota Vikings) ruled out: Active -> Out [NFL]
+2026-10-11 17:56:05   skip Saints :: Vikings vs. Saints (low conf 0.6)
+2026-10-11 17:56:05   drop[not-key] Jordan Addison (WR, Minnesota Vikings) ruled out: Questionable -> Out [NFL] (ESPN) :: Jordan Addison: injury
+2026-10-11 17:56:06   drop[not-key] Nahshon Wright (CB, New York Jets) ruled out: Active -> Out [NFL] (ESPN) :: Nahshon Wright: injury
+2026-10-11 17:56:06   drop[not-key] Nate Lynn (DE, New York Jets) ruled out: Active -> Out [NFL] (ESPN) :: Nate Lynn: injury
+2026-10-11 17:57:54   drop[1-source] Eagles lose another safety to injury (Bleeding Green Nation) :: Darius Slay, wait 2nd source
+2026-10-11 17:57:55   drop[not-key] Will Shipley Injury: Won't return to Sunday's game (RotoWire) :: Will Shipley: injury
+2026-10-11 17:58:04   drop[unconfirmed] Nathan Shepherd (DT, New Orleans Saints) ruled out: Questionable -> Out [NFL] (ESPN) :: illness
+2026-10-11 17:59:04   drop[not-key] Cameron Crotty (D, Ottawa Senators) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: Cameron Crotty: day‑to‑day injury
+2026-10-11 18:02:07   llm groq-120b: rate limited, skip 68s
+2026-10-11 18:02:08   drop[verify] Caleb Williams (QB, Chicago Bears) ruled out: Questionable -> Out [NFL] (ESPN) :: Caleb Williams is not on the Bears
+2026-10-11 18:02:09   drop[not-key] Tanoa Togiai (G, Washington Commanders) ruled out: healthy -> Out [NFL] (ESPN) :: Tanoa Togiai: injury
+2026-10-11 18:02:41   drop[kind] 2 NFL officials suspended for Week 5 after confrontations with players (AL.com) :: other
+2026-10-11 18:03:09   drop[side] Zach Wilson (QB, New Orleans Saints) ruled out: Active -> Out [NFL] (ESPN) :: Vikings vs. Saints -> Saints vs fact ruled_out: Zach Wilson (New Orleans Saints, nfl), bad for New Orleans Saints. injur
+2026-10-11 18:03:09   drop[not-key] Mike Reid (CB, New Orleans Saints) ruled out: Active -> Out [NFL] (ESPN) :: Mike Reid: injury
+2026-10-11 18:03:10   drop[not-key] Vernon Broughton (DT, New Orleans Saints) ruled out: Questionable -> Out [NFL] (ESPN) :: Vernon Broughton: injury
+2026-10-11 18:03:10   drop[no-pick] Will Shipley (RB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: no matching market
+2026-10-11 18:03:59 indexed 1039 markets
+2026-10-11 18:04:09   llm groq-120b: rate limited, skip 60s
+2026-10-11 18:04:09   drop[not-key] Ozzy Trapilo (OT, Chicago Bears) ruled out: Active -> Out [NFL] (ESPN) :: Ozzy Trapilo: injury
+2026-10-11 18:04:09   drop[not-key] Jamree Kromah (DE, Chicago Bears) ruled out: Active -> Out [NFL] (ESPN) :: Jamree Kromah: injury
+2026-10-11 18:04:10   drop[no-pick] Jayden Loving (DT, Chicago Bears) ruled out: Active -> Out [NFL] (ESPN) :: no outcome in the relevant market is expected to rise by 5+ points
+2026-10-11 18:04:48   drop[1-source] Bills' Final Week 5 Injury Report: DJ Moore Practices Saturday, Two Ruled Out for MNF (Sports Illustrated) :: Buffalo Bills, wait 2nd source
+2026-10-11 18:04:49   drop[1-source] Jaguars left tackle Anton Harrison injured vs. Eagles, carted off field (The Florida Times-Union) :: Anton Harrison, wait 2nd source
+2026-10-11 18:04:49   drop[not-key] Eagles news: Jalyx Hunt refuses cart after injury on Philly's huge 4th-down stop to end ha (ClutchPoints) :: Jalyx Hunt: injury
+2026-10-11 18:07:05   llm groq-120b: rate limited, skip 64s
+2026-10-11 18:07:06 NEWS [Newsday 1m] Bears QB Caleb Williams misses third straight game with hamstring injury
+2026-10-11 18:07:06   skip Packers :: Bears vs. Packers (low conf 0.6)
+2026-10-11 18:07:06   drop[not-key] Red Sox’ Caleb Durbin undergoes surgery after playing through pinky injury (Boston Herald) :: Caleb Durbin: surgery
+2026-10-11 18:14:02 indexed 1032 markets
+2026-10-11 18:16:25   drop[team-not-named] Chris Tanev Injury A Dark Cloud After Maple Leafs Stunning Win Over Avalanche (Sportsnaut) :: Vancouver Canucks
