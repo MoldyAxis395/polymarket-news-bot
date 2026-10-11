@@ -6287,3 +6287,14 @@
 2026-10-11 02:23:25   drop[1-source] Maple Leafs’ Chris Tanev ruled out vs. Avalanche due to upper-body injury (The Leafs Nation) :: Chris Tanev, wait 2nd source
 2026-10-11 02:31:04 indexed 1026 markets
 2026-10-11 02:31:29   drop[no-market] Maple Leafs' Chris Tanev exits vs. Avalanche with upper-body injury (Sportsnet.ca) :: Toronto Maple Leafs
+2026-10-11 02:38:04   drop[team-not-named] Ronaldo provisionally suspended by Portuguese federation (Banglanews24) :: Portugal national football team
+2026-10-11 02:41:01 indexed 1035 markets
+2026-10-11 02:41:37 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-11 02:41:37   drop[no-market] Leafs' Tanev exits vs. Avalanche with upper-body injury (theScore) :: Toronto Maple Leafs
+2026-10-11 02:48:03   drop[1-source] Boise State star receiver Rasean Jones ruled out ahead of Fresno State game (Sports Illustrated) :: Rasean Jones, wait 2nd source
+2026-10-11 02:48:04   drop[kind] Leafs’ Chris Tanev leaves game against Avalanche with upper-body injury (Daily Faceoff) :: other
+2026-10-11 02:51:05 indexed 1026 markets
+2026-10-11 02:53:29   drop[1-source] Wallabies turn to Corey Toole and young midfielder after Len Ikitau injury (Rugbypass.com) :: Len Ikitau, wait 2nd source
+2026-10-11 02:58:06   drop[1-source] Ronaldo Suspended for Unauthorized National Team Departure (조선일보) :: Cristiano Ronaldo, wait 2nd source
+2026-10-11 03:00:32 indexed 1036 markets
+2026-10-11 03:02:47 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
