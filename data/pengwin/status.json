@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T20:02:43",
+ "updated": "2026-10-11T20:32:46",
  "start": 100.0,
  "cash": 113.54,
  "equity": 148.37,
@@ -20,7 +20,8 @@
    "conf": 1.0,
    "end": "2026-10-11T16:00:00+00:00",
    "last_bid": 0.999,
-   "book_err": false
+   "book_err": true,
+   "settle_retry": 1791743572.8845594
   },
   {
    "market_id": "5064385",
