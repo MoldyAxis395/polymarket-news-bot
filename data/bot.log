@@ -6611,15 +6611,10 @@
 2026-10-11 18:34:02 indexed 1046 markets
 2026-10-11 18:41:46   drop[not-key] Sebastian Nanasi misses Strasbourg's Nice defeat after Sweden injury (OneFootball) :: Sebastian Nanasi: missed Strasbourg vs Nice match due to Sweden injury
 2026-10-11 18:44:05 indexed 1034 markets
-2026-10-11 18:54:09 indexed 1030 markets
-2026-10-11 19:02:38   drop[1-source] Injury in Beşiktaş, which faced Kocaelispor (Haberler.com) :: Beşiktaş JK, wait 2nd source
-2026-10-11 19:04:08 indexed 1074 markets
-2026-10-11 19:04:58   drop[kind] Riyadh Flights Suspended After Airport Attacks (Oz Arab Media) :: other
-2026-10-11 19:13:35   drop[no-market] Forrest earns major invites with Spanish Open win (BBC) :: Scotland
-2026-10-11 19:14:10 indexed 1065 markets
-2026-10-11 19:14:15   drop[team-not-named] Poor Milik: Another Injury, Just 34 Minutes for Juve Since June 2024 (La Gazzetta dello Sport) :: Juventus Football Club
-2026-10-11 19:23:26   drop[1-source] Vikings Announce T.J. Hockenson Injury During Saints Game (heavy.com) :: T.J. Hockenson, wait 2nd source
-2026-10-11 19:24:11 indexed 1061 markets
-2026-10-11 19:25:59 NEWS [Politico 0m] Trump announces 'energy ceasefire' between Russia, Ukraine politi.co/4rZv9oY
-2026-10-11 19:25:59   skip Yes :: Will Russia and Ukraine hold any diplomatic meeting by October 31, 202 (low conf 0.6)
-2026-10-11 19:28:03 shift over, state saved
+2026-10-11 19:28:19 === start mode=paper pid=2248 ===
+2026-10-11 19:28:19 brain=llm cash=84.56 open=0
+2026-10-11 19:28:19 resuming with 4832 known news items
+2026-10-11 19:28:42 indexed 1059 markets
+2026-10-11 19:28:58 NEWS [Politico 3m] Trump announces 'energy ceasefire' between Russia, Ukraine politi.co/4rZv9oY
+2026-10-11 19:28:58   skip Yes :: Will Russia and Ukraine hold any diplomatic meeting by October 31, 202 (low conf 0.6)
+2026-10-11 19:32:59   drop[not-key] Browns WR KC Concepcion has been ruled out with a head injury after that hit from Jets DB  (Ian Rapoport) :: KC Concepcion: head injury from hit by Jets DB Minkah Fitzpatrick
