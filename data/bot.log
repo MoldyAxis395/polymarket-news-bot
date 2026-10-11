@@ -6307,3 +6307,12 @@
 2026-10-11 03:28:19   drop[1-source] Texas A&M coach Mike Elko confirms OL Blake Ivy is out for season following practice injur (On3) :: Blake Ivy, wait 2nd source
 2026-10-11 03:30:42 indexed 1020 markets
 2026-10-11 03:33:08 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-11 03:40:11 feed bbc_sport error x1: HTTPSConnectionPool(host='feeds.bbci.co.uk', port=443): Read timed out. (read timeout=15)
+2026-10-11 03:40:44 indexed 1021 markets
+2026-10-11 03:45:16   drop[1-source] Rams Week 5 Final Injury Report: Aaron Donald, Jaylen Watson Will Play (roundtable.io) :: Aaron Donald, wait 2nd source
+2026-10-11 03:50:44 indexed 1025 markets
+2026-10-11 03:51:36   drop[no-pick] Alabama WR Ryan Coleman-Williams Leaves Georgia Game With Injury (Heavy.com) :: short
+2026-10-11 04:01:23 indexed 1032 markets
+2026-10-11 04:01:26   drop[team-not-named] Bills WR DJ Moore questionable, DT Ed Oliver out vs. Rams reut.rs/4hG95wb (Reuters) :: Detroit Lions
+2026-10-11 04:01:30   drop[no-pick] Alabama star WR Ryan Coleman-Williams leaves game with an apparent left leg injury (Huron Daily Tribune) :: short
+2026-10-11 04:04:00   drop[team-not-named] Pelle Larsson Injury: Won't return Saturday (RotoWire) :: New York Rangers
