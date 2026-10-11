@@ -6671,3 +6671,28 @@
 2026-10-11 20:26:15   drop[1-source] Steelers Wide Receiver Leaves Game with Injury (Steelers Now) :: D.J. Moore, wait 2nd source
 2026-10-11 20:29:01 indexed 1026 markets
 2026-10-11 20:31:27   drop[no-market] Dolphins starting lineman leaves vs. Bengals due to injury (Dolphins Wire) :: Miami Dolphins
+2026-10-11 20:33:45   drop[1-source] Rays' Shane McClanahan Ruled Out for Remainder of Postseason (Sports Illustrated) :: Shane McClanahan, wait 2nd source
+2026-10-11 20:33:47 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.50 :: US Sassuolo Calcio vs. AC Milan: O/U 1.5
+2026-10-11 20:36:03   drop[kind] Chargers Hit With Multiple Injury Blow Ahead of Broncos Matchup (heavy.com) :: other
+2026-10-11 20:38:37   drop[team-not-named] Shane McClanahan Ruled Out For Rest Of Postseason (MLB Trade Rumors) :: Tampa Bay Rays
+2026-10-11 20:39:06 indexed 1018 markets
+2026-10-11 20:39:57   llm groq-120b: rate limited, skip 1228s
+2026-10-11 20:39:57   drop[verify] 'We deal with the noise' - Maresca 'proud' after Man City win (BBC) :: Maresca not current player, not star, headline about past win, not relevant
+2026-10-11 20:40:42   drop[kind] Roman Wilson May have hand/wrist injury (Fantasy Footballers Podcast) :: other
+2026-10-11 20:45:20   drop[1-source] Injury jinx costs 20-year-old Liverpool forward his big chance (LiveScore) :: Liverpool, wait 2nd source
+2026-10-11 20:45:21   drop[kind] Browns news: KC Concepcion suffers head injury after brutal Minkah Fitzpatrick hit (ClutchPoints) :: other
+2026-10-11 20:49:05 indexed 1020 markets
+2026-10-11 20:49:56   drop[1-source] Dolphins All-Pro LB Jordyn Brooks Exits Bengals Game With Foot Injury (roundtable.io) :: Jordyn Brooks, wait 2nd source
+2026-10-11 20:49:56   drop[team-not-named] David Montgomery Injury: Not returning to Sunday's game (RotoWire) :: Chicago Bears
+2026-10-11 20:50:07   drop[not-key] Roman Wilson (WR, Pittsburgh Steelers) ruled out: Questionable -> Out [NFL] (ESPN) :: Roman Wilson: injury
+2026-10-11 20:50:53 [pengwin]   book error Real Betis Balompié vs. CA Osasuna: O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=85145864310070496659156771122843016523499589416716689226005635052814479702347
+2026-10-11 20:52:16   drop[unconfirmed] Cleveland Browns Suffer Early Setback With KC Concepcion Injury (TWSN) :: injury
+2026-10-11 20:53:10   drop[no-pick] David Montgomery (RB, Houston Texans) ruled out: Questionable -> Out [NFL] (ESPN) :: no matching NFL market
+2026-10-11 20:54:32   drop[not-key] Steelers WR Situation Gets Worse After Roman Wilson Injury (Sports Illustrated) :: Roman Wilson: injury worsens
+2026-10-11 20:57:12   drop[not-key] Tyler Onyedim (DT, Denver Broncos) ruled out: Active -> Out [NFL] (ESPN) :: Tyler Onyedim: injury
+2026-10-11 20:57:14   drop[verify] Jordan Jackson (DT, Denver Broncos) ruled out: healthy -> Out [NFL] (ESPN) :: Jordan Jackson no longer on Broncos
+2026-10-11 20:57:14   drop[not-key] Sam Ehlinger (QB, Denver Broncos) ruled out: Active -> Out [NFL] (ESPN) :: Sam Ehlinger: injury
+2026-10-11 20:57:14   drop[not-key] Dallen Bentley (TE, Denver Broncos) ruled out: Active -> Out [NFL] (ESPN) :: Dallen Bentley: injury
+2026-10-11 20:57:15   drop[not-key] Kage Casey (OT, Denver Broncos) ruled out: Active -> Out [NFL] (ESPN) :: Kage Casey: injury
+2026-10-11 20:59:05 indexed 1013 markets
+2026-10-11 21:01:28   drop[no-pick] Glasner suffers loss on Selhurst return as Palace beat Forest (BBC) :: short

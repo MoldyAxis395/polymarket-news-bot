@@ -1,25 +1,6 @@
 {
- "cash": 113.53732693321736,
+ "cash": 126.03732693321736,
  "positions": [
-  {
-   "market_id": "5064546",
-   "question": "US Sassuolo Calcio vs. AC Milan: O/U 1.5",
-   "slug": "sea-sas-mil-2026-10-11-total-1pt5",
-   "outcome": "Over",
-   "token": "20123310578705422359060201740613805099255719876630199123465949458481025103722",
-   "shares": 12.5,
-   "entry": 0.8,
-   "cost": 10.0,
-   "opened": 1791583059.8359644,
-   "opened_iso": "2026-10-09T21:57:39+00:00",
-   "news": "SASSUOLO-MILAN: OVER 1.5 (esatto)",
-   "reason": "pengwin exact: replicates Over 1.5 leg",
-   "conf": 1.0,
-   "end": "2026-10-11T16:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1791743572.8845594
-  },
   {
    "market_id": "5064385",
    "question": "Cagliari Calcio vs. Juventus FC: Juventus FC O/U 0.5",
@@ -35,7 +16,7 @@
    "reason": "pengwin approx: Juventus to score at least 1 goal (Over 0.5) matches one leg of the combo",
    "conf": 1.0,
    "end": "2026-10-11T18:45:00+00:00",
-   "last_bid": 0.83,
+   "last_bid": 0.81,
    "book_err": false
   },
   {
@@ -54,7 +35,8 @@
    "conf": 1.0,
    "end": "2026-10-11T16:30:00+00:00",
    "last_bid": 0.999,
-   "book_err": false
+   "book_err": true,
+   "settle_retry": 1791745253.4124506
   }
  ],
  "closed": [
@@ -218,6 +200,29 @@
    "pnl": 25.714285714285708,
    "why": "resolved",
    "closed_iso": "2026-10-11T13:01:48+00:00"
+  },
+  {
+   "market_id": "5064546",
+   "question": "US Sassuolo Calcio vs. AC Milan: O/U 1.5",
+   "slug": "sea-sas-mil-2026-10-11-total-1pt5",
+   "outcome": "Over",
+   "token": "20123310578705422359060201740613805099255719876630199123465949458481025103722",
+   "shares": 12.5,
+   "entry": 0.8,
+   "cost": 10.0,
+   "opened": 1791583059.8359644,
+   "opened_iso": "2026-10-09T21:57:39+00:00",
+   "news": "SASSUOLO-MILAN: OVER 1.5 (esatto)",
+   "reason": "pengwin exact: replicates Over 1.5 leg",
+   "conf": 1.0,
+   "end": "2026-10-11T16:00:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1791744227.0776887,
+   "exit": 1.0,
+   "pnl": 2.5,
+   "why": "resolved",
+   "closed_iso": "2026-10-11T18:33:47+00:00"
   }
  ],
  "cooldown": {
@@ -227,6 +232,7 @@
   "5016496": 1791663437.1294613,
   "5016358": 1791671317.6366687,
   "5012784": 1791684152.432425,
-  "5057077": 1791734508.4466627
+  "5057077": 1791734508.4466627,
+  "5064546": 1791754427.7966242
  }
 }
