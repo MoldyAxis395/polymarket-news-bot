@@ -6749,3 +6749,19 @@
 2026-10-11 22:29:27   drop[not-key] Kings' Maxime Raynaud to miss time with knee injury (NBA.com) :: Maxime Raynaud: knee injury will cause him to miss time
 2026-10-11 22:31:36   drop[1-source] Injury Roundup: Steelers Suffer Multiple Wide Receiver Injuries In Win Over Colts (Steelers Depot) :: Pittsburgh Steelers, wait 2nd source
 2026-10-11 22:31:36   drop[1-source] Köln dealt injury blow as Ellyes Skhiri faces extended spell on sidelines (Bulinews) :: Ellyes Skhiri, wait 2nd source
+2026-10-11 22:38:36   drop[not-key] Jo Se-ho, Who Suspended Activities, Captured in Unexpected Moments on SNS Presumed to be R (미디어파인) :: Jo Se-ho: Jo Se-ho is currently suspended from activities
+2026-10-11 22:38:40 NEWS [ESPN 11m] Pierre-Luc Dubois (LW, Washington Capitals) ruled out: Day-To-Day -> Out [NHL]
+2026-10-11 22:38:40   skip Kraken :: Kraken vs. Capitals (low conf 0.62)
+2026-10-11 22:39:16 indexed 1007 markets
+2026-10-11 22:40:53   drop[team-not-named] Matt LaFleur Defended by All-Pro Ex-Bears TE After Javon Hargrave Suffers Injury (Heavy.com) :: Philadelphia Eagles
+2026-10-11 22:40:53   llm groq-120b: rate limited, skip 385s
+2026-10-11 22:40:54   drop[kind] KC Concepcion Exits Browns Week 5 Game With Head Injury (SuaraGarut.ID) :: other
+2026-10-11 22:43:12   drop[unconfirmed] Maxime Raynaud Out At Least Two Weeks Due To Knee Injury (RealGM) :: knee injury
+2026-10-11 22:45:29   drop[kind] Eight-Year-Old Horse Dies in Racing Injury at Los Alamitos (MyNewsLA.com) :: other
+2026-10-11 22:47:55   llm groq-120b: rate limited, skip 812s
+2026-10-11 22:47:55   drop[unconfirmed] Kings’ C Raynaud Out at Least 2 Weeks After Injury Scare (roundtable.io) :: injury
+2026-10-11 22:49:15 indexed 1010 markets
+2026-10-11 22:50:17   drop[no-pick] Javon Hargrave (DT, Green Bay Packers) ruled out: Questionable -> Out [NFL] (ESPN) :: short
+2026-10-11 22:59:18 indexed 1008 markets
+2026-10-11 23:01:40   drop[team-not-named] Clayton beats Humphries to claim Swiss title (BBC) :: 
+2026-10-11 23:02:22 [pengwin]   book error Cagliari Calcio vs. Juventus FC: Juventus FC O/U 0: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=28821681694826515643790011909555942301580004709587879153416145488476018521485

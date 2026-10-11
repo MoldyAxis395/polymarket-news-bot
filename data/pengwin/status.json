@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T22:32:33",
+ "updated": "2026-10-11T23:03:22",
  "start": 100.0,
  "cash": 138.7,
  "equity": 150.37,
@@ -20,7 +20,8 @@
    "conf": 1.0,
    "end": "2026-10-11T18:45:00+00:00",
    "last_bid": 0.999,
-   "book_err": false
+   "book_err": true,
+   "settle_retry": 1791753142.3000493
   }
  ],
  "closed_count": 9,
