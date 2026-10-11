@@ -6401,3 +6401,23 @@
 2026-10-11 13:43:02 resuming with 5053 known news items
 2026-10-11 13:43:24 indexed 948 markets
 2026-10-11 13:43:37   drop[kind] 109 migrants, including 15 children dead after boat from Djibouti to Yemen capsizes, UN ag (Reuters) :: other
+2026-10-11 13:48:25   drop[not-key] Maxime Raynaud Suffers Potentially Serious Knee Injury In Kings Preseason Game (RealGM) :: Maxime Raynaud: suffered a potentially serious knee injury in a preseason game
+2026-10-11 13:50:43   drop[kind] Intercity transport suspended in Lahore, bus terminals reportedly sealed (Dawn) :: other
+2026-10-11 13:53:36 indexed 946 markets
+2026-10-11 14:03:36 indexed 1083 markets
+2026-10-11 14:04:30   drop[1-source] Friedman: Hellebuyck to Rangers Unlikely After Shesterkin Injury (RG.org) :: Igor Shesterkin, wait 2nd source
+2026-10-11 14:04:30   drop[not-key] What to know about the ‘unique’ chest injury to Kraken’s Jacob Melanson (The New York Times) :: Jacob Melanson: suffering a unique chest injury
+2026-10-11 14:04:31   drop[kind] 5-foot-9 HS pitcher overcomes freak injury, commits to D1 baseball program after All-State (NJ.com) :: other
+2026-10-11 14:04:32   drop[1-source] Chris Tanev Injury: Maple Leafs D Out vs. Avalanche (RG.org) :: Chris Tanev, wait 2nd source
+2026-10-11 14:05:48   drop[not-key] CJ Williams (WR, Jacksonville Jaguars) ruled out: Active -> Out [NFL] (ESPN) :: CJ Williams: ruled out due to injury
+2026-10-11 14:05:49   drop[not-key] Wesley Williams (DE, Jacksonville Jaguars) ruled out: Active -> Out [NFL] (ESPN) :: Wesley Williams: injury
+2026-10-11 14:05:50 NEWS [ESPN 4m] Albert Regis (DT, Jacksonville Jaguars) ruled out: healthy -> Out [NFL]
+2026-10-11 14:05:50   skip Eagles :: Eagles vs. Jaguars (low conf 0.62)
+2026-10-11 14:05:50   drop[not-key] Eric Murray (S, Jacksonville Jaguars) ruled out: Doubtful -> Out [NFL] (ESPN) :: Eric Murray: ruled out due to injury
+2026-10-11 14:05:51   drop[not-key] Daniel Faalele (G, Jacksonville Jaguars) ruled out: Active -> Out [NFL] (ESPN) :: Daniel Faalele: injury
+2026-10-11 14:05:51   drop[not-key] Alijah Huzzie (CB, Jacksonville Jaguars) ruled out: Active -> Out [NFL] (ESPN) :: Alijah Huzzie: injury
+2026-10-11 14:09:06   drop[no-market] NFL Week 5 inactives: Players ruled out for Sunday's 13 games (NFL.com) :: NFL
+2026-10-11 14:13:37 indexed 1076 markets
+2026-10-11 14:15:58   drop[1-source] Eagles Make Final Injury Decision On 7-Year NFL Vet vs Jaguars (heavy.com) :: Jalen Hurts, wait 2nd source
+2026-10-11 14:17:04 NEWS [ESPN 11m] Jonathan Greenard (LB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL]
+2026-10-11 14:17:04   skip Jaguars :: Eagles vs. Jaguars (low conf 0.62)
