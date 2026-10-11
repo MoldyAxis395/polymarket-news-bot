@@ -171,3 +171,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-09T07:41:02+00:00,BUY,Will Arsenal FC win on 2026-10-10?,No,33.33,0.3000,10.00,,"Mikel Arteta handed significant boost with Max Dowman Arsenal injury update | llm[groq-120b]: Arsenal injury to starter Max Dowman lowers win probability, likely >5pt shift"
 2026-10-09T13:41:22+00:00,SELL,Will Arsenal FC win on 2026-10-10?,No,33.33,0.2900,9.67,-0.33,max hold
 2026-10-11T19:09:27+00:00,BUY,Lions vs. Cardinals,Cardinals,32.26,0.3100,10.00,,"Mekhi Wingo (DT, Detroit Lions) ruled out: Active -> Out [NFL] | llm[groq-20b] trusted: Wingo out hurts Lions, Cardinals win odds should rise"
+2026-10-11T20:20:21+00:00,SELL,Lions vs. Cardinals,Cardinals,32.26,0.3000,9.68,-0.32,market closing
