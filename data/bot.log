@@ -6819,3 +6819,22 @@
 2026-10-12 00:59:29 indexed 976 markets
 2026-10-12 01:01:52   drop[no-market] Talanoa Hufanga Injury: Broncos Announce Playing Status During 49ers Game (heavy.com) :: Denver Broncos
 2026-10-12 01:01:52   drop[no-market] 49ers WR Deebo Samuel leaves Seahawks game with hamstring injury in another injury blow to (Yahoo) :: San Francisco 49ers
+2026-10-12 01:06:40   drop[1-source] Nic Anderson left LSU win with injury just days before his return to Oklahoma (A Sea Of Blue) :: Nic Anderson, wait 2nd source
+2026-10-12 01:06:40   drop[no-market] 49ers WR Deebo Samuel ruled out with hamstring injury (NBC Sports) :: San Francisco 49ers
+2026-10-12 01:07:19   llm groq-120b: rate limited, skip 120s
+2026-10-12 01:07:20   drop[unconfirmed] The #Rays won't have Shane McClanahan available for any part of their playoff run: www.mlb (MLB Trade Rumors) :: rumored absence
+2026-10-12 01:08:47   drop[no-market] 49ers lose another WR to injury in the second half vs. Seahawks (Niners Wire) :: San Francisco 49ers
+2026-10-12 01:08:48   drop[kind] UNC CB Tre Miller 'Doubtful' to Return This Season After Injury (Tar Heel Times) :: other
+2026-10-12 01:08:48   drop[kind] SOURCES: UNC CB Tre Miller 'Doubtful' to Return This Season After Injury (247Sports) :: other
+2026-10-12 01:08:48   drop[kind] ‘Dre Greenlaw Needs To Be Suspended,’ ‘Draymond Green of the NFL’ — NFL World Rips 49ers L (Pro Football Network) :: other
+2026-10-12 01:09:32 indexed 973 markets
+2026-10-12 01:12:52   drop[not-key] Ethan Onianwa (OT, Atlanta Falcons) ruled out: Active -> Out [NFL] (ESPN) :: Ethan Onianwa: injury ruled him out
+2026-10-12 01:12:52   llm groq-120b: rate limited, skip 19s
+2026-10-12 01:12:53   drop[verify] Cooper Rush (QB, Atlanta Falcons) ruled out: Active -> Out [NFL] (ESPN) :: Cooper Rush no longer on Falcons
+2026-10-12 01:12:54 NEWS [ESPN 5m] Jack Strand (QB, Atlanta Falcons) ruled out: Active -> Out [NFL]
+2026-10-12 01:12:54   skip Ravens :: Ravens vs. Falcons (low conf 0.6)
+2026-10-12 01:12:54   drop[not-key] Robert Longerbeam (CB, Atlanta Falcons) ruled out: Active -> Out [NFL] (ESPN) :: Robert Longerbeam: injury
+2026-10-12 01:12:55   drop[not-key] Malcolm DeWalt IV (CB, Atlanta Falcons) ruled out: Active -> Out [NFL] (ESPN) :: Malcolm DeWalt IV: injury
+2026-10-12 01:12:56 NEWS [ESPN 5m] Christian Harris (LB, Atlanta Falcons) ruled out: healthy -> Out [NFL]
+2026-10-12 01:12:57   BUY Ravens @ 0.390 x25.6 ($10.00) :: Ravens vs. Falcons
+2026-10-12 01:13:20 shift over, state saved
