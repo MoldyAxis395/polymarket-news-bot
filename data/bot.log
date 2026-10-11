@@ -6352,3 +6352,7 @@
 2026-10-11 06:21:38 indexed 1010 markets
 2026-10-11 06:31:03 indexed 1011 markets
 2026-10-11 06:31:31   drop[not-key] Ducks’ Cutter Gauthier Suffers Upper-Body Injury, Will Not Return to Game Against Flames (SSBCrack) :: Cutter Gauthier: Upper-body injury sidelines him for the game against the Flames
+2026-10-11 06:35:40 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-11 06:40:36   drop[not-key] Kings C Maxime Raynaud (knee injury) exits in 1st half (NBA.com) :: Maxime Raynaud: knee injury forced him to leave the game
+2026-10-11 06:41:03 indexed 985 markets
+2026-10-11 06:44:58 shift over, state saved
