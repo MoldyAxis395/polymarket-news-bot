@@ -6803,3 +6803,19 @@
 2026-10-12 00:29:27 indexed 974 markets
 2026-10-12 00:29:38   llm groq-120b: rate limited, skip 205s
 2026-10-12 00:29:38   drop[kind] Rangers Prepare for Goaltending Shift as Dylan Garand Steps In Following Shesterkin's Inju (SSBCrack) :: other
+2026-10-12 00:38:00   drop[verify] Jordan Staal (C, Carolina Hurricanes) ruled out: healthy -> Out [NHL] (ESPN) :: Jordan Staal’s current roster status in 2026 is uncertain and the news may not be truly new
+2026-10-12 00:38:52   drop[1-source] Vikings tight T.J. Hockenson leaves game vs. Saints with apparent head injury, Jefferson r (ABC News - Breaking News, Latest News and Videos) :: T.J. Hockenson, wait 2nd source
+2026-10-12 00:39:28 indexed 985 markets
+2026-10-12 00:43:23   drop[1-source] Broncos safety Talanoa Hufanga exits with ankle injury (The Denver Post) :: Talanoa Hufanga, wait 2nd source
+2026-10-12 00:44:04   llm groq-120b: rate limited, skip 121s
+2026-10-12 00:44:04   drop[not-key] Cam York (D, Philadelphia Flyers) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Cam York: day-to-day
+2026-10-12 00:45:39   drop[1-source] Chargers’ Justin Herbert loses another weapon during Broncos game with Tre’ Harris injury (ClutchPoints) :: Justin Herbert, wait 2nd source
+2026-10-12 00:47:12   llm groq-120b: rate limited, skip 622s
+2026-10-12 00:47:12   drop[kind] One killed, 11 injured in second Houthi strike on Riyadh airport in two days (BBC) :: other
+2026-10-12 00:49:28 indexed 979 markets
+2026-10-12 00:52:39   drop[1-source] Deebo Samuel Injury: 49ers Star WR Suffers Lower Body Harm vs. Seahawks (heavy.com) :: Deebo Samuel, wait 2nd source
+2026-10-12 00:57:20   drop[team-not-named] Deebo Samuel (hamstring) ruled out vs. Seahawks (NBC Sports) :: San Francisco 49ers
+2026-10-12 00:57:21   drop[1-source] Deebo Samuel Injury: 49ers Rule WR Out After Hamstring Injury vs. Seahawks (Heavy.com) :: Deebo Samuel, wait 2nd source
+2026-10-12 00:59:29 indexed 976 markets
+2026-10-12 01:01:52   drop[no-market] Talanoa Hufanga Injury: Broncos Announce Playing Status During 49ers Game (heavy.com) :: Denver Broncos
+2026-10-12 01:01:52   drop[no-market] 49ers WR Deebo Samuel leaves Seahawks game with hamstring injury in another injury blow to (Yahoo) :: San Francisco 49ers
