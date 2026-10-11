@@ -6434,3 +6434,12 @@
 2026-10-11 14:41:26 NEWS [The Lethbridge Herald 4m] Eagles edge rusher Jonathan Greenard won't play vs. Jaguars in London because of ankle injury
 2026-10-11 14:41:26   skip Jaguars :: Eagles vs. Jaguars (low conf 0.6)
 2026-10-11 14:43:40 indexed 1073 markets
+2026-10-11 14:48:32   drop[1-source] Celtic's Jota returns after 18 months out with ACL injury (Yahoo) :: Jota, wait 2nd source
+2026-10-11 14:51:41 [pengwin]   book error Will Como 1907 vs. AS Roma end in a draw?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=69275136048187527586643424320124939232653582872682998108357439572629415420441
+2026-10-11 14:53:43 indexed 1073 markets
+2026-10-11 15:01:47 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +25.71 :: Will Como 1907 vs. AS Roma end in a draw?
+2026-10-11 15:02:12   drop[1-source] Cardinals Get Huge Walter Nolen Injury Break Before Lions Showdown (Sports Illustrated) :: Walter Nolen, wait 2nd source
+2026-10-11 15:03:42 indexed 1054 markets
+2026-10-11 15:11:25   drop[kind] Calls for Green MSP to be suspended for liking antisemitic social media post (The Scotsman) :: other
+2026-10-11 15:13:41 indexed 1055 markets
+2026-10-11 15:13:46   drop[no-market] Jota Celtic return ends 18-month injury absence (Dave Sport) :: Celtic FC

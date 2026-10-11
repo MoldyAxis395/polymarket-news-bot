@@ -1,27 +1,9 @@
 {
- "updated": "2026-10-11T14:47:39",
+ "updated": "2026-10-11T15:17:18",
  "start": 100.0,
- "cash": 77.82,
- "equity": 143.57,
+ "cash": 113.54,
+ "equity": 143.48,
  "open": [
-  {
-   "market_id": "5057077",
-   "question": "Will Como 1907 vs. AS Roma end in a draw?",
-   "slug": "sea-com-rom-2026-10-11-draw",
-   "outcome": "Yes",
-   "token": "69275136048187527586643424320124939232653582872682998108357439572629415420441",
-   "shares": 35.71428571428571,
-   "entry": 0.28,
-   "cost": 10.0,
-   "opened": 1791583049.037998,
-   "opened_iso": "2026-10-09T21:57:29+00:00",
-   "news": "COMO-ROMA: X @1.40 (esatto)",
-   "reason": "pengwin exact: draw leg matches market 1 Yes",
-   "conf": 1.0,
-   "end": "2026-10-11T10:30:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false
-  },
   {
    "market_id": "5064546",
    "question": "US Sassuolo Calcio vs. AC Milan: O/U 1.5",
@@ -73,12 +55,12 @@
    "reason": "pengwin approx: combo 1X+Over 1.5, pick Over 1.5 leg",
    "conf": 1.0,
    "end": "2026-10-11T16:30:00+00:00",
-   "last_bid": 0.81,
+   "last_bid": 0.8,
    "book_err": false
   }
  ],
- "closed_count": 6,
- "realized_pnl": 17.82,
+ "closed_count": 7,
+ "realized_pnl": 43.54,
  "pages": {
   "pending": 86,
   "picked": 0,
