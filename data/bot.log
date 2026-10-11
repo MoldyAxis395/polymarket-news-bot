@@ -6599,3 +6599,15 @@
 2026-10-11 18:07:06   drop[not-key] Red Sox’ Caleb Durbin undergoes surgery after playing through pinky injury (Boston Herald) :: Caleb Durbin: surgery
 2026-10-11 18:14:02 indexed 1032 markets
 2026-10-11 18:16:25   drop[team-not-named] Chris Tanev Injury A Dark Cloud After Maple Leafs Stunning Win Over Avalanche (Sportsnaut) :: Vancouver Canucks
+2026-10-11 18:18:43   drop[kind] Injury crash involving semi-truck slows traffic on I-49 near Fayetteville (5newsonline.com) :: other
+2026-10-11 18:20:20   llm groq-120b: rate limited, skip 174s
+2026-10-11 18:20:20 NEWS [Politico 1m] Trump announces 'energy ceasefire' between Russia, Ukraine politi.co/4rZv9oY
+2026-10-11 18:20:20   skip Yes :: Russia x Ukraine ceasefire agreement by October 31, 2026? (low conf 0.6)
+2026-10-11 18:21:16   drop[not-key] Tyler Steen injury: Eagles guard injures shoulder (Bleeding Green Nation) :: Tyler Steen: shoulder injury
+2026-10-11 18:23:23   drop[1-source] Dolphins Hit With Multiple Injury Blows Ahead of Bengals Game (Heavy.com) :: Miami Dolphins, wait 2nd source
+2026-10-11 18:24:05 indexed 1040 markets
+2026-10-11 18:25:40   llm groq-120b: rate limited, skip 159s
+2026-10-11 18:25:40   drop[no-market] Anton Harrison Injury: Jaguars Tackle Carted Off As Eagles Fans Applaud | Watch (The Sunday Guardian) :: Jacksonville Jaguars
+2026-10-11 18:34:02 indexed 1046 markets
+2026-10-11 18:41:46   drop[not-key] Sebastian Nanasi misses Strasbourg's Nice defeat after Sweden injury (OneFootball) :: Sebastian Nanasi: missed Strasbourg vs Nice match due to Sweden injury
+2026-10-11 18:44:05 indexed 1034 markets
