@@ -1,25 +1,6 @@
 {
- "cash": 74.23295247618618,
- "positions": [
-  {
-   "market_id": "4024681",
-   "question": "Ravens vs. Falcons",
-   "slug": "nfl-bal-atl-2026-10-12",
-   "outcome": "Falcons",
-   "token": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
-   "shares": 16.129032258064516,
-   "entry": 0.62,
-   "cost": 10.0,
-   "opened": 1791760459.6689935,
-   "opened_iso": "2026-10-11T23:14:19+00:00",
-   "news": "Aeneas Peebles (DT, Baltimore Ravens) ruled out: Active -> Out [NFL]",
-   "reason": "llm[groq-20b] trusted: Ravens ruled out, likely boosts Falcons win odds",
-   "conf": 0.65,
-   "end": "2026-10-12T00:20:00+00:00",
-   "last_bid": 0.62,
-   "book_err": false
-  }
- ],
+ "cash": 84.23295247618618,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -1864,6 +1845,28 @@
    "pnl": -0.32258064516129004,
    "why": "market closing",
    "closed_iso": "2026-10-11T20:20:22+00:00"
+  },
+  {
+   "market_id": "4024681",
+   "question": "Ravens vs. Falcons",
+   "slug": "nfl-bal-atl-2026-10-12",
+   "outcome": "Falcons",
+   "token": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
+   "shares": 16.129032258064516,
+   "entry": 0.62,
+   "cost": 10.0,
+   "opened": 1791760459.6689935,
+   "opened_iso": "2026-10-11T23:14:19+00:00",
+   "news": "Aeneas Peebles (DT, Baltimore Ravens) ruled out: Active -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: Ravens ruled out, likely boosts Falcons win odds",
+   "conf": 0.65,
+   "end": "2026-10-12T00:20:00+00:00",
+   "last_bid": 0.62,
+   "book_err": false,
+   "exit": 0.62,
+   "pnl": 0.0,
+   "why": "market closing",
+   "closed_iso": "2026-10-12T00:15:21+00:00"
   }
  ],
  "cooldown": {
@@ -1889,7 +1892,7 @@
   "4877201": 1791293127.3231778,
   "3871410": 1791137518.3286154,
   "3871436": 1791143265.9806473,
-  "4024681": 1791327480.7312255,
+  "4024681": 1791774921.6340096,
   "5155252": 1791208030.8017554,
   "601826": 1791178955.2599277,
   "5299146": 1791228748.0808034,

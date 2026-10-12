@@ -173,3 +173,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-11T19:09:27+00:00,BUY,Lions vs. Cardinals,Cardinals,32.26,0.3100,10.00,,"Mekhi Wingo (DT, Detroit Lions) ruled out: Active -> Out [NFL] | llm[groq-20b] trusted: Wingo out hurts Lions, Cardinals win odds should rise"
 2026-10-11T20:20:21+00:00,SELL,Lions vs. Cardinals,Cardinals,32.26,0.3000,9.68,-0.32,market closing
 2026-10-11T23:14:19+00:00,BUY,Ravens vs. Falcons,Falcons,16.13,0.6200,10.00,,"Aeneas Peebles (DT, Baltimore Ravens) ruled out: Active -> Out [NFL] | llm[groq-20b] trusted: Ravens ruled out, likely boosts Falcons win odds"
+2026-10-12T00:15:21+00:00,SELL,Ravens vs. Falcons,Falcons,16.13,0.6200,10.00,+0.00,market closing

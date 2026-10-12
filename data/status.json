@@ -1,34 +1,15 @@
 {
- "updated": "2026-10-12T01:48:22",
+ "updated": "2026-10-12T02:18:32",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 431,
- "markets_indexed": 960,
- "news_processed": 40,
- "cash": 74.23,
+ "llm_calls_today": 5,
+ "markets_indexed": 953,
+ "news_processed": 54,
+ "cash": 84.23,
  "equity": 84.23,
  "start": 100.0,
- "open": [
-  {
-   "market_id": "4024681",
-   "question": "Ravens vs. Falcons",
-   "slug": "nfl-bal-atl-2026-10-12",
-   "outcome": "Falcons",
-   "token": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
-   "shares": 16.129032258064516,
-   "entry": 0.62,
-   "cost": 10.0,
-   "opened": 1791760459.6689935,
-   "opened_iso": "2026-10-11T23:14:19+00:00",
-   "news": "Aeneas Peebles (DT, Baltimore Ravens) ruled out: Active -> Out [NFL]",
-   "reason": "llm[groq-20b] trusted: Ravens ruled out, likely boosts Falcons win odds",
-   "conf": 0.65,
-   "end": "2026-10-12T00:20:00+00:00",
-   "last_bid": 0.62,
-   "book_err": false
-  }
- ],
- "closed_count": 86,
+ "open": [],
+ "closed_count": 87,
  "llm": {
   "backends": [
    "groq-120b",
@@ -42,14 +23,13 @@
    "verify": 1,
    "no-pick": 1,
    "team-not-named": 1,
-   "1-source": 3,
-   "kind": 1,
-   "fluff": 5,
-   "no-market": 2
+   "1-source": 6,
+   "kind": 2,
+   "fluff": 11,
+   "no-market": 4
   },
   "calls": {
-   "groq-120b": 266,
-   "groq-20b": 165
+   "groq-120b": 5
   }
  },
  "realized_pnl": -15.77
