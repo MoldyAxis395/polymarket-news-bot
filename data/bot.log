@@ -7102,3 +7102,31 @@
 2026-10-12 19:17:53   llm groq-120b: rate limited, skip 7s
 2026-10-12 19:17:53 NEWS [www.theplainsman.com 2m] Auburn linebacker Xavier Atkins suspended, out for Georgia game
 2026-10-12 19:17:53   skip Georgia :: Auburn vs. Georgia (low conf 0.6)
+2026-10-12 19:22:20   drop[1-source] Packers lose DL Javon Hargrave to season-ending Achilles injury (Packers Wire) :: Javon Hargrave, wait 2nd source
+2026-10-12 19:22:21   drop[1-source] Packers Lose Fourth Player to Season-Ending Injury (roundtable.io) :: Green Bay Packers, wait 2nd source
+2026-10-12 19:22:21   llm groq-120b: rate limited, skip 278s
+2026-10-12 19:22:21   drop[unconfirmed] Javon Hargrave to miss rest of season (USA Today) :: season-ending injury
+2026-10-12 19:25:26 indexed 988 markets
+2026-10-12 19:27:14   llm groq-120b: rate limited, skip 2s
+2026-10-12 19:27:15   drop[kind] Anfernee Simons Injury: Limited at practice (RotoWire) :: other
+2026-10-12 19:29:21   llm groq-120b: rate limited, skip 99s
+2026-10-12 19:29:21   drop[no-pick] Dallas Stars veteran forward Matt Duchene will miss about 3 months after surgery (The Washington Post) :: short
+2026-10-12 19:29:22   drop[kind] Pacers F Kelly Oubre on replacing Tyrese Haliburton in starting lineup due to injury (IndyStar) :: other
+2026-10-12 19:31:41   llm groq-120b: rate limited, skip 46s
+2026-10-12 19:31:42   drop[kind] OL and Lille call for greater protection of players after injury-hit weekend (OneFootball) :: other
+2026-10-12 19:31:42   drop[kind] Diddy Reportedly Taken From Fort Dix For Head Injury (AllHipHop) :: other
+2026-10-12 19:34:00   drop[team-not-named] Captain Jordan Staal Sidelined With Potential Injury (The Hockey News) :: Buffalo Sabres
+2026-10-12 19:34:00   llm groq-120b: rate limited, skip 178s
+2026-10-12 19:34:00   drop[1-source] Lions Lose Key Contributor to Season-Ending Injury (Heavy.com) :: Jalen Carter, wait 2nd source
+2026-10-12 19:34:01   drop[1-source] Milan, Gabbia suffers a flexor injury: tendon involved, back in 2027 (Goal.com) :: Gabriele Gabbia, wait 2nd source
+2026-10-12 19:34:02   drop[kind] Mazzara: Inacio ‘needed’ after Gabbia injury but Amorim must answer formation question (LiveScore) :: other
+2026-10-12 19:35:27 indexed 988 markets
+2026-10-12 19:36:28   drop[no-market] Gabbia blow for Milan: Muscle injury confirmed, tendon also affected (La Gazzetta dello Sport) :: AC Milan
+2026-10-12 19:38:35   drop[no-market] Delta Goodrem to miss Strictly Come Dancing Icons Week due to injury (BBC) :: Strictly Come Dancing
+2026-10-12 19:40:51   llm groq-120b: rate limited, skip 83s
+2026-10-12 19:40:52   drop[not-key] Lions news: Detroit loses return man to season-ending injury (ClutchPoints) :: Jalen Reagor: season-ending injury
+2026-10-12 19:43:09   drop[unconfirmed] Pacers provide good news but limited information on Tyrese Haliburton injury (IndyStar) :: limited information on his injury
+2026-10-12 19:43:53   llm groq-120b: rate limited, skip 156s
+2026-10-12 19:43:54   drop[no-market] GB's Richardson withdrawn from World Championships (BBC) :: Great Britain
+2026-10-12 19:45:25 indexed 973 markets
+2026-10-12 19:45:43   drop[1-source] Texans RB David Montgomery considered week to week after groin injury (Touchdown Wire) :: David Montgomery, wait 2nd source
