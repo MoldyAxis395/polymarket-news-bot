@@ -7382,3 +7382,57 @@
 2026-10-12 22:00:05   drop[no-pick] Michael Carter (RB, Tennessee Titans) cleared to play: Out -> Active [NFL] (ESPN) :: no relevant NFL market
 2026-10-12 22:00:06   drop[no-pick] Jackie Marshall (DT, Tennessee Titans) cleared to play: Out -> Active [NFL] (ESPN) :: short
 2026-10-12 22:00:06   drop[not-key] Nicholas Singleton (RB, Tennessee Titans) cleared to play: Out -> Active [NFL] (ESPN) :: Nicholas Singleton: cleared to play
+2026-10-12 22:01:06   drop[kind] Student Suspended After Discovery of Death Note Notebook Sparks Police Investigation (IGN) :: other
+2026-10-12 22:03:24   drop[kind] DeVonta Smith Injury: Chance to return for Week 6 (RotoWire) :: other
+2026-10-12 22:06:04 indexed 966 markets
+2026-10-12 22:06:20 NEWS [NHL.com 4m] Sabres defeat Panthers, lose Dahlin to upper-body injury
+2026-10-12 22:06:20   skip Canadiens :: Sabres vs. Canadiens (low conf 0.6)
+2026-10-12 22:08:28   drop[not-key] Detroit Lions lose Farmingdale’s Tom Kennedy for season to knee injury (Greater Long Island) :: Tom Kennedy: season-ending knee injury
+2026-10-12 22:10:48   drop[unconfirmed] 49ers receiver Deebo Samuel will miss time with hamstring injury (The Lethbridge Herald) :: hamstring injury
+2026-10-12 22:13:04   drop[unconfirmed] Deebo Samuel injury: 49ers' wideout expected to miss multiple weeks with hamstring injury (CBS Sports) :: hamstring injury
+2026-10-12 22:13:05   drop[not-key] Sam Honzek out week-to-week with lower-body injury (Calgary Herald) :: Sam Honzek: lower-body injury
+2026-10-12 22:16:03 indexed 964 markets
+2026-10-12 22:17:40   drop[unconfirmed] 49ers WR Deebo Samuel expected to miss time with hamstring injury (Yardbarker) :: expected to miss time due to hamstring injury
+2026-10-12 22:24:44   drop[1-source] Lille threaten legal action as Tiago Santos suffers ACL injury after unpunished challenge  (portugoal.net) :: Tiago Santos, wait 2nd source
+2026-10-12 22:26:04 indexed 964 markets
+2026-10-12 22:26:38 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 2)
+2026-10-12 22:26:41 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 2)
+2026-10-12 22:26:44 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 2)
+2026-10-12 22:26:46 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 2)
+2026-10-12 22:26:49 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 2)
+2026-10-12 22:26:51 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 2)
+2026-10-12 22:26:54 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 2)
+2026-10-12 22:26:57 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 2)
+2026-10-12 22:26:59 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 2)
+2026-10-12 22:27:02 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 2)
+2026-10-12 22:27:04 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 2)
+2026-10-12 22:27:07 [pengwin] LENS-LIONE: no Polymarket event (try 2)
+2026-10-12 22:27:09 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 2)
+2026-10-12 22:27:11   llm groq-120b: rate limited, skip 93s
+2026-10-12 22:27:12 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 2)
+2026-10-12 22:27:14 [pengwin] MONACO-TOLOSA: no Polymarket event (try 2)
+2026-10-12 22:27:16 [pengwin] BREST-ANGERS: no Polymarket event (try 2)
+2026-10-12 22:27:19 [pengwin] PSG-LE MANS: no Polymarket event (try 2)
+2026-10-12 22:27:21 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 2)
+2026-10-12 22:27:23 [pengwin] RENNES-AUXERRE: no Polymarket event (try 2)
+2026-10-12 22:27:25 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 2)
+2026-10-12 22:27:27 [pengwin] AUXERRE-BREST: no Polymarket event (try 2)
+2026-10-12 22:28:13 [pengwin] LAZIO-INTER: no Polymarket event (try 2)
+2026-10-12 22:28:15 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 2)
+2026-10-12 22:28:18 [pengwin] INTER-COMO: no Polymarket event (try 2)
+2026-10-12 22:28:20 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 2)
+2026-10-12 22:28:22 [pengwin] COMO-INTER: no Polymarket event (try 2)
+2026-10-12 22:28:24 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 2)
+2026-10-12 22:28:27 [pengwin] NAPOLI-COMO: no Polymarket event (try 2)
+2026-10-12 22:28:29 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 2)
+2026-10-12 22:28:33 [pengwin] FIORENTINA-COMO: no Polymarket event (try 2)
+2026-10-12 22:28:57 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 2)
+2026-10-12 22:29:00   llm groq-120b: rate limited, skip 970s
+2026-10-12 22:29:01 [pengwin] skip LENS-SPORTING [X or gol]: no matching market
+2026-10-12 22:29:06 [pengwin]   BUY Over @ 0.700 x14.3 ($10.00) :: FC Internazionale Milano vs. Club Brugge KV: O/U 2.5
+2026-10-12 22:29:09   llm groq-20b: rate limited, skip 6s
+2026-10-12 22:29:09 [pengwin] GALATASARAY-BARCELLONA: no LLM answer (try 1)
+2026-10-12 22:29:11 [pengwin] ARSENAL-LILLE: no LLM answer (try 2)
+2026-10-12 22:29:13 [pengwin] VIKING-BAYERN MONACO: no LLM answer (try 1)
+2026-10-12 22:29:16 [pengwin] LIPSIA-PSV: no Polymarket event (try 1)
+2026-10-12 22:29:19 [pengwin]   BUY No @ 0.550 x18.2 ($10.00) :: Will Villarreal CF win on 2026-10-13?

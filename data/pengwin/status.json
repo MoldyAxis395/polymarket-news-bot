@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-12T21:59:56",
+ "updated": "2026-10-12T22:30:22",
  "start": 100.0,
- "cash": 130.38,
- "equity": 150.06,
+ "cash": 110.38,
+ "equity": 149.73,
  "open": [
   {
    "market_id": "5134415",
@@ -39,15 +39,51 @@
    "end": "2026-10-13T19:00:00+00:00",
    "last_bid": 0.84,
    "book_err": false
+  },
+  {
+   "market_id": "5159693",
+   "question": "FC Internazionale Milano vs. Club Brugge KV: O/U 2.5",
+   "slug": "ucl-int-bru-2026-10-13-total-2pt5",
+   "outcome": "Over",
+   "token": "23806866549252710906005959938869779633277451201883026251988027032861277520062",
+   "shares": 14.285714285714286,
+   "entry": 0.7,
+   "cost": 10.0,
+   "opened": 1791836946.458028,
+   "opened_iso": "2026-10-12T20:29:06+00:00",
+   "news": "INTER-CLUB BRUGGE: OVER 2.5 (approssimato)",
+   "reason": "pengwin approx: replicates over 2.5 leg of combo",
+   "conf": 1.0,
+   "end": "2026-10-13T19:00:00+00:00",
+   "last_bid": 0.69,
+   "book_err": false
+  },
+  {
+   "market_id": "5158616",
+   "question": "Will Villarreal CF win on 2026-10-13?",
+   "slug": "ucl-vil-nap-2026-10-13-vil",
+   "outcome": "No",
+   "token": "111397440147641503284117062634534731568404890576870665456561969674253860438523",
+   "shares": 18.18181818181818,
+   "entry": 0.55,
+   "cost": 10.0,
+   "opened": 1791836959.7256382,
+   "opened_iso": "2026-10-12T20:29:19+00:00",
+   "news": "VILLARREAL-NAPOLI: X2 (esatto)",
+   "reason": "pengwin exact: replicates X2 double chance",
+   "conf": 1.0,
+   "end": "2026-10-13T19:00:00+00:00",
+   "last_bid": 0.54,
+   "book_err": false
   }
  ],
  "closed_count": 10,
  "realized_pnl": 50.38,
  "pages": {
-  "pending": 95,
+  "pending": 92,
   "picked": 0,
-  "traded": 12,
-  "skipped": 29,
+  "traded": 14,
+  "skipped": 30,
   "expired": 0
  }
 }

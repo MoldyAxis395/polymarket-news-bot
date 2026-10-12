@@ -21,3 +21,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-11T23:15:47+00:00,SELL,Cagliari Calcio vs. Juventus FC: Juventus FC O/U 0.5,Over,11.69,1.0000,11.69,+1.69,resolved
 2026-10-12T19:58:40+00:00,BUY,Will SK Slavia Praha win on 2026-10-13?,Yes,20.83,0.4800,10.00,,SABAH BAKU-SLAVIA PRAGA: 2 DNB (approssimato) | pengwin approx: closest to away win
 2026-10-12T19:58:48+00:00,BUY,Club Atlético de Madrid vs. Manchester United FC: O/U 1.5,Over,11.76,0.8500,10.00,,ATLETICO MADRID-MANCHESTER UNITED: OVER 1.5 (approssimato) | pengwin approx: replicates over 1.5 leg of combo
+2026-10-12T20:29:06+00:00,BUY,FC Internazionale Milano vs. Club Brugge KV: O/U 2.5,Over,14.29,0.7000,10.00,,INTER-CLUB BRUGGE: OVER 2.5 (approssimato) | pengwin approx: replicates over 2.5 leg of combo
+2026-10-12T20:29:19+00:00,BUY,Will Villarreal CF win on 2026-10-13?,No,18.18,0.5500,10.00,,VILLARREAL-NAPOLI: X2 (esatto) | pengwin exact: replicates X2 double chance
