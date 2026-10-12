@@ -7436,3 +7436,48 @@
 2026-10-12 22:29:13 [pengwin] VIKING-BAYERN MONACO: no LLM answer (try 1)
 2026-10-12 22:29:16 [pengwin] LIPSIA-PSV: no Polymarket event (try 1)
 2026-10-12 22:29:19 [pengwin]   BUY No @ 0.550 x18.2 ($10.00) :: Will Villarreal CF win on 2026-10-13?
+2026-10-12 22:36:06 indexed 960 markets
+2026-10-12 22:39:13   drop[kind] Earnings beats are now the norm. What the stock market needs to keep rallying (CNBC) :: other
+2026-10-12 22:46:06 indexed 961 markets
+2026-10-12 22:47:43   drop[1-source] 49ers' Dre Greenlaw Suspended For Head-Butting Helmetless Seahawk (RealGM) :: Dre Greenlaw, wait 2nd source
+2026-10-12 22:50:02   drop[kind] Sean ‘Diddy’ Combs Hospitalized After Suffering Head Injury in Prison (Variety) :: other
+2026-10-12 22:50:46   drop[kind] Syndax says mid-stage trial of lung disease treatment fails main goal, ends development re (Reuters) :: other
+2026-10-12 22:56:06 indexed 951 markets
+2026-10-12 22:57:09 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 3)
+2026-10-12 22:57:12 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 3)
+2026-10-12 22:57:15 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 3)
+2026-10-12 22:57:17 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 3)
+2026-10-12 22:57:19 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 3)
+2026-10-12 22:57:22 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 3)
+2026-10-12 22:57:25 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 3)
+2026-10-12 22:57:27 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 3)
+2026-10-12 22:57:30 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 3)
+2026-10-12 22:57:32   llm groq-120b: rate limited, skip 65s
+2026-10-12 22:57:32 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 3)
+2026-10-12 22:57:34 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 3)
+2026-10-12 22:57:37 [pengwin] LENS-LIONE: no Polymarket event (try 3)
+2026-10-12 22:57:39 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 3)
+2026-10-12 22:57:42 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 3)
+2026-10-12 22:57:44 [pengwin] MONACO-TOLOSA: no Polymarket event (try 3)
+2026-10-12 22:57:46 [pengwin] BREST-ANGERS: no Polymarket event (try 3)
+2026-10-12 22:57:49 [pengwin] PSG-LE MANS: no Polymarket event (try 3)
+2026-10-12 22:57:51 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 3)
+2026-10-12 22:57:53 [pengwin] RENNES-AUXERRE: no Polymarket event (try 3)
+2026-10-12 22:57:55 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 3)
+2026-10-12 22:57:57 [pengwin] AUXERRE-BREST: no Polymarket event (try 3)
+2026-10-12 22:58:41   llm groq-120b: rate limited, skip 77s
+2026-10-12 22:58:42 [pengwin] LAZIO-INTER: no Polymarket event (try 3)
+2026-10-12 22:58:44 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 3)
+2026-10-12 22:58:46 [pengwin] INTER-COMO: no Polymarket event (try 3)
+2026-10-12 22:58:48 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 3)
+2026-10-12 22:58:50 [pengwin] COMO-INTER: no Polymarket event (try 3)
+2026-10-12 22:58:52 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 3)
+2026-10-12 22:58:54 [pengwin] NAPOLI-COMO: no Polymarket event (try 3)
+2026-10-12 22:58:56 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 3)
+2026-10-12 22:59:00 [pengwin] FIORENTINA-COMO: no Polymarket event (try 3)
+2026-10-12 22:59:24 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 3)
+2026-10-12 22:59:28 [pengwin]   BUY Yes @ 0.100 x100.0 ($10.00) :: Will Galatasaray SK win on 2026-10-13?
+2026-10-12 22:59:32 [pengwin] skip ARSENAL-LILLE [HOME OVER 1.5]: period mismatch: Arsenal FC vs. Lille OSC: Arsenal FC O/U 1.5
+2026-10-12 22:59:34   llm groq-20b: rate limited, skip 5s
+2026-10-12 22:59:34 [pengwin] VIKING-BAYERN MONACO: no LLM answer (try 2)
+2026-10-12 22:59:36 [pengwin] LIPSIA-PSV: no Polymarket event (try 2)

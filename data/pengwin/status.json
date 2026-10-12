@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-12T22:30:22",
+ "updated": "2026-10-12T23:00:38",
  "start": 100.0,
- "cash": 110.38,
- "equity": 149.73,
+ "cash": 100.38,
+ "equity": 148.73,
  "open": [
   {
    "market_id": "5134415",
@@ -75,15 +75,33 @@
    "end": "2026-10-13T19:00:00+00:00",
    "last_bid": 0.54,
    "book_err": false
+  },
+  {
+   "market_id": "5158624",
+   "question": "Will Galatasaray SK win on 2026-10-13?",
+   "slug": "ucl-gal-fcb-2026-10-13-gal",
+   "outcome": "Yes",
+   "token": "8025040898096155752391723278132047504762866014854313729366000360060648122799",
+   "shares": 100.0,
+   "entry": 0.1,
+   "cost": 10.0,
+   "opened": 1791838768.5804427,
+   "opened_iso": "2026-10-12T20:59:28+00:00",
+   "news": "GALATASARAY-BARCELLONA: X2 (esatto)",
+   "reason": "pengwin exact: X2 leg of combo",
+   "conf": 1.0,
+   "end": "2026-10-13T19:00:00+00:00",
+   "last_bid": 0.09,
+   "book_err": false
   }
  ],
  "closed_count": 10,
  "realized_pnl": 50.38,
  "pages": {
-  "pending": 92,
+  "pending": 90,
   "picked": 0,
-  "traded": 14,
-  "skipped": 30,
+  "traded": 15,
+  "skipped": 31,
   "expired": 0
  }
 }
