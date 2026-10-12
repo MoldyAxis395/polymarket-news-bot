@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-13T00:00:09",
+ "updated": "2026-10-13T00:30:25",
  "start": 100.0,
- "cash": 90.38,
- "equity": 148.62,
+ "cash": 80.38,
+ "equity": 148.36,
  "open": [
   {
    "market_id": "5134415",
@@ -111,14 +111,32 @@
    "end": "2026-10-13T19:00:00+00:00",
    "last_bid": 0.88,
    "book_err": false
+  },
+  {
+   "market_id": "5186926",
+   "question": "\u0160K Slovan Bratislava vs. VfB Stuttgart: VfB Stuttgart O/U 1.5",
+   "slug": "ucl-sba-stu-2026-10-14-team-total-away-1pt5",
+   "outcome": "Over",
+   "token": "105316787287974428202812219641929988340331115293766552581241030829673904245139",
+   "shares": 12.987012987012987,
+   "entry": 0.77,
+   "cost": 10.0,
+   "opened": 1791844224.143837,
+   "opened_iso": "2026-10-12T22:30:24+00:00",
+   "news": "SLOVAN BRATISLAVA-STOCCARDA: MULTIGOL 2-5 OSPITE @1.45 (approssimato)",
+   "reason": "pengwin approx: Over 1.5 covers 2\u20115 goals for the away team",
+   "conf": 1.0,
+   "end": "2026-10-14T19:00:00+00:00",
+   "last_bid": 0.75,
+   "book_err": false
   }
  ],
  "closed_count": 10,
  "realized_pnl": 50.38,
  "pages": {
-  "pending": 89,
+  "pending": 88,
   "picked": 0,
-  "traded": 16,
+  "traded": 17,
   "skipped": 31,
   "expired": 0
  }
