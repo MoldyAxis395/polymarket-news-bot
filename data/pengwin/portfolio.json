@@ -1,6 +1,43 @@
 {
- "cash": 150.38160129294653,
- "positions": [],
+ "cash": 130.38160129294653,
+ "positions": [
+  {
+   "market_id": "5134415",
+   "question": "Will SK Slavia Praha win on 2026-10-13?",
+   "slug": "ucl-sf-slp-2026-10-13-slp",
+   "outcome": "Yes",
+   "token": "9966721868208690750357516097944663244116660562740488606277900898153704336951",
+   "shares": 20.833333333333336,
+   "entry": 0.4799999999999999,
+   "cost": 10.0,
+   "opened": 1791835120.1552901,
+   "opened_iso": "2026-10-12T19:58:40+00:00",
+   "news": "SABAH BAKU-SLAVIA PRAGA: 2 DNB (approssimato)",
+   "reason": "pengwin approx: closest to away win",
+   "conf": 1.0,
+   "end": "2026-10-13T16:45:00+00:00",
+   "last_bid": 0.47,
+   "book_err": false
+  },
+  {
+   "market_id": "5159510",
+   "question": "Club Atl\u00e9tico de Madrid vs. Manchester United FC: O/U 1.5",
+   "slug": "ucl-atm-mnu-2026-10-13-total-1pt5",
+   "outcome": "Over",
+   "token": "48368452531050603545616209329346312087373204593435211970296272741938839578613",
+   "shares": 11.764705882352942,
+   "entry": 0.85,
+   "cost": 10.0,
+   "opened": 1791835128.07248,
+   "opened_iso": "2026-10-12T19:58:48+00:00",
+   "news": "ATLETICO MADRID-MANCHESTER UNITED: OVER 1.5 (approssimato)",
+   "reason": "pengwin approx: replicates over 1.5 leg of combo",
+   "conf": 1.0,
+   "end": "2026-10-13T19:00:00+00:00",
+   "last_bid": 0.84,
+   "book_err": false
+  }
+ ],
  "closed": [
   {
    "market_id": "5009005",
