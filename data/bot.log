@@ -7481,3 +7481,57 @@
 2026-10-12 22:59:34   llm groq-20b: rate limited, skip 5s
 2026-10-12 22:59:34 [pengwin] VIKING-BAYERN MONACO: no LLM answer (try 2)
 2026-10-12 22:59:36 [pengwin] LIPSIA-PSV: no Polymarket event (try 2)
+2026-10-12 23:03:53   drop[unconfirmed] Sabres’ Rasmus Dahlin day to day with upper-body injury, will likely miss game against Can (Buffalo Hockey Beat) :: day-to-day with upper-body injury, likely to miss upcoming game
+2026-10-12 23:03:53   llm groq-120b: rate limited, skip 231s
+2026-10-12 23:03:53   drop[unconfirmed] Blackhawks’ Connor Bedard Comments on Upcoming Return From Injury (Heavy.com) :: returning
+2026-10-12 23:06:07 indexed 960 markets
+2026-10-12 23:10:20   drop[not-key] Tyler Scott (WR, Las Vegas Raiders) ruled out: healthy -> Out [NFL] (ESPN) :: Tyler Scott: ruled out due to injury
+2026-10-12 23:13:08   drop[kind] UCLA has 'serious concern' over QB Iamaleava's knee injury (ESPN) :: other
+2026-10-12 23:13:08   llm groq-120b: rate limited, skip 228s
+2026-10-12 23:13:09   drop[1-source] Sabres’ Dahlin exits game against Panthers with upper-body injury (Yardbarker) :: Johan Dahlin, wait 2nd source
+2026-10-12 23:13:09   drop[not-key] Flames’ Sam Honzek out week-to-week with lower-body injury (Yardbarker) :: Sam Honzek: lower-body injury
+2026-10-12 23:16:08 indexed 955 markets
+2026-10-12 23:20:20   drop[not-key] AC Milan’s Matteo Gabbia sidelined with left thigh flexor injury, return expected in 2027 (OneFootball) :: Matteo Gabbia: left thigh flexor injury
+2026-10-12 23:20:20   llm groq-120b: rate limited, skip 76s
+2026-10-12 23:20:21   drop[1-source] “‘We lost two players’: Mikel Arteta confirms double Arsenal injury blow ahead of Champion (LiveScore) :: Arsenal, wait 2nd source
+2026-10-12 23:22:23   drop[kind] Demond Williams Is Questionable With Rib Injury (Sports Illustrated) :: other
+2026-10-12 23:24:40   llm groq-120b: rate limited, skip 144s
+2026-10-12 23:24:40   drop[team-not-named] Deebo Samuel Injury: Out at least 'a couple weeks' (RotoWire) :: San Francisco 49ers
+2026-10-12 23:24:41   drop[kind] Diddy Reportedly Taken To Hospital Over Head Injury At US Prison (Arise News) :: other
+2026-10-12 23:26:09 indexed 949 markets
+2026-10-12 23:26:59   drop[kind] Clarksville Police Respond to Injury Crash at Wilma Rudolph and Dunbar Cave Road (Clarksville Online) :: other
+2026-10-12 23:27:29 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 4)
+2026-10-12 23:27:32 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 4)
+2026-10-12 23:27:34   llm groq-120b: rate limited, skip 63s
+2026-10-12 23:27:35 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 4)
+2026-10-12 23:27:37 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 4)
+2026-10-12 23:27:39 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 4)
+2026-10-12 23:27:41 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 4)
+2026-10-12 23:27:44 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 4)
+2026-10-12 23:27:47 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 4)
+2026-10-12 23:27:50 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 4)
+2026-10-12 23:27:52 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 4)
+2026-10-12 23:27:54 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 4)
+2026-10-12 23:27:57 [pengwin] LENS-LIONE: no Polymarket event (try 4)
+2026-10-12 23:27:59 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 4)
+2026-10-12 23:28:02 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 4)
+2026-10-12 23:28:04 [pengwin] MONACO-TOLOSA: no Polymarket event (try 4)
+2026-10-12 23:28:06 [pengwin] BREST-ANGERS: no Polymarket event (try 4)
+2026-10-12 23:28:08 [pengwin] PSG-LE MANS: no Polymarket event (try 4)
+2026-10-12 23:28:10 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 4)
+2026-10-12 23:28:12 [pengwin] RENNES-AUXERRE: no Polymarket event (try 4)
+2026-10-12 23:28:15 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 4)
+2026-10-12 23:28:16 [pengwin] AUXERRE-BREST: no Polymarket event (try 4)
+2026-10-12 23:29:02 [pengwin] LAZIO-INTER: no Polymarket event (try 4)
+2026-10-12 23:29:05 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 4)
+2026-10-12 23:29:07   llm groq-120b: rate limited, skip 178s
+2026-10-12 23:29:07 [pengwin] INTER-COMO: no Polymarket event (try 4)
+2026-10-12 23:29:09 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 4)
+2026-10-12 23:29:11 [pengwin] COMO-INTER: no Polymarket event (try 4)
+2026-10-12 23:29:13 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 4)
+2026-10-12 23:29:16 [pengwin] NAPOLI-COMO: no Polymarket event (try 4)
+2026-10-12 23:29:18 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 4)
+2026-10-12 23:29:22 [pengwin] FIORENTINA-COMO: no Polymarket event (try 4)
+2026-10-12 23:29:45 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 4)
+2026-10-12 23:29:49 [pengwin]   BUY Over @ 0.890 x11.2 ($10.00) :: Viking FK vs. FC Bayern München: 1st Half O/U 0.5
+2026-10-12 23:29:51 [pengwin] LIPSIA-PSV: no Polymarket event (try 3)

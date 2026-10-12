@@ -1,5 +1,5 @@
 {
- "cash": 100.38160129294653,
+ "cash": 90.38160129294653,
  "positions": [
   {
    "market_id": "5134415",
@@ -89,6 +89,24 @@
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
    "last_bid": 0.09,
+   "book_err": false
+  },
+  {
+   "market_id": "5159580",
+   "question": "Viking FK vs. FC Bayern M\u00fcnchen: 1st Half O/U 0.5",
+   "slug": "ucl-vf-bay-2026-10-13-first-half-total-0pt5",
+   "outcome": "Over",
+   "token": "21973664556651213961390991535894187352389363775838669806218886310737310707932",
+   "shares": 11.235955056179774,
+   "entry": 0.8900000000000001,
+   "cost": 10.0,
+   "opened": 1791840589.3822525,
+   "opened_iso": "2026-10-12T21:29:49+00:00",
+   "news": "VIKING-BAYERN MONACO: 1st Half O/U 0.5 Over (approssimato)",
+   "reason": "pengwin approx: replicates first leg of combo",
+   "conf": 1.0,
+   "end": "2026-10-13T19:00:00+00:00",
+   "last_bid": 0.88,
    "book_err": false
   }
  ],

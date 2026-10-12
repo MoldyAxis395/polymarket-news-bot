@@ -24,3 +24,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-12T20:29:06+00:00,BUY,FC Internazionale Milano vs. Club Brugge KV: O/U 2.5,Over,14.29,0.7000,10.00,,INTER-CLUB BRUGGE: OVER 2.5 (approssimato) | pengwin approx: replicates over 2.5 leg of combo
 2026-10-12T20:29:19+00:00,BUY,Will Villarreal CF win on 2026-10-13?,No,18.18,0.5500,10.00,,VILLARREAL-NAPOLI: X2 (esatto) | pengwin exact: replicates X2 double chance
 2026-10-12T20:59:28+00:00,BUY,Will Galatasaray SK win on 2026-10-13?,Yes,100.00,0.1000,10.00,,GALATASARAY-BARCELLONA: X2 (esatto) | pengwin exact: X2 leg of combo
+2026-10-12T21:29:49+00:00,BUY,Viking FK vs. FC Bayern München: 1st Half O/U 0.5,Over,11.24,0.8900,10.00,,VIKING-BAYERN MONACO: 1st Half O/U 0.5 Over (approssimato) | pengwin approx: replicates first leg of combo
