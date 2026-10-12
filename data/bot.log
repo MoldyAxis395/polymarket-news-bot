@@ -7682,3 +7682,69 @@
 2026-10-13 01:00:12 [pengwin] FIORENTINA-COMO: no Polymarket event (try 7)
 2026-10-13 01:00:36 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 7)
 2026-10-13 01:00:38 [pengwin] LIPSIA-PSV: no Polymarket event (try 6)
+2026-10-13 01:00:58 NEWS [ESPN 6m] Ty Simpson (QB, Los Angeles Rams) ruled out: Active -> Out [NFL]
+2026-10-13 01:00:58   skip Bills :: Bills vs. Rams (low conf 0.6)
+2026-10-13 01:00:58   drop[not-key] Max Klare (TE, Los Angeles Rams) ruled out: healthy -> Out [NFL] (ESPN) :: Max Klare: injury
+2026-10-13 01:00:59   drop[not-key] Larrell Murchison (DE, Los Angeles Rams) ruled out: healthy -> Out [NFL] (ESPN) :: Larrell Murchison: injury
+2026-10-13 01:01:00 NEWS [ESPN 6m] Bill Murray (G, Los Angeles Rams) ruled out: Active -> Out [NFL]
+2026-10-13 01:01:00   skip Bills :: Bills vs. Rams (low conf 0.6)
+2026-10-13 01:01:01   drop[not-key] CJ Daniels (WR, Los Angeles Rams) ruled out: Active -> Out [NFL] (ESPN) :: CJ Daniels: injury
+2026-10-13 01:02:12   drop[1-source] De Ligt Returns as Manchester United Face Atletico Madrid (조선일보) :: Matthijs de Ligt, wait 2nd source
+2026-10-13 01:05:16   llm groq-120b: rate limited, skip 131s
+2026-10-13 01:05:16   drop[unconfirmed] Landon Jackson (DE, Buffalo Bills) ruled out: Questionable -> Out [NFL] (ESPN) :: knee injury
+2026-10-13 01:05:17   drop[not-key] Dee Alford (CB, Buffalo Bills) ruled out: Questionable -> Out [NFL] (ESPN) :: Dee Alford: ankle injury
+2026-10-13 01:05:17   drop[not-key] Ar'maj Reed-Adams (G, Buffalo Bills) ruled out: Active -> Out [NFL] (ESPN) :: Ar'maj Reed-Adams: injury
+2026-10-13 01:05:17   drop[not-key] Jude Bowry (OT, Buffalo Bills) ruled out: Active -> Out [NFL] (ESPN) :: Jude Bowry: injury
+2026-10-13 01:06:21 indexed 933 markets
+2026-10-13 01:06:30   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-13 01:06:30   drop[verify] Bills' DJ Moore ruled out vs. Rams with shoulder injury (Sportsnet.ca) :: no answer
+2026-10-13 01:11:29 NEWS [ESPN 5m] David Sills V (WR, Tampa Bay Buccaneers) ruled out: healthy -> Injured Reserve [NFL]
+2026-10-13 01:11:29   skip Steelers :: Steelers vs. Buccaneers (low conf 0.6)
+2026-10-13 01:13:21   llm groq-120b: rate limited, skip 132s
+2026-10-13 01:13:22   drop[1-source] Texas women's basketball forward Jada Bediako to miss 2026-27 season with Achilles injury (On3) :: Jada Bediako, wait 2nd source
+2026-10-13 01:15:38   llm groq-120b: rate limited, skip 31s
+2026-10-13 01:15:40   drop[verify] DJ Moore injury: Bills make final decision on WR for Rams game (The Big Lead) :: DJ Moore not on Bills roster
+2026-10-13 01:15:40   drop[side] WR DJ Moore is out for Bills' Monday night showdown with Rams (Huron Daily Tribune) :: Bills vs. Rams -> Bills vs fact ruled_out: DJ Moore (Buffalo Bills, nfl), bad for Buffalo Bills. injury
+2026-10-13 01:15:41   drop[1-source] Michael Penix Quotes on Injury After Falcons Loss Are Even More Frustrating for Fans (roundtable.io) :: Michael Penix Jr., wait 2nd source
+2026-10-13 01:16:24 indexed 926 markets
+2026-10-13 01:20:35   drop[1-source] Nissan Xterra 4x4 ruled out for Australia (Carsales) :: Nissan Xterra 4x4 (Nissan), wait 2nd source
+2026-10-13 01:26:24 indexed 923 markets
+2026-10-13 01:27:15   drop[1-source] Bob Chesney's hot start at UCLA to be tested by Nico Iamaleava injury (On3) :: Nico Iamaleava, wait 2nd source
+2026-10-13 01:27:16   drop[kind] Diddy taken from prison for head injury treatment, TMZ reports (News Ghana) :: other
+2026-10-13 01:28:34   llm groq-120b: rate limited, skip 10s
+2026-10-13 01:28:34 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 8)
+2026-10-13 01:28:37 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 8)
+2026-10-13 01:28:40 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 8)
+2026-10-13 01:28:42 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 8)
+2026-10-13 01:28:44 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 8)
+2026-10-13 01:28:46 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 8)
+2026-10-13 01:28:49   llm groq-120b: rate limited, skip 7s
+2026-10-13 01:28:49 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 8)
+2026-10-13 01:28:52 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 8)
+2026-10-13 01:28:54 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 8)
+2026-10-13 01:28:57 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 8)
+2026-10-13 01:28:58 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 8)
+2026-10-13 01:29:01   llm groq-120b: rate limited, skip 85s
+2026-10-13 01:29:01 [pengwin] LENS-LIONE: no Polymarket event (try 8)
+2026-10-13 01:29:03 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 8)
+2026-10-13 01:29:06 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 8)
+2026-10-13 01:29:08 [pengwin] MONACO-TOLOSA: no Polymarket event (try 8)
+2026-10-13 01:29:10 [pengwin] BREST-ANGERS: no Polymarket event (try 8)
+2026-10-13 01:29:12 [pengwin] PSG-LE MANS: no Polymarket event (try 8)
+2026-10-13 01:29:12 [pengwin] page ligue-1/nizza-strasburgo-statistiche-quote-e-pronostico-2026: Response ended prematurely
+2026-10-13 01:29:15 [pengwin] RENNES-AUXERRE: no Polymarket event (try 8)
+2026-10-13 01:29:17 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 8)
+2026-10-13 01:29:19 [pengwin] AUXERRE-BREST: no Polymarket event (try 8)
+2026-10-13 01:29:42   drop[1-source] GUTTED Delta Goodrem forced to miss Strictly Come Dancing after rib injury (uknip.co.uk) :: Delta Goodrem, wait 2nd source
+2026-10-13 01:30:06 [pengwin] LAZIO-INTER: no Polymarket event (try 8)
+2026-10-13 01:30:08 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 8)
+2026-10-13 01:30:10 [pengwin] INTER-COMO: no Polymarket event (try 8)
+2026-10-13 01:30:13 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 8)
+2026-10-13 01:30:15 [pengwin] COMO-INTER: no Polymarket event (try 8)
+2026-10-13 01:30:17 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 8)
+2026-10-13 01:30:19 [pengwin] NAPOLI-COMO: no Polymarket event (try 8)
+2026-10-13 01:30:21 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 8)
+2026-10-13 01:30:25 [pengwin] FIORENTINA-COMO: no Polymarket event (try 8)
+2026-10-13 01:30:33   llm groq-120b: rate limited, skip 169s
+2026-10-13 01:30:33   drop[kind] 'Breaking Bad' actor and disability rights activist RJ Mitte dead at 34 reut.rs/4ygXzvY (Reuters) :: other
+2026-10-13 01:30:49 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 8)
