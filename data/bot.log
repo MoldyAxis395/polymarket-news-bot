@@ -7081,3 +7081,24 @@
 2026-10-12 18:42:50   drop[1-source] Packers suffer season-ending injury in Week 5 win over Bears (The Big Lead) :: Aaron Jones, wait 2nd source
 2026-10-12 18:45:08 indexed 1016 markets
 2026-10-12 18:45:15   drop[kind] Diddy Rushed to Hospital After Head Injury (Report) (extratv.com) :: other
+2026-10-12 18:53:20   drop[not-key] Samuel Honzek (LW, Calgary Flames) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Samuel Honzek: lower-body injury
+2026-10-12 18:55:12 indexed 1013 markets
+2026-10-12 18:56:49   drop[unconfirmed] Will Shipley Suffer's Gruesome Injury in Crucial Blow (TotalProSports) :: injury will sideline him
+2026-10-12 18:59:15   drop[kind] Diddy Rushed Out of Prison by Ambulance at 1 a.m. With Head Injury (Where Is The Buzz) :: other
+2026-10-12 19:01:22   llm groq-120b: rate limited, skip 124s
+2026-10-12 19:01:23   drop[kind] Sean ‘Diddy’ Combs Leaves Prison After Suffering Head Injury: Report (Newsweek) :: other
+2026-10-12 19:01:23   drop[kind] Mike Vrabel teases big A.J. Brown development amid Patriots' injury woes (Yardbarker) :: other
+2026-10-12 19:01:24   drop[not-key] Sean ‘Diddy’ Combs Removed From Prison After Allegedly Suffering Head Injury, Rep Responds (Us Weekly) :: Sean ‘Diddy’ Combs: removed from prison after head injury
+2026-10-12 19:03:41   drop[1-source] Lions WR Tom Kennedy Done For Season With Significant MCL Injury (NFLTradeRumors.co) :: Tom Kennedy, wait 2nd source
+2026-10-12 19:03:41   llm groq-120b: rate limited, skip 281s
+2026-10-12 19:03:42   drop[1-source] Darcy Graham hands Scotland massive boost with shock availability for Edinburgh (The Scotsman) :: Darcy Graham, wait 2nd source
+2026-10-12 19:04:30   drop[not-key] Tom Kennedy (WR, Detroit Lions) ruled out: Questionable -> Out [NFL] (ESPN) :: Tom Kennedy: knee injury
+2026-10-12 19:05:20 indexed 1002 markets
+2026-10-12 19:10:33   drop[team-not-named] UK launches public inquiry into killing of two Jewish men in synagogue attack reut.rs/4hU5 (Reuters) :: United Kingdom
+2026-10-12 19:13:08   drop[team-not-named] Mike Vrabel talks potential A.J. Brown return and Will Campbell's injury (The Boston Globe) :: Tennessee Titans
+2026-10-12 19:15:16 indexed 998 markets
+2026-10-12 19:15:23   llm groq-120b: rate limited, skip 106s
+2026-10-12 19:15:23   drop[1-source] Auburn linebacker Xavier Atkins suspended for Georgia game (247Sports) :: Xavier Atkins, wait 2nd source
+2026-10-12 19:17:53   llm groq-120b: rate limited, skip 7s
+2026-10-12 19:17:53 NEWS [www.theplainsman.com 2m] Auburn linebacker Xavier Atkins suspended, out for Georgia game
+2026-10-12 19:17:53   skip Georgia :: Auburn vs. Georgia (low conf 0.6)
