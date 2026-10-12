@@ -6858,3 +6858,10 @@
 2026-10-12 07:15:47   drop[1-source] Falcons' Michael Penix Jr. sustains rib injury in 4th quarter in OT loss to Ravens (KSAT) :: Michael Penix Jr., wait 2nd source
 2026-10-12 07:19:31 indexed 879 markets
 2026-10-12 07:29:30 indexed 879 markets
+2026-10-12 07:39:31 indexed 872 markets
+2026-10-12 07:46:16 soccer_lineups error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-12 07:49:31 indexed 874 markets
+2026-10-12 07:52:42   drop[kind] Wallabies’ injury carnage deepens after All Blacks humiliation (Rugby365) :: other
+2026-10-12 07:57:19   drop[kind] North Korea launches multiple ballistic missiles, South Korea says (The Financial Express) :: other
+2026-10-12 07:59:31 indexed 874 markets
+2026-10-12 07:59:36   drop[side] Zheng Qinwen pulls out of the Wuhan Open with a shoulder injury after her China Open win (Houston Chronicle) :: Wuhan Tennis Open: Ann Li vs Qinwen Zheng -> Ann Li vs fact ruled_out: Zheng Qinwen (Wuhan Open, tennis), bad for Wuhan 
