@@ -6842,35 +6842,12 @@
 2026-10-12 04:29:53   skip Yes :: Will Russia and Ukraine hold any diplomatic meeting by October 31, 202 (low conf 0.6)
 2026-10-12 04:34:27 indexed 934 markets
 2026-10-12 04:44:29 indexed 930 markets
-2026-10-12 04:54:28 indexed 926 markets
-2026-10-12 05:00:42   drop[no-market] China sanctions Paraguay, Belize ministers over Taiwan ties reut.rs/4B7q4iG (Reuters) :: Paraguay and Belize
-2026-10-12 05:04:33 indexed 925 markets
-2026-10-12 05:05:35   drop[kind] RBI's rupee boost to spur rally, trigger swings in forward premiums (Investment Guru India) :: other
-2026-10-12 05:14:31 indexed 917 markets
-2026-10-12 05:14:54   drop[1-source] Rays news: Shane McClanahan done for rest of playoffs with injury (ClutchPoints) :: Shane McClanahan, wait 2nd source
-2026-10-12 05:16:54   drop[1-source] Glenorchy alderman suspended over N-word, touching female staff (The Mercury) :: Glenorchy City Council, wait 2nd source
-2026-10-12 05:24:40 indexed 919 markets
-2026-10-12 05:33:24   drop[kind] Intercity bus service suspended in Lahore as terminals reportedly sealed amid PTI protest  (Profit by Pakistan Today) :: other
-2026-10-12 05:34:41 indexed 917 markets
-2026-10-12 05:44:43 indexed 909 markets
-2026-10-12 05:54:43 indexed 913 markets
-2026-10-12 05:58:39   drop[team-not-named] Lamar Jackson Ruled Out for Week 5 Against Falcons (SSBCrack) :: Baltimore Ravens
-2026-10-12 06:03:14   drop[1-source] Falcons QB Michael Penix Jr. injured late in 30-23 loss to Ravens (Falcons Wire) :: Michael Penix Jr., wait 2nd source
-2026-10-12 06:03:14   drop[1-source] Zheng Qinwen pulls out of the Wuhan Open with a shoulder injury after her China Open win (Newsday) :: Zheng Qinwen, wait 2nd source
-2026-10-12 06:03:15   drop[team-not-named] Penix suffers rib injury in OT loss to Ravens (theScore) :: unknown
-2026-10-12 06:04:43 indexed 896 markets
-2026-10-12 06:12:29   drop[team-not-named] Michael Penix Jr. Sustains rib injury in OT loss (Fantasy Footballers Podcast) :: Washington State Cougars
-2026-10-12 06:12:31   drop[verify] Falcons' Michael Penix Jr. suffers rib injury late and Tua Tagovailoa finishes OT loss to  (News4JAX) :: player not on team
-2026-10-12 06:14:44 indexed 898 markets
-2026-10-12 06:24:46 indexed 891 markets
-2026-10-12 06:26:23   drop[not-key] Falcons' Penix Jr. suffers rib injury late, Tagovailoa finishes OT loss to Ravens (Sportsnet.ca) :: Penix Jr.: suffered rib injury late in game
-2026-10-12 06:28:49   drop[kind] Kevin Stefanski on Michael Penix’s rib injury: We’ll know more as we get imaging (NBC Sports) :: other
-2026-10-12 06:34:46 indexed 890 markets
-2026-10-12 06:35:36   drop[kind] Top Springbok suffers concerning injury (The South African) :: other
-2026-10-12 06:42:29   drop[1-source] US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize (MyJoyOnline) :: International Criminal Court (ICC), wait 2nd source
-2026-10-12 06:42:30   drop[kind] Kings Rising Star Maxime Raynaud Avoids Serious Knee Injury (SLAM Online) :: other
-2026-10-12 06:44:47 indexed 882 markets
-2026-10-12 06:51:48   drop[verify] Michael Penix Jr. injury: Falcons QB hurts ribs late in regulation on 'SNF,' says he'll be (CBS Sports) :: Michael Penix Jr. is not a current Falcons NFL player
-2026-10-12 06:54:05   drop[kind] Scalable low-thermal-budget fabrication of suspended silicon nanowire devices (Nature) :: other
-2026-10-12 06:54:48 indexed 878 markets
-2026-10-12 06:58:38 shift over, state saved
+2026-10-12 06:58:55 === start mode=paper pid=2253 ===
+2026-10-12 06:58:55 brain=llm cash=84.23 open=0
+2026-10-12 06:58:55 resuming with 4740 known news items
+2026-10-12 06:59:16 indexed 877 markets
+2026-10-12 06:59:33   drop[1-source] Tennis player Zheng withdraws from Wuhan Open due to shoulder injury — Interia Sport (UA.NEWS) :: Zheng Qinwen, wait 2nd source
+2026-10-12 06:59:34   drop[kind] Falcons’ Kevin Stefanski shares insight on Michael Penix’s status amid injury scare (ClutchPoints) :: other
+2026-10-12 06:59:35   drop[team-not-named] Zheng Qinwen withdraws from Wuhan Open after Beijing triumph (Tennis Tonic) :: China
+2026-10-12 07:00:51   drop[kind] It takes two to make a ceasefire reut.rs/4ybKgNp (Reuters) :: other
+2026-10-12 07:02:01   drop[1-source] Indore BJP Worker Assault: Four Cops Suspended (Dainik Jagran MP CG) :: Indore Police Department, wait 2nd source
