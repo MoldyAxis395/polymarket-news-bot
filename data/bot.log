@@ -7631,3 +7631,54 @@
 2026-10-13 00:30:18 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 6)
 2026-10-13 00:30:19 [pengwin] LIPSIA-PSV: no Polymarket event (try 5)
 2026-10-13 00:30:24 [pengwin]   BUY Over @ 0.770 x13.0 ($10.00) :: ŠK Slovan Bratislava vs. VfB Stuttgart: VfB Stuttgart O/U 1.5
+2026-10-13 00:36:16 indexed 933 markets
+2026-10-13 00:38:41   drop[kind] UW Huskies QB Demond Williams Jr. day-to-day with ‘significant’ ribs injury (Seattle Sports) :: other
+2026-10-13 00:41:02   drop[not-key] Caleb Durbin undergoes surgery to correct lingering pinky injury (Boston.com) :: Caleb Durbin: undergoing surgery for lingering pinky injury
+2026-10-13 00:43:29   llm groq-120b: rate limited, skip 86s
+2026-10-13 00:43:29   drop[kind] Wilma Rudolph Boulevard Reopens After Injury Crash at Dunbar Cave Road (Clarksville Online) :: other
+2026-10-13 00:43:29   drop[kind] WWE Hall of Famer discloses previous thumb injury (Wrestleview.com) :: other
+2026-10-13 00:45:38   drop[team-not-named] Pro surfer suspended over alleged sexual assault of Sydney teen (The Australian) :: World Surf League
+2026-10-13 00:46:18 indexed 928 markets
+2026-10-13 00:49:45   llm groq-120b: rate limited, skip 35s
+2026-10-13 00:49:46 NEWS [ESPN 3m] DJ Moore (WR, Buffalo Bills) ruled out: Questionable -> Out [NFL]
+2026-10-13 00:49:46   skip Rams :: Bills vs. Rams (low conf 0.6)
+2026-10-13 00:52:46   drop[team-not-named] DJ Moore Injury: Inactive in Week 5 (RotoWire) :: Chicago Bears
+2026-10-13 00:53:33   llm groq-120b: rate limited, skip 41s
+2026-10-13 00:53:34   drop[kind] Crypto megadonors to boost Ricketts in Nebraska Senate race politi.co/4s3on1w (Politico) :: other
+2026-10-13 00:56:19 indexed 925 markets
+2026-10-13 00:57:11   drop[unconfirmed] Triple injury scare hits Al Ahli and Al Nassr before Roshn League clasico (OneFootball) :: injury scare affecting players from both clubs
+2026-10-13 00:58:22 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 7)
+2026-10-13 00:58:24   llm groq-120b: rate limited, skip 39s
+2026-10-13 00:58:25 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 7)
+2026-10-13 00:58:28 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 7)
+2026-10-13 00:58:30 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 7)
+2026-10-13 00:58:32 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 7)
+2026-10-13 00:58:35 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 7)
+2026-10-13 00:58:37 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 7)
+2026-10-13 00:58:40 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 7)
+2026-10-13 00:58:42 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 7)
+2026-10-13 00:58:45 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 7)
+2026-10-13 00:58:46 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 7)
+2026-10-13 00:58:49 [pengwin] LENS-LIONE: no Polymarket event (try 7)
+2026-10-13 00:58:51 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 7)
+2026-10-13 00:58:54 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 7)
+2026-10-13 00:58:56 [pengwin] MONACO-TOLOSA: no Polymarket event (try 7)
+2026-10-13 00:58:58 [pengwin] BREST-ANGERS: no Polymarket event (try 7)
+2026-10-13 00:59:00 [pengwin] PSG-LE MANS: no Polymarket event (try 7)
+2026-10-13 00:59:02 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 7)
+2026-10-13 00:59:04 [pengwin] RENNES-AUXERRE: no Polymarket event (try 7)
+2026-10-13 00:59:07 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 7)
+2026-10-13 00:59:08 [pengwin] AUXERRE-BREST: no Polymarket event (try 7)
+2026-10-13 00:59:31   llm groq-120b: rate limited, skip 111s
+2026-10-13 00:59:31   drop[1-source] President Trump suspended sanctions against Russia — PBS NewsHour (UA.NEWS) :: Donald Trump, wait 2nd source
+2026-10-13 00:59:53 [pengwin] LAZIO-INTER: no Polymarket event (try 7)
+2026-10-13 00:59:55 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 7)
+2026-10-13 00:59:57 [pengwin] INTER-COMO: no Polymarket event (try 7)
+2026-10-13 00:59:59 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 7)
+2026-10-13 01:00:01 [pengwin] COMO-INTER: no Polymarket event (try 7)
+2026-10-13 01:00:04 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 7)
+2026-10-13 01:00:06 [pengwin] NAPOLI-COMO: no Polymarket event (try 7)
+2026-10-13 01:00:08 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 7)
+2026-10-13 01:00:12 [pengwin] FIORENTINA-COMO: no Polymarket event (try 7)
+2026-10-13 01:00:36 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 7)
+2026-10-13 01:00:38 [pengwin] LIPSIA-PSV: no Polymarket event (try 6)
