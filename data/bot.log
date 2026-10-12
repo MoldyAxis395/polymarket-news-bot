@@ -7188,3 +7188,79 @@
 2026-10-12 20:45:36   llm groq-120b: rate limited, skip 121s
 2026-10-12 20:45:37 NEWS [ESPN 11m] Rasmus Dahlin (D, Buffalo Sabres) ruled out: healthy -> Out [NHL]
 2026-10-12 20:45:37   skip Canadiens :: Sabres vs. Canadiens (low conf 0.6)
+2026-10-12 20:50:42   llm groq-120b: rate limited, skip 21s
+2026-10-12 20:50:42   drop[no-pick] Taylor Moton (OT, Carolina Panthers) ruled out: healthy -> Out [NFL] (ESPN) :: no suitable outcome to rise
+2026-10-12 20:51:44   llm groq-120b: rate limited, skip 40s
+2026-10-12 20:51:45   drop[no-pick] Jos Buttler: England batter undergoes hamstring surgery as he is ruled out of Australia wh (Sky Sports) :: short
+2026-10-12 20:51:45   drop[1-source] Boca squad to face Vasco da Gama as Paredes ruled out (OneFootball) :: Paredes, wait 2nd source
+2026-10-12 20:54:02   drop[no-market] 49ers’ Dre Greenlaw suspended after headbutt leaves opponent bleeding (The Guardian) :: San Francisco 49ers
+2026-10-12 20:55:29 indexed 968 markets
+2026-10-12 20:56:29   llm groq-120b: rate limited, skip 29s
+2026-10-12 20:56:30   drop[kind] AI Model Predicts Death Risk in Sepsis Patients With Heart Injury (Bioengineer.org) :: other
+2026-10-12 21:00:56   drop[team-not-named] Dre Greenlaw has been suspended by the NFL (Larry Brown Sports) :: Chicago Bears
+2026-10-12 21:00:56   llm groq-120b: rate limited, skip 52s
+2026-10-12 21:00:57 NEWS [TSN 5m] Buffalo Sabres’ Dahlin exits game with upper-body injury
+2026-10-12 21:00:57   skip Canadiens :: Sabres vs. Canadiens (low conf 0.6)
+2026-10-12 21:02:54   llm groq-120b: rate limited, skip 168s
+2026-10-12 21:02:55   drop[no-pick] Andrew Billings (DT, Arizona Cardinals) cleared to play: Out -> Active [NFL] (ESPN) :: short
+2026-10-12 21:02:55   drop[not-key] Starling Thomas V (CB, Arizona Cardinals) cleared to play: Out -> Active [NFL] (ESPN) :: Starling Thomas V: return
+2026-10-12 21:03:13   drop[kind] Diddy Taken From Prison to Get Treated for Head Injury – Report (XXL Mag) :: other
+2026-10-12 21:03:55   drop[not-key] Carson Beck (QB, Arizona Cardinals) cleared to play: Out -> Active [NFL] (ESPN) :: Carson Beck: cleared to play
+2026-10-12 21:04:56   drop[not-key] Swayze Bozeman (LB, Cincinnati Bengals) ruled out: Questionable -> Out [NFL] (ESPN) :: Swayze Bozeman: injury
+2026-10-12 21:04:56   drop[not-key] Myles Hinton (OT, Cincinnati Bengals) cleared to play: Out -> Active [NFL] (ESPN) :: Myles Hinton: cleared to play
+2026-10-12 21:04:57   drop[not-key] Jack Endries (TE, Cincinnati Bengals) cleared to play: Out -> Active [NFL] (ESPN) :: Jack Endries: cleared to play
+2026-10-12 21:04:57   drop[not-key] Connor Lew (C, Cincinnati Bengals) cleared to play: Out -> Active [NFL] (ESPN) :: Connor Lew: cleared to play
+2026-10-12 21:04:57   drop[not-key] Landon Robinson (DT, Cincinnati Bengals) cleared to play: Out -> Active [NFL] (ESPN) :: Landon Robinson: cleared to play
+2026-10-12 21:05:30 indexed 952 markets
+2026-10-12 21:05:45   llm groq-120b: rate limited, skip 49s
+2026-10-12 21:05:45   drop[no-market] UCLA quarterback Nico Iamaleava out for season with knee injury (Los Angeles Times) :: UCLA Bruins
+2026-10-12 21:05:46   drop[1-source] Texans Announce More Bad News Amid David Montgomery Injury (Heavy.com) :: David Montgomery, wait 2nd source
+2026-10-12 21:05:57   drop[not-key] Jack Strand (QB, Atlanta Falcons) cleared to play: Out -> Active [NFL] (ESPN) :: Jack Strand: cleared to play
+2026-10-12 21:05:57   drop[not-key] Ethan Onianwa (OT, Atlanta Falcons) cleared to play: Out -> Active [NFL] (ESPN) :: Ethan Onianwa: cleared to play
+2026-10-12 21:05:58   drop[not-key] Malcolm DeWalt IV (CB, Atlanta Falcons) cleared to play: Out -> Active [NFL] (ESPN) :: Malcolm DeWalt IV: cleared to play
+2026-10-12 21:05:59   drop[verify] Christian Harris (LB, Atlanta Falcons) cleared to play: Out -> Active [NFL] (ESPN) :: uncertain roster status
+2026-10-12 21:06:00   drop[not-key] Robert Longerbeam (CB, Atlanta Falcons) cleared to play: Out -> Active [NFL] (ESPN) :: Robert Longerbeam: injury recovery
+2026-10-12 21:06:00   drop[not-key] Elijah Sarratt (WR, Baltimore Ravens) cleared to play: Out -> Active [NFL] (ESPN) :: Elijah Sarratt: return
+2026-10-12 21:06:01   drop[not-key] Aeneas Peebles (DT, Baltimore Ravens) cleared to play: Out -> Active [NFL] (ESPN) :: Aeneas Peebles: return
+2026-10-12 21:06:58   llm groq-120b: rate limited, skip 176s
+2026-10-12 21:06:58 NEWS [ESPN 3m] Ajani Cornelius (OT, Dallas Cowboys) cleared to play: Out -> Active [NFL]
+2026-10-12 21:06:58   skip Cowboys :: Cowboys vs. Packers (low conf 0.6)
+2026-10-12 21:06:59   drop[not-key] Camden Brown (WR, Dallas Cowboys) cleared to play: Out -> Active [NFL] (ESPN) :: Camden Brown: return from injury
+2026-10-12 21:06:59   drop[not-key] James Houston (LB, Dallas Cowboys) cleared to play: Out -> Active [NFL] (ESPN) :: James Houston: cleared to play
+2026-10-12 21:07:51   drop[kind] Sean ‘Diddy’ Combs rushed to hospital over head injury in prison: Report (Entertainment Weekly) :: other
+2026-10-12 21:07:52   drop[not-key] NC State 4-star QB commit Gunner Rivers set to return from injury this week (On3) :: Gunner Rivers: injury recovery
+2026-10-12 21:07:59   drop[not-key] Cooper Rush (QB, Atlanta Falcons) cleared to play: Out -> Active [NFL] (ESPN) :: Cooper Rush: Roster status update
+2026-10-12 21:10:11   llm groq-120b: rate limited, skip 89s
+2026-10-12 21:10:11   drop[no-market] 49ers' Dre Greenlaw Suspended One Game For Head-Butting Seahawk LB (RealGM) :: San Francisco 49ers
+2026-10-12 21:12:32   drop[not-key] Cutter Gauthier Injury: Participates in drills at practice (RotoWire) :: Cutter Gauthier: participated in practice drills, indicating he is returning from injury
+2026-10-12 21:13:02   llm groq-120b: rate limited, skip 196s
+2026-10-12 21:13:03   drop[not-key] Jordyn Tyson (WR, New Orleans Saints) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Jordyn Tyson: injury
+2026-10-12 21:14:04   drop[not-key] Ozzy Trapilo (OT, Chicago Bears) cleared to play: Out -> Active [NFL] (ESPN) :: Ozzy Trapilo: cleared to play
+2026-10-12 21:14:06   drop[verify] Jayden Loving (DT, Chicago Bears) cleared to play: Out -> Active [NFL] (ESPN) :: Loving not star, no big impact
+2026-10-12 21:14:06   drop[not-key] Jamree Kromah (DE, Chicago Bears) cleared to play: Out -> Active [NFL] (ESPN) :: Jamree Kromah: cleared to play
+2026-10-12 21:14:07   drop[not-key] Taylen Green (QB, Cleveland Browns) cleared to play: Out -> Active [NFL] (ESPN) :: Taylen Green: cleared to play
+2026-10-12 21:14:07   drop[not-key] Parker Brailsford (C, Cleveland Browns) cleared to play: Out -> Active [NFL] (ESPN) :: Parker Brailsford: cleared to play
+2026-10-12 21:14:07   drop[not-key] Donovan Jennings (G, Green Bay Packers) cleared to play: Out -> Active [NFL] (ESPN) :: Donovan Jennings: return
+2026-10-12 21:15:32 indexed 963 markets
+2026-10-12 21:18:11   llm groq-120b: rate limited, skip 64s
+2026-10-12 21:18:13   drop[verify] Albert Regis (DT, Jacksonville Jaguars) cleared to play: Out -> Active [NFL] (ESPN) :: depth player
+2026-10-12 21:18:14   drop[not-key] Wesley Williams (DE, Jacksonville Jaguars) cleared to play: Out -> Active [NFL] (ESPN) :: Wesley Williams: cleared to play
+2026-10-12 21:18:14   drop[not-key] CJ Williams (WR, Jacksonville Jaguars) cleared to play: Out -> Active [NFL] (ESPN) :: CJ Williams: cleared to play
+2026-10-12 21:18:14   drop[not-key] Daniel Faalele (G, Jacksonville Jaguars) cleared to play: Out -> Active [NFL] (ESPN) :: Daniel Faalele: cleared to play
+2026-10-12 21:18:15   drop[not-key] Alijah Huzzie (CB, Jacksonville Jaguars) cleared to play: Out -> Active [NFL] (ESPN) :: Alijah Huzzie: cleared to play
+2026-10-12 21:19:11   drop[not-key] Ahmed Hassanein (DE, Detroit Lions) cleared to play: Out -> Active [NFL] (ESPN) :: Ahmed Hassanein: cleared to play
+2026-10-12 21:19:12   drop[not-key] Bishop Fitzgerald (S, Detroit Lions) cleared to play: Out -> Active [NFL] (ESPN) :: Bishop Fitzgerald: cleared to play
+2026-10-12 21:19:12   drop[no-market] Mekhi Wingo (DT, Detroit Lions) cleared to play: Out -> Active [NFL] (ESPN) :: Detroit Lions
+2026-10-12 21:19:13   drop[not-key] Marlin Klein (TE, Houston Texans) cleared to play: Out -> Active [NFL] (ESPN) :: Marlin Klein: cleared to play
+2026-10-12 21:19:13   drop[not-key] Febechi Nwaiwu (G, Houston Texans) cleared to play: Out -> Active [NFL] (ESPN) :: Febechi Nwaiwu: cleared to play
+2026-10-12 21:19:13   drop[not-key] Aiden Fisher (LB, Houston Texans) cleared to play: Out -> Active [NFL] (ESPN) :: Aiden Fisher: return
+2026-10-12 21:19:14   drop[not-key] Collin Wright (CB, Houston Texans) cleared to play: Out -> Active [NFL] (ESPN) :: Collin Wright: cleared to play
+2026-10-12 21:19:14   drop[not-key] Sabastian Harsh (DE, Houston Texans) cleared to play: Out -> Active [NFL] (ESPN) :: Sebastian Harsh: cleared to play
+2026-10-12 21:19:15   drop[not-key] Chris Braswell (DE, Houston Texans) cleared to play: Out -> Active [NFL] (ESPN) :: Chris Braswell: cleared to play
+2026-10-12 21:19:15   drop[not-key] Nate Thomas (OT, Houston Texans) cleared to play: Out -> Active [NFL] (ESPN) :: Nate Thomas: cleared to play
+2026-10-12 21:19:16   drop[not-key] Dalton Tucker (G, Indianapolis Colts) cleared to play: Out -> Active [NFL] (ESPN) :: Dalton Tucker: player cleared
+2026-10-12 21:19:16   llm groq-120b: rate limited, skip 60s
+2026-10-12 21:19:16   drop[not-key] Riley Leonard (QB, Indianapolis Colts) cleared to play: Out -> Active [NFL] (ESPN) :: Riley Leonard: cleared to play
+2026-10-12 21:19:17   drop[not-key] Aidan O'Connell (QB, Las Vegas Raiders) cleared to play: Out -> Active [NFL] (ESPN) :: Aidan O'Connell: cleared to play
+2026-10-12 21:19:17   llm groq-20b: rate limited, skip 2s
+2026-10-12 21:19:27   drop[kind] Diddy Hospitalized After Suffering Head Injury in Prison (E! News) :: other
