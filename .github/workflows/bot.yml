@@ -2,7 +2,7 @@ name: paper-bot
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # new shift every 6h (GitHub may start it a few minutes late)
+    - cron: "0 */3 * * *"   # every 3h: GitHub cron runs hours late, so a queued shift starts as soon as the previous ends
   workflow_dispatch:
 
 permissions:

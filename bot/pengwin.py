@@ -34,7 +34,7 @@ LABEL = "🐧 BOT PENGWIN\n"
 _s = requests.Session()
 _s.headers.update({"User-Agent": "Mozilla/5.0"})
 MATCH_LINK = re.compile(r'href="(https://www\.mondopengwin\.it/pronostici/calcio/[a-z0-9-]+/[a-z0-9-]+-pronostico[a-z0-9-]*)"')
-PICK = re.compile(r"Analisi e pronostico di Kristian Pengwin:(.*?)Per non perderti", re.S)
+PICK = re.compile(r"Analisi e pronostico di Kristian Pengwin[:.](.*?)(?:Per non perderti|Se vuoi scoprire|Comparatore)", re.S)
 TITLE = re.compile(r"<title>\s*(.*?)\s*:\s*STATISTICHE", re.S | re.I)
 # club prefixes/suffixes that differ between the Italian site and Polymarket
 NOISE = {"fc", "cf", "ac", "as", "ss", "sc", "afc", "calcio", "club", "de", "del"}
@@ -74,7 +74,7 @@ class Pengwin:
                     self.pages.setdefault(url, {"first": now, "status": "pending"})
             except Exception as e:
                 self.log(f"league {league}: {e}")
-        cutoff = now - 5 * 86400
+        cutoff = now - 12 * 86400  # pages can appear ~10 days ahead (international breaks, cups)
         for url, pg in list(self.pages.items()):
             if pg["status"] != "pending":
                 continue
@@ -92,6 +92,7 @@ class Pengwin:
                 continue
             t = TITLE.search(page)
             pg.update(status="picked", pick=pick, match=_text(t.group(1)) if t else url.rsplit("/", 1)[1])
+            pg.setdefault("picked_at", now)
             self.handle(url, pg)
         cutoff = now - 30 * 86400
         self.pages = {u: p for u, p in self.pages.items() if p["first"] > cutoff}
@@ -161,9 +162,13 @@ class Pengwin:
                        if m.liquidity >= config.PENGWIN_MIN_LIQUIDITY and "2nd Half" not in m.question]
         d = self.map_pick(match, pick, markets) if markets else None
         if not ev or d is None:
-            # no event yet / LLM rate limited: retry on the next scans, then give up quietly
+            # no event yet (pick can come days early) / LLM rate limited: retry on the next scans,
+            # give up after 4 failed LLM answers or once the pick is 6 days old without an event
             pg["tries"] = pg.get("tries", 0) + 1
-            pg.update(status="pending" if pg["tries"] < 4 else "skipped",
+            if ev:
+                pg["llm_fails"] = pg.get("llm_fails", 0) + 1
+            give_up = pg.get("llm_fails", 0) >= 4 or time.time() - pg.get("picked_at", time.time()) > 6 * 86400
+            pg.update(status="skipped" if give_up else "pending",
                       why="no Polymarket event" if not ev else "no LLM answer")
             self.log(f"{match}: {pg['why']} (try {pg['tries']})")
             return
