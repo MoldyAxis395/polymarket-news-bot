@@ -7264,3 +7264,20 @@
 2026-10-12 21:19:17   drop[not-key] Aidan O'Connell (QB, Las Vegas Raiders) cleared to play: Out -> Active [NFL] (ESPN) :: Aidan O'Connell: cleared to play
 2026-10-12 21:19:17   llm groq-20b: rate limited, skip 2s
 2026-10-12 21:19:27   drop[kind] Diddy Hospitalized After Suffering Head Injury in Prison (E! News) :: other
+2026-10-12 21:21:17   drop[not-key] Dallen Bentley (TE, Denver Broncos) cleared to play: Out -> Active [NFL] (ESPN) :: Dallen Bentley: cleared to play after being out
+2026-10-12 21:21:17   llm groq-120b: rate limited, skip 217s
+2026-10-12 21:21:18   drop[not-key] Sam Ehlinger (QB, Denver Broncos) cleared to play: Out -> Active [NFL] (ESPN) :: Sam Ehlinger: return
+2026-10-12 21:21:18   drop[not-key] Kage Casey (OT, Denver Broncos) cleared to play: Out -> Active [NFL] (ESPN) :: Kage Casey: return from injury
+2026-10-12 21:21:19   drop[not-key] Tyler Onyedim (DT, Denver Broncos) cleared to play: Out -> Active [NFL] (ESPN) :: Tyler Onyedim: cleared to play
+2026-10-12 21:21:19   drop[not-key] Jordan Jackson (DT, Denver Broncos) cleared to play: Out -> Active [NFL] (ESPN) :: Jordan Jackson: player returns
+2026-10-12 21:21:45   drop[not-key] Sabres' Dahlin leaves with upper-body injury in 2nd period against Panthers (Yahoo Sports) :: Mikael Dahlin: upper-body injury
+2026-10-12 21:21:46   drop[unconfirmed] Nico Iamaleava out for season, dampening UCLA's College Football Playoff hopes | Report (USA Today) :: season-ending injury
+2026-10-12 21:23:19   drop[unconfirmed] Jackson Meeks (WR, Detroit Lions) cleared to play: Out -> Active [NFL] (ESPN) :: healthy scratch
+2026-10-12 21:26:00 indexed 966 markets
+2026-10-12 21:26:06   drop[1-source] Steelers Facing WR Shortage with Pair Ruled Out vs. Buccaneers (Steelers Now) :: Pittsburgh Steelers, wait 2nd source
+2026-10-12 21:26:06   llm groq-120b: rate limited, skip 266s
+2026-10-12 21:26:07   drop[1-source] Latest On Injured Lions’ LB Devin White Isn’t Good (Heavy.com) :: Devin White, wait 2nd source
+2026-10-12 21:27:05 NEWS [ESPN 0m] Roman Wilson (WR, Pittsburgh Steelers) ruled out: Doubtful -> Out [NFL]
+2026-10-12 21:27:05   skip Buccaneers :: Steelers vs. Buccaneers (illiquid)
+2026-10-12 21:29:07   drop[not-key] Ben Skowronek (WR, Pittsburgh Steelers) ruled out: Questionable -> Out [NFL] (ESPN) :: Ben Skowronek: injury
+2026-10-12 21:29:14 shift over, state saved
