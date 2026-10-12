@@ -7150,3 +7150,41 @@
 2026-10-12 20:15:28   drop[not-key] Dre Greenlaw suspended for one game (NBC Sports) :: Dre Greenlaw: suspension
 2026-10-12 20:15:29   drop[1-source] Browns’ KC Concepcion Injury Opened Door for Isaiah Bond With Costly Results (247Sports) :: KC Concepcion, wait 2nd source
 2026-10-12 20:17:46   drop[no-market] Delta Goodrem to miss this weekend’s ‘Strictly Come Dancing’ due to injury (Entertainment Focus) :: Strictly Come Dancing
+2026-10-12 20:20:06   drop[1-source] Eagles’ running back position completely decimated with Will Shipley injury (New York Post) :: Will Shipley, wait 2nd source
+2026-10-12 20:22:35   llm groq-120b: rate limited, skip 95s
+2026-10-12 20:22:35   drop[team-not-named] Dre Greenlaw suspended one game for headbutt (NBC Sports) :: Detroit Lions
+2026-10-12 20:22:36   drop[not-key] Steelers' Roman Wilson Expected to Miss Multiple Weeks With Injury (roundtable.io) :: Roman Wilson: injury
+2026-10-12 20:22:36   drop[kind] Diddy Allegedly Hospitalized After Suffering Head Injury Behind Bars (Hip-Hop Wired) :: other
+2026-10-12 20:22:36   drop[unconfirmed] UCLA quarterback Nico Iamaleava expected to miss remainder of season with knee injury (On3) :: knee injury
+2026-10-12 20:22:37   drop[no-market] 49ers' Dre Greenlaw suspended by NFL after head-butting Seahawks player (www.sportingnews.com) :: San Francisco 49ers
+2026-10-12 20:24:41   drop[1-source] Attorney Charles M. Dalziel, Jr., Suspended by Georgia Supreme Court After Inadequate Resp (ALABnews -) :: Charles M. Dalziel, Jr., wait 2nd source
+2026-10-12 20:24:41   llm groq-120b: rate limited, skip 245s
+2026-10-12 20:24:42   drop[not-key] 49ers’ Dre Greenlaw was suspended for violating the ‘principles of sportsmanship’ (Niners Nation) :: Dre Greenlaw: violation of sportsmanship
+2026-10-12 20:24:42   drop[1-source] 49ers Star Suddenly Suspended One Game by NFL After Seahawks Incident (Heavy.com) :: San Francisco 49ers, wait 2nd source
+2026-10-12 20:25:24 indexed 983 markets
+2026-10-12 20:27:02   drop[not-key] 49ers' Dre Greenlaw Suspended by NFL After Being Ejected for Headbutting Seahawks' Ernest  (Bleacher Report) :: Dre Greenlaw: suspended
+2026-10-12 20:29:01   llm groq-120b: rate limited, skip 237s
+2026-10-12 20:29:01   drop[no-pick] Dre Greenlaw (LB, San Francisco 49ers) ruled out: Active -> Suspension [NFL] (ESPN) :: short
+2026-10-12 20:29:19   drop[no-market] 49ers' Dre Greenlaw suspended for headbutting Seahawks' Ernest Jones IV: 'Unsportsmanlike' (KOMO) :: San Francisco 49ers
+2026-10-12 20:30:53   drop[unconfirmed] Javon Hargrave injury: Packers DL out for season with torn Achilles, three trade targets (CBS Sports) :: season-ending injury
+2026-10-12 20:33:10   llm groq-120b: rate limited, skip 20s
+2026-10-12 20:33:11   drop[no-market] 49ers' Dre Greenlaw suspended 1 game for headbutting Seahawks player on sideline (SFGATE) :: San Francisco 49ers
+2026-10-12 20:33:11   drop[not-key] Quinshon Judkins day-to-day with ankle injury (NBC Sports) :: Quinshon Judkins: ankle injury day-to-day
+2026-10-12 20:33:12   drop[unconfirmed] Nico Iamaleava to miss rest of season with knee injury (On3) :: knee injury
+2026-10-12 20:35:26 indexed 989 markets
+2026-10-12 20:35:36   drop[team-not-named] Niners LB Dre Greenlaw suspended 1 game for headbutt vs. Seahawks (KMJ Now) :: San Francisco 49ers
+2026-10-12 20:35:36   llm groq-120b: rate limited, skip 181s
+2026-10-12 20:35:36   drop[team-not-named] ESPN: Hargrave's Achilles injury ends his season (Acme Packing Company) :: New England Patriots
+2026-10-12 20:36:28   drop[unconfirmed] Tershawn Wharton (DT, Carolina Panthers) ruled out: healthy -> Out [NFL] (ESPN) :: injury
+2026-10-12 20:38:00   drop[team-not-named] Dre Greenlaw was suspended for violating the ‘principles of sportsmanship’ (Yahoo Sports) :: Philadelphia Eagles
+2026-10-12 20:38:01   drop[unconfirmed] Blackhawks’ Connor Bedard Playing News is Big Deal After Injury (heavy.com) :: return after injury
+2026-10-12 20:40:08   drop[no-market] UCLA QB Nico Iamaleava to miss remainder of season after knee injury (CBS Sports) :: UCLA Bruins
+2026-10-12 20:40:09   llm groq-120b: rate limited, skip 169s
+2026-10-12 20:40:09   drop[unconfirmed] Report: Steelers WR Roman Wilson is expected to miss time with finger injury (NBC Sports) :: finger injury
+2026-10-12 20:40:09   drop[unconfirmed] Big Ten quarterback expected to miss remainder of season with knee injury (MassLive.com) :: knee injury
+2026-10-12 20:41:09   drop[kind] Saudi-led coalition says it destroyed Houthi ballistic missile fired towards Riyadh reut.r (Reuters) :: other
+2026-10-12 20:44:45   drop[team-not-named] Ex-Broncos Dre Greenlaw Suspended After Sean Payton Encounter (Heavy.com) :: Denver Broncos
+2026-10-12 20:45:30 indexed 971 markets
+2026-10-12 20:45:36   llm groq-120b: rate limited, skip 121s
+2026-10-12 20:45:37 NEWS [ESPN 11m] Rasmus Dahlin (D, Buffalo Sabres) ruled out: healthy -> Out [NHL]
+2026-10-12 20:45:37   skip Canadiens :: Sabres vs. Canadiens (low conf 0.6)
