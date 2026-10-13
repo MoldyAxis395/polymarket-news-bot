@@ -9250,3 +9250,15 @@
 2026-10-14 00:18:13   llm groq-120b: rate limited, skip 271s
 2026-10-14 00:18:13   drop[kind] RCMP officer narrowly avoids injury after SUV hits police vehicle near Lashburn (paNOW) :: other
 2026-10-14 00:19:39 indexed 926 markets
+2026-10-14 00:28:47   drop[not-key] KeAndre Lambert-Smith (WR, Los Angeles Chargers) ruled out: healthy -> Injured Reserve [NF (ESPN) :: KeAndre Lambert-Smith: placed on injured reserve
+2026-10-14 00:29:40 indexed 923 markets
+2026-10-14 00:29:45   drop[kind] SIRT investigating serious injury during arrest by Battlefords RCMP (Country 600 CJWW) :: other
+2026-10-14 00:36:38   drop[kind] Former Steelers DT Still Seeking Injury Comeback (Steelers Now) :: other
+2026-10-14 00:36:38   llm groq-120b: rate limited, skip 141s
+2026-10-14 00:36:38   drop[1-source] Bears Bits: Shemar Turner Activated, Sweat Suspended, Defensive Concerns Pile Up, More (Bleacher Nation) :: Shemar Turner, wait 2nd source
+2026-10-14 00:38:55   drop[not-key] Jaylin Williams Injury: Out Tuesday (RotoWire) :: Jaylin Williams: injury
+2026-10-14 00:39:39 indexed 912 markets
+2026-10-14 00:45:51   drop[no-market] Lufthansa set to win bidding for stake in Portugal's TAP, SIC reports reut.rs/4ihy498 (Reuters) :: TAP Air Portugal
+2026-10-14 00:49:41 indexed 912 markets
+2026-10-14 00:50:45   drop[1-source] Penn State Football Linebacker Alex Tatsch Out For Season With Injury (Onward State) :: Alex Tatsch, wait 2nd source
+2026-10-14 00:54:01 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
