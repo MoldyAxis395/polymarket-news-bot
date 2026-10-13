@@ -31,3 +31,6 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-13T21:12:09+00:00,SELL,Galatasaray SK vs. FC Barcelona: Both Teams to Score,Yes,14.49,1.0000,14.49,+4.49,resolved
 2026-10-13T21:36:24+00:00,SELL,RB Leipzig vs. PSV: Both Teams to Score,Yes,13.89,0.0000,0.00,-10.00,resolved
 2026-10-13T21:41:28+00:00,SELL,Will Villarreal CF win on 2026-10-13?,No,18.18,0.0000,0.00,-10.00,resolved
+2026-10-13T21:57:52+00:00,SELL,Viking FK vs. FC Bayern München: 1st Half O/U 0.5,Over,11.24,1.0000,11.24,+1.24,resolved
+2026-10-13T22:05:56+00:00,SELL,Club Atlético de Madrid vs. Manchester United FC: O/U 1.5,Over,11.76,1.0000,11.76,+1.76,resolved
+2026-10-13T22:09:58+00:00,SELL,FC Internazionale Milano vs. Club Brugge KV: O/U 2.5,Over,14.29,1.0000,14.29,+4.29,resolved

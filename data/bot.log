@@ -9228,3 +9228,25 @@
 2026-10-13 23:47:52 [pengwin]   settle error Viking FK vs. FC Bayern München: 1st Half O/U 0.5: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
 2026-10-13 23:49:35 indexed 929 markets
 2026-10-13 23:53:19 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-13 23:55:51 [pengwin]   book error Club Atlético de Madrid vs. Manchester United FC: : 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=48368452531050603545616209329346312087373204593435211970296272741938839578613
+2026-10-13 23:57:22   drop[not-key] Rams’ Alaric Jackson Officially Suspended Multiple Games By NFL For Postgame Punch (TotalProSports) :: Alaric Jackson: postgame punch
+2026-10-13 23:57:52 [pengwin]   SELL Over @ 1.000 (resolved) pnl +1.24 :: Viking FK vs. FC Bayern München: 1st Half O/U 0.5
+2026-10-13 23:59:35 indexed 929 markets
+2026-10-13 23:59:54 [pengwin]   book error FC Internazionale Milano vs. Club Brugge KV: O/U 2: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=23806866549252710906005959938869779633277451201883026251988027032861277520062
+2026-10-14 00:01:59   drop[kind] Kristaps Porzingis injury updated, expected to be seen by Warriors medical staff (USA Today) :: other
+2026-10-14 00:05:56 [pengwin]   SELL Over @ 1.000 (resolved) pnl +1.76 :: Club Atlético de Madrid vs. Manchester United FC: O/U 1.5
+2026-10-14 00:08:55   drop[kind] Suspended Haverford prof accused of threatening colleague held pending trial (Delco Times) :: other
+2026-10-14 00:08:56   drop[1-source] Sales of Ledger devices suspended across Southeast Asian markets and Hong Kong (Traders Union) :: Ledger, wait 2nd source
+2026-10-14 00:09:37 indexed 920 markets
+2026-10-14 00:09:58 [pengwin]   SELL Over @ 1.000 (resolved) pnl +4.29 :: FC Internazionale Milano vs. Club Brugge KV: O/U 2.5
+2026-10-14 00:11:16   drop[kind] Businessman accuses Meta of elder abuse over suspended Facebook account (Daily Journal) :: other
+2026-10-14 00:13:44   drop[not-key] Sam Merrill Injury: Ruled out Tuesday (RotoWire) :: Sam Merrill: injury sidelines him for upcoming game
+2026-10-14 00:13:44   llm groq-120b: rate limited, skip 234s
+2026-10-14 00:13:45   drop[not-key] Nae'Qwan Tomlin Injury: Away from team (RotoWire) :: Nae'Qwan Tomlin: injury
+2026-10-14 00:14:21   drop[kind] OpenAI employee arrested and charged over hidden recording politi.co/4yg9udt (Politico) :: other
+2026-10-14 00:15:53   drop[team-not-named] Wolves hit by Gomes injury as Peixoto bemoans winger shortages (OneFootball) :: Wolverhampton Wanderers
+2026-10-14 00:15:54   drop[kind] Milwaukee Traffic Stop Injury: Nicholas Beamon Case (Hoodline) :: other
+2026-10-14 00:18:13   drop[kind] Pro surfer suspended: Australian girl alleges sexual assault in Tahiti (The Australian) :: other
+2026-10-14 00:18:13   llm groq-120b: rate limited, skip 271s
+2026-10-14 00:18:13   drop[kind] RCMP officer narrowly avoids injury after SUV hits police vehicle near Lashburn (paNOW) :: other
+2026-10-14 00:19:39 indexed 926 markets
