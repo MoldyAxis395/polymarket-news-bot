@@ -7891,3 +7891,39 @@
 2026-10-13 03:00:52 [pengwin] INTER-COMO: no Polymarket event (try 11)
 2026-10-13 03:00:54 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 11)
 2026-10-13 03:00:56 [pengwin] COMO-INTER: no Polymarket event (try 11)
+2026-10-13 03:00:59 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 11)
+2026-10-13 03:01:01 [pengwin] NAPOLI-COMO: no Polymarket event (try 11)
+2026-10-13 03:01:03   llm groq-120b: rate limited, skip 32s
+2026-10-13 03:01:03 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 11)
+2026-10-13 03:01:08 [pengwin] FIORENTINA-COMO: no Polymarket event (try 11)
+2026-10-13 03:01:31 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 11)
+2026-10-13 03:01:33 [pengwin] LIPSIA-PSV: no Polymarket event (try 10)
+2026-10-13 03:06:36 indexed 946 markets
+2026-10-13 03:08:29   drop[1-source] Jordan Staal Injury: Hurricanes Captain Out, Status Unclear (Gino Hard) :: Jordan Staal, wait 2nd source
+2026-10-13 03:16:37 indexed 946 markets
+2026-10-13 03:23:56 NEWS [ESPN 8m] Nico Sturm (C, Minnesota Wild) ruled out: healthy -> Out [NHL]
+2026-10-13 03:23:56   skip Jets :: Wild vs. Jets (low conf 0.62)
+2026-10-13 03:24:21   drop[kind] Former Cardinal Raynaud Avoids Worst-Case Scenario After Knee Injury (roundtable.io) :: other
+2026-10-13 03:26:38 indexed 940 markets
+2026-10-13 03:29:29 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 12)
+2026-10-13 03:29:32 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 12)
+2026-10-13 03:29:35 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 12)
+2026-10-13 03:29:37 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 12)
+2026-10-13 03:29:40 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 12)
+2026-10-13 03:29:42 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 12)
+2026-10-13 03:29:45 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 12)
+2026-10-13 03:29:47 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 12)
+2026-10-13 03:29:50   llm groq-120b: rate limited, skip 93s
+2026-10-13 03:29:50 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 12)
+2026-10-13 03:29:53 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 12)
+2026-10-13 03:29:55 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 12)
+2026-10-13 03:29:57 [pengwin] LENS-LIONE: no Polymarket event (try 12)
+2026-10-13 03:30:00 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 12)
+2026-10-13 03:30:02 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 12)
+2026-10-13 03:30:04 [pengwin] MONACO-TOLOSA: no Polymarket event (try 12)
+2026-10-13 03:30:07 [pengwin] BREST-ANGERS: no Polymarket event (try 12)
+2026-10-13 03:30:09 [pengwin] PSG-LE MANS: no Polymarket event (try 12)
+2026-10-13 03:30:11 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 11)
+2026-10-13 03:30:13 [pengwin] RENNES-AUXERRE: no Polymarket event (try 12)
+2026-10-13 03:30:15 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 12)
+2026-10-13 03:30:17 [pengwin] AUXERRE-BREST: no Polymarket event (try 12)
