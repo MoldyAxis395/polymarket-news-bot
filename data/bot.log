@@ -7984,3 +7984,57 @@
 2026-10-13 04:26:32 [pengwin] FIORENTINA-COMO: no Polymarket event (try 13)
 2026-10-13 04:26:57 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 13)
 2026-10-13 04:26:59 [pengwin] LIPSIA-PSV: no Polymarket event (try 12)
+2026-10-13 04:29:14   llm groq-120b: rate limited, skip 31s
+2026-10-13 04:29:14   drop[team-not-named] Bob Chesney, Dan Lanning Sound Off About Nico Iamaleava Injury Play (Sports Illustrated) :: Washington Commanders
+2026-10-13 04:31:34   drop[kind] Brock Faber Spotted at Wild Game Same Night Teammate Suffers Similar Injury (Minnesota Sports Fan) :: other
+2026-10-13 04:34:04   llm groq-120b: rate limited, skip 115s
+2026-10-13 04:34:05   drop[team-not-named] ‘I know miracles do happen’: Family prays for SNU football player Tyler Ulrich after criti (News 9) :: University of South Dakota Coyotes
+2026-10-13 04:34:05   drop[unconfirmed] Undefeated San Francisco 49ers handed major blow with star wide receiver set to miss 'mult (www.the-sun.com) :: injury
+2026-10-13 04:34:31 indexed 948 markets
+2026-10-13 04:43:17   drop[1-source] C.J. Gardner-Johnson injury adds to Bills' problems vs. Rams (Democrat and Chronicle) :: C.J. Gardner-Johnson, wait 2nd source
+2026-10-13 04:43:18   drop[1-source] Ex-MP Dick Adams suspended from council for conflict of interest (The Mercury) :: Dick Adams, wait 2nd source
+2026-10-13 04:44:33 indexed 950 markets
+2026-10-13 04:45:25   llm groq-120b: rate limited, skip 77s
+2026-10-13 04:45:25   drop[1-source] Cyclones Open Big 12 Match Play Championship, Second Round Suspended (Iowa State Athletics) :: Iowa State Cyclones, wait 2nd source
+2026-10-13 04:50:02   drop[1-source] Chris Tanev Injury Opens the Door for Whitecloud to Maple Leafs (Heavy.com) :: Chris Tanev, wait 2nd source
+2026-10-13 04:50:02   llm groq-120b: rate limited, skip 134s
+2026-10-13 04:50:02   drop[1-source] No evidence of fraud or cheating found in Sumo Salad work injury claim case: MOM, SPF (Mothership) :: Sumo Salad, wait 2nd source
+2026-10-13 04:54:34 indexed 945 markets
+2026-10-13 04:54:38   drop[1-source] Red Raiders earn one win as second Big 12 match suspended (Texas Tech Red Raiders) :: Texas Tech Red Raiders, wait 2nd source
+2026-10-13 04:54:38   llm groq-120b: rate limited, skip 140s
+2026-10-13 04:54:39   drop[kind] Shohei Ohtani Benching Considered amid MLB Playoff Struggles & Injury, Dodgers' Dave Rober (Bleacher Report) :: other
+2026-10-13 04:54:39   drop[not-key] Jake Sanderson Injury: Not expected to suit up Tuesday (RotoWire) :: Jake Sanderson: injury
+2026-10-13 04:54:40   drop[1-source] Alderman seeking re-election suspended for allegedly touching female staff (ABC News & Headlines – Australian Broadcasting Corporation) :: ABC News & Headlines – Australian Broadcasting Corporation, wait 2nd source
+2026-10-13 04:55:08 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 14)
+2026-10-13 04:55:11 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 14)
+2026-10-13 04:55:14 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 14)
+2026-10-13 04:55:16 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 14)
+2026-10-13 04:55:19 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 14)
+2026-10-13 04:55:21 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 14)
+2026-10-13 04:55:24 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 14)
+2026-10-13 04:55:27 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 14)
+2026-10-13 04:55:30 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 14)
+2026-10-13 04:55:33 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 14)
+2026-10-13 04:55:35 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 14)
+2026-10-13 04:55:38 [pengwin] LENS-LIONE: no Polymarket event (try 14)
+2026-10-13 04:55:41 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 14)
+2026-10-13 04:55:44 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 14)
+2026-10-13 04:55:47 [pengwin] MONACO-TOLOSA: no Polymarket event (try 14)
+2026-10-13 04:55:49 [pengwin] BREST-ANGERS: no Polymarket event (try 14)
+2026-10-13 04:55:51 [pengwin] PSG-LE MANS: no Polymarket event (try 14)
+2026-10-13 04:55:54 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 13)
+2026-10-13 04:55:56 [pengwin] RENNES-AUXERRE: no Polymarket event (try 14)
+2026-10-13 04:55:59 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 14)
+2026-10-13 04:56:01 [pengwin] AUXERRE-BREST: no Polymarket event (try 14)
+2026-10-13 04:56:48 [pengwin] LAZIO-INTER: no Polymarket event (try 14)
+2026-10-13 04:56:50 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 14)
+2026-10-13 04:56:53 [pengwin] INTER-COMO: no Polymarket event (try 14)
+2026-10-13 04:56:55 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 14)
+2026-10-13 04:56:57 [pengwin] COMO-INTER: no Polymarket event (try 14)
+2026-10-13 04:56:59 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 14)
+2026-10-13 04:57:02 [pengwin] NAPOLI-COMO: no Polymarket event (try 14)
+2026-10-13 04:57:04   llm groq-120b: rate limited, skip 45s
+2026-10-13 04:57:04 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 14)
+2026-10-13 04:57:08 [pengwin] FIORENTINA-COMO: no Polymarket event (try 14)
+2026-10-13 04:57:33 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 14)
+2026-10-13 04:57:35 [pengwin] LIPSIA-PSV: no Polymarket event (try 13)
