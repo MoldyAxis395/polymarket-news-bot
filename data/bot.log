@@ -8449,3 +8449,40 @@
 2026-10-13 09:50:36   drop[1-source] LG Twins' Closer Son Ju-young Out of Wild Card with Neck Injury (조선일보) :: Son Ju-young, wait 2nd source
 2026-10-13 09:55:11 indexed 903 markets
 2026-10-13 09:56:14 [pengwin]   book error Will SK Slavia Praha win on 2026-10-13?: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-13 09:59:50 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 24)
+2026-10-13 09:59:54 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 24)
+2026-10-13 09:59:57 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 24)
+2026-10-13 09:59:59 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 24)
+2026-10-13 10:00:02 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 24)
+2026-10-13 10:00:04 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 24)
+2026-10-13 10:00:07 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 24)
+2026-10-13 10:00:10 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 24)
+2026-10-13 10:00:13 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 24)
+2026-10-13 10:00:16 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 24)
+2026-10-13 10:00:18 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 24)
+2026-10-13 10:00:21 [pengwin] LENS-LIONE: no Polymarket event (try 24)
+2026-10-13 10:00:23   llm groq-120b: rate limited, skip 124s
+2026-10-13 10:00:24 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 24)
+2026-10-13 10:00:26   drop[no-pick] South Korea's Lee says Arctic shipping route development to comply with international sanc (Reuters) :: short
+2026-10-13 10:00:26 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 24)
+2026-10-13 10:00:28 [pengwin] MONACO-TOLOSA: no Polymarket event (try 24)
+2026-10-13 10:00:31 [pengwin] BREST-ANGERS: no Polymarket event (try 24)
+2026-10-13 10:00:33 [pengwin] PSG-LE MANS: no Polymarket event (try 24)
+2026-10-13 10:00:36 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 23)
+2026-10-13 10:00:38 [pengwin] RENNES-AUXERRE: no Polymarket event (try 24)
+2026-10-13 10:00:40 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 24)
+2026-10-13 10:00:42 [pengwin] AUXERRE-BREST: no Polymarket event (try 24)
+2026-10-13 10:01:25 [pengwin] LAZIO-INTER: no Polymarket event (try 24)
+2026-10-13 10:01:28 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 24)
+2026-10-13 10:01:30 [pengwin] INTER-COMO: no Polymarket event (try 24)
+2026-10-13 10:01:32 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 24)
+2026-10-13 10:01:34 [pengwin] COMO-INTER: no Polymarket event (try 24)
+2026-10-13 10:01:37 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 24)
+2026-10-13 10:01:39   llm groq-20b: rate limited, skip 70s
+2026-10-13 10:01:39 [pengwin] NAPOLI-COMO: no Polymarket event (try 24)
+2026-10-13 10:01:41 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 24)
+2026-10-13 10:01:44 [pengwin] FIORENTINA-COMO: no Polymarket event (try 24)
+2026-10-13 10:02:07 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 24)
+2026-10-13 10:02:08 [pengwin] LIPSIA-PSV: no Polymarket event (try 23)
+2026-10-13 10:05:13 indexed 900 markets
+2026-10-13 10:08:53 shift over, state saved
