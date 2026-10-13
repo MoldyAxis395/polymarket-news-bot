@@ -8915,3 +8915,53 @@
 2026-10-13 16:31:35   llm groq-20b: rate limited, skip 64s
 2026-10-13 16:33:56 indexed 1021 markets
 2026-10-13 16:36:20   drop[team-not-named] Spalletti and Pisacane, both players suspended for one match: "The former provoked, the la (L'Unione Sarda.it) :: 
+2026-10-13 16:38:41   llm groq-120b: rate limited, skip 4s
+2026-10-13 16:38:41 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 34)
+2026-10-13 16:38:45 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 34)
+2026-10-13 16:38:49   llm groq-120b: rate limited, skip 120s
+2026-10-13 16:38:49   llm groq-20b: rate limited, skip 58s
+2026-10-13 16:38:49 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 34)
+2026-10-13 16:38:49   drop[team-not-named] Surprising Quarterback Injury Emerges Days Before Seahawks-Broncos Game (heavy.com) :: Seattle Seahawks
+2026-10-13 16:38:52 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 34)
+2026-10-13 16:38:55 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 34)
+2026-10-13 16:38:58 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 33)
+2026-10-13 16:39:01 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 34)
+2026-10-13 16:39:04 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 34)
+2026-10-13 16:39:09 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 34)
+2026-10-13 16:39:11 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 34)
+2026-10-13 16:39:14 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 34)
+2026-10-13 16:39:17 [pengwin] LENS-LIONE: no Polymarket event (try 34)
+2026-10-13 16:39:20 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 34)
+2026-10-13 16:39:23 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 34)
+2026-10-13 16:39:26 [pengwin] MONACO-TOLOSA: no Polymarket event (try 34)
+2026-10-13 16:39:29 [pengwin] BREST-ANGERS: no Polymarket event (try 34)
+2026-10-13 16:39:32 [pengwin] PSG-LE MANS: no Polymarket event (try 34)
+2026-10-13 16:39:35 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 33)
+2026-10-13 16:39:38 [pengwin] RENNES-AUXERRE: no Polymarket event (try 34)
+2026-10-13 16:39:41 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 34)
+2026-10-13 16:39:44 [pengwin] AUXERRE-BREST: no Polymarket event (try 34)
+2026-10-13 16:40:56 [pengwin] LAZIO-INTER: no Polymarket event (try 34)
+2026-10-13 16:40:58   llm groq-120b: rate limited, skip 75s
+2026-10-13 16:40:58   llm groq-20b: rate limited, skip 117s
+2026-10-13 16:40:59 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 34)
+2026-10-13 16:41:02 [pengwin] INTER-COMO: no Polymarket event (try 34)
+2026-10-13 16:41:04 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 34)
+2026-10-13 16:41:06 [pengwin] COMO-INTER: no Polymarket event (try 34)
+2026-10-13 16:41:09 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 34)
+2026-10-13 16:41:14 [pengwin] NAPOLI-COMO: no Polymarket event (try 34)
+2026-10-13 16:41:17 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 34)
+2026-10-13 16:41:24 [pengwin] FIORENTINA-COMO: no Polymarket event (try 34)
+2026-10-13 16:42:03 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 34)
+2026-10-13 16:43:58 indexed 1011 markets
+2026-10-13 16:48:06   drop[kind] Diddy hospitalised after head injury in prison – Y WORLD (yfm.co.za) :: other
+2026-10-13 16:50:14   drop[kind] Patriots praying TreVeyon Henderson's Wolverine powers will bring him back from ankle inju (ClutchPoints) :: other
+2026-10-13 16:52:30   drop[1-source] Lincoln City Injury Boost As International Returns For West Ham United Fixture (The Stacey West) :: West Ham United, wait 2nd source
+2026-10-13 16:53:57 indexed 977 markets
+2026-10-13 17:00:37 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x7f7c8ffd4980>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
+2026-10-13 17:04:01 indexed 983 markets
+2026-10-13 17:04:03   drop[kind] 🚨 Michael Carrick: “Consistency to win the football matches is key; the boys are desperate (Fabrizio Romano) :: other
+2026-10-13 17:04:08   drop[kind] Karns & Karns Personal Injury and Accident Attorneys Opens New Office Location in Lincoln  (EIN News) :: other
+2026-10-13 17:04:08   llm groq-120b: rate limited, skip 180s
+2026-10-13 17:04:09   drop[team-not-named] Ketlen Vieira suspended after testing positive for steroidal substance after Cris Cyborg f (MMA Mania) :: UFC
+2026-10-13 17:04:10   drop[kind] Rapper Diddy suffers head injury in prison, rushed to hospital | He was convicted on prost (Inshorts) :: other
+2026-10-13 17:04:11   drop[1-source] RETRACTION OF PUBLICATION ON PAAU ALUMNI NATIONAL PRESIDENT DR ATABO ARUWA JULIUS HAS BEEN (The Nigerian Post) :: Dr Atabo Aruwa Julius, wait 2nd source
