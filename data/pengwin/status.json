@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-13T09:27:58",
+ "updated": "2026-10-13T09:58:18",
  "start": 100.0,
  "cash": 80.38,
- "equity": 149.15,
+ "equity": 149.36,
  "open": [
   {
    "market_id": "5134415",
@@ -21,7 +21,7 @@
    "end": "2026-10-13T16:45:00+00:00",
    "last_bid": 0.47,
    "book_err": false,
-   "settle_retry": 1791868957.8279164
+   "settle_retry": 1791878774.8176448
   },
   {
    "market_id": "5159510",
@@ -38,7 +38,7 @@
    "reason": "pengwin approx: replicates over 1.5 leg of combo",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.81,
+   "last_bid": 0.8,
    "book_err": false
   },
   {
@@ -56,7 +56,7 @@
    "reason": "pengwin approx: replicates over 2.5 leg of combo",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.7,
+   "last_bid": 0.71,
    "book_err": false
   },
   {
@@ -74,7 +74,7 @@
    "reason": "pengwin exact: replicates X2 double chance",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.54,
+   "last_bid": 0.55,
    "book_err": false
   },
   {
