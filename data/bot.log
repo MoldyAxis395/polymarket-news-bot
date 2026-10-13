@@ -9281,3 +9281,19 @@
 2026-10-14 01:20:30   drop[unconfirmed] Mark Daigneault happy for Pacers’ Tyrese Haliburton to return from devastating injury (ClutchPoints) :: player returning
 2026-10-14 01:22:45   drop[unconfirmed] For the love of the race: Kernel cross country's Londyn Schroeder bounces back from knee i (Mitchell Daily Republic) :: knee injury recovery
 2026-10-14 01:24:05 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-14 01:27:24   drop[1-source] News Night: Obuasi SHS Headmaster Suspended, GoldBod Faces PAC Scrutiny (Modern Ghana) :: GoldBod, wait 2nd source
+2026-10-14 01:27:24   llm groq-120b: rate limited, skip 109s
+2026-10-14 01:27:25   drop[1-source] "Dramatically Alarming": Chris Tanev Injury May Force Maple Leafs Into Trade (NHL Trade Talk) :: Chris Tanev, wait 2nd source
+2026-10-14 01:30:23 indexed 907 markets
+2026-10-14 01:30:31   drop[not-key] Alaric Jackson suspended for striking Bradley Chubb after loss to Bills (NFL.com) :: Alaric Jackson: suspended for striking Bradley Chubb
+2026-10-14 01:32:46   llm groq-120b: rate limited, skip 84s
+2026-10-14 01:32:47   drop[unconfirmed] According to The Ringer’s Tom Pelissero, Campbell’s knee injury that caused the second-yea (Facebook) :: knee injury caused him to exit early
+2026-10-14 01:35:05   llm groq-120b: rate limited, skip 137s
+2026-10-14 01:35:05   drop[no-pick] It’s official: Rams LT Alaric Jackson suspended two games (NBC Sports) :: short
+2026-10-14 01:35:40   drop[no-market] Swisscom wins appeal in fibre-optic case, $21.6 million fine overturned reut.rs/4yMGF9z (Reuters) :: Swisscom
+2026-10-14 01:40:23 indexed 909 markets
+2026-10-14 01:42:47   drop[not-key] Rams’ Alaric Jackson suspended two games for punching Bills player (Los Angeles Times) :: Alaric Jackson: suspended two games for punching Bills player
+2026-10-14 01:50:23 indexed 912 markets
+2026-10-14 01:50:42   drop[1-source] Seattle Seahawks Make Jaxon Smith-Njigba Injury Announcement Before Broncos Game (heavy.com) :: Jaxon Smith-Njigba, wait 2nd source
+2026-10-14 01:53:48 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-14 01:54:05   drop[no-pick] Penn State linebacker to miss rest of season with injury (247Sports) :: No listed market involves Penn State or its league, so no price impact expected.
