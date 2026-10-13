@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-13T21:23:19",
+ "updated": "2026-10-13T21:53:14",
  "start": 100.0,
  "cash": 70.38,
- "equity": 138.11,
+ "equity": 139.92,
  "open": [
   {
    "market_id": "5159510",
@@ -19,7 +19,7 @@
    "reason": "pengwin approx: replicates over 1.5 leg of combo",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.91,
+   "last_bid": 0.842,
    "book_err": false
   },
   {
@@ -37,7 +37,7 @@
    "reason": "pengwin approx: replicates over 2.5 leg of combo",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.64,
+   "last_bid": 0.91,
    "book_err": false
   },
   {
@@ -55,7 +55,7 @@
    "reason": "pengwin exact: replicates X2 double chance",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.56,
+   "last_bid": 0.31,
    "book_err": false
   },
   {
@@ -109,7 +109,7 @@
    "reason": "pengwin exact: Base pick 'segno gol' matches Polymarket market 20 (Both Teams to Score) with outcome Yes",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.57,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -127,7 +127,7 @@
    "reason": "pengwin approx: Base pick is GG + over 7.5 corners; only GG matches market 21",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.61,
+   "last_bid": 0.4,
    "book_err": false
   }
  ],
