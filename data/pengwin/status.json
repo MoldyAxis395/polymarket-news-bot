@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-13T22:20:40",
+ "updated": "2026-10-13T22:51:00",
  "start": 100.0,
  "cash": 70.38,
- "equity": 133.92,
+ "equity": 143.23,
  "open": [
   {
    "market_id": "5159510",
@@ -19,7 +19,7 @@
    "reason": "pengwin approx: replicates over 1.5 leg of combo",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.711,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -37,7 +37,7 @@
    "reason": "pengwin approx: replicates over 2.5 leg of combo",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.81,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -55,8 +55,9 @@
    "reason": "pengwin exact: replicates X2 double chance",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.25,
-   "book_err": false
+   "last_bid": null,
+   "book_err": false,
+   "settle_retry": 1791925198.7458348
   },
   {
    "market_id": "5159580",
@@ -91,7 +92,7 @@
    "reason": "pengwin approx: Over 1.5 covers 2\u20115 goals for the away team",
    "conf": 1.0,
    "end": "2026-10-14T19:00:00+00:00",
-   "last_bid": 0.75,
+   "last_bid": 0.76,
    "book_err": false
   },
   {
@@ -127,7 +128,7 @@
    "reason": "pengwin approx: Base pick is GG + over 7.5 corners; only GG matches market 21",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.26,
+   "last_bid": 0.09,
    "book_err": false
   }
  ],
