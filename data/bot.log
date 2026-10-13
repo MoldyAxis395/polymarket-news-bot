@@ -7748,3 +7748,52 @@
 2026-10-13 01:30:33   llm groq-120b: rate limited, skip 169s
 2026-10-13 01:30:33   drop[kind] 'Breaking Bad' actor and disability rights activist RJ Mitte dead at 34 reut.rs/4ygXzvY (Reuters) :: other
 2026-10-13 01:30:49 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 8)
+2026-10-13 01:30:51 [pengwin] LIPSIA-PSV: no Polymarket event (try 7)
+2026-10-13 01:34:09   drop[team-not-named] USC Receiver Trent Mosley’s Injury Return Draws National Recognition (Sports Illustrated) :: University of Southern California Trojans
+2026-10-13 01:35:15   llm groq-120b: rate limited, skip 171s
+2026-10-13 01:35:16   drop[kind] Actor Selma Blair arrested and accused of abusing flight attendants reut.rs/4jdm7SV (Reuters) :: other
+2026-10-13 01:36:25 indexed 923 markets
+2026-10-13 01:41:00   drop[not-key] Parker Wotherspoon (D, Vegas Golden Knights) ruled out: healthy -> Out [NHL] (ESPN) :: Parker Wotherspoon: ruled out despite being healthy
+2026-10-13 01:41:08   llm groq-120b: rate limited, skip 60s
+2026-10-13 01:41:09   drop[1-source] New Golden Knights defenseman out indefinitely with injury (Las Vegas Review-Journal) :: Vegas Golden Knights, wait 2nd source
+2026-10-13 01:41:09   drop[kind] Diddy in hospital over head injury in US prison (TheCitizen) :: other
+2026-10-13 01:46:28 indexed 925 markets
+2026-10-13 01:50:24   drop[1-source] 49ers Dealt Another Brutal Injury Blow After Deebo Samuel News (heavy.com) :: Deebo Samuel, wait 2nd source
+2026-10-13 01:56:29 indexed 921 markets
+2026-10-13 01:58:14 [pengwin] league serie-a: Response ended prematurely
+2026-10-13 01:58:20 [pengwin] league ligue-1: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-13 01:58:46 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 9)
+2026-10-13 01:58:49 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 9)
+2026-10-13 01:58:52 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 9)
+2026-10-13 01:58:54 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 9)
+2026-10-13 01:58:57 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 9)
+2026-10-13 01:58:59 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 9)
+2026-10-13 01:59:02 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 9)
+2026-10-13 01:59:06 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 9)
+2026-10-13 01:59:09 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 9)
+2026-10-13 01:59:11 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 9)
+2026-10-13 01:59:13 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 9)
+2026-10-13 01:59:15   llm groq-120b: rate limited, skip 44s
+2026-10-13 01:59:16 [pengwin] LENS-LIONE: no Polymarket event (try 9)
+2026-10-13 01:59:18 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 9)
+2026-10-13 01:59:21 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 9)
+2026-10-13 01:59:23 [pengwin] MONACO-TOLOSA: no Polymarket event (try 9)
+2026-10-13 01:59:25 [pengwin] BREST-ANGERS: no Polymarket event (try 9)
+2026-10-13 01:59:27 [pengwin] PSG-LE MANS: no Polymarket event (try 9)
+2026-10-13 01:59:29 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 8)
+2026-10-13 01:59:31 [pengwin] RENNES-AUXERRE: no Polymarket event (try 9)
+2026-10-13 01:59:33 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 9)
+2026-10-13 01:59:35   drop[1-source] Auburn star LB Atkins suspended for UGA game (MajorWager) :: Jalen Atkins, wait 2nd source
+2026-10-13 01:59:35 [pengwin] AUXERRE-BREST: no Polymarket event (try 9)
+2026-10-13 01:59:35   drop[kind] Parrotdog loses liquor licence after police sting (NZ Herald) :: other
+2026-10-13 02:00:21   llm groq-120b: rate limited, skip 94s
+2026-10-13 02:00:21 [pengwin] LAZIO-INTER: no Polymarket event (try 9)
+2026-10-13 02:00:23 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 9)
+2026-10-13 02:00:25 [pengwin] INTER-COMO: no Polymarket event (try 9)
+2026-10-13 02:00:28 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 9)
+2026-10-13 02:00:30 [pengwin] COMO-INTER: no Polymarket event (try 9)
+2026-10-13 02:00:32 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 9)
+2026-10-13 02:00:34 [pengwin] NAPOLI-COMO: no Polymarket event (try 9)
+2026-10-13 02:00:36 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 9)
+2026-10-13 02:00:40 [pengwin] FIORENTINA-COMO: no Polymarket event (try 9)
+2026-10-13 02:00:49 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x7fa377dd6360>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
