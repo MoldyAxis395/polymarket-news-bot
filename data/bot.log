@@ -9122,3 +9122,28 @@
 2026-10-13 21:47:11 NEWS [ESPN 15m] Cam York (D, Philadelphia Flyers) ruled out: Day-To-Day -> Out [NHL]
 2026-10-13 21:47:11   skip Kraken :: Kraken vs. Flyers (low conf 0.62)
 2026-10-13 21:49:22 indexed 932 markets
+2026-10-13 21:59:23 indexed 928 markets
+2026-10-13 22:01:00   drop[no-market] Guinea-Bissau says it has not approved hepatitis B vaccine trial in newborns reut.rs/4dDvi (Reuters) :: Guinea-Bissau
+2026-10-13 22:01:53   drop[not-key] Radko Gudas (D, Florida Panthers) ruled out: healthy -> Out [NHL] (ESPN) :: Radko Gudas: healthy injury caused him to miss upcoming game
+2026-10-13 22:03:23   drop[1-source] Fort Defiance's Camila Armendariz-Cruz on returning from injury to run (The News Leader | Staunton, VA) :: Camila Armendariz-Cruz, wait 2nd source
+2026-10-13 22:03:23   drop[1-source] University of Chicago assault — Fraternity Chapter Suspended After Sexual Assault Report (The Korea Daily) :: University of Chicago, wait 2nd source
+2026-10-13 22:03:24   drop[1-source] From grants to bring properties up to standard to suspended mortgages: the decree for the  (Il Sole 24 ORE) :: Campi Flegrei, wait 2nd source
+2026-10-13 22:03:25   drop[kind] Woman jailed for shoplifting meat days after receiving suspended sentence (Basingstoke Gazette) :: other
+2026-10-13 22:05:56   drop[team-not-named] Ketlen Vieira suspended six months after positive drug test (MMA Sucka) :: UFC
+2026-10-13 22:07:57   drop[1-source] Falcons facing more QB uncertainty after Penix injury in overtime loss (The Sumter Item) :: Penix, wait 2nd source
+2026-10-13 22:09:23 indexed 930 markets
+2026-10-13 22:10:15   drop[kind] Felzartamab and the Hidden Injury of Isolated MVI, With Yasir Qazi, MD (HCPLive) :: other
+2026-10-13 22:10:16   drop[1-source] Bears DE Montez Sweat suspended 2 days for drug violation (Chicago Sun-Times) :: Montez Sweat, wait 2nd source
+2026-10-13 22:12:31   drop[kind] Bears Coach Ben Johnson Catching Blame For Packers DT Javon Hargrave's Injury (Sports Illustrated) :: other
+2026-10-13 22:16:32   drop[verify] Jacob Markstrom (G, Florida Panthers) ruled out: healthy -> Out [NHL] (ESPN) :: Uncertain if Markstrom still on Panthers roster
+2026-10-13 22:17:08   drop[no-market] Bears' Montez Sweat Suspended for Next Two Games for Violating NFL Policy (Sports Illustrated) :: Chicago Bears
+2026-10-13 22:20:00 indexed 930 markets
+2026-10-13 22:20:03   drop[no-market] Montez Sweat (DE, Chicago Bears) ruled out: healthy -> Suspension [NFL] (ESPN) :: Chicago Bears
+2026-10-13 22:20:08   drop[no-market] Chicago Bears DE Montez Sweat suspended for violating NFL performance-enhancing substances (CBS News) :: Chicago Bears
+2026-10-13 22:20:08   drop[1-source] Penn State Men’s Hockey Forward Keaton Peters Out For Season With Knee Injury (Onward State) :: Keaton Peters, wait 2nd source
+2026-10-13 22:22:05 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-13 22:22:28   drop[verify] UCLA Quarterback Nico Iamaleava Out for the Season With Knee Injury (Yahoo Sports) :: Iamaleava isn’t a starter, so his loss won’t shift the game 5+ points
+2026-10-13 22:22:29   drop[no-pick] Virginia Loses Two Starters To Injury For Saturday’s SMU Road Trip; Injury Report (Jerry Ratcliffe) :: short
+2026-10-13 22:22:30   drop[1-source] Breaking News: Bears $98M Pass Rusher Suspended Next 2 Games (Heavy.com) :: Khalil Mack, wait 2nd source
+2026-10-13 22:22:30   llm groq-120b: rate limited, skip 54s
+2026-10-13 22:22:30   drop[unconfirmed] Reece James injury setback - Chelsea captain misses training with knee issue as Everton tr (Goal.com) :: knee injury
