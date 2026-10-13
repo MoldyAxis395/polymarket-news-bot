@@ -9207,3 +9207,24 @@
 2026-10-13 23:22:43   drop[no-market] Bears DE Montez Sweat suspended 2 games for PED violation (Field Level Media) :: Chicago Bears
 2026-10-13 23:22:43   llm groq-120b: rate limited, skip 125s
 2026-10-13 23:22:44   drop[not-key] Rams’ Alaric Jackson suspended 2 games for punching Bradley Chubb after Bills game (ClutchPoints) :: Alaric Jackson: suspension
+2026-10-13 23:26:16 [pengwin]   settle error RB Leipzig vs. PSV: Both Teams to Score: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-13 23:27:27   drop[1-source] Here's the latest on Hank Brown injury, Iowa's quarterback situation (Hawk Central) :: Hank Brown, wait 2nd source
+2026-10-13 23:29:33 indexed 936 markets
+2026-10-13 23:31:20 [pengwin]   book error Will Villarreal CF win on 2026-10-13?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=111397440147641503284117062634534731568404890576870665456561969674253860438523
+2026-10-13 23:32:12   drop[not-key] Nikolas Matinpalo (D, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Nikolas Matinpalo: injury ruled him out
+2026-10-13 23:32:21 [pengwin]   book error RB Leipzig vs. PSV: Both Teams to Score: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=25062469758493398327565858337305161554080571469316865468119241454217721600802
+2026-10-13 23:36:24 [pengwin]   SELL Yes @ 0.000 (resolved) pnl -10.00 :: RB Leipzig vs. PSV: Both Teams to Score
+2026-10-13 23:36:42   drop[no-market] Bears DE Montez Sweat suspended for violation of NFL’s performance-enhancing drug policy (Yahoo Sports) :: Chicago Bears
+2026-10-13 23:39:34 indexed 927 markets
+2026-10-13 23:41:13   drop[1-source] Club tennis team at Maryland suspended over racist graphic (Washington Times) :: University of Maryland Club Tennis Team, wait 2nd source
+2026-10-13 23:41:13   llm groq-120b: rate limited, skip 119s
+2026-10-13 23:41:14   drop[no-pick] Report: Rams' Jackson expected to be suspended two games for punching Bills' Chubb (Sportsnet.ca) :: short
+2026-10-13 23:41:28 [pengwin]   SELL No @ 0.000 (resolved) pnl -10.00 :: Will Villarreal CF win on 2026-10-13?
+2026-10-13 23:43:31   llm groq-120b: rate limited, skip 29s
+2026-10-13 23:43:32 NEWS [ABC News - Breaking News, Latest News and Videos 2m] Bears DE Montez Sweat suspended 2 games for violating NFL’s performance-enhancing substances policy - ABC News
+2026-10-13 23:43:32   skip Falcons :: Bears vs. Falcons (low conf 0.6)
+2026-10-13 23:47:22   drop[kind] Saudi man charged with planting 'sophisticated' recording device in OpenAI office (BBC) :: other
+2026-10-13 23:47:32 [pengwin]   book error Viking FK vs. FC Bayern München: 1st Half O/U 0.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=21973664556651213961390991535894187352389363775838669806218886310737310707932
+2026-10-13 23:47:52 [pengwin]   settle error Viking FK vs. FC Bayern München: 1st Half O/U 0.5: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-13 23:49:35 indexed 929 markets
+2026-10-13 23:53:19 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)

@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-13T23:21:17",
+ "updated": "2026-10-13T23:51:54",
  "start": 100.0,
  "cash": 84.87,
- "equity": 151.99,
+ "equity": 131.99,
  "open": [
   {
    "market_id": "5159510",
@@ -41,25 +41,6 @@
    "book_err": false
   },
   {
-   "market_id": "5158616",
-   "question": "Will Villarreal CF win on 2026-10-13?",
-   "slug": "ucl-vil-nap-2026-10-13-vil",
-   "outcome": "No",
-   "token": "111397440147641503284117062634534731568404890576870665456561969674253860438523",
-   "shares": 18.18181818181818,
-   "entry": 0.55,
-   "cost": 10.0,
-   "opened": 1791836959.7256382,
-   "opened_iso": "2026-10-12T20:29:19+00:00",
-   "news": "VILLARREAL-NAPOLI: X2 (esatto)",
-   "reason": "pengwin exact: replicates X2 double chance",
-   "conf": 1.0,
-   "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1791927077.308972
-  },
-  {
    "market_id": "5159580",
    "question": "Viking FK vs. FC Bayern M\u00fcnchen: 1st Half O/U 0.5",
    "slug": "ucl-vf-bay-2026-10-13-first-half-total-0pt5",
@@ -75,7 +56,8 @@
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
    "last_bid": 0.999,
-   "book_err": false
+   "book_err": true,
+   "settle_retry": 1791928652.4046001
   },
   {
    "market_id": "5186926",
@@ -94,29 +76,10 @@
    "end": "2026-10-14T19:00:00+00:00",
    "last_bid": 0.76,
    "book_err": false
-  },
-  {
-   "market_id": "5159880",
-   "question": "RB Leipzig vs. PSV: Both Teams to Score",
-   "slug": "ucl-rbl-psv-2026-10-13-btts",
-   "outcome": "Yes",
-   "token": "25062469758493398327565858337305161554080571469316865468119241454217721600802",
-   "shares": 13.88888888888889,
-   "entry": 0.72,
-   "cost": 10.0,
-   "opened": 1791885956.3230352,
-   "opened_iso": "2026-10-13T10:05:56+00:00",
-   "news": "LIPSIA-PSV: Both Teams to Score (GG) (approssimato)",
-   "reason": "pengwin approx: Base pick is GG + over 7.5 corners; only GG matches market 21",
-   "conf": 1.0,
-   "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1791926773.7206378
   }
  ],
- "closed_count": 12,
- "realized_pnl": 44.87,
+ "closed_count": 14,
+ "realized_pnl": 24.87,
  "pages": {
   "pending": 114,
   "picked": 0,
