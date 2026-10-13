@@ -9065,3 +9065,35 @@
 2026-10-13 17:44:10 NEWS [ESPN 11m] Cam Jackson (DT, Carolina Panthers) ruled out: Questionable -> Injured Reserve [NFL]
 2026-10-13 17:44:10   skip Eagles :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
 2026-10-13 17:47:50 shift over, state saved
+2026-10-13 20:48:51 === start mode=paper pid=2402 ===
+2026-10-13 20:48:51 brain=llm cash=84.23 open=0
+2026-10-13 20:48:51 resuming with 5932 known news items
+2026-10-13 20:49:13 indexed 998 markets
+2026-10-13 20:49:23 [pengwin] page liga/paderborn-stoccarda-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-13 20:49:32   drop[not-key] Jude Bowry (OT, Buffalo Bills) cleared to play: Out -> Active [NFL] (ESPN) :: Jude Bowry: cleared to play after being listed out
+2026-10-13 20:49:32   drop[not-key] Ar'maj Reed-Adams (G, Buffalo Bills) cleared to play: Out -> Active [NFL] (ESPN) :: Ar'maj Reed-Adams: cleared to play after being listed out
+2026-10-13 20:49:33   drop[not-key] Tanner Hudson (TE, Cincinnati Bengals) ruled out: Questionable -> Out [NFL] (ESPN) :: Tanner Hudson: pec tear likely requires surgery and will place him on injured reserve
+2026-10-13 20:49:33   drop[not-key] Larrell Murchison (DE, Los Angeles Rams) cleared to play: Out -> Active [NFL] (ESPN) :: Larrell Murchison: cleared to play
+2026-10-13 20:49:35   drop[no-pick] Bill Murray (G, Los Angeles Rams) cleared to play: Out -> Active [NFL] (ESPN) :: The only relevant market has the Rams as heavy favorites (0.88), which is already near 1, so we skip it.
+2026-10-13 20:49:35   drop[not-key] Max Klare (TE, Los Angeles Rams) cleared to play: Out -> Active [NFL] (ESPN) :: Max Klare: cleared to play
+2026-10-13 20:49:36   drop[not-key] CJ Daniels (WR, Los Angeles Rams) cleared to play: Out -> Active [NFL] (ESPN) :: CJ Daniels: cleared to play
+2026-10-13 20:49:36   drop[not-key] Ty Simpson (QB, Los Angeles Rams) cleared to play: Out -> Active [NFL] (ESPN) :: Ty Simpson: cleared to play
+2026-10-13 20:49:38 NEWS [ESPN 0m] Cutter Gauthier (LW, Anaheim Ducks) ruled out: Day-To-Day -> Out [NHL]
+2026-10-13 20:49:38   skip Flames :: Flames vs. Ducks (low conf 0.55)
+2026-10-13 20:49:39 NEWS [ESPN 0m] Ryan Poehling (C, Anaheim Ducks) ruled out: Day-To-Day -> Injured Reserve [NHL]
+2026-10-13 20:49:39   skip Flames :: Flames vs. Ducks (low conf 0.6)
+2026-10-13 20:49:40   llm groq-120b: rate limited, skip 2s
+2026-10-13 20:49:41   drop[verify] Cale Makar (D, Colorado Avalanche) ruled out: healthy -> Out [NHL] (ESPN) :: uncertain newness
+2026-10-13 20:49:42   drop[not-key] Joel Kiviranta (LW, Dallas Stars) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Joel Kiviranta: day-to-day injury
+2026-10-13 20:49:42   drop[not-key] Jake Walman (D, Edmonton Oilers) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Jake Walman: day-to-day
+2026-10-13 20:49:42   llm groq-120b: rate limited, skip 1s
+2026-10-13 20:49:43   drop[no-pick] Zach Hyman (LW, Edmonton Oilers) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Fact would cause the Oilers outcome to fall, not rise, so no suitable market.
+2026-10-13 20:49:43   drop[not-key] Nico Sturm (C, Minnesota Wild) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: Nico Sturm: upper-body injury
+2026-10-13 20:49:43   drop[unconfirmed] Josh Morrissey (D, Winnipeg Jets) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: injury
+2026-10-13 20:49:44   llm groq-120b: rate limited, skip 6s
+2026-10-13 20:49:45   drop[side] Arsenal confirmed lineup vs Lille: Riccardo Calafiori, Ben White, Bukayo Saka, Martin Ødeg (ESPN) :: Will Arsenal FC win on 2026-10-13? -> Yes vs fact ruled_out: Bukayo Saka (Arsenal, soccer), bad for Arsenal. ruled out o
+2026-10-13 20:49:46   drop[side] Lille confirmed lineup vs Arsenal: Tanguy Nianzou, Tiago Santos, Olivier Giroud, Maurits K (ESPN) :: Will Lille OSC win on 2026-10-13? -> Yes vs fact ruled_out: Gaetan Perrin (Lille OSC, soccer), bad for Lille OSC. ruled 
+2026-10-13 20:49:46   llm groq-20b: rate limited, skip 7s
+2026-10-13 20:49:46   drop[no-pick] Atlético Madrid confirmed lineup vs Manchester United: Robin Le Normand, Koke, Ademola Loo (ESPN) :: None
+2026-10-13 20:50:15 [pengwin] page coppa-italia/lazio-inter-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-13 20:51:25   drop[1-source] Super Falcons overcome Ajibade injury to thrash Comoros 5-0 in Olympic qualifiers (Intel Region) :: Nigeria women's national football team (Super Falcons), wait 2nd source
