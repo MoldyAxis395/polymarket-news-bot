@@ -2,25 +2,6 @@
  "cash": 70.38160129294653,
  "positions": [
   {
-   "market_id": "5134415",
-   "question": "Will SK Slavia Praha win on 2026-10-13?",
-   "slug": "ucl-sf-slp-2026-10-13-slp",
-   "outcome": "Yes",
-   "token": "9966721868208690750357516097944663244116660562740488606277900898153704336951",
-   "shares": 20.833333333333336,
-   "entry": 0.4799999999999999,
-   "cost": 10.0,
-   "opened": 1791835120.1552901,
-   "opened_iso": "2026-10-12T19:58:40+00:00",
-   "news": "SABAH BAKU-SLAVIA PRAGA: 2 DNB (approssimato)",
-   "reason": "pengwin approx: closest to away win",
-   "conf": 1.0,
-   "end": "2026-10-13T16:45:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1791918079.0379562
-  },
-  {
    "market_id": "5159510",
    "question": "Club Atl\u00e9tico de Madrid vs. Manchester United FC: O/U 1.5",
    "slug": "ucl-atm-mnu-2026-10-13-total-1pt5",
@@ -35,7 +16,7 @@
    "reason": "pengwin approx: replicates over 1.5 leg of combo",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.8,
+   "last_bid": 0.91,
    "book_err": false
   },
   {
@@ -53,7 +34,7 @@
    "reason": "pengwin approx: replicates over 2.5 leg of combo",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.77,
+   "last_bid": 0.64,
    "book_err": false
   },
   {
@@ -89,7 +70,7 @@
    "reason": "pengwin approx: replicates first leg of combo",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.88,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -125,7 +106,7 @@
    "reason": "pengwin exact: Base pick 'segno gol' matches Polymarket market 20 (Both Teams to Score) with outcome Yes",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.69,
+   "last_bid": 0.57,
    "book_err": false
   },
   {
@@ -143,7 +124,7 @@
    "reason": "pengwin approx: Base pick is GG + over 7.5 corners; only GG matches market 21",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.72,
+   "last_bid": 0.61,
    "book_err": false
   }
  ],
@@ -377,6 +358,29 @@
    "pnl": 1.6860465116279073,
    "why": "resolved",
    "closed_iso": "2026-10-11T23:15:48+00:00"
+  },
+  {
+   "market_id": "5134415",
+   "question": "Will SK Slavia Praha win on 2026-10-13?",
+   "slug": "ucl-sf-slp-2026-10-13-slp",
+   "outcome": "Yes",
+   "token": "9966721868208690750357516097944663244116660562740488606277900898153704336951",
+   "shares": 20.833333333333336,
+   "entry": 0.4799999999999999,
+   "cost": 10.0,
+   "opened": 1791835120.1552901,
+   "opened_iso": "2026-10-12T19:58:40+00:00",
+   "news": "SABAH BAKU-SLAVIA PRAGA: 2 DNB (approssimato)",
+   "reason": "pengwin approx: closest to away win",
+   "conf": 1.0,
+   "end": "2026-10-13T16:45:00+00:00",
+   "last_bid": null,
+   "book_err": true,
+   "settle_retry": 1791918690.4585075,
+   "exit": 0.0,
+   "pnl": -10.0,
+   "why": "resolved",
+   "closed_iso": "2026-10-13T19:01:31+00:00"
   }
  ],
  "cooldown": {
@@ -389,6 +393,7 @@
   "5057077": 1791734508.4466627,
   "5064546": 1791754427.7966242,
   "5067010": 1791756222.2289855,
-  "5064385": 1791771348.1136951
+  "5064385": 1791771348.1136951,
+  "5134415": 1791928891.047207
  }
 }
