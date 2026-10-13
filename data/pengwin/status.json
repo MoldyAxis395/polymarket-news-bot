@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-13T13:07:41",
+ "updated": "2026-10-13T13:37:05",
  "start": 100.0,
  "cash": 70.38,
- "equity": 149.64,
+ "equity": 149.49,
  "open": [
   {
    "market_id": "5134415",
@@ -128,7 +128,7 @@
    "reason": "pengwin exact: Base pick 'segno gol' matches Polymarket market 20 (Both Teams to Score) with outcome Yes",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.68,
+   "last_bid": 0.67,
    "book_err": false
   },
   {
