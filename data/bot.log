@@ -9021,3 +9021,47 @@
 2026-10-13 17:31:45   drop[unconfirmed] Patriots RB TreVeyon Henderson to miss multiple weeks with injury, per report (CBS Sports) :: injury
 2026-10-13 17:31:45   llm groq-20b: rate limited, skip 152s
 2026-10-13 17:33:59 indexed 1027 markets
+2026-10-13 17:38:46   drop[1-source] News | Neuer injury setback puts Jonas Urbig in Bayern goal for Viking clash (Vodacom Soccer) :: Manuel Neuer, wait 2nd source
+2026-10-13 17:39:43 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 36)
+2026-10-13 17:39:46   llm groq-120b: rate limited, skip 19s
+2026-10-13 17:39:47 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 36)
+2026-10-13 17:39:50 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 36)
+2026-10-13 17:39:53 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 36)
+2026-10-13 17:39:57 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 36)
+2026-10-13 17:40:00   llm groq-20b: rate limited, skip 5s
+2026-10-13 17:40:00 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 35)
+2026-10-13 17:40:03 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 36)
+2026-10-13 17:40:06 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 36)
+2026-10-13 17:40:10   llm groq-120b: rate limited, skip 185s
+2026-10-13 17:40:10   llm groq-20b: rate limited, skip 9s
+2026-10-13 17:40:10 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 36)
+2026-10-13 17:40:13 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 36)
+2026-10-13 17:40:16 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 36)
+2026-10-13 17:40:19 [pengwin] LENS-LIONE: no Polymarket event (try 36)
+2026-10-13 17:40:23 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 36)
+2026-10-13 17:40:26 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 36)
+2026-10-13 17:40:29   llm groq-20b: rate limited, skip 79s
+2026-10-13 17:40:29 [pengwin] MONACO-TOLOSA: no Polymarket event (try 36)
+2026-10-13 17:40:33 [pengwin] BREST-ANGERS: no Polymarket event (try 36)
+2026-10-13 17:40:36 [pengwin] PSG-LE MANS: no Polymarket event (try 36)
+2026-10-13 17:40:38 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 35)
+2026-10-13 17:40:41 [pengwin] RENNES-AUXERRE: no Polymarket event (try 36)
+2026-10-13 17:40:44 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 36)
+2026-10-13 17:40:47 [pengwin] AUXERRE-BREST: no Polymarket event (try 36)
+2026-10-13 17:42:02   llm groq-20b: rate limited, skip 36s
+2026-10-13 17:42:02 [pengwin] LAZIO-INTER: no Polymarket event (try 36)
+2026-10-13 17:42:05 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 36)
+2026-10-13 17:42:08 [pengwin] INTER-COMO: no Polymarket event (try 36)
+2026-10-13 17:42:10 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 36)
+2026-10-13 17:42:15 [pengwin] COMO-INTER: no Polymarket event (try 36)
+2026-10-13 17:42:18 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 36)
+2026-10-13 17:42:21 [pengwin] NAPOLI-COMO: no Polymarket event (try 36)
+2026-10-13 17:42:23 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 36)
+2026-10-13 17:42:28 [pengwin] FIORENTINA-COMO: no Polymarket event (try 36)
+2026-10-13 17:43:06 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 36)
+2026-10-13 17:43:37   llm groq-120b: rate limited, skip 134s
+2026-10-13 17:43:37   llm groq-20b: rate limited, skip 180s
+2026-10-13 17:44:03 indexed 1020 markets
+2026-10-13 17:44:10 NEWS [ESPN 11m] Cam Jackson (DT, Carolina Panthers) ruled out: Questionable -> Injured Reserve [NFL]
+2026-10-13 17:44:10   skip Eagles :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-13 17:47:50 shift over, state saved
