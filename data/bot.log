@@ -9262,3 +9262,22 @@
 2026-10-14 00:49:41 indexed 912 markets
 2026-10-14 00:50:45   drop[1-source] Penn State Football Linebacker Alex Tatsch Out For Season With Injury (Onward State) :: Alex Tatsch, wait 2nd source
 2026-10-14 00:54:01 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-14 00:55:09   drop[team-not-named] ‘Super dumb’: Michael Olise suspended for Arsenal clash after throwing ball at opponent’s  (The Independent) :: Crystal Palace
+2026-10-14 00:59:45 indexed 907 markets
+2026-10-14 01:01:49   drop[not-key] Dennis Hildeby (G, Tampa Bay Lightning) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Dennis Hildeby: ruled out due to injury
+2026-10-14 01:02:11   drop[unconfirmed] A Cubs Run at Tarik Skubal Shouldn't Be Ruled Out This Offseason (Sports Illustrated) :: He is not ruled out for the upcoming offseason
+2026-10-14 01:04:28   drop[1-source] Texans Receive Important Injury News on Star Safety After Win vs. Titans (heavy.com) :: Jordan Fuller, wait 2nd source
+2026-10-14 01:04:29   llm groq-120b: rate limited, skip 215s
+2026-10-14 01:04:29   drop[kind] Steelers’ Latest Injury Woes Spark Interest In Minnesota WR Bound For Trade Block (Steeler Nation) :: other
+2026-10-14 01:06:46   drop[no-pick] Rams LT Alaric Jackson suspended two games for striking Bradley Chubb following Monday nig (NFL.com) :: no outcome should rise
+2026-10-14 01:06:46   drop[kind] Auto Injury Claimants Turn to Lawyers Within Days, Study Finds (MyChesCo) :: other
+2026-10-14 01:09:19   drop[not-key] Rams' Alaric Jackson Suspended By NFL for Punching Bills' Bradley Chubb After MNF Loss (Bleacher Report) :: Alaric Jackson: suspended for punching Bradley Chubb
+2026-10-14 01:09:44 indexed 906 markets
+2026-10-14 01:20:21 indexed 911 markets
+2026-10-14 01:20:23   drop[not-key] Alaric Jackson (OT, Los Angeles Rams) ruled out: Active -> Suspension [NFL] (ESPN) :: Alaric Jackson: suspended
+2026-10-14 01:20:28   drop[1-source] Pa. native, promising young Penn State linebacker suffers another season-ending injury (PennLive.com) :: Penn State Nittany Lions, wait 2nd source
+2026-10-14 01:20:28   llm groq-120b: rate limited, skip 225s
+2026-10-14 01:20:29   drop[side] Rams' Alaric Jackson suspended for two games (USA Today) :: Cardinals vs. Rams -> Rams vs fact ruled_out: Alaric Jackson (Los Angeles Rams, nfl), bad for Los Angeles Rams. suspensi
+2026-10-14 01:20:30   drop[unconfirmed] Mark Daigneault happy for Pacers’ Tyrese Haliburton to return from devastating injury (ClutchPoints) :: player returning
+2026-10-14 01:22:45   drop[unconfirmed] For the love of the race: Kernel cross country's Londyn Schroeder bounces back from knee i (Mitchell Daily Republic) :: knee injury recovery
+2026-10-14 01:24:05 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
