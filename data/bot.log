@@ -7797,3 +7797,52 @@
 2026-10-13 02:00:36 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 9)
 2026-10-13 02:00:40 [pengwin] FIORENTINA-COMO: no Polymarket event (try 9)
 2026-10-13 02:00:49 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x7fa377dd6360>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
+2026-10-13 02:01:04 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 9)
+2026-10-13 02:01:06 [pengwin] LIPSIA-PSV: no Polymarket event (try 8)
+2026-10-13 02:04:11   drop[team-not-named] Kyle Shanahan must swallow pride and pursue forgotten WR after Deebo Samuel injury (Niner Noise) :: San Francisco 49ers
+2026-10-13 02:06:28 indexed 905 markets
+2026-10-13 02:11:03   drop[not-key] Nick Martin (LB, San Francisco 49ers) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Nick Martin: placed on injured reserve with hamstring injury
+2026-10-13 02:13:29   drop[kind] Play Suspended at Arkansas State (siuecougars.com) :: other
+2026-10-13 02:16:30 indexed 938 markets
+2026-10-13 02:20:25   drop[not-key] Star Gotham FC rookie Jordynn Dudley out for year with foot fracture (New York Post) :: Jordynn Dudley: foot fracture sidelines him for the season
+2026-10-13 02:25:10   drop[1-source] Zheng Qinwen pulls out of the Wuhan Open with a shoulder injury (macau daily times 澳門每日時報) :: Zheng Qinwen, wait 2nd source
+2026-10-13 02:25:40   llm groq-120b: rate limited, skip 147s
+2026-10-13 02:25:40   drop[not-key] Nikolas Matinpalo (D, Ottawa Senators) ruled out: healthy -> Out [NHL] (ESPN) :: Nikolas Matinpalo: injury
+2026-10-13 02:26:30 indexed 940 markets
+2026-10-13 02:27:21   drop[1-source] 3 Jazz Players Ruled Out Ahead of Preseason Clash With Spurs (Sports Illustrated) :: Donovan Mitchell, wait 2nd source
+2026-10-13 02:27:21   drop[not-key] Sens D Matinpalo exits vs. Devils with upper-body injury (TSN) :: D Matinpalo: upper-body injury
+2026-10-13 02:28:16   llm groq-120b: rate limited, skip 33s
+2026-10-13 02:28:16   drop[unconfirmed] FINAL: Brewers 7, Dodgers 4 Milwaukee takes a 2-0 lead in the NLCS. The Brewers are everyt (Jeff Passan) :: score
+2026-10-13 02:29:02 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 10)
+2026-10-13 02:29:05 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 10)
+2026-10-13 02:29:07   llm groq-120b: rate limited, skip 66s
+2026-10-13 02:29:08 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 10)
+2026-10-13 02:29:10 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 10)
+2026-10-13 02:29:12 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 10)
+2026-10-13 02:29:14 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 10)
+2026-10-13 02:29:17 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 10)
+2026-10-13 02:29:20 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 10)
+2026-10-13 02:29:22 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 10)
+2026-10-13 02:29:25 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 10)
+2026-10-13 02:29:26 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 10)
+2026-10-13 02:29:30 [pengwin] LENS-LIONE: no Polymarket event (try 10)
+2026-10-13 02:29:32 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 10)
+2026-10-13 02:29:34 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 10)
+2026-10-13 02:29:36 [pengwin] MONACO-TOLOSA: no Polymarket event (try 10)
+2026-10-13 02:29:39 [pengwin] BREST-ANGERS: no Polymarket event (try 10)
+2026-10-13 02:29:41 [pengwin] PSG-LE MANS: no Polymarket event (try 10)
+2026-10-13 02:29:43 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 9)
+2026-10-13 02:29:45 [pengwin] RENNES-AUXERRE: no Polymarket event (try 10)
+2026-10-13 02:29:47 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 10)
+2026-10-13 02:29:49 [pengwin] AUXERRE-BREST: no Polymarket event (try 10)
+2026-10-13 02:30:34 [pengwin] LAZIO-INTER: no Polymarket event (try 10)
+2026-10-13 02:30:36   llm groq-120b: rate limited, skip 67s
+2026-10-13 02:30:36 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 10)
+2026-10-13 02:30:38 [pengwin] INTER-COMO: no Polymarket event (try 10)
+2026-10-13 02:30:40   drop[no-market] Ronaldo on target as Al-Nassr win after security delay reut.rs/4hZXnve (Reuters) :: Al-Nassr
+2026-10-13 02:30:41 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 10)
+2026-10-13 02:30:43 [pengwin] COMO-INTER: no Polymarket event (try 10)
+2026-10-13 02:30:45 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 10)
+2026-10-13 02:30:47 [pengwin] NAPOLI-COMO: no Polymarket event (try 10)
+2026-10-13 02:30:49 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 10)
+2026-10-13 02:30:53 [pengwin] FIORENTINA-COMO: no Polymarket event (try 10)
