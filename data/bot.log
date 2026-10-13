@@ -7946,3 +7946,41 @@
 2026-10-13 03:40:36   drop[1-source] Alexander Ruled Out of Purdue Game and More (Sports Illustrated) :: Purdue Boilermakers, wait 2nd source
 2026-10-13 03:40:37   drop[1-source] Bills news: Key Buffalo O-lineman exits MNF with injury (ClutchPoints) :: J.D. McKissic, wait 2nd source
 2026-10-13 03:40:39 shift over, state saved
+2026-10-13 04:23:52 === start mode=paper pid=2110 ===
+2026-10-13 04:23:52 brain=llm cash=84.23 open=0
+2026-10-13 04:23:52 resuming with 5490 known news items
+2026-10-13 04:24:17 indexed 946 markets
+2026-10-13 04:24:29 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 13)
+2026-10-13 04:24:32 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 13)
+2026-10-13 04:24:35 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 13)
+2026-10-13 04:24:37   drop[no-market] Torey Krug (D, St. Louis Blues) ruled out: healthy -> Injured Reserve [NHL] (ESPN) :: St. Louis Blues
+2026-10-13 04:24:37 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 13)
+2026-10-13 04:24:40 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 13)
+2026-10-13 04:24:43 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 13)
+2026-10-13 04:24:46 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 13)
+2026-10-13 04:24:48 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 13)
+2026-10-13 04:24:51 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 13)
+2026-10-13 04:24:54 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 13)
+2026-10-13 04:24:56 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 13)
+2026-10-13 04:24:59 [pengwin] LENS-LIONE: no Polymarket event (try 13)
+2026-10-13 04:25:02 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 13)
+2026-10-13 04:25:05 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 13)
+2026-10-13 04:25:08 [pengwin] MONACO-TOLOSA: no Polymarket event (try 13)
+2026-10-13 04:25:10 [pengwin] BREST-ANGERS: no Polymarket event (try 13)
+2026-10-13 04:25:13 [pengwin] PSG-LE MANS: no Polymarket event (try 13)
+2026-10-13 04:25:15 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 12)
+2026-10-13 04:25:18 [pengwin] RENNES-AUXERRE: no Polymarket event (try 13)
+2026-10-13 04:25:21 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 13)
+2026-10-13 04:25:23 [pengwin] AUXERRE-BREST: no Polymarket event (try 13)
+2026-10-13 04:26:10 [pengwin] LAZIO-INTER: no Polymarket event (try 13)
+2026-10-13 04:26:13 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 13)
+2026-10-13 04:26:15 [pengwin] INTER-COMO: no Polymarket event (try 13)
+2026-10-13 04:26:17 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 13)
+2026-10-13 04:26:20 [pengwin] COMO-INTER: no Polymarket event (try 13)
+2026-10-13 04:26:23 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 13)
+2026-10-13 04:26:25 [pengwin] NAPOLI-COMO: no Polymarket event (try 13)
+2026-10-13 04:26:28 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 13)
+2026-10-13 04:26:32   llm groq-120b: rate limited, skip 39s
+2026-10-13 04:26:32 [pengwin] FIORENTINA-COMO: no Polymarket event (try 13)
+2026-10-13 04:26:57 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 13)
+2026-10-13 04:26:59 [pengwin] LIPSIA-PSV: no Polymarket event (try 12)
