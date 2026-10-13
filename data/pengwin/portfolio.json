@@ -1,5 +1,5 @@
 {
- "cash": 90.38160129294653,
+ "cash": 70.38160129294653,
  "positions": [
   {
    "market_id": "5134415",
@@ -16,7 +16,7 @@
    "reason": "pengwin approx: closest to away win",
    "conf": 1.0,
    "end": "2026-10-13T16:45:00+00:00",
-   "last_bid": 0.49,
+   "last_bid": 0.5,
    "book_err": false,
    "settle_retry": 1791878774.8176448
   },
@@ -35,7 +35,7 @@
    "reason": "pengwin approx: replicates over 1.5 leg of combo",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.8,
+   "last_bid": 0.81,
    "book_err": false
   },
   {
@@ -71,7 +71,7 @@
    "reason": "pengwin exact: replicates X2 double chance",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.55,
+   "last_bid": 0.54,
    "book_err": false
   },
   {
@@ -108,6 +108,42 @@
    "conf": 1.0,
    "end": "2026-10-14T19:00:00+00:00",
    "last_bid": 0.75,
+   "book_err": false
+  },
+  {
+   "market_id": "5159638",
+   "question": "Galatasaray SK vs. FC Barcelona: Both Teams to Score",
+   "slug": "ucl-gal-fcb-2026-10-13-btts",
+   "outcome": "Yes",
+   "token": "37443162601187749513321097667874274612068755591937826249708318424965998039529",
+   "shares": 14.492753623188406,
+   "entry": 0.69,
+   "cost": 10.0,
+   "opened": 1791885951.769025,
+   "opened_iso": "2026-10-13T10:05:51+00:00",
+   "news": "GALATASARAY-BARCELLONA: Both Teams to Score = Yes (esatto)",
+   "reason": "pengwin exact: Base pick 'segno gol' matches Polymarket market 20 (Both Teams to Score) with outcome Yes",
+   "conf": 1.0,
+   "end": "2026-10-13T19:00:00+00:00",
+   "last_bid": 0.68,
+   "book_err": false
+  },
+  {
+   "market_id": "5159880",
+   "question": "RB Leipzig vs. PSV: Both Teams to Score",
+   "slug": "ucl-rbl-psv-2026-10-13-btts",
+   "outcome": "Yes",
+   "token": "25062469758493398327565858337305161554080571469316865468119241454217721600802",
+   "shares": 13.88888888888889,
+   "entry": 0.72,
+   "cost": 10.0,
+   "opened": 1791885956.3230352,
+   "opened_iso": "2026-10-13T10:05:56+00:00",
+   "news": "LIPSIA-PSV: Both Teams to Score (GG) (approssimato)",
+   "reason": "pengwin approx: Base pick is GG + over 7.5 corners; only GG matches market 21",
+   "conf": 1.0,
+   "end": "2026-10-13T19:00:00+00:00",
+   "last_bid": 0.7,
    "book_err": false
   }
  ],

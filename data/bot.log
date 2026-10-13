@@ -8486,3 +8486,45 @@
 2026-10-13 10:02:08 [pengwin] LIPSIA-PSV: no Polymarket event (try 23)
 2026-10-13 10:05:13 indexed 900 markets
 2026-10-13 10:08:53 shift over, state saved
+2026-10-13 12:02:50 === start mode=paper pid=2128 ===
+2026-10-13 12:02:50 brain=llm cash=84.23 open=0
+2026-10-13 12:02:50 resuming with 5774 known news items
+2026-10-13 12:03:15 indexed 907 markets
+2026-10-13 12:03:25 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 25)
+2026-10-13 12:03:29 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 25)
+2026-10-13 12:03:32 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 25)
+2026-10-13 12:03:34 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 25)
+2026-10-13 12:03:34   drop[1-source] Australia's Smith back on field after injury scare (Oman Observer) :: Smith, wait 2nd source
+2026-10-13 12:03:34   drop[1-source] Neuer injury setback puts Jonas Urbig in Bayern goal for Viking clash (SABC Sport) :: Manuel Neuer, wait 2nd source
+2026-10-13 12:03:35   drop[kind] Sidharth Malhotra suffers leg injury while rehearsing for an action sequence (IANS LIVE) :: other
+2026-10-13 12:03:36   drop[not-key] Bethell returns as England call up youngsters Jack and Rew (BBC) :: Jacob Bethell: Bethell added back to England's white-ball squad for Australia tour
+2026-10-13 12:03:36 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 25)
+2026-10-13 12:03:36 [pengwin] page liga/paderborn-stoccarda-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-13 12:03:36   drop[no-market] Bills beat Rams in overtime thriller (BBC) :: Buffalo Bills
+2026-10-13 12:03:40 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 25)
+2026-10-13 12:03:42 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 25)
+2026-10-13 12:03:45 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 25)
+2026-10-13 12:03:48 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 25)
+2026-10-13 12:03:50 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 25)
+2026-10-13 12:03:52 [pengwin] LENS-LIONE: no Polymarket event (try 25)
+2026-10-13 12:03:55 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 25)
+2026-10-13 12:03:57 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 25)
+2026-10-13 12:04:00 [pengwin] MONACO-TOLOSA: no Polymarket event (try 25)
+2026-10-13 12:04:02 [pengwin] BREST-ANGERS: no Polymarket event (try 25)
+2026-10-13 12:04:05 [pengwin] PSG-LE MANS: no Polymarket event (try 25)
+2026-10-13 12:04:07 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 24)
+2026-10-13 12:04:09 [pengwin] RENNES-AUXERRE: no Polymarket event (try 25)
+2026-10-13 12:04:12 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 25)
+2026-10-13 12:04:14 [pengwin] AUXERRE-BREST: no Polymarket event (try 25)
+2026-10-13 12:04:59 [pengwin] LAZIO-INTER: no Polymarket event (try 25)
+2026-10-13 12:05:02 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 25)
+2026-10-13 12:05:04 [pengwin] INTER-COMO: no Polymarket event (try 25)
+2026-10-13 12:05:07 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 25)
+2026-10-13 12:05:10 [pengwin] COMO-INTER: no Polymarket event (try 25)
+2026-10-13 12:05:13 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 25)
+2026-10-13 12:05:16 [pengwin] NAPOLI-COMO: no Polymarket event (try 25)
+2026-10-13 12:05:19 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 25)
+2026-10-13 12:05:22 [pengwin] FIORENTINA-COMO: no Polymarket event (try 25)
+2026-10-13 12:05:46 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 25)
+2026-10-13 12:05:51 [pengwin]   BUY Yes @ 0.690 x14.5 ($10.00) :: Galatasaray SK vs. FC Barcelona: Both Teams to Score
+2026-10-13 12:05:56 [pengwin]   BUY Yes @ 0.720 x13.9 ($10.00) :: RB Leipzig vs. PSV: Both Teams to Score
