@@ -7846,3 +7846,48 @@
 2026-10-13 02:30:47 [pengwin] NAPOLI-COMO: no Polymarket event (try 10)
 2026-10-13 02:30:49 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 10)
 2026-10-13 02:30:53 [pengwin] FIORENTINA-COMO: no Polymarket event (try 10)
+2026-10-13 02:31:16 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 10)
+2026-10-13 02:31:18 [pengwin] LIPSIA-PSV: no Polymarket event (try 9)
+2026-10-13 02:34:24   llm groq-120b: rate limited, skip 77s
+2026-10-13 02:34:24   drop[kind] Virginia City racial incident: Gary Miller gets suspended sentence; charges dropped for 2 (KRXI2) :: other
+2026-10-13 02:36:33 indexed 939 markets
+2026-10-13 02:41:13   drop[1-source] Andrew Sprague's injury makes the return of Andrew Babalola essential for Michigan footbal (GBMWolverine) :: Andrew Sprague, wait 2nd source
+2026-10-13 02:46:34 indexed 944 markets
+2026-10-13 02:48:12   drop[kind] Mississippi State QB Kamario Taylor's status for LSU game uncertain amid foot injury (CBS Sports) :: other
+2026-10-13 02:48:13   drop[1-source] Surfer suspended from world tour for alleged sexual assault of NSW teenager (The Age) :: Jack Freestone, wait 2nd source
+2026-10-13 02:50:29   drop[1-source] Bills receiver DJ Moore ruled out ahead of Monday Night Football matchup against Rams (New York Post) :: DJ Moore, wait 2nd source
+2026-10-13 02:50:29   llm groq-120b: rate limited, skip 246s
+2026-10-13 02:50:30   drop[kind] Facial Fractures Alone May Hide Serious Brain Injury in Older Adults, 16-Year Study Finds (Bioengineer.org) :: other
+2026-10-13 02:56:35 indexed 944 markets
+2026-10-13 02:57:41   llm groq-120b: rate limited, skip 196s
+2026-10-13 02:57:42 NEWS [Fabrizio Romano 0m] 🚨 Manchester United have now 6 points in 6 Premier League games, only 1 win against Ipswich at home and 0 wins in their last four games. The worst Premier League start in United history since 1986.
+2026-10-13 02:57:42   skip No :: Will Manchester United FC win on 2026-10-13? (low conf 0.6)
+2026-10-13 02:58:12   drop[no-market] 🚨🇧🇷 Clarence Seedorf becomes new head coach at Corinthians until the end of 2027. New chap (Fabrizio Romano) :: Corinthians
+2026-10-13 02:58:44   drop[kind] 🔵🔴 Hansi Flick: “We are hungry. I share it with the team. Many of our players won the Worl (Fabrizio Romano) :: other
+2026-10-13 02:58:46   drop[side] 🚨 Mikel Arteta confirms Arsenal lost Martin Zubimendi and Piero Hincapié due to injury. “W (Fabrizio Romano) :: Will Arsenal FC vs. Lille OSC end in a draw? -> Yes vs fact ruled_out: Martin Zubimendi (Arsenal, soccer), bad for Arsen
+2026-10-13 02:59:14 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 11)
+2026-10-13 02:59:17 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 11)
+2026-10-13 02:59:20 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 11)
+2026-10-13 02:59:22 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 11)
+2026-10-13 02:59:24 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 11)
+2026-10-13 02:59:27 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 11)
+2026-10-13 02:59:30 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 11)
+2026-10-13 02:59:32 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 11)
+2026-10-13 02:59:34 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 11)
+2026-10-13 02:59:37 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 11)
+2026-10-13 02:59:39 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 11)
+2026-10-13 02:59:42 [pengwin] LENS-LIONE: no Polymarket event (try 11)
+2026-10-13 02:59:44 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 11)
+2026-10-13 02:59:46 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 11)
+2026-10-13 02:59:49 [pengwin] MONACO-TOLOSA: no Polymarket event (try 11)
+2026-10-13 02:59:51 [pengwin] BREST-ANGERS: no Polymarket event (try 11)
+2026-10-13 02:59:53 [pengwin] PSG-LE MANS: no Polymarket event (try 11)
+2026-10-13 02:59:55 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 10)
+2026-10-13 02:59:57 [pengwin] RENNES-AUXERRE: no Polymarket event (try 11)
+2026-10-13 03:00:00 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 11)
+2026-10-13 03:00:01 [pengwin] AUXERRE-BREST: no Polymarket event (try 11)
+2026-10-13 03:00:46 [pengwin] LAZIO-INTER: no Polymarket event (try 11)
+2026-10-13 03:00:49 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 11)
+2026-10-13 03:00:52 [pengwin] INTER-COMO: no Polymarket event (try 11)
+2026-10-13 03:00:54 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 11)
+2026-10-13 03:00:56 [pengwin] COMO-INTER: no Polymarket event (try 11)
