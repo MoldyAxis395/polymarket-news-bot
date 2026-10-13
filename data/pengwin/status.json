@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-13T07:25:54",
+ "updated": "2026-10-13T07:56:30",
  "start": 100.0,
  "cash": 80.38,
- "equity": 148.24,
+ "equity": 149.24,
  "open": [
   {
    "market_id": "5134415",
@@ -92,7 +92,7 @@
    "reason": "pengwin exact: X2 leg of combo",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.09,
+   "last_bid": 0.1,
    "book_err": false
   },
   {
