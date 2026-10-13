@@ -16,7 +16,7 @@
    "reason": "pengwin approx: closest to away win",
    "conf": 1.0,
    "end": "2026-10-13T16:45:00+00:00",
-   "last_bid": 0.5,
+   "last_bid": 0.51,
    "book_err": false,
    "settle_retry": 1791878774.8176448
   },
