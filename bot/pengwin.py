@@ -138,7 +138,10 @@ class Pengwin:
             "X=draw, 2=away win, 1X/X2/12=double chance, GG/Goal=both teams score, NG/No Goal=not both, "
             "Over/Under N=total goals, 'casa'=home team, 'ospite/trasferta'=away team, Multigol A-B = "
             "goals between A and B, 'combo' = several legs.\n"
-            "Rules:\n- exact: same bet (e.g. X2 = NO on 'Will <home> win?', 1 = YES on 'Will <home> win?', "
+            "Rules:\n- the pick to replicate is the BASE pick ('pronostico base', 'pronostico secco', 'consiglio'); "
+            "combos ('my combo', 'combo'), 'follia', 'per chi vuole osare' and multiplier extras are side bets: "
+            "use them only if the text has no base pick.\n"
+            "- exact: same bet (e.g. X2 = NO on 'Will <home> win?', 1 = YES on 'Will <home> win?', "
             "GG = YES on Both Teams to Score).\n- approx: the pick is a combo/multigol/line Polymarket lacks; "
             "take ONE of its legs, same team, same period (full match vs 1st half), same direction, same "
             "or nearest line (e.g. 'Multigol 2-5 casa' -> <home> O/U 1.5 Over; '1X + Under 3.5' -> NO on "
@@ -184,6 +187,10 @@ class Pengwin:
         first_half_pick = bool(re.search(r"primo tempo|1[°º]? ?tempo|\bpt\b|first half|1st half", pick[-400:], re.I))
         if ("1st Half" in m.question) != first_half_pick:
             return self.skip(pg, match, short, f"period mismatch: {m.question}")
+        # a double chance (1X/X2/12) on a win/draw market is always a NO bet
+        if (re.search(r"(?<![\w.@])(1X|X2|12)(?![\w.])", short.upper()) and m.outcomes[j] == "Yes"
+                and re.search(r"\bwin\b|draw", m.question, re.I)):
+            return self.skip(pg, match, short, f"double chance mapped to YES: {m.question}")
         why = self.paper.can_open(m.id)
         if not why:
             bid, ask = pm.best_bid_ask(m.token_ids[j])
