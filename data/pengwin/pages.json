@@ -852,16 +852,10 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/galatasaray-barcellona-statistiche-quote-e-pronostico-2026": {
 "first": 1791823624.3569288,
-"status": "traded",
+"status": "pending",
 "pick": "Il Galatasaray davanti ai propri sostenitori riesce spesso ad infiammarsi, dunque non sarà una trasferta agevole per il Barcellona, che in fase difensiva non garantisce troppa affidabilità (sedici partite consecutive in Champions con almeno una rete al passivo). Mi aspetto una gara con diversi gol (per chi vuole osare anche due per parte, a moltiplicatore 3.20). In una eventuale my combo punterei sull’X2 + gol + over 1.5 cartellini casa a quota 2.20. Come pronostico base, invece, preferisco puntare sul segno gol, quotato a 1.44. Per la follia, attenzione ad Osimhen marcatore + cartellino a quota 13.00.",
 "match": "GALATASARAY-BARCELLONA",
-"picked_at": 1791836763.1471133,
-"tries": 1,
-"llm_fails": 1,
-"why": "no LLM answer",
-"market": "Will Galatasaray SK win on 2026-10-13?",
-"outcome": "Yes",
-"map": "exact"
+"picked_at": 1791836763.1471133
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/atletico-madrid-manchester-united-statistiche-quote-e-pronostico-2026": {
 "first": 1791823624.3569288,
