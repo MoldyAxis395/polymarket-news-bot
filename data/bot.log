@@ -8875,3 +8875,43 @@
 2026-10-13 16:08:00 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 33)
 2026-10-13 16:08:02 [pengwin] MONACO-TOLOSA: no Polymarket event (try 33)
 2026-10-13 16:08:05 [pengwin] BREST-ANGERS: no Polymarket event (try 33)
+2026-10-13 16:08:07 [pengwin] PSG-LE MANS: no Polymarket event (try 33)
+2026-10-13 16:08:10 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 32)
+2026-10-13 16:08:12 [pengwin] RENNES-AUXERRE: no Polymarket event (try 33)
+2026-10-13 16:08:14 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 33)
+2026-10-13 16:08:17 [pengwin] AUXERRE-BREST: no Polymarket event (try 33)
+2026-10-13 16:08:37   drop[unconfirmed] Huddersfield Town digest: Double centre-back injury blow ahead of Plymouth trip (We Are Terriers) :: double centre-back injury
+2026-10-13 16:09:08   llm groq-120b: rate limited, skip 32s
+2026-10-13 16:09:08 [pengwin] LAZIO-INTER: no Polymarket event (try 33)
+2026-10-13 16:09:10 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 33)
+2026-10-13 16:09:13 [pengwin] INTER-COMO: no Polymarket event (try 33)
+2026-10-13 16:09:15 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 33)
+2026-10-13 16:09:17   llm groq-20b: rate limited, skip 13s
+2026-10-13 16:09:17 [pengwin] COMO-INTER: no Polymarket event (try 33)
+2026-10-13 16:09:19 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 33)
+2026-10-13 16:09:22 [pengwin] NAPOLI-COMO: no Polymarket event (try 33)
+2026-10-13 16:09:24 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 33)
+2026-10-13 16:09:27 [pengwin] FIORENTINA-COMO: no Polymarket event (try 33)
+2026-10-13 16:09:54 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 33)
+2026-10-13 16:13:53 indexed 1025 markets
+2026-10-13 16:14:18   llm groq-120b: rate limited, skip 181s
+2026-10-13 16:14:19   drop[side] Anton Harrison (OT, Jacksonville Jaguars) ruled out: Questionable -> Out [NFL] (ESPN) :: Texans vs. Jaguars -> Jaguars vs fact ruled_out: Anton Harrison (Jacksonville Jaguars, nfl), bad for Jacksonville Jaguar
+2026-10-13 16:14:19   llm groq-20b: rate limited, skip 29s
+2026-10-13 16:14:19 NEWS [ESPN 4m] Mike Matheson (D, Montreal Canadiens) ruled out: healthy -> Out [NHL]
+2026-10-13 16:14:19   skip Sabres :: Sabres vs. Canadiens (rules fallback, LLM down (not traded))
+2026-10-13 16:17:49   llm groq-120b: rate limited, skip 39s
+2026-10-13 16:17:49   drop[unconfirmed] J.T. Compher Injury: Still sidelined Tuesday (RotoWire) :: injury
+2026-10-13 16:20:22   drop[no-market] Ravens QB Lamar Jackson (ankle) ruled out vs. Falcons (Field Level Media) :: Baltimore Ravens
+2026-10-13 16:20:22   llm groq-120b: rate limited, skip 179s
+2026-10-13 16:20:23   drop[1-source] Mozambique: 25-year Machipanda concession award suspended following SAFAGA court challenge (CLUB OF MOZAMBIQUE) :: Machipanda concession award, wait 2nd source
+2026-10-13 16:21:11   llm groq-20b: rate limited, skip 255s
+2026-10-13 16:23:54 indexed 1019 markets
+2026-10-13 16:24:43   drop[team-not-named] TreVeyon Henderson to miss ‘multiple weeks’ with reported high ankle sprain (Pats Pulpit) :: Ohio State Buckeyes
+2026-10-13 16:26:59   llm groq-120b: rate limited, skip 70s
+2026-10-13 16:27:00   drop[not-key] Ice Chips: Habs’ Matheson out day-to-day with lower-body injury (TSN) :: Jared Matheson: lower-body injury
+2026-10-13 16:29:29   llm groq-120b: rate limited, skip 114s
+2026-10-13 16:29:29   drop[no-pick] Canadiens' Matheson out vs. Sabres with lower-body injury, Beck to play (Sportsnet.ca) :: no suitable outcome to rise by 5+ points
+2026-10-13 16:31:35   llm groq-120b: rate limited, skip 95s
+2026-10-13 16:31:35   llm groq-20b: rate limited, skip 64s
+2026-10-13 16:33:56 indexed 1021 markets
+2026-10-13 16:36:20   drop[team-not-named] Spalletti and Pisacane, both players suspended for one match: "The former provoked, the la (L'Unione Sarda.it) :: 
