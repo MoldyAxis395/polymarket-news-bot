@@ -28,3 +28,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-13T10:05:51+00:00,BUY,Galatasaray SK vs. FC Barcelona: Both Teams to Score,Yes,14.49,0.6900,10.00,,GALATASARAY-BARCELLONA: Both Teams to Score = Yes (esatto) | pengwin exact: Base pick 'segno gol' matches Polymarket market 20 (Both Teams to Score) with outcome Yes
 2026-10-13T10:05:56+00:00,BUY,RB Leipzig vs. PSV: Both Teams to Score,Yes,13.89,0.7200,10.00,,LIPSIA-PSV: Both Teams to Score (GG) (approssimato) | pengwin approx: Base pick is GG + over 7.5 corners; only GG matches market 21
 2026-10-13T19:01:30+00:00,SELL,Will SK Slavia Praha win on 2026-10-13?,Yes,20.83,0.0000,0.00,-10.00,resolved
+2026-10-13T21:12:09+00:00,SELL,Galatasaray SK vs. FC Barcelona: Both Teams to Score,Yes,14.49,1.0000,14.49,+4.49,resolved

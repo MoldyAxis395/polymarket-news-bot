@@ -9180,3 +9180,30 @@
 2026-10-13 22:50:10   drop[no-market] Shemar Turner (DT, Chicago Bears) cleared to play: Out -> Active [NFL] (ESPN) :: Chicago Bears
 2026-10-13 22:50:10   llm groq-120b: rate limited, skip 90s
 2026-10-13 22:50:11   drop[not-key] Alaric Jackson (OT, Los Angeles Rams) ruled out: healthy -> Suspension [NFL] (ESPN) :: Alaric Jackson: suspension
+2026-10-13 22:54:57   drop[not-key] Alaric Jackson suspended 2 games for Chubb punch (NBC Sports) :: Alaric Jackson: suspended 2 games for punching Nick Chubb
+2026-10-13 22:54:57   llm groq-120b: rate limited, skip 117s
+2026-10-13 22:54:58   drop[1-source] Berlin Coalition Talks Suspended Over Antisemitism Deal Concerns (Haaretz) :: Berlin, wait 2nd source
+2026-10-13 22:54:58   drop[not-key] Rams OT Alaric Jackson Suspended 2 Games for Punching Bills Star (heavy.com) :: Alaric Jackson: suspension
+2026-10-13 22:54:59   drop[team-not-named] B.C. teacher suspended for posting nude, sexual photos on Reddit (CTV News) :: 
+2026-10-13 22:55:55 [pengwin]   settle error RB Leipzig vs. PSV: Both Teams to Score: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-13 22:59:32 indexed 935 markets
+2026-10-13 23:04:13   drop[unconfirmed] Alaric Jackson suspended 2 games for punching Bradley Chubb, per report (SB Nation) :: Suspended 2 games for punching Bradley Chubb
+2026-10-13 23:04:13   drop[not-key] Rams' Alaric Jackson suspended by NFL for punching Bills player after MNF loss (Sporting News) :: Alaric Jackson: suspended for punching Bills player after Monday Night Football loss
+2026-10-13 23:04:13   llm groq-120b: rate limited, skip 247s
+2026-10-13 23:04:14   drop[not-key] Bears DE Sweat suspended two games for violating PED policy (LiveonScore.com) :: Devin Sweat: PED violation
+2026-10-13 23:06:32   drop[kind] Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in  (CNBC) :: other
+2026-10-13 23:06:44   drop[not-key] Dylan Cardwell (C, Sacramento Kings) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Dylan Cardwell: Day‑to‑day injury
+2026-10-13 23:09:31 indexed 940 markets
+2026-10-13 23:10:36   drop[team-not-named] Fed's Collins sees another rate hike on the table before end of 2026 reut.rs/4scDK7N (Reuters) :: Federal Reserve
+2026-10-13 23:11:08   llm groq-120b: rate limited, skip 344s
+2026-10-13 23:11:09   drop[1-source] Report: Rams' Jackson to be suspended 2 games for hitting Bills' Chubb (theScore) :: Jalen Jackson, wait 2nd source
+2026-10-13 23:12:09 [pengwin]   book error Galatasaray SK vs. FC Barcelona: Both Teams to Sco: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=37443162601187749513321097667874274612068755591937826249708318424965998039529
+2026-10-13 23:12:09 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +4.49 :: Galatasaray SK vs. FC Barcelona: Both Teams to Score
+2026-10-13 23:13:28   drop[not-key] 49ers' Samuel injury opens door for Evans, Cooks (NBC Sports) :: Samuel: injury
+2026-10-13 23:16:17   drop[no-market] Bears edge Montez Sweat has been suspended for the club’s next two games without pay for v (Ian Rapoport) :: Chicago Bears
+2026-10-13 23:19:32 indexed 934 markets
+2026-10-13 23:19:57   drop[not-key] Alaric Jackson (OT, Los Angeles Rams) cleared to play: Suspension -> Active [NFL] (ESPN) :: Alaric Jackson: cleared from suspension
+2026-10-13 23:22:42 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-13 23:22:43   drop[no-market] Bears DE Montez Sweat suspended 2 games for PED violation (Field Level Media) :: Chicago Bears
+2026-10-13 23:22:43   llm groq-120b: rate limited, skip 125s
+2026-10-13 23:22:44   drop[not-key] Rams’ Alaric Jackson suspended 2 games for punching Bradley Chubb after Bills game (ClutchPoints) :: Alaric Jackson: suspension

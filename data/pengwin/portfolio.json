@@ -1,5 +1,5 @@
 {
- "cash": 70.38160129294653,
+ "cash": 84.87435491613493,
  "positions": [
   {
    "market_id": "5159510",
@@ -54,7 +54,7 @@
    "end": "2026-10-13T19:00:00+00:00",
    "last_bid": null,
    "book_err": false,
-   "settle_retry": 1791925198.7458348
+   "settle_retry": 1791927077.308972
   },
   {
    "market_id": "5159580",
@@ -93,24 +93,6 @@
    "book_err": false
   },
   {
-   "market_id": "5159638",
-   "question": "Galatasaray SK vs. FC Barcelona: Both Teams to Score",
-   "slug": "ucl-gal-fcb-2026-10-13-btts",
-   "outcome": "Yes",
-   "token": "37443162601187749513321097667874274612068755591937826249708318424965998039529",
-   "shares": 14.492753623188406,
-   "entry": 0.69,
-   "cost": 10.0,
-   "opened": 1791885951.769025,
-   "opened_iso": "2026-10-13T10:05:51+00:00",
-   "news": "GALATASARAY-BARCELLONA: Both Teams to Score = Yes (esatto)",
-   "reason": "pengwin exact: Base pick 'segno gol' matches Polymarket market 20 (Both Teams to Score) with outcome Yes",
-   "conf": 1.0,
-   "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false
-  },
-  {
    "market_id": "5159880",
    "question": "RB Leipzig vs. PSV: Both Teams to Score",
    "slug": "ucl-rbl-psv-2026-10-13-btts",
@@ -125,8 +107,9 @@
    "reason": "pengwin approx: Base pick is GG + over 7.5 corners; only GG matches market 21",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.09,
-   "book_err": false
+   "last_bid": null,
+   "book_err": false,
+   "settle_retry": 1791926773.7206378
   }
  ],
  "closed": [
@@ -382,6 +365,29 @@
    "pnl": -10.0,
    "why": "resolved",
    "closed_iso": "2026-10-13T19:01:31+00:00"
+  },
+  {
+   "market_id": "5159638",
+   "question": "Galatasaray SK vs. FC Barcelona: Both Teams to Score",
+   "slug": "ucl-gal-fcb-2026-10-13-btts",
+   "outcome": "Yes",
+   "token": "37443162601187749513321097667874274612068755591937826249708318424965998039529",
+   "shares": 14.492753623188406,
+   "entry": 0.69,
+   "cost": 10.0,
+   "opened": 1791885951.769025,
+   "opened_iso": "2026-10-13T10:05:51+00:00",
+   "news": "GALATASARAY-BARCELLONA: Both Teams to Score = Yes (esatto)",
+   "reason": "pengwin exact: Base pick 'segno gol' matches Polymarket market 20 (Both Teams to Score) with outcome Yes",
+   "conf": 1.0,
+   "end": "2026-10-13T19:00:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1791926529.9203358,
+   "exit": 1.0,
+   "pnl": 4.492753623188406,
+   "why": "resolved",
+   "closed_iso": "2026-10-13T21:12:10+00:00"
   }
  ],
  "cooldown": {
@@ -395,6 +401,7 @@
   "5064546": 1791754427.7966242,
   "5067010": 1791756222.2289855,
   "5064385": 1791771348.1136951,
-  "5134415": 1791928891.047207
+  "5134415": 1791928891.047207,
+  "5159638": 1791936730.510244
  }
 }

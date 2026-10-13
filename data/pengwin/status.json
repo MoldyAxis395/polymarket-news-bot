@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-13T22:51:00",
+ "updated": "2026-10-13T23:21:17",
  "start": 100.0,
- "cash": 70.38,
- "equity": 143.23,
+ "cash": 84.87,
+ "equity": 151.99,
  "open": [
   {
    "market_id": "5159510",
@@ -57,7 +57,7 @@
    "end": "2026-10-13T19:00:00+00:00",
    "last_bid": null,
    "book_err": false,
-   "settle_retry": 1791925198.7458348
+   "settle_retry": 1791927077.308972
   },
   {
    "market_id": "5159580",
@@ -96,24 +96,6 @@
    "book_err": false
   },
   {
-   "market_id": "5159638",
-   "question": "Galatasaray SK vs. FC Barcelona: Both Teams to Score",
-   "slug": "ucl-gal-fcb-2026-10-13-btts",
-   "outcome": "Yes",
-   "token": "37443162601187749513321097667874274612068755591937826249708318424965998039529",
-   "shares": 14.492753623188406,
-   "entry": 0.69,
-   "cost": 10.0,
-   "opened": 1791885951.769025,
-   "opened_iso": "2026-10-13T10:05:51+00:00",
-   "news": "GALATASARAY-BARCELLONA: Both Teams to Score = Yes (esatto)",
-   "reason": "pengwin exact: Base pick 'segno gol' matches Polymarket market 20 (Both Teams to Score) with outcome Yes",
-   "conf": 1.0,
-   "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false
-  },
-  {
    "market_id": "5159880",
    "question": "RB Leipzig vs. PSV: Both Teams to Score",
    "slug": "ucl-rbl-psv-2026-10-13-btts",
@@ -128,12 +110,13 @@
    "reason": "pengwin approx: Base pick is GG + over 7.5 corners; only GG matches market 21",
    "conf": 1.0,
    "end": "2026-10-13T19:00:00+00:00",
-   "last_bid": 0.09,
-   "book_err": false
+   "last_bid": null,
+   "book_err": false,
+   "settle_retry": 1791926773.7206378
   }
  ],
- "closed_count": 11,
- "realized_pnl": 40.38,
+ "closed_count": 12,
+ "realized_pnl": 44.87,
  "pages": {
   "pending": 114,
   "picked": 0,
