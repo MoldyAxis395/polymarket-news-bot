@@ -10329,3 +10329,40 @@
 2026-10-14 16:02:12 indexed 1056 markets
 2026-10-14 16:04:04   drop[kind] SUFC News: Bristol City targeting injury boost vs United as they face waiting game (sheffieldtelegraph.co.uk) :: other
 2026-10-14 16:05:56 shift over, state saved
+2026-10-14 16:18:20 === start mode=paper pid=2139 ===
+2026-10-14 16:18:20 brain=llm cash=84.41 open=0
+2026-10-14 16:18:20 resuming with 6254 known news items
+2026-10-14 16:18:48 indexed 1055 markets
+2026-10-14 16:18:59 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 61)
+2026-10-14 16:19:03 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 61)
+2026-10-14 16:19:06 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 61)
+2026-10-14 16:19:09 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 61)
+2026-10-14 16:19:13 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 61)
+2026-10-14 16:19:16 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 60)
+2026-10-14 16:19:19   llm groq-120b: rate limited, skip 106s
+2026-10-14 16:19:19 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 61)
+2026-10-14 16:19:22 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 61)
+2026-10-14 16:19:25 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 61)
+2026-10-14 16:19:28 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 61)
+2026-10-14 16:19:31 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 61)
+2026-10-14 16:19:34 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 61)
+2026-10-14 16:19:36 [pengwin] MONACO-TOLOSA: no Polymarket event (try 61)
+2026-10-14 16:19:39   llm groq-20b: rate limited, skip 230s
+2026-10-14 16:19:39 [pengwin] BREST-ANGERS: no Polymarket event (try 61)
+2026-10-14 16:19:41 [pengwin] PSG-LE MANS: no Polymarket event (try 61)
+2026-10-14 16:19:44 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 60)
+2026-10-14 16:19:46 [pengwin] RENNES-AUXERRE: no Polymarket event (try 61)
+2026-10-14 16:19:49 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 61)
+2026-10-14 16:19:51 [pengwin] AUXERRE-BREST: no Polymarket event (try 61)
+2026-10-14 16:20:41 [pengwin] LAZIO-INTER: no Polymarket event (try 61)
+2026-10-14 16:20:44 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 61)
+2026-10-14 16:20:46 [pengwin] INTER-COMO: no Polymarket event (try 61)
+2026-10-14 16:20:48 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 61)
+2026-10-14 16:20:50 [pengwin] COMO-INTER: no Polymarket event (try 61)
+2026-10-14 16:20:53 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 61)
+2026-10-14 16:20:55 [pengwin] NAPOLI-COMO: no Polymarket event (try 61)
+2026-10-14 16:20:58 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 61)
+2026-10-14 16:21:02 [pengwin] FIORENTINA-COMO: no LLM answer (try 61)
+2026-10-14 16:21:26   drop[kind] The Doctor Is In: Evaluating Roman Wilson’s Finger Injury (Steelers Depot) :: other
+2026-10-14 16:21:28   llm groq-120b: rate limited, skip 416s
+2026-10-14 16:21:28 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 61)
