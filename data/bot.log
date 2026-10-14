@@ -10827,3 +10827,20 @@
 2026-10-14 21:23:34 [pengwin] RENNES-AUXERRE: no Polymarket event (try 71)
 2026-10-14 21:23:37 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 71)
 2026-10-14 21:23:39 [pengwin] AUXERRE-BREST: no Polymarket event (try 71)
+2026-10-14 21:24:29 [pengwin] LAZIO-INTER: no Polymarket event (try 71)
+2026-10-14 21:24:31 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 71)
+2026-10-14 21:24:34 [pengwin] INTER-COMO: no Polymarket event (try 71)
+2026-10-14 21:24:36 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 70)
+2026-10-14 21:24:38 [pengwin] COMO-INTER: no Polymarket event (try 71)
+2026-10-14 21:24:40 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 71)
+2026-10-14 21:24:42 [pengwin] NAPOLI-COMO: no Polymarket event (try 71)
+2026-10-14 21:24:45 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 71)
+2026-10-14 21:25:12 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 71)
+2026-10-14 21:26:32   llm groq-20b: rate limited, skip 43s
+2026-10-14 21:29:34 indexed 933 markets
+2026-10-14 21:31:10   drop[1-source] Giardi: Patriots finally get some good news on the injury front (Boston Sports Journal) :: Mac Jones, wait 2nd source
+2026-10-14 21:38:02   drop[kind] DraftKings’ DKeX Self-Certifies Injury-Protected Markets (https://www.ingame.com/) :: other
+2026-10-14 21:39:36 indexed 926 markets
+2026-10-14 21:49:38 indexed 928 markets
+2026-10-14 21:52:13   drop[kind] Patriots’ Will Campbell feeling ‘good’ after suffering knee injury in Week 5 (Boston Herald) :: other
+2026-10-14 21:52:44   drop[verify] Marvin Harrison Jr. (WR, Houston Texans) cleared to play: Out -> Active [NFL] (ESPN) :: uncertain if Harrison still on Texans
