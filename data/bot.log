@@ -10863,3 +10863,54 @@
 2026-10-14 22:37:02 [pengwin] NAPOLI-COMO: no Polymarket event (try 71)
 2026-10-14 22:37:04 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 71)
 2026-10-14 22:37:31 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 71)
+2026-10-14 22:41:37   drop[team-not-named] Patriots Week 6 Injury Report: A.J. Brown Returns, OTs Banged Up Bad (Sports Illustrated) :: Philadelphia Eagles
+2026-10-14 22:44:26 indexed 907 markets
+2026-10-14 22:50:54   drop[1-source] Steelers DT Keeanu Benton misses practice with ankle injury (TribLIVE.com) :: Keeanu Benton, wait 2nd source
+2026-10-14 22:50:55   llm groq-120b: rate limited, skip 53s
+2026-10-14 22:50:55   drop[kind] Colts list Daniel Jones as full practice participant with ankle injury (NBC Sports) :: other
+2026-10-14 22:50:56   drop[kind] Sean Combs reportedly suffers head injury after prison clash (NZ Herald) :: other
+2026-10-14 22:54:27 indexed 917 markets
+2026-10-14 23:02:14   llm groq-120b: rate limited, skip 2s
+2026-10-14 23:02:15 NEWS [heavy.com 3m] Jaguars’ Anton Harrison Gets Grim Injury Diagnosis
+2026-10-14 23:02:15   skip Texans :: Texans vs. Jaguars (low conf 0.6)
+2026-10-14 23:03:38   drop[not-key] Evan Svoboda (TE, Los Angeles Chargers) ruled out: healthy -> Out [NFL] (ESPN) :: Evan Svoboda: ruled out due to injury
+2026-10-14 23:04:28 indexed 913 markets
+2026-10-14 23:04:33   drop[kind] Daniel Jones (ankle) listed on injury report, but was full participant in practice (WISH-TV) :: other
+2026-10-14 23:04:33   llm groq-120b: rate limited, skip 80s
+2026-10-14 23:04:34   drop[unconfirmed] Barcola shines as Liverpool score six to beat LASK (BBC) :: win
+2026-10-14 23:04:34   drop[not-key] Yoro sent off as Man Utd stumble to defeat against Atletico Madrid (BBC) :: Leny Yoro: sent off
+2026-10-14 23:04:35   llm groq-20b: rate limited, skip 53s
+2026-10-14 23:04:35   drop[no-pick] Tresoldi hat-trick fires Club Brugge to victory over Inter in seven-goal thriller (BBC) :: None
+2026-10-14 23:04:35 NEWS [BBC 4m] Sabah beat Slavia Prague to secure historic Champions League win
+2026-10-14 23:04:35   skip Bilbao Basket :: Bilbao Basket vs. SK Slavia Prague (rules fallback, LLM down (not traded))
+2026-10-14 23:05:31   drop[kind] Guyanese opposition leader arrested after shots fired outside home of police official reut (Reuters) :: other
+2026-10-14 23:06:10 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 72)
+2026-10-14 23:06:13 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 72)
+2026-10-14 23:06:15 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 72)
+2026-10-14 23:06:18   llm groq-120b: rate limited, skip 148s
+2026-10-14 23:06:18 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 72)
+2026-10-14 23:06:21   llm groq-20b: rate limited, skip 125s
+2026-10-14 23:06:21 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 71)
+2026-10-14 23:06:24 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 72)
+2026-10-14 23:06:26 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 72)
+2026-10-14 23:06:29 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 72)
+2026-10-14 23:06:31 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 72)
+2026-10-14 23:06:33 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 72)
+2026-10-14 23:06:36 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 72)
+2026-10-14 23:06:38 [pengwin] MONACO-TOLOSA: no Polymarket event (try 72)
+2026-10-14 23:06:41 [pengwin] BREST-ANGERS: no Polymarket event (try 72)
+2026-10-14 23:06:43 [pengwin] PSG-LE MANS: no Polymarket event (try 72)
+2026-10-14 23:06:46 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 71)
+2026-10-14 23:06:48 [pengwin] RENNES-AUXERRE: no Polymarket event (try 72)
+2026-10-14 23:06:51 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 72)
+2026-10-14 23:06:53 [pengwin] AUXERRE-BREST: no Polymarket event (try 72)
+2026-10-14 23:07:44 [pengwin] LAZIO-INTER: no Polymarket event (try 72)
+2026-10-14 23:07:46 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 72)
+2026-10-14 23:07:48 [pengwin] INTER-COMO: no Polymarket event (try 72)
+2026-10-14 23:07:50 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 71)
+2026-10-14 23:07:52 [pengwin] COMO-INTER: no Polymarket event (try 72)
+2026-10-14 23:07:55 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 72)
+2026-10-14 23:07:57 [pengwin] NAPOLI-COMO: no Polymarket event (try 72)
+2026-10-14 23:07:59 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 72)
+2026-10-14 23:08:27   llm groq-20b: rate limited, skip 32s
+2026-10-14 23:08:27 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 72)
