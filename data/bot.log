@@ -10408,3 +10408,54 @@
 2026-10-14 16:51:05 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 62)
 2026-10-14 16:51:09 [pengwin] FIORENTINA-COMO: no LLM answer (try 62)
 2026-10-14 16:51:35 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 62)
+2026-10-14 16:59:01 indexed 1024 markets
+2026-10-14 17:00:38   drop[kind] Bruce Prichard Set For Neck Surgery Over 1991 Injury (SEScoops) :: other
+2026-10-14 17:02:54   drop[team-not-named] Hearts suffer injury woe ahead of Conference League opener as midfielder out 'longer than  (The Scotsman) :: Heart of Midlothian FC
+2026-10-14 17:02:54   llm groq-120b: rate limited, skip 99s
+2026-10-14 17:02:55   drop[kind] Six Flags' Month of Trouble: Fatal Goliath Fall, X2 Injury Claims, $5B Debt and Stock Slid (International Business Times UK) :: other
+2026-10-14 17:05:35   llm groq-120b: rate limited, skip 52s
+2026-10-14 17:05:35 NEWS [ESPN 15m] Braden Smith (OT, Houston Texans) cleared to play: Injured Reserve -> Active [NFL]
+2026-10-14 17:05:35   skip Texans :: Texans vs. Jaguars (low conf 0.6)
+2026-10-14 17:07:29   llm groq-120b: rate limited, skip 93s
+2026-10-14 17:07:29   drop[1-source] Corinthians announce Raniele meniscus injury suffered against Palmeiras (OneFootball) :: Raniele, wait 2nd source
+2026-10-14 17:09:02 indexed 1043 markets
+2026-10-14 17:12:13   drop[1-source] Caleb Williams injury: Bears QB ‘inching’ toward return vs. Falcons (SB Nation) :: Caleb Williams, wait 2nd source
+2026-10-14 17:16:51   drop[team-not-named] While on working visit: Mobility Minister Backes to limit travel following knee injury (RTL Today) :: German government
+2026-10-14 17:16:51   llm groq-120b: rate limited, skip 716s
+2026-10-14 17:16:52   drop[unconfirmed] Marvin Senaya takes major step towards comeback after World Cup injury (GhanaWeb) :: comeback
+2026-10-14 17:16:55   drop[unconfirmed] Reuters reviewed President Trump's clemency for public officials charged with or convicted (Reuters) :: clemency review
+2026-10-14 17:18:45 [pengwin] league uefa-europa-conference-league: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-14 17:19:05 indexed 1041 markets
+2026-10-14 17:19:06   llm groq-20b: rate limited, skip 11s
+2026-10-14 17:19:06 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 63)
+2026-10-14 17:19:10 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 63)
+2026-10-14 17:19:13 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 63)
+2026-10-14 17:19:15 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 63)
+2026-10-14 17:19:18 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 63)
+2026-10-14 17:19:21   llm groq-20b: rate limited, skip 64s
+2026-10-14 17:19:21 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 62)
+2026-10-14 17:19:24 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 63)
+2026-10-14 17:19:26 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 63)
+2026-10-14 17:19:28 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 63)
+2026-10-14 17:19:31 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 63)
+2026-10-14 17:19:33 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 63)
+2026-10-14 17:19:37 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 63)
+2026-10-14 17:19:39 [pengwin] MONACO-TOLOSA: no Polymarket event (try 63)
+2026-10-14 17:19:41 [pengwin] BREST-ANGERS: no Polymarket event (try 63)
+2026-10-14 17:19:43 [pengwin] PSG-LE MANS: no Polymarket event (try 63)
+2026-10-14 17:19:46 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 62)
+2026-10-14 17:19:49 [pengwin] RENNES-AUXERRE: no Polymarket event (try 63)
+2026-10-14 17:19:51 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 63)
+2026-10-14 17:19:53 [pengwin] AUXERRE-BREST: no Polymarket event (try 63)
+2026-10-14 17:20:44   llm groq-20b: rate limited, skip 7s
+2026-10-14 17:20:44 [pengwin] LAZIO-INTER: no Polymarket event (try 63)
+2026-10-14 17:20:46 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 63)
+2026-10-14 17:20:49 [pengwin] INTER-COMO: no Polymarket event (try 63)
+2026-10-14 17:20:51 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 63)
+2026-10-14 17:20:53   llm groq-20b: rate limited, skip 25s
+2026-10-14 17:20:53 [pengwin] COMO-INTER: no Polymarket event (try 63)
+2026-10-14 17:20:55 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 63)
+2026-10-14 17:20:57 [pengwin] NAPOLI-COMO: no Polymarket event (try 63)
+2026-10-14 17:20:59 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 63)
+2026-10-14 17:21:27   llm groq-20b: rate limited, skip 589s
+2026-10-14 17:21:27 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 63)
