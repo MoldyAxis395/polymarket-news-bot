@@ -1,57 +1,31 @@
 {
- "updated": "2026-10-14T08:18:53",
+ "updated": "2026-10-14T10:25:39",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 345,
- "markets_indexed": 905,
- "news_processed": 177,
- "cash": 74.23,
+ "llm_calls_today": 374,
+ "markets_indexed": 910,
+ "news_processed": 18,
+ "cash": 84.41,
  "equity": 84.41,
  "start": 100.0,
- "open": [
-  {
-   "market_id": "4640805",
-   "question": "Stars vs. Avalanche",
-   "slug": "nhl-dal-col-2026-10-14",
-   "outcome": "Avalanche",
-   "token": "4254644586617656734185561588986828229470903113827775756437260058530975302197",
-   "shares": 17.857142857142854,
-   "entry": 0.56,
-   "cost": 10.0,
-   "opened": 1791938095.1572797,
-   "opened_iso": "2026-10-14T00:34:55+00:00",
-   "news": "Wyatt Johnston (C, Dallas Stars) ruled out: healthy -> Out [NHL]",
-   "reason": "llm[groq-20b] trusted: Johnston out hurts Stars, so Avalanche win probability should rise",
-   "conf": 0.65,
-   "end": "2026-10-15T00:30:00+00:00",
-   "last_bid": 0.57,
-   "book_err": false,
-   "settle_retry": 1791952358.571998
-  }
- ],
- "closed_count": 87,
+ "open": [],
+ "closed_count": 88,
  "llm": {
   "backends": [
    "groq-120b",
    "groq-20b"
   ],
-  "fallbacks": 12,
-  "errors": {
-   "groq-20b": "rate limited, skip 131s"
-  },
+  "fallbacks": 0,
+  "errors": {},
   "rejects": {
-   "not-key": 2,
-   "1-source": 16,
-   "fluff": 32,
-   "team-not-named": 7,
-   "kind": 16,
+   "fluff": 2,
    "no-market": 1,
-   "no-pick": 1
+   "kind": 1
   },
   "calls": {
-   "groq-120b": 146,
+   "groq-120b": 175,
    "groq-20b": 199
   }
  },
- "realized_pnl": -15.77
+ "realized_pnl": -15.59
 }

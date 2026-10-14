@@ -1,26 +1,6 @@
 {
- "cash": 74.23295247618618,
- "positions": [
-  {
-   "market_id": "4640805",
-   "question": "Stars vs. Avalanche",
-   "slug": "nhl-dal-col-2026-10-14",
-   "outcome": "Avalanche",
-   "token": "4254644586617656734185561588986828229470903113827775756437260058530975302197",
-   "shares": 17.857142857142854,
-   "entry": 0.56,
-   "cost": 10.0,
-   "opened": 1791938095.1572797,
-   "opened_iso": "2026-10-14T00:34:55+00:00",
-   "news": "Wyatt Johnston (C, Dallas Stars) ruled out: healthy -> Out [NHL]",
-   "reason": "llm[groq-20b] trusted: Johnston out hurts Stars, so Avalanche win probability should rise",
-   "conf": 0.65,
-   "end": "2026-10-15T00:30:00+00:00",
-   "last_bid": 0.57,
-   "book_err": false,
-   "settle_retry": 1791952358.571998
-  }
- ],
+ "cash": 84.41152390475762,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -1887,6 +1867,29 @@
    "pnl": 0.0,
    "why": "market closing",
    "closed_iso": "2026-10-12T00:15:21+00:00"
+  },
+  {
+   "market_id": "4640805",
+   "question": "Stars vs. Avalanche",
+   "slug": "nhl-dal-col-2026-10-14",
+   "outcome": "Avalanche",
+   "token": "4254644586617656734185561588986828229470903113827775756437260058530975302197",
+   "shares": 17.857142857142854,
+   "entry": 0.56,
+   "cost": 10.0,
+   "opened": 1791938095.1572797,
+   "opened_iso": "2026-10-14T00:34:55+00:00",
+   "news": "Wyatt Johnston (C, Dallas Stars) ruled out: healthy -> Out [NHL]",
+   "reason": "llm[groq-20b] trusted: Johnston out hurts Stars, so Avalanche win probability should rise",
+   "conf": 0.65,
+   "end": "2026-10-15T00:30:00+00:00",
+   "last_bid": 0.57,
+   "book_err": false,
+   "settle_retry": 1791952358.571998,
+   "exit": 0.57,
+   "pnl": 0.17857142857142527,
+   "why": "max hold",
+   "closed_iso": "2026-10-14T08:21:39+00:00"
   }
  ],
  "cooldown": {
@@ -1943,6 +1946,7 @@
   "5428024": 1791530275.8413374,
   "5224522": 1791524954.8634791,
   "4058840": 1791527502.917582,
-  "4024677": 1791760822.2038703
+  "4024677": 1791760822.2038703,
+  "4640805": 1791976899.3379605
  }
 }
