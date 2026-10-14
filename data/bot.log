@@ -9322,3 +9322,14 @@
 2026-10-14 02:20:29 indexed 929 markets
 2026-10-14 02:21:20   llm groq-120b: rate limited, skip 124s
 2026-10-14 02:21:20   drop[kind] Accused Slasher Claims Notoriety Taints Jury Pool, Eye Witness With Head Injury Excluded (St. Thomas Source) :: other
+2026-10-14 02:25:05 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-14 02:26:10   llm groq-120b: rate limited, skip 82s
+2026-10-14 02:26:10   drop[no-pick] Rams’ Alaric Jackson suspended for game against Cardinals (Arizona Sports) :: short
+2026-10-14 02:28:15   llm groq-120b: rate limited, skip 44s
+2026-10-14 02:28:16   drop[not-key] Wild Dealt Yet Another Concerning Injury Blow (Heavy.com) :: Mason Marchment: injury
+2026-10-14 02:30:29 indexed 925 markets
+2026-10-14 02:30:31   drop[not-key] Zachary L'Heureux (LW, Colorado Avalanche) ruled out: healthy -> Out [NHL] (ESPN) :: Zachary L'Heureux: healthy out
+2026-10-14 02:30:35   llm groq-120b: rate limited, skip 170s
+2026-10-14 02:30:36   drop[kind] Breaking News: Student injury occurs after hours at Carlmont (Scot Scoop News) :: other
+2026-10-14 02:32:53   drop[no-pick] Rams’ Alaric Jackson suspended 2 games for punching Bradley Chubb (Ahn Fire Digital) :: short
+2026-10-14 02:33:52 shift over, state saved
