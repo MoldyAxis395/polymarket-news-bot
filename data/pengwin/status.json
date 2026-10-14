@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-14T20:21:07",
+ "updated": "2026-10-14T20:51:12",
  "start": 100.0,
- "cash": 102.16,
- "equity": 136.12,
+ "cash": 92.16,
+ "equity": 135.9,
  "open": [
   {
    "market_id": "5186926",
@@ -58,14 +58,32 @@
    "end": "2026-10-17T18:45:00+00:00",
    "last_bid": 0.6,
    "book_err": false
+  },
+  {
+   "market_id": "5269776",
+   "question": "Valencia CF vs. Athletic Club: O/U 4.5",
+   "slug": "lal-val-bil-2026-10-17-total-4pt5",
+   "outcome": "Under",
+   "token": "4312926567473735600421100749547503202745385302139644556880103456436684638980",
+   "shares": 10.989010989010989,
+   "entry": 0.91,
+   "cost": 10.0,
+   "opened": 1792002168.8345385,
+   "opened_iso": "2026-10-14T18:22:48+00:00",
+   "news": "Vallecano-Athletic Bilbao: VALENCIA CF O/U 3.5 UNDER (approssimato)",
+   "reason": "pengwin approx: approximates Multigol 1-3 casa",
+   "conf": 1.0,
+   "end": "2026-10-17T19:00:00+00:00",
+   "last_bid": 0.89,
+   "book_err": false
   }
  ],
  "closed_count": 17,
  "realized_pnl": 32.16,
  "pages": {
-  "pending": 111,
+  "pending": 110,
   "picked": 0,
-  "traded": 20,
+  "traded": 21,
   "skipped": 40,
   "expired": 0
  }
