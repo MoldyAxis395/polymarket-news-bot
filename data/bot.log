@@ -10990,3 +10990,43 @@
 2026-10-15 00:08:38 [pengwin] RENNES-AUXERRE: no Polymarket event (try 74)
 2026-10-15 00:08:41 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 74)
 2026-10-15 00:08:44 [pengwin] AUXERRE-BREST: no Polymarket event (try 74)
+2026-10-15 00:09:08   llm groq-120b: rate limited, skip 174s
+2026-10-15 00:09:08   llm groq-20b: rate limited, skip 126s
+2026-10-15 00:09:08   drop[no-pick] Wydett Williams Jr. (S, Arizona Cardinals) ruled out: Questionable -> Out [NFL] (ESPN) :: None
+2026-10-15 00:09:08 NEWS [ESPN 4m] Drake Thomas (LB, Seattle Seahawks) ruled out: Questionable -> Out [NFL]
+2026-10-15 00:09:08   skip Broncos :: Seahawks vs. Broncos (rules fallback, LLM down (not traded))
+2026-10-15 00:09:08 NEWS [ESPN 5m] Chazz Surratt (LB, Seattle Seahawks) ruled out: Questionable -> Out [NFL]
+2026-10-15 00:09:08   skip Broncos :: Seahawks vs. Broncos (rules fallback, LLM down (not traded))
+2026-10-15 00:09:34 [pengwin] LAZIO-INTER: no Polymarket event (try 74)
+2026-10-15 00:09:36 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 74)
+2026-10-15 00:09:39 [pengwin] INTER-COMO: no Polymarket event (try 74)
+2026-10-15 00:09:41 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 73)
+2026-10-15 00:09:42 [pengwin] COMO-INTER: no Polymarket event (try 74)
+2026-10-15 00:09:45 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 74)
+2026-10-15 00:09:47 [pengwin] NAPOLI-COMO: no Polymarket event (try 74)
+2026-10-15 00:09:49 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 74)
+2026-10-15 00:10:17 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 74)
+2026-10-15 00:11:35   llm groq-20b: rate limited, skip 413s
+2026-10-15 00:14:04   llm groq-120b: rate limited, skip 259s
+2026-10-15 00:14:37 indexed 905 markets
+2026-10-15 00:18:31   drop[kind] Injury Report: CB Riley Moss listed as questionable for 'Thursday Night Football' vs. Seah (Denver Broncos) :: other
+2026-10-15 00:18:31   llm groq-120b: rate limited, skip 92s
+2026-10-15 00:18:32   drop[not-key] Zach Charbonnet Injury: Won't return in Week 6 (RotoWire) :: Zach Charbonnet: injury
+2026-10-15 00:23:47   drop[no-pick] Henry To'oTo'o (LB, Houston Texans) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: short
+2026-10-15 00:24:37 indexed 903 markets
+2026-10-15 00:25:27   llm groq-120b: rate limited, skip 345s
+2026-10-15 00:25:27   drop[1-source] Highway 30 tolls suspended during morning rush hour amid Mercier Bridge lane closing (Montreal Gazette) :: Highway 30 tolls, wait 2nd source
+2026-10-15 00:25:28   drop[1-source] Video of Bhopal cop abusing tribal students goes viral, officer suspended (India Today) :: Bhopal Police Department, wait 2nd source
+2026-10-15 00:25:28   llm groq-20b: rate limited, skip 261s
+2026-10-15 00:30:48   drop[no-market] Shakhtar leave it late to complete comeback win against AEK Athens (BBC) :: Shakhtar Donetsk
+2026-10-15 00:32:32   llm groq-120b: rate limited, skip 606s
+2026-10-15 00:32:32   llm groq-20b: rate limited, skip 22s
+2026-10-15 00:32:53 NEWS [ESPN 6m] Grant Calcaterra (TE, Philadelphia Eagles) ruled out: healthy -> Injured Reserve [NFL]
+2026-10-15 00:32:53   skip Panthers :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-15 00:34:38 indexed 901 markets
+2026-10-15 00:34:44   llm groq-20b: rate limited, skip 4s
+2026-10-15 00:34:44 NEWS [Sportsnet.ca 5m] Broncos' Pat Surtain II ruled out vs. Seahawks
+2026-10-15 00:34:44   skip Seahawks :: Seahawks vs. Broncos (rules fallback, LLM down (not traded))
+2026-10-15 00:37:00   drop[kind] Caleb Williams takes another step toward return from hamstring injury (Chicago Bears) :: other
+2026-10-15 00:38:52   llm groq-20b: rate limited, skip 607s
+2026-10-15 00:38:52 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 75)
