@@ -10599,3 +10599,44 @@
 2026-10-14 18:53:27 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 66)
 2026-10-14 18:53:29 [pengwin] COMO-INTER: no Polymarket event (try 66)
 2026-10-14 18:53:32 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 66)
+2026-10-14 18:53:34 [pengwin] NAPOLI-COMO: no Polymarket event (try 66)
+2026-10-14 18:53:37 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 66)
+2026-10-14 18:54:04 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 66)
+2026-10-14 18:56:25   llm groq-120b: rate limited, skip 68s
+2026-10-14 18:58:34   llm groq-120b: rate limited, skip 2s
+2026-10-14 18:58:34   drop[not-key] Omar Cooper Injury: Making return to practice Wednesday (RotoWire) :: Omar Cooper: return to practice
+2026-10-14 18:58:34   llm groq-20b: rate limited, skip 63s
+2026-10-14 18:59:17 indexed 1021 markets
+2026-10-14 19:00:54   drop[team-not-named] Jury returns mixed verdict in Tyreek Hill's battery case reut.rs/4sorp0B (Reuters) :: Miami Dolphins
+2026-10-14 19:00:54   llm groq-120b: rate limited, skip 118s
+2026-10-14 19:00:54   llm groq-20b: rate limited, skip 82s
+2026-10-14 19:05:39   drop[kind] Kai Trump left hospitalized after Miami golf tournament injury required surgery (The Sun) :: other
+2026-10-14 19:07:43   llm groq-120b: rate limited, skip 209s
+2026-10-14 19:07:44   drop[no-pick] Omar Cooper Jr. (WR, New York Jets) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: short
+2026-10-14 19:07:48   llm groq-20b: rate limited, skip 35s
+2026-10-14 19:07:48   drop[no-pick] Falcons' Penix expected to start vs. Bears after suffering rib injury in loss (Sportsnet.ca) :: None
+2026-10-14 19:09:19 indexed 1022 markets
+2026-10-14 19:14:59   drop[1-source] Arsenal gets early Bayern Munich game boost with star man suspended (LiveScore) :: Jamal Musiala, wait 2nd source
+2026-10-14 19:19:19 indexed 1027 markets
+2026-10-14 19:21:40   drop[1-source] Patriots make massive A.J. Brown injury roster move before Week 6 (ClutchPoints) :: A.J. Brown, wait 2nd source
+2026-10-14 19:22:42 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 67)
+2026-10-14 19:22:45   llm groq-120b: rate limited, skip 1194s
+2026-10-14 19:22:45 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 67)
+2026-10-14 19:22:48 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 67)
+2026-10-14 19:22:50 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 67)
+2026-10-14 19:22:54 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 67)
+2026-10-14 19:22:57 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 66)
+2026-10-14 19:23:00 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 67)
+2026-10-14 19:23:03 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 67)
+2026-10-14 19:23:06 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 67)
+2026-10-14 19:23:09   llm groq-20b: rate limited, skip 79s
+2026-10-14 19:23:09 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 67)
+2026-10-14 19:23:11 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 67)
+2026-10-14 19:23:13 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 67)
+2026-10-14 19:23:16 [pengwin] MONACO-TOLOSA: no Polymarket event (try 67)
+2026-10-14 19:23:18 [pengwin] BREST-ANGERS: no Polymarket event (try 67)
+2026-10-14 19:23:20 [pengwin] PSG-LE MANS: no Polymarket event (try 67)
+2026-10-14 19:23:23 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 66)
+2026-10-14 19:23:26 [pengwin] RENNES-AUXERRE: no Polymarket event (try 67)
+2026-10-14 19:23:28 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 67)
+2026-10-14 19:23:30 [pengwin] AUXERRE-BREST: no Polymarket event (try 67)
