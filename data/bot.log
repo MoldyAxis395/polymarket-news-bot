@@ -10815,3 +10815,51 @@
 2026-10-14 22:06:37 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 70)
 2026-10-14 22:07:22 [pengwin]   book error Feyenoord Rotterdam vs. Como 1907: Both Teams to S: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=80832875170763066899553596384091188422260079336976990299438081949796028706320
 2026-10-14 22:07:22 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +4.71 :: Feyenoord Rotterdam vs. Como 1907: Both Teams to Score
+2026-10-14 22:10:26   llm groq-120b: rate limited, skip 71s
+2026-10-14 22:14:24 indexed 920 markets
+2026-10-14 22:16:01   drop[kind] 10-15-26 undocumented immigrant charged in serious injury vehicle vs pedestrian crash in f (RadioPlusInfo.com) :: other
+2026-10-14 22:18:17   drop[1-source] Steelers vs. Buccaneers Injury Report: Jamel Dean returns to practice (Steel Curtain Network) :: Jamel Dean, wait 2nd source
+2026-10-14 22:19:59   llm groq-120b: rate limited, skip 51s
+2026-10-14 22:19:59   drop[kind] Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI t (CNBC) :: other
+2026-10-14 22:20:37   drop[unconfirmed] Tennessee Basketball Star Returns From Serious Injury (Sports Illustrated) :: player returns
+2026-10-14 22:23:04   drop[1-source] Dominic Overby Injury Is Massive Blow To Sputtering Iowa State Offense (Sports Illustrated) :: Dominic Overby, wait 2nd source
+2026-10-14 22:23:05   drop[1-source] Jets’ injury woes linger as Adonai Mitchell undergoes finger procedure (New York Daily News) :: Adonai Mitchell, wait 2nd source
+2026-10-14 22:23:05   llm groq-120b: rate limited, skip 146s
+2026-10-14 22:23:05   drop[not-key] Keeanu Benton misses Steelers’ practice with injury (Behind the Steel Curtain) :: Keeanu Benton: injury
+2026-10-14 22:24:24 indexed 921 markets
+2026-10-14 22:31:20   drop[no-market] Baicha Baidao notes Hong Kong regulator's trading suspension over IPO rigging concerns reu (Reuters) :: Baicha Baidao
+2026-10-14 22:32:25   drop[kind] Darren Waller Tending to toe injury (Fantasy Footballers Podcast) :: other
+2026-10-14 22:32:25   llm groq-120b: rate limited, skip 245s
+2026-10-14 22:32:25   drop[unconfirmed] Kristaps Porzingis Injury: Returns to team facility (RotoWire) :: injury update
+2026-10-14 22:32:26   drop[team-not-named] Dream suffer injury scare as four-time All-Star has surgery ahead of WNBA Finals (The Sun) :: Minnesota Lynx
+2026-10-14 22:34:25 indexed 914 markets
+2026-10-14 22:35:16   llm groq-20b: rate limited, skip 614s
+2026-10-14 22:35:16 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 71)
+2026-10-14 22:35:19 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 71)
+2026-10-14 22:35:21 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 71)
+2026-10-14 22:35:24 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 71)
+2026-10-14 22:35:26 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 70)
+2026-10-14 22:35:29 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 71)
+2026-10-14 22:35:32 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 71)
+2026-10-14 22:35:34 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 71)
+2026-10-14 22:35:37 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 71)
+2026-10-14 22:35:39 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 71)
+2026-10-14 22:35:41 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 71)
+2026-10-14 22:35:43 [pengwin] MONACO-TOLOSA: no Polymarket event (try 71)
+2026-10-14 22:35:46 [pengwin] BREST-ANGERS: no Polymarket event (try 71)
+2026-10-14 22:35:48 [pengwin] PSG-LE MANS: no Polymarket event (try 71)
+2026-10-14 22:35:51 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 70)
+2026-10-14 22:35:54 [pengwin] RENNES-AUXERRE: no Polymarket event (try 71)
+2026-10-14 22:35:56 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 71)
+2026-10-14 22:35:58 [pengwin] AUXERRE-BREST: no Polymarket event (try 71)
+2026-10-14 22:36:48   llm groq-120b: rate limited, skip 173s
+2026-10-14 22:36:48 [pengwin] LAZIO-INTER: no Polymarket event (try 71)
+2026-10-14 22:36:48   drop[1-source] Cincinnati Bengals May Turn to Jack Endries After Tanner Hudson’s Injury (Athlon Sports) :: Tanner Hudson, wait 2nd source
+2026-10-14 22:36:51 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 71)
+2026-10-14 22:36:53 [pengwin] INTER-COMO: no Polymarket event (try 71)
+2026-10-14 22:36:55 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 70)
+2026-10-14 22:36:57 [pengwin] COMO-INTER: no Polymarket event (try 71)
+2026-10-14 22:36:59 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 71)
+2026-10-14 22:37:02 [pengwin] NAPOLI-COMO: no Polymarket event (try 71)
+2026-10-14 22:37:04 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 71)
+2026-10-14 22:37:31 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 71)
