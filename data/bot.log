@@ -10504,3 +10504,50 @@
 2026-10-14 17:51:55 [pengwin] NAPOLI-COMO: no Polymarket event (try 64)
 2026-10-14 17:51:58 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 64)
 2026-10-14 17:52:25 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 64)
+2026-10-14 17:56:08   drop[1-source] Switzerland's 2038 Winter Olympics bid receives funding promise, national referendum ruled (GamesBids.com) :: Switzerland, wait 2nd source
+2026-10-14 17:59:10 indexed 1032 markets
+2026-10-14 18:01:06   llm groq-120b: rate limited, skip 91s
+2026-10-14 18:01:06   drop[no-pick] In wake of Chris Tanev injury, Maple Leafs can't wait to add defenceman (Sportsnet.ca) :: no outcome expected to rise
+2026-10-14 18:03:04   llm groq-120b: rate limited, skip 63s
+2026-10-14 18:03:05   drop[unconfirmed] USC Receiver Trent Mosley Sheds Light on Return From Injury (Sports Illustrated) :: return from injury
+2026-10-14 18:03:05   llm groq-20b: rate limited, skip 344s
+2026-10-14 18:05:22   drop[kind] Aaron Philo limited with shoulder injury, Tramell Jones Jr. taking first-team reps (On3) :: other
+2026-10-14 18:05:22   llm groq-120b: rate limited, skip 305s
+2026-10-14 18:09:12 indexed 1046 markets
+2026-10-14 18:10:19   drop[kind] Pilgrims caught up in Houthi strikes on Saudi Arabia reut.rs/4i0jl0Y (Reuters) :: other
+2026-10-14 18:12:22   drop[1-source] Fred VanVleet back from injury as Rockets chase deeper playoff run (Newsday) :: Fred VanVleet, wait 2nd source
+2026-10-14 18:12:22   llm groq-120b: rate limited, skip 171s
+2026-10-14 18:12:22   drop[not-key] Quinshon Judkins Injury: No longer in boot, but won't practice (RotoWire) :: Quinshon Judkins: injury
+2026-10-14 18:12:23   llm groq-20b: rate limited, skip 228s
+2026-10-14 18:16:58   drop[kind] Montreal Canadiens Injury Coverage Opens Door for Owen Beck (Last Word On Sports) :: other
+2026-10-14 18:19:14 indexed 1044 markets
+2026-10-14 18:20:57 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 65)
+2026-10-14 18:21:00   llm groq-120b: rate limited, skip 282s
+2026-10-14 18:21:01 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 65)
+2026-10-14 18:21:04 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 65)
+2026-10-14 18:21:06 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 65)
+2026-10-14 18:21:09 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 65)
+2026-10-14 18:21:12 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 64)
+2026-10-14 18:21:15   llm groq-20b: rate limited, skip 166s
+2026-10-14 18:21:15 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 65)
+2026-10-14 18:21:17 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 65)
+2026-10-14 18:21:20 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 65)
+2026-10-14 18:21:22 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 65)
+2026-10-14 18:21:24 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 65)
+2026-10-14 18:21:27 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 65)
+2026-10-14 18:21:29 [pengwin] MONACO-TOLOSA: no Polymarket event (try 65)
+2026-10-14 18:21:31 [pengwin] BREST-ANGERS: no Polymarket event (try 65)
+2026-10-14 18:21:33 [pengwin] PSG-LE MANS: no Polymarket event (try 65)
+2026-10-14 18:21:35 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 64)
+2026-10-14 18:21:38 [pengwin] RENNES-AUXERRE: no Polymarket event (try 65)
+2026-10-14 18:21:40 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 65)
+2026-10-14 18:21:42 [pengwin] AUXERRE-BREST: no Polymarket event (try 65)
+2026-10-14 18:22:28 [pengwin] LAZIO-INTER: no Polymarket event (try 65)
+2026-10-14 18:22:30 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 65)
+2026-10-14 18:22:32 [pengwin] INTER-COMO: no Polymarket event (try 65)
+2026-10-14 18:22:35 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 65)
+2026-10-14 18:22:37 [pengwin] COMO-INTER: no Polymarket event (try 65)
+2026-10-14 18:22:39 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 65)
+2026-10-14 18:22:41 [pengwin] NAPOLI-COMO: no Polymarket event (try 65)
+2026-10-14 18:22:43 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 65)
+2026-10-14 18:23:09 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 65)
