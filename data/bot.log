@@ -11030,3 +11030,57 @@
 2026-10-15 00:37:00   drop[kind] Caleb Williams takes another step toward return from hamstring injury (Chicago Bears) :: other
 2026-10-15 00:38:52   llm groq-20b: rate limited, skip 607s
 2026-10-15 00:38:52 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 75)
+2026-10-15 00:38:55 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 75)
+2026-10-15 00:38:57 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 75)
+2026-10-15 00:39:00 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 75)
+2026-10-15 00:39:02 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 74)
+2026-10-15 00:39:05 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 75)
+2026-10-15 00:39:07 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 75)
+2026-10-15 00:39:10 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 75)
+2026-10-15 00:39:13 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 75)
+2026-10-15 00:39:15 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 75)
+2026-10-15 00:39:18 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 75)
+2026-10-15 00:39:20 [pengwin] MONACO-TOLOSA: no Polymarket event (try 75)
+2026-10-15 00:39:22 [pengwin] BREST-ANGERS: no Polymarket event (try 75)
+2026-10-15 00:39:25 [pengwin] PSG-LE MANS: no Polymarket event (try 75)
+2026-10-15 00:39:28 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 74)
+2026-10-15 00:39:30 [pengwin] RENNES-AUXERRE: no Polymarket event (try 75)
+2026-10-15 00:39:33 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 75)
+2026-10-15 00:39:35 [pengwin] AUXERRE-BREST: no Polymarket event (try 75)
+2026-10-15 00:40:25 [pengwin] LAZIO-INTER: no Polymarket event (try 75)
+2026-10-15 00:40:27 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 75)
+2026-10-15 00:40:30 [pengwin] INTER-COMO: no Polymarket event (try 75)
+2026-10-15 00:40:32 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 74)
+2026-10-15 00:40:33 [pengwin] COMO-INTER: no Polymarket event (try 75)
+2026-10-15 00:40:36 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 75)
+2026-10-15 00:40:38 [pengwin] NAPOLI-COMO: no Polymarket event (try 75)
+2026-10-15 00:40:40 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 75)
+2026-10-15 00:41:08 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 75)
+2026-10-15 00:43:58   drop[not-key] LB Drake Thomas among 3 Seahawks ruled out vs Broncos (Seattle Sports) :: Drake Thomas: ruled out for upcoming game vs Broncos
+2026-10-15 00:43:59   drop[kind] Bryce Hall: See Ex’s Alleged Injury Photos After Fight Over Roomba (TMZ) :: other
+2026-10-15 00:44:40 indexed 900 markets
+2026-10-15 00:45:43   drop[kind] Anthropic's Q3 revenue surges 45% to nearly $17 billion reut.rs/3UrwfgM (Reuters) :: other
+2026-10-15 00:45:54   llm groq-120b: rate limited, skip 161s
+2026-10-15 00:45:54   drop[no-pick] FC Cincinnati confirmed lineup vs New England Revolution: Miles Robinson, Pavel Bucha, Dav (ESPN) :: None
+2026-10-15 00:48:11 NEWS [ESPN 12m] Eli Stowers (TE, Philadelphia Eagles) ruled out: healthy -> Injured Reserve [NFL]
+2026-10-15 00:48:11   skip Panthers :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-15 00:51:06   drop[not-key] Jaxon Smith-Njigba Good To Go, Drake Thomas Ruled Out For Seahawks' Week 6 Game at Denver (Seattle Seahawks) :: Drake Thomas: ruled out for Week 6 game
+2026-10-15 00:53:11   llm groq-120b: rate limited, skip 58s
+2026-10-15 00:53:11   drop[1-source] Chris Olave injury report: Saints WR misses practice before Giants game (Saints Wire) :: Chris Olave, wait 2nd source
+2026-10-15 00:54:10   llm groq-120b: rate limited, skip 112s
+2026-10-15 00:54:12   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-15 00:54:12   drop[verify] Atlanta United FC confirmed lineup vs CF Montréal: Enea Mihaj, Tomás Jacob, Tristan Muyumb (ESPN) :: no answer
+2026-10-15 00:54:13   llm groq-20b: rate limited, skip 339s
+2026-10-15 00:54:13   drop[no-pick] D.C. United confirmed lineup vs Red Bull New York: João Peglow, Hosei Kijima, Nikola Marko (ESPN) :: None
+2026-10-15 00:54:41 indexed 904 markets
+2026-10-15 00:54:42 NEWS [ESPN 16m] Pat Surtain II (CB, Denver Broncos) ruled out: Doubtful -> Out [NFL]
+2026-10-15 00:54:42   skip Seahawks :: Seahawks vs. Broncos (rules fallback, LLM down (not traded))
+2026-10-15 00:58:10   llm groq-120b: rate limited, skip 316s
+2026-10-15 01:00:29   llm groq-20b: rate limited, skip 50s
+2026-10-15 01:01:41   drop[unconfirmed] Stuttgart ease to comfortable win against Slovan Bratislava (BBC) :: win
+2026-10-15 01:02:27   llm groq-20b: rate limited, skip 238s
+2026-10-15 01:04:42 indexed 892 markets
+2026-10-15 01:05:15   llm groq-120b: rate limited, skip 355s
+2026-10-15 01:05:15   drop[no-pick] Martinez stands by Man Utd criticism after Atletico defeat reut.rs/47Uw8gQ (Reuters) :: None
+2026-10-15 01:07:06   drop[1-source] Sarawak schools to operate as usual, outdoor activities suspended (Borneo Bulletin) :: Sarawak schools, wait 2nd source
+2026-10-15 01:07:06   llm groq-20b: rate limited, skip 268s
