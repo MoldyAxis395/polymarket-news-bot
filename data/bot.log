@@ -10459,3 +10459,48 @@
 2026-10-14 17:20:59 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 63)
 2026-10-14 17:21:27   llm groq-20b: rate limited, skip 589s
 2026-10-14 17:21:27 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 63)
+2026-10-14 17:29:06 indexed 1039 markets
+2026-10-14 17:30:43   drop[kind] Arizona High School Football Players Suspended For Protest After Starting QB Was Cut For A (BroBible) :: other
+2026-10-14 17:37:37   drop[team-not-named] Fresh injury 'blow' for Hearts' record signing after recent comeback boost (The Herald) :: Heart of Midlothian
+2026-10-14 17:37:38   drop[kind] Liverpool XI vs LASK: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-10-14 17:39:10 indexed 1042 markets
+2026-10-14 17:46:43   drop[team-not-named] Como confirmed lineup vs Feyenoord Rotterdam: Jean Butez, Yan Couto, Maxence Caqueret, Luc (ESPN) :: Olympique Lyonnais
+2026-10-14 17:46:44 NEWS [ESPN 0m] Liverpool confirmed lineup vs LASK Linz: Virgil van Dijk, Milos Kerkez, Víctor Muñoz, Alexis Mac Allister ruled out of starting XI [uefa.champions]
+2026-10-14 17:46:44   skip No :: Will Liverpool FC win on 2026-10-14? (low conf 0.6)
+2026-10-14 17:46:56   llm groq-120b: rate limited, skip 216s
+2026-10-14 17:46:57   drop[kind] UBC researcher to speak about effects of brain injury (Summerland Review) :: other
+2026-10-14 17:49:09 indexed 1044 markets
+2026-10-14 17:49:14   drop[1-source] Canada Reveals Nearly 25,000 Immigration Documents Suspended Over Ebola (Immigration.ca) :: Canada, wait 2nd source
+2026-10-14 17:50:01 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 64)
+2026-10-14 17:50:04 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 64)
+2026-10-14 17:50:08 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 64)
+2026-10-14 17:50:10 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 64)
+2026-10-14 17:50:13 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 64)
+2026-10-14 17:50:17 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 63)
+2026-10-14 17:50:20 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 64)
+2026-10-14 17:50:23 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 64)
+2026-10-14 17:50:26 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 64)
+2026-10-14 17:50:29 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 64)
+2026-10-14 17:50:31   llm groq-20b: rate limited, skip 58s
+2026-10-14 17:50:31 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 64)
+2026-10-14 17:50:35 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 64)
+2026-10-14 17:50:37 [pengwin] MONACO-TOLOSA: no Polymarket event (try 64)
+2026-10-14 17:50:41   llm groq-120b: rate limited, skip 33s
+2026-10-14 17:50:41 [pengwin] BREST-ANGERS: no Polymarket event (try 64)
+2026-10-14 17:50:43 [pengwin] PSG-LE MANS: no Polymarket event (try 64)
+2026-10-14 17:50:45 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 63)
+2026-10-14 17:50:48 [pengwin] RENNES-AUXERRE: no Polymarket event (try 64)
+2026-10-14 17:50:51 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 64)
+2026-10-14 17:50:53 [pengwin] AUXERRE-BREST: no Polymarket event (try 64)
+2026-10-14 17:51:42   llm groq-120b: rate limited, skip 96s
+2026-10-14 17:51:42   llm groq-20b: rate limited, skip 6s
+2026-10-14 17:51:42 [pengwin] LAZIO-INTER: no Polymarket event (try 64)
+2026-10-14 17:51:44 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 64)
+2026-10-14 17:51:46 [pengwin] INTER-COMO: no Polymarket event (try 64)
+2026-10-14 17:51:49 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 64)
+2026-10-14 17:51:51   llm groq-20b: rate limited, skip 336s
+2026-10-14 17:51:51 [pengwin] COMO-INTER: no Polymarket event (try 64)
+2026-10-14 17:51:53 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 64)
+2026-10-14 17:51:55 [pengwin] NAPOLI-COMO: no Polymarket event (try 64)
+2026-10-14 17:51:58 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 64)
+2026-10-14 17:52:25 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 64)
