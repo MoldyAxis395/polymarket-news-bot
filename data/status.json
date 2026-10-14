@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-14T05:09:05",
+ "updated": "2026-10-14T05:39:16",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 185,
- "markets_indexed": 920,
- "news_processed": 93,
+ "llm_calls_today": 211,
+ "markets_indexed": 923,
+ "news_processed": 105,
  "cash": 74.23,
- "equity": 84.05,
+ "equity": 84.23,
  "start": 100.0,
  "open": [
   {
@@ -24,7 +24,7 @@
    "reason": "llm[groq-20b] trusted: Johnston out hurts Stars, so Avalanche win probability should rise",
    "conf": 0.65,
    "end": "2026-10-15T00:30:00+00:00",
-   "last_bid": 0.55,
+   "last_bid": 0.56,
    "book_err": false
   }
  ],
@@ -36,21 +36,20 @@
   ],
   "fallbacks": 8,
   "errors": {
-   "groq-20b": "rate limited, skip 122s",
-   "groq-120b": "rate limited, skip 89s"
+   "groq-20b": "rate limited, skip 42s"
   },
   "rejects": {
    "not-key": 2,
-   "1-source": 7,
-   "fluff": 19,
+   "1-source": 9,
+   "fluff": 20,
    "team-not-named": 4,
-   "kind": 7,
+   "kind": 8,
    "no-market": 1,
    "no-pick": 1
   },
   "calls": {
-   "groq-120b": 67,
-   "groq-20b": 118
+   "groq-120b": 77,
+   "groq-20b": 134
   }
  },
  "realized_pnl": -15.77
