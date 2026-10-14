@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-14T12:55:32",
+ "updated": "2026-10-14T13:25:38",
  "start": 100.0,
  "cash": 102.16,
- "equity": 131.11,
+ "equity": 130.98,
  "open": [
   {
    "market_id": "5186926",
@@ -19,8 +19,9 @@
    "reason": "pengwin approx: Over 1.5 covers 2\u20115 goals for the away team",
    "conf": 1.0,
    "end": "2026-10-14T19:00:00+00:00",
-   "last_bid": 0.76,
-   "book_err": false
+   "last_bid": 0.75,
+   "book_err": false,
+   "settle_retry": 1791976173.9318228
   },
   {
    "market_id": "5159396",
