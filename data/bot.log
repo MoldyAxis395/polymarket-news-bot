@@ -9399,3 +9399,56 @@
 2026-10-14 03:08:36 [pengwin] BODØ/GLIMT-BORUSSIA DORTMUND: no LLM answer (try 2)
 2026-10-14 03:08:39 [pengwin] ASTON VILLA-FENERBAHCE: no LLM answer (try 2)
 2026-10-14 03:08:41 [pengwin] SHAKHTAR-AEK: no LLM answer (try 2)
+2026-10-14 03:12:50   llm groq-120b: rate limited, skip 75s
+2026-10-14 03:12:51   drop[1-source] Penn State football linebacker Alex Tatsch to miss rest of the season (York Daily Record) :: Alex Tatsch, wait 2nd source
+2026-10-14 03:12:51   llm groq-20b: rate limited, skip 529s
+2026-10-14 03:14:11   llm groq-120b: rate limited, skip 6s
+2026-10-14 03:14:49 indexed 923 markets
+2026-10-14 03:17:17   drop[team-not-named] Myles Garrett Injury: Not ready to return to practice (RotoWire) :: Cleveland Browns
+2026-10-14 03:21:04   drop[kind] 🚨🇮🇷🇺🇸 Iranian officials are ramping up tanker attacks to keep oil high through the midterm (X) :: other
+2026-10-14 03:24:49 indexed 916 markets
+2026-10-14 03:28:47   drop[no-market] Taylor Hall Injury: Hurricanes Winger Exits vs. Capitals (www.ginohard.com) :: Carolina Hurricanes
+2026-10-14 03:31:24   drop[1-source] Bears Get Injury Blow After NFL Disqualifies Montez Sweat Ahead of Falcons Game (heavy.com) :: Montez Sweat, wait 2nd source
+2026-10-14 03:34:53 indexed 911 markets
+2026-10-14 03:35:30 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 39)
+2026-10-14 03:35:33 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 39)
+2026-10-14 03:35:37   llm groq-120b: rate limited, skip 4s
+2026-10-14 03:35:37 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 39)
+2026-10-14 03:35:39 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 39)
+2026-10-14 03:35:43 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 39)
+2026-10-14 03:35:46   llm groq-120b: rate limited, skip 47s
+2026-10-14 03:35:47 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 38)
+2026-10-14 03:35:50 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 39)
+2026-10-14 03:35:52 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 39)
+2026-10-14 03:35:55 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 39)
+2026-10-14 03:35:58 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 39)
+2026-10-14 03:36:00 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 39)
+2026-10-14 03:36:03 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 39)
+2026-10-14 03:36:06 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 39)
+2026-10-14 03:36:08   llm groq-20b: rate limited, skip 25s
+2026-10-14 03:36:08 [pengwin] MONACO-TOLOSA: no Polymarket event (try 39)
+2026-10-14 03:36:11 [pengwin] BREST-ANGERS: no Polymarket event (try 39)
+2026-10-14 03:36:13 [pengwin] PSG-LE MANS: no Polymarket event (try 39)
+2026-10-14 03:36:15 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 38)
+2026-10-14 03:36:18 [pengwin] RENNES-AUXERRE: no Polymarket event (try 39)
+2026-10-14 03:36:20 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 39)
+2026-10-14 03:36:22 [pengwin] AUXERRE-BREST: no Polymarket event (try 39)
+2026-10-14 03:37:09   llm groq-120b: rate limited, skip 122s
+2026-10-14 03:37:09 [pengwin] LAZIO-INTER: no Polymarket event (try 39)
+2026-10-14 03:37:12 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 39)
+2026-10-14 03:37:14   llm groq-20b: rate limited, skip 85s
+2026-10-14 03:37:14 [pengwin] INTER-COMO: no Polymarket event (try 39)
+2026-10-14 03:37:16 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 39)
+2026-10-14 03:37:18 [pengwin] COMO-INTER: no Polymarket event (try 39)
+2026-10-14 03:37:20 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 39)
+2026-10-14 03:37:22 [pengwin] NAPOLI-COMO: no Polymarket event (try 39)
+2026-10-14 03:37:24 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 39)
+2026-10-14 03:37:28 [pengwin] FIORENTINA-COMO: no Polymarket event (try 39)
+2026-10-14 03:37:52 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 39)
+2026-10-14 03:38:33 [pengwin] MANCHESTER CITY-PSG: no Polymarket event (try 3)
+2026-10-14 03:38:36 [pengwin] ROMA-REAL MADRID: no LLM answer (try 3)
+2026-10-14 03:38:38 [pengwin] BETIS-PORTO: no LLM answer (try 3)
+2026-10-14 03:38:42   llm groq-20b: rate limited, skip 743s
+2026-10-14 03:38:42 [pengwin] BODØ/GLIMT-BORUSSIA DORTMUND: no LLM answer (try 3)
+2026-10-14 03:38:45 [pengwin] ASTON VILLA-FENERBAHCE: no LLM answer (try 3)
+2026-10-14 03:38:47 [pengwin] SHAKHTAR-AEK: no LLM answer (try 3)
