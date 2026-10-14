@@ -9297,39 +9297,54 @@
 2026-10-14 01:50:42   drop[1-source] Seattle Seahawks Make Jaxon Smith-Njigba Injury Announcement Before Broncos Game (heavy.com) :: Jaxon Smith-Njigba, wait 2nd source
 2026-10-14 01:53:48 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
 2026-10-14 01:54:05   drop[no-pick] Penn State linebacker to miss rest of season with injury (247Sports) :: No listed market involves Penn State or its league, so no price impact expected.
-2026-10-14 01:55:04 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-14 01:56:08   llm groq-120b: rate limited, skip 104s
-2026-10-14 01:56:08   drop[not-key] Liney Ryan Daisy Suffers Leg Injury at Canadiens vs. Sabres (Scouting The Refs) :: Liney Ryan Daisy: leg injury
-2026-10-14 01:56:09   drop[kind] 49ers Eyeing Potential Reunion After Deebo Samuel Injury (Athlon Sports) :: other
-2026-10-14 01:56:09   drop[kind] Major ‘9-1-1’ Star Injured in On-Set Accident (PopCulture.com) :: other
-2026-10-14 02:00:26 indexed 911 markets
-2026-10-14 02:00:31   llm groq-120b: rate limited, skip 117s
-2026-10-14 02:00:32 NEWS [ESPN 16m] Jared Spurgeon (D, Minnesota Wild) ruled out: healthy -> Out [NHL]
-2026-10-14 02:00:32   skip Jets :: Wild vs. Jets (low conf 0.6)
-2026-10-14 02:02:52   llm groq-120b: rate limited, skip 48s
-2026-10-14 02:02:52   drop[not-key] Montez Sweat suspended for two games for violating the NFL's Performance-Enhancing Substan (NFL.com) :: Montez Sweat: suspension
-2026-10-14 02:02:53   drop[kind] Mantha Penalized for Major Boarding Infraction as Matinpalo Exits Game with Injury (SSBCrack) :: other
-2026-10-14 02:07:31   drop[1-source] Lamine Yamal Injury Scare: Barcelona Star Suffers Hamstring Tear Scoring Penalty, World Cu (Bettors Insider) :: Lamine Yamal, wait 2nd source
-2026-10-14 02:09:48 indexed 927 markets
-2026-10-14 02:10:06   drop[not-key] Rams' Alaric Jackson suspended 2 games for striking Bills LB Bradley Chubb after Monday ni (AP News) :: Alaric Jackson: suspended 2 games for striking Bills LB Bradley Chubb
-2026-10-14 02:10:38   llm groq-120b: rate limited, skip 216s
-2026-10-14 02:10:39   drop[kind] Singapore third-quarter GDP growth softens from four-year high but beats estimates (CNBC) :: other
-2026-10-14 02:14:33   drop[1-source] BBC suspended in Afghanistan, New York Public Radio CEO steps down (RadioInfo Australia) :: New York Public Radio, wait 2nd source
-2026-10-14 02:14:53   llm groq-120b: rate limited, skip 235s
-2026-10-14 02:14:54 NEWS [ESPN 5m] Wyatt Johnston (C, Dallas Stars) ruled out: healthy -> Out [NHL]
-2026-10-14 02:14:54   skip Avalanche :: Avalanche vs. Stars (low conf 0.6)
-2026-10-14 02:19:25   drop[kind] Man injured in dirt bike crash in Waterbury, police say (New Haven Register) :: other
-2026-10-14 02:20:29 indexed 929 markets
-2026-10-14 02:21:20   llm groq-120b: rate limited, skip 124s
-2026-10-14 02:21:20   drop[kind] Accused Slasher Claims Notoriety Taints Jury Pool, Eye Witness With Head Injury Excluded (St. Thomas Source) :: other
-2026-10-14 02:25:05 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-14 02:26:10   llm groq-120b: rate limited, skip 82s
-2026-10-14 02:26:10   drop[no-pick] Rams’ Alaric Jackson suspended for game against Cardinals (Arizona Sports) :: short
-2026-10-14 02:28:15   llm groq-120b: rate limited, skip 44s
-2026-10-14 02:28:16   drop[not-key] Wild Dealt Yet Another Concerning Injury Blow (Heavy.com) :: Mason Marchment: injury
-2026-10-14 02:30:29 indexed 925 markets
-2026-10-14 02:30:31   drop[not-key] Zachary L'Heureux (LW, Colorado Avalanche) ruled out: healthy -> Out [NHL] (ESPN) :: Zachary L'Heureux: healthy out
-2026-10-14 02:30:35   llm groq-120b: rate limited, skip 170s
-2026-10-14 02:30:36   drop[kind] Breaking News: Student injury occurs after hours at Carlmont (Scot Scoop News) :: other
-2026-10-14 02:32:53   drop[no-pick] Rams’ Alaric Jackson suspended 2 games for punching Bradley Chubb (Ahn Fire Digital) :: short
-2026-10-14 02:33:52 shift over, state saved
+2026-10-14 02:34:07 === start mode=paper pid=2337 ===
+2026-10-14 02:34:07 brain=llm cash=84.23 open=0
+2026-10-14 02:34:07 resuming with 6013 known news items
+2026-10-14 02:34:31 indexed 925 markets
+2026-10-14 02:34:45 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 37)
+2026-10-14 02:34:49 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 37)
+2026-10-14 02:34:52   llm groq-120b: rate limited, skip 168s
+2026-10-14 02:34:52   drop[not-key] Zachary L'Heureux (LW, Colorado Avalanche) ruled out: healthy -> Out [NHL] (ESPN) :: Zachary L'Heureux: injury
+2026-10-14 02:34:53 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 37)
+2026-10-14 02:34:54 NEWS [ESPN 25m] Wyatt Johnston (C, Dallas Stars) ruled out: healthy -> Out [NHL]
+2026-10-14 02:34:55   BUY Avalanche @ 0.560 x17.9 ($10.00) :: Stars vs. Avalanche
+2026-10-14 02:34:55 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 37)
+2026-10-14 02:34:55   drop[not-key] Jared Spurgeon (D, Minnesota Wild) ruled out: healthy -> Out [NHL] (ESPN) :: Jared Spurgeon: injury
+2026-10-14 02:34:58 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 37)
+2026-10-14 02:35:01 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 36)
+2026-10-14 02:35:05 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 37)
+2026-10-14 02:35:07 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 37)
+2026-10-14 02:35:10 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 37)
+2026-10-14 02:35:13 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 37)
+2026-10-14 02:35:16 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 37)
+2026-10-14 02:35:19 [pengwin] LENS-LIONE: no Polymarket event (try 37)
+2026-10-14 02:35:22 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 37)
+2026-10-14 02:35:24 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 37)
+2026-10-14 02:35:27 [pengwin] MONACO-TOLOSA: no Polymarket event (try 37)
+2026-10-14 02:35:30 [pengwin] BREST-ANGERS: no Polymarket event (try 37)
+2026-10-14 02:35:32 [pengwin] PSG-LE MANS: no Polymarket event (try 37)
+2026-10-14 02:35:35 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 36)
+2026-10-14 02:35:38 [pengwin] RENNES-AUXERRE: no Polymarket event (try 37)
+2026-10-14 02:35:40 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 37)
+2026-10-14 02:35:42 [pengwin] AUXERRE-BREST: no Polymarket event (try 37)
+2026-10-14 02:36:29 [pengwin] LAZIO-INTER: no Polymarket event (try 37)
+2026-10-14 02:36:31 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 37)
+2026-10-14 02:36:34 [pengwin] INTER-COMO: no Polymarket event (try 37)
+2026-10-14 02:36:36 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 37)
+2026-10-14 02:36:38 [pengwin] COMO-INTER: no Polymarket event (try 37)
+2026-10-14 02:36:41 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 37)
+2026-10-14 02:36:43 [pengwin] NAPOLI-COMO: no Polymarket event (try 37)
+2026-10-14 02:36:46 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 37)
+2026-10-14 02:36:50 [pengwin] FIORENTINA-COMO: no Polymarket event (try 37)
+2026-10-14 02:37:14 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 37)
+2026-10-14 02:37:16   drop[1-source] Rams’ Alaric Jackson suspended for punching Bills’ Bradley Chubb (Fingerlakes1.com) :: Alaric Jackson, wait 2nd source
+2026-10-14 02:37:55   llm groq-120b: rate limited, skip 718s
+2026-10-14 02:37:56 [pengwin] skip LASK-LIVERPOOL [chance mix Barcola o Wirtz marcatore DUO]: no matching market
+2026-10-14 02:38:00 [pengwin]   BUY Yes @ 0.680 x14.7 ($10.00) :: Feyenoord Rotterdam vs. Como 1907: Both Teams to Score
+2026-10-14 02:38:04   llm groq-20b: rate limited, skip 786s
+2026-10-14 02:38:04 [pengwin] MANCHESTER CITY-PSG: no LLM answer (try 1)
+2026-10-14 02:38:07 [pengwin] ROMA-REAL MADRID: no LLM answer (try 1)
+2026-10-14 02:38:09 [pengwin] BETIS-PORTO: no LLM answer (try 1)
+2026-10-14 02:38:11 [pengwin] BODØ/GLIMT-BORUSSIA DORTMUND: no LLM answer (try 1)
+2026-10-14 02:38:14 [pengwin] ASTON VILLA-FENERBAHCE: no LLM answer (try 1)
+2026-10-14 02:38:16 [pengwin] SHAKHTAR-AEK: no LLM answer (try 1)

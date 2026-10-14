@@ -1,5 +1,5 @@
 {
- "cash": 122.16073014038194,
+ "cash": 112.16073014038194,
  "positions": [
   {
    "market_id": "5186926",
@@ -17,6 +17,24 @@
    "conf": 1.0,
    "end": "2026-10-14T19:00:00+00:00",
    "last_bid": 0.76,
+   "book_err": false
+  },
+  {
+   "market_id": "5159396",
+   "question": "Feyenoord Rotterdam vs. Como 1907: Both Teams to Score",
+   "slug": "ucl-fey-com-2026-10-14-btts",
+   "outcome": "Yes",
+   "token": "80832875170763066899553596384091188422260079336976990299438081949796028706320",
+   "shares": 14.705882352941176,
+   "entry": 0.68,
+   "cost": 10.0,
+   "opened": 1791938280.6043754,
+   "opened_iso": "2026-10-14T00:38:00+00:00",
+   "news": "FEYENOORD-COMO: GG (esatto)",
+   "reason": "pengwin exact: replicates base pick",
+   "conf": 1.0,
+   "end": "2026-10-14T16:45:00+00:00",
+   "last_bid": 0.67,
    "book_err": false
   }
  ],

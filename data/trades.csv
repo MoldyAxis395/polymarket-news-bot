@@ -174,3 +174,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-11T20:20:21+00:00,SELL,Lions vs. Cardinals,Cardinals,32.26,0.3000,9.68,-0.32,market closing
 2026-10-11T23:14:19+00:00,BUY,Ravens vs. Falcons,Falcons,16.13,0.6200,10.00,,"Aeneas Peebles (DT, Baltimore Ravens) ruled out: Active -> Out [NFL] | llm[groq-20b] trusted: Ravens ruled out, likely boosts Falcons win odds"
 2026-10-12T00:15:21+00:00,SELL,Ravens vs. Falcons,Falcons,16.13,0.6200,10.00,+0.00,market closing
+2026-10-14T00:34:55+00:00,BUY,Stars vs. Avalanche,Avalanche,17.86,0.5600,10.00,,"Wyatt Johnston (C, Dallas Stars) ruled out: healthy -> Out [NHL] | llm[groq-20b] trusted: Johnston out hurts Stars, so Avalanche win probability should rise"
