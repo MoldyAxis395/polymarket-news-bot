@@ -10691,3 +10691,51 @@
 2026-10-14 19:53:32 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 68)
 2026-10-14 19:53:35   llm groq-120b: rate limited, skip 71s
 2026-10-14 19:53:35 [pengwin] AUXERRE-BREST: no Polymarket event (try 68)
+2026-10-14 19:54:02   llm groq-20b: rate limited, skip 165s
+2026-10-14 19:54:25 [pengwin] LAZIO-INTER: no Polymarket event (try 68)
+2026-10-14 19:54:27 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 68)
+2026-10-14 19:54:30 [pengwin] INTER-COMO: no Polymarket event (try 68)
+2026-10-14 19:54:32 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 67)
+2026-10-14 19:54:34 [pengwin] COMO-INTER: no Polymarket event (try 68)
+2026-10-14 19:54:36 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 68)
+2026-10-14 19:54:38 [pengwin] NAPOLI-COMO: no Polymarket event (try 68)
+2026-10-14 19:54:41 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 68)
+2026-10-14 19:55:09 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 68)
+2026-10-14 19:58:41   llm groq-120b: rate limited, skip 78s
+2026-10-14 19:58:41   llm groq-20b: rate limited, skip 61s
+2026-10-14 19:59:23 indexed 1023 markets
+2026-10-14 20:02:09   llm groq-120b: rate limited, skip 791s
+2026-10-14 20:02:09   llm groq-20b: rate limited, skip 23s
+2026-10-14 20:02:09   drop[no-pick] AS Roma confirmed lineup vs Real Madrid: Lorenzo Pellegrini ruled out of starting XI [uefa (ESPN) :: None
+2026-10-14 20:05:38   drop[kind] 'The mentality we need...' Alexander hails forgotten Preston star's 'professionalism' in i (Lancashire Evening Post) :: other
+2026-10-14 20:06:23   llm groq-20b: rate limited, skip 260s
+2026-10-14 20:06:23   drop[no-pick] Real Betis confirmed lineup vs FC Porto: Diego Llorente, Héctor Bellerín, Pablo Fornals, R (ESPN) :: None
+2026-10-14 20:09:26 indexed 1020 markets
+2026-10-14 20:12:35   drop[1-source] 49ers owner Jed York suspended 6 games, fined $500K by NFL (Sun TCI) :: Jed York, wait 2nd source
+2026-10-14 20:17:10   drop[kind] Klint Kubiak refutes report about Ashton Jeanty’s injury, Week 6 status (The Big Lead) :: other
+2026-10-14 20:17:11   drop[1-source] Frat parties suspended at Cornell amid gang rape allegations (CBC) :: Cornell University, wait 2nd source
+2026-10-14 20:19:26 indexed 1016 markets
+2026-10-14 20:22:45   drop[team-not-named] Cleared (Elliotte Friedman) :: 
+2026-10-14 20:22:46   llm groq-120b: rate limited, skip 387s
+2026-10-14 20:22:48 [pengwin]   BUY Under @ 0.910 x11.0 ($10.00) :: Valencia CF vs. Athletic Club: O/U 4.5
+2026-10-14 20:22:52   llm groq-20b: rate limited, skip 322s
+2026-10-14 20:22:52 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 69)
+2026-10-14 20:22:55 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 69)
+2026-10-14 20:22:58 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 69)
+2026-10-14 20:22:58 NEWS [ESPN 17m] Talanoa Hufanga (S, Denver Broncos) ruled out: Questionable -> Out [NFL]
+2026-10-14 20:22:58   skip Seahawks :: Seahawks vs. Broncos (rules fallback, LLM down (not traded))
+2026-10-14 20:23:00 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 69)
+2026-10-14 20:23:03 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 68)
+2026-10-14 20:23:06 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 69)
+2026-10-14 20:23:08 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 69)
+2026-10-14 20:23:11 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 69)
+2026-10-14 20:23:15 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 69)
+2026-10-14 20:23:17 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 69)
+2026-10-14 20:23:19 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 69)
+2026-10-14 20:23:21 [pengwin] MONACO-TOLOSA: no Polymarket event (try 69)
+2026-10-14 20:23:24 [pengwin] BREST-ANGERS: no Polymarket event (try 69)
+2026-10-14 20:23:26 [pengwin] PSG-LE MANS: no Polymarket event (try 69)
+2026-10-14 20:23:29 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 68)
+2026-10-14 20:23:32 [pengwin] RENNES-AUXERRE: no Polymarket event (try 69)
+2026-10-14 20:23:34 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 69)
+2026-10-14 20:23:36 [pengwin] AUXERRE-BREST: no Polymarket event (try 69)
