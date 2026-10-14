@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-14T11:25:08",
+ "updated": "2026-10-14T11:55:15",
  "start": 100.0,
  "cash": 102.16,
- "equity": 131.26,
+ "equity": 131.11,
  "open": [
   {
    "market_id": "5186926",
@@ -37,7 +37,7 @@
    "reason": "pengwin exact: replicates base pick",
    "conf": 1.0,
    "end": "2026-10-14T16:45:00+00:00",
-   "last_bid": 0.66,
+   "last_bid": 0.65,
    "book_err": false
   },
   {
