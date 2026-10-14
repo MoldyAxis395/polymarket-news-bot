@@ -10324,3 +10324,8 @@
 2026-10-14 15:54:46 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 60)
 2026-10-14 15:54:50 [pengwin] FIORENTINA-COMO: no LLM answer (try 60)
 2026-10-14 15:55:16 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 60)
+2026-10-14 15:56:52   drop[1-source] Brighton v Kauno Zalgiris confirmed injury news: Eight out, two return and one doubt (SussexWorld) :: Brighton & Hove Albion, wait 2nd source
+2026-10-14 16:01:13 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-14 16:02:12 indexed 1056 markets
+2026-10-14 16:04:04   drop[kind] SUFC News: Bristol City targeting injury boost vs United as they face waiting game (sheffieldtelegraph.co.uk) :: other
+2026-10-14 16:05:56 shift over, state saved
