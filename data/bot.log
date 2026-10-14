@@ -9749,3 +9749,26 @@
 2026-10-14 07:09:20 [pengwin] NAPOLI-COMO: no Polymarket event (try 46)
 2026-10-14 07:09:22 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 46)
 2026-10-14 07:09:26 [pengwin] FIORENTINA-COMO: no Polymarket event (try 46)
+2026-10-14 07:09:51 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 46)
+2026-10-14 07:15:22 indexed 902 markets
+2026-10-14 07:17:46   drop[1-source] KakaoBank, "Financial Services to Be Temporarily Suspended in Early Hours of the 18th... S (아시아경제) :: KakaoBank, wait 2nd source
+2026-10-14 07:25:18 indexed 896 markets
+2026-10-14 07:35:21 indexed 899 markets
+2026-10-14 07:38:08 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-14 07:38:44 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 47)
+2026-10-14 07:38:47 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 47)
+2026-10-14 07:38:51 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 47)
+2026-10-14 07:38:53 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 47)
+2026-10-14 07:38:56 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 47)
+2026-10-14 07:38:59 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 46)
+2026-10-14 07:39:03 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 47)
+2026-10-14 07:39:06 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 47)
+2026-10-14 07:39:09 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 47)
+2026-10-14 07:39:12 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 47)
+2026-10-14 07:39:14 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 47)
+2026-10-14 07:39:17 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 47)
+2026-10-14 07:39:20 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 47)
+2026-10-14 07:39:23 [pengwin] MONACO-TOLOSA: no Polymarket event (try 47)
+2026-10-14 07:39:25   llm groq-120b: rate limited, skip 23s
+2026-10-14 07:39:26 [pengwin] BREST-ANGERS: no Polymarket event (try 47)
+2026-10-14 07:39:28 [pengwin] PSG-LE MANS: no Polymarket event (try 47)
