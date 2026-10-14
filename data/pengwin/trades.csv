@@ -37,3 +37,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-14T00:38:00+00:00,BUY,Feyenoord Rotterdam vs. Como 1907: Both Teams to Score,Yes,14.71,0.6800,10.00,,FEYENOORD-COMO: GG (esatto) | pengwin exact: replicates base pick
 2026-10-14T01:05:57+00:00,BUY,ES Troyes AC vs. Racing Club de Lens: Both Teams to Score,Yes,15.87,0.6300,10.00,,LENS-LIONE: GOAL (esatto) | pengwin exact: replicates pick
 2026-10-14T18:22:48+00:00,BUY,Valencia CF vs. Athletic Club: O/U 4.5,Under,10.99,0.9100,10.00,,Vallecano-Athletic Bilbao: VALENCIA CF O/U 3.5 UNDER (approssimato) | pengwin approx: approximates Multigol 1-3 casa
+2026-10-14T19:13:11+00:00,SELL,Feyenoord Rotterdam vs. Como 1907: Both Teams to Score,Yes,14.71,1.0000,14.71,+4.71,resolved

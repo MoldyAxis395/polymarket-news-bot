@@ -1,5 +1,5 @@
 {
- "cash": 92.16073014038194,
+ "cash": 106.86661249332312,
  "positions": [
   {
    "market_id": "5186926",
@@ -16,27 +16,9 @@
    "reason": "pengwin approx: Over 1.5 covers 2\u20115 goals for the away team",
    "conf": 1.0,
    "end": "2026-10-14T19:00:00+00:00",
-   "last_bid": 0.75,
+   "last_bid": 0.62,
    "book_err": false,
    "settle_retry": 1791976173.9318228
-  },
-  {
-   "market_id": "5159396",
-   "question": "Feyenoord Rotterdam vs. Como 1907: Both Teams to Score",
-   "slug": "ucl-fey-com-2026-10-14-btts",
-   "outcome": "Yes",
-   "token": "80832875170763066899553596384091188422260079336976990299438081949796028706320",
-   "shares": 14.705882352941176,
-   "entry": 0.68,
-   "cost": 10.0,
-   "opened": 1791938280.6043754,
-   "opened_iso": "2026-10-14T00:38:00+00:00",
-   "news": "FEYENOORD-COMO: GG (esatto)",
-   "reason": "pengwin exact: replicates base pick",
-   "conf": 1.0,
-   "end": "2026-10-14T16:45:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false
   },
   {
    "market_id": "5267259",
@@ -466,6 +448,29 @@
    "pnl": 4.2857142857142865,
    "why": "resolved",
    "closed_iso": "2026-10-13T22:09:58+00:00"
+  },
+  {
+   "market_id": "5159396",
+   "question": "Feyenoord Rotterdam vs. Como 1907: Both Teams to Score",
+   "slug": "ucl-fey-com-2026-10-14-btts",
+   "outcome": "Yes",
+   "token": "80832875170763066899553596384091188422260079336976990299438081949796028706320",
+   "shares": 14.705882352941176,
+   "entry": 0.68,
+   "cost": 10.0,
+   "opened": 1791938280.6043754,
+   "opened_iso": "2026-10-14T00:38:00+00:00",
+   "news": "FEYENOORD-COMO: GG (esatto)",
+   "reason": "pengwin exact: replicates base pick",
+   "conf": 1.0,
+   "end": "2026-10-14T16:45:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1792005791.551219,
+   "exit": 1.0,
+   "pnl": 4.705882352941176,
+   "why": "resolved",
+   "closed_iso": "2026-10-14T19:13:12+00:00"
   }
  ],
  "cooldown": {
@@ -485,6 +490,7 @@
   "5158616": 1791938488.86049,
   "5159580": 1791939473.241379,
   "5159510": 1791939956.9764273,
-  "5159693": 1791940198.6844316
+  "5159693": 1791940198.6844316,
+  "5159396": 1792015992.219365
  }
 }

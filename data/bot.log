@@ -10779,3 +10779,51 @@
 2026-10-14 20:53:36 [pengwin] RENNES-AUXERRE: no Polymarket event (try 70)
 2026-10-14 20:53:38 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 70)
 2026-10-14 20:53:40 [pengwin] AUXERRE-BREST: no Polymarket event (try 70)
+2026-10-14 20:54:32 [pengwin] LAZIO-INTER: no Polymarket event (try 70)
+2026-10-14 20:54:35   llm groq-120b: rate limited, skip 140s
+2026-10-14 20:54:35 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 70)
+2026-10-14 20:54:37 [pengwin] INTER-COMO: no Polymarket event (try 70)
+2026-10-14 20:54:39 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 69)
+2026-10-14 20:54:41 [pengwin] COMO-INTER: no Polymarket event (try 70)
+2026-10-14 20:54:43 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 70)
+2026-10-14 20:54:45 [pengwin] NAPOLI-COMO: no Polymarket event (try 70)
+2026-10-14 20:54:48 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 70)
+2026-10-14 20:55:15 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 70)
+2026-10-14 20:59:30 indexed 1032 markets
+2026-10-14 21:01:07   drop[1-source] Notre Dame Announces Kyngstonn Viliamu-Asa News After Injury (Athlon Sports) :: Kyngstonn Viliamu-Asa, wait 2nd source
+2026-10-14 21:03:04 [pengwin]   book error Feyenoord Rotterdam vs. Como 1907: Both Teams to S: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=80832875170763066899553596384091188422260079336976990299438081949796028706320
+2026-10-14 21:03:24   llm groq-120b: rate limited, skip 121s
+2026-10-14 21:03:25   drop[team-not-named] Auger-Aliassime retires with injury in Shanghai; Fernandez advances in Wuhan (The Globe and Mail) :: Canada
+2026-10-14 21:05:52   llm groq-120b: rate limited, skip 342s
+2026-10-14 21:05:53   drop[kind] Diddy’s Prison Head Injury Reportedly Followed Fight With Fellow Inmate Christopher Coke (Just Jared) :: other
+2026-10-14 21:05:53   llm groq-20b: rate limited, skip 289s
+2026-10-14 21:09:34 indexed 936 markets
+2026-10-14 21:12:44   drop[team-not-named] Kai Trump Endures Second Wrist Surgery After Suffering Golf Injury (OK Magazine) :: New York Mets
+2026-10-14 21:12:44   drop[unconfirmed] 4 Countries That Have Restricted, Suspended Visas for Nigerian Passport Holders (Legit.ng) :: 4 countries have restricted or suspended visas for Nigerian passport holders
+2026-10-14 21:13:11 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +4.71 :: Feyenoord Rotterdam vs. Como 1907: Both Teams to Score
+2026-10-14 21:15:14   llm groq-120b: rate limited, skip 3s
+2026-10-14 21:15:15   drop[team-not-named] Vinicius Junior handed four-match ban, ruled out of El Clasico (SABC Sport) :: Real Madrid
+2026-10-14 21:17:20   drop[1-source] This Eagles star was a ‘complete liability.’ Now, he’s back from injury (PennLive.com) :: Jalen Hurts, wait 2nd source
+2026-10-14 21:17:20   llm groq-120b: rate limited, skip 167s
+2026-10-14 21:17:20   drop[kind] New Myosin-Blocking Drug Reopens Blocked Capillaries After Heart Attacks and Kidney Injury (Bioengineer.org) :: other
+2026-10-14 21:19:33 indexed 939 markets
+2026-10-14 21:22:55 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 71)
+2026-10-14 21:22:58 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 71)
+2026-10-14 21:23:01 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 71)
+2026-10-14 21:23:04   llm groq-120b: rate limited, skip 328s
+2026-10-14 21:23:04 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 71)
+2026-10-14 21:23:07 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 70)
+2026-10-14 21:23:10 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 71)
+2026-10-14 21:23:12   llm groq-20b: rate limited, skip 164s
+2026-10-14 21:23:12 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 71)
+2026-10-14 21:23:15 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 71)
+2026-10-14 21:23:18 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 71)
+2026-10-14 21:23:20 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 71)
+2026-10-14 21:23:22 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 71)
+2026-10-14 21:23:24 [pengwin] MONACO-TOLOSA: no Polymarket event (try 71)
+2026-10-14 21:23:27 [pengwin] BREST-ANGERS: no Polymarket event (try 71)
+2026-10-14 21:23:29 [pengwin] PSG-LE MANS: no Polymarket event (try 71)
+2026-10-14 21:23:32 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 70)
+2026-10-14 21:23:34 [pengwin] RENNES-AUXERRE: no Polymarket event (try 71)
+2026-10-14 21:23:37 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 71)
+2026-10-14 21:23:39 [pengwin] AUXERRE-BREST: no Polymarket event (try 71)
