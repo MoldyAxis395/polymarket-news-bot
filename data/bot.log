@@ -10640,3 +10640,54 @@
 2026-10-14 19:23:26 [pengwin] RENNES-AUXERRE: no Polymarket event (try 67)
 2026-10-14 19:23:28 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 67)
 2026-10-14 19:23:30 [pengwin] AUXERRE-BREST: no Polymarket event (try 67)
+2026-10-14 19:24:28 [pengwin] LAZIO-INTER: no Polymarket event (try 67)
+2026-10-14 19:24:31   llm groq-20b: rate limited, skip 107s
+2026-10-14 19:24:31 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 67)
+2026-10-14 19:24:33 [pengwin] INTER-COMO: no Polymarket event (try 67)
+2026-10-14 19:24:34 [pengwin] page pa-italia/lazio-atalanta-statistiche-quote-e-pronostico-2026: Response ended prematurely
+2026-10-14 19:24:36 [pengwin] COMO-INTER: no Polymarket event (try 67)
+2026-10-14 19:24:38 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 67)
+2026-10-14 19:24:40 [pengwin] NAPOLI-COMO: no Polymarket event (try 67)
+2026-10-14 19:24:43 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 67)
+2026-10-14 19:25:10 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 67)
+2026-10-14 19:25:43 [pengwin] page nce-league/brann-lincoln-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-14 19:29:19 indexed 1025 markets
+2026-10-14 19:30:39 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x7f5c14ab4b60>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
+2026-10-14 19:32:46   drop[not-key] Dayo Odeyingbo (DE, Chicago Bears) ruled out: Questionable -> Out [NFL] (ESPN) :: Dayo Odeyingbo: injury
+2026-10-14 19:33:24   llm groq-20b: rate limited, skip 94s
+2026-10-14 19:35:31   drop[team-not-named] NDSU’s Nathan Hayes Injury in Spotlight After UNLV Loss With Nevada Looming (Heavy.com) :: North Dakota State Bison
+2026-10-14 19:35:31   llm groq-20b: rate limited, skip 264s
+2026-10-14 19:39:22 indexed 1014 markets
+2026-10-14 19:40:12   drop[kind] Superintendent provides more detail on athlete's injury (RRSpin) :: other
+2026-10-14 19:40:55   llm groq-20b: rate limited, skip 55s
+2026-10-14 19:42:41   drop[1-source] OFFICIAL: Vinicius will miss El Clásico, suspended four games (Managing Madrid) :: Vinícius Júnior, wait 2nd source
+2026-10-14 19:43:30   drop[team-not-named] 🚨 BREAKING: Vinicius Jr has been suspended for 4 La Liga games — out for El Clásico. The B (Fabrizio Romano) :: Real Madrid
+2026-10-14 19:49:23 indexed 1020 markets
+2026-10-14 19:49:28   drop[no-market] A.J. Brown returns to Patriots practice for first time since suffering ankle injury in Wee (CBS News) :: New England Patriots
+2026-10-14 19:51:30 NEWS [Fabrizio Romano 0m] 🚨 Real Madrid plan to appeal Vinicius Jr’s suspension for four games after RFEF verdict.
+2026-10-14 19:51:30   skip Yes :: Will AS Roma win on 2026-10-14? (low conf 0.6)
+2026-10-14 19:51:55   drop[kind] Gators QB Aaron Philo Dealing with Injury (Sports Illustrated) :: other
+2026-10-14 19:52:45   llm groq-120b: rate limited, skip 45s
+2026-10-14 19:52:46 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 68)
+2026-10-14 19:52:49 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 68)
+2026-10-14 19:52:52 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 68)
+2026-10-14 19:52:55 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 68)
+2026-10-14 19:52:58 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 68)
+2026-10-14 19:53:01 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 67)
+2026-10-14 19:53:04 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 68)
+2026-10-14 19:53:07   llm groq-20b: rate limited, skip 54s
+2026-10-14 19:53:07 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 68)
+2026-10-14 19:53:10 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 68)
+2026-10-14 19:53:13 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 68)
+2026-10-14 19:53:15 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 68)
+2026-10-14 19:53:17 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 68)
+2026-10-14 19:53:19 [pengwin] MONACO-TOLOSA: no Polymarket event (try 68)
+2026-10-14 19:53:22 [pengwin] BREST-ANGERS: no Polymarket event (try 68)
+2026-10-14 19:53:24 [pengwin] PSG-LE MANS: no Polymarket event (try 68)
+2026-10-14 19:53:27 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 67)
+2026-10-14 19:53:29 [pengwin] RENNES-AUXERRE: no Polymarket event (try 68)
+2026-10-14 19:53:30 NEWS [ESPN 11m] Cam York (D, Philadelphia Flyers) ruled out: Day-To-Day -> Out [NHL]
+2026-10-14 19:53:30   skip Red Wings :: Flyers vs. Red Wings (rules fallback, LLM down (not traded))
+2026-10-14 19:53:32 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 68)
+2026-10-14 19:53:35   llm groq-120b: rate limited, skip 71s
+2026-10-14 19:53:35 [pengwin] AUXERRE-BREST: no Polymarket event (try 68)
