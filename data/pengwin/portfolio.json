@@ -1,25 +1,6 @@
 {
- "cash": 106.86661249332312,
+ "cash": 119.8536254803361,
  "positions": [
-  {
-   "market_id": "5186926",
-   "question": "\u0160K Slovan Bratislava vs. VfB Stuttgart: VfB Stuttgart O/U 1.5",
-   "slug": "ucl-sba-stu-2026-10-14-team-total-away-1pt5",
-   "outcome": "Over",
-   "token": "105316787287974428202812219641929988340331115293766552581241030829673904245139",
-   "shares": 12.987012987012987,
-   "entry": 0.77,
-   "cost": 10.0,
-   "opened": 1791844224.143837,
-   "opened_iso": "2026-10-12T22:30:24+00:00",
-   "news": "SLOVAN BRATISLAVA-STOCCARDA: MULTIGOL 2-5 OSPITE @1.45 (approssimato)",
-   "reason": "pengwin approx: Over 1.5 covers 2\u20115 goals for the away team",
-   "conf": 1.0,
-   "end": "2026-10-14T19:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false,
-   "settle_retry": 1791976173.9318228
-  },
   {
    "market_id": "5267259",
    "question": "ES Troyes AC vs. Racing Club de Lens: Both Teams to Score",
@@ -471,6 +452,29 @@
    "pnl": 4.705882352941176,
    "why": "resolved",
    "closed_iso": "2026-10-14T20:07:23+00:00"
+  },
+  {
+   "market_id": "5186926",
+   "question": "\u0160K Slovan Bratislava vs. VfB Stuttgart: VfB Stuttgart O/U 1.5",
+   "slug": "ucl-sba-stu-2026-10-14-team-total-away-1pt5",
+   "outcome": "Over",
+   "token": "105316787287974428202812219641929988340331115293766552581241030829673904245139",
+   "shares": 12.987012987012987,
+   "entry": 0.77,
+   "cost": 10.0,
+   "opened": 1791844224.143837,
+   "opened_iso": "2026-10-12T22:30:24+00:00",
+   "news": "SLOVAN BRATISLAVA-STOCCARDA: MULTIGOL 2-5 OSPITE @1.45 (approssimato)",
+   "reason": "pengwin approx: Over 1.5 covers 2\u20115 goals for the away team",
+   "conf": 1.0,
+   "end": "2026-10-14T19:00:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1792014022.4658875,
+   "exit": 1.0,
+   "pnl": 2.987012987012987,
+   "why": "resolved",
+   "closed_iso": "2026-10-14T21:30:23+00:00"
   }
  ],
  "cooldown": {
@@ -491,6 +495,7 @@
   "5159580": 1791939473.241379,
   "5159510": 1791939956.9764273,
   "5159693": 1791940198.6844316,
-  "5159396": 1792019243.1488247
+  "5159396": 1792019243.1488247,
+  "5186926": 1792024223.216215
  }
 }

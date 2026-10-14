@@ -10914,3 +10914,48 @@
 2026-10-14 23:07:59 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 72)
 2026-10-14 23:08:27   llm groq-20b: rate limited, skip 32s
 2026-10-14 23:08:27 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 72)
+2026-10-14 23:10:41   llm groq-120b: rate limited, skip 540s
+2026-10-14 23:10:42   llm groq-20b: rate limited, skip 136s
+2026-10-14 23:13:45   llm groq-20b: rate limited, skip 10s
+2026-10-14 23:14:31 indexed 909 markets
+2026-10-14 23:18:36   drop[1-source] Talanoa Hufanga injury absence a brutal blow for Broncos defense (Yardbarker) :: Talanoa Hufanga, wait 2nd source
+2026-10-14 23:20:16 [pengwin]   book error ŠK Slovan Bratislava vs. VfB Stuttgart: VfB Stuttg: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=105316787287974428202812219641929988340331115293766552581241030829673904245139
+2026-10-14 23:23:01   drop[kind] LPD: Autocyclist incident on Bob Bullock Loop results in injury (Laredo Morning Times) :: other
+2026-10-14 23:24:31 indexed 905 markets
+2026-10-14 23:27:48   drop[kind] SEO Title: Diddy Prison Fight Report Follows Head Injury at Fort Dix (finchannel) :: other
+2026-10-14 23:30:00   drop[kind] B.C. teacher gets licence suspended after Reddit profile found (Castanet) :: other
+2026-10-14 23:30:22 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.99 :: ŠK Slovan Bratislava vs. VfB Stuttgart: VfB Stuttgart O/U 1.5
+2026-10-14 23:32:18   drop[1-source] The JETS are getting KEY Players back from INJURY!! (KCENTV.com) :: New York Jets, wait 2nd source
+2026-10-14 23:32:19   drop[team-not-named] Raul Jimenez delivers defiant response to major Wolves injury setback (Express and Star) :: Wolverhampton Wanderers Football Club
+2026-10-14 23:34:33 indexed 906 markets
+2026-10-14 23:34:38   llm groq-120b: rate limited, skip 456s
+2026-10-14 23:34:38   drop[1-source] Northside ISD substitute suspended amid investigation into ICE remarks (San Antonio Express-News) :: Northside ISD, wait 2nd source
+2026-10-14 23:34:38   drop[kind] Deaths Halt ICU Trial of Hemodialysis for Acute Kidney Injury (MedPage Today) :: other
+2026-10-14 23:34:39   drop[not-key] Quinshon Judkins Injury: Sits out practice Wednesday (RotoWire) :: Quinshon Judkins: injury
+2026-10-14 23:35:06   drop[not-key] 🚨 José Mourinho: “After Roma scored 3-1, they thought the match was DEAD… but it was Roma' (Fabrizio Romano) :: José Mourinho: Roma scored 3-1
+2026-10-14 23:37:03   llm groq-20b: rate limited, skip 299s
+2026-10-14 23:37:03 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 73)
+2026-10-14 23:37:05 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 73)
+2026-10-14 23:37:08 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 73)
+2026-10-14 23:37:11 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 73)
+2026-10-14 23:37:13 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 72)
+2026-10-14 23:37:16 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 73)
+2026-10-14 23:37:18 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 73)
+2026-10-14 23:37:21 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 73)
+2026-10-14 23:37:24 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 73)
+2026-10-14 23:37:26 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 73)
+2026-10-14 23:37:28 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 73)
+2026-10-14 23:37:30 [pengwin] MONACO-TOLOSA: no Polymarket event (try 73)
+2026-10-14 23:37:33 [pengwin] BREST-ANGERS: no Polymarket event (try 73)
+2026-10-14 23:37:36 [pengwin] PSG-LE MANS: no Polymarket event (try 73)
+2026-10-14 23:37:38 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 72)
+2026-10-14 23:37:41 [pengwin] RENNES-AUXERRE: no Polymarket event (try 73)
+2026-10-14 23:37:43 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 73)
+2026-10-14 23:37:45 [pengwin] AUXERRE-BREST: no Polymarket event (try 73)
+2026-10-14 23:38:37 [pengwin] LAZIO-INTER: no Polymarket event (try 73)
+2026-10-14 23:38:39 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 73)
+2026-10-14 23:38:41 [pengwin] INTER-COMO: no Polymarket event (try 73)
+2026-10-14 23:38:43 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 72)
+2026-10-14 23:38:45 [pengwin] COMO-INTER: no Polymarket event (try 73)
+2026-10-14 23:38:48 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 73)
+2026-10-14 23:38:50 [pengwin] NAPOLI-COMO: no Polymarket event (try 73)
