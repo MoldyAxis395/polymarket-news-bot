@@ -16,7 +16,7 @@
    "reason": "pengwin approx: Over 1.5 covers 2\u20115 goals for the away team",
    "conf": 1.0,
    "end": "2026-10-14T19:00:00+00:00",
-   "last_bid": 0.75,
+   "last_bid": 0.74,
    "book_err": false,
    "settle_retry": 1791976173.9318228
   },
@@ -35,7 +35,7 @@
    "reason": "pengwin exact: replicates base pick",
    "conf": 1.0,
    "end": "2026-10-14T16:45:00+00:00",
-   "last_bid": 0.65,
+   "last_bid": 0.66,
    "book_err": false
   },
   {
