@@ -1,5 +1,5 @@
 {
- "cash": 112.16073014038194,
+ "cash": 102.16073014038194,
  "positions": [
   {
    "market_id": "5186926",
@@ -35,6 +35,24 @@
    "conf": 1.0,
    "end": "2026-10-14T16:45:00+00:00",
    "last_bid": 0.67,
+   "book_err": false
+  },
+  {
+   "market_id": "5267259",
+   "question": "ES Troyes AC vs. Racing Club de Lens: Both Teams to Score",
+   "slug": "fl1-tro-rcl-2026-10-17-btts",
+   "outcome": "Yes",
+   "token": "49644456582283146650622761739550873010247910287171364690568766251447744014356",
+   "shares": 15.873015873015873,
+   "entry": 0.63,
+   "cost": 10.0,
+   "opened": 1791939957.9880056,
+   "opened_iso": "2026-10-14T01:05:57+00:00",
+   "news": "LENS-LIONE: GOAL (esatto)",
+   "reason": "pengwin exact: replicates pick",
+   "conf": 1.0,
+   "end": "2026-10-17T18:45:00+00:00",
+   "last_bid": 0.6,
    "book_err": false
   }
  ],
