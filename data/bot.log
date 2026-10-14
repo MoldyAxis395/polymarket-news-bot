@@ -10279,3 +10279,48 @@
 2026-10-14 15:24:43 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 59)
 2026-10-14 15:24:46 [pengwin] FIORENTINA-COMO: no LLM answer (try 59)
 2026-10-14 15:25:13 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 59)
+2026-10-14 15:27:11   llm groq-120b: rate limited, skip 211s
+2026-10-14 15:32:09 indexed 1037 markets
+2026-10-14 15:33:46   drop[unconfirmed] No, Mathieu Olivier Shouldn't Be Suspended, But More Importantly The Fans Shouldn't Bail O (The Hockey News) :: should not be suspended
+2026-10-14 15:36:12   llm groq-120b: rate limited, skip 23s
+2026-10-14 15:36:13   drop[not-key] Otega Oweh helped off court after potentially serious injury in NBA preseason (On3) :: Otega Oweh: injury
+2026-10-14 15:38:19   llm groq-120b: rate limited, skip 201s
+2026-10-14 15:38:20   drop[no-pick] Rugby League World Cup: England rocked by injury with Perth Bears-bound Morgan Smithies ru (Sky Sports) :: short
+2026-10-14 15:40:37   llm groq-20b: rate limited, skip 571s
+2026-10-14 15:42:08 indexed 1053 markets
+2026-10-14 15:42:57   drop[1-source] Bears DE Montez Sweat Suspended Two Games for Violating NFL PED Policy (RG.org) :: Montez Sweat, wait 2nd source
+2026-10-14 15:42:57   llm groq-120b: rate limited, skip 499s
+2026-10-14 15:52:12 indexed 1053 markets
+2026-10-14 15:52:49 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 60)
+2026-10-14 15:52:52 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 60)
+2026-10-14 15:52:56 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 60)
+2026-10-14 15:52:58 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 60)
+2026-10-14 15:53:02 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 60)
+2026-10-14 15:53:04   llm groq-120b: rate limited, skip 7s
+2026-10-14 15:53:04 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 59)
+2026-10-14 15:53:08 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 60)
+2026-10-14 15:53:11 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 60)
+2026-10-14 15:53:14 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 60)
+2026-10-14 15:53:16   llm groq-120b: rate limited, skip 143s
+2026-10-14 15:53:17 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 60)
+2026-10-14 15:53:19 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 60)
+2026-10-14 15:53:22 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 60)
+2026-10-14 15:53:24 [pengwin] MONACO-TOLOSA: no Polymarket event (try 60)
+2026-10-14 15:53:27 [pengwin] BREST-ANGERS: no Polymarket event (try 60)
+2026-10-14 15:53:30 [pengwin] PSG-LE MANS: no Polymarket event (try 60)
+2026-10-14 15:53:32   llm groq-20b: rate limited, skip 30s
+2026-10-14 15:53:32 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 59)
+2026-10-14 15:53:35 [pengwin] RENNES-AUXERRE: no Polymarket event (try 60)
+2026-10-14 15:53:37 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 60)
+2026-10-14 15:53:39 [pengwin] AUXERRE-BREST: no Polymarket event (try 60)
+2026-10-14 15:54:31 [pengwin] LAZIO-INTER: no Polymarket event (try 60)
+2026-10-14 15:54:33   llm groq-20b: rate limited, skip 86s
+2026-10-14 15:54:33 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 60)
+2026-10-14 15:54:35 [pengwin] INTER-COMO: no Polymarket event (try 60)
+2026-10-14 15:54:37 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 60)
+2026-10-14 15:54:39 [pengwin] COMO-INTER: no Polymarket event (try 60)
+2026-10-14 15:54:42 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 60)
+2026-10-14 15:54:44 [pengwin] NAPOLI-COMO: no Polymarket event (try 60)
+2026-10-14 15:54:46 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 60)
+2026-10-14 15:54:50 [pengwin] FIORENTINA-COMO: no LLM answer (try 60)
+2026-10-14 15:55:16 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 60)
