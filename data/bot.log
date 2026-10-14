@@ -9698,3 +9698,54 @@
 2026-10-14 06:39:19 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 45)
 2026-10-14 06:39:20 [pengwin] COMO-INTER: no Polymarket event (try 45)
 2026-10-14 06:39:23 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 45)
+2026-10-14 06:39:26   llm groq-120b: rate limited, skip 75s
+2026-10-14 06:39:26 [pengwin] NAPOLI-COMO: no Polymarket event (try 45)
+2026-10-14 06:39:28 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 45)
+2026-10-14 06:39:32 [pengwin] FIORENTINA-COMO: no Polymarket event (try 45)
+2026-10-14 06:39:56 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 45)
+2026-10-14 06:42:53   drop[1-source] Hurricanes Win ‘Frozen Frenzy’ Game Against Capitals, but Lose Veteran Player to Injury (Sportsnaut) :: Dougie Hamilton, wait 2nd source
+2026-10-14 06:45:17 indexed 897 markets
+2026-10-14 06:49:58   drop[1-source] Thunder lose promising rookie to apparent serious injury vs. Pacers (ClutchPoints) :: Chet Holmgren, wait 2nd source
+2026-10-14 06:52:15   llm groq-120b: rate limited, skip 164s
+2026-10-14 06:52:15   drop[1-source] Deebo Samuel Injury Leaves 49ers in Receiver Squeeze at Deadline (Athlon Sports) :: Deebo Samuel, wait 2nd source
+2026-10-14 06:55:54 indexed 903 markets
+2026-10-14 06:56:46   drop[kind] 61 Dhaka–Saudi Flights Suspended, 8,381 Travelers Stranded (https://www.thetraveler.org/) :: other
+2026-10-14 06:59:05   drop[kind] Rex's unpaid Orange debt written off just days before airline indefinitely suspended Sydne (Central Western Daily) :: other
+2026-10-14 07:01:10   llm groq-120b: rate limited, skip 226s
+2026-10-14 07:01:11   drop[kind] ⭐️ Rafa Leão: “I hope Lamine Yamal wins the Ballon d’Or and big trophies with Barça”. “He  (Fabrizio Romano) :: other
+2026-10-14 07:06:13 indexed 907 markets
+2026-10-14 07:06:18   llm groq-120b: rate limited, skip 4s
+2026-10-14 07:06:19   drop[kind] Lam Tin MTR station service suspended during peak hours on 2 consecutive days due to equip (Hong Kong Free Press HKFP) :: other
+2026-10-14 07:07:27 [pengwin] Vallecano-Athletic Bilbao: no Polymarket event (try 46)
+2026-10-14 07:07:31 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 46)
+2026-10-14 07:07:34 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 46)
+2026-10-14 07:07:37 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 46)
+2026-10-14 07:07:40   llm groq-120b: rate limited, skip 89s
+2026-10-14 07:07:40 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 46)
+2026-10-14 07:07:43 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 45)
+2026-10-14 07:07:46 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 46)
+2026-10-14 07:07:49 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 46)
+2026-10-14 07:07:52 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 46)
+2026-10-14 07:07:55   llm groq-20b: rate limited, skip 70s
+2026-10-14 07:07:55 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 46)
+2026-10-14 07:07:57 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 46)
+2026-10-14 07:07:59 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 46)
+2026-10-14 07:08:02 [pengwin] LORIENT-PARIS FC: no Polymarket event (try 46)
+2026-10-14 07:08:04 [pengwin] MONACO-TOLOSA: no Polymarket event (try 46)
+2026-10-14 07:08:06 [pengwin] BREST-ANGERS: no Polymarket event (try 46)
+2026-10-14 07:08:08 [pengwin] PSG-LE MANS: no Polymarket event (try 46)
+2026-10-14 07:08:11 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 45)
+2026-10-14 07:08:13 [pengwin] RENNES-AUXERRE: no Polymarket event (try 46)
+2026-10-14 07:08:16 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 46)
+2026-10-14 07:08:18 [pengwin] AUXERRE-BREST: no Polymarket event (try 46)
+2026-10-14 07:09:06 [pengwin] LAZIO-INTER: no Polymarket event (try 46)
+2026-10-14 07:09:09 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 46)
+2026-10-14 07:09:11   llm groq-120b: rate limited, skip 41s
+2026-10-14 07:09:11   llm groq-20b: rate limited, skip 239s
+2026-10-14 07:09:11 [pengwin] INTER-COMO: no Polymarket event (try 46)
+2026-10-14 07:09:13 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 46)
+2026-10-14 07:09:15 [pengwin] COMO-INTER: no Polymarket event (try 46)
+2026-10-14 07:09:17 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 46)
+2026-10-14 07:09:20 [pengwin] NAPOLI-COMO: no Polymarket event (try 46)
+2026-10-14 07:09:22 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 46)
+2026-10-14 07:09:26 [pengwin] FIORENTINA-COMO: no Polymarket event (try 46)
