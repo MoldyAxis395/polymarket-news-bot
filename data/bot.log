@@ -12127,3 +12127,62 @@
 2026-10-16 00:39:19 [pengwin] NAPOLI-COMO: no Polymarket event (try 98)
 2026-10-16 00:39:22 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 98)
 2026-10-16 00:39:49 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 98)
+2026-10-16 00:40:57 NEWS [ESPN 6m] Miles Wood (LW, Toronto Maple Leafs) ruled out: healthy -> Injured Reserve [NHL]
+2026-10-16 00:40:57   skip Sabres :: Sabres vs. Maple Leafs (rules fallback, LLM down (not traded))
+2026-10-16 00:45:22   drop[team-not-named] KU basketball's Christian Reeves goes into his recent injury situation (Salina Journal) :: Kansas Jayhawks
+2026-10-16 00:45:54 indexed 873 markets
+2026-10-16 00:52:05   drop[kind] Bears QB Caleb Williams bristles at reporting on hamstring injury, but provides little cla (Chicago Sun-Times) :: other
+2026-10-16 00:55:12   drop[not-key] Jordan Magee (LB, Washington Commanders) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Jordan Magee: placed on injured reserve after hamstring injury
+2026-10-16 00:55:53 indexed 869 markets
+2026-10-16 00:56:43   drop[kind] Persistent Headache After Brain Injury May Signal Hidden Brain Dysfunction, Researchers Pr (Bioengineer.org) :: other
+2026-10-16 00:56:43   llm groq-120b: rate limited, skip 1211s
+2026-10-16 00:56:44   drop[kind] Antifibrotic Drug Pirfenidone Cuts Lung Injury Risk in Immunotherapy-Treated Lung Cancer P (Bioengineer.org) :: other
+2026-10-16 01:03:22   drop[not-key] Tyler Onyedim (DT, Denver Broncos) ruled out: Active -> Out [NFL] (ESPN) :: Tyler Onyedim: injury
+2026-10-16 01:03:22   drop[not-key] Sam Ehlinger (QB, Denver Broncos) ruled out: Active -> Out [NFL] (ESPN) :: Sam Ehlinger: injury
+2026-10-16 01:03:23   llm groq-20b: rate limited, skip 98s
+2026-10-16 01:03:23   drop[no-pick] Jordan Jackson (DT, Denver Broncos) ruled out: Active -> Out [NFL] (ESPN) :: None
+2026-10-16 01:03:23 NEWS [ESPN 14m] Dallen Bentley (TE, Denver Broncos) ruled out: Active -> Out [NFL]
+2026-10-16 01:03:23   skip Seahawks :: Seahawks vs. Broncos (rules fallback, LLM down (not traded))
+2026-10-16 01:03:23 NEWS [ESPN 14m] Kage Casey (OT, Denver Broncos) ruled out: Active -> Out [NFL]
+2026-10-16 01:03:23   skip Seahawks :: Seahawks vs. Broncos (rules fallback, LLM down (not traded))
+2026-10-16 01:03:23 NEWS [ESPN 9m] Brandon Pili (DT, Seattle Seahawks) ruled out: Active -> Out [NFL]
+2026-10-16 01:03:23   skip Broncos :: Seahawks vs. Broncos (rules fallback, LLM down (not traded))
+2026-10-16 01:03:23 NEWS [ESPN 9m] Avery Smith (CB, Seattle Seahawks) ruled out: Active -> Out [NFL]
+2026-10-16 01:03:23   skip Broncos :: Seahawks vs. Broncos (rules fallback, LLM down (not traded))
+2026-10-16 01:03:23 NEWS [ESPN 9m] Jalen Milroe (QB, Seattle Seahawks) ruled out: Active -> Out [NFL]
+2026-10-16 01:03:23   skip Broncos :: Seahawks vs. Broncos (rules fallback, LLM down (not traded))
+2026-10-16 01:03:23 NEWS [ESPN 9m] Montorie Foster Jr. (WR, Seattle Seahawks) ruled out: Active -> Out [NFL]
+2026-10-16 01:03:23   skip Broncos :: Seahawks vs. Broncos (rules fallback, LLM down (not traded))
+2026-10-16 01:03:23 NEWS [ESPN 9m] Robert Henry Jr. (RB, Seattle Seahawks) ruled out: Active -> Out [NFL]
+2026-10-16 01:03:23   skip Broncos :: Seahawks vs. Broncos (rules fallback, LLM down (not traded))
+2026-10-16 01:05:54 indexed 871 markets
+2026-10-16 01:05:58   drop[kind] Caleb Williams gets snippy with a reporter when asked about his injury (Larry Brown Sports) :: other
+2026-10-16 01:05:58   llm groq-20b: rate limited, skip 55s
+2026-10-16 01:07:45   llm groq-20b: rate limited, skip 10s
+2026-10-16 01:07:45 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 99)
+2026-10-16 01:07:49 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 99)
+2026-10-16 01:07:51 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 99)
+2026-10-16 01:07:54 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 98)
+2026-10-16 01:07:57 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 98)
+2026-10-16 01:08:00 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 99)
+2026-10-16 01:08:02   llm groq-20b: rate limited, skip 309s
+2026-10-16 01:08:02 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 99)
+2026-10-16 01:08:05 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 99)
+2026-10-16 01:08:07 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 99)
+2026-10-16 01:08:09 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 99)
+2026-10-16 01:08:11 [pengwin] MONACO-TOLOSA: no Polymarket event (try 99)
+2026-10-16 01:08:14 [pengwin] BREST-ANGERS: no Polymarket event (try 99)
+2026-10-16 01:08:16 [pengwin] PSG-LE MANS: no Polymarket event (try 99)
+2026-10-16 01:08:18 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 98)
+2026-10-16 01:08:21 [pengwin] RENNES-AUXERRE: no Polymarket event (try 99)
+2026-10-16 01:08:24 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 99)
+2026-10-16 01:08:25 [pengwin] AUXERRE-BREST: no Polymarket event (try 99)
+2026-10-16 01:09:16 [pengwin] LAZIO-INTER: no Polymarket event (try 99)
+2026-10-16 01:09:18 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 99)
+2026-10-16 01:09:20 [pengwin] INTER-COMO: no Polymarket event (try 99)
+2026-10-16 01:09:22 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 98)
+2026-10-16 01:09:24 [pengwin] COMO-INTER: no Polymarket event (try 99)
+2026-10-16 01:09:26 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 99)
+2026-10-16 01:09:29 [pengwin] NAPOLI-COMO: no Polymarket event (try 99)
+2026-10-16 01:09:31 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 99)
+2026-10-16 01:09:58 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 99)
