@@ -11704,3 +11704,48 @@
 2026-10-15 19:19:08 NEWS [ESPN 11m] Josh Morrissey (D, Winnipeg Jets) ruled out: Day-To-Day -> Out [NHL]
 2026-10-15 19:19:08   skip Blackhawks :: Jets vs. Blackhawks (rules fallback, LLM down (not traded))
 2026-10-15 19:21:36 indexed 935 markets
+2026-10-15 19:25:32 [pengwin] page io/serie-b/modena-empoli-statistiche-quote-e-pronostico-2026: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out.
+2026-10-15 19:25:38 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 89)
+2026-10-15 19:25:41 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 89)
+2026-10-15 19:25:44 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 89)
+2026-10-15 19:25:46   llm groq-120b: rate limited, skip 14s
+2026-10-15 19:25:47 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 88)
+2026-10-15 19:25:50 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 89)
+2026-10-15 19:25:53 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 89)
+2026-10-15 19:25:55   llm groq-20b: rate limited, skip 159s
+2026-10-15 19:25:55 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 89)
+2026-10-15 19:25:58 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 89)
+2026-10-15 19:26:00 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 89)
+2026-10-15 19:26:03 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 89)
+2026-10-15 19:26:05   llm groq-120b: rate limited, skip 83s
+2026-10-15 19:26:05 [pengwin] MONACO-TOLOSA: no Polymarket event (try 89)
+2026-10-15 19:26:08 [pengwin] BREST-ANGERS: no Polymarket event (try 89)
+2026-10-15 19:26:10 [pengwin] PSG-LE MANS: no Polymarket event (try 89)
+2026-10-15 19:26:12 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 88)
+2026-10-15 19:26:15 [pengwin] RENNES-AUXERRE: no Polymarket event (try 89)
+2026-10-15 19:26:18 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 89)
+2026-10-15 19:26:19 [pengwin] AUXERRE-BREST: no Polymarket event (try 89)
+2026-10-15 19:27:08 [pengwin] LAZIO-INTER: no Polymarket event (try 89)
+2026-10-15 19:27:11 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 89)
+2026-10-15 19:27:13 [pengwin] INTER-COMO: no Polymarket event (try 89)
+2026-10-15 19:27:15 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 88)
+2026-10-15 19:27:17 [pengwin] COMO-INTER: no Polymarket event (try 89)
+2026-10-15 19:27:19 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 89)
+2026-10-15 19:27:21 [pengwin] NAPOLI-COMO: no Polymarket event (try 89)
+2026-10-15 19:27:23 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 89)
+2026-10-15 19:27:50   llm groq-120b: rate limited, skip 12s
+2026-10-15 19:27:50 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 89)
+2026-10-15 19:28:37   llm groq-120b: rate limited, skip 104s
+2026-10-15 19:28:37   llm groq-20b: rate limited, skip 108s
+2026-10-15 19:31:08 indexed 938 markets
+2026-10-15 19:38:09   drop[not-key] ITIA has suspended 24-year-old Serbian Stefan Milicevic for match-fixing and recruiting pl (Informat.ro) :: Stefan Milicevic: suspended for match-fixing and recruiting players into a corruption network
+2026-10-15 19:41:05 indexed 939 markets
+2026-10-15 19:45:00   drop[kind] Working toward an integrated, long-term approach for traumatic brain and spinal cord injur (Medical Xpress) :: other
+2026-10-15 19:45:01   drop[1-source] Football 'Fight Club' At Missouri College Leads To Players Being Suspended, Arrested After (BroBible) :: Missouri College, wait 2nd source
+2026-10-15 19:45:01   llm groq-120b: rate limited, skip 21s
+2026-10-15 19:45:02   drop[unconfirmed] Arsenal midfielder officially ruled out for ten weeks with hamstring injury (now.arsenal) :: hamstring injury
+2026-10-15 19:51:41 indexed 938 markets
+2026-10-15 19:54:07   drop[verify] Eagles QB Jalen Hurts (blood clot) ruled out vs. Panthers (KWSN) :: Uncertain if Jalen Hurts still plays for the Eagles
+2026-10-15 19:54:13 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-15 19:54:26   llm groq-120b: rate limited, skip 1183s
+2026-10-15 19:54:26   drop[kind] For all the great pitching in the postseason, no one looks better than Gavin Williams righ (Jeff Passan) :: other
