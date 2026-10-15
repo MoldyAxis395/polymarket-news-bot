@@ -11377,3 +11377,59 @@
 2026-10-15 15:53:29   llm groq-20b: rate limited, skip 35s
 2026-10-15 15:53:29 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 82)
 2026-10-15 15:54:02   llm groq-120b: rate limited, skip 161s
+2026-10-15 15:54:48   llm groq-20b: rate limited, skip 237s
+2026-10-15 15:54:48 NEWS [NBC Sports 3m] What Michael Penix Jr.'s rib injury means for the Falcons lineup
+2026-10-15 15:54:48   skip 9z :: Map 2 Rounds Handicap: Team Falcons (-3.5) vs 9z (+3.5) (rules fallback, LLM down (not traded))
+2026-10-15 15:54:48   skip 9z :: Counter-Strike: 9z vs Team Falcons (BO3) - Thunderpick World Champions (rules fallback, LLM down (not traded))
+2026-10-15 15:54:48   skip 9z :: Map Handicap: FAL (-1.5) vs 9z (+1.5) (rules fallback, LLM down (not traded))
+2026-10-15 15:57:08   drop[kind] Man given suspended sentence for slashing police car tyre over €23 parking fine (Times of Malta) :: other
+2026-10-15 15:59:36   llm groq-120b: rate limited, skip 54s
+2026-10-15 15:59:37   drop[1-source] Newcastle United give huge Bazoumana Toure injury news as 3 ruled out vs Aston Villa (Shields Gazette) :: Bazoumana Toure, wait 2nd source
+2026-10-15 16:00:46 indexed 972 markets
+2026-10-15 16:01:38   drop[kind] Anthropic Revenue Surges 45% to $16.8 Billion as Claude Maker Prepares for Potential $2 Tr (Coinpaper) :: other
+2026-10-15 16:01:38   llm groq-120b: rate limited, skip 289s
+2026-10-15 16:01:38   llm groq-20b: rate limited, skip 128s
+2026-10-15 16:03:56   llm groq-20b: rate limited, skip 37s
+2026-10-15 16:05:29   drop[kind] US retail sales beat expectations in September on higher gasoline prices reut.rs/4i0Nqh1 (Reuters) :: other
+2026-10-15 16:06:26   llm groq-20b: rate limited, skip 113s
+2026-10-15 16:08:34   drop[kind] Injury-plagued seasons set up breakthrough season for Kaitlin Gabelman (eaglenews.org) :: other
+2026-10-15 16:08:34   llm groq-120b: rate limited, skip 222s
+2026-10-15 16:08:35   llm groq-20b: rate limited, skip 171s
+2026-10-15 16:08:35   drop[no-pick] Jalen Hurts Breaks Silence on Injury Suffered Before Eagles Week 5 Loss (Yahoo Sports) :: None
+2026-10-15 16:10:08 indexed 967 markets
+2026-10-15 16:15:48   llm groq-120b: rate limited, skip 185s
+2026-10-15 16:15:49 NEWS [roundtable.io 3m] Eagles Star Jalen Hurts Suffered 'Very Unique' Injury in Loss to Rams
+2026-10-15 16:15:49   skip Panthers :: Panthers vs. Eagles (rss sport (measure only))
+2026-10-15 16:17:55   llm groq-20b: rate limited, skip 87s
+2026-10-15 16:20:09 indexed 964 markets
+2026-10-15 16:20:59 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-15 16:21:35 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 83)
+2026-10-15 16:21:39 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 83)
+2026-10-15 16:21:42 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 83)
+2026-10-15 16:21:44   llm groq-120b: rate limited, skip 65s
+2026-10-15 16:21:44 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 82)
+2026-10-15 16:21:48 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 83)
+2026-10-15 16:21:50   llm groq-20b: rate limited, skip 51s
+2026-10-15 16:21:50 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 83)
+2026-10-15 16:21:53 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 83)
+2026-10-15 16:21:55 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 83)
+2026-10-15 16:21:57 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 83)
+2026-10-15 16:22:00 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 83)
+2026-10-15 16:22:02 [pengwin] MONACO-TOLOSA: no Polymarket event (try 83)
+2026-10-15 16:22:05 [pengwin] BREST-ANGERS: no Polymarket event (try 83)
+2026-10-15 16:22:07 [pengwin] PSG-LE MANS: no Polymarket event (try 83)
+2026-10-15 16:22:10 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 82)
+2026-10-15 16:22:12 [pengwin] RENNES-AUXERRE: no Polymarket event (try 83)
+2026-10-15 16:22:15 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 83)
+2026-10-15 16:22:17 [pengwin] AUXERRE-BREST: no Polymarket event (try 83)
+2026-10-15 16:23:07   llm groq-120b: rate limited, skip 37s
+2026-10-15 16:23:07 [pengwin] LAZIO-INTER: no Polymarket event (try 83)
+2026-10-15 16:23:09   llm groq-20b: rate limited, skip 84s
+2026-10-15 16:23:09 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 83)
+2026-10-15 16:23:11 [pengwin] INTER-COMO: no Polymarket event (try 83)
+2026-10-15 16:23:14 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 82)
+2026-10-15 16:23:16 [pengwin] COMO-INTER: no Polymarket event (try 83)
+2026-10-15 16:23:18 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 83)
+2026-10-15 16:23:20 [pengwin] NAPOLI-COMO: no Polymarket event (try 83)
+2026-10-15 16:23:22 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 83)
+2026-10-15 16:23:49 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 83)
