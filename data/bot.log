@@ -11919,3 +11919,49 @@
 2026-10-15 22:08:07 [pengwin] NAPOLI-COMO: no Polymarket event (try 93)
 2026-10-15 22:08:10 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 93)
 2026-10-15 22:08:37 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 93)
+2026-10-15 22:11:43 NEWS [ESPN 6m] Alec Ingold (FB, Los Angeles Chargers) ruled out: Active -> Injured Reserve [NFL]
+2026-10-15 22:11:43   skip No :: Will the Los Angeles Dodgers win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-15 22:11:43   skip Yes :: Will there be a run scored in the first inning?: Milwaukee Brewers vs. (rules fallback, LLM down (not traded))
+2026-10-15 22:11:43   skip Chiefs :: Chargers vs. Chiefs (rules fallback, LLM down (not traded))
+2026-10-15 22:15:35 indexed 906 markets
+2026-10-15 22:25:36 indexed 889 markets
+2026-10-15 22:27:13   drop[1-source] ASI Prepares to Present Lamb Import Injury Testimony to the U.S. International Trade Commi (American Ag Network) :: American Sheep Industry (ASI), wait 2nd source
+2026-10-15 22:27:14   drop[kind] SMU Gets Injury Edge As Virginia Loses Key Players Before ACC Showdown (roundtable.io) :: other
+2026-10-15 22:29:40   drop[kind] Jalen Hurts Injury Takes Unexpected Turn As NFL Doctor Predicts Possibilities Of Heart Att (Sportscape Magazine) :: other
+2026-10-15 22:31:48   drop[kind] Azle native, Tyler Ulrich, dies following college football game injury (WFAA) :: other
+2026-10-15 22:34:06   drop[team-not-named] Christian Gonzalez upgraded to full participant on Thursday injury report (NBC Sports) :: New York Jets
+2026-10-15 22:34:07   drop[not-key] TreVeyon Henderson Injury: Limited again Thursday (RotoWire) :: TreVeyon Henderson: limited participation Thursday due to injury
+2026-10-15 22:35:38 indexed 895 markets
+2026-10-15 22:36:29   drop[1-source] MN Wild Reveal More Bad News on Injury Front but Some Good News on Brock Faber (Minnesota Sports Fan) :: Brock Faber, wait 2nd source
+2026-10-15 22:36:29   llm groq-120b: rate limited, skip 14s
+2026-10-15 22:36:30   drop[unconfirmed] 49ers get concerning Mike Evans report amid Achilles injury issue (Sporting News) :: injury
+2026-10-15 22:36:36 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 94)
+2026-10-15 22:36:39 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 94)
+2026-10-15 22:36:41 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 94)
+2026-10-15 22:36:45 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 93)
+2026-10-15 22:36:48   llm groq-120b: rate limited, skip 33s
+2026-10-15 22:36:48 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 93)
+2026-10-15 22:36:51 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 94)
+2026-10-15 22:36:54 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 94)
+2026-10-15 22:36:57 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 94)
+2026-10-15 22:36:59 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 94)
+2026-10-15 22:37:02 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 94)
+2026-10-15 22:37:04 [pengwin] MONACO-TOLOSA: no Polymarket event (try 94)
+2026-10-15 22:37:07 [pengwin] BREST-ANGERS: no Polymarket event (try 94)
+2026-10-15 22:37:10 [pengwin] PSG-LE MANS: no Polymarket event (try 94)
+2026-10-15 22:37:13   llm groq-20b: rate limited, skip 143s
+2026-10-15 22:37:13 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 93)
+2026-10-15 22:37:15 [pengwin] RENNES-AUXERRE: no Polymarket event (try 94)
+2026-10-15 22:37:18 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 94)
+2026-10-15 22:37:20 [pengwin] AUXERRE-BREST: no Polymarket event (try 94)
+2026-10-15 22:38:11   llm groq-120b: rate limited, skip 13s
+2026-10-15 22:38:11 [pengwin] LAZIO-INTER: no Polymarket event (try 94)
+2026-10-15 22:38:13 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 94)
+2026-10-15 22:38:15 [pengwin] INTER-COMO: no Polymarket event (try 94)
+2026-10-15 22:38:17 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 93)
+2026-10-15 22:38:19 [pengwin] COMO-INTER: no Polymarket event (try 94)
+2026-10-15 22:38:22 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 94)
+2026-10-15 22:38:25 [pengwin] NAPOLI-COMO: no Polymarket event (try 94)
+2026-10-15 22:38:27   llm groq-120b: rate limited, skip 75s
+2026-10-15 22:38:27 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 94)
+2026-10-15 22:38:55 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 94)
