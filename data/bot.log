@@ -11876,3 +11876,46 @@
 2026-10-15 21:37:55 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 92)
 2026-10-15 21:38:23   llm groq-20b: rate limited, skip 135s
 2026-10-15 21:38:23 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 92)
+2026-10-15 21:44:16   drop[no-pick] FINAL: Guardians 3, Rays 2 Petey Halpin’s two-run homer — with a 25-foot-high bat flip to  (Jeff Passan) :: short
+2026-10-15 21:45:34 indexed 902 markets
+2026-10-15 21:50:16   drop[team-not-named] Serbian tennis player Stefan Milicevic suspended 24 years for match fixing (Sports Business Journal) :: Serbia
+2026-10-15 21:50:19   drop[kind] Bus, train collision in Channel tunnel leaves 19 injured - French authorities reut.rs/4ys8 (Reuters) :: other
+2026-10-15 21:52:45   drop[1-source] Liverpool star suffers setback as Andoni Iraola addresses ‘bad’ injury (talkSPORT) :: Liverpool FC, wait 2nd source
+2026-10-15 21:55:35 indexed 900 markets
+2026-10-15 22:02:09   drop[verify] Eagles' Hurts injury announcement raises questions (NBC Sports) :: Headline doesn't explicitly confirm Hurts is ruled out
+2026-10-15 22:02:09   drop[team-not-named] Nissanka ruled out of ODI Tri-Series (Ceylon Daily News) :: Sri Lanka national cricket team
+2026-10-15 22:02:09   llm groq-120b: rate limited, skip 42s
+2026-10-15 22:02:10   drop[1-source] Yadadri chief engineer suspended over power generation lapses (The Hans India) :: Yadadri Chief Engineer, wait 2nd source
+2026-10-15 22:05:37 indexed 914 markets
+2026-10-15 22:06:21   llm groq-120b: rate limited, skip 646s
+2026-10-15 22:06:21 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 93)
+2026-10-15 22:06:25 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 93)
+2026-10-15 22:06:27 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 93)
+2026-10-15 22:06:29   drop[1-source] Who Vanderbilt Football’s Backup Quarterback is With Blaze Berlowitz Injury (Sports Illustrated) :: Vanderbilt Commodores, wait 2nd source
+2026-10-15 22:06:29   drop[1-source] 49ers WR Mike Evans Misses Week 6 Practice With New Injury (Sports Illustrated) :: Mike Evans, wait 2nd source
+2026-10-15 22:06:30 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 92)
+2026-10-15 22:06:30   drop[team-not-named] Kiwis fear for Ponga as injury outlook revealed (1News) :: New Zealand national rugby union team (All Blacks)
+2026-10-15 22:06:33   llm groq-20b: rate limited, skip 54s
+2026-10-15 22:06:33 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 92)
+2026-10-15 22:06:36 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 93)
+2026-10-15 22:06:38 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 93)
+2026-10-15 22:06:41 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 93)
+2026-10-15 22:06:43 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 93)
+2026-10-15 22:06:46 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 93)
+2026-10-15 22:06:48 [pengwin] MONACO-TOLOSA: no Polymarket event (try 93)
+2026-10-15 22:06:50 [pengwin] BREST-ANGERS: no Polymarket event (try 93)
+2026-10-15 22:06:52 [pengwin] PSG-LE MANS: no Polymarket event (try 93)
+2026-10-15 22:06:55 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 92)
+2026-10-15 22:06:58 [pengwin] RENNES-AUXERRE: no Polymarket event (try 93)
+2026-10-15 22:07:01 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 93)
+2026-10-15 22:07:03 [pengwin] AUXERRE-BREST: no Polymarket event (try 93)
+2026-10-15 22:07:54 [pengwin] LAZIO-INTER: no Polymarket event (try 93)
+2026-10-15 22:07:56   llm groq-20b: rate limited, skip 244s
+2026-10-15 22:07:56 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 93)
+2026-10-15 22:07:59 [pengwin] INTER-COMO: no Polymarket event (try 93)
+2026-10-15 22:08:01 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 92)
+2026-10-15 22:08:03 [pengwin] COMO-INTER: no Polymarket event (try 93)
+2026-10-15 22:08:05 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 93)
+2026-10-15 22:08:07 [pengwin] NAPOLI-COMO: no Polymarket event (try 93)
+2026-10-15 22:08:10 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 93)
+2026-10-15 22:08:37 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 93)
