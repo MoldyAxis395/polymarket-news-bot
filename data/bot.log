@@ -11492,3 +11492,46 @@
 2026-10-15 12:39:00 [pengwin] RENNES-AUXERRE: no Polymarket event (try 85)
 2026-10-15 12:39:03 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 85)
 2026-10-15 12:39:04 [pengwin] AUXERRE-BREST: no Polymarket event (try 85)
+2026-10-15 12:39:50 [pengwin] LAZIO-INTER: no Polymarket event (try 85)
+2026-10-15 12:39:52 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 85)
+2026-10-15 12:39:54 [pengwin] INTER-COMO: no Polymarket event (try 85)
+2026-10-15 12:39:56 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 84)
+2026-10-15 12:39:58 [pengwin] COMO-INTER: no Polymarket event (try 85)
+2026-10-15 12:40:00 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 85)
+2026-10-15 12:40:02 [pengwin] NAPOLI-COMO: no Polymarket event (try 85)
+2026-10-15 12:40:04 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 85)
+2026-10-15 12:40:30 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 85)
+2026-10-15 12:42:12   llm groq-120b: rate limited, skip 112s
+2026-10-15 12:42:12   llm groq-20b: rate limited, skip 37s
+2026-10-15 12:45:11 indexed 863 markets
+2026-10-15 12:46:50   drop[kind] Osimhen’s pregnant girlfriend escapes injury in Istanbul crash (QED.NG) :: other
+2026-10-15 12:49:19   llm groq-120b: rate limited, skip 30s
+2026-10-15 12:49:19   drop[kind] Acworth van crash leaves vehicle suspended 10 feet above ground (Cobb Courier) :: other
+2026-10-15 12:49:20   drop[team-not-named] Gareth Southgate has ruled out returning to management in the Premier League and revealed  (Sky Sports) :: England national team
+2026-10-15 12:49:20   llm groq-20b: rate limited, skip 261s
+2026-10-15 12:53:45   drop[team-not-named] After outrage over viral video, Misrod TI suspended; probe ordered (The Hitavada) :: 
+2026-10-15 12:55:11 indexed 868 markets
+2026-10-15 12:56:02   drop[1-source] Invincible Ibis Out With Suspensory Injury (Idol Horse) :: Invincible Ibis, wait 2nd source
+2026-10-15 12:56:02   llm groq-120b: rate limited, skip 296s
+2026-10-15 12:56:02   drop[1-source] Spotted: Mykhailo Mudryk makes Chelsea FC return during Tottenham injury layoff (London Evening Standard) :: Mykhailo Mudryk, wait 2nd source
+2026-10-15 12:56:02   llm groq-20b: rate limited, skip 132s
+2026-10-15 13:00:41   drop[1-source] Hamstring injury rules Pathum Nissanka out of Sri Lanka’s Pakistan campaign (Telangana Today) :: Pathum Nissanka, wait 2nd source
+2026-10-15 13:05:12 indexed 874 markets
+2026-10-15 13:05:14   drop[kind] China's ByteDance sets up AI safety team, launches global hiring drive reut.rs/4B8gH1W (Reuters) :: other
+2026-10-15 13:05:18   drop[kind] Scotland receive unexpected injury boost in time for Nations Championship (Rugbypass.com) :: other
+2026-10-15 13:05:18   llm groq-120b: rate limited, skip 312s
+2026-10-15 13:05:19   drop[unconfirmed] Mitchell Moses Faces Uncertain Future After Injury in World Cup Opener (SSBCrack) :: injury
+2026-10-15 13:07:55   llm groq-20b: rate limited, skip 48s
+2026-10-15 13:09:05 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 86)
+2026-10-15 13:09:08 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 86)
+2026-10-15 13:09:10 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 86)
+2026-10-15 13:09:13 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 85)
+2026-10-15 13:09:15   llm groq-20b: rate limited, skip 257s
+2026-10-15 13:09:15 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 86)
+2026-10-15 13:09:18 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 86)
+2026-10-15 13:09:20 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 86)
+2026-10-15 13:09:22 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 86)
+2026-10-15 13:09:24 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 86)
+2026-10-15 13:09:26 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 86)
+2026-10-15 13:09:28 [pengwin] MONACO-TOLOSA: no Polymarket event (try 86)
+2026-10-15 13:09:30 [pengwin] BREST-ANGERS: no Polymarket event (try 86)
