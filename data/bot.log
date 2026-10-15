@@ -11571,3 +11571,60 @@
 2026-10-15 17:54:43 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 86)
 2026-10-15 17:54:45 [pengwin] INTER-COMO: no Polymarket event (try 86)
 2026-10-15 17:54:48 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 85)
+2026-10-15 17:54:50 [pengwin] COMO-INTER: no Polymarket event (try 86)
+2026-10-15 17:54:52 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 86)
+2026-10-15 17:54:54 [pengwin] NAPOLI-COMO: no Polymarket event (try 86)
+2026-10-15 17:54:56 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 86)
+2026-10-15 17:55:23 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 86)
+2026-10-15 17:57:53   drop[team-not-named] What Michael Penix Jr.'s rib injury means for the Falcons offense (NBC Sports) :: Washington State Cougars
+2026-10-15 17:59:59   llm groq-120b: rate limited, skip 235s
+2026-10-15 17:59:59   llm groq-20b: rate limited, skip 31s
+2026-10-15 18:00:49 indexed 970 markets
+2026-10-15 18:01:53   drop[not-key] Jared Spurgeon (D, Minnesota Wild) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Jared Spurgeon: day-to-day
+2026-10-15 18:01:53   llm groq-20b: rate limited, skip 200s
+2026-10-15 18:01:53 NEWS [ESPN 10m] Olli Maatta (D, Minnesota Wild) ruled out: Day-To-Day -> Out [NHL]
+2026-10-15 18:01:53   skip Blues :: Blues vs. Wild (rules fallback, LLM down (not traded))
+2026-10-15 18:04:47   drop[not-key] Cade Povich Injury: Undergoes elbow surgery (RotoWire) :: Cade Povich: undergoes elbow surgery
+2026-10-15 18:04:47   llm groq-120b: rate limited, skip 230s
+2026-10-15 18:07:19   drop[kind] Rasheedat Ajibade Targets Strong Comeback After Ankle Injury (Nigerian Voice) :: other
+2026-10-15 18:09:25   drop[kind] A new injury hits Al-Nassr's ranks after Coman and Simakan (Goal.com) :: other
+2026-10-15 18:09:25   llm groq-120b: rate limited, skip 270s
+2026-10-15 18:09:25   llm groq-20b: rate limited, skip 226s
+2026-10-15 18:10:54 indexed 961 markets
+2026-10-15 18:14:05   llm groq-120b: rate limited, skip 303s
+2026-10-15 18:14:06   llm groq-20b: rate limited, skip 20s
+2026-10-15 18:16:33   drop[no-market] Scott Wharton: Blackburn defender back from injury (BBC) :: Blackburn Rovers
+2026-10-15 18:18:40   drop[1-source] Another starting Steelers defensive lineman goes down with injury (PennLive.com) :: T.J. Watt, wait 2nd source
+2026-10-15 18:21:29 indexed 961 markets
+2026-10-15 18:21:35   drop[1-source] Barcelona handed massive boost as star duo return to training after injury ahead of Betis  (Sportskeeda) :: FC Barcelona, wait 2nd source
+2026-10-15 18:22:48 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 87)
+2026-10-15 18:22:52 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 87)
+2026-10-15 18:22:54 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 87)
+2026-10-15 18:22:57 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 86)
+2026-10-15 18:23:00 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 87)
+2026-10-15 18:23:03   llm groq-120b: rate limited, skip 89s
+2026-10-15 18:23:04 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 87)
+2026-10-15 18:23:06   llm groq-20b: rate limited, skip 30s
+2026-10-15 18:23:06 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 87)
+2026-10-15 18:23:09 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 87)
+2026-10-15 18:23:11 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 87)
+2026-10-15 18:23:14 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 87)
+2026-10-15 18:23:16 [pengwin] MONACO-TOLOSA: no Polymarket event (try 87)
+2026-10-15 18:23:18 [pengwin] BREST-ANGERS: no Polymarket event (try 87)
+2026-10-15 18:23:20 [pengwin] PSG-LE MANS: no Polymarket event (try 87)
+2026-10-15 18:23:22 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 86)
+2026-10-15 18:23:25 [pengwin] RENNES-AUXERRE: no Polymarket event (try 87)
+2026-10-15 18:23:28 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 87)
+2026-10-15 18:23:30 [pengwin] AUXERRE-BREST: no Polymarket event (try 87)
+2026-10-15 18:23:33 NEWS [ESPN 11m] Rasmus Dahlin (D, Buffalo Sabres) ruled out: Day-To-Day -> Out [NHL]
+2026-10-15 18:23:33   skip Maple Leafs :: Sabres vs. Maple Leafs (rules fallback, LLM down (not traded))
+2026-10-15 18:24:19 [pengwin] LAZIO-INTER: no Polymarket event (try 87)
+2026-10-15 18:24:21   llm groq-20b: rate limited, skip 89s
+2026-10-15 18:24:21 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 87)
+2026-10-15 18:24:23 [pengwin] INTER-COMO: no Polymarket event (try 87)
+2026-10-15 18:24:25 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 86)
+2026-10-15 18:24:27 [pengwin] COMO-INTER: no Polymarket event (try 87)
+2026-10-15 18:24:29 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 87)
+2026-10-15 18:24:31 [pengwin] NAPOLI-COMO: no Polymarket event (try 87)
+2026-10-15 18:24:34   llm groq-120b: rate limited, skip 7s
+2026-10-15 18:24:34 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 87)
