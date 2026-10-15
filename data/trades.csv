@@ -176,3 +176,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-12T00:15:21+00:00,SELL,Ravens vs. Falcons,Falcons,16.13,0.6200,10.00,+0.00,market closing
 2026-10-14T00:34:55+00:00,BUY,Stars vs. Avalanche,Avalanche,17.86,0.5600,10.00,,"Wyatt Johnston (C, Dallas Stars) ruled out: healthy -> Out [NHL] | llm[groq-20b] trusted: Johnston out hurts Stars, so Avalanche win probability should rise"
 2026-10-14T08:21:38+00:00,SELL,Stars vs. Avalanche,Avalanche,17.86,0.5700,10.18,+0.18,max hold
+2026-10-15T04:50:35+00:00,BUY,Seahawks vs. Broncos,Seahawks,17.54,0.5700,10.00,,"Seahawks' Drake Thomas, Broncos' Pat Surtain II out for Thursday game reut.rs/4B6Uwt7 | llm[groq-20b] trusted: Pat Surtain II out hurts Broncos defense, likely lowering Broncos win probability and raising Seahawks odds by >5 points"

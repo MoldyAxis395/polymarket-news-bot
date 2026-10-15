@@ -1,6 +1,25 @@
 {
- "cash": 84.41152390475762,
- "positions": [],
+ "cash": 74.41152390475762,
+ "positions": [
+  {
+   "market_id": "4212356",
+   "question": "Seahawks vs. Broncos",
+   "slug": "nfl-sea-den-2026-10-16",
+   "outcome": "Seahawks",
+   "token": "61085243734073593459419955931627362545950081431149347585770687210061098950896",
+   "shares": 17.54385964912281,
+   "entry": 0.57,
+   "cost": 10.0,
+   "opened": 1792039835.5354478,
+   "opened_iso": "2026-10-15T04:50:35+00:00",
+   "news": "Seahawks' Drake Thomas, Broncos' Pat Surtain II out for Thursday game reut.rs/4B6Uwt7",
+   "reason": "llm[groq-20b] trusted: Pat Surtain II out hurts Broncos defense, likely lowering Broncos win probability and raising Seahawks odds by >5 points",
+   "conf": 0.7,
+   "end": "2026-10-16T00:15:00+00:00",
+   "last_bid": 0.56,
+   "book_err": false
+  }
+ ],
  "closed": [
   {
    "market_id": "3871412",
