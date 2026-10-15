@@ -11521,3 +11521,47 @@
 2026-10-15 08:53:43 [pengwin] RENNES-AUXERRE: no Polymarket event (try 86)
 2026-10-15 08:53:45 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 86)
 2026-10-15 08:53:48 [pengwin] AUXERRE-BREST: no Polymarket event (try 86)
+2026-10-15 08:54:32 [pengwin] LAZIO-INTER: no Polymarket event (try 86)
+2026-10-15 08:54:35 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 86)
+2026-10-15 08:54:37   llm groq-20b: rate limited, skip 104s
+2026-10-15 08:54:37 [pengwin] INTER-COMO: no Polymarket event (try 86)
+2026-10-15 08:54:38 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 85)
+2026-10-15 08:54:40 [pengwin] COMO-INTER: no Polymarket event (try 86)
+2026-10-15 08:54:42 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 86)
+2026-10-15 08:54:44 [pengwin] NAPOLI-COMO: no Polymarket event (try 86)
+2026-10-15 08:54:46 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 86)
+2026-10-15 08:55:10   llm groq-120b: rate limited, skip 58s
+2026-10-15 08:55:10 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 86)
+2026-10-15 08:57:53   llm groq-120b: rate limited, skip 16s
+2026-10-15 08:57:53   llm groq-20b: rate limited, skip 2s
+2026-10-15 09:00:11 indexed 853 markets
+2026-10-15 09:02:35   drop[1-source] AEW Champion Sidelined With Major Injury (SEScoops) :: MJF, wait 2nd source
+2026-10-15 09:04:53   drop[1-source] Negaunee treasurer suspended (The Mining Journal) :: Negaunee Treasurer Office, wait 2nd source
+2026-10-15 09:04:53   llm groq-120b: rate limited, skip 91s
+2026-10-15 09:04:54   drop[kind] MPI still lacking brain injury expert (Winnipeg Free Press) :: other
+2026-10-15 09:07:10   llm groq-120b: rate limited, skip 32s
+2026-10-15 09:07:10   drop[kind] Third CM in Karnataka cannot be ruled out, says Vijayendra (Udayavani) :: other
+2026-10-15 09:10:47 indexed 843 markets
+2026-10-15 09:15:29   drop[no-market] UK economy beats forecasts again to grow 0.1% in August reut.rs/4jRqi7a (Reuters) :: United Kingdom economy
+2026-10-15 09:16:26   drop[1-source] Telangana official suspended for negligence after CM Reddy’s warning over power outages (Social News XYZ) :: Telangana state government, wait 2nd source
+2026-10-15 09:20:47 indexed 844 markets
+2026-10-15 09:23:42 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 87)
+2026-10-15 09:23:45 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 87)
+2026-10-15 09:23:47 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 87)
+2026-10-15 09:23:49 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 86)
+2026-10-15 09:23:52 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 87)
+2026-10-15 09:23:54   llm groq-120b: rate limited, skip 4s
+2026-10-15 09:23:54 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 87)
+2026-10-15 09:23:57 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 87)
+2026-10-15 09:23:59 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 87)
+2026-10-15 09:24:01   llm groq-120b: rate limited, skip 102s
+2026-10-15 09:24:01 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 87)
+2026-10-15 09:24:04 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 87)
+2026-10-15 09:24:06 [pengwin] MONACO-TOLOSA: no Polymarket event (try 87)
+2026-10-15 09:24:08 [pengwin] BREST-ANGERS: no Polymarket event (try 87)
+2026-10-15 09:24:11 [pengwin] PSG-LE MANS: no Polymarket event (try 87)
+2026-10-15 09:24:13 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 86)
+2026-10-15 09:24:16 [pengwin] RENNES-AUXERRE: no Polymarket event (try 87)
+2026-10-15 09:24:18   llm groq-20b: rate limited, skip 128s
+2026-10-15 09:24:18 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 87)
+2026-10-15 09:24:20 [pengwin] AUXERRE-BREST: no Polymarket event (try 87)
