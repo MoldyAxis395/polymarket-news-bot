@@ -11222,3 +11222,38 @@
 2026-10-15 04:52:04 [pengwin] NAPOLI-COMO: no Polymarket event (try 78)
 2026-10-15 04:52:06 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 78)
 2026-10-15 04:52:31 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 78)
+2026-10-15 04:56:49   drop[kind] I’m told the Moussa Cissé ankle injury is not regarded … (HoopsHype) :: other
+2026-10-15 05:00:21 indexed 881 markets
+2026-10-15 05:10:20 indexed 875 markets
+2026-10-15 05:13:39 NEWS [Jeff Passan 1m] FINAL: Brewers 6, Dodgers 2 Milwaukee takes a 3-0 lead in the NLCS and can sweep the Dodgers tomorrow. Jake Bauers hit a go-ahead homer on the 11th pitch of an epic at-bat, Garrett Mitchell followed with another homer and Robert Gasser threw five scoreless for a monster win.
+2026-10-15 05:13:39   skip Milwaukee Brewers :: Milwaukee Brewers vs. Los Angeles Dodgers (low conf 0.6)
+2026-10-15 05:20:23 indexed 876 markets
+2026-10-15 05:20:40 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-15 05:21:12 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 79)
+2026-10-15 05:21:15 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 79)
+2026-10-15 05:21:17 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 79)
+2026-10-15 05:21:20 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 78)
+2026-10-15 05:21:22 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 79)
+2026-10-15 05:21:25 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 79)
+2026-10-15 05:21:28 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 79)
+2026-10-15 05:21:30 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 79)
+2026-10-15 05:21:32 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 79)
+2026-10-15 05:21:35 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 79)
+2026-10-15 05:21:37   llm groq-120b: rate limited, skip 39s
+2026-10-15 05:21:37 [pengwin] MONACO-TOLOSA: no Polymarket event (try 79)
+2026-10-15 05:21:39 [pengwin] BREST-ANGERS: no Polymarket event (try 79)
+2026-10-15 05:21:41 [pengwin] PSG-LE MANS: no Polymarket event (try 79)
+2026-10-15 05:21:44 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 78)
+2026-10-15 05:21:47 [pengwin] RENNES-AUXERRE: no Polymarket event (try 79)
+2026-10-15 05:21:49 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 79)
+2026-10-15 05:21:51 [pengwin] AUXERRE-BREST: no Polymarket event (try 79)
+2026-10-15 05:22:36 [pengwin] LAZIO-INTER: no Polymarket event (try 79)
+2026-10-15 05:22:38   llm groq-120b: rate limited, skip 104s
+2026-10-15 05:22:38 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 79)
+2026-10-15 05:22:40 [pengwin] INTER-COMO: no Polymarket event (try 79)
+2026-10-15 05:22:43 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 78)
+2026-10-15 05:22:45 [pengwin] COMO-INTER: no Polymarket event (try 79)
+2026-10-15 05:22:47 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 79)
+2026-10-15 05:22:49 [pengwin] NAPOLI-COMO: no Polymarket event (try 79)
+2026-10-15 05:22:51 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 79)
+2026-10-15 05:23:16 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 79)
