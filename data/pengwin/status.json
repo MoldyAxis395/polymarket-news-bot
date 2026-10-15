@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T18:21:11",
+ "updated": "2026-10-15T18:51:15",
  "start": 100.0,
  "cash": 119.85,
  "equity": 139.16,
@@ -20,7 +20,8 @@
    "conf": 1.0,
    "end": "2026-10-17T18:45:00+00:00",
    "last_bid": 0.6,
-   "book_err": false
+   "book_err": false,
+   "settle_retry": 1792082226.474749
   },
   {
    "market_id": "5269776",
@@ -44,7 +45,7 @@
  "closed_count": 19,
  "realized_pnl": 39.85,
  "pages": {
-  "pending": 146,
+  "pending": 154,
   "picked": 0,
   "traded": 21,
   "skipped": 41,

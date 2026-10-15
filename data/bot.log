@@ -11628,3 +11628,55 @@
 2026-10-15 18:24:31 [pengwin] NAPOLI-COMO: no Polymarket event (try 87)
 2026-10-15 18:24:34   llm groq-120b: rate limited, skip 7s
 2026-10-15 18:24:34 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 87)
+2026-10-15 18:25:01   llm groq-120b: rate limited, skip 69s
+2026-10-15 18:25:01 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 87)
+2026-10-15 18:27:06 [pengwin]   book error ES Troyes AC vs. Racing Club de Lens: Both Teams t: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-15 18:28:26   llm groq-120b: rate limited, skip 15s
+2026-10-15 18:28:26   drop[1-source] Steelers Shake Off Injury Scare on Defensive Line (Steelers Now) :: Jalen Thompson, wait 2nd source
+2026-10-15 18:30:58 indexed 955 markets
+2026-10-15 18:31:04   drop[1-source] Marcos Rojo ruled out of Estudiantes v Flamengo after Conmebol blocks emergency registrati (OneFootball) :: Marcos Rojo, wait 2nd source
+2026-10-15 18:37:11   drop[kind] Iran has hit Gulf infrastructure dozens of times in precision strikes, blunting the US war (Reuters) :: other
+2026-10-15 18:37:56   llm groq-120b: rate limited, skip 34s
+2026-10-15 18:37:56   drop[kind] Georgia RB avoids injury scare after career game vs. Alabama (UGA Wire) :: other
+2026-10-15 18:40:15   drop[unconfirmed] Kiwis fears for Ponga as injury outlook revealed (Central Western Daily) :: injury outlook suggests he may miss upcoming games
+2026-10-15 18:40:57 indexed 960 markets
+2026-10-15 18:42:34   llm groq-120b: rate limited, skip 124s
+2026-10-15 18:42:34   drop[1-source] Lalmonirhat judge suspended over incompetence, misconduct allegations (The Daily Star) :: Lalmonirhat District Court, wait 2nd source
+2026-10-15 18:45:02   drop[kind] Sean “Diddy” Combs Hospitalized After Reported Prison Head Injury (RadarOnline) :: other
+2026-10-15 18:45:15   llm groq-120b: rate limited, skip 313s
+2026-10-15 18:45:15   drop[unconfirmed] Jordan Mason (RB, Minnesota Vikings) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: thumb surgery
+2026-10-15 18:51:31 indexed 950 markets
+2026-10-15 18:51:33   llm groq-120b: rate limited, skip 81s
+2026-10-15 18:51:34   drop[side] Bowen Byram (D, Chicago Blackhawks) ruled out: healthy -> Out [NHL] (ESPN) :: Jets vs. Blackhawks -> Blackhawks vs fact ruled_out: Bowen Byram (Chicago Blackhawks, nhl), bad for Chicago Blackhawks. 
+2026-10-15 18:52:53 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 88)
+2026-10-15 18:52:57 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 88)
+2026-10-15 18:52:59 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 88)
+2026-10-15 18:53:02   llm groq-120b: rate limited, skip 85s
+2026-10-15 18:53:02 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 87)
+2026-10-15 18:53:05 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 88)
+2026-10-15 18:53:08 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 88)
+2026-10-15 18:53:11   llm groq-20b: rate limited, skip 219s
+2026-10-15 18:53:11 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 88)
+2026-10-15 18:53:13 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 88)
+2026-10-15 18:53:15 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 88)
+2026-10-15 18:53:18 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 88)
+2026-10-15 18:53:21 [pengwin] MONACO-TOLOSA: no Polymarket event (try 88)
+2026-10-15 18:53:23 [pengwin] BREST-ANGERS: no Polymarket event (try 88)
+2026-10-15 18:53:25 [pengwin] PSG-LE MANS: no Polymarket event (try 88)
+2026-10-15 18:53:28 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 87)
+2026-10-15 18:53:30 [pengwin] RENNES-AUXERRE: no Polymarket event (try 88)
+2026-10-15 18:53:33 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 88)
+2026-10-15 18:53:35 [pengwin] AUXERRE-BREST: no Polymarket event (try 88)
+2026-10-15 18:54:25 [pengwin] LAZIO-INTER: no Polymarket event (try 88)
+2026-10-15 18:54:27   llm groq-120b: rate limited, skip 8s
+2026-10-15 18:54:27 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 88)
+2026-10-15 18:54:29 [pengwin] INTER-COMO: no Polymarket event (try 88)
+2026-10-15 18:54:31 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 87)
+2026-10-15 18:54:33 [pengwin] COMO-INTER: no Polymarket event (try 88)
+2026-10-15 18:54:35 NEWS [ESPN 5m] Jake Walman (D, Edmonton Oilers) ruled out: Day-To-Day -> Out [NHL]
+2026-10-15 18:54:35   skip Utah :: Oilers vs. Utah (rules fallback, LLM down (not traded))
+2026-10-15 18:54:35   skip Utah :: Utah vs. Oilers (rules fallback, LLM down (not traded))
+2026-10-15 18:54:36 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 88)
+2026-10-15 18:54:39   llm groq-120b: rate limited, skip 31s
+2026-10-15 18:54:39 [pengwin] NAPOLI-COMO: no Polymarket event (try 88)
+2026-10-15 18:54:41 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 88)
