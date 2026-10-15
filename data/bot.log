@@ -11479,3 +11479,51 @@
 2026-10-15 16:53:19 [pengwin] NAPOLI-COMO: no Polymarket event (try 84)
 2026-10-15 16:53:21 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 84)
 2026-10-15 16:53:48 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 84)
+2026-10-15 16:55:07   llm groq-120b: rate limited, skip 97s
+2026-10-15 16:55:07   llm groq-20b: rate limited, skip 153s
+2026-10-15 16:59:43   drop[team-not-named] Zheng Qinwen to miss Japan Open with continued shoulder injury (WTA Tennis) :: China
+2026-10-15 17:00:27 indexed 974 markets
+2026-10-15 17:04:22   drop[not-key] Radko Gudas Injury: Targeting return Saturday (RotoWire) :: Radko Gudas: returning from injury
+2026-10-15 17:06:42   drop[1-source] Sajek road blockade suspended for Durga Puja, tourists allowed from tomorrow (The Daily Star) :: Sajek road, wait 2nd source
+2026-10-15 17:08:59   llm groq-120b: rate limited, skip 152s
+2026-10-15 17:08:59   drop[kind] Anthem Injury Lawyers Deepens Community Commitment with Several Fall Sponsorships Across L (PR Newswire) :: other
+2026-10-15 17:10:29 indexed 968 markets
+2026-10-15 17:10:48   drop[unconfirmed] Jacob Markstrom (G, Florida Panthers) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: backup goalie ruled out
+2026-10-15 17:10:48   drop[not-key] Radko Gudas (D, Florida Panthers) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Radko Gudas: day-to-day
+2026-10-15 17:11:29   drop[1-source] Sri Lanka suffer major blow as Pathum Nissanka ruled out of Pakistan-England Tri-Series (Daily Pakistan) :: Pathum Nissanka, wait 2nd source
+2026-10-15 17:12:51   drop[no-market] Aliyah Boston (C, Indiana Fever) ruled out: healthy -> Out [WNBA] (ESPN) :: Indiana Fever
+2026-10-15 17:15:55   llm groq-120b: rate limited, skip 26s
+2026-10-15 17:15:55   llm groq-20b: rate limited, skip 80s
+2026-10-15 17:17:55   llm groq-120b: rate limited, skip 410s
+2026-10-15 17:17:57   drop[verify] Jake Sanderson (D, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: player not star
+2026-10-15 17:20:28 indexed 969 markets
+2026-10-15 17:21:34 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-15 17:22:10   llm groq-20b: rate limited, skip 29s
+2026-10-15 17:22:10 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 85)
+2026-10-15 17:22:13 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 85)
+2026-10-15 17:22:15 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 85)
+2026-10-15 17:22:18 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 84)
+2026-10-15 17:22:21 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 85)
+2026-10-15 17:22:23 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 85)
+2026-10-15 17:22:26 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 85)
+2026-10-15 17:22:28 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 85)
+2026-10-15 17:22:30 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 85)
+2026-10-15 17:22:33 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 85)
+2026-10-15 17:22:35 [pengwin] MONACO-TOLOSA: no Polymarket event (try 85)
+2026-10-15 17:22:38 [pengwin] BREST-ANGERS: no Polymarket event (try 85)
+2026-10-15 17:22:40 [pengwin] PSG-LE MANS: no Polymarket event (try 85)
+2026-10-15 17:22:43   llm groq-20b: rate limited, skip 70s
+2026-10-15 17:22:43 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 84)
+2026-10-15 17:22:45 [pengwin] RENNES-AUXERRE: no Polymarket event (try 85)
+2026-10-15 17:22:48 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 85)
+2026-10-15 17:22:50 [pengwin] AUXERRE-BREST: no Polymarket event (try 85)
+2026-10-15 17:23:39 [pengwin] LAZIO-INTER: no Polymarket event (try 85)
+2026-10-15 17:23:42 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 85)
+2026-10-15 17:23:44 [pengwin] INTER-COMO: no Polymarket event (try 85)
+2026-10-15 17:23:46 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 84)
+2026-10-15 17:23:48 [pengwin] COMO-INTER: no Polymarket event (try 85)
+2026-10-15 17:23:50 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 85)
+2026-10-15 17:23:52 [pengwin] NAPOLI-COMO: no Polymarket event (try 85)
+2026-10-15 17:23:55   llm groq-20b: rate limited, skip 69s
+2026-10-15 17:23:55 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 85)
+2026-10-15 17:24:22 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 85)
