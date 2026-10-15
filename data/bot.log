@@ -11293,3 +11293,40 @@
 2026-10-15 10:07:00 [pengwin] NAPOLI-COMO: no Polymarket event (try 80)
 2026-10-15 10:07:02 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 80)
 2026-10-15 10:07:28 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 80)
+2026-10-15 10:09:36   llm groq-120b: rate limited, skip 148s
+2026-10-15 10:09:36   llm groq-20b: rate limited, skip 242s
+2026-10-15 10:12:05   llm groq-120b: rate limited, skip 38s
+2026-10-15 10:14:10   drop[1-source] Regional council suspended after weeks of chaos (The Daily Telegraph) :: Regional Council, wait 2nd source
+2026-10-15 10:14:57 indexed 828 markets
+2026-10-15 10:18:53   drop[1-source] 'He just recovered from injury' - Former Turkish referee defends Osimhen after Galatasaray (AllNigeriaSoccer) :: Galatasaray, wait 2nd source
+2026-10-15 10:24:57 indexed 831 markets
+2026-10-15 10:33:43   drop[kind] The time Souness rejected move from Liverpool to Barcelona (BBC) :: other
+2026-10-15 10:34:58 indexed 832 markets
+2026-10-15 10:36:01 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 81)
+2026-10-15 10:36:05 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 81)
+2026-10-15 10:36:07 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 81)
+2026-10-15 10:36:10 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 80)
+2026-10-15 10:36:12 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 81)
+2026-10-15 10:36:15 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 81)
+2026-10-15 10:36:18 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 81)
+2026-10-15 10:36:20   llm groq-120b: rate limited, skip 115s
+2026-10-15 10:36:20 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 81)
+2026-10-15 10:36:23 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 81)
+2026-10-15 10:36:26 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 81)
+2026-10-15 10:36:28 [pengwin] MONACO-TOLOSA: no Polymarket event (try 81)
+2026-10-15 10:36:30 [pengwin] BREST-ANGERS: no Polymarket event (try 81)
+2026-10-15 10:36:32 [pengwin] PSG-LE MANS: no Polymarket event (try 81)
+2026-10-15 10:36:35 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 80)
+2026-10-15 10:36:37 [pengwin] RENNES-AUXERRE: no Polymarket event (try 81)
+2026-10-15 10:36:40 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 81)
+2026-10-15 10:36:42 [pengwin] AUXERRE-BREST: no Polymarket event (try 81)
+2026-10-15 10:37:28 [pengwin] LAZIO-INTER: no Polymarket event (try 81)
+2026-10-15 10:37:30 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 81)
+2026-10-15 10:37:32 [pengwin] INTER-COMO: no Polymarket event (try 81)
+2026-10-15 10:37:34 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 80)
+2026-10-15 10:37:36 [pengwin] COMO-INTER: no Polymarket event (try 81)
+2026-10-15 10:37:38   llm groq-20b: rate limited, skip 93s
+2026-10-15 10:37:38 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 81)
+2026-10-15 10:37:40 [pengwin] NAPOLI-COMO: no Polymarket event (try 81)
+2026-10-15 10:37:42 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 81)
+2026-10-15 10:38:07 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 81)
