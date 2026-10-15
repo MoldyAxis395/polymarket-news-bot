@@ -11185,3 +11185,40 @@
 2026-10-15 04:21:46 [pengwin] NAPOLI-COMO: no Polymarket event (try 77)
 2026-10-15 04:21:48 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 77)
 2026-10-15 04:22:12 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 77)
+2026-10-15 04:24:56   llm groq-120b: rate limited, skip 35s
+2026-10-15 04:24:56   drop[not-key] Moussa Cisse exits Mavericks' preseason game vs. Pelicans with ankle injury (Dallas News) :: Moussa Cisse: ankle injury
+2026-10-15 04:30:18 indexed 878 markets
+2026-10-15 04:39:44 indexed 887 markets
+2026-10-15 04:39:59   drop[kind] Vidor woman arrested in connection with child injury investigation (12newsnow.com) :: other
+2026-10-15 04:44:29   drop[not-key] Stars have new injury to watch as Oskar Bäck exits early vs. Colorado Avalanche (Dallas News) :: Oskar Bäck: exited early with injury
+2026-10-15 04:49:43 indexed 881 markets
+2026-10-15 04:50:18   drop[no-pick] Trucks line up as long-delayed China-North Korea bridge officially opens reut.rs/3TX44pG (Reuters) :: short
+2026-10-15 04:50:30 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 78)
+2026-10-15 04:50:33 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 78)
+2026-10-15 04:50:35 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 78)
+2026-10-15 04:50:38   llm groq-120b: rate limited, skip 244s
+2026-10-15 04:50:38 [pengwin] skip HOFFENHEIM-AMBURGO [Hoffenheim casa Over 5.5 corner]: no matching market
+2026-10-15 04:50:41 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 77)
+2026-10-15 04:50:44 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 78)
+2026-10-15 04:50:47 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 78)
+2026-10-15 04:50:49 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 78)
+2026-10-15 04:50:52 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 78)
+2026-10-15 04:50:54 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 78)
+2026-10-15 04:50:56   llm groq-20b: rate limited, skip 167s
+2026-10-15 04:50:56 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 78)
+2026-10-15 04:50:58 [pengwin] MONACO-TOLOSA: no Polymarket event (try 78)
+2026-10-15 04:51:00 [pengwin] BREST-ANGERS: no Polymarket event (try 78)
+2026-10-15 04:51:02 [pengwin] PSG-LE MANS: no Polymarket event (try 78)
+2026-10-15 04:51:04 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 77)
+2026-10-15 04:51:06 [pengwin] RENNES-AUXERRE: no Polymarket event (try 78)
+2026-10-15 04:51:08 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 78)
+2026-10-15 04:51:10 [pengwin] AUXERRE-BREST: no Polymarket event (try 78)
+2026-10-15 04:51:53 [pengwin] LAZIO-INTER: no Polymarket event (try 78)
+2026-10-15 04:51:55 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 78)
+2026-10-15 04:51:57 [pengwin] INTER-COMO: no Polymarket event (try 78)
+2026-10-15 04:51:59 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 77)
+2026-10-15 04:52:01 [pengwin] COMO-INTER: no Polymarket event (try 78)
+2026-10-15 04:52:02 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 78)
+2026-10-15 04:52:04 [pengwin] NAPOLI-COMO: no Polymarket event (try 78)
+2026-10-15 04:52:06 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 78)
+2026-10-15 04:52:31 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 78)
