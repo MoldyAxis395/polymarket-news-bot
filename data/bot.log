@@ -11965,3 +11965,46 @@
 2026-10-15 22:38:27   llm groq-120b: rate limited, skip 75s
 2026-10-15 22:38:27 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 94)
 2026-10-15 22:38:55 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 94)
+2026-10-15 22:45:40 indexed 897 markets
+2026-10-15 22:48:14   drop[1-source] Chris Olave misses second practice on Saints injury report vs. Giants (Saints Wire) :: Chris Olave, wait 2nd source
+2026-10-15 22:50:19   drop[not-key] Abdul Carter’s Misses Second Day of Practice with Calf Injury (Sports Illustrated) :: Abdul Carter: Calf injury forces him to miss practice, indicating he'll be unavailable for upcoming games
+2026-10-15 22:50:19   llm groq-120b: rate limited, skip 93s
+2026-10-15 22:50:20   drop[kind] Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove (CNBC) :: other
+2026-10-15 22:50:23   drop[kind] Amazon launches two new portable AI listening devices reut.rs/4jSUmiM (Reuters) :: other
+2026-10-15 22:54:57   drop[kind] Southern Nazarene football Player Tyler Ulrich dies days after injury during game in Arkan (News 9) :: other
+2026-10-15 22:55:40 indexed 903 markets
+2026-10-15 22:57:26   drop[kind] Rangers Sign Veteran Goaltender Following Igor Shesterkin Injury Blow (Sportsnaut) :: other
+2026-10-15 23:01:52   drop[1-source] Patriots vs. Jets Thursday injury report: Three sidelined, while Christian Gonzalez goes i (Pats Pulpit) :: Christian Gonzalez, wait 2nd source
+2026-10-15 23:01:52   llm groq-120b: rate limited, skip 286s
+2026-10-15 23:01:53   drop[kind] Caleb Williams' fiery first presser since injury had everything Bears fans wanted (Bear Goggles On) :: other
+2026-10-15 23:01:53   drop[not-key] Ben Skowronek Injury: Won't play in Week 6 (RotoWire) :: Ben Skowronek: injury
+2026-10-15 23:04:09   drop[kind] Southern Nazarene announces death of football player Tyler Ulrich after injury (KOKH) :: other
+2026-10-15 23:04:09   llm groq-20b: rate limited, skip 288s
+2026-10-15 23:05:42 indexed 903 markets
+2026-10-15 23:06:54 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 95)
+2026-10-15 23:06:57 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 95)
+2026-10-15 23:06:59 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 95)
+2026-10-15 23:07:02   llm groq-120b: rate limited, skip 396s
+2026-10-15 23:07:02 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 94)
+2026-10-15 23:07:05 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 94)
+2026-10-15 23:07:07 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 95)
+2026-10-15 23:07:10 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 95)
+2026-10-15 23:07:12 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 95)
+2026-10-15 23:07:14 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 95)
+2026-10-15 23:07:17 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 95)
+2026-10-15 23:07:19 [pengwin] MONACO-TOLOSA: no Polymarket event (try 95)
+2026-10-15 23:07:21 [pengwin] BREST-ANGERS: no Polymarket event (try 95)
+2026-10-15 23:07:24 [pengwin] PSG-LE MANS: no Polymarket event (try 95)
+2026-10-15 23:07:26 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 94)
+2026-10-15 23:07:29 [pengwin] RENNES-AUXERRE: no Polymarket event (try 95)
+2026-10-15 23:07:31 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 95)
+2026-10-15 23:07:33 [pengwin] AUXERRE-BREST: no Polymarket event (try 95)
+2026-10-15 23:08:24 [pengwin] LAZIO-INTER: no Polymarket event (try 95)
+2026-10-15 23:08:26 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 95)
+2026-10-15 23:08:28 [pengwin] INTER-COMO: no Polymarket event (try 95)
+2026-10-15 23:08:30 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 94)
+2026-10-15 23:08:32 [pengwin] COMO-INTER: no Polymarket event (try 95)
+2026-10-15 23:08:34 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 95)
+2026-10-15 23:08:37 [pengwin] NAPOLI-COMO: no Polymarket event (try 95)
+2026-10-15 23:08:39 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 95)
+2026-10-15 23:09:07 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 95)
