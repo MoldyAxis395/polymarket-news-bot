@@ -11709,3 +11709,39 @@
 2026-10-15 15:09:22   llm groq-120b: rate limited, skip 210s
 2026-10-15 15:09:23   drop[1-source] CPSC Warns Consumers to Immediately Stop Using Tristar Products 6-Quart Power Quick Pot Pr (CPSC.gov) :: Tristar, wait 2nd source
 2026-10-15 15:09:23   llm groq-20b: rate limited, skip 9s
+2026-10-15 15:11:33 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 90)
+2026-10-15 15:11:35   llm groq-20b: rate limited, skip 16s
+2026-10-15 15:11:35 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 90)
+2026-10-15 15:11:37 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 90)
+2026-10-15 15:11:40 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 89)
+2026-10-15 15:11:42 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 90)
+2026-10-15 15:11:44 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 90)
+2026-10-15 15:11:46 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 90)
+2026-10-15 15:11:49 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 90)
+2026-10-15 15:11:51 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 90)
+2026-10-15 15:11:54 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 90)
+2026-10-15 15:11:56   llm groq-20b: rate limited, skip 81s
+2026-10-15 15:11:56 [pengwin] MONACO-TOLOSA: no Polymarket event (try 90)
+2026-10-15 15:11:58 [pengwin] BREST-ANGERS: no Polymarket event (try 90)
+2026-10-15 15:12:00 [pengwin] PSG-LE MANS: no Polymarket event (try 90)
+2026-10-15 15:12:02 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 89)
+2026-10-15 15:12:04 [pengwin] RENNES-AUXERRE: no Polymarket event (try 90)
+2026-10-15 15:12:07 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 90)
+2026-10-15 15:12:08 [pengwin] AUXERRE-BREST: no Polymarket event (try 90)
+2026-10-15 15:13:01 [pengwin] LAZIO-INTER: no Polymarket event (try 90)
+2026-10-15 15:13:03 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 90)
+2026-10-15 15:13:05   llm groq-120b: rate limited, skip 55s
+2026-10-15 15:13:05 [pengwin] INTER-COMO: no Polymarket event (try 90)
+2026-10-15 15:13:07 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 89)
+2026-10-15 15:13:09 [pengwin] COMO-INTER: no Polymarket event (try 90)
+2026-10-15 15:13:11 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 90)
+2026-10-15 15:13:13 [pengwin] NAPOLI-COMO: no Polymarket event (try 90)
+2026-10-15 15:13:15 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 90)
+2026-10-15 15:13:18   llm groq-20b: rate limited, skip 128s
+2026-10-15 15:13:40 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 90)
+2026-10-15 15:15:23 indexed 974 markets
+2026-10-15 15:16:16   drop[not-key] Renee Slegers confirms double injury blow for Arsenal Women as Gunners return from interna (Online Gooner) :: Renee Slegers: double injury blow reported
+2026-10-15 15:16:16   llm groq-120b: rate limited, skip 392s
+2026-10-15 15:16:16   drop[1-source] Massive blow for Inter! Lautaro Martinez suffers hamstring injury and will miss the Milan  (Goal.com) :: Lautaro Martinez, wait 2nd source
+2026-10-15 15:18:34   llm groq-20b: rate limited, skip 61s
+2026-10-15 15:19:17 shift over, state saved
