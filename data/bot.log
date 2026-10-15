@@ -11793,89 +11793,42 @@
 2026-10-15 20:16:30   drop[not-key] Barre-Boulet cleared (Elliotte Friedman) :: Alex Barre-Boulet: cleared to play after injury
 2026-10-15 20:17:20   drop[1-source] Maryland tennis club suspended over KKK imagery (CNN) :: Maryland Tennis Club, wait 2nd source
 2026-10-15 20:21:48 indexed 938 markets
-2026-10-15 20:25:32 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 91)
-2026-10-15 20:25:37 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 91)
-2026-10-15 20:25:41 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 91)
-2026-10-15 20:25:44 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 90)
-2026-10-15 20:25:53   llm groq-120b: rate limited, skip 7s
-2026-10-15 20:25:54 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 90)
-2026-10-15 20:25:54   drop[verify] Josh Jacobs (RB, Green Bay Packers) ruled out: healthy -> Out [NFL] (ESPN) :: not on Packers
-2026-10-15 20:25:57 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 91)
-2026-10-15 20:26:00 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 91)
-2026-10-15 20:26:48 [pengwin] page iga/bayer-leverkusen-lipsia-statistiche-quote-e-pronostico-2: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out.
-2026-10-15 20:26:53 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 91)
-2026-10-15 20:26:56 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 91)
-2026-10-15 20:26:58   llm groq-120b: rate limited, skip 9s
-2026-10-15 20:26:59 [pengwin] MONACO-TOLOSA: no Polymarket event (try 91)
-2026-10-15 20:27:02 [pengwin] BREST-ANGERS: no Polymarket event (try 91)
-2026-10-15 20:27:05 [pengwin] PSG-LE MANS: no Polymarket event (try 91)
-2026-10-15 20:27:08 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 90)
-2026-10-15 20:27:11   llm groq-120b: rate limited, skip 31s
-2026-10-15 20:27:11 [pengwin] RENNES-AUXERRE: no Polymarket event (try 91)
-2026-10-15 20:27:15 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 91)
-2026-10-15 20:27:17   llm groq-20b: rate limited, skip 35s
-2026-10-15 20:27:17 [pengwin] AUXERRE-BREST: no Polymarket event (try 91)
-2026-10-15 20:29:18 [pengwin] page coppa-italia/lazio-inter-statistiche-quote-e-pronostico-2026: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-15 20:29:21 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 91)
-2026-10-15 20:29:23   llm groq-120b: rate limited, skip 59s
-2026-10-15 20:29:23 [pengwin] INTER-COMO: no Polymarket event (try 91)
-2026-10-15 20:29:26   llm groq-20b: rate limited, skip 96s
-2026-10-15 20:29:26 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 90)
-2026-10-15 20:29:27 [pengwin] COMO-INTER: no Polymarket event (try 91)
-2026-10-15 20:29:30 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 91)
-2026-10-15 20:29:32 [pengwin] NAPOLI-COMO: no Polymarket event (try 91)
-2026-10-15 20:29:34 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 91)
-2026-10-15 20:30:02 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 91)
-2026-10-15 20:31:13 indexed 941 markets
-2026-10-15 20:31:14   llm groq-120b: rate limited, skip 83s
-2026-10-15 20:31:14   llm groq-20b: rate limited, skip 284s
-2026-10-15 20:31:14 NEWS [ESPN 3m] Jonathon Brooks (RB, Carolina Panthers) ruled out: healthy -> Injured Reserve [NFL]
-2026-10-15 20:31:14   skip Eagles :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
-2026-10-15 20:33:37   drop[kind] Jonathon Brooks Injury: Spotted jogging Thursday (RotoWire) :: other
-2026-10-15 20:33:37   llm groq-120b: rate limited, skip 244s
-2026-10-15 20:38:17   llm groq-120b: rate limited, skip 70s
-2026-10-15 20:38:18   drop[kind] Diddy's Prison Denies Drug Kingpin Fight, Reiterates Bunk Bed Injury (Baller Alert) :: other
-2026-10-15 20:40:45   drop[not-key] Aaron Nesmith returns to Pacers practice, T.J. McConnell's status is unclear (IndyStar) :: Aaron Nesmith: back in practice after absence
-2026-10-15 20:41:16 indexed 935 markets
-2026-10-15 20:42:52   llm groq-120b: rate limited, skip 54s
-2026-10-15 20:42:53   llm groq-20b: rate limited, skip 189s
-2026-10-15 20:42:53   drop[no-pick] Jalen Hurts Blood Clot Injury: Betting Impact for Philadelphia Eagles Week 6 and Beyond (Doc's Sports) :: None
-2026-10-15 20:45:12   drop[team-not-named] Jalen Hurts ruled out vs. Carolina Panthers in Week 6 (roundtable.io) :: Philadelphia Eagles
-2026-10-15 20:45:12   llm groq-120b: rate limited, skip 206s
-2026-10-15 20:51:51 indexed 952 markets
-2026-10-15 20:54:39 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 92)
-2026-10-15 20:54:43 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 92)
-2026-10-15 20:54:45 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 92)
-2026-10-15 20:54:48 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 91)
-2026-10-15 20:54:51 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 91)
-2026-10-15 20:54:54   llm groq-120b: rate limited, skip 80s
-2026-10-15 20:54:54 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 92)
-2026-10-15 20:54:57 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 92)
-2026-10-15 20:55:00 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 91)
-2026-10-15 20:55:03 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 92)
-2026-10-15 20:55:06 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 92)
-2026-10-15 20:55:09 [pengwin] MONACO-TOLOSA: no Polymarket event (try 92)
-2026-10-15 20:55:11 [pengwin] BREST-ANGERS: no Polymarket event (try 92)
-2026-10-15 20:55:14   llm groq-20b: rate limited, skip 43s
-2026-10-15 20:55:14 [pengwin] PSG-LE MANS: no Polymarket event (try 92)
-2026-10-15 20:55:16 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 91)
-2026-10-15 20:55:19 [pengwin] RENNES-AUXERRE: no Polymarket event (try 92)
-2026-10-15 20:55:21 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 92)
-2026-10-15 20:55:23 [pengwin] AUXERRE-BREST: no Polymarket event (try 92)
-2026-10-15 20:56:12   llm groq-20b: rate limited, skip 34s
-2026-10-15 20:56:12 [pengwin] LAZIO-INTER: no Polymarket event (try 91)
-2026-10-15 20:56:15 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 92)
-2026-10-15 20:56:17   llm groq-120b: rate limited, skip 33s
-2026-10-15 20:56:17 [pengwin] INTER-COMO: no Polymarket event (try 92)
-2026-10-15 20:56:19 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 91)
-2026-10-15 20:56:21 [pengwin] COMO-INTER: no Polymarket event (try 92)
-2026-10-15 20:56:24 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 92)
-2026-10-15 20:56:26 [pengwin] NAPOLI-COMO: no Polymarket event (try 92)
-2026-10-15 20:56:28 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 92)
-2026-10-15 20:56:56 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 92)
-2026-10-15 20:58:51   llm groq-120b: rate limited, skip 202s
-2026-10-15 20:58:52   drop[not-key] Steelers' young defender dealing with surprise ankle injury ahead of Week 6 (Steelers Wire) :: Jalen Mayfield: ankle injury
-2026-10-15 21:01:21 indexed 907 markets
-2026-10-15 21:01:23   llm groq-20b: rate limited, skip 292s
-2026-10-15 21:03:45   drop[kind] Hull City team news as injury woes continue (Yorkshire Post) :: other
-2026-10-15 21:04:38 shift over, state saved
+2026-10-15 21:05:02 === start mode=paper pid=2108 ===
+2026-10-15 21:05:02 brain=llm cash=84.41 open=0
+2026-10-15 21:05:02 resuming with 6495 known news items
+2026-10-15 21:05:38 indexed 909 markets
+2026-10-15 21:05:43 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 91)
+2026-10-15 21:05:47   llm groq-120b: rate limited, skip 107s
+2026-10-15 21:05:47 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 91)
+2026-10-15 21:05:50 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 91)
+2026-10-15 21:05:53   llm groq-20b: rate limited, skip 5s
+2026-10-15 21:05:53 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 90)
+2026-10-15 21:05:53 NEWS [ESPN 38m] Jonathon Brooks (RB, Carolina Panthers) ruled out: healthy -> Injured Reserve [NFL]
+2026-10-15 21:05:53   skip Eagles :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-15 21:05:53 NEWS [ESPN 51m] Josh Jacobs (RB, Green Bay Packers) ruled out: healthy -> Out [NFL]
+2026-10-15 21:05:53   skip Cowboys :: Cowboys vs. Packers (rules fallback, LLM down (not traded))
+2026-10-15 21:05:56 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 90)
+2026-10-15 21:05:59   llm groq-20b: rate limited, skip 49s
+2026-10-15 21:05:59 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 91)
+2026-10-15 21:06:02 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 91)
+2026-10-15 21:06:05 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 91)
+2026-10-15 21:06:07 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 91)
+2026-10-15 21:06:10 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 91)
+2026-10-15 21:06:13 [pengwin] MONACO-TOLOSA: no Polymarket event (try 91)
+2026-10-15 21:06:15 [pengwin] BREST-ANGERS: no Polymarket event (try 91)
+2026-10-15 21:06:18 [pengwin] PSG-LE MANS: no Polymarket event (try 91)
+2026-10-15 21:06:21 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 90)
+2026-10-15 21:06:24 [pengwin] RENNES-AUXERRE: no Polymarket event (try 91)
+2026-10-15 21:06:27 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 91)
+2026-10-15 21:06:29 [pengwin] AUXERRE-BREST: no Polymarket event (try 91)
+2026-10-15 21:07:19 [pengwin] LAZIO-INTER: no Polymarket event (try 91)
+2026-10-15 21:07:22   llm groq-20b: rate limited, skip 430s
+2026-10-15 21:07:22 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 91)
+2026-10-15 21:07:25 [pengwin] INTER-COMO: no Polymarket event (try 91)
+2026-10-15 21:07:27 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 90)
+2026-10-15 21:07:29 [pengwin] COMO-INTER: no Polymarket event (try 91)
+2026-10-15 21:07:31 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 91)
+2026-10-15 21:07:34 [pengwin] NAPOLI-COMO: no Polymarket event (try 91)
+2026-10-15 21:07:37 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 91)
+2026-10-15 21:08:06   llm groq-120b: rate limited, skip 70s
+2026-10-15 21:08:06 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 91)
