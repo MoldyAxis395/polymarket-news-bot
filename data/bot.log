@@ -12043,3 +12043,46 @@
 2026-10-15 23:38:52 [pengwin] NAPOLI-COMO: no Polymarket event (try 96)
 2026-10-15 23:38:54 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 96)
 2026-10-15 23:39:22 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 96)
+2026-10-15 23:41:00   llm groq-120b: rate limited, skip 131s
+2026-10-15 23:41:00 NEWS [ESPN 21m] David Montgomery (RB, Houston Texans) ruled out: Doubtful -> Out [NFL]
+2026-10-15 23:41:00   skip Jaguars :: Texans vs. Jaguars (rules fallback, LLM down (not traded))
+2026-10-15 23:45:03   drop[team-not-named] David Montgomery Ruled out for London game (Fantasy Footballers Podcast) :: Detroit Lions
+2026-10-15 23:45:46 indexed 877 markets
+2026-10-15 23:47:07   llm groq-120b: rate limited, skip 578s
+2026-10-15 23:47:08   drop[not-key] Jalen Pitre (S, Houston Texans) ruled out: Doubtful -> Out [NFL] (ESPN) :: Jalen Pitre: injury
+2026-10-15 23:51:58   drop[not-key] Jaguars injury report: Montaric Brown (hamstring) misses practice (The Florida Times-Union) :: Montaric Brown: hamstring injury
+2026-10-15 23:51:59   drop[team-not-named] Green ruled out but Aussies toy with stunning change for second Test (Nine.com.au) :: Australia national cricket team
+2026-10-15 23:54:16   llm groq-20b: rate limited, skip 239s
+2026-10-15 23:55:48 indexed 876 markets
+2026-10-15 23:59:06   drop[kind] State Softball Tournament Suspended Due to Rain (Panhandle News Channel Nebraska) :: other
+2026-10-16 00:03:30   drop[1-source] Yadadri power plant chief engineer suspended (The Hans India) :: Yadadri Power Plant, wait 2nd source
+2026-10-16 00:05:51 indexed 878 markets
+2026-10-16 00:07:18 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 97)
+2026-10-16 00:07:22 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 97)
+2026-10-16 00:07:24 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 97)
+2026-10-16 00:07:27 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 96)
+2026-10-16 00:07:30 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 96)
+2026-10-16 00:07:33   llm groq-120b: rate limited, skip 499s
+2026-10-16 00:07:33   llm groq-20b: rate limited, skip 14s
+2026-10-16 00:07:33 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 97)
+2026-10-16 00:07:36 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 97)
+2026-10-16 00:07:39 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 97)
+2026-10-16 00:07:40 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 97)
+2026-10-16 00:07:43 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 97)
+2026-10-16 00:07:45 [pengwin] MONACO-TOLOSA: no Polymarket event (try 97)
+2026-10-16 00:07:48 [pengwin] BREST-ANGERS: no Polymarket event (try 97)
+2026-10-16 00:07:51 [pengwin] PSG-LE MANS: no Polymarket event (try 97)
+2026-10-16 00:07:53 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 96)
+2026-10-16 00:07:56 [pengwin] RENNES-AUXERRE: no Polymarket event (try 97)
+2026-10-16 00:07:59 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 97)
+2026-10-16 00:08:01 [pengwin] AUXERRE-BREST: no Polymarket event (try 97)
+2026-10-16 00:08:51 [pengwin] LAZIO-INTER: no Polymarket event (try 97)
+2026-10-16 00:08:54 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 97)
+2026-10-16 00:08:56   llm groq-20b: rate limited, skip 46s
+2026-10-16 00:08:56 [pengwin] INTER-COMO: no Polymarket event (try 97)
+2026-10-16 00:08:58 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 96)
+2026-10-16 00:09:01 [pengwin] COMO-INTER: no Polymarket event (try 97)
+2026-10-16 00:09:03 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 97)
+2026-10-16 00:09:05 [pengwin] NAPOLI-COMO: no Polymarket event (try 97)
+2026-10-16 00:09:07 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 97)
+2026-10-16 00:09:35 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 97)
