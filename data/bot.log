@@ -11139,3 +11139,49 @@
 2026-10-15 03:51:07 [pengwin] NAPOLI-COMO: no Polymarket event (try 76)
 2026-10-15 03:51:08 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 76)
 2026-10-15 03:51:33 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 76)
+2026-10-15 03:56:45   drop[team-not-named] Moussa Cisse leaves game with ankle injury (NBC Sports) :: Detroit Lions
+2026-10-15 03:57:35   llm groq-120b: rate limited, skip 210s
+2026-10-15 03:57:35   drop[unconfirmed] Jordon Riley (DT, Green Bay Packers) ruled out: healthy -> Out [NFL] (ESPN) :: injury
+2026-10-15 03:59:40 indexed 884 markets
+2026-10-15 04:05:57   drop[kind] Bandarban-Thanchi bus services suspended for 2 days over alleged extortion threats (The Daily Star) :: other
+2026-10-15 04:05:58   drop[1-source] On the fly: injury forces Wallabies into No.10 change (Moree Champion) :: Tom Lynagh, wait 2nd source
+2026-10-15 04:06:42 bluesky error x1: HTTPSConnectionPool(host='public.api.bsky.app', port=443): Read timed out. (read timeout=15)
+2026-10-15 04:08:27   llm groq-120b: rate limited, skip 128s
+2026-10-15 04:08:27   drop[kind] Jalen Hurts won’t say much about “very unique” calf injury that was disclosed last Friday (NBC Sports) :: other
+2026-10-15 04:10:16 indexed 884 markets
+2026-10-15 04:12:39   drop[1-source] Caleb Williams Injury Announcement Changes Falcons’ Chances vs. Bears (Heavy.com) :: Caleb Williams, wait 2nd source
+2026-10-15 04:17:15   drop[kind] Diddy reportedly injured in prison fight with Jamaican drug lord ‘Dudus’ (Caribbean National Weekly) :: other
+2026-10-15 04:19:42 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-15 04:20:14 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 77)
+2026-10-15 04:20:16 indexed 881 markets
+2026-10-15 04:20:16 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 77)
+2026-10-15 04:20:18 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 77)
+2026-10-15 04:20:21   llm groq-120b: rate limited, skip 166s
+2026-10-15 04:20:21 [pengwin] HOFFENHEIM-AMBURGO: no Polymarket event (try 77)
+2026-10-15 04:20:21   drop[unconfirmed] Willian Arão suffers thigh muscle injury, Santos face around three weeks without defender (OneFootball) :: thigh muscle injury
+2026-10-15 04:20:21   drop[not-key] Mavericks news: Moussa Cisse exits clash vs. Pelicans with ankle injury (ClutchPoints) :: Moussa Cisse: ankle injury
+2026-10-15 04:20:23 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 76)
+2026-10-15 04:20:26 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 77)
+2026-10-15 04:20:29 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 77)
+2026-10-15 04:20:31 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 77)
+2026-10-15 04:20:33   llm groq-20b: rate limited, skip 8s
+2026-10-15 04:20:33 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 77)
+2026-10-15 04:20:35 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 77)
+2026-10-15 04:20:37 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 77)
+2026-10-15 04:20:39 [pengwin] MONACO-TOLOSA: no Polymarket event (try 77)
+2026-10-15 04:20:41 [pengwin] BREST-ANGERS: no Polymarket event (try 77)
+2026-10-15 04:20:43 [pengwin] PSG-LE MANS: no Polymarket event (try 77)
+2026-10-15 04:20:45   llm groq-20b: rate limited, skip 95s
+2026-10-15 04:20:45 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 76)
+2026-10-15 04:20:48 [pengwin] RENNES-AUXERRE: no Polymarket event (try 77)
+2026-10-15 04:20:49 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 77)
+2026-10-15 04:20:51 [pengwin] AUXERRE-BREST: no Polymarket event (try 77)
+2026-10-15 04:21:35 [pengwin] LAZIO-INTER: no Polymarket event (try 77)
+2026-10-15 04:21:37 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 77)
+2026-10-15 04:21:39 [pengwin] INTER-COMO: no Polymarket event (try 77)
+2026-10-15 04:21:41 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 76)
+2026-10-15 04:21:43 [pengwin] COMO-INTER: no Polymarket event (try 77)
+2026-10-15 04:21:44 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 77)
+2026-10-15 04:21:46 [pengwin] NAPOLI-COMO: no Polymarket event (try 77)
+2026-10-15 04:21:48 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 77)
+2026-10-15 04:22:12 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 77)
