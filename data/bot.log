@@ -11852,3 +11852,30 @@
 2026-10-15 20:54:54 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 92)
 2026-10-15 20:54:57 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 92)
 2026-10-15 20:55:00 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 91)
+2026-10-15 20:55:03 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 92)
+2026-10-15 20:55:06 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 92)
+2026-10-15 20:55:09 [pengwin] MONACO-TOLOSA: no Polymarket event (try 92)
+2026-10-15 20:55:11 [pengwin] BREST-ANGERS: no Polymarket event (try 92)
+2026-10-15 20:55:14   llm groq-20b: rate limited, skip 43s
+2026-10-15 20:55:14 [pengwin] PSG-LE MANS: no Polymarket event (try 92)
+2026-10-15 20:55:16 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 91)
+2026-10-15 20:55:19 [pengwin] RENNES-AUXERRE: no Polymarket event (try 92)
+2026-10-15 20:55:21 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 92)
+2026-10-15 20:55:23 [pengwin] AUXERRE-BREST: no Polymarket event (try 92)
+2026-10-15 20:56:12   llm groq-20b: rate limited, skip 34s
+2026-10-15 20:56:12 [pengwin] LAZIO-INTER: no Polymarket event (try 91)
+2026-10-15 20:56:15 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 92)
+2026-10-15 20:56:17   llm groq-120b: rate limited, skip 33s
+2026-10-15 20:56:17 [pengwin] INTER-COMO: no Polymarket event (try 92)
+2026-10-15 20:56:19 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 91)
+2026-10-15 20:56:21 [pengwin] COMO-INTER: no Polymarket event (try 92)
+2026-10-15 20:56:24 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 92)
+2026-10-15 20:56:26 [pengwin] NAPOLI-COMO: no Polymarket event (try 92)
+2026-10-15 20:56:28 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 92)
+2026-10-15 20:56:56 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 92)
+2026-10-15 20:58:51   llm groq-120b: rate limited, skip 202s
+2026-10-15 20:58:52   drop[not-key] Steelers' young defender dealing with surprise ankle injury ahead of Week 6 (Steelers Wire) :: Jalen Mayfield: ankle injury
+2026-10-15 21:01:21 indexed 907 markets
+2026-10-15 21:01:23   llm groq-20b: rate limited, skip 292s
+2026-10-15 21:03:45   drop[kind] Hull City team news as injury woes continue (Yorkshire Post) :: other
+2026-10-15 21:04:38 shift over, state saved
