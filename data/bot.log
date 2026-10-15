@@ -11749,3 +11749,47 @@
 2026-10-15 19:54:13 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-15 19:54:26   llm groq-120b: rate limited, skip 1183s
 2026-10-15 19:54:26   drop[kind] For all the great pitching in the postseason, no one looks better than Gavin Williams righ (Jeff Passan) :: other
+2026-10-15 19:55:08 [pengwin] page rtus-entella-juve-stabia-statistiche-quote-e-pronostico-2026: 522 Server Error: <none> for url: https://www.mondopengwin.it/pronostici/calcio/serie-b/virtus-entella-juve-stabia-statistiche-quote-e-pronostico-2026
+2026-10-15 19:56:06 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 90)
+2026-10-15 19:56:09 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 90)
+2026-10-15 19:56:12 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 90)
+2026-10-15 19:56:15 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 89)
+2026-10-15 19:56:23   drop[kind] Elliotte Friedman reveals Maple Leafs’ plans after Chris Tanev injury (Editor In Leaf) :: other
+2026-10-15 19:56:40 [pengwin] page union-berlino-elversberg-statistiche-quote-e-pronostico-2026: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out.
+2026-10-15 19:56:43 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 90)
+2026-10-15 19:56:46 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 90)
+2026-10-15 19:56:49 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 90)
+2026-10-15 19:56:52 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 90)
+2026-10-15 19:56:56 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 90)
+2026-10-15 19:56:58   llm groq-20b: rate limited, skip 13s
+2026-10-15 19:56:58 [pengwin] MONACO-TOLOSA: no Polymarket event (try 90)
+2026-10-15 19:57:00 [pengwin] BREST-ANGERS: no Polymarket event (try 90)
+2026-10-15 19:57:03 [pengwin] PSG-LE MANS: no Polymarket event (try 90)
+2026-10-15 19:57:05 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 89)
+2026-10-15 19:57:08 [pengwin] RENNES-AUXERRE: no Polymarket event (try 90)
+2026-10-15 19:57:10 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 90)
+2026-10-15 19:57:12   llm groq-20b: rate limited, skip 24s
+2026-10-15 19:57:12 [pengwin] AUXERRE-BREST: no Polymarket event (try 90)
+2026-10-15 19:58:02   llm groq-20b: rate limited, skip 6s
+2026-10-15 19:58:02 [pengwin] LAZIO-INTER: no Polymarket event (try 90)
+2026-10-15 19:58:04 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 90)
+2026-10-15 19:58:06 [pengwin] INTER-COMO: no Polymarket event (try 90)
+2026-10-15 19:58:08 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 89)
+2026-10-15 19:58:10   llm groq-20b: rate limited, skip 125s
+2026-10-15 19:58:10 [pengwin] COMO-INTER: no Polymarket event (try 90)
+2026-10-15 19:58:13 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 90)
+2026-10-15 19:58:15 [pengwin] NAPOLI-COMO: no Polymarket event (try 90)
+2026-10-15 19:58:18 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 90)
+2026-10-15 19:58:45 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 90)
+2026-10-15 20:00:50 [pengwin]   book error ES Troyes AC vs. Racing Club de Lens: Both Teams t: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-15 20:01:19 indexed 948 markets
+2026-10-15 20:01:59   llm groq-20b: rate limited, skip 201s
+2026-10-15 20:05:34   llm groq-20b: rate limited, skip 5s
+2026-10-15 20:06:02   llm groq-20b: rate limited, skip 304s
+2026-10-15 20:06:02   drop[no-pick] AFC Bournemouth confirmed lineup vs SK Sturm Graz: James Hill, Adrien Truffert, Ryan Chris (ESPN) :: None
+2026-10-15 20:11:50 indexed 940 markets
+2026-10-15 20:12:06   llm groq-20b: rate limited, skip 295s
+2026-10-15 20:12:06   drop[no-pick] TSG Hoffenheim confirmed lineup vs Besiktas: Tim Lemperle, Bambasé Conté ruled out of star (ESPN) :: None
+2026-10-15 20:16:30   drop[not-key] Barre-Boulet cleared (Elliotte Friedman) :: Alex Barre-Boulet: cleared to play after injury
+2026-10-15 20:17:20   drop[1-source] Maryland tennis club suspended over KKK imagery (CNN) :: Maryland Tennis Club, wait 2nd source
+2026-10-15 20:21:48 indexed 938 markets
