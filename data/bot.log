@@ -11166,3 +11166,48 @@
 2026-10-15 02:04:49 indexed 908 markets
 2026-10-15 02:07:10   drop[kind] Injury Report: 6 UNC Starters Questionable at Duke (247Sports) :: other
 2026-10-15 02:07:11   drop[1-source] Oregon QB Dante Moore ruled out vs. Nebraska with injury (On3) :: Dante Moore, wait 2nd source
+2026-10-15 02:11:21 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 78)
+2026-10-15 02:11:24 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 78)
+2026-10-15 02:11:27 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 78)
+2026-10-15 02:11:31 [pengwin] skip HOFFENHEIM-AMBURGO [HOFFENHEIM CASA OVER 5.5 CORNER]: No corner market available
+2026-10-15 02:11:34 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 77)
+2026-10-15 02:11:38 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 78)
+2026-10-15 02:11:41 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 78)
+2026-10-15 02:11:44 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 78)
+2026-10-15 02:11:46   llm groq-120b: rate limited, skip 148s
+2026-10-15 02:11:47 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 78)
+2026-10-15 02:11:47   drop[1-source] Injury Interrupts Match for Luis Suárez as Inter Miami Faces New York City FC (SSBCrack) :: Luis Suárez, wait 2nd source
+2026-10-15 02:11:49 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 78)
+2026-10-15 02:11:52 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 78)
+2026-10-15 02:11:54 [pengwin] MONACO-TOLOSA: no Polymarket event (try 78)
+2026-10-15 02:11:57 [pengwin] BREST-ANGERS: no Polymarket event (try 78)
+2026-10-15 02:12:00 [pengwin] PSG-LE MANS: no Polymarket event (try 78)
+2026-10-15 02:12:03 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 77)
+2026-10-15 02:12:06 [pengwin] RENNES-AUXERRE: no Polymarket event (try 78)
+2026-10-15 02:12:09 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 78)
+2026-10-15 02:12:12 [pengwin] AUXERRE-BREST: no Polymarket event (try 78)
+2026-10-15 02:12:29   drop[unconfirmed] Zachary L'Heureux (LW, Colorado Avalanche) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: misses game
+2026-10-15 02:12:29   llm groq-20b: rate limited, skip 221s
+2026-10-15 02:12:29 NEWS [ESPN 8m] Nicolas Roy (C, Colorado Avalanche) ruled out: healthy -> Out [NHL]
+2026-10-15 02:12:29   skip Stars :: Stars vs. Avalanche (rules fallback, LLM down (not traded))
+2026-10-15 02:13:03 [pengwin] LAZIO-INTER: no Polymarket event (try 78)
+2026-10-15 02:13:05 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 78)
+2026-10-15 02:13:08 [pengwin] INTER-COMO: no Polymarket event (try 78)
+2026-10-15 02:13:10 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 77)
+2026-10-15 02:13:11 [pengwin] COMO-INTER: no Polymarket event (try 78)
+2026-10-15 02:13:14 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 78)
+2026-10-15 02:13:16 [pengwin] NAPOLI-COMO: no Polymarket event (try 78)
+2026-10-15 02:13:19 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 78)
+2026-10-15 02:13:46 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 78)
+2026-10-15 02:14:17   llm groq-120b: rate limited, skip 776s
+2026-10-15 02:14:51 indexed 903 markets
+2026-10-15 02:16:27   drop[1-source] UCLA football injury report: Tao Johnson to miss Wisconsin game, Rodrick Pleasant question (247Sports) :: Tao Johnson, wait 2nd source
+2026-10-15 02:23:36   drop[1-source] Auburn football LB Xavier Atkins officially ruled out against Georgia (Gadsden Times) :: Xavier Atkins, wait 2nd source
+2026-10-15 02:23:36   llm groq-20b: rate limited, skip 120s
+2026-10-15 02:24:50 indexed 906 markets
+2026-10-15 02:25:40   llm groq-20b: rate limited, skip 161s
+2026-10-15 02:27:58   drop[team-not-named] Dejounte Murray Injury: Sidelined against Dallas (RotoWire) :: Atlanta Hawks
+2026-10-15 02:30:17   drop[kind] Hutson stepping up for injury-hit Canadiens (The Globe and Mail) :: other
+2026-10-15 02:30:44   drop[team-not-named] US rejects recommendation for ICE body cams to be automatically activated reut.rs/4dFLvNx (Reuters) :: United States government
+2026-10-15 02:32:46   drop[1-source] Ohio State RB Ja'Kobi Jackson, OL Austin Seireveld ruled out for Indiana game (The Columbus Dispatch) :: Ohio State Buckeyes, wait 2nd source
+2026-10-15 02:34:51 indexed 895 markets
