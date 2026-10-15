@@ -11535,3 +11535,33 @@
 2026-10-15 13:09:26 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 86)
 2026-10-15 13:09:28 [pengwin] MONACO-TOLOSA: no Polymarket event (try 86)
 2026-10-15 13:09:30 [pengwin] BREST-ANGERS: no Polymarket event (try 86)
+2026-10-15 13:09:32 [pengwin] PSG-LE MANS: no Polymarket event (try 86)
+2026-10-15 13:09:35 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 85)
+2026-10-15 13:09:37 [pengwin] RENNES-AUXERRE: no Polymarket event (try 86)
+2026-10-15 13:09:39 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 86)
+2026-10-15 13:09:41 [pengwin] AUXERRE-BREST: no Polymarket event (try 86)
+2026-10-15 13:10:26 [pengwin] LAZIO-INTER: no Polymarket event (try 86)
+2026-10-15 13:10:29 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 86)
+2026-10-15 13:10:31 [pengwin] INTER-COMO: no Polymarket event (try 86)
+2026-10-15 13:10:33   llm groq-120b: rate limited, skip 67s
+2026-10-15 13:10:33 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 85)
+2026-10-15 13:10:35 [pengwin] COMO-INTER: no Polymarket event (try 86)
+2026-10-15 13:10:37 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 86)
+2026-10-15 13:10:39 [pengwin] NAPOLI-COMO: no Polymarket event (try 86)
+2026-10-15 13:10:41 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 86)
+2026-10-15 13:11:06 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 86)
+2026-10-15 13:12:13   llm groq-120b: rate limited, skip 93s
+2026-10-15 13:14:31   drop[team-not-named] LG's Marey Out Indefinitely with Eye Injury (조선일보) :: LG Twins
+2026-10-15 13:15:12 indexed 866 markets
+2026-10-15 13:16:57   llm groq-120b: rate limited, skip 132s
+2026-10-15 13:16:58   drop[1-source] The Party of European Socialists suspended CHP's membership! The NEW Party was unanimously (Haberler.com) :: CHP, wait 2nd source
+2026-10-15 13:23:39   drop[1-source] Suspended Obuasi SHTS headmaster currently an NDC constituency executive (Yen News) :: National Democratic Congress (NDC), wait 2nd source
+2026-10-15 13:25:13 indexed 865 markets
+2026-10-15 13:26:13   drop[kind] Amadou Mbengue: QPR defender being assessed after suffering knee injury (BBC) :: other
+2026-10-15 13:26:13   llm groq-120b: rate limited, skip 208s
+2026-10-15 13:26:14   drop[1-source] Tony Khan Announces Jamie Hayter Is Sidelined With Injury After AEW Dynamite/Collision (Ringside News) :: Jamie Hayter, wait 2nd source
+2026-10-15 13:30:40   drop[not-key] Oregon QB Moore ruled out for Nebraska game (1340 KGFW) :: Moore: ruled out for upcoming Nebraska game
+2026-10-15 13:30:40   llm groq-120b: rate limited, skip 251s
+2026-10-15 13:30:40   drop[1-source] Pune: Constable Suspended for ‘Objectionable’ Instagram Comment on Newspaper Report (Punekar News) :: Pune Police Department, wait 2nd source
+2026-10-15 13:33:34   drop[kind] ‘Tickled to death:’ Joe Manchin’s excited about a potential permitting victory politi.co/4 (Politico) :: other
+2026-10-15 13:35:14 indexed 863 markets
