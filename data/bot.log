@@ -11680,3 +11680,27 @@
 2026-10-15 18:54:39   llm groq-120b: rate limited, skip 31s
 2026-10-15 18:54:39 [pengwin] NAPOLI-COMO: no Polymarket event (try 88)
 2026-10-15 18:54:41 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 88)
+2026-10-15 18:55:09 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 88)
+2026-10-15 19:01:36 indexed 945 markets
+2026-10-15 19:03:59   drop[kind] Adonai Mitchell Injury Is Easily Jets’ Biggest Concern Heading Into Week 6 vs. Patriots (Sports Illustrated) :: other
+2026-10-15 19:09:47   llm groq-120b: rate limited, skip 11s
+2026-10-15 19:09:49 NEWS [ESPN 8m] Jalen Hurts (QB, Philadelphia Eagles) ruled out: Active -> Out [NFL]
+2026-10-15 19:09:49   skip Panthers :: Panthers vs. Eagles (already moved 0.545->0.615)
+2026-10-15 19:09:49   llm groq-20b: rate limited, skip 140s
+2026-10-15 19:09:49   drop[no-pick] Zach Hyman (LW, Edmonton Oilers) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: None
+2026-10-15 19:10:59 indexed 938 markets
+2026-10-15 19:11:00   llm groq-120b: rate limited, skip 14s
+2026-10-15 19:11:00 NEWS [ESPN 11m] Luke Evangelista (RW, New Jersey Devils) ruled out: Day-To-Day -> Out [NHL]
+2026-10-15 19:11:00   skip Rangers :: Rangers vs. Devils (rules fallback, LLM down (not traded))
+2026-10-15 19:13:23   drop[kind] Ravens QB Lamar Jackson absent from practice again, putting status in doubt (Capital Gazette) :: other
+2026-10-15 19:14:04   llm groq-120b: rate limited, skip 126s
+2026-10-15 19:14:05   drop[not-key] Pavel Buchnevich (LW, St. Louis Blues) ruled out: healthy -> Out [NHL] (ESPN) :: Pavel Buchnevich: healthy out
+2026-10-15 19:18:00   drop[not-key] Jets’ Morrissey Downgraded to “Week to Week” With Upper-Body Injury (The Hockey Writers) :: Morrissey: downgraded to week‑to‑week with upper‑body injury
+2026-10-15 19:18:01   llm groq-120b: rate limited, skip 299s
+2026-10-15 19:18:01   drop[team-not-named] Arson ruled out in fatal Burnaby house fire (CTV News) :: 
+2026-10-15 19:18:01   llm groq-20b: rate limited, skip 275s
+2026-10-15 19:18:58 NEWS [Ian Rapoport 0m] Breaking: Eagles QB Jalen Hurts is out for Sunday due to a superficial blood clot.
+2026-10-15 19:18:58   skip Panthers :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-15 19:19:08 NEWS [ESPN 11m] Josh Morrissey (D, Winnipeg Jets) ruled out: Day-To-Day -> Out [NHL]
+2026-10-15 19:19:08   skip Blackhawks :: Jets vs. Blackhawks (rules fallback, LLM down (not traded))
+2026-10-15 19:21:36 indexed 935 markets
