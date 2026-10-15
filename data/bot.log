@@ -11832,3 +11832,47 @@
 2026-10-15 21:07:37 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 91)
 2026-10-15 21:08:06   llm groq-120b: rate limited, skip 70s
 2026-10-15 21:08:06 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 91)
+2026-10-15 21:10:35   llm groq-120b: rate limited, skip 62s
+2026-10-15 21:15:35 indexed 901 markets
+2026-10-15 21:17:58   drop[kind] INJURY WATCH: BIG Questions Ahead of Commanders vs. 49ers Matchup in Week 6 (WBIR) :: other
+2026-10-15 21:20:12   drop[1-source] US Extends Sanctions Waiver for Russia's Lukoil Through April (Caspian Post) :: Lukoil, wait 2nd source
+2026-10-15 21:20:12   llm groq-120b: rate limited, skip 84s
+2026-10-15 21:20:13   drop[not-key] Falcons injury report: Za'Darius Smith clears concussion protocol, still working through n (Atlanta Falcons) :: Za'Darius Smith: cleared concussion protocol
+2026-10-15 21:20:13   drop[1-source] Oilers suffer another injury in practice today (HockeyFeed) :: Edmonton Oilers, wait 2nd source
+2026-10-15 21:25:31 indexed 899 markets
+2026-10-15 21:27:07   llm groq-120b: rate limited, skip 695s
+2026-10-15 21:27:08   drop[team-not-named] Injury Emerges for Steelers Opponent Quarterback (Steelers Now) :: Cincinnati Bengals
+2026-10-15 21:29:23   drop[not-key] Jets' Josh Morrissey Downgraded to Week-to-Week With Upper-Body Injury (The Hockey News) :: Josh Morrissey: upper-body injury
+2026-10-15 21:29:24   drop[kind] Everything to Know About Diddy's Prison Brawl With Notorious Drug Lord — as Disgraced Rapp (RadarOnline) :: other
+2026-10-15 21:31:41   llm groq-20b: rate limited, skip 272s
+2026-10-15 21:35:31 indexed 893 markets
+2026-10-15 21:36:06 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 92)
+2026-10-15 21:36:09 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 92)
+2026-10-15 21:36:12 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 92)
+2026-10-15 21:36:14 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 91)
+2026-10-15 21:36:18   llm groq-20b: rate limited, skip 27s
+2026-10-15 21:36:18 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 91)
+2026-10-15 21:36:21 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 92)
+2026-10-15 21:36:24 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 92)
+2026-10-15 21:36:26 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 92)
+2026-10-15 21:36:28 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 92)
+2026-10-15 21:36:31 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 92)
+2026-10-15 21:36:33 [pengwin] MONACO-TOLOSA: no Polymarket event (try 92)
+2026-10-15 21:36:35 [pengwin] BREST-ANGERS: no Polymarket event (try 92)
+2026-10-15 21:36:38 [pengwin] PSG-LE MANS: no Polymarket event (try 92)
+2026-10-15 21:36:40 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 91)
+2026-10-15 21:36:43 [pengwin] RENNES-AUXERRE: no Polymarket event (try 92)
+2026-10-15 21:36:46 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 92)
+2026-10-15 21:36:48   llm groq-20b: rate limited, skip 29s
+2026-10-15 21:36:48 [pengwin] AUXERRE-BREST: no Polymarket event (try 92)
+2026-10-15 21:37:38 [pengwin] LAZIO-INTER: no Polymarket event (try 92)
+2026-10-15 21:37:41 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 92)
+2026-10-15 21:37:44   llm groq-20b: rate limited, skip 16s
+2026-10-15 21:37:44 [pengwin] INTER-COMO: no Polymarket event (try 92)
+2026-10-15 21:37:46 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 91)
+2026-10-15 21:37:48 [pengwin] COMO-INTER: no Polymarket event (try 92)
+2026-10-15 21:37:50 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 92)
+2026-10-15 21:37:52 [pengwin] NAPOLI-COMO: no Polymarket event (try 92)
+2026-10-15 21:37:55 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 92)
+2026-10-15 21:38:23   llm groq-20b: rate limited, skip 135s
+2026-10-15 21:38:23 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 92)
