@@ -11211,3 +11211,53 @@
 2026-10-15 02:30:44   drop[team-not-named] US rejects recommendation for ICE body cams to be automatically activated reut.rs/4dFLvNx (Reuters) :: United States government
 2026-10-15 02:32:46   drop[1-source] Ohio State RB Ja'Kobi Jackson, OL Austin Seireveld ruled out for Indiana game (The Columbus Dispatch) :: Ohio State Buckeyes, wait 2nd source
 2026-10-15 02:34:51 indexed 895 markets
+2026-10-15 02:42:07 NEWS [On3 2m] Safety Tao Johnson ruled out, two starters questionable for UCLA against Wisconsin
+2026-10-15 02:42:07   skip Wisconsin :: Wisconsin vs. UCLA (low conf 0.62)
+2026-10-15 02:42:17 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 79)
+2026-10-15 02:42:21 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 79)
+2026-10-15 02:42:23 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 79)
+2026-10-15 02:42:26   llm groq-120b: rate limited, skip 67s
+2026-10-15 02:42:26 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 78)
+2026-10-15 02:42:30 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 79)
+2026-10-15 02:42:33 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 79)
+2026-10-15 02:42:36 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 79)
+2026-10-15 02:42:38 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 79)
+2026-10-15 02:42:41 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 79)
+2026-10-15 02:42:44 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 79)
+2026-10-15 02:42:46 [pengwin] MONACO-TOLOSA: no Polymarket event (try 79)
+2026-10-15 02:42:49 [pengwin] BREST-ANGERS: no Polymarket event (try 79)
+2026-10-15 02:42:51 [pengwin] PSG-LE MANS: no Polymarket event (try 79)
+2026-10-15 02:42:54   llm groq-20b: rate limited, skip 4s
+2026-10-15 02:42:54 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 78)
+2026-10-15 02:42:57 [pengwin] RENNES-AUXERRE: no Polymarket event (try 79)
+2026-10-15 02:43:00 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 79)
+2026-10-15 02:43:02   llm groq-20b: rate limited, skip 88s
+2026-10-15 02:43:02 [pengwin] AUXERRE-BREST: no Polymarket event (try 79)
+2026-10-15 02:43:53 [pengwin] LAZIO-INTER: no Polymarket event (try 79)
+2026-10-15 02:43:56   llm groq-120b: rate limited, skip 1099s
+2026-10-15 02:43:56 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 79)
+2026-10-15 02:43:58 [pengwin] INTER-COMO: no Polymarket event (try 79)
+2026-10-15 02:44:00 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 78)
+2026-10-15 02:44:02 [pengwin] COMO-INTER: no Polymarket event (try 79)
+2026-10-15 02:44:04 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 79)
+2026-10-15 02:44:07 [pengwin] NAPOLI-COMO: no Polymarket event (try 79)
+2026-10-15 02:44:09 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 79)
+2026-10-15 02:44:37 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 79)
+2026-10-15 02:44:50 indexed 895 markets
+2026-10-15 02:45:07   llm groq-20b: rate limited, skip 85s
+2026-10-15 02:51:29   llm groq-20b: rate limited, skip 217s
+2026-10-15 02:51:29   drop[no-pick] Real Salt Lake confirmed lineup vs San Jose Earthquakes: DeAndre Yedlin, Samuel Junqua, Ai (ESPN) :: None
+2026-10-15 02:54:53 indexed 895 markets
+2026-10-15 02:55:30   llm groq-20b: rate limited, skip 25s
+2026-10-15 02:59:33   drop[kind] SK Hynix plunges 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount (CNBC) :: other
+2026-10-15 03:00:39   llm groq-20b: rate limited, skip 261s
+2026-10-15 03:00:39   drop[no-pick] NFL Week 6 injury report: Broncos' Patrick Surtain, Talanoa Hufanga ruled out (CBS Sports) :: None
+2026-10-15 03:03:01   llm groq-120b: rate limited, skip 107s
+2026-10-15 03:03:01   drop[no-pick] Marcus Bryant (OT, New England Patriots) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: None
+2026-10-15 03:04:42 ERROR ^^^^^ |   File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 502 Server Error: Bad Gateway for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1100&order=volume24hr&ascending=false&end_date_min=2026-10-15T01%3A04%3A29Z&end_date_max=2026-11-14T01%3A04%3A29Z
+2026-10-15 03:05:21 indexed 898 markets
+2026-10-15 03:05:24   drop[not-key] Grant Richardson on returning from injury, more (MLB.com) :: Grant Richardson: returning from injury
+2026-10-15 03:07:26   drop[verify] Bradley Beal (G, LA Clippers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Bradley Beal not on Clippers roster
+2026-10-15 03:08:03   llm groq-120b: rate limited, skip 207s
+2026-10-15 03:08:03   drop[kind] Kamario Taylor Questionable On Initial LSU Tigers vs. Mississippi State Injury Report (roundtable.io) :: other
+2026-10-15 03:08:03   llm groq-20b: rate limited, skip 175s
