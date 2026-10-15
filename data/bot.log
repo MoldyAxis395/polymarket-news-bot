@@ -11433,3 +11433,49 @@
 2026-10-15 16:23:20 [pengwin] NAPOLI-COMO: no Polymarket event (try 83)
 2026-10-15 16:23:22 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 83)
 2026-10-15 16:23:49 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 83)
+2026-10-15 16:27:07   llm groq-120b: rate limited, skip 30s
+2026-10-15 16:27:07   drop[1-source] Abdul Carter injury: Latest on Giants pass rusher’s calf, more (amNewYork) :: Abdul Carter, wait 2nd source
+2026-10-15 16:27:07   llm groq-20b: rate limited, skip 205s
+2026-10-15 16:30:11 indexed 958 markets
+2026-10-15 16:36:58   drop[not-key] Knicks center Drew Eubanks sustained a torn pectoral muscle and will be sidelined for an e (Shams Charania) :: Drew Eubanks: torn pectoral will sideline him and Knicks will waive him
+2026-10-15 16:38:43   drop[1-source] Two Quebec police officers face severe sanctions for racial profiling (CityNews Montreal) :: Quebec police, wait 2nd source
+2026-10-15 16:38:44   drop[1-source] David Neres injury rules him out for SSC Napoli for 2… (YSscores) :: David Neres, wait 2nd source
+2026-10-15 16:40:26 indexed 970 markets
+2026-10-15 16:41:17   llm groq-120b: rate limited, skip 30s
+2026-10-15 16:41:20   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-15 16:41:20   drop[verify] Injury Leaves Jaguars Line With Smaller Margin for Error Against Texans’ Pass Rush (Athlon Sports) :: no answer
+2026-10-15 16:41:20   llm groq-20b: rate limited, skip 207s
+2026-10-15 16:43:48   drop[1-source] Tony Khan reveals another AEW champion is sidelined with injury (Cageside Seats) :: MJF, wait 2nd source
+2026-10-15 16:43:48   llm groq-120b: rate limited, skip 143s
+2026-10-15 16:45:56   drop[kind] Norwegian skiing star Kilde suffers another serious injury (Yahoo Sports) :: other
+2026-10-15 16:45:56   llm groq-20b: rate limited, skip 391s
+2026-10-15 16:50:24 indexed 970 markets
+2026-10-15 16:51:34 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 84)
+2026-10-15 16:51:37 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 84)
+2026-10-15 16:51:39 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 84)
+2026-10-15 16:51:42 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 83)
+2026-10-15 16:51:45   llm groq-120b: rate limited, skip 66s
+2026-10-15 16:51:45 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 84)
+2026-10-15 16:51:48 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 84)
+2026-10-15 16:51:50 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 84)
+2026-10-15 16:51:53 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 84)
+2026-10-15 16:51:55 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 84)
+2026-10-15 16:51:58 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 84)
+2026-10-15 16:52:00 [pengwin] MONACO-TOLOSA: no Polymarket event (try 84)
+2026-10-15 16:52:02 [pengwin] BREST-ANGERS: no Polymarket event (try 84)
+2026-10-15 16:52:05 [pengwin] PSG-LE MANS: no Polymarket event (try 84)
+2026-10-15 16:52:07 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 83)
+2026-10-15 16:52:10 [pengwin] RENNES-AUXERRE: no Polymarket event (try 84)
+2026-10-15 16:52:13 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 84)
+2026-10-15 16:52:15 [pengwin] AUXERRE-BREST: no Polymarket event (try 84)
+2026-10-15 16:53:05 [pengwin] LAZIO-INTER: no Polymarket event (try 84)
+2026-10-15 16:53:07   llm groq-120b: rate limited, skip 80s
+2026-10-15 16:53:08 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 84)
+2026-10-15 16:53:10   llm groq-20b: rate limited, skip 32s
+2026-10-15 16:53:10 [pengwin] INTER-COMO: no Polymarket event (try 84)
+2026-10-15 16:53:12 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 83)
+2026-10-15 16:53:14 [pengwin] COMO-INTER: no Polymarket event (try 84)
+2026-10-15 16:53:17 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 84)
+2026-10-15 16:53:19 [pengwin] NAPOLI-COMO: no Polymarket event (try 84)
+2026-10-15 16:53:21 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 84)
+2026-10-15 16:53:48 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 84)
