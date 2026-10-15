@@ -11415,3 +11415,43 @@
 2026-10-15 11:38:50 [pengwin] NAPOLI-COMO: no Polymarket event (try 83)
 2026-10-15 11:38:52 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 83)
 2026-10-15 11:39:17 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 83)
+2026-10-15 11:45:05 indexed 859 markets
+2026-10-15 11:46:15   drop[kind] From Breakingviews - Breakingviews - COMMENTARY: India’s bank privatisation offers cautiou (Reuters) :: other
+2026-10-15 11:49:32   drop[team-not-named] Fannie Nkosi case postponed to November pending NPA representations (EWN) :: National Prosecuting Authority (South Africa)
+2026-10-15 11:53:40   drop[kind] Driver suffers serious head injury in Leeds crash (Yorkshire Evening Post) :: other
+2026-10-15 11:55:06 indexed 860 markets
+2026-10-15 11:56:10   llm groq-120b: rate limited, skip 98s
+2026-10-15 11:56:10   drop[kind] Osimhen’s Eight-Month Pregnant Girlfriend Escapes Injury in Istanbul Multi-Vehicle Crash (TG NEWS) :: other
+2026-10-15 11:59:15 feed coindesk error x1: HTTPSConnectionPool(host='www.coindesk.com', port=443): Read timed out. (read timeout=15)
+2026-10-15 12:00:34   drop[kind] Alejandro Davidovich Fokina makes comment about Arthur Gea's injury after reaching Shangha (Tennishead) :: other
+2026-10-15 12:05:07 indexed 847 markets
+2026-10-15 12:05:13   drop[1-source] Return of Pacers' Haliburton from injury is latest big event to shake up the Central Divis (seMissourian) :: Tyrese Haliburton, wait 2nd source
+2026-10-15 12:05:13   llm groq-120b: rate limited, skip 194s
+2026-10-15 12:05:13   drop[1-source] Punjab Bandh over Parvinder Jhota murder: Mansa SHO suspended, protests intensify (Punjab Newsline) :: Mansa Police, wait 2nd source
+2026-10-15 12:07:51 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 84)
+2026-10-15 12:07:54 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 84)
+2026-10-15 12:07:56 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 84)
+2026-10-15 12:07:58 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 83)
+2026-10-15 12:08:01 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 84)
+2026-10-15 12:08:04 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 84)
+2026-10-15 12:08:07 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 84)
+2026-10-15 12:08:09 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 84)
+2026-10-15 12:08:11 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 84)
+2026-10-15 12:08:14 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 84)
+2026-10-15 12:08:16   llm groq-20b: rate limited, skip 74s
+2026-10-15 12:08:16 [pengwin] MONACO-TOLOSA: no Polymarket event (try 84)
+2026-10-15 12:08:18 [pengwin] BREST-ANGERS: no Polymarket event (try 84)
+2026-10-15 12:08:20 [pengwin] PSG-LE MANS: no Polymarket event (try 84)
+2026-10-15 12:08:22 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 83)
+2026-10-15 12:08:25 [pengwin] RENNES-AUXERRE: no Polymarket event (try 84)
+2026-10-15 12:08:27 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 84)
+2026-10-15 12:08:30 [pengwin] AUXERRE-BREST: no Polymarket event (try 84)
+2026-10-15 12:09:14   llm groq-120b: rate limited, skip 4s
+2026-10-15 12:09:14 [pengwin] LAZIO-INTER: no Polymarket event (try 84)
+2026-10-15 12:09:16 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 84)
+2026-10-15 12:09:19   llm groq-120b: rate limited, skip 95s
+2026-10-15 12:09:19 [pengwin] INTER-COMO: no Polymarket event (try 84)
+2026-10-15 12:09:20 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 83)
+2026-10-15 12:09:22 [pengwin] COMO-INTER: no Polymarket event (try 84)
+2026-10-15 12:09:24 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 84)
+2026-10-15 12:09:26 [pengwin] NAPOLI-COMO: no Polymarket event (try 84)
