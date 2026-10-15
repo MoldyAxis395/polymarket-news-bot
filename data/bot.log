@@ -11261,3 +11261,57 @@
 2026-10-15 03:08:03   llm groq-120b: rate limited, skip 207s
 2026-10-15 03:08:03   drop[kind] Kamario Taylor Questionable On Initial LSU Tigers vs. Mississippi State Injury Report (roundtable.io) :: other
 2026-10-15 03:08:03   llm groq-20b: rate limited, skip 175s
+2026-10-15 03:10:24 NEWS [ESPN 6m] Ja'Marcus Ingram (CB, Houston Texans) ruled out: healthy -> Injured Reserve [NFL]
+2026-10-15 03:10:24   skip Jaguars :: Texans vs. Jaguars (rules fallback, LLM down (not traded))
+2026-10-15 03:12:50   llm groq-120b: rate limited, skip 604s
+2026-10-15 03:12:50   drop[1-source] Wisconsin WR Jaylon Domingeaux, RB Abu Sama nearing return from injury (Milwaukee Journal Sentinel) :: Abu Sama, wait 2nd source
+2026-10-15 03:12:50   llm groq-20b: rate limited, skip 385s
+2026-10-15 03:13:11 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 80)
+2026-10-15 03:13:14 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 80)
+2026-10-15 03:13:16 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 80)
+2026-10-15 03:13:18 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 79)
+2026-10-15 03:13:21 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 80)
+2026-10-15 03:13:24 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 80)
+2026-10-15 03:13:26 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 80)
+2026-10-15 03:13:29 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 80)
+2026-10-15 03:13:31 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 80)
+2026-10-15 03:13:34 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 80)
+2026-10-15 03:13:36 [pengwin] MONACO-TOLOSA: no Polymarket event (try 80)
+2026-10-15 03:13:38 [pengwin] BREST-ANGERS: no Polymarket event (try 80)
+2026-10-15 03:13:40 [pengwin] PSG-LE MANS: no Polymarket event (try 80)
+2026-10-15 03:13:43 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 79)
+2026-10-15 03:13:45 [pengwin] RENNES-AUXERRE: no Polymarket event (try 80)
+2026-10-15 03:13:48 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 80)
+2026-10-15 03:13:50 [pengwin] AUXERRE-BREST: no Polymarket event (try 80)
+2026-10-15 03:14:40 [pengwin] LAZIO-INTER: no Polymarket event (try 80)
+2026-10-15 03:14:43 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 80)
+2026-10-15 03:14:45 [pengwin] INTER-COMO: no Polymarket event (try 80)
+2026-10-15 03:14:47 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 79)
+2026-10-15 03:14:49 [pengwin] COMO-INTER: no Polymarket event (try 80)
+2026-10-15 03:14:51 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 80)
+2026-10-15 03:14:54 [pengwin] NAPOLI-COMO: no Polymarket event (try 80)
+2026-10-15 03:14:56 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 80)
+2026-10-15 03:15:22 indexed 888 markets
+2026-10-15 03:15:24 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 80)
+2026-10-15 03:18:34 NEWS [ESPN 10m] Landon Dickerson (G, Philadelphia Eagles) ruled out: healthy -> Injured Reserve [NFL]
+2026-10-15 03:18:34   skip Panthers :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-15 03:18:34 NEWS [ESPN 15m] Jakorian Bennett (CB, Philadelphia Eagles) ruled out: healthy -> Injured Reserve [NFL]
+2026-10-15 03:18:34   skip Panthers :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-15 03:20:37   llm groq-20b: rate limited, skip 321s
+2026-10-15 03:20:37 NEWS [ESPN 13m] Denzel Perryman (LB, Los Angeles Chargers) ruled out: healthy -> Injured Reserve [NFL]
+2026-10-15 03:20:37   skip No :: Los Angeles Galaxy vs. Portland Timbers: Both Teams to Score (rules fallback, LLM down (not traded))
+2026-10-15 03:20:37   skip No :: Will the Los Angeles Dodgers win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-15 03:20:37   skip No :: Will Austin FC win on 2026-10-14? (rules fallback, LLM down (not traded))
+2026-10-15 03:20:39 NEWS [Reuters 0m] Brazil's Senate approves shorter workweek in win for Lula reut.rs/4yx7mhW
+2026-10-15 03:20:39   skip Yes :: Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazil (rules fallback, LLM down (not traded))
+2026-10-15 03:20:39   skip Yes :: Will Lula win the most votes in the second round of the Brazil preside (rules fallback, LLM down (not traded))
+2026-10-15 03:20:39   skip Yes :: Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazil (rules fallback, LLM down (not traded))
+2026-10-15 03:24:42   drop[not-key] Kitan Crawford (S, Arizona Cardinals) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Kitan Crawford: mid-ankle sprain placed on injured reserve
+2026-10-15 03:25:23 indexed 884 markets
+2026-10-15 03:27:45   drop[kind] Agrifoods International Cooperative fined $100,000 for worker’s injury (Canadian Occupational Safety) :: other
+2026-10-15 03:27:47   llm groq-120b: rate limited, skip 427s
+2026-10-15 03:27:48   drop[not-key] Otega Oweh (G, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Otega Oweh: Achilles injury
+2026-10-15 03:30:03   drop[team-not-named] Vinicius Junior Suspended, Misses El Clásico (조선일보) :: Real Madrid
+2026-10-15 03:32:22   drop[1-source] LSU Dealing With Another LB Injury Before Mississippi State Game (Sports Illustrated) :: LSU Tigers, wait 2nd source
+2026-10-15 03:33:56   drop[not-key] Zach Wood (LS, New Orleans Saints) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Zach Wood: IR
+2026-10-15 03:35:24 indexed 875 markets
