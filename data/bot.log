@@ -12689,3 +12689,10 @@
 2026-10-16 14:03:19   llm groq-20b: rate limited, skip 20s
 2026-10-16 14:06:56 indexed 994 markets
 2026-10-16 14:07:00   drop[kind] Phoenix Suns owner Mat Ishbia predicts team will win opening round playoff series — and th (CNBC) :: other
+2026-10-16 14:12:53 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-16 14:13:44 [pengwin] ERROR  in request |     resp = self.send(prep, **send_kwargs) |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send |     r = adapter.send(request, **kwargs) |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py", line 742, in send |     raise ReadTimeout(e, request=request) | requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-16 14:14:42   drop[no-pick] Football: Soccer-Chelsea captain James has surgery after training injury (The Star) :: short
+2026-10-16 14:16:56 indexed 984 markets
+2026-10-16 14:17:02   llm groq-120b: rate limited, skip 68s
+2026-10-16 14:17:02   drop[not-key] Pirates Top Prospects No. 16: Injury Halts Edgleen Perez’s Encouraging Season (Pittsburgh Baseball Now) :: Edgleen Perez: injury
+2026-10-16 14:20:43 shift over, state saved
