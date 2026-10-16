@@ -12807,3 +12807,67 @@
 2026-10-16 18:26:11 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 109)
 2026-10-16 18:26:14 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 109)
 2026-10-16 18:26:16 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 109)
+2026-10-16 18:26:18   llm groq-120b: rate limited, skip 5s
+2026-10-16 18:26:18 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 108)
+2026-10-16 18:26:22 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 108)
+2026-10-16 18:26:25 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 109)
+2026-10-16 18:26:27   llm groq-120b: rate limited, skip 94s
+2026-10-16 18:26:28 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 109)
+2026-10-16 18:26:30 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 109)
+2026-10-16 18:26:33 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 109)
+2026-10-16 18:26:35 [pengwin] MONACO-TOLOSA: no Polymarket event (try 109)
+2026-10-16 18:26:37 [pengwin] BREST-ANGERS: no Polymarket event (try 109)
+2026-10-16 18:26:40 [pengwin] PSG-LE MANS: no Polymarket event (try 109)
+2026-10-16 18:26:42   llm groq-20b: rate limited, skip 111s
+2026-10-16 18:26:42 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 108)
+2026-10-16 18:26:45 [pengwin] RENNES-AUXERRE: no Polymarket event (try 109)
+2026-10-16 18:26:47 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 109)
+2026-10-16 18:26:49 [pengwin] AUXERRE-BREST: no Polymarket event (try 109)
+2026-10-16 18:27:33 [pengwin] LAZIO-INTER: no Polymarket event (try 109)
+2026-10-16 18:27:35 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 109)
+2026-10-16 18:27:37 [pengwin] INTER-COMO: no Polymarket event (try 109)
+2026-10-16 18:27:39 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 108)
+2026-10-16 18:27:41 [pengwin] COMO-INTER: no Polymarket event (try 109)
+2026-10-16 18:27:43 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 109)
+2026-10-16 18:27:45 [pengwin] NAPOLI-COMO: no Polymarket event (try 109)
+2026-10-16 18:27:47 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 109)
+2026-10-16 18:28:13 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 109)
+2026-10-16 18:28:54 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 5)
+2026-10-16 18:28:57   llm groq-120b: rate limited, skip 74s
+2026-10-16 18:28:57   llm groq-20b: rate limited, skip 807s
+2026-10-16 18:28:57 [pengwin] BAYERN MONACO-LIPSIA: no LLM answer (try 5)
+2026-10-16 18:28:59 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 5)
+2026-10-16 18:29:01 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 4)
+2026-10-16 18:29:04 [pengwin] MONCHENGLADBACH-HOFFENHEIM: no LLM answer (try 4)
+2026-10-16 18:29:32 [pengwin] Betis-Barcellona: no Polymarket event (try 9)
+2026-10-16 18:29:35 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 8)
+2026-10-16 18:29:37 [pengwin] VENEZIA-NAPOLI: no LLM answer (try 1)
+2026-10-16 18:29:39 [pengwin] BOLOGNA-INTER: no Polymarket event (try 1)
+2026-10-16 18:29:41 [pengwin] ROMA-GENOA: no LLM answer (try 1)
+2026-10-16 18:29:44 [pengwin] UDINESE-LECCE: no LLM answer (try 1)
+2026-10-16 18:29:46 [pengwin] FIORENTINA-COMO: no LLM answer (try 1)
+2026-10-16 18:29:49 [pengwin] MILAN-ATALANTA: no LLM answer (try 1)
+2026-10-16 18:29:51 [pengwin] JUVENTUS-LAZIO: no LLM answer (try 1)
+2026-10-16 18:29:53 [pengwin] MONZA-CAGLIARI: no LLM answer (try 1)
+2026-10-16 18:29:56 [pengwin] PARMA-TORINO: no LLM answer (try 1)
+2026-10-16 18:31:42   llm groq-120b: rate limited, skip 37s
+2026-10-16 18:32:21 indexed 991 markets
+2026-10-16 18:37:42   llm groq-120b: rate limited, skip 108s
+2026-10-16 18:37:42   drop[verify] Antoine Winfield Jr. (S, Tampa Bay Buccaneers) ruled out: Doubtful -> Out [NFL] (ESPN) :: no answer
+2026-10-16 18:40:44   llm groq-120b: rate limited, skip 4s
+2026-10-16 18:40:44 NEWS [ESPN 0m] Baker Mayfield (QB, Tampa Bay Buccaneers) ruled out: Doubtful -> Out [NFL]
+2026-10-16 18:40:44   skip No :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-16 18:40:44   skip Steelers :: Steelers vs. Buccaneers (rules fallback, LLM down (not traded))
+2026-10-16 18:40:55   drop[not-key] Kendal Grey Makes In-Ring Return After Injury at NXT Live Event (Ringside News) :: Kendal Grey: returned after injury
+2026-10-16 18:42:23 indexed 974 markets
+2026-10-16 18:43:23   llm groq-120b: rate limited, skip 159s
+2026-10-16 18:43:24   drop[unconfirmed] Lamar Jackson injury: Ravens QB ‘likely’ out vs. Browns (SB Nation) :: injury
+2026-10-16 18:43:24   drop[kind] Watch: Tottenham star 'almost back' from injury as Roberto De Zerbi set for major boost (London Evening Standard) :: other
+2026-10-16 18:47:48   drop[kind] Warriors’ Jimmy Butler Makes Stephen Curry Vow Amid Injury (Heavy.com) :: other
+2026-10-16 18:50:06   llm groq-120b: rate limited, skip 115s
+2026-10-16 18:50:07   drop[1-source] Public sector strike next Wednesday suspended after discussions between Government and uni (Irish Independent) :: Irish public sector, wait 2nd source
+2026-10-16 18:52:21 indexed 978 markets
+2026-10-16 18:52:36   drop[team-not-named] Saquon Barkley Injury: Misses practice again Friday (RotoWire) :: New York Giants
+2026-10-16 18:52:57   llm groq-120b: rate limited, skip 227s
+2026-10-16 18:52:58   drop[not-key] Jaylon Carlies (LB, Indianapolis Colts) ruled out: Questionable -> Out [NFL] (ESPN) :: Jaylon Carlies: injury
+2026-10-16 18:54:45   drop[kind] Barcelona handed double injury boost for Real Betis clash (Get Spanish Football News) :: other
