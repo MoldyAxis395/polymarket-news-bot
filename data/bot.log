@@ -12631,3 +12631,54 @@
 2026-10-16 22:03:05   drop[team-not-named] Updated NFC East Probabilities on Kalshi Following Hurts Injury (WTOP News) :: Philadelphia Eagles
 2026-10-16 22:07:27 indexed 950 markets
 2026-10-16 22:07:32   drop[kind] Tyler Warren Added to injury report, questionable (Fantasy Footballers Podcast) :: other
+2026-10-16 22:12:22   llm groq-120b: rate limited, skip 140s
+2026-10-16 22:12:23   drop[no-pick] All Eyes Are Now on This 49ers WR Returning From Injury (Yahoo Sports) :: fact irrelevant to the game
+2026-10-16 22:13:46   drop[unconfirmed] Will Shipley (RB, Philadelphia Eagles) ruled out: Doubtful -> Injured Reserve [NFL] (ESPN) :: plantar fascia tear
+2026-10-16 22:14:32   drop[1-source] Giants vs. Saints Week 6 Injury Report: Colton Hood, Theo Johnson, Tyler Nubin ruled out (Giants.com) :: Colton Hood, wait 2nd source
+2026-10-16 22:16:52   drop[kind] Quinshon Judkins questionable for Week 6 vs. Ravens (Cleveland Browns) :: other
+2026-10-16 22:17:28 indexed 945 markets
+2026-10-16 22:18:56   llm groq-120b: rate limited, skip 147s
+2026-10-16 22:18:56   llm groq-20b: rate limited, skip 68s
+2026-10-16 22:18:56   drop[no-pick] Donte Jackson (CB, Los Angeles Chargers) ruled out: Questionable -> Out [NFL] (ESPN) :: None
+2026-10-16 22:18:56 NEWS [ESPN 4m] Derwin James Jr. (S, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
+2026-10-16 22:18:56   skip No :: Will Los Angeles FC win on 2026-05-06? (rules fallback, LLM down (not traded))
+2026-10-16 22:18:56   skip No :: Will San Diego FC win on 2026-10-17? (rules fallback, LLM down (not traded))
+2026-10-16 22:18:56   skip Chiefs :: Chargers vs. Chiefs (rules fallback, LLM down (not traded))
+2026-10-16 22:18:56 NEWS [ESPN 4m] Joe Alt (OT, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
+2026-10-16 22:18:56   skip No :: Will Los Angeles FC win on 2026-05-06? (rules fallback, LLM down (not traded))
+2026-10-16 22:18:56   skip No :: Will San Diego FC win on 2026-10-17? (rules fallback, LLM down (not traded))
+2026-10-16 22:18:56   skip Chiefs :: Chargers vs. Chiefs (rules fallback, LLM down (not traded))
+2026-10-16 22:18:56 NEWS [ESPN 4m] Kayode Awosika (G, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
+2026-10-16 22:18:56   skip No :: Will Los Angeles FC win on 2026-05-06? (rules fallback, LLM down (not traded))
+2026-10-16 22:18:56   skip No :: Will San Diego FC win on 2026-10-17? (rules fallback, LLM down (not traded))
+2026-10-16 22:18:56   skip Chiefs :: Chargers vs. Chiefs (rules fallback, LLM down (not traded))
+2026-10-16 22:21:36   drop[kind] Bears' Caleb Williams questionable after 3 days of practice (ESPN Philippines) :: other
+2026-10-16 22:21:36   llm groq-120b: rate limited, skip 270s
+2026-10-16 22:21:37   drop[team-not-named] Fluminense lose Brazil call-up Martinelli to injury, mixed XI likely against Santos (OneFootball) :: Arsenal
+2026-10-16 22:22:00   llm groq-20b: rate limited, skip 210s
+2026-10-16 22:22:00 NEWS [ESPN 0m] Saquon Barkley (RB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL]
+2026-10-16 22:22:00   skip Panthers :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-16 22:26:01   llm groq-20b: rate limited, skip 39s
+2026-10-16 22:27:28 indexed 941 markets
+2026-10-16 22:28:20   drop[1-source] Eagles Announce Roster Move Involving Injured Veteran Running Back (Heavy.com) :: Miles Sanders, wait 2nd source
+2026-10-16 22:30:57   llm groq-120b: rate limited, skip 63s
+2026-10-16 22:30:57   drop[1-source] Dallas Cowboys injuries: DeMarvion Overshown questionable, Cobie Durant ruled out (Blogging The Boys) :: Cobie Durant, wait 2nd source
+2026-10-16 22:30:57   llm groq-20b: rate limited, skip 28s
+2026-10-16 22:32:34   llm groq-120b: rate limited, skip 161s
+2026-10-16 22:32:34   llm groq-20b: rate limited, skip 54s
+2026-10-16 22:32:34   drop[verify] Jason Dickinson (C, Edmonton Oilers) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: no answer
+2026-10-16 22:33:35   drop[not-key] Teven Jenkins (G, Cleveland Browns) ruled out: Questionable -> Out [NFL] (ESPN) :: Teven Jenkins: injury
+2026-10-16 22:33:35   llm groq-20b: rate limited, skip 328s
+2026-10-16 22:33:35 NEWS [ESPN 13m] Mike Hall Jr. (DT, Cleveland Browns) ruled out: Questionable -> Out [NFL]
+2026-10-16 22:33:35   skip Ravens :: Ravens vs. Browns (rules fallback, LLM down (not traded))
+2026-10-16 22:35:20   llm groq-120b: rate limited, skip 51s
+2026-10-16 22:37:29 indexed 936 markets
+2026-10-16 22:37:40   drop[not-key] Matt Hibner (TE, Baltimore Ravens) ruled out: Questionable -> Out [NFL] (ESPN) :: Matt Hibner: hand injury
+2026-10-16 22:38:40   llm groq-120b: rate limited, skip 153s
+2026-10-16 22:38:40 NEWS [ESPN 11m] Broderick Washington Jr. (DT, Baltimore Ravens) ruled out: Questionable -> Out [NFL]
+2026-10-16 22:38:40   skip Browns :: Ravens vs. Browns (rules fallback, LLM down (not traded))
+2026-10-16 22:38:40 NEWS [ESPN 11m] Cam Jurgens (C, Baltimore Ravens) ruled out: Questionable -> Out [NFL]
+2026-10-16 22:38:40   skip Browns :: Ravens vs. Browns (rules fallback, LLM down (not traded))
+2026-10-16 22:38:40 NEWS [ESPN 2m] Jordan Elliott (DT, Tennessee Titans) ruled out: healthy -> Out [NFL]
+2026-10-16 22:38:40   skip Colts :: Titans vs. Colts (rules fallback, LLM down (not traded))
+2026-10-16 22:40:04   drop[unconfirmed] Rams' McDuffie misses practice, questionable vs. Cardinals with groin injury (Sportsnet.ca) :: groin injury
