@@ -12410,3 +12410,46 @@
 2026-10-16 10:40:03 [pengwin] AUXERRE-BREST: no Polymarket event (try 103)
 2026-10-16 10:40:47 [pengwin] LAZIO-INTER: no Polymarket event (try 103)
 2026-10-16 10:40:49 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 103)
+2026-10-16 10:40:51 [pengwin] INTER-COMO: no Polymarket event (try 103)
+2026-10-16 10:40:53 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 102)
+2026-10-16 10:40:55 [pengwin] COMO-INTER: no Polymarket event (try 103)
+2026-10-16 10:40:57 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 103)
+2026-10-16 10:41:00 [pengwin] NAPOLI-COMO: no Polymarket event (try 103)
+2026-10-16 10:41:02 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 103)
+2026-10-16 10:41:27 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 103)
+2026-10-16 10:43:36 [pengwin]   book error ES Troyes AC vs. Racing Club de Lens: Both Teams t: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-16 10:44:06   drop[1-source] Reece James forced to undergo surgery as Chelsea star suffers another injury (talkSPORT) :: Reece James, wait 2nd source
+2026-10-16 10:46:29 indexed 873 markets
+2026-10-16 10:46:45   llm groq-120b: rate limited, skip 164s
+2026-10-16 10:46:45   drop[kind] Jeff Wilson offers theory for injury woes and what Dave Rennie's side are doing 'consisten (Planet Rugby) :: other
+2026-10-16 10:48:56   drop[1-source] Argentina: Juan Sebastián Verón suspended for three months by the AFA (Foot-Africa.com) :: Juan Sebastián Verón, wait 2nd source
+2026-10-16 10:51:12   drop[kind] Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than (BBC) :: other
+2026-10-16 10:53:28   llm groq-120b: rate limited, skip 43s
+2026-10-16 10:53:29   drop[unconfirmed] Bournemouth's Alex Scott to return from injury earlier than expected (OneFootball) :: return
+2026-10-16 10:53:29   drop[unconfirmed] Harambee Starlets forward Violet Nanjala faces up to 12 months out after injury against Se (SportPesa Blog) :: injury
+2026-10-16 10:56:33 indexed 878 markets
+2026-10-16 10:58:10   llm groq-120b: rate limited, skip 101s
+2026-10-16 10:58:11   drop[no-pick] Reece James Undergoes Successful Knee Surgery As Chelsea Injury Blow Confirmed (roundtable.io) :: short
+2026-10-16 10:58:11   drop[kind] Reece James injury curse strikes again as Chelsea release surgery statement (AOL.com) :: other
+2026-10-16 11:02:43   drop[kind] College football star dies 5 days after being injured in game: ‘Loss is deeply felt’ (MassLive.com) :: other
+2026-10-16 11:02:43   llm groq-120b: rate limited, skip 89s
+2026-10-16 11:02:44   drop[1-source] Giovanni Leoni’s new injury setback may accelerate Liverpool plan which fans will love (Rousing The Kop) :: Giovanni Leoni, wait 2nd source
+2026-10-16 11:06:34 indexed 889 markets
+2026-10-16 11:07:24   drop[1-source] Bhuvneshwar Kumar Added To India Squad For 5th T20I Against West Indies After Arshdeep Sin (Times Now) :: Bhuvneshwar Kumar, wait 2nd source
+2026-10-16 11:10:17 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 104)
+2026-10-16 11:10:20 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 104)
+2026-10-16 11:10:22 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 104)
+2026-10-16 11:10:24   llm groq-120b: rate limited, skip 57s
+2026-10-16 11:10:25 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 103)
+2026-10-16 11:10:27 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 103)
+2026-10-16 11:10:30 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 104)
+2026-10-16 11:10:32 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 104)
+2026-10-16 11:10:34 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 104)
+2026-10-16 11:10:36 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 104)
+2026-10-16 11:10:38 [pengwin] MONACO-TOLOSA: no Polymarket event (try 104)
+2026-10-16 11:10:41 [pengwin] BREST-ANGERS: no Polymarket event (try 104)
+2026-10-16 11:10:43 [pengwin] PSG-LE MANS: no Polymarket event (try 104)
+2026-10-16 11:10:45 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 103)
+2026-10-16 11:10:48 [pengwin] RENNES-AUXERRE: no Polymarket event (try 104)
+2026-10-16 11:10:50 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 104)
+2026-10-16 11:10:52 [pengwin] AUXERRE-BREST: no Polymarket event (try 104)
