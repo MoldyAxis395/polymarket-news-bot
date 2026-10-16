@@ -12227,3 +12227,46 @@
 2026-10-16 01:40:19   llm groq-20b: rate limited, skip 59s
 2026-10-16 01:40:19 NEWS [ESPN 6m] Darnell Nurse (D, San Jose Sharks) ruled out: Day-To-Day -> Out [NHL]
 2026-10-16 01:40:19   skip Predators :: Sharks vs. Predators (rules fallback, LLM down (not traded))
+2026-10-16 01:40:48 NEWS [NFL.com 2m] Philadelphia Eagles quarterback Jalen Hurts ruled out for Sunday with blood clot in his calf | 'The NFL Report'
+2026-10-16 01:40:48   skip Panthers :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-16 01:41:20   drop[not-key] Mavrik Bourque (C, Nashville Predators) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Mavrik Bourque: day-to-day injury
+2026-10-16 01:45:13   drop[not-key] Rams add S Kam Curl to practice report with an ankle injury (NBC Sports) :: Kam Curl: ankle injury added to practice report
+2026-10-16 01:45:13   llm groq-120b: rate limited, skip 248s
+2026-10-16 01:45:13   llm groq-20b: rate limited, skip 113s
+2026-10-16 01:45:57 indexed 874 markets
+2026-10-16 01:47:34   drop[kind] MDxHealth Q3FY27 Results: Revenue flat at $22.7M, guidance suspended (scanx.trade) :: other
+2026-10-16 01:49:49 bluesky error x1: HTTPSConnectionPool(host='public.api.bsky.app', port=443): Read timed out. (read timeout=15)
+2026-10-16 01:55:59 indexed 857 markets
+2026-10-16 01:56:49   llm groq-120b: rate limited, skip 401s
+2026-10-16 01:56:49   drop[no-market] Rams starting safety suffers ankle injury in practice Thursday (Rams Wire) :: Los Angeles Rams
+2026-10-16 01:56:50   llm groq-20b: rate limited, skip 134s
+2026-10-16 02:01:26   drop[unconfirmed] Caleb Williams takes step forward in return, discusses his hamstring injury (247Sports) :: step forward in return
+2026-10-16 02:05:59 indexed 865 markets
+2026-10-16 02:08:13 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 101)
+2026-10-16 02:08:17 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 101)
+2026-10-16 02:08:19 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 101)
+2026-10-16 02:08:22 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 100)
+2026-10-16 02:08:25 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 100)
+2026-10-16 02:08:28 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 101)
+2026-10-16 02:08:31   llm groq-120b: rate limited, skip 236s
+2026-10-16 02:08:31 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 101)
+2026-10-16 02:08:34 [pengwin] BAYER LEVERKUSEN-LIPSIA: no Polymarket event (try 101)
+2026-10-16 02:08:37 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 101)
+2026-10-16 02:08:39 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 101)
+2026-10-16 02:08:42   llm groq-20b: rate limited, skip 58s
+2026-10-16 02:08:42 [pengwin] MONACO-TOLOSA: no Polymarket event (try 101)
+2026-10-16 02:08:44 [pengwin] BREST-ANGERS: no Polymarket event (try 101)
+2026-10-16 02:08:46 [pengwin] PSG-LE MANS: no Polymarket event (try 101)
+2026-10-16 02:08:49 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 100)
+2026-10-16 02:08:51 [pengwin] RENNES-AUXERRE: no Polymarket event (try 101)
+2026-10-16 02:08:54 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 101)
+2026-10-16 02:08:56 [pengwin] AUXERRE-BREST: no Polymarket event (try 101)
+2026-10-16 02:09:46   llm groq-20b: rate limited, skip 397s
+2026-10-16 02:09:46 [pengwin] LAZIO-INTER: no Polymarket event (try 101)
+2026-10-16 02:09:48 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 101)
+2026-10-16 02:09:50 [pengwin] INTER-COMO: no Polymarket event (try 101)
+2026-10-16 02:09:52 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 100)
+2026-10-16 02:09:54 [pengwin] COMO-INTER: no Polymarket event (try 101)
+2026-10-16 02:09:56 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 101)
+2026-10-16 02:09:59 [pengwin] NAPOLI-COMO: no Polymarket event (try 101)
+2026-10-16 02:10:01 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 101)
