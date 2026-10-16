@@ -12676,3 +12676,49 @@
 2026-10-16 16:56:03 [pengwin] SCHALKE-MAINZ: no LLM answer (try 2)
 2026-10-16 16:56:06 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 2)
 2026-10-16 16:56:08 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 2)
+2026-10-16 16:56:10 [pengwin] WERDER BREMA-PADERBORN: no LLM answer (try 2)
+2026-10-16 16:56:13 [pengwin] ELVERSBERG-AUGSBURG: no LLM answer (try 2)
+2026-10-16 16:56:15 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 1)
+2026-10-16 16:56:17 [pengwin] MONCHENGLADBACH-HOFFENHEIM: no LLM answer (try 1)
+2026-10-16 16:56:45 [pengwin] Betis-Barcellona: no Polymarket event (try 6)
+2026-10-16 16:56:47 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 5)
+2026-10-16 16:56:49 [pengwin] FROSINONE-SASSUOLO: no LLM answer (try 3)
+2026-10-16 17:02:08 indexed 985 markets
+2026-10-16 17:08:21   drop[team-not-named] Breece Hall, Adonai Mitchell out for Week 6 (Marco Eagle) :: New York Jets
+2026-10-16 17:08:22   drop[kind] Sean ‘Diddy’ Combs Transferred to New Prison After Alleged Head Injury: Report (Us Weekly) :: other
+2026-10-16 17:08:22   drop[kind] SiRT investigating after boy suffers 'serious leg injury' in arrest (Telegraph-Journal) :: other
+2026-10-16 17:12:08 indexed 979 markets
+2026-10-16 17:13:10   llm groq-120b: rate limited, skip 35s
+2026-10-16 17:13:11   drop[kind] Eagles to poach QB from Cowboys' practice squad amid Jalen Hurts injury issue (www.sportingnews.com) :: other
+2026-10-16 17:15:16   drop[unconfirmed] Man City drop Haaland hint after injury scare before Ipswich clash (London Evening Standard) :: injury scare leads to him being omitted from the Ipswich match
+2026-10-16 17:17:33   llm groq-120b: rate limited, skip 73s
+2026-10-16 17:17:34   drop[kind] Sean 'Diddy' Combs Moved To Pennsylvania Prison From New Jersey After VIP Claims, Head Inj (Tampa Free Press) :: other
+2026-10-16 17:19:52   drop[kind] Eagles adding QB from Cowboys. Latest on Saqon Barkley, DeVonta Smith injury (Delawareonline.com) :: other
+2026-10-16 17:22:10 indexed 969 markets
+2026-10-16 17:24:16 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 107)
+2026-10-16 17:24:19 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 107)
+2026-10-16 17:24:21 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 107)
+2026-10-16 17:24:23   llm groq-120b: rate limited, skip 158s
+2026-10-16 17:24:23 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 106)
+2026-10-16 17:24:26 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 106)
+2026-10-16 17:24:29 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 107)
+2026-10-16 17:24:31 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 107)
+2026-10-16 17:24:34 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 107)
+2026-10-16 17:24:36   drop[1-source] West Ham drop Mavropanos injury clue as Alvarez spotted in Swansea hint (Hammers News) :: Michail Mavropanos, wait 2nd source
+2026-10-16 17:24:36   llm groq-20b: rate limited, skip 72s
+2026-10-16 17:24:36 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 107)
+2026-10-16 17:24:38 [pengwin] MONACO-TOLOSA: no Polymarket event (try 107)
+2026-10-16 17:24:40 [pengwin] BREST-ANGERS: no Polymarket event (try 107)
+2026-10-16 17:24:42 [pengwin] PSG-LE MANS: no Polymarket event (try 107)
+2026-10-16 17:24:44 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 106)
+2026-10-16 17:24:47 [pengwin] RENNES-AUXERRE: no Polymarket event (try 107)
+2026-10-16 17:24:49 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 107)
+2026-10-16 17:24:51 [pengwin] AUXERRE-BREST: no Polymarket event (try 107)
+2026-10-16 17:25:36 [pengwin] LAZIO-INTER: no Polymarket event (try 107)
+2026-10-16 17:25:38 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 107)
+2026-10-16 17:25:40 [pengwin] INTER-COMO: no Polymarket event (try 107)
+2026-10-16 17:25:41 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 106)
+2026-10-16 17:25:43 [pengwin] COMO-INTER: no Polymarket event (try 107)
+2026-10-16 17:25:45 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 107)
+2026-10-16 17:25:48 [pengwin] NAPOLI-COMO: no Polymarket event (try 107)
+2026-10-16 17:25:50 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 107)
