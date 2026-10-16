@@ -12682,3 +12682,25 @@
 2026-10-16 22:38:40 NEWS [ESPN 2m] Jordan Elliott (DT, Tennessee Titans) ruled out: healthy -> Out [NFL]
 2026-10-16 22:38:40   skip Colts :: Titans vs. Colts (rules fallback, LLM down (not traded))
 2026-10-16 22:40:04   drop[unconfirmed] Rams' McDuffie misses practice, questionable vs. Cardinals with groin injury (Sportsnet.ca) :: groin injury
+2026-10-16 22:42:11   drop[not-key] Downs cleared off injury report for Week 6 (NBC Sports) :: Jared Downs: cleared from injury report for Week 6
+2026-10-16 22:44:29   llm groq-120b: rate limited, skip 266s
+2026-10-16 22:44:29   drop[kind] Bucs’ Josiah Trotter questionable for Steelers game with knee injury (Tampa Bay Times) :: other
+2026-10-16 22:46:46   llm groq-20b: rate limited, skip 67s
+2026-10-16 22:47:31 indexed 935 markets
+2026-10-16 22:48:52   drop[not-key] Skyy Moore (WR, Green Bay Packers) ruled out: Questionable -> Out [NFL] (ESPN) :: Skyy Moore: injury
+2026-10-16 22:49:21   drop[kind] Chicago Bears make unsurprising final injury announcement before Falcons clash (ChiCitySports) :: other
+2026-10-16 22:51:28   llm groq-120b: rate limited, skip 37s
+2026-10-16 22:51:28   llm groq-20b: rate limited, skip 155s
+2026-10-16 22:52:57   llm groq-120b: rate limited, skip 109s
+2026-10-16 22:52:57   drop[no-pick] Theo Johnson (TE, New York Giants) ruled out: Questionable -> Out [NFL] (ESPN) :: None
+2026-10-16 22:53:58 NEWS [ESPN 6m] Josh Simmons (OT, Kansas City Chiefs) ruled out: Questionable -> Out [NFL]
+2026-10-16 22:53:58   skip Chargers :: Chargers vs. Chiefs (rules fallback, LLM down (not traded))
+2026-10-16 22:57:33 indexed 937 markets
+2026-10-16 23:03:04   drop[not-key] Cardinals’ rookie RB Jeremiyah Love ruled out vs. Rams with lingering ankle injury (AP News) :: Jeremiyah Love: lingering ankle injury
+2026-10-16 23:03:11   llm groq-120b: rate limited, skip 121s
+2026-10-16 23:03:11   drop[side] Benjamin St-Juste (CB, Green Bay Packers) ruled out: Questionable -> Out [NFL] (ESPN) :: Cowboys vs. Packers -> Packers vs fact ruled_out: Benjamin St-Juste (Green Bay Packers, nfl), bad for Green Bay Packers.
+2026-10-16 23:03:12   drop[not-key] Jonathan Ford (DT, Green Bay Packers) ruled out: Questionable -> Out [NFL] (ESPN) :: Jonathan Ford: injury
+2026-10-16 23:06:08   llm groq-120b: rate limited, skip 1s
+2026-10-16 23:06:09   drop[no-market] Jaminet stars as Toulon beat Edinburgh in Challenge Cup (BBC) :: Toulon
+2026-10-16 23:07:33 indexed 943 markets
+2026-10-16 23:09:12   drop[no-market] Four-try Dragons beat Perpignan - but without bonus (BBC) :: Dragons
