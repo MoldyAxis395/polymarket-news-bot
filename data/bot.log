@@ -12456,3 +12456,51 @@
 2026-10-16 14:55:54 [pengwin] Osasuna-Racing Santander: no LLM answer (try 2)
 2026-10-16 14:55:57 [pengwin] Celta Vigo-Alaves: no LLM answer (try 1)
 2026-10-16 14:56:00 [pengwin] Malaga-Real Sociedad: no LLM answer (try 1)
+2026-10-16 14:56:02 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 1)
+2026-10-16 14:56:19 [pengwin] Getafe-Vallecano: no LLM answer (try 1)
+2026-10-16 15:01:35 indexed 991 markets
+2026-10-16 15:08:43   drop[1-source] Shared scooters suspended in Lisbon (The Portugal News) :: Lisbon, wait 2nd source
+2026-10-16 15:11:33 indexed 990 markets
+2026-10-16 15:13:11   drop[team-not-named] Ramaphosa reinstates suspended police chief (CLUB OF MOZAMBIQUE) :: South Africa
+2026-10-16 15:20:10   drop[kind] Man suffers head injury after being struck by vehicle on West Side, SAPD says (KSAT) :: other
+2026-10-16 15:21:40 indexed 979 markets
+2026-10-16 15:22:22 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 103)
+2026-10-16 15:22:25 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 103)
+2026-10-16 15:22:27 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 103)
+2026-10-16 15:22:30 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 102)
+2026-10-16 15:22:33 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 102)
+2026-10-16 15:22:33   drop[1-source] Chelsea injury news: Xabi Alonso reveals summer signing 'felt a little thing', sidelined f (Sports Mole) :: Chelsea, wait 2nd source
+2026-10-16 15:22:36 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 103)
+2026-10-16 15:22:39 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 103)
+2026-10-16 15:22:40   llm groq-120b: rate limited, skip 156s
+2026-10-16 15:22:41 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 103)
+2026-10-16 15:22:44 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 103)
+2026-10-16 15:22:46 [pengwin] MONACO-TOLOSA: no Polymarket event (try 103)
+2026-10-16 15:22:48 [pengwin] BREST-ANGERS: no Polymarket event (try 103)
+2026-10-16 15:22:51 [pengwin] PSG-LE MANS: no Polymarket event (try 103)
+2026-10-16 15:22:53 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 102)
+2026-10-16 15:22:56 [pengwin] RENNES-AUXERRE: no Polymarket event (try 103)
+2026-10-16 15:22:58 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 103)
+2026-10-16 15:23:01 [pengwin] AUXERRE-BREST: no Polymarket event (try 103)
+2026-10-16 15:23:46 [pengwin] LAZIO-INTER: no Polymarket event (try 103)
+2026-10-16 15:23:48 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 103)
+2026-10-16 15:23:50 [pengwin] INTER-COMO: no Polymarket event (try 103)
+2026-10-16 15:23:52 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 102)
+2026-10-16 15:23:54 [pengwin] COMO-INTER: no Polymarket event (try 103)
+2026-10-16 15:23:57   llm groq-20b: rate limited, skip 95s
+2026-10-16 15:23:57 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 103)
+2026-10-16 15:23:59 [pengwin] NAPOLI-COMO: no Polymarket event (try 103)
+2026-10-16 15:24:00 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 103)
+2026-10-16 15:24:25 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 103)
+2026-10-16 15:25:18   llm groq-120b: rate limited, skip 760s
+2026-10-16 15:25:18 [pengwin] EVERTON-CHELSEA: no LLM answer (try 3)
+2026-10-16 15:25:22 [pengwin] FULHAM-HULL CITY: no LLM answer (try 3)
+2026-10-16 15:25:24 [pengwin] BRENTFORD-LIVERPOOL: no LLM answer (try 3)
+2026-10-16 15:25:27 [pengwin] MANCHESTER CITY-IPSWICH TOWN: no LLM answer (try 3)
+2026-10-16 15:25:29 [pengwin] NEWCASTLE-ASTON VILLA: no LLM answer (try 3)
+2026-10-16 15:25:32   llm groq-20b: rate limited, skip 820s
+2026-10-16 15:25:32 [pengwin] BRIGHTON-CRYSTAL PALACE: no LLM answer (try 3)
+2026-10-16 15:25:34 [pengwin] LEEDS UNITED-MANCHESTER UNITED: no LLM answer (try 3)
+2026-10-16 15:25:37 [pengwin] BOURNEMOUTH-SUNDERLAND: no LLM answer (try 3)
+2026-10-16 15:25:40 [pengwin] NOTTINGHAM FOREST-ARSENAL: no LLM answer (try 3)
+2026-10-16 15:25:43 [pengwin] TOTTENHAM-COVENTRY CITY: no LLM answer (try 3)
