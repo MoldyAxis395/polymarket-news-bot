@@ -12224,3 +12224,17 @@
 2026-10-16 04:18:02   drop[kind] Four escape injury as fire damages house in Seaqaqa (Fijivillage) :: other
 2026-10-16 04:21:02 indexed 859 markets
 2026-10-16 04:22:39   drop[1-source] TNA Announces Tasha Steelz Is Sidelined With Knee Injury, No Timetable For Return (Fightful) :: Tasha Steelz, wait 2nd source
+2026-10-16 04:27:16   drop[1-source] Leafs’ Tavares leaves game with injury (Daily Faceoff) :: John Tavares, wait 2nd source
+2026-10-16 04:27:17   llm groq-120b: rate limited, skip 55s
+2026-10-16 04:27:17 NEWS [CNBC 2m] Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe
+2026-10-16 04:27:17   skip Yes :: Russia x Ukraine ceasefire agreement by October 31, 2026? (low conf 0.6)
+2026-10-16 04:31:03 indexed 864 markets
+2026-10-16 04:31:05   llm groq-120b: rate limited, skip 23s
+2026-10-16 04:31:05   drop[no-pick] Sensational Cisse powers Milan to victory as Leverkusen thump Lech Poznan reut.rs/3UuU7jB (Reuters) :: short
+2026-10-16 04:36:34   drop[1-source] Winner's Song Min-ho to Resume 102-Day Duty After Suspended Sentence (조선일보) :: Song Min-ho, wait 2nd source
+2026-10-16 04:38:53   drop[team-not-named] Ashton Jeanty dealing with foot injury (Las Vegas Review-Journal) :: New York Giants
+2026-10-16 04:38:53   llm groq-120b: rate limited, skip 197s
+2026-10-16 04:38:54   drop[not-key] Lions news: Detroit signs former Bears, Chargers return man after Tom Kennedy injury (ClutchPoints) :: Jalen Reagor: adds depth at returner
+2026-10-16 04:41:06 indexed 864 markets
+2026-10-16 04:51:06 indexed 857 markets
+2026-10-16 04:53:12   drop[no-pick] Carney returns to Alberta to make a last-minute case for unity politi.co/4jpQZji (Politico) :: short
