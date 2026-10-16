@@ -12303,3 +12303,18 @@
 2026-10-16 02:40:22 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 102)
 2026-10-16 02:40:25 [pengwin] INTER-COMO: no Polymarket event (try 102)
 2026-10-16 02:40:28 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 101)
+2026-10-16 02:40:30   llm groq-20b: rate limited, skip 345s
+2026-10-16 02:40:30 [pengwin] COMO-INTER: no Polymarket event (try 102)
+2026-10-16 02:40:32 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 102)
+2026-10-16 02:40:35 [pengwin] NAPOLI-COMO: no Polymarket event (try 102)
+2026-10-16 02:40:37   llm groq-120b: rate limited, skip 70s
+2026-10-16 02:40:37 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 102)
+2026-10-16 02:41:04 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 102)
+2026-10-16 02:41:29 NEWS [ESPN 3m] Jason Dickinson (C, Edmonton Oilers) ruled out: Day-To-Day -> Out [NHL]
+2026-10-16 02:41:29   skip Utah :: Utah vs. Oilers (rules fallback, LLM down (not traded))
+2026-10-16 02:43:01   llm groq-120b: rate limited, skip 113s
+2026-10-16 02:45:31   llm groq-120b: rate limited, skip 483s
+2026-10-16 02:46:03 indexed 876 markets
+2026-10-16 02:47:39   llm groq-20b: rate limited, skip 19s
+2026-10-16 02:49:57   drop[unconfirmed] Marcus Mariota Still nursing knee injury (Fantasy Footballers Podcast) :: knee injury
+2026-10-16 02:50:03 shift over, state saved
