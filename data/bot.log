@@ -12757,3 +12757,15 @@
 2026-10-17 01:07:41 indexed 935 markets
 2026-10-17 01:10:18 NEWS [Reuters 0m] Anthropic signs lease for first Canadian data center reut.rs/4i0lMCd
 2026-10-17 01:10:18   skip Yes :: Will Anthropic have the best AI model at the end of October 2026? (low conf 0.6)
+2026-10-17 01:17:42 indexed 936 markets
+2026-10-17 01:19:21   drop[team-not-named] Hr1 - Penix to Play Through Rib Injury & B-Mac Breaks Down Cowboys' Meeting (Audacy) :: 
+2026-10-17 01:19:21   drop[team-not-named] Ajibade undergoes surgery on ankle injury (Punch Newspapers) :: Rangers
+2026-10-17 01:21:40   drop[kind] Rams Final Week 6 Injury Report: Two Players Questionable (roundtable.io) :: other
+2026-10-17 01:21:40   llm groq-120b: rate limited, skip 107s
+2026-10-17 01:21:40   drop[kind] Reis hopes for Onuachu’s quick injury return (Punch Newspapers) :: other
+2026-10-17 01:21:41   drop[no-market] All Blacks hit by major injury blow for Bledisloe 2 (NZ Herald) :: New Zealand All Blacks
+2026-10-17 01:23:58   drop[not-key] Theo Johnson Ruled out against New Orleans (Fantasy Footballers Podcast) :: Theo Johnson: ruled out for game vs New Orleans
+2026-10-17 01:27:43 indexed 927 markets
+2026-10-17 01:35:44   drop[team-not-named] Jordie Barrett ruled out of Bledisloe two with calf tightness (Sport Nation) :: New Zealand All Blacks
+2026-10-17 01:37:45 indexed 919 markets
+2026-10-17 01:40:11   drop[1-source] Magic Forward Suffers Injury in Preseason Finale vs. Heat (Sports Illustrated) :: Orlando Magic, wait 2nd source
