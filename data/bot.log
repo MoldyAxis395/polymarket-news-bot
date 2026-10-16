@@ -12453,3 +12453,45 @@
 2026-10-16 11:10:48 [pengwin] RENNES-AUXERRE: no Polymarket event (try 104)
 2026-10-16 11:10:50 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 104)
 2026-10-16 11:10:52 [pengwin] AUXERRE-BREST: no Polymarket event (try 104)
+2026-10-16 11:11:26 bluesky error x1: HTTPSConnectionPool(host='public.api.bsky.app', port=443): Read timed out. (read timeout=15)
+2026-10-16 11:11:36   llm groq-120b: rate limited, skip 51s
+2026-10-16 11:11:37 [pengwin] LAZIO-INTER: no Polymarket event (try 104)
+2026-10-16 11:11:39 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 104)
+2026-10-16 11:11:42 [pengwin] INTER-COMO: no Polymarket event (try 104)
+2026-10-16 11:11:44 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 103)
+2026-10-16 11:11:45 [pengwin] COMO-INTER: no Polymarket event (try 104)
+2026-10-16 11:11:48 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 104)
+2026-10-16 11:11:50 [pengwin] NAPOLI-COMO: no Polymarket event (try 104)
+2026-10-16 11:11:52 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 104)
+2026-10-16 11:12:17 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 104)
+2026-10-16 11:14:43 [pengwin]   book error ES Troyes AC vs. Racing Club de Lens: Both Teams t: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-16 11:14:44   llm groq-120b: rate limited, skip 210s
+2026-10-16 11:14:44   drop[no-pick] Chelsea captain Reece James undergoes surgery for knee injury (The New York Times) :: short
+2026-10-16 11:16:34 indexed 888 markets
+2026-10-16 11:21:30   drop[kind] Arshdeep Singh in doubt for IND vs WI 2026 5th T20I due to injury; RCB veteran added to sq (Sportskeeda) :: other
+2026-10-16 11:23:57   drop[kind] ‘Very well’ – Andoni Iraola confirms massive double Liverpool injury boost (readliverpoolfc.com) :: other
+2026-10-16 11:25:36   llm groq-120b: rate limited, skip 188s
+2026-10-16 11:25:37   drop[kind] Ukraine's resumption of strikes on Russian refineries is 'disgrace', Trump says reut.rs/4s (Reuters) :: other
+2026-10-16 11:26:04   drop[1-source] IND vs WI: Bhuvneshwar Kumar named in India squad for 5th T20I as Arshdeep Singh suffers s (Livemint) :: Arshdeep Singh, wait 2nd source
+2026-10-16 11:27:12 indexed 886 markets
+2026-10-16 11:30:38   drop[1-source] Senior Police Officer Suspended for Free Hanwha Skybox Tickets (조선일보) :: Hanwha, wait 2nd source
+2026-10-16 11:35:01   drop[kind] Birmingham train line suspended as 'potential incident' being investigated (Express and Star) :: other
+2026-10-16 11:36:38 indexed 885 markets
+2026-10-16 11:37:29   llm groq-120b: rate limited, skip 58s
+2026-10-16 11:37:29   drop[not-key] Dad fined after son, 2, died in Cyprus hotel fall (BBC) :: Joshua Foster: fined
+2026-10-16 11:39:56   llm groq-120b: rate limited, skip 138s
+2026-10-16 11:39:57 NEWS [The Independent 4m] Fresh injury blow for Reece James as Chelsea captain undergoes surgery
+2026-10-16 11:39:57   skip No :: Will Chelsea FC win on 2026-10-17? (rss sport (measure only))
+2026-10-16 11:40:24 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 105)
+2026-10-16 11:40:27 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 105)
+2026-10-16 11:40:29 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 105)
+2026-10-16 11:40:31 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 104)
+2026-10-16 11:40:34 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 104)
+2026-10-16 11:40:36 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 105)
+2026-10-16 11:40:39 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 105)
+2026-10-16 11:40:41 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 105)
+2026-10-16 11:40:43 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 105)
+2026-10-16 11:40:45 [pengwin] MONACO-TOLOSA: no Polymarket event (try 105)
+2026-10-16 11:40:48 [pengwin] BREST-ANGERS: no Polymarket event (try 105)
+2026-10-16 11:40:50 [pengwin] PSG-LE MANS: no Polymarket event (try 105)
+2026-10-16 11:40:53 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 104)
