@@ -12340,359 +12340,56 @@
 2026-10-16 09:39:35 [pengwin] NAPOLI-COMO: no Polymarket event (try 101)
 2026-10-16 09:39:38 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 101)
 2026-10-16 09:40:03 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 101)
-2026-10-16 09:41:37   llm groq-120b: rate limited, skip 126s
-2026-10-16 09:41:38   drop[1-source] Venture Global signs deals with GE Vernova and Baker Hughes (Transformer Magazine) :: Venture Global, wait 2nd source
-2026-10-16 09:43:57   drop[1-source] Liverpool star out until December, injury worse than expected with multiple complications (Football FanCast) :: Mohamed Salah, wait 2nd source
-2026-10-16 09:46:25 indexed 867 markets
-2026-10-16 09:53:26   drop[team-not-named] Doolittle ruled out of Kings clash (NBL) :: Cairns Taipans
-2026-10-16 09:55:54   drop[1-source] Solana's Shanghai event suspended amid police p... (Pluang) :: Solana Shanghai event, wait 2nd source
-2026-10-16 09:57:01 indexed 855 markets
-2026-10-16 10:00:10   drop[unconfirmed] 'Next few days' - Fresh Leeds injury return hope ahead of Man Utd clash (Yorkshire Evening Post) :: injury return hope in next few days
-2026-10-16 10:01:10   llm groq-120b: rate limited, skip 130s
-2026-10-16 10:01:12   drop[no-pick] South African president reinstates suspended police chief reut.rs/4zsfqB6 (Reuters) :: short
-2026-10-16 10:02:40   drop[unconfirmed] Sonay Kartal reaches Wuhan Open semi-finals in impressive return from injury (SSBCrack) :: reaches Wuhan Open semi-finals after injury
-2026-10-16 10:06:28 indexed 857 markets
-2026-10-16 10:07:18   drop[1-source] Knicks Receive Strong Josh Hart Injury Message Before Sixers Opener (heavy.com) :: Josh Hart, wait 2nd source
-2026-10-16 10:08:46 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-16 10:09:19 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 102)
-2026-10-16 10:09:22 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 102)
-2026-10-16 10:09:24 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 102)
-2026-10-16 10:09:26   llm groq-120b: rate limited, skip 159s
-2026-10-16 10:09:26 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 101)
-2026-10-16 10:09:30 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 101)
-2026-10-16 10:09:32 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 102)
-2026-10-16 10:09:34 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 102)
-2026-10-16 10:09:37 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 102)
-2026-10-16 10:09:39 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 102)
-2026-10-16 10:09:42 [pengwin] MONACO-TOLOSA: no Polymarket event (try 102)
-2026-10-16 10:09:44 [pengwin] BREST-ANGERS: no Polymarket event (try 102)
-2026-10-16 10:09:46 [pengwin] PSG-LE MANS: no Polymarket event (try 102)
-2026-10-16 10:09:49 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 101)
-2026-10-16 10:09:51 [pengwin] RENNES-AUXERRE: no Polymarket event (try 102)
-2026-10-16 10:09:54 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 102)
-2026-10-16 10:09:56 [pengwin] AUXERRE-BREST: no Polymarket event (try 102)
-2026-10-16 10:10:41 [pengwin] LAZIO-INTER: no Polymarket event (try 102)
-2026-10-16 10:10:43 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 102)
-2026-10-16 10:10:45 [pengwin] INTER-COMO: no Polymarket event (try 102)
-2026-10-16 10:10:47 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 101)
-2026-10-16 10:10:49 [pengwin] COMO-INTER: no Polymarket event (try 102)
-2026-10-16 10:10:51 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 102)
-2026-10-16 10:10:53 [pengwin] NAPOLI-COMO: no Polymarket event (try 102)
-2026-10-16 10:10:56 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 102)
-2026-10-16 10:11:21 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 102)
-2026-10-16 10:12:06   drop[kind] Exoskeleton linked to improved quality of life in spinal injury study (NR Times) :: other
-2026-10-16 10:13:46 [pengwin]   book error ES Troyes AC vs. Racing Club de Lens: Both Teams t: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
-2026-10-16 10:16:27 indexed 868 markets
-2026-10-16 10:16:32   drop[1-source] European Nights: Onuachu Suffers Injury After Early Goal As Dessers Ends Drought For Panat (streamlinefeed.co.ke) :: Paul Onuachu, wait 2nd source
-2026-10-16 10:18:50   llm groq-120b: rate limited, skip 9s
-2026-10-16 10:18:50   drop[team-not-named] Vaishali Ganga boat capsizing kills 14 children, Deepak Kumar suspended (NewsBytes) :: India women's cricket team
-2026-10-16 10:27:02 indexed 879 markets
-2026-10-16 10:32:32   drop[kind] 'Thank you for giving me the chance to live' - Chelsea legend Petr Cech releases emotional (Goal.com) :: other
-2026-10-16 10:32:32   drop[team-not-named] Mariona Caldentey out for 8-10 weeks (Daily Cannon) :: FC Barcelona Femení
-2026-10-16 10:32:33   drop[kind] Kaprizov Injury Scare: Hofer Hit Draws Interference Penalty (www.ginohard.com) :: other
-2026-10-16 10:37:04 indexed 867 markets
-2026-10-16 10:39:27 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 103)
-2026-10-16 10:39:30 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 103)
-2026-10-16 10:39:32 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 103)
-2026-10-16 10:39:34 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 102)
-2026-10-16 10:39:37   llm groq-120b: rate limited, skip 89s
-2026-10-16 10:39:37 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 102)
-2026-10-16 10:39:40 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 103)
-2026-10-16 10:39:42 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 103)
-2026-10-16 10:39:44 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 103)
-2026-10-16 10:39:46 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 103)
-2026-10-16 10:39:48 [pengwin] MONACO-TOLOSA: no Polymarket event (try 103)
-2026-10-16 10:39:51 [pengwin] BREST-ANGERS: no Polymarket event (try 103)
-2026-10-16 10:39:53 [pengwin] PSG-LE MANS: no Polymarket event (try 103)
-2026-10-16 10:39:56 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 102)
-2026-10-16 10:39:58 [pengwin] RENNES-AUXERRE: no Polymarket event (try 103)
-2026-10-16 10:40:00 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 103)
-2026-10-16 10:40:03 [pengwin] AUXERRE-BREST: no Polymarket event (try 103)
-2026-10-16 10:40:47 [pengwin] LAZIO-INTER: no Polymarket event (try 103)
-2026-10-16 10:40:49 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 103)
-2026-10-16 10:40:51 [pengwin] INTER-COMO: no Polymarket event (try 103)
-2026-10-16 10:40:53 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 102)
-2026-10-16 10:40:55 [pengwin] COMO-INTER: no Polymarket event (try 103)
-2026-10-16 10:40:57 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 103)
-2026-10-16 10:41:00 [pengwin] NAPOLI-COMO: no Polymarket event (try 103)
-2026-10-16 10:41:02 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 103)
-2026-10-16 10:41:27 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 103)
-2026-10-16 10:43:36 [pengwin]   book error ES Troyes AC vs. Racing Club de Lens: Both Teams t: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-16 10:44:06   drop[1-source] Reece James forced to undergo surgery as Chelsea star suffers another injury (talkSPORT) :: Reece James, wait 2nd source
-2026-10-16 10:46:29 indexed 873 markets
-2026-10-16 10:46:45   llm groq-120b: rate limited, skip 164s
-2026-10-16 10:46:45   drop[kind] Jeff Wilson offers theory for injury woes and what Dave Rennie's side are doing 'consisten (Planet Rugby) :: other
-2026-10-16 10:48:56   drop[1-source] Argentina: Juan Sebastián Verón suspended for three months by the AFA (Foot-Africa.com) :: Juan Sebastián Verón, wait 2nd source
-2026-10-16 10:51:12   drop[kind] Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than (BBC) :: other
-2026-10-16 10:53:28   llm groq-120b: rate limited, skip 43s
-2026-10-16 10:53:29   drop[unconfirmed] Bournemouth's Alex Scott to return from injury earlier than expected (OneFootball) :: return
-2026-10-16 10:53:29   drop[unconfirmed] Harambee Starlets forward Violet Nanjala faces up to 12 months out after injury against Se (SportPesa Blog) :: injury
-2026-10-16 10:56:33 indexed 878 markets
-2026-10-16 10:58:10   llm groq-120b: rate limited, skip 101s
-2026-10-16 10:58:11   drop[no-pick] Reece James Undergoes Successful Knee Surgery As Chelsea Injury Blow Confirmed (roundtable.io) :: short
-2026-10-16 10:58:11   drop[kind] Reece James injury curse strikes again as Chelsea release surgery statement (AOL.com) :: other
-2026-10-16 11:02:43   drop[kind] College football star dies 5 days after being injured in game: ‘Loss is deeply felt’ (MassLive.com) :: other
-2026-10-16 11:02:43   llm groq-120b: rate limited, skip 89s
-2026-10-16 11:02:44   drop[1-source] Giovanni Leoni’s new injury setback may accelerate Liverpool plan which fans will love (Rousing The Kop) :: Giovanni Leoni, wait 2nd source
-2026-10-16 11:06:34 indexed 889 markets
-2026-10-16 11:07:24   drop[1-source] Bhuvneshwar Kumar Added To India Squad For 5th T20I Against West Indies After Arshdeep Sin (Times Now) :: Bhuvneshwar Kumar, wait 2nd source
-2026-10-16 11:10:17 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 104)
-2026-10-16 11:10:20 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 104)
-2026-10-16 11:10:22 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 104)
-2026-10-16 11:10:24   llm groq-120b: rate limited, skip 57s
-2026-10-16 11:10:25 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 103)
-2026-10-16 11:10:27 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 103)
-2026-10-16 11:10:30 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 104)
-2026-10-16 11:10:32 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 104)
-2026-10-16 11:10:34 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 104)
-2026-10-16 11:10:36 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 104)
-2026-10-16 11:10:38 [pengwin] MONACO-TOLOSA: no Polymarket event (try 104)
-2026-10-16 11:10:41 [pengwin] BREST-ANGERS: no Polymarket event (try 104)
-2026-10-16 11:10:43 [pengwin] PSG-LE MANS: no Polymarket event (try 104)
-2026-10-16 11:10:45 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 103)
-2026-10-16 11:10:48 [pengwin] RENNES-AUXERRE: no Polymarket event (try 104)
-2026-10-16 11:10:50 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 104)
-2026-10-16 11:10:52 [pengwin] AUXERRE-BREST: no Polymarket event (try 104)
-2026-10-16 11:11:26 bluesky error x1: HTTPSConnectionPool(host='public.api.bsky.app', port=443): Read timed out. (read timeout=15)
-2026-10-16 11:11:36   llm groq-120b: rate limited, skip 51s
-2026-10-16 11:11:37 [pengwin] LAZIO-INTER: no Polymarket event (try 104)
-2026-10-16 11:11:39 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 104)
-2026-10-16 11:11:42 [pengwin] INTER-COMO: no Polymarket event (try 104)
-2026-10-16 11:11:44 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 103)
-2026-10-16 11:11:45 [pengwin] COMO-INTER: no Polymarket event (try 104)
-2026-10-16 11:11:48 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 104)
-2026-10-16 11:11:50 [pengwin] NAPOLI-COMO: no Polymarket event (try 104)
-2026-10-16 11:11:52 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 104)
-2026-10-16 11:12:17 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 104)
-2026-10-16 11:14:43 [pengwin]   book error ES Troyes AC vs. Racing Club de Lens: Both Teams t: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
-2026-10-16 11:14:44   llm groq-120b: rate limited, skip 210s
-2026-10-16 11:14:44   drop[no-pick] Chelsea captain Reece James undergoes surgery for knee injury (The New York Times) :: short
-2026-10-16 11:16:34 indexed 888 markets
-2026-10-16 11:21:30   drop[kind] Arshdeep Singh in doubt for IND vs WI 2026 5th T20I due to injury; RCB veteran added to sq (Sportskeeda) :: other
-2026-10-16 11:23:57   drop[kind] ‘Very well’ – Andoni Iraola confirms massive double Liverpool injury boost (readliverpoolfc.com) :: other
-2026-10-16 11:25:36   llm groq-120b: rate limited, skip 188s
-2026-10-16 11:25:37   drop[kind] Ukraine's resumption of strikes on Russian refineries is 'disgrace', Trump says reut.rs/4s (Reuters) :: other
-2026-10-16 11:26:04   drop[1-source] IND vs WI: Bhuvneshwar Kumar named in India squad for 5th T20I as Arshdeep Singh suffers s (Livemint) :: Arshdeep Singh, wait 2nd source
-2026-10-16 11:27:12 indexed 886 markets
-2026-10-16 11:30:38   drop[1-source] Senior Police Officer Suspended for Free Hanwha Skybox Tickets (조선일보) :: Hanwha, wait 2nd source
-2026-10-16 11:35:01   drop[kind] Birmingham train line suspended as 'potential incident' being investigated (Express and Star) :: other
-2026-10-16 11:36:38 indexed 885 markets
-2026-10-16 11:37:29   llm groq-120b: rate limited, skip 58s
-2026-10-16 11:37:29   drop[not-key] Dad fined after son, 2, died in Cyprus hotel fall (BBC) :: Joshua Foster: fined
-2026-10-16 11:39:56   llm groq-120b: rate limited, skip 138s
-2026-10-16 11:39:57 NEWS [The Independent 4m] Fresh injury blow for Reece James as Chelsea captain undergoes surgery
-2026-10-16 11:39:57   skip No :: Will Chelsea FC win on 2026-10-17? (rss sport (measure only))
-2026-10-16 11:40:24 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 105)
-2026-10-16 11:40:27 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 105)
-2026-10-16 11:40:29 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 105)
-2026-10-16 11:40:31 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 104)
-2026-10-16 11:40:34 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 104)
-2026-10-16 11:40:36 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 105)
-2026-10-16 11:40:39 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 105)
-2026-10-16 11:40:41 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 105)
-2026-10-16 11:40:43 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 105)
-2026-10-16 11:40:45 [pengwin] MONACO-TOLOSA: no Polymarket event (try 105)
-2026-10-16 11:40:48 [pengwin] BREST-ANGERS: no Polymarket event (try 105)
-2026-10-16 11:40:50 [pengwin] PSG-LE MANS: no Polymarket event (try 105)
-2026-10-16 11:40:53 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 104)
-2026-10-16 11:40:55 [pengwin] RENNES-AUXERRE: no Polymarket event (try 105)
-2026-10-16 11:40:58 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 105)
-2026-10-16 11:41:00 [pengwin] AUXERRE-BREST: no Polymarket event (try 105)
-2026-10-16 11:41:44 [pengwin] LAZIO-INTER: no Polymarket event (try 105)
-2026-10-16 11:41:47 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 105)
-2026-10-16 11:41:49 [pengwin] INTER-COMO: no Polymarket event (try 105)
-2026-10-16 11:41:52 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 104)
-2026-10-16 11:41:54 [pengwin] COMO-INTER: no Polymarket event (try 105)
-2026-10-16 11:41:56 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 105)
-2026-10-16 11:41:58 [pengwin] NAPOLI-COMO: no Polymarket event (try 105)
-2026-10-16 11:42:01 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 105)
-2026-10-16 11:42:27 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 105)
-2026-10-16 11:46:40 indexed 889 markets
-2026-10-16 11:49:22   drop[team-not-named] Mikel Merino injury | Arsenal star feared career was over (Read Arsenal) :: Villarreal CF
-2026-10-16 11:56:41 indexed 906 markets
-2026-10-16 12:02:51   drop[not-key] NY Giants news: Abdul Carter injury, Cam Skattebo talks about his fumble, more (Big Blue View) :: Abdul Carter: Abdul Carter has been reported injured, ruling him out for upcoming games
-2026-10-16 12:02:51   drop[1-source] Eagles’ QB Jalen Hurts ruled out for Sunday’s game vs. Panthers with blood clot (Dailyfly News) :: Jalen Hurts, wait 2nd source
-2026-10-16 12:02:52   drop[1-source] Blackburn Rovers star's 'time is coming' after injury frustration (Lancashire Telegraph) :: Blackburn Rovers, wait 2nd source
-2026-10-16 12:02:52   llm groq-120b: rate limited, skip 153s
-2026-10-16 12:02:53   drop[1-source] Portsmouth boss' Josh Murphy injury latest as return target is confirmed (Portsmouth News) :: Josh Murphy, wait 2nd source
-2026-10-16 12:02:53   drop[kind] Injured Arsenal 27yo showing improvement pre-Nottingham Forest (Daily Cannon) :: other
-2026-10-16 12:02:54   drop[1-source] Jordan Hendrikse to head Sharks' challenge in Lyon, Williams back from injury (IOL) :: Jordan Hendrikse, wait 2nd source
-2026-10-16 12:04:33   drop[no-market] Broncos beat Superbowl champions Seahawks in overtime (BBC) :: Denver Broncos
-2026-10-16 12:05:07   drop[team-not-named] The Bear’s Den: Caleb Williams practices, speaks about injury (Windy City Gridiron) :: Chicago Bears
-2026-10-16 12:06:44 indexed 901 markets
-2026-10-16 12:09:51   drop[1-source] Rangers believe they can sustain winning after losing Igor Shesterkin to a season-ending i (The Lethbridge Herald) :: Igor Shesterkin, wait 2nd source
-2026-10-16 12:09:51   llm groq-120b: rate limited, skip 23s
-2026-10-16 12:09:52   drop[not-key] Rovers injury latest on Bobby Kamwa, Mees Rijks and Promise Omochere (Bristol Live) :: Bobby Kamwa: injury
-2026-10-16 12:09:52   drop[1-source] Justice, truth must prevail - Chief urges police over suspended Obuasi SHTS headmaster's c (Adomonline.com) :: Obuasi SHTS, wait 2nd source
-2026-10-16 12:11:18 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 106)
-2026-10-16 12:11:21 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 106)
-2026-10-16 12:11:23 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 106)
-2026-10-16 12:11:25   llm groq-120b: rate limited, skip 81s
-2026-10-16 12:11:25 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 105)
-2026-10-16 12:11:28 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 105)
-2026-10-16 12:11:30 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 106)
-2026-10-16 12:11:33 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 106)
-2026-10-16 12:11:35 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 106)
-2026-10-16 12:11:37 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 106)
-2026-10-16 12:11:39 [pengwin] MONACO-TOLOSA: no Polymarket event (try 106)
-2026-10-16 12:11:42 [pengwin] BREST-ANGERS: no Polymarket event (try 106)
-2026-10-16 12:11:44 [pengwin] PSG-LE MANS: no Polymarket event (try 106)
-2026-10-16 12:11:46 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 105)
-2026-10-16 12:11:49 [pengwin] RENNES-AUXERRE: no Polymarket event (try 106)
-2026-10-16 12:11:51 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 106)
-2026-10-16 12:11:53 [pengwin] AUXERRE-BREST: no Polymarket event (try 106)
-2026-10-16 12:12:09   drop[kind] Austrian investor rushes to boost copper production at old Chile mine (Reuters) :: other
-2026-10-16 12:12:37 [pengwin] LAZIO-INTER: no Polymarket event (try 106)
-2026-10-16 12:12:40 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 106)
-2026-10-16 12:12:42 [pengwin] INTER-COMO: no Polymarket event (try 106)
-2026-10-16 12:12:44 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 105)
-2026-10-16 12:12:46 [pengwin] COMO-INTER: no Polymarket event (try 106)
-2026-10-16 12:12:48 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 106)
-2026-10-16 12:12:50   llm groq-120b: rate limited, skip 96s
-2026-10-16 12:12:50 [pengwin] NAPOLI-COMO: no Polymarket event (try 106)
-2026-10-16 12:12:52 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 106)
-2026-10-16 12:13:17 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 106)
-2026-10-16 12:14:26   drop[1-source] Rawalpindi-Islamabad Metro Bus Service Partially Suspended (Bloom Pakistan) :: Rawalpindi-Islamabad Metro Bus Service, wait 2nd source
-2026-10-16 12:16:08   llm groq-120b: rate limited, skip 23s
-2026-10-16 12:16:09   drop[no-market] Eli Lilly's weight-loss pill wins backing in Europe reut.rs/4iksL8Z (Reuters) :: Eli Lilly
-2026-10-16 12:16:45 indexed 915 markets
-2026-10-16 12:17:02   drop[team-not-named] Rahul Gandhi Journalist Injury Case: SC Hearing on October 26 (News Arena India) :: Indian National Congress
-2026-10-16 12:19:07   llm groq-120b: rate limited, skip 147s
-2026-10-16 12:19:07   drop[kind] Colombo-Dammam and Riyadh flights further suspended (Hiru News) :: other
-2026-10-16 12:23:44   drop[kind] Blue Origin targets multiple New Glenn launches weekly by end of decade (The Olympian) :: other
-2026-10-16 12:23:44   llm groq-120b: rate limited, skip 140s
-2026-10-16 12:23:45   drop[1-source] England's huge injury blow with Morgan Knowles out of Tonga clash (Love Rugby League) :: Morgan Knowles, wait 2nd source
-2026-10-16 12:23:46   drop[kind] Dominik Szoboszlai injury: Liverpool vice-captain “hopeful” over return (This Is Anfield) :: other
-2026-10-16 12:23:47   drop[unconfirmed] FOOTBALL – Redditch United suffer injury-time collapse in draw at Leamington (The Redditch Standard) :: draw after injury-time collapse
-2026-10-16 12:25:14   llm groq-20b: rate limited, skip 39s
-2026-10-16 12:27:20 indexed 920 markets
-2026-10-16 12:30:31   drop[kind] Blue Origin targets multiple New Glenn launches weekly by end of decade reut.rs/4inxYga (Reuters) :: other
-2026-10-16 12:30:31   llm groq-120b: rate limited, skip 67s
-2026-10-16 12:30:31   drop[kind] Man suffers head injury after being struck by vehicle on Northwest Side (WOAI) :: other
-2026-10-16 12:30:31   llm groq-20b: rate limited, skip 115s
-2026-10-16 12:33:00   drop[kind] Adams Area Fire District chief out of hospital after crush injury (Butler Eagle) :: other
-2026-10-16 12:33:00   llm groq-120b: rate limited, skip 166s
-2026-10-16 12:33:01   drop[kind] Farke press conference: Leeds injury return hope & 54-year Man Utd wait (Yorkshire Evening Post) :: other
-2026-10-16 12:35:06   llm groq-20b: rate limited, skip 188s
-2026-10-16 12:36:46 indexed 916 markets
-2026-10-16 12:37:37   drop[1-source] Jets’ Morrissey Downgraded to “Week to Week” With Upper-Body Injury & Perfetti Off to Scor (Substack) :: New York Jets, wait 2nd source
-2026-10-16 12:42:08 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 107)
-2026-10-16 12:42:10   llm groq-120b: rate limited, skip 41s
-2026-10-16 12:42:11 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 107)
-2026-10-16 12:42:13 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 107)
-2026-10-16 12:42:15 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 106)
-2026-10-16 12:42:17 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 106)
-2026-10-16 12:42:20   llm groq-20b: rate limited, skip 54s
-2026-10-16 12:42:20 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 107)
-2026-10-16 12:42:22 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 107)
-2026-10-16 12:42:24 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 107)
-2026-10-16 12:42:26 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 107)
-2026-10-16 12:42:28 [pengwin] MONACO-TOLOSA: no Polymarket event (try 107)
-2026-10-16 12:42:30 [pengwin] BREST-ANGERS: no Polymarket event (try 107)
-2026-10-16 12:42:32 [pengwin] PSG-LE MANS: no Polymarket event (try 107)
-2026-10-16 12:42:34 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 106)
-2026-10-16 12:42:36 [pengwin] RENNES-AUXERRE: no Polymarket event (try 107)
-2026-10-16 12:42:38 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 107)
-2026-10-16 12:42:39 [pengwin] AUXERRE-BREST: no Polymarket event (try 107)
-2026-10-16 12:43:24   llm groq-120b: rate limited, skip 13s
-2026-10-16 12:43:24 [pengwin] LAZIO-INTER: no Polymarket event (try 107)
-2026-10-16 12:43:26   llm groq-20b: rate limited, skip 98s
-2026-10-16 12:43:26 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 107)
-2026-10-16 12:43:28 [pengwin] INTER-COMO: no Polymarket event (try 107)
-2026-10-16 12:43:30 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 106)
-2026-10-16 12:43:32 [pengwin] COMO-INTER: no Polymarket event (try 107)
-2026-10-16 12:43:34 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 107)
-2026-10-16 12:43:35 [pengwin] NAPOLI-COMO: no Polymarket event (try 107)
-2026-10-16 12:43:38 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 107)
-2026-10-16 12:44:02   llm groq-120b: rate limited, skip 74s
-2026-10-16 12:44:02 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 107)
-2026-10-16 12:44:55 [pengwin] EVERTON-CHELSEA: no LLM answer (try 1)
-2026-10-16 12:44:58 [pengwin] FULHAM-HULL CITY: no LLM answer (try 1)
-2026-10-16 12:45:00 [pengwin] BRENTFORD-LIVERPOOL: no LLM answer (try 1)
-2026-10-16 12:45:03 [pengwin] MANCHESTER CITY-IPSWICH TOWN: no LLM answer (try 1)
-2026-10-16 12:45:05   llm groq-20b: rate limited, skip 696s
-2026-10-16 12:45:05 [pengwin] NEWCASTLE-ASTON VILLA: no LLM answer (try 1)
-2026-10-16 12:45:08 [pengwin] BRIGHTON-CRYSTAL PALACE: no LLM answer (try 1)
-2026-10-16 12:45:10 [pengwin] LEEDS UNITED-MANCHESTER UNITED: no Polymarket event (try 1)
-2026-10-16 12:45:12 [pengwin] BOURNEMOUTH-SUNDERLAND: no LLM answer (try 1)
-2026-10-16 12:46:46 indexed 919 markets
-2026-10-16 12:46:51   drop[kind] tripleS’s Jiwoo To Limit Movements During Upcoming Schedules Due To Ankle Injury (Soompi) :: other
-2026-10-16 12:49:54   llm groq-120b: rate limited, skip 134s
-2026-10-16 12:57:21 indexed 907 markets
-2026-10-16 12:58:23   drop[kind] Daniel Farke set for pre-Man Utd briefing amid Leeds injury hope and 54-year target (OneFootball) :: other
-2026-10-16 13:02:49   drop[kind] 'Thank you for giving me the chance to live' - Petr Cech opens up on horror head injury 20 (The Sun) :: other
-2026-10-16 13:05:07   drop[1-source] Jalen Hurts injury creates unexpected Eagles quarterback situation before Panthers game (www.sportingnews.com) :: Jalen Hurts, wait 2nd source
-2026-10-16 13:05:07   llm groq-120b: rate limited, skip 148s
-2026-10-16 13:05:08   drop[unconfirmed] Marvin Senaya Resumes Grass Training After World Cup Muscle Injury (Africa Top Sports) :: return from injury
-2026-10-16 13:06:47 indexed 899 markets
-2026-10-16 13:07:48   llm groq-120b: rate limited, skip 3s
-2026-10-16 13:07:49   drop[kind] College football player dies after suffering ‘traumatic’ in-game injury (Larry Brown Sports) :: other
-2026-10-16 13:09:57   drop[no-market] Islamabad Metro Bus Operations suspended between IJP Road, and Pak Secretariat (Daily Pakistan) :: Islamabad Metro Bus Service
-2026-10-16 13:13:19 [pengwin] ERROR  in request |     resp = self.send(prep, **send_kwargs) |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send |     r = adapter.send(request, **kwargs) |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py", line 742, in send |     raise ReadTimeout(e, request=request) | requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
-2026-10-16 13:16:48 indexed 902 markets
-2026-10-16 13:23:48   drop[kind] SMRT staff help cyclist with head & face injury outside Labrador Park MRT, pay for his Gra (Mothership) :: other
-2026-10-16 13:26:51 indexed 888 markets
-2026-10-16 13:28:29   drop[1-source] Chelsea captain Reece James set to be out for three months after knee injury picked up in  (LBC) :: Reece James, wait 2nd source
-2026-10-16 13:33:06   drop[kind] Suspended SCI officer waives hearing on child pornography charges (Delco Times) :: other
-2026-10-16 13:33:06   drop[1-source] Chelsea captain suffers 3-month injury (Daily Cannon) :: César Azpilicueta, wait 2nd source
-2026-10-16 13:33:07   llm groq-120b: rate limited, skip 248s
-2026-10-16 13:33:08   drop[side] Xabi Alonso had just found Reece James’ perfect position before cruel Chelsea injury blow (The Chelsea Chronicle) :: Will Chelsea FC win on 2026-10-17? -> Yes vs fact ruled_out: Reece James (Chelsea FC, soccer), bad for Chelsea FC. susta
-2026-10-16 13:36:52 indexed 889 markets
-2026-10-16 13:43:01 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 108)
-2026-10-16 13:43:03 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 108)
-2026-10-16 13:43:06 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 107)
-2026-10-16 13:43:09 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 107)
-2026-10-16 13:43:11   llm groq-120b: rate limited, skip 69s
-2026-10-16 13:43:12 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 108)
-2026-10-16 13:43:14 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 108)
-2026-10-16 13:43:17 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 108)
-2026-10-16 13:43:19 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 108)
-2026-10-16 13:43:21 [pengwin] MONACO-TOLOSA: no Polymarket event (try 108)
-2026-10-16 13:43:23 [pengwin] BREST-ANGERS: no Polymarket event (try 108)
-2026-10-16 13:43:26 [pengwin] PSG-LE MANS: no Polymarket event (try 108)
-2026-10-16 13:43:28 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 107)
-2026-10-16 13:43:30 [pengwin] RENNES-AUXERRE: no Polymarket event (try 108)
-2026-10-16 13:43:33 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 108)
-2026-10-16 13:43:35 [pengwin] AUXERRE-BREST: no Polymarket event (try 108)
-2026-10-16 13:44:19 [pengwin] LAZIO-INTER: no Polymarket event (try 108)
-2026-10-16 13:44:21 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 108)
-2026-10-16 13:44:23   llm groq-120b: rate limited, skip 114s
-2026-10-16 13:44:24 [pengwin] INTER-COMO: no Polymarket event (try 108)
-2026-10-16 13:44:26 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 107)
-2026-10-16 13:44:28 [pengwin] COMO-INTER: no Polymarket event (try 108)
-2026-10-16 13:44:30 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 108)
-2026-10-16 13:44:32 [pengwin] NAPOLI-COMO: no Polymarket event (try 108)
-2026-10-16 13:44:34 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 108)
-2026-10-16 13:44:48   drop[kind] Driving licences to be suspended at 30 demerit points under new system (Newswire) :: other
-2026-10-16 13:44:59 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 108)
-2026-10-16 13:45:53   llm groq-20b: rate limited, skip 732s
-2026-10-16 13:45:53 [pengwin] EVERTON-CHELSEA: no LLM answer (try 2)
-2026-10-16 13:45:55 [pengwin] FULHAM-HULL CITY: no LLM answer (try 2)
-2026-10-16 13:45:57 [pengwin] BRENTFORD-LIVERPOOL: no LLM answer (try 2)
-2026-10-16 13:46:00 [pengwin] MANCHESTER CITY-IPSWICH TOWN: no LLM answer (try 2)
-2026-10-16 13:46:02 [pengwin] NEWCASTLE-ASTON VILLA: no LLM answer (try 2)
-2026-10-16 13:46:04 [pengwin] BRIGHTON-CRYSTAL PALACE: no LLM answer (try 2)
-2026-10-16 13:46:06 [pengwin] LEEDS UNITED-MANCHESTER UNITED: no Polymarket event (try 2)
-2026-10-16 13:46:09 [pengwin] BOURNEMOUTH-SUNDERLAND: no LLM answer (try 2)
-2026-10-16 13:46:11 [pengwin] NOTTINGHAM FOREST-ARSENAL: no LLM answer (try 1)
-2026-10-16 13:46:13 [pengwin] TOTTENHAM-COVENTRY CITY: no LLM answer (try 1)
-2026-10-16 13:46:54 indexed 891 markets
-2026-10-16 13:51:36   drop[1-source] Liverpool’s Six Injured Players Heading Into Brentford Clash (LiveScore) :: Liverpool Football Club, wait 2nd source
-2026-10-16 13:56:11   drop[1-source] India Name Bhuvneshwar Kumar as Arshdeep Singh Suffers Shoulder Injury (Dailysports) :: Arshdeep Singh, wait 2nd source
-2026-10-16 13:56:11   llm groq-120b: rate limited, skip 123s
-2026-10-16 13:56:53 indexed 881 markets
-2026-10-16 13:58:30   drop[1-source] Virginia injury report: Kam Courtney, Corey Costner ruled out against SMU; Brandyn Hillman (247Sports) :: Kam Courtney, wait 2nd source
-2026-10-16 13:58:31   llm groq-120b: rate limited, skip 291s
-2026-10-16 13:58:31   drop[kind] Tesla unveils long-delayed Roadster, showing off its flying-car ambitions (CNBC) :: other
-2026-10-16 14:00:49   drop[kind] Life ban for owner who left terrier with serious untreated leg injury after dog fight (Birkenhead News) :: other
-2026-10-16 14:01:37   drop[no-market] Debuts, returns & tributes - teams named for European openers (BBC) :: Leinster
-2026-10-16 14:03:19   llm groq-20b: rate limited, skip 20s
-2026-10-16 14:06:56 indexed 994 markets
-2026-10-16 14:07:00   drop[kind] Phoenix Suns owner Mat Ishbia predicts team will win opening round playoff series — and th (CNBC) :: other
-2026-10-16 14:12:53 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-16 14:13:44 [pengwin] ERROR  in request |     resp = self.send(prep, **send_kwargs) |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send |     r = adapter.send(request, **kwargs) |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py", line 742, in send |     raise ReadTimeout(e, request=request) | requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
-2026-10-16 14:14:42   drop[no-pick] Football: Soccer-Chelsea captain James has surgery after training injury (The Star) :: short
-2026-10-16 14:16:56 indexed 984 markets
-2026-10-16 14:17:02   llm groq-120b: rate limited, skip 68s
-2026-10-16 14:17:02   drop[not-key] Pirates Top Prospects No. 16: Injury Halts Edgleen Perez’s Encouraging Season (Pittsburgh Baseball Now) :: Edgleen Perez: injury
-2026-10-16 14:20:43 shift over, state saved
+2026-10-16 14:20:58 === start mode=paper pid=2331 ===
+2026-10-16 14:20:58 brain=llm cash=84.41 open=0
+2026-10-16 14:20:58 resuming with 7177 known news items
+2026-10-16 14:21:23 indexed 980 markets
+2026-10-16 14:21:36 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 101)
+2026-10-16 14:21:39 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 101)
+2026-10-16 14:21:40   llm groq-120b: rate limited, skip 46s
+2026-10-16 14:21:40   drop[team-not-named] 🚨🔵🔴 Raphinha is officially back and ready to play after the injury. Hansi Flick: “Raphinha (Fabrizio Romano) :: FC Barcelona
+2026-10-16 14:21:41   drop[unconfirmed] 🔵🔴✅ Frenkie de Jong, back available for Barcelona after the injury. Flick: “Frenkie de Jon (Fabrizio Romano) :: injury recovery
+2026-10-16 14:21:41 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 101)
+2026-10-16 14:21:41   drop[1-source] Leverkusen sweat over Terrier injury in 4-0 Lech Poznań win (OneFootball) :: Bayer Leverkusen, wait 2nd source
+2026-10-16 14:21:43 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 100)
+2026-10-16 14:21:46   llm groq-20b: rate limited, skip 106s
+2026-10-16 14:21:46 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 100)
+2026-10-16 14:21:48 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 101)
+2026-10-16 14:21:50 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 101)
+2026-10-16 14:21:52 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 101)
+2026-10-16 14:21:54 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 101)
+2026-10-16 14:21:56 [pengwin] MONACO-TOLOSA: no Polymarket event (try 101)
+2026-10-16 14:21:59 [pengwin] BREST-ANGERS: no Polymarket event (try 101)
+2026-10-16 14:22:00 [pengwin] PSG-LE MANS: no Polymarket event (try 101)
+2026-10-16 14:22:03 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 100)
+2026-10-16 14:22:05 [pengwin] RENNES-AUXERRE: no Polymarket event (try 101)
+2026-10-16 14:22:07 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 101)
+2026-10-16 14:22:09 [pengwin] AUXERRE-BREST: no Polymarket event (try 101)
+2026-10-16 14:22:54 [pengwin] LAZIO-INTER: no Polymarket event (try 101)
+2026-10-16 14:22:56   llm groq-120b: rate limited, skip 6s
+2026-10-16 14:22:56 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 101)
+2026-10-16 14:22:58 [pengwin] INTER-COMO: no Polymarket event (try 101)
+2026-10-16 14:23:00 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 100)
+2026-10-16 14:23:02 [pengwin] COMO-INTER: no Polymarket event (try 101)
+2026-10-16 14:23:04   llm groq-120b: rate limited, skip 8s
+2026-10-16 14:23:04 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 101)
+2026-10-16 14:23:06 [pengwin] NAPOLI-COMO: no Polymarket event (try 101)
+2026-10-16 14:23:08 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 101)
+2026-10-16 14:23:34 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 101)
+2026-10-16 14:24:29   llm groq-120b: rate limited, skip 815s
+2026-10-16 14:24:29   llm groq-20b: rate limited, skip 808s
+2026-10-16 14:24:29 [pengwin] EVERTON-CHELSEA: no LLM answer (try 1)
+2026-10-16 14:24:32 [pengwin] FULHAM-HULL CITY: no LLM answer (try 1)
+2026-10-16 14:24:34 [pengwin] BRENTFORD-LIVERPOOL: no LLM answer (try 1)
+2026-10-16 14:24:37 [pengwin] MANCHESTER CITY-IPSWICH TOWN: no LLM answer (try 1)
+2026-10-16 14:24:40 [pengwin] NEWCASTLE-ASTON VILLA: no LLM answer (try 1)
+2026-10-16 14:24:42 [pengwin] BRIGHTON-CRYSTAL PALACE: no LLM answer (try 1)
+2026-10-16 14:24:45 [pengwin] LEEDS UNITED-MANCHESTER UNITED: no LLM answer (try 1)
+2026-10-16 14:24:48 [pengwin] BOURNEMOUTH-SUNDERLAND: no LLM answer (try 1)
+2026-10-16 14:24:50 [pengwin] NOTTINGHAM FOREST-ARSENAL: no LLM answer (try 1)
+2026-10-16 14:24:53 [pengwin] TOTTENHAM-COVENTRY CITY: no LLM answer (try 1)
+2026-10-16 14:25:22 [pengwin] Espanyol-Atletico Madrid: no LLM answer (try 1)
+2026-10-16 14:25:24 [pengwin] Villarreal-Elche: no LLM answer (try 1)
+2026-10-16 14:25:27 [pengwin] Betis-Barcellona: no Polymarket event (try 1)
+2026-10-16 14:25:29 [pengwin] Valencia-Athletic Bilbao: no LLM answer (try 1)
+2026-10-16 14:25:32 [pengwin] Osasuna-Racing Santander: no LLM answer (try 1)
