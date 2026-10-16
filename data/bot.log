@@ -12628,3 +12628,13 @@
 2026-10-16 13:07:48   llm groq-120b: rate limited, skip 3s
 2026-10-16 13:07:49   drop[kind] College football player dies after suffering ‘traumatic’ in-game injury (Larry Brown Sports) :: other
 2026-10-16 13:09:57   drop[no-market] Islamabad Metro Bus Operations suspended between IJP Road, and Pak Secretariat (Daily Pakistan) :: Islamabad Metro Bus Service
+2026-10-16 13:13:19 [pengwin] ERROR  in request |     resp = self.send(prep, **send_kwargs) |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send |     r = adapter.send(request, **kwargs) |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py", line 742, in send |     raise ReadTimeout(e, request=request) | requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-16 13:16:48 indexed 902 markets
+2026-10-16 13:23:48   drop[kind] SMRT staff help cyclist with head & face injury outside Labrador Park MRT, pay for his Gra (Mothership) :: other
+2026-10-16 13:26:51 indexed 888 markets
+2026-10-16 13:28:29   drop[1-source] Chelsea captain Reece James set to be out for three months after knee injury picked up in  (LBC) :: Reece James, wait 2nd source
+2026-10-16 13:33:06   drop[kind] Suspended SCI officer waives hearing on child pornography charges (Delco Times) :: other
+2026-10-16 13:33:06   drop[1-source] Chelsea captain suffers 3-month injury (Daily Cannon) :: César Azpilicueta, wait 2nd source
+2026-10-16 13:33:07   llm groq-120b: rate limited, skip 248s
+2026-10-16 13:33:08   drop[side] Xabi Alonso had just found Reece James’ perfect position before cruel Chelsea injury blow (The Chelsea Chronicle) :: Will Chelsea FC win on 2026-10-17? -> Yes vs fact ruled_out: Reece James (Chelsea FC, soccer), bad for Chelsea FC. susta
+2026-10-16 13:36:52 indexed 889 markets
