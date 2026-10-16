@@ -12722,3 +12722,53 @@
 2026-10-16 17:25:45 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 107)
 2026-10-16 17:25:48 [pengwin] NAPOLI-COMO: no Polymarket event (try 107)
 2026-10-16 17:25:50 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 107)
+2026-10-16 17:26:16   llm groq-20b: rate limited, skip 80s
+2026-10-16 17:26:16 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 107)
+2026-10-16 17:26:57 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 3)
+2026-10-16 17:27:00 [pengwin] UNION BERLINO-BORUSSIA DORTMUND: no LLM answer (try 3)
+2026-10-16 17:27:02   llm groq-120b: rate limited, skip 747s
+2026-10-16 17:27:02 [pengwin] SCHALKE-MAINZ: no LLM answer (try 3)
+2026-10-16 17:27:05 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 3)
+2026-10-16 17:27:07 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 3)
+2026-10-16 17:27:09 [pengwin] WERDER BREMA-PADERBORN: no LLM answer (try 3)
+2026-10-16 17:27:12 [pengwin] ELVERSBERG-AUGSBURG: no LLM answer (try 3)
+2026-10-16 17:27:14 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 2)
+2026-10-16 17:27:16 [pengwin] MONCHENGLADBACH-HOFFENHEIM: no LLM answer (try 2)
+2026-10-16 17:27:45   llm groq-20b: rate limited, skip 1058s
+2026-10-16 17:27:45 [pengwin] Betis-Barcellona: no LLM answer (try 7)
+2026-10-16 17:27:48 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 6)
+2026-10-16 17:27:50 [pengwin] FROSINONE-SASSUOLO: no LLM answer (try 4)
+2026-10-16 17:32:14 indexed 972 markets
+2026-10-16 17:41:00   drop[1-source] Mikel Merino reflects on Dortmund attack and rare injury in personal letter (OneFootball) :: Mikel Merino, wait 2nd source
+2026-10-16 17:41:01   drop[kind] Vasco weigh up Colidio for São Paulo clash after injury scare (OneFootball) :: other
+2026-10-16 17:42:15 indexed 971 markets
+2026-10-16 17:45:22   drop[kind] US federal bankruptcy court operations disrupted by cybersecurity incident reut.rs/4sayr8P (Reuters) :: other
+2026-10-16 17:46:46   llm groq-120b: rate limited, skip 54s
+2026-10-16 17:46:46   drop[no-pick] Oskar Back (C, Dallas Stars) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: short
+2026-10-16 17:50:22   drop[kind] What Brewers' Brandon Woodruff said about potentially returning from injury for World Seri (ClutchPoints) :: other
+2026-10-16 17:52:16 indexed 971 markets
+2026-10-16 17:52:18   llm groq-120b: rate limited, skip 123s
+2026-10-16 17:52:18   drop[not-key] Florian Xhekaj (LW, Montreal Canadiens) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Florian Xhekaj: day‑to‑day injury
+2026-10-16 17:52:22   drop[unconfirmed] Reece James to miss three months with knee injury — report (We Ain't Got No History) :: knee injury
+2026-10-16 17:52:23   drop[team-not-named] Jimmy Butler puts entire NBA on notice with fiery injury comeback declaration (USA Today) :: Miami Heat
+2026-10-16 17:52:23   drop[not-key] Eagles Sign Joe Milton as Quarterback Amid Jalen Hurts’ Injury (SSBCrack) :: Joe Milton: depth
+2026-10-16 17:53:20   drop[not-key] Kevin Winston Jr. (S, Tennessee Titans) ruled out: Doubtful -> Out [NFL] (ESPN) :: Kevin Winston Jr.: injury
+2026-10-16 17:54:42   drop[kind] Utah police dog survives injury after leaping from overpass – video (The Guardian) :: other
+2026-10-16 17:54:42   llm groq-120b: rate limited, skip 236s
+2026-10-16 17:54:42   llm groq-20b: rate limited, skip 145s
+2026-10-16 17:55:15 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 108)
+2026-10-16 17:55:18 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 108)
+2026-10-16 17:55:20 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 108)
+2026-10-16 17:55:22 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 107)
+2026-10-16 17:55:25 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 107)
+2026-10-16 17:55:27 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 108)
+2026-10-16 17:55:29 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 108)
+2026-10-16 17:55:31 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 108)
+2026-10-16 17:55:34 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 108)
+2026-10-16 17:55:36 [pengwin] MONACO-TOLOSA: no Polymarket event (try 108)
+2026-10-16 17:55:38 [pengwin] BREST-ANGERS: no Polymarket event (try 108)
+2026-10-16 17:55:40 [pengwin] PSG-LE MANS: no Polymarket event (try 108)
+2026-10-16 17:55:42 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 107)
+2026-10-16 17:55:44 [pengwin] RENNES-AUXERRE: no Polymarket event (try 108)
+2026-10-16 17:55:46 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 108)
+2026-10-16 17:55:48 [pengwin] AUXERRE-BREST: no Polymarket event (try 108)
