@@ -12340,3 +12340,38 @@
 2026-10-16 09:39:35 [pengwin] NAPOLI-COMO: no Polymarket event (try 101)
 2026-10-16 09:39:38 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 101)
 2026-10-16 09:40:03 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 101)
+2026-10-16 09:41:37   llm groq-120b: rate limited, skip 126s
+2026-10-16 09:41:38   drop[1-source] Venture Global signs deals with GE Vernova and Baker Hughes (Transformer Magazine) :: Venture Global, wait 2nd source
+2026-10-16 09:43:57   drop[1-source] Liverpool star out until December, injury worse than expected with multiple complications (Football FanCast) :: Mohamed Salah, wait 2nd source
+2026-10-16 09:46:25 indexed 867 markets
+2026-10-16 09:53:26   drop[team-not-named] Doolittle ruled out of Kings clash (NBL) :: Cairns Taipans
+2026-10-16 09:55:54   drop[1-source] Solana's Shanghai event suspended amid police p... (Pluang) :: Solana Shanghai event, wait 2nd source
+2026-10-16 09:57:01 indexed 855 markets
+2026-10-16 10:00:10   drop[unconfirmed] 'Next few days' - Fresh Leeds injury return hope ahead of Man Utd clash (Yorkshire Evening Post) :: injury return hope in next few days
+2026-10-16 10:01:10   llm groq-120b: rate limited, skip 130s
+2026-10-16 10:01:12   drop[no-pick] South African president reinstates suspended police chief reut.rs/4zsfqB6 (Reuters) :: short
+2026-10-16 10:02:40   drop[unconfirmed] Sonay Kartal reaches Wuhan Open semi-finals in impressive return from injury (SSBCrack) :: reaches Wuhan Open semi-finals after injury
+2026-10-16 10:06:28 indexed 857 markets
+2026-10-16 10:07:18   drop[1-source] Knicks Receive Strong Josh Hart Injury Message Before Sixers Opener (heavy.com) :: Josh Hart, wait 2nd source
+2026-10-16 10:08:46 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-16 10:09:19 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 102)
+2026-10-16 10:09:22 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 102)
+2026-10-16 10:09:24 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 102)
+2026-10-16 10:09:26   llm groq-120b: rate limited, skip 159s
+2026-10-16 10:09:26 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 101)
+2026-10-16 10:09:30 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 101)
+2026-10-16 10:09:32 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 102)
+2026-10-16 10:09:34 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 102)
+2026-10-16 10:09:37 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 102)
+2026-10-16 10:09:39 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 102)
+2026-10-16 10:09:42 [pengwin] MONACO-TOLOSA: no Polymarket event (try 102)
+2026-10-16 10:09:44 [pengwin] BREST-ANGERS: no Polymarket event (try 102)
+2026-10-16 10:09:46 [pengwin] PSG-LE MANS: no Polymarket event (try 102)
+2026-10-16 10:09:49 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 101)
+2026-10-16 10:09:51 [pengwin] RENNES-AUXERRE: no Polymarket event (try 102)
+2026-10-16 10:09:54 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 102)
+2026-10-16 10:09:56 [pengwin] AUXERRE-BREST: no Polymarket event (try 102)
+2026-10-16 10:10:41 [pengwin] LAZIO-INTER: no Polymarket event (try 102)
+2026-10-16 10:10:43 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 102)
+2026-10-16 10:10:45 [pengwin] INTER-COMO: no Polymarket event (try 102)
+2026-10-16 10:10:47 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 101)
