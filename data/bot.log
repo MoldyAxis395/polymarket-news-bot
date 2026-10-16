@@ -13015,3 +13015,55 @@
 2026-10-16 19:52:36   llm groq-120b: rate limited, skip 256s
 2026-10-16 19:52:36   drop[no-market] FC Cologne confirmed lineup vs Eintracht Frankfurt: Mikey Moore, Ellyes Skhiri ruled out o (ESPN) :: FC Cologne
 2026-10-16 19:52:39   llm groq-20b: rate limited, skip 143s
+2026-10-16 19:57:27   drop[kind] Tyler Cameron Shares ‘DWTS’ Injury Report: ‘My Body Is Beat Up' (Bachelor Nation) :: other
+2026-10-16 19:57:27   llm groq-120b: rate limited, skip 223s
+2026-10-16 19:57:28   drop[1-source] Irish trainer has licence suspended after welfare concerns identified during yard inspecti (Racing Post) :: Irish racing stable, wait 2nd source
+2026-10-16 19:58:52   llm groq-20b: rate limited, skip 57s
+2026-10-16 19:58:52 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 112)
+2026-10-16 19:58:54 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 112)
+2026-10-16 19:58:56 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 112)
+2026-10-16 19:58:58 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 111)
+2026-10-16 19:59:01 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 111)
+2026-10-16 19:59:03 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 112)
+2026-10-16 19:59:06 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 112)
+2026-10-16 19:59:08 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 112)
+2026-10-16 19:59:10 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 112)
+2026-10-16 19:59:12 [pengwin] MONACO-TOLOSA: no Polymarket event (try 112)
+2026-10-16 19:59:14 [pengwin] BREST-ANGERS: no Polymarket event (try 112)
+2026-10-16 19:59:16 [pengwin] PSG-LE MANS: no Polymarket event (try 112)
+2026-10-16 19:59:18 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 111)
+2026-10-16 19:59:20 [pengwin] RENNES-AUXERRE: no Polymarket event (try 112)
+2026-10-16 19:59:22 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 112)
+2026-10-16 19:59:24 [pengwin] AUXERRE-BREST: no Polymarket event (try 112)
+2026-10-16 20:00:10 [pengwin] LAZIO-INTER: no Polymarket event (try 112)
+2026-10-16 20:00:17   llm groq-20b: rate limited, skip 76s
+2026-10-16 20:00:17 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 112)
+2026-10-16 20:00:19 [pengwin] INTER-COMO: no Polymarket event (try 112)
+2026-10-16 20:00:21 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 111)
+2026-10-16 20:00:23 [pengwin] COMO-INTER: no Polymarket event (try 112)
+2026-10-16 20:00:24 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 112)
+2026-10-16 20:00:26 [pengwin] NAPOLI-COMO: no Polymarket event (try 112)
+2026-10-16 20:00:28 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 112)
+2026-10-16 20:00:53 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 112)
+2026-10-16 20:01:34 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 8)
+2026-10-16 20:01:37   llm groq-120b: rate limited, skip 700s
+2026-10-16 20:01:38   llm groq-20b: rate limited, skip 643s
+2026-10-16 20:01:38 [pengwin] BAYERN MONACO-LIPSIA: no LLM answer (try 8)
+2026-10-16 20:01:40 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 8)
+2026-10-16 20:01:42 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 7)
+2026-10-16 20:01:44 NEWS [ESPN 0m] Lamar Jackson (QB, Baltimore Ravens) ruled out: Questionable -> Out [NFL]
+2026-10-16 20:01:44   skip Browns :: Ravens vs. Browns (rules fallback, LLM down (not traded))
+2026-10-16 20:01:49 [pengwin] page gue-1/le-havre-auxerre-statistiche-quote-e-pronostico-2026-2: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-16 20:02:09 [pengwin] Betis-Barcellona: no Polymarket event (try 12)
+2026-10-16 20:02:12 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 11)
+2026-10-16 20:02:14 [pengwin] VENEZIA-NAPOLI: no LLM answer (try 4)
+2026-10-16 20:02:16 [pengwin] BOLOGNA-INTER: no Polymarket event (try 4)
+2026-10-16 20:02:19 [pengwin] ROMA-GENOA: no LLM answer (try 4)
+2026-10-16 20:02:21 [pengwin] UDINESE-LECCE: no LLM answer (try 4)
+2026-10-16 20:02:24 [pengwin] FIORENTINA-COMO: no LLM answer (try 4)
+2026-10-16 20:02:26 [pengwin] MILAN-ATALANTA: no LLM answer (try 4)
+2026-10-16 20:02:29 [pengwin] JUVENTUS-LAZIO: no LLM answer (try 4)
+2026-10-16 20:02:31 [pengwin] MONZA-CAGLIARI: no LLM answer (try 4)
+2026-10-16 20:02:32 indexed 963 markets
+2026-10-16 20:02:34 [pengwin] PARMA-TORINO: no LLM answer (try 4)
+2026-10-16 20:05:58 shift over, state saved
