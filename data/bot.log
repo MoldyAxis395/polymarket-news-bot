@@ -12556,3 +12556,29 @@
 2026-10-16 20:35:38   drop[1-source] Chris Olave returns to practice on Saints injury report vs. Giants (Saints Wire) :: Chris Olave, wait 2nd source
 2026-10-16 20:36:53 indexed 945 markets
 2026-10-16 20:40:06   drop[not-key] Joshua Jefferson (F, Brooklyn Nets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Joshua Jefferson: back injury
+2026-10-16 20:42:26   drop[kind] Diddy Moved to New Prison Days After Being Hospitalized for Alleged Head Injury (Variety) :: other
+2026-10-16 20:44:35   llm groq-120b: rate limited, skip 45s
+2026-10-16 20:44:35   drop[kind] This device aims to detect a pressure injury before it becomes deadly (Northeastern Global News) :: other
+2026-10-16 20:46:51 indexed 934 markets
+2026-10-16 20:46:57   drop[team-not-named] Ian Rapoport dumps cold water on Patriots star A.J. Brown’s injury return for Week 6 (ClutchPoints) :: Philadelphia Eagles
+2026-10-16 20:48:10   llm groq-120b: rate limited, skip 169s
+2026-10-16 20:48:10   drop[not-key] Jeremiyah Love (RB, Arizona Cardinals) ruled out: Questionable -> Out [NFL] (ESPN) :: Jeremiah Love: ankle injury
+2026-10-16 20:53:15   drop[not-key] Ross Matiscik (LS, Jacksonville Jaguars) ruled out: Questionable -> Out [NFL] (ESPN) :: Ross Matiscik: ruled out
+2026-10-16 20:53:15   llm groq-120b: rate limited, skip 156s
+2026-10-16 20:53:15   drop[not-key] Montaric Brown (CB, Jacksonville Jaguars) ruled out: Questionable -> Out [NFL] (ESPN) :: Montaric Brown: injury
+2026-10-16 20:53:53   llm groq-20b: rate limited, skip 160s
+2026-10-16 20:53:53   drop[verify] Injury report: Chris Olave returns to Saints practice, key defensive players out (WWLTV.com) :: no answer
+2026-10-16 20:56:55 indexed 931 markets
+2026-10-16 20:58:23   llm groq-120b: rate limited, skip 22s
+2026-10-16 20:58:23   drop[side] Kyle Monangai (RB, Chicago Bears) ruled out: Questionable -> Out [NFL] (ESPN) :: Bears vs. Falcons -> Bears vs fact ruled_out: Kyle Monangai (Chicago Bears, nfl), bad for Chicago Bears. ruled out for u
+2026-10-16 21:02:26   llm groq-120b: rate limited, skip 76s
+2026-10-16 21:02:27   llm groq-20b: rate limited, skip 21s
+2026-10-16 21:02:27   drop[verify] Anfernee Jennings (LB, New Orleans Saints) ruled out: Questionable -> Out [NFL] (ESPN) :: no answer
+2026-10-16 21:02:27 NEWS [ESPN 12m] Kaden Elliss (LB, New Orleans Saints) ruled out: Questionable -> Out [NFL]
+2026-10-16 21:02:27   skip Giants :: Saints vs. Giants (rules fallback, LLM down (not traded))
+2026-10-16 21:03:07   llm groq-20b: rate limited, skip 71s
+2026-10-16 21:05:27   drop[not-key] Kyle Monangai will not play in Week 6 (USA Today) :: Kyle Monangai: will miss Week 6 game
+2026-10-16 21:05:27   llm groq-120b: rate limited, skip 244s
+2026-10-16 21:05:27   drop[1-source] Industrial action at Leeds Bradford Airport suspended after offer from airport (Travel Radar) :: Leeds Bradford Airport, wait 2nd source
+2026-10-16 21:06:56 indexed 932 markets
+2026-10-16 21:07:12   llm groq-20b: rate limited, skip 127s
