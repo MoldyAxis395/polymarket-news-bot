@@ -12563,3 +12563,62 @@
 2026-10-16 15:55:59 [pengwin] BOURNEMOUTH-SUNDERLAND: no LLM answer (try 4)
 2026-10-16 15:56:01 [pengwin] NOTTINGHAM FOREST-ARSENAL: no LLM answer (try 4)
 2026-10-16 15:56:04 [pengwin] TOTTENHAM-COVENTRY CITY: no LLM answer (try 4)
+2026-10-16 15:56:32 [pengwin] Espanyol-Atletico Madrid: no LLM answer (try 4)
+2026-10-16 15:56:34 [pengwin] Villarreal-Elche: no LLM answer (try 4)
+2026-10-16 15:56:37 [pengwin] Betis-Barcellona: no Polymarket event (try 4)
+2026-10-16 15:56:39 [pengwin] Valencia-Athletic Bilbao: no LLM answer (try 4)
+2026-10-16 15:56:42 [pengwin] Osasuna-Racing Santander: no LLM answer (try 4)
+2026-10-16 15:56:44 [pengwin] Celta Vigo-Alaves: no LLM answer (try 3)
+2026-10-16 15:56:47 [pengwin] Malaga-Real Sociedad: no LLM answer (try 3)
+2026-10-16 15:56:49 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 3)
+2026-10-16 15:56:52 [pengwin] FROSINONE-SASSUOLO: no LLM answer (try 1)
+2026-10-16 15:57:07 [pengwin] Getafe-Vallecano: no LLM answer (try 3)
+2026-10-16 15:59:30   llm groq-20b: rate limited, skip 23s
+2026-10-16 16:01:48 indexed 980 markets
+2026-10-16 16:02:08   drop[kind] Huge Leap Forward in Brain Injury Care for First Responders (Mirage News) :: other
+2026-10-16 16:04:14   drop[1-source] Odeyingbo Injury, Sweat Suspension Leaves Bears Depending on Uncertain Cast of Edge Rusher (Sports Illustrated) :: Odeyingbo, wait 2nd source
+2026-10-16 16:06:31   llm groq-20b: rate limited, skip 232s
+2026-10-16 16:11:51 indexed 983 markets
+2026-10-16 16:15:50   drop[kind] ‘Unsafe’ conditions at Texas ICE facility put immigrants at risk of injury or death, lawsu (The Guardian) :: other
+2026-10-16 16:15:50   drop[1-source] 2 Montreal police officers suspended for alleged abuse of power, including urinating on ho (CTV News) :: Montreal Police Service, wait 2nd source
+2026-10-16 16:18:09   drop[1-source] HSFB QB Dismissed from Team After Changing Play, 12 Teammates Suspended for Rest of Season (Bleacher Report) :: HSFB, wait 2nd source
+2026-10-16 16:20:43   drop[kind] Pirro Criticizes Titus Mayo Probation After DC Chase Injury (Hoodline) :: other
+2026-10-16 16:21:53 indexed 982 markets
+2026-10-16 16:22:01   drop[kind] SiRT investigating after arrest in Woodstock leads to injury (Your Saint John) :: other
+2026-10-16 16:22:01   llm groq-120b: rate limited, skip 62s
+2026-10-16 16:22:01   drop[no-market] Gauhati High Court grants bail to suspended Assam DSP in Zubeen Garg's death case (ANI News) :: Assam Police Department
+2026-10-16 16:23:15 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 105)
+2026-10-16 16:23:17   llm groq-120b: rate limited, skip 2s
+2026-10-16 16:23:18 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 105)
+2026-10-16 16:23:20 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 105)
+2026-10-16 16:23:23 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 104)
+2026-10-16 16:23:25   llm groq-120b: rate limited, skip 149s
+2026-10-16 16:23:26 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 104)
+2026-10-16 16:23:28 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 105)
+2026-10-16 16:23:31 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 105)
+2026-10-16 16:23:33 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 105)
+2026-10-16 16:23:35   llm groq-20b: rate limited, skip 35s
+2026-10-16 16:23:35 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 105)
+2026-10-16 16:23:37 [pengwin] MONACO-TOLOSA: no Polymarket event (try 105)
+2026-10-16 16:23:40 [pengwin] BREST-ANGERS: no Polymarket event (try 105)
+2026-10-16 16:23:42 [pengwin] PSG-LE MANS: no Polymarket event (try 105)
+2026-10-16 16:23:44 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 104)
+2026-10-16 16:23:46 [pengwin] RENNES-AUXERRE: no Polymarket event (try 105)
+2026-10-16 16:23:48 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 105)
+2026-10-16 16:23:50 [pengwin] AUXERRE-BREST: no Polymarket event (try 105)
+2026-10-16 16:24:20   llm groq-20b: rate limited, skip 109s
+2026-10-16 16:24:35 [pengwin] LAZIO-INTER: no Polymarket event (try 105)
+2026-10-16 16:24:37 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 105)
+2026-10-16 16:24:39 [pengwin] INTER-COMO: no Polymarket event (try 105)
+2026-10-16 16:24:41 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 104)
+2026-10-16 16:24:43 [pengwin] COMO-INTER: no Polymarket event (try 105)
+2026-10-16 16:24:45 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 105)
+2026-10-16 16:24:47 [pengwin] NAPOLI-COMO: no Polymarket event (try 105)
+2026-10-16 16:24:49 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 105)
+2026-10-16 16:25:14 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 105)
+2026-10-16 16:25:55 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 1)
+2026-10-16 16:25:58   llm groq-120b: rate limited, skip 633s
+2026-10-16 16:25:58 [pengwin] UNION BERLINO-BORUSSIA DORTMUND: no LLM answer (try 1)
+2026-10-16 16:26:01 [pengwin] SCHALKE-MAINZ: no LLM answer (try 1)
+2026-10-16 16:26:03 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 1)
+2026-10-16 16:26:05 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 1)
