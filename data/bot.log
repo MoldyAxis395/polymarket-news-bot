@@ -12622,3 +12622,57 @@
 2026-10-16 16:26:01 [pengwin] SCHALKE-MAINZ: no LLM answer (try 1)
 2026-10-16 16:26:03 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 1)
 2026-10-16 16:26:05 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 1)
+2026-10-16 16:26:08 [pengwin] WERDER BREMA-PADERBORN: no LLM answer (try 1)
+2026-10-16 16:26:11   llm groq-20b: rate limited, skip 797s
+2026-10-16 16:26:11 [pengwin] ELVERSBERG-AUGSBURG: no LLM answer (try 1)
+2026-10-16 16:26:42 [pengwin] Betis-Barcellona: no Polymarket event (try 5)
+2026-10-16 16:26:45 [pengwin] Celta Vigo-Alaves: no LLM answer (try 4)
+2026-10-16 16:26:48 [pengwin] Malaga-Real Sociedad: no LLM answer (try 4)
+2026-10-16 16:26:50 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 4)
+2026-10-16 16:26:52 [pengwin] FROSINONE-SASSUOLO: no LLM answer (try 2)
+2026-10-16 16:27:08 [pengwin] Getafe-Vallecano: no LLM answer (try 4)
+2026-10-16 16:31:55 indexed 988 markets
+2026-10-16 16:40:31   drop[1-source] Nottingham Forest: Oliver Glasner confirms Morgan Gibbs-White injury latest before Arsenal (London Evening Standard) :: Morgan Gibbs-White, wait 2nd source
+2026-10-16 16:40:32   drop[team-not-named] Sonay Kartal seals incredible rankings rise as she opens up on an injury that left her in  (Tennis365) :: Great Britain
+2026-10-16 16:41:59 indexed 992 markets
+2026-10-16 16:45:26   drop[kind] Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgr (BBC) :: other
+2026-10-16 16:49:52   drop[team-not-named] Breece Hall (quad) ruled out vs. Patriots (NBC Sports) :: New York Jets
+2026-10-16 16:52:05 indexed 991 markets
+2026-10-16 16:52:13   drop[no-market] Two Montreal cops suspended for alleged misconduct in separate incidents (Montreal Gazette) :: Montreal Police Service
+2026-10-16 16:53:12   llm groq-120b: rate limited, skip 91s
+2026-10-16 16:53:13   drop[no-pick] Joseph Ossai (DE, New York Jets) ruled out: Doubtful -> Out [NFL] (ESPN) :: short
+2026-10-16 16:53:13   drop[not-key] Dylan Parham (G, New York Jets) ruled out: Doubtful -> Out [NFL] (ESPN) :: Dylan Parham: injury
+2026-10-16 16:53:19 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 106)
+2026-10-16 16:53:22 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 106)
+2026-10-16 16:53:24 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 106)
+2026-10-16 16:53:26 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 105)
+2026-10-16 16:53:29 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 105)
+2026-10-16 16:53:32 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 106)
+2026-10-16 16:53:34 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 106)
+2026-10-16 16:53:37 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 106)
+2026-10-16 16:53:39 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 106)
+2026-10-16 16:53:41 [pengwin] MONACO-TOLOSA: no Polymarket event (try 106)
+2026-10-16 16:53:44 [pengwin] BREST-ANGERS: no Polymarket event (try 106)
+2026-10-16 16:53:46 [pengwin] PSG-LE MANS: no Polymarket event (try 106)
+2026-10-16 16:53:48   llm groq-20b: rate limited, skip 120s
+2026-10-16 16:53:48 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 105)
+2026-10-16 16:53:51 [pengwin] RENNES-AUXERRE: no Polymarket event (try 106)
+2026-10-16 16:53:53 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 106)
+2026-10-16 16:53:55 [pengwin] AUXERRE-BREST: no Polymarket event (try 106)
+2026-10-16 16:54:39 [pengwin] LAZIO-INTER: no Polymarket event (try 106)
+2026-10-16 16:54:41 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 106)
+2026-10-16 16:54:43 [pengwin] INTER-COMO: no Polymarket event (try 106)
+2026-10-16 16:54:45 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 105)
+2026-10-16 16:54:47   llm groq-120b: rate limited, skip 60s
+2026-10-16 16:54:47 [pengwin] COMO-INTER: no Polymarket event (try 106)
+2026-10-16 16:54:49 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 106)
+2026-10-16 16:54:51 [pengwin] NAPOLI-COMO: no Polymarket event (try 106)
+2026-10-16 16:54:53 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 106)
+2026-10-16 16:55:17 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 106)
+2026-10-16 16:55:58 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 2)
+2026-10-16 16:56:01   llm groq-120b: rate limited, skip 699s
+2026-10-16 16:56:01   llm groq-20b: rate limited, skip 869s
+2026-10-16 16:56:01 [pengwin] UNION BERLINO-BORUSSIA DORTMUND: no LLM answer (try 2)
+2026-10-16 16:56:03 [pengwin] SCHALKE-MAINZ: no LLM answer (try 2)
+2026-10-16 16:56:06 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 2)
+2026-10-16 16:56:08 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 2)
