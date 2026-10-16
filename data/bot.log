@@ -12757,18 +12757,55 @@
 2026-10-17 01:07:41 indexed 935 markets
 2026-10-17 01:10:18 NEWS [Reuters 0m] Anthropic signs lease for first Canadian data center reut.rs/4i0lMCd
 2026-10-17 01:10:18   skip Yes :: Will Anthropic have the best AI model at the end of October 2026? (low conf 0.6)
-2026-10-17 01:17:42 indexed 936 markets
-2026-10-17 01:19:21   drop[team-not-named] Hr1 - Penix to Play Through Rib Injury & B-Mac Breaks Down Cowboys' Meeting (Audacy) :: 
-2026-10-17 01:19:21   drop[team-not-named] Ajibade undergoes surgery on ankle injury (Punch Newspapers) :: Rangers
-2026-10-17 01:21:40   drop[kind] Rams Final Week 6 Injury Report: Two Players Questionable (roundtable.io) :: other
-2026-10-17 01:21:40   llm groq-120b: rate limited, skip 107s
-2026-10-17 01:21:40   drop[kind] Reis hopes for Onuachu’s quick injury return (Punch Newspapers) :: other
-2026-10-17 01:21:41   drop[no-market] All Blacks hit by major injury blow for Bledisloe 2 (NZ Herald) :: New Zealand All Blacks
-2026-10-17 01:23:58   drop[not-key] Theo Johnson Ruled out against New Orleans (Fantasy Footballers Podcast) :: Theo Johnson: ruled out for game vs New Orleans
-2026-10-17 01:27:43 indexed 927 markets
-2026-10-17 01:35:44   drop[team-not-named] Jordie Barrett ruled out of Bledisloe two with calf tightness (Sport Nation) :: New Zealand All Blacks
-2026-10-17 01:37:45 indexed 919 markets
-2026-10-17 01:40:11   drop[1-source] Magic Forward Suffers Injury in Preseason Finale vs. Heat (Sports Illustrated) :: Orlando Magic, wait 2nd source
-2026-10-17 01:47:48 indexed 939 markets
-2026-10-17 01:49:29   drop[1-source] Toronto Argonauts QB Chad Kelly suffers lower body injury against Redblacks (3DownNation) :: Chad Kelly, wait 2nd source
-2026-10-17 01:51:20 shift over, state saved
+2026-10-17 01:51:35 === start mode=paper pid=2100 ===
+2026-10-17 01:51:35 brain=llm cash=64.41 open=2
+2026-10-17 01:51:35 resuming with 6955 known news items
+2026-10-17 01:52:01 indexed 936 markets
+2026-10-17 01:52:13 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 103)
+2026-10-17 01:52:16 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 103)
+2026-10-17 01:52:18 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 103)
+2026-10-17 01:52:21 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 102)
+2026-10-17 01:52:24 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 102)
+2026-10-17 01:52:27 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 103)
+2026-10-17 01:52:30   llm groq-120b: rate limited, skip 25s
+2026-10-17 01:52:30 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 103)
+2026-10-17 01:52:32 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 103)
+2026-10-17 01:52:35 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 103)
+2026-10-17 01:52:37 [pengwin] MONACO-TOLOSA: no Polymarket event (try 103)
+2026-10-17 01:52:40 [pengwin] BREST-ANGERS: no Polymarket event (try 103)
+2026-10-17 01:52:42 [pengwin] PSG-LE MANS: no Polymarket event (try 103)
+2026-10-17 01:52:45 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 102)
+2026-10-17 01:52:48 [pengwin] RENNES-AUXERRE: no Polymarket event (try 103)
+2026-10-17 01:52:51 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 103)
+2026-10-17 01:52:53 [pengwin] AUXERRE-BREST: no Polymarket event (try 103)
+2026-10-17 01:53:43 [pengwin] LAZIO-INTER: no Polymarket event (try 103)
+2026-10-17 01:53:45   llm groq-120b: rate limited, skip 994s
+2026-10-17 01:53:45 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 103)
+2026-10-17 01:53:48 [pengwin] INTER-COMO: no Polymarket event (try 103)
+2026-10-17 01:53:50 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 102)
+2026-10-17 01:53:52 [pengwin] COMO-INTER: no Polymarket event (try 103)
+2026-10-17 01:53:54 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 103)
+2026-10-17 01:53:57 [pengwin] NAPOLI-COMO: no Polymarket event (try 103)
+2026-10-17 01:53:59 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 103)
+2026-10-17 01:54:30 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 103)
+2026-10-17 01:54:42   drop[1-source] All Blacks cop late Bledisloe Cup injury blow (Namoi Valley Independent) :: New Zealand All Blacks, wait 2nd source
+2026-10-17 01:55:15 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 1)
+2026-10-17 01:55:19 [pengwin] skip UNION BERLINO-BORUSSIA DORTMUND [Over 1.5 cartellini ospite]: no matching market
+2026-10-17 01:55:23 [pengwin]   BUY No @ 0.690 x14.5 ($10.00) :: Will FC Schalke 04 win on 2026-10-17?
+2026-10-17 01:55:27 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 1)
+2026-10-17 01:55:30 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 1)
+2026-10-17 01:55:33 [pengwin] skip WERDER BREMA-PADERBORN [Werder Bremen scores in the second half]: no Polymarket market covers second‑half scoring
+2026-10-17 01:55:38 [pengwin]   BUY No @ 0.610 x16.4 ($10.00) :: Will SV 07 Elversberg win on 2026-10-17?
+2026-10-17 01:55:41   llm groq-20b: rate limited, skip 347s
+2026-10-17 01:55:41 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no LLM answer (try 1)
+2026-10-17 01:55:44 [pengwin] MONCHENGLADBACH-HOFFENHEIM: no LLM answer (try 1)
+2026-10-17 01:55:46 [pengwin] EVERTON-CHELSEA: no LLM answer (try 3)
+2026-10-17 01:55:49 [pengwin] FULHAM-HULL CITY: no LLM answer (try 3)
+2026-10-17 01:55:52 [pengwin] BRENTFORD-LIVERPOOL: no LLM answer (try 3)
+2026-10-17 01:55:54 [pengwin] MANCHESTER CITY-IPSWICH TOWN: no Polymarket event (try 3)
+2026-10-17 01:55:57 [pengwin] NEWCASTLE-ASTON VILLA: no LLM answer (try 3)
+2026-10-17 01:56:00 [pengwin] BRIGHTON-CRYSTAL PALACE: no LLM answer (try 3)
+2026-10-17 01:56:03 [pengwin] LEEDS UNITED-MANCHESTER UNITED: no LLM answer (try 3)
+2026-10-17 01:56:06 [pengwin] BOURNEMOUTH-SUNDERLAND: no LLM answer (try 3)
+2026-10-17 01:56:09 [pengwin] NOTTINGHAM FOREST-ARSENAL: no LLM answer (try 3)
+2026-10-17 01:56:11 [pengwin] TOTTENHAM-COVENTRY CITY: no LLM answer (try 3)
