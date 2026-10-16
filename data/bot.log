@@ -12871,3 +12871,75 @@
 2026-10-16 18:52:57   llm groq-120b: rate limited, skip 227s
 2026-10-16 18:52:58   drop[not-key] Jaylon Carlies (LB, Indianapolis Colts) ruled out: Questionable -> Out [NFL] (ESPN) :: Jaylon Carlies: injury
 2026-10-16 18:54:45   drop[kind] Barcelona handed double injury boost for Real Betis clash (Get Spanish Football News) :: other
+2026-10-16 18:57:08 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 110)
+2026-10-16 18:57:11 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 110)
+2026-10-16 18:57:13 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 110)
+2026-10-16 18:57:15   llm groq-120b: rate limited, skip 78s
+2026-10-16 18:57:16   llm groq-20b: rate limited, skip 74s
+2026-10-16 18:57:16 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 109)
+2026-10-16 18:57:18 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 109)
+2026-10-16 18:57:20 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 110)
+2026-10-16 18:57:23 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 110)
+2026-10-16 18:57:25 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 110)
+2026-10-16 18:57:27 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 110)
+2026-10-16 18:57:29 [pengwin] MONACO-TOLOSA: no Polymarket event (try 110)
+2026-10-16 18:57:31 [pengwin] BREST-ANGERS: no Polymarket event (try 110)
+2026-10-16 18:57:33 [pengwin] PSG-LE MANS: no Polymarket event (try 110)
+2026-10-16 18:57:35 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 109)
+2026-10-16 18:57:37 [pengwin] RENNES-AUXERRE: no Polymarket event (try 110)
+2026-10-16 18:57:40 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 110)
+2026-10-16 18:57:41 [pengwin] AUXERRE-BREST: no Polymarket event (try 110)
+2026-10-16 18:58:26 [pengwin] LAZIO-INTER: no Polymarket event (try 110)
+2026-10-16 18:58:28 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 110)
+2026-10-16 18:58:30   llm groq-20b: rate limited, skip 35s
+2026-10-16 18:58:30 [pengwin] INTER-COMO: no Polymarket event (try 110)
+2026-10-16 18:58:32 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 109)
+2026-10-16 18:58:33 [pengwin] COMO-INTER: no Polymarket event (try 110)
+2026-10-16 18:58:36   llm groq-120b: rate limited, skip 71s
+2026-10-16 18:58:36 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 110)
+2026-10-16 18:58:38 [pengwin] NAPOLI-COMO: no Polymarket event (try 110)
+2026-10-16 18:58:40 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 110)
+2026-10-16 18:59:05 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 110)
+2026-10-16 18:59:20   llm groq-20b: rate limited, skip 196s
+2026-10-16 18:59:45 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 6)
+2026-10-16 18:59:49   llm groq-120b: rate limited, skip 777s
+2026-10-16 18:59:49 [pengwin] BAYERN MONACO-LIPSIA: no LLM answer (try 6)
+2026-10-16 18:59:51 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 6)
+2026-10-16 18:59:53 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 5)
+2026-10-16 19:00:22 [pengwin] Betis-Barcellona: no Polymarket event (try 10)
+2026-10-16 19:00:24 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 9)
+2026-10-16 19:00:27 [pengwin] VENEZIA-NAPOLI: no LLM answer (try 2)
+2026-10-16 19:00:29 [pengwin] BOLOGNA-INTER: no Polymarket event (try 2)
+2026-10-16 19:00:31 [pengwin] ROMA-GENOA: no LLM answer (try 2)
+2026-10-16 19:00:34 [pengwin] UDINESE-LECCE: no LLM answer (try 2)
+2026-10-16 19:00:36 [pengwin] FIORENTINA-COMO: no LLM answer (try 2)
+2026-10-16 19:00:41 [pengwin] MILAN-ATALANTA: no LLM answer (try 2)
+2026-10-16 19:00:43 [pengwin] JUVENTUS-LAZIO: no LLM answer (try 2)
+2026-10-16 19:00:46 [pengwin] MONZA-CAGLIARI: no LLM answer (try 2)
+2026-10-16 19:00:48 [pengwin] PARMA-TORINO: no LLM answer (try 2)
+2026-10-16 19:01:08 NEWS [ESPN 0m] Ashton Dulin (WR, Indianapolis Colts) ruled out: Questionable -> Out [NFL]
+2026-10-16 19:01:08   skip Titans :: Titans vs. Colts (rules fallback, LLM down (not traded))
+2026-10-16 19:02:25 indexed 975 markets
+2026-10-16 19:04:09   drop[unconfirmed] AJ Dillon (ankle) ruled out for Week 6 (NBC Sports) :: ankle injury
+2026-10-16 19:04:09   llm groq-20b: rate limited, skip 23s
+2026-10-16 19:06:23   drop[not-key] More Clarity on CJ Baxter's Injury Ahead of Oklahoma Game (On3) :: CJ Baxter: injury
+2026-10-16 19:06:23   llm groq-20b: rate limited, skip 221s
+2026-10-16 19:11:09   llm groq-20b: rate limited, skip 47s
+2026-10-16 19:12:25 indexed 980 markets
+2026-10-16 19:13:17   drop[team-not-named] Waller cleared off injury report for Week 6 (NBC Sports) :: New York Giants
+2026-10-16 19:13:18   drop[kind] Expect Flowers to play through toe injury (NBC Sports) :: other
+2026-10-16 19:15:37   drop[1-source] Falcons injury report: C.J. Henderson ruled out of Week 6 matchup vs. Bears (Atlanta Falcons) :: C.J. Henderson, wait 2nd source
+2026-10-16 19:15:37   llm groq-120b: rate limited, skip 136s
+2026-10-16 19:15:38   drop[team-not-named] Baker Mayfield Ruled out for Sunday's game (Fantasy Footballers Podcast) :: New York Jets
+2026-10-16 19:17:44   llm groq-20b: rate limited, skip 20s
+2026-10-16 19:17:44 NEWS [ESPN 4m] Luke Evangelista (RW, New Jersey Devils) ruled out: Day-To-Day -> Out [NHL]
+2026-10-16 19:17:44   skip Capitals :: Devils vs. Capitals (rules fallback, LLM down (not traded))
+2026-10-16 19:17:56   llm groq-120b: rate limited, skip 34s
+2026-10-16 19:20:26   drop[not-key] Canes turning to top prospects with Hall considered 'week to week' with upper-body injury (WRAL) :: Jordan Hall: Hall is week‑to‑week with an upper‑body injury
+2026-10-16 19:22:27 indexed 981 markets
+2026-10-16 19:22:47   llm groq-120b: rate limited, skip 48s
+2026-10-16 19:22:48   drop[side] Mikael Granlund (C, Anaheim Ducks) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Bruins vs. Ducks -> Ducks vs fact ruled_out: Mikael Granlund (Anaheim Ducks, nhl), bad for Anaheim Ducks. injury
+2026-10-16 19:23:48   llm groq-120b: rate limited, skip 160s
+2026-10-16 19:23:48   llm groq-20b: rate limited, skip 5s
+2026-10-16 19:23:48   drop[no-pick] AJ Dillon (RB, Carolina Panthers) ruled out: Questionable -> Out [NFL] (ESPN) :: None
+2026-10-16 19:24:51   llm groq-20b: rate limited, skip 21s
