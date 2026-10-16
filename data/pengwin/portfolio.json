@@ -1,5 +1,5 @@
 {
- "cash": 119.8536254803361,
+ "cash": 109.8536254803361,
  "positions": [
   {
    "market_id": "5267259",
@@ -36,6 +36,24 @@
    "conf": 1.0,
    "end": "2026-10-17T19:00:00+00:00",
    "last_bid": 0.89,
+   "book_err": false
+  },
+  {
+   "market_id": "5314365",
+   "question": "Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to Score",
+   "slug": "bun-b04-fre-2026-10-18-btts",
+   "outcome": "Yes",
+   "token": "114281626175178604028911566727311075308132764979506407000959036078524287085600",
+   "shares": 15.625,
+   "entry": 0.64,
+   "cost": 10.0,
+   "opened": 1792132595.7668314,
+   "opened_iso": "2026-10-16T06:36:35+00:00",
+   "news": "BAYER LEVERKUSEN-LIPSIA: GG (esatto)",
+   "reason": "pengwin exact: replicates GOAL",
+   "conf": 1.0,
+   "end": "2026-10-18T13:30:00+00:00",
+   "last_bid": 0.63,
    "book_err": false
   }
  ],
