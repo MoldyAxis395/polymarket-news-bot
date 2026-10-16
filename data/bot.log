@@ -12772,3 +12772,38 @@
 2026-10-16 17:55:44 [pengwin] RENNES-AUXERRE: no Polymarket event (try 108)
 2026-10-16 17:55:46 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 108)
 2026-10-16 17:55:48 [pengwin] AUXERRE-BREST: no Polymarket event (try 108)
+2026-10-16 17:56:34 [pengwin] LAZIO-INTER: no Polymarket event (try 108)
+2026-10-16 17:56:36 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 108)
+2026-10-16 17:56:38 [pengwin] INTER-COMO: no Polymarket event (try 108)
+2026-10-16 17:56:40 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 107)
+2026-10-16 17:56:42 [pengwin] COMO-INTER: no Polymarket event (try 108)
+2026-10-16 17:56:43 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 108)
+2026-10-16 17:56:46 [pengwin] NAPOLI-COMO: no Polymarket event (try 108)
+2026-10-16 17:56:47 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 108)
+2026-10-16 17:57:14 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 108)
+2026-10-16 17:57:55 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 4)
+2026-10-16 17:57:58   llm groq-20b: rate limited, skip 639s
+2026-10-16 17:57:58 [pengwin] UNION BERLINO-BORUSSIA DORTMUND: no LLM answer (try 4)
+2026-10-16 17:58:00 [pengwin] SCHALKE-MAINZ: no LLM answer (try 4)
+2026-10-16 17:58:02 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 4)
+2026-10-16 17:58:04 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 4)
+2026-10-16 17:58:07 [pengwin] WERDER BREMA-PADERBORN: no LLM answer (try 4)
+2026-10-16 17:58:10 [pengwin] ELVERSBERG-AUGSBURG: no LLM answer (try 4)
+2026-10-16 17:58:12 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 3)
+2026-10-16 17:58:14 [pengwin] MONCHENGLADBACH-HOFFENHEIM: no LLM answer (try 3)
+2026-10-16 17:58:43   llm groq-120b: rate limited, skip 929s
+2026-10-16 17:58:43 [pengwin] Betis-Barcellona: no LLM answer (try 8)
+2026-10-16 17:58:45 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 7)
+2026-10-16 18:02:19 indexed 990 markets
+2026-10-16 18:08:46   drop[team-not-named] Jalen Hurts Ruled Out vs. Panthers With Blood Clot Stream of National Football League (CBS Sports) :: Philadelphia Eagles
+2026-10-16 18:10:52   drop[team-not-named] Breaking: Miyazaki Withdraws Due to Injury, Misses An Se-young Clash (조선일보) :: Incheon Hyundai Steel Red Angels
+2026-10-16 18:10:52   llm groq-20b: rate limited, skip 28s
+2026-10-16 18:12:20 indexed 997 markets
+2026-10-16 18:13:12   drop[kind] Research Tests Exercise for Chronic Pain, Shaped by Spinal Cord Injury Patients (Mirage News) :: other
+2026-10-16 18:16:01   drop[verify] Pierre-Luc Dubois (LW, Washington Capitals) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Dubois no longer plays for Washington Capitals
+2026-10-16 18:20:05   drop[kind] Chelsea target £38m Arsenal and Liverpool target after fresh injury setback (LiveScore) :: other
+2026-10-16 18:22:20 indexed 1000 markets
+2026-10-16 18:25:08   drop[1-source] Mavericks Center Emerging as Target for 76ers After Season-Ending Injury (Sports Illustrated) :: Christian Wood, wait 2nd source
+2026-10-16 18:26:11 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 109)
+2026-10-16 18:26:14 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 109)
+2026-10-16 18:26:16 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 109)
