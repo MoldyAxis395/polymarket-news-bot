@@ -12504,3 +12504,62 @@
 2026-10-16 15:25:37 [pengwin] BOURNEMOUTH-SUNDERLAND: no LLM answer (try 3)
 2026-10-16 15:25:40 [pengwin] NOTTINGHAM FOREST-ARSENAL: no LLM answer (try 3)
 2026-10-16 15:25:43 [pengwin] TOTTENHAM-COVENTRY CITY: no LLM answer (try 3)
+2026-10-16 15:26:10 [pengwin] Espanyol-Atletico Madrid: no LLM answer (try 3)
+2026-10-16 15:26:13 [pengwin] Villarreal-Elche: no LLM answer (try 3)
+2026-10-16 15:26:15 [pengwin] Betis-Barcellona: no Polymarket event (try 3)
+2026-10-16 15:26:17 [pengwin] Valencia-Athletic Bilbao: no LLM answer (try 3)
+2026-10-16 15:26:20 [pengwin] Osasuna-Racing Santander: no LLM answer (try 3)
+2026-10-16 15:26:23 [pengwin] Celta Vigo-Alaves: no LLM answer (try 2)
+2026-10-16 15:26:25 [pengwin] Malaga-Real Sociedad: no LLM answer (try 2)
+2026-10-16 15:26:27 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 2)
+2026-10-16 15:26:44 [pengwin] Getafe-Vallecano: no LLM answer (try 2)
+2026-10-16 15:31:44 indexed 981 markets
+2026-10-16 15:41:45 indexed 985 markets
+2026-10-16 15:42:35   drop[kind] Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation (CNBC) :: other
+2026-10-16 15:43:32   drop[team-not-named] Injury latest on Zubimendi, Hincapie, Tzolis and Saliba (Arsenal.com) :: Arsenal
+2026-10-16 15:43:33   drop[kind] Dominik Szoboszlai injury: Liverpool vice-captain “hopeful” over return (This Is Anfield) :: other
+2026-10-16 15:48:00   drop[1-source] Guwahati: The Locals Bar Licence Suspended, Club Blues and Kharka Penalised (Pratidin Time) :: Locals Bar, wait 2nd source
+2026-10-16 15:50:19   drop[kind] Chelsea: Xabi Alonso quizzed on Reece James injury and whether it will affect January tran (Sky Sports) :: other
+2026-10-16 15:51:47 indexed 987 markets
+2026-10-16 15:52:47   llm groq-120b: rate limited, skip 90s
+2026-10-16 15:52:47   drop[kind] Skiatook Police Department looking for missing man with history of traumatic brain injury (KTUL) :: other
+2026-10-16 15:52:48   drop[kind] Leave Right Now: Pop Idol legend Will Young claims Adele got 'suspended' from school after (Female First) :: other
+2026-10-16 15:52:48 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 104)
+2026-10-16 15:52:51 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 104)
+2026-10-16 15:52:53 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 104)
+2026-10-16 15:52:56 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 103)
+2026-10-16 15:52:59 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 103)
+2026-10-16 15:53:01 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 104)
+2026-10-16 15:53:04 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 104)
+2026-10-16 15:53:06 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 104)
+2026-10-16 15:53:09 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 104)
+2026-10-16 15:53:11   llm groq-20b: rate limited, skip 29s
+2026-10-16 15:53:11 [pengwin] MONACO-TOLOSA: no Polymarket event (try 104)
+2026-10-16 15:53:13 [pengwin] BREST-ANGERS: no Polymarket event (try 104)
+2026-10-16 15:53:15 [pengwin] PSG-LE MANS: no Polymarket event (try 104)
+2026-10-16 15:53:17 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 103)
+2026-10-16 15:53:19 [pengwin] RENNES-AUXERRE: no Polymarket event (try 104)
+2026-10-16 15:53:22 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 104)
+2026-10-16 15:53:23 [pengwin] AUXERRE-BREST: no Polymarket event (try 104)
+2026-10-16 15:54:08 [pengwin] LAZIO-INTER: no Polymarket event (try 104)
+2026-10-16 15:54:10 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 104)
+2026-10-16 15:54:12 [pengwin] INTER-COMO: no Polymarket event (try 104)
+2026-10-16 15:54:14 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 103)
+2026-10-16 15:54:15 [pengwin] COMO-INTER: no Polymarket event (try 104)
+2026-10-16 15:54:18 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 104)
+2026-10-16 15:54:20 [pengwin] NAPOLI-COMO: no Polymarket event (try 104)
+2026-10-16 15:54:22   llm groq-120b: rate limited, skip 71s
+2026-10-16 15:54:22 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 104)
+2026-10-16 15:54:47 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 104)
+2026-10-16 15:54:55   llm groq-20b: rate limited, skip 185s
+2026-10-16 15:55:41   llm groq-120b: rate limited, skip 848s
+2026-10-16 15:55:41 [pengwin] EVERTON-CHELSEA: no LLM answer (try 4)
+2026-10-16 15:55:44 [pengwin] FULHAM-HULL CITY: no LLM answer (try 4)
+2026-10-16 15:55:46 [pengwin] BRENTFORD-LIVERPOOL: no LLM answer (try 4)
+2026-10-16 15:55:49 [pengwin] MANCHESTER CITY-IPSWICH TOWN: no LLM answer (try 4)
+2026-10-16 15:55:51 [pengwin] NEWCASTLE-ASTON VILLA: no LLM answer (try 4)
+2026-10-16 15:55:54 [pengwin] BRIGHTON-CRYSTAL PALACE: no LLM answer (try 4)
+2026-10-16 15:55:56 [pengwin] LEEDS UNITED-MANCHESTER UNITED: no LLM answer (try 4)
+2026-10-16 15:55:59 [pengwin] BOURNEMOUTH-SUNDERLAND: no LLM answer (try 4)
+2026-10-16 15:56:01 [pengwin] NOTTINGHAM FOREST-ARSENAL: no LLM answer (try 4)
+2026-10-16 15:56:04 [pengwin] TOTTENHAM-COVENTRY CITY: no LLM answer (try 4)
