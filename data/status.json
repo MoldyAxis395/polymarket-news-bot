@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-16T23:11:17",
+ "updated": "2026-10-16T23:41:07",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 323,
- "markets_indexed": 943,
- "news_processed": 306,
- "cash": 74.41,
- "equity": 84.22,
+ "llm_calls_today": 340,
+ "markets_indexed": 926,
+ "news_processed": 328,
+ "cash": 64.41,
+ "equity": 84.02,
  "start": 100.0,
  "open": [
   {
@@ -26,6 +26,24 @@
    "end": "2026-10-18T17:00:00+00:00",
    "last_bid": 0.5,
    "book_err": false
+  },
+  {
+   "market_id": "4329893",
+   "question": "Cowboys vs. Packers",
+   "slug": "nfl-dal-gb-2026-10-19",
+   "outcome": "Packers",
+   "token": "21229555207265850108920299530398596306658389490025953671520798592653541449729",
+   "shares": 19.23076923076923,
+   "entry": 0.52,
+   "cost": 10.0,
+   "opened": 1792185834.8338068,
+   "opened_iso": "2026-10-16T21:23:54+00:00",
+   "news": "Drew Shelton (OT, Dallas Cowboys) ruled out: Questionable -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: Drew Shelton's injury weakens Dallas' offensive line, decreasing Cowboys' win probability and increasing Packers' chance to win the upcoming game.",
+   "conf": 0.7,
+   "end": "2026-10-19T00:20:00+00:00",
+   "last_bid": 0.51,
+   "book_err": false
   }
  ],
  "closed_count": 88,
@@ -34,23 +52,25 @@
    "groq-120b",
    "groq-20b"
   ],
-  "fallbacks": 75,
-  "errors": {},
+  "fallbacks": 79,
+  "errors": {
+   "groq-120b": "rate limited, skip 192s"
+  },
   "rejects": {
-   "fluff": 62,
-   "no-pick": 5,
-   "team-not-named": 8,
+   "fluff": 69,
+   "no-pick": 6,
+   "team-not-named": 9,
    "unconfirmed": 4,
-   "1-source": 13,
-   "not-key": 16,
-   "kind": 15,
+   "1-source": 15,
+   "not-key": 19,
+   "kind": 16,
    "verify": 3,
    "side": 2,
    "no-market": 2
   },
   "calls": {
-   "groq-120b": 170,
-   "groq-20b": 153
+   "groq-120b": 181,
+   "groq-20b": 159
   }
  },
  "realized_pnl": -15.59

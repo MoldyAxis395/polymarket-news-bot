@@ -1,5 +1,5 @@
 {
- "cash": 74.41152390475762,
+ "cash": 64.41152390475762,
  "positions": [
   {
    "market_id": "4329883",
@@ -17,6 +17,24 @@
    "conf": 0.7,
    "end": "2026-10-18T17:00:00+00:00",
    "last_bid": 0.5,
+   "book_err": false
+  },
+  {
+   "market_id": "4329893",
+   "question": "Cowboys vs. Packers",
+   "slug": "nfl-dal-gb-2026-10-19",
+   "outcome": "Packers",
+   "token": "21229555207265850108920299530398596306658389490025953671520798592653541449729",
+   "shares": 19.23076923076923,
+   "entry": 0.52,
+   "cost": 10.0,
+   "opened": 1792185834.8338068,
+   "opened_iso": "2026-10-16T21:23:54+00:00",
+   "news": "Drew Shelton (OT, Dallas Cowboys) ruled out: Questionable -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: Drew Shelton's injury weakens Dallas' offensive line, decreasing Cowboys' win probability and increasing Packers' chance to win the upcoming game.",
+   "conf": 0.7,
+   "end": "2026-10-19T00:20:00+00:00",
+   "last_bid": 0.51,
    "book_err": false
   }
  ],

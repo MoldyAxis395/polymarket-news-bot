@@ -12704,3 +12704,29 @@
 2026-10-16 23:06:09   drop[no-market] Jaminet stars as Toulon beat Edinburgh in Challenge Cup (BBC) :: Toulon
 2026-10-16 23:07:33 indexed 943 markets
 2026-10-16 23:09:12   drop[no-market] Four-try Dragons beat Perpignan - but without bonus (BBC) :: Dragons
+2026-10-16 23:12:17   drop[kind] Patriots Host 3 Running Backs for Tryouts Amid Injury Woes (Heavy.com) :: other
+2026-10-16 23:14:32   llm groq-120b: rate limited, skip 75s
+2026-10-16 23:14:32   drop[not-key] Cardinals' rookie RB Jeremiyah Love ruled out vs. Rams with ankle injury (Sportsnet.ca) :: Jeremiyah Love: ankle injury
+2026-10-16 23:17:02   drop[team-not-named] Eagles-Panthers Final Injury Report: DeVonta Smith will play, Saquon Barkley out (Bleeding Green Nation) :: New York Giants
+2026-10-16 23:17:33 indexed 945 markets
+2026-10-16 23:18:47   llm groq-120b: rate limited, skip 127s
+2026-10-16 23:18:48   drop[not-key] Jalyx Hunt (LB, Philadelphia Eagles) ruled out: Doubtful -> Out [NFL] (ESPN) :: Jalyx Hunt: injury
+2026-10-16 23:18:48   drop[not-key] Michael Carter II (CB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: Michael Carter II: injury
+2026-10-16 23:23:53   llm groq-120b: rate limited, skip 191s
+2026-10-16 23:23:54 NEWS [ESPN 2m] Drew Shelton (OT, Dallas Cowboys) ruled out: Questionable -> Out [NFL]
+2026-10-16 23:23:54   BUY Packers @ 0.520 x19.2 ($10.00) :: Cowboys vs. Packers
+2026-10-16 23:23:55   llm groq-20b: rate limited, skip 156s
+2026-10-16 23:23:55 NEWS [ESPN 2m] Cobie Durant (CB, Dallas Cowboys) ruled out: Questionable -> Out [NFL]
+2026-10-16 23:23:55   skip Packers :: Cowboys vs. Packers (rules fallback, LLM down (not traded))
+2026-10-16 23:23:55 NEWS [ESPN 8m] Tyler Nubin (S, New York Giants) ruled out: Questionable -> Out [NFL]
+2026-10-16 23:23:55   skip Saints :: Saints vs. Giants (rules fallback, LLM down (not traded))
+2026-10-16 23:23:55 NEWS [ESPN 8m] Colton Hood (CB, New York Giants) ruled out: Questionable -> Out [NFL]
+2026-10-16 23:23:55   skip Saints :: Saints vs. Giants (rules fallback, LLM down (not traded))
+2026-10-16 23:27:35 indexed 937 markets
+2026-10-16 23:33:05   drop[1-source] St Mirren injury hammer blow confirmed as Nikolas Agrafiotis suffers ‘severe’ calf tear (The St Mirren Mercury) :: Nikolas Agrafiotis, wait 2nd source
+2026-10-16 23:37:35 indexed 926 markets
+2026-10-16 23:37:40   drop[1-source] Patterson Mill football player released from hospital after injury (Baltimore Sun) :: Patterson Mill High School, wait 2nd source
+2026-10-16 23:38:06   llm groq-120b: rate limited, skip 192s
+2026-10-16 23:38:07   drop[no-pick] Andrew Wingard (S, Arizona Cardinals) ruled out: Questionable -> Out [NFL] (ESPN) :: short
+2026-10-16 23:41:19   llm groq-120b: rate limited, skip 120s
+2026-10-16 23:41:20   drop[no-market] Kenvue loses bid for rehearing after Tylenol autism lawsuits revived reut.rs/4dJYwFW (Reuters) :: Kenvue
