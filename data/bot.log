@@ -12582,3 +12582,31 @@
 2026-10-16 21:05:27   drop[1-source] Industrial action at Leeds Bradford Airport suspended after offer from airport (Travel Radar) :: Leeds Bradford Airport, wait 2nd source
 2026-10-16 21:06:56 indexed 932 markets
 2026-10-16 21:07:12   llm groq-20b: rate limited, skip 127s
+2026-10-16 21:11:35   drop[1-source] Steelers’ Week Six Friday Injury Report: Three Players Ruled Out, Five Others Questionable (Steelers Depot) :: Pittsburgh Steelers, wait 2nd source
+2026-10-16 21:13:53   llm groq-120b: rate limited, skip 23s
+2026-10-16 21:13:53   drop[kind] Vinicius Lira starts on-field physiotherapy at Santos after ACL injury (OneFootball) :: other
+2026-10-16 21:16:21   drop[kind] Liverpool handed renewed hope of signing £80m star after injury comeback (LiveScore) :: other
+2026-10-16 21:16:58 indexed 929 markets
+2026-10-16 21:18:09   llm groq-120b: rate limited, skip 48s
+2026-10-16 21:18:10   drop[not-key] Dayo Odeyingbo (DE, Chicago Bears) ruled out: Doubtful -> Out [NFL] (ESPN) :: Dayo Odeyingbo: injury
+2026-10-16 21:18:10   llm groq-20b: rate limited, skip 76s
+2026-10-16 21:18:10 NEWS [ESPN 5m] T.J. Edwards (LB, Chicago Bears) ruled out: Doubtful -> Out [NFL]
+2026-10-16 21:18:10   skip Falcons :: Bears vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-16 21:18:10 NEWS [ESPN 5m] Keyshaun Elliott (LB, Chicago Bears) ruled out: Questionable -> Out [NFL]
+2026-10-16 21:18:10   skip Falcons :: Bears vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-16 21:20:52   drop[kind] Steelers vs. Buccaneers Injury Report: 5 players listed as Questionable in Week 6 (Steel Curtain Network) :: other
+2026-10-16 21:20:52   llm groq-120b: rate limited, skip 220s
+2026-10-16 21:20:53   drop[kind] Chicago Bears injury report: QB Caleb Williams ruled questionable against Falcons in Week  (Shaw Local) :: other
+2026-10-16 21:20:53   llm groq-20b: rate limited, skip 198s
+2026-10-16 21:25:38   drop[team-not-named] Lamar Jackson Ruled Out Against Browns, Tyler Huntley To Start (RealGM) :: Baltimore Ravens
+2026-10-16 21:26:59 indexed 922 markets
+2026-10-16 21:27:50   llm groq-120b: rate limited, skip 70s
+2026-10-16 21:27:51   drop[kind] Bucs add LB Josiah Trotter to injury report, list him as questionable (NBC Sports) :: other
+2026-10-16 21:27:51   llm groq-20b: rate limited, skip 113s
+2026-10-16 21:30:11   drop[team-not-named] Baker Mayfield ruled out for Week 6 against the Steelers (USA Today) :: Tampa Bay Buccaneers
+2026-10-16 21:32:28   llm groq-120b: rate limited, skip 156s
+2026-10-16 21:32:29   llm groq-20b: rate limited, skip 60s
+2026-10-16 21:32:29   drop[no-pick] Tre' Harris (WR, Los Angeles Chargers) ruled out: Doubtful -> Out [NFL] (ESPN) :: None
+2026-10-16 21:32:29 NEWS [ESPN 5m] David Perron (LW, Detroit Red Wings) ruled out: healthy -> Out [NHL]
+2026-10-16 21:32:29   skip Sharks :: Sharks vs. Red Wings (rules fallback, LLM down (not traded))
+2026-10-16 21:36:58 indexed 897 markets
