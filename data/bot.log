@@ -12538,3 +12538,21 @@
 2026-10-16 20:07:07   skip Penguins :: Penguins vs. Avalanche (rules fallback, LLM down (not traded))
 2026-10-16 20:07:07 NEWS [ESPN 0m] Pierre-Luc Dubois (LW, Washington Capitals) ruled out: Day-To-Day -> Out [NHL]
 2026-10-16 20:07:07   skip Devils :: Devils vs. Capitals (rules fallback, LLM down (not traded))
+2026-10-16 20:14:06   llm groq-120b: rate limited, skip 75s
+2026-10-16 20:14:06   drop[no-pick] Rashee Rice, Josh Simmons ruled out for the Chiefs (NBC Sports) :: None
+2026-10-16 20:16:46 indexed 955 markets
+2026-10-16 20:17:04   drop[team-not-named] Lamar Jackson ruled out for Week 6 game at browns (WBFF) :: Baltimore Ravens
+2026-10-16 20:17:08   llm groq-120b: rate limited, skip 213s
+2026-10-16 20:17:08   drop[unconfirmed] Rashee Rice (WR, Kansas City Chiefs) ruled out: Questionable -> Out [NFL] (ESPN) :: hamstring injury
+2026-10-16 20:19:12   drop[team-not-named] Lamar Jackson Ruled out for Sunday's game (Fantasy Footballers Podcast) :: Baltimore Ravens
+2026-10-16 20:23:51   drop[1-source] Texans Injury Report vs. Jaguars: 3 Players Ruled Out, 2 Questionable (Sports Illustrated) :: Houston Texans, wait 2nd source
+2026-10-16 20:23:51   llm groq-120b: rate limited, skip 124s
+2026-10-16 20:23:51   drop[unconfirmed] Lamar Jackson ruled out for 2nd straight week as the Ravens prepare to take on the Browns (Seattlepi.com) :: injury
+2026-10-16 20:26:51 indexed 958 markets
+2026-10-16 20:26:54   drop[not-key] Vladislav Namestnikov (C, Winnipeg Jets) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Vladislav Namestnikov: injury ruled him out
+2026-10-16 20:30:49   llm groq-120b: rate limited, skip 28s
+2026-10-16 20:30:50   drop[team-not-named] Lamar Jackson ruled out for Sunday vs. Browns; Mason Graham, Carson Schwesinger, Quinshon  (www.brownszone.com) :: Baltimore Ravens
+2026-10-16 20:30:51   drop[not-key] Kaden Elliss ruled out Sunday (FantasyPros) :: Kaden Elliss: injury
+2026-10-16 20:35:38   drop[1-source] Chris Olave returns to practice on Saints injury report vs. Giants (Saints Wire) :: Chris Olave, wait 2nd source
+2026-10-16 20:36:53 indexed 945 markets
+2026-10-16 20:40:06   drop[not-key] Joshua Jefferson (F, Brooklyn Nets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Joshua Jefferson: back injury
