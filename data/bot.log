@@ -12393,3 +12393,66 @@
 2026-10-16 14:25:27 [pengwin] Betis-Barcellona: no Polymarket event (try 1)
 2026-10-16 14:25:29 [pengwin] Valencia-Athletic Bilbao: no LLM answer (try 1)
 2026-10-16 14:25:32 [pengwin] Osasuna-Racing Santander: no LLM answer (try 1)
+2026-10-16 14:31:27 indexed 979 markets
+2026-10-16 14:33:51 NEWS [Sky Sports 3m] Wuhan Open: Sonay Kartal on recovering from back injury to reach semi-finals
+2026-10-16 14:33:51   skip Jelena Ostapenko :: Wuhan Tennis Open: Sonay Kartal vs Jelena Ostapenko (rules fallback, LLM down (not traded))
+2026-10-16 14:41:01   drop[1-source] Shrewsbury Town injury boost as loanee Michael Golding returns to contention (Shropshire Star) :: Michael Golding, wait 2nd source
+2026-10-16 14:41:30 indexed 978 markets
+2026-10-16 14:41:33 NEWS [Fabrizio Romano 0m] 🚨 Lisandro Martínez will be called up and available for Man United to face Leeds. ✅ “No drama. The case is closed”, says Michael Carrick.
+2026-10-16 14:41:33   skip Yes :: Will Manchester United FC win on 2026-10-18? (low conf 0.62)
+2026-10-16 14:45:27   drop[1-source] Federal Judge Orders Trump Administration to Reinstate Green Card Lottery Suspended Last Y (Latin Times) :: Trump Administration, wait 2nd source
+2026-10-16 14:47:42   llm groq-120b: rate limited, skip 2s
+2026-10-16 14:47:42   drop[unconfirmed] Bills' Week 6 Injury Report: Spencer Brown Upgraded, No progress for DJ Moore (Sports Illustrated) :: no progress
+2026-10-16 14:50:12   drop[not-key] James Morrison reveals double West Brom injury boost as Blackburn Rovers challenge awaits (The72) :: James Morrison: two West Brom players injured
+2026-10-16 14:51:31 indexed 979 markets
+2026-10-16 14:51:54 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 102)
+2026-10-16 14:51:56   llm groq-120b: rate limited, skip 108s
+2026-10-16 14:51:57 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 102)
+2026-10-16 14:51:59 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 102)
+2026-10-16 14:52:01 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 101)
+2026-10-16 14:52:04 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 101)
+2026-10-16 14:52:06 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 102)
+2026-10-16 14:52:09 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 102)
+2026-10-16 14:52:11 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 102)
+2026-10-16 14:52:14 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 102)
+2026-10-16 14:52:16 [pengwin] MONACO-TOLOSA: no Polymarket event (try 102)
+2026-10-16 14:52:18 [pengwin] BREST-ANGERS: no Polymarket event (try 102)
+2026-10-16 14:52:21   drop[team-not-named] Jamie Hayter Out With A “Major Injury” (PWMania) :: WWE
+2026-10-16 14:52:21 [pengwin] PSG-LE MANS: no Polymarket event (try 102)
+2026-10-16 14:52:23   llm groq-20b: rate limited, skip 24s
+2026-10-16 14:52:23 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 101)
+2026-10-16 14:52:25 [pengwin] RENNES-AUXERRE: no Polymarket event (try 102)
+2026-10-16 14:52:27 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 102)
+2026-10-16 14:52:29 [pengwin] AUXERRE-BREST: no Polymarket event (try 102)
+2026-10-16 14:52:34 NEWS [Fabrizio Romano 1m] 🚨 Real Madrid appeal for Vini Jr’s 4-games ban in La Liga has been rejected. The Brazilian will miss the following games: ❌️ vs Sevilla ❌️ vs Barcelona ❌️ vs Racing ❌️ vs Valencia ℹ️ Real Madrid will now appeal to TAD court.
+2026-10-16 14:52:34   skip Yes :: Will Sevilla FC win on 2026-10-18? (rules fallback, LLM down (not traded))
+2026-10-16 14:52:34   skip Yes :: Will Real Madrid CF win on 2026-10-18? (rules fallback, LLM down (not traded))
+2026-10-16 14:53:14   llm groq-20b: rate limited, skip 21s
+2026-10-16 14:53:14 [pengwin] LAZIO-INTER: no Polymarket event (try 102)
+2026-10-16 14:53:16 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 102)
+2026-10-16 14:53:18 [pengwin] INTER-COMO: no Polymarket event (try 102)
+2026-10-16 14:53:20 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 101)
+2026-10-16 14:53:22 [pengwin] COMO-INTER: no Polymarket event (try 102)
+2026-10-16 14:53:24 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 102)
+2026-10-16 14:53:26 [pengwin] NAPOLI-COMO: no Polymarket event (try 102)
+2026-10-16 14:53:28 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 102)
+2026-10-16 14:53:54 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 102)
+2026-10-16 14:54:50   llm groq-120b: rate limited, skip 883s
+2026-10-16 14:54:50   llm groq-20b: rate limited, skip 709s
+2026-10-16 14:54:50 [pengwin] EVERTON-CHELSEA: no LLM answer (try 2)
+2026-10-16 14:54:53 [pengwin] FULHAM-HULL CITY: no LLM answer (try 2)
+2026-10-16 14:54:55 [pengwin] BRENTFORD-LIVERPOOL: no LLM answer (try 2)
+2026-10-16 14:54:58 [pengwin] MANCHESTER CITY-IPSWICH TOWN: no LLM answer (try 2)
+2026-10-16 14:55:01 [pengwin] NEWCASTLE-ASTON VILLA: no LLM answer (try 2)
+2026-10-16 14:55:04 [pengwin] BRIGHTON-CRYSTAL PALACE: no LLM answer (try 2)
+2026-10-16 14:55:06 [pengwin] LEEDS UNITED-MANCHESTER UNITED: no LLM answer (try 2)
+2026-10-16 14:55:09 [pengwin] BOURNEMOUTH-SUNDERLAND: no LLM answer (try 2)
+2026-10-16 14:55:12 [pengwin] NOTTINGHAM FOREST-ARSENAL: no LLM answer (try 2)
+2026-10-16 14:55:14 [pengwin] TOTTENHAM-COVENTRY CITY: no LLM answer (try 2)
+2026-10-16 14:55:44 [pengwin] Espanyol-Atletico Madrid: no LLM answer (try 2)
+2026-10-16 14:55:47 [pengwin] Villarreal-Elche: no LLM answer (try 2)
+2026-10-16 14:55:49 [pengwin] Betis-Barcellona: no Polymarket event (try 2)
+2026-10-16 14:55:51 [pengwin] Valencia-Athletic Bilbao: no LLM answer (try 2)
+2026-10-16 14:55:54 [pengwin] Osasuna-Racing Santander: no LLM answer (try 2)
+2026-10-16 14:55:57 [pengwin] Celta Vigo-Alaves: no LLM answer (try 1)
+2026-10-16 14:56:00 [pengwin] Malaga-Real Sociedad: no LLM answer (try 1)
