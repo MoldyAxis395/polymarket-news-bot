@@ -12610,3 +12610,24 @@
 2026-10-16 21:32:29 NEWS [ESPN 5m] David Perron (LW, Detroit Red Wings) ruled out: healthy -> Out [NHL]
 2026-10-16 21:32:29   skip Sharks :: Sharks vs. Red Wings (rules fallback, LLM down (not traded))
 2026-10-16 21:36:58 indexed 897 markets
+2026-10-16 21:44:12   drop[1-source] Patriots injury report: Two defenders ruled out for Week 6 matchup vs. Jets (Boston Herald) :: New England Patriots, wait 2nd source
+2026-10-16 21:47:02 indexed 898 markets
+2026-10-16 21:48:42   drop[not-key] The Non-Star Injury The Magic Can't Afford This Year (Sports Illustrated) :: Jalen Duren: backup center injured and will miss games
+2026-10-16 21:51:00   drop[1-source] Patriots vs. Jets Friday injury report: Carlton Davis III, Karon Prunty ruled out for Week (Pats Pulpit) :: Karon Prunty, wait 2nd source
+2026-10-16 21:51:00   llm groq-120b: rate limited, skip 50s
+2026-10-16 21:51:01   drop[1-source] Elliss again out, Olave and Kamara questionable for Saints at Giants (Crescent City Sports) :: Jalen Elliss, wait 2nd source
+2026-10-16 21:52:14   drop[not-key] The Cardinals won’t have RB Jeremiyah Love, who is out for Week 6. He’ll rest his ailing a (Ian Rapoport) :: Jeremiyah Love: ankle injury sidelines him for Week 6
+2026-10-16 21:52:14   llm groq-120b: rate limited, skip 267s
+2026-10-16 21:52:15   drop[kind] AJ Brown is questionable... (Ian Rapoport) :: other
+2026-10-16 21:55:37   drop[kind] College Football Player Tyler Ulrich, 21, Dead After Suffering ‘Traumatic Injury’ During G (Us Weekly) :: other
+2026-10-16 21:55:37   drop[1-source] Cardinals suffer backfield blow as Jeremiyah Love is ruled out (Yardbarker) :: Jeremiyah Love, wait 2nd source
+2026-10-16 21:56:56 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-16 21:57:25 indexed 889 markets
+2026-10-16 21:58:17   drop[1-source] Ravens rule out four and list three as questionable against Browns (Ravens Wire) :: Baltimore Ravens, wait 2nd source
+2026-10-16 22:00:36   llm groq-120b: rate limited, skip 45s
+2026-10-16 22:00:36   drop[1-source] Packers list five questionable, rule out four vs. Cowboys | Week 6 Injury Report (Green Bay Packers – packers.com) :: Green Bay Packers, wait 2nd source
+2026-10-16 22:03:05   drop[kind] College Football Player With Brain Injury Dies at 21 (Newser) :: other
+2026-10-16 22:03:05   llm groq-120b: rate limited, skip 155s
+2026-10-16 22:03:05   drop[team-not-named] Updated NFC East Probabilities on Kalshi Following Hurts Injury (WTOP News) :: Philadelphia Eagles
+2026-10-16 22:07:27 indexed 950 markets
+2026-10-16 22:07:32   drop[kind] Tyler Warren Added to injury report, questionable (Fantasy Footballers Podcast) :: other
