@@ -13107,3 +13107,50 @@
 2026-10-17 04:26:24 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 108)
 2026-10-17 04:26:27 [pengwin] NAPOLI-COMO: no Polymarket event (try 108)
 2026-10-17 04:26:29 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 108)
+2026-10-17 04:26:57 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 108)
+2026-10-17 04:27:43 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 6)
+2026-10-17 04:27:46   llm groq-120b: rate limited, skip 16s
+2026-10-17 04:27:46 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 6)
+2026-10-17 04:27:49 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 6)
+2026-10-17 04:27:52   llm groq-20b: rate limited, skip 774s
+2026-10-17 04:27:52 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no LLM answer (try 6)
+2026-10-17 04:27:55 [pengwin] MANCHESTER CITY-IPSWICH TOWN: no LLM answer (try 8)
+2026-10-17 04:28:26   llm groq-120b: rate limited, skip 1080s
+2026-10-17 04:28:26 [pengwin] Betis-Barcellona: no LLM answer (try 8)
+2026-10-17 04:28:29 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 7)
+2026-10-17 04:28:32 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 6)
+2026-10-17 04:28:34 [pengwin] BOLOGNA-INTER: no Polymarket event (try 6)
+2026-10-17 04:32:36 indexed 935 markets
+2026-10-17 04:42:35 indexed 930 markets
+2026-10-17 04:43:29   drop[1-source] Cobie Durant Injury: Won't play against Green Bay (RotoWire) :: Cobie Durant, wait 2nd source
+2026-10-17 04:43:29   llm groq-20b: rate limited, skip 337s
+2026-10-17 04:52:38 indexed 933 markets
+2026-10-17 04:55:02 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 109)
+2026-10-17 04:55:05 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 109)
+2026-10-17 04:55:07 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 109)
+2026-10-17 04:55:10 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 108)
+2026-10-17 04:55:13 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 108)
+2026-10-17 04:55:16 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 109)
+2026-10-17 04:55:19 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 109)
+2026-10-17 04:55:21 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 109)
+2026-10-17 04:55:24 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 109)
+2026-10-17 04:55:27 [pengwin] MONACO-TOLOSA: no Polymarket event (try 109)
+2026-10-17 04:55:29 [pengwin] BREST-ANGERS: no Polymarket event (try 109)
+2026-10-17 04:55:31 [pengwin] PSG-LE MANS: no Polymarket event (try 109)
+2026-10-17 04:55:34 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 108)
+2026-10-17 04:55:37 [pengwin] RENNES-AUXERRE: no Polymarket event (try 109)
+2026-10-17 04:55:39   llm groq-120b: rate limited, skip 35s
+2026-10-17 04:55:40 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 109)
+2026-10-17 04:55:42 [pengwin] AUXERRE-BREST: no Polymarket event (try 109)
+2026-10-17 04:55:45   drop[team-not-named] Trump issues order to bypass Russian sanctions in bill named for late Lindsey Graham polit (Politico) :: United States of America
+2026-10-17 04:56:14   drop[not-key] Tonka Hemingway (DT, Las Vegas Raiders) ruled out: Questionable -> Out [NFL] (ESPN) :: Tonka Hemingway: injury
+2026-10-17 04:56:31   llm groq-120b: rate limited, skip 34s
+2026-10-17 04:56:31   llm groq-20b: rate limited, skip 213s
+2026-10-17 04:56:31 [pengwin] LAZIO-INTER: no Polymarket event (try 109)
+2026-10-17 04:56:33 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 109)
+2026-10-17 04:56:35 [pengwin] INTER-COMO: no Polymarket event (try 109)
+2026-10-17 04:56:37 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 108)
+2026-10-17 04:56:39 [pengwin] COMO-INTER: no Polymarket event (try 109)
+2026-10-17 04:56:41 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 109)
+2026-10-17 04:56:43 [pengwin] NAPOLI-COMO: no Polymarket event (try 109)
+2026-10-17 04:56:45 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 109)
