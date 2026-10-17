@@ -13345,3 +13345,23 @@
 2026-10-17 14:55:33   drop[kind] Injury/Weather Report for FSU football game at Miami (On3) :: other
 2026-10-17 14:55:33   llm groq-120b: rate limited, skip 153s
 2026-10-17 14:55:34   drop[kind] Liverpool XI vs Brentford: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-10-17 15:02:59 indexed 1004 markets
+2026-10-17 15:03:01   llm groq-120b: rate limited, skip 99s
+2026-10-17 15:03:02   drop[side] Brentford confirmed lineup vs Liverpool: Jannik Schuster, El Hadji Malick Diouf, Kevin Sch (ESPN) :: Will Brentford FC win on 2026-10-17? -> Yes vs fact ruled_out: Jannik Schuster (Brentford FC, soccer), bad for Brentford
+2026-10-17 15:03:02   llm groq-20b: rate limited, skip 167s
+2026-10-17 15:04:51   drop[1-source] Trent McDuffie injury is more bad news for Rams (Turf Show Times) :: Trent McDuffie, wait 2nd source
+2026-10-17 15:11:34   drop[team-not-named] Everton vs Chelsea stopped as Emi Martinez suffers major injury in horror clash (Daily Star) :: Aston Villa
+2026-10-17 15:12:58 indexed 1005 markets
+2026-10-17 15:14:02   llm groq-120b: rate limited, skip 37s
+2026-10-17 15:14:02   drop[no-market] Police Inspector suspended after an inquiry found that he allegedly interfered in civil di (Cross Town News) :: Police Department
+2026-10-17 15:17:14   llm groq-120b: rate limited, skip 200s
+2026-10-17 15:17:14 NEWS [ESPN 0m] Villarreal confirmed lineup vs Elche: Luiz Júnior, Renato Veiga, Santiago Mouriño, Carlos Romero, Pau Navarro, Pape Gueye, Nathan Saliba, Georges Mikautadze, Gerard Moreno ruled out of starting XI [esp.1]
+2026-10-17 15:17:14   skip No :: Will Villarreal CF win on 2026-10-17? (low conf 0.6)
+2026-10-17 15:17:14   llm groq-20b: rate limited, skip 18s
+2026-10-17 15:18:33   drop[unconfirmed] Leeds and Man United injury latest, six out and four doubts before Elland Road clash (OneFootball) :: six players ruled out before Elland Road clash
+2026-10-17 15:18:33   llm groq-20b: rate limited, skip 209s
+2026-10-17 15:22:59 indexed 997 markets
+2026-10-17 15:23:17   drop[1-source] Las Palmas v Castellón: Vlak returns as visitors aim to respond, quartet ruled out (OneFootball) :: Vlatko Vlak, wait 2nd source
+2026-10-17 15:25:26   drop[not-key] Match on Smackdown stopped after R-Truth injury (Gerweck.net) :: R-Truth: injured during match causing stoppage
+2026-10-17 15:25:26   llm groq-120b: rate limited, skip 251s
+2026-10-17 15:25:27   drop[1-source] Manchester United receive injury boost ahead of Leeds United clash (EPL Index) :: Marcus Rashford, wait 2nd source
