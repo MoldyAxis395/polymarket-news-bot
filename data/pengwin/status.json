@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-17T21:07:50",
+ "updated": "2026-10-17T21:38:02",
  "start": 100.0,
  "cash": 104.35,
- "equity": 133.65,
+ "equity": 140.76,
  "open": [
   {
    "market_id": "5267259",
@@ -19,7 +19,7 @@
    "reason": "pengwin exact: replicates pick",
    "conf": 1.0,
    "end": "2026-10-17T18:45:00+00:00",
-   "last_bid": 0.61,
+   "last_bid": 0.999,
    "book_err": false,
    "settle_retry": 1792087850.3953059
   },
@@ -38,7 +38,7 @@
    "reason": "pengwin approx: approximates Multigol 1-3 casa",
    "conf": 1.0,
    "end": "2026-10-17T19:00:00+00:00",
-   "last_bid": 0.89,
+   "last_bid": 0.975,
    "book_err": false
   },
   {

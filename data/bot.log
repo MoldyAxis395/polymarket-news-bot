@@ -13418,3 +13418,24 @@
 2026-10-17 21:08:49 indexed 927 markets
 2026-10-17 21:09:15 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-17 21:11:22   drop[no-pick] Injury Cart Accidentally Slams Cincinnati Football Player Into Wall (The Spun) :: short
+2026-10-17 21:13:30   drop[no-market] Manzambi heads Villa to victory at Newcastle (BBC) :: Aston Villa
+2026-10-17 21:15:47   drop[kind] Blackburn Rovers star set for scan after injury blow in West Brom defeat (LiveScore) :: other
+2026-10-17 21:18:15 indexed 920 markets
+2026-10-17 21:18:20   drop[team-not-named] UT star edge rusher Colin Simmons carted off with leg injury in Florida game (Houston Chronicle) :: Texas Longhorns
+2026-10-17 21:26:52 NEWS [CNBC 1m] Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'
+2026-10-17 21:26:52   skip Yes :: Will Russia and Ukraine hold any diplomatic meeting by October 31, 202 (low conf 0.6)
+2026-10-17 21:27:25   llm groq-120b: rate limited, skip 147s
+2026-10-17 21:27:26   drop[side] Lane Johnson (OT, Philadelphia Eagles) ruled out: Reserve-Ret -> Out [NFL] (ESPN) :: Panthers vs. Eagles -> Eagles vs fact ruled_out: Lane Johnson (Philadelphia Eagles, nfl), bad for Philadelphia Eagles. i
+2026-10-17 21:28:17 indexed 909 markets
+2026-10-17 21:30:01   llm groq-120b: rate limited, skip 6s
+2026-10-17 21:30:01   drop[1-source] Vincent Kompany was dealing with hip injury during FC Bayern’s 6-1 win over RB Leipzig (Bavarian Football Works) :: Vincent Kompany, wait 2nd source
+2026-10-17 21:31:30   llm groq-120b: rate limited, skip 99s
+2026-10-17 21:31:30   drop[no-pick] Mike Matheson (D, Montreal Canadiens) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: no suitable outcome to rise
+2026-10-17 21:34:28   llm groq-120b: rate limited, skip 4s
+2026-10-17 21:34:29   drop[1-source] Julian Sayin Leaves Indiana Game in Fourth Quarter with Apparent Shoulder Injury (Eleven Warriors) :: Julian Sayin, wait 2nd source
+2026-10-17 21:35:35   drop[not-key] Zachary L'Heureux (LW, Colorado Avalanche) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Zachary L'Heureux: ruled out due to injury
+2026-10-17 21:35:36   llm groq-120b: rate limited, skip 273s
+2026-10-17 21:35:36   drop[not-key] Nicolas Roy (C, Colorado Avalanche) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Nicolas Roy: day-to-day injury
+2026-10-17 21:36:47   drop[unconfirmed] Dream forward Allisha Gray returns from finger injury, starts WNBA Finals Game 1 against V (Gwinnett Daily Post) :: injury resolved
+2026-10-17 21:38:18 indexed 938 markets
+2026-10-17 21:39:27 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
