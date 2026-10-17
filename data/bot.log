@@ -13317,209 +13317,28 @@
 2026-10-17 14:16:03   drop[1-source] Injury blow for Bangladesh ahead of tri-series opener (ICC) :: Shakib Al Hasan, wait 2nd source
 2026-10-17 14:18:31   drop[1-source] Gas Supply to Be Suspended in Several Rawalpindi Areas (TechJuice) :: Rawalpindi Gas Supply, wait 2nd source
 2026-10-17 14:22:55 indexed 1010 markets
-2026-10-17 14:29:56   drop[kind] SMU Gets Major Injury Advantage As Virginia Loses 22 Players (roundtable.io) :: other
-2026-10-17 14:32:57 indexed 1010 markets
-2026-10-17 14:34:35   drop[kind] Browns sign ex-Broncos running back after Quinshon Judkins injury (Broncos Wire) :: other
-2026-10-17 14:34:36   drop[1-source] Taylorsville police officer suspended over video of conduct during traffic stop (Hickory Daily Record) :: Taylorsville Police Department, wait 2nd source
-2026-10-17 14:37:06   drop[kind] “That’s Outrageous”: RGIII Slams Michael Robinson for Accusing Jalen Hurts of Using Injury (College Sports Network) :: other
-2026-10-17 14:38:00   llm groq-120b: rate limited, skip 339s
-2026-10-17 14:38:01   drop[side] Schalke 04 confirmed lineup vs Mainz: Maximilian Wöber, Junior Adamu, Moussa Sylla ruled o (ESPN) :: Will FC Schalke 04 win on 2026-10-17? -> Yes vs fact ruled_out: Maximilian Wöber (Schalke 04, soccer), bad for Schalke 0
-2026-10-17 14:38:02 NEWS [ESPN 0m] Mainz confirmed lineup vs Schalke 04: Fabio Gruber, Eric Martel ruled out of starting XI [ger.1]
-2026-10-17 14:38:02   skip Yes :: Will FC Schalke 04 win on 2026-10-17? (low conf 0.6)
-2026-10-17 14:41:30   drop[kind] Leeds & Man United final injury news with 10 out or doubtful but international back (Yorkshire Evening Post) :: other
-2026-10-17 14:42:56 indexed 1008 markets
-2026-10-17 14:44:10   drop[not-key] Hamburg SV confirmed lineup vs VfB Stuttgart: Nicolai Remberg, Albert Sambi Lokonga ruled  (ESPN) :: Nicolai Remberg: ruled out of today's starting XI
-2026-10-17 14:44:10   llm groq-120b: rate limited, skip 241s
-2026-10-17 14:44:11 NEWS [ESPN 0m] VfB Stuttgart confirmed lineup vs Hamburg SV: Fabian Bredlow, Grischa Prömel, Chris Führich, Dzenan Pejcinovic ruled out of starting XI [ger.1]
-2026-10-17 14:44:11   skip No :: Will VfB Stuttgart win on 2026-10-17? (low conf 0.6)
-2026-10-17 14:46:20   drop[kind] Bills' Final Week 6 Injury Report: DJ Moore, Four Others Questionable to Face Raiders (Sports Illustrated) :: other
-2026-10-17 14:48:24   llm groq-120b: rate limited, skip 29s
-2026-10-17 14:48:25 NEWS [ESPN 0m] Borussia Dortmund confirmed lineup vs 1. FC Union Berlin: Ramy Bensebaini, Joey Veerman, Fábio Silva, Samuele Inácio, Konstantinos Karetsas ruled out of starting XI [ger.1]
-2026-10-17 14:48:25   skip Yes :: 1. FC Union Berlin leading at halftime? (low conf 0.6)
-2026-10-17 14:48:26   drop[verify] SC Paderborn 07 confirmed lineup vs Werder Bremen: Marvin Pieringer ruled out of starting  (ESPN) :: Pieringer not on SC Paderborn 07
-2026-10-17 14:48:29   llm groq-20b: rate limited, skip 334s
-2026-10-17 14:50:48   drop[kind] Man City XI vs Ipswich: Starting lineup and confirmed team news (London Evening Standard) :: other
-2026-10-17 14:50:48   llm groq-120b: rate limited, skip 134s
-2026-10-17 14:52:57 indexed 1010 markets
-2026-10-17 14:53:06   llm groq-120b: rate limited, skip 18s
-2026-10-17 14:55:33   drop[kind] Injury/Weather Report for FSU football game at Miami (On3) :: other
-2026-10-17 14:55:33   llm groq-120b: rate limited, skip 153s
-2026-10-17 14:55:34   drop[kind] Liverpool XI vs Brentford: Starting lineup and confirmed team news (London Evening Standard) :: other
-2026-10-17 15:02:59 indexed 1004 markets
-2026-10-17 15:03:01   llm groq-120b: rate limited, skip 99s
-2026-10-17 15:03:02   drop[side] Brentford confirmed lineup vs Liverpool: Jannik Schuster, El Hadji Malick Diouf, Kevin Sch (ESPN) :: Will Brentford FC win on 2026-10-17? -> Yes vs fact ruled_out: Jannik Schuster (Brentford FC, soccer), bad for Brentford
-2026-10-17 15:03:02   llm groq-20b: rate limited, skip 167s
-2026-10-17 15:04:51   drop[1-source] Trent McDuffie injury is more bad news for Rams (Turf Show Times) :: Trent McDuffie, wait 2nd source
-2026-10-17 15:11:34   drop[team-not-named] Everton vs Chelsea stopped as Emi Martinez suffers major injury in horror clash (Daily Star) :: Aston Villa
-2026-10-17 15:12:58 indexed 1005 markets
-2026-10-17 15:14:02   llm groq-120b: rate limited, skip 37s
-2026-10-17 15:14:02   drop[no-market] Police Inspector suspended after an inquiry found that he allegedly interfered in civil di (Cross Town News) :: Police Department
-2026-10-17 15:17:14   llm groq-120b: rate limited, skip 200s
-2026-10-17 15:17:14 NEWS [ESPN 0m] Villarreal confirmed lineup vs Elche: Luiz Júnior, Renato Veiga, Santiago Mouriño, Carlos Romero, Pau Navarro, Pape Gueye, Nathan Saliba, Georges Mikautadze, Gerard Moreno ruled out of starting XI [esp.1]
-2026-10-17 15:17:14   skip No :: Will Villarreal CF win on 2026-10-17? (low conf 0.6)
-2026-10-17 15:17:14   llm groq-20b: rate limited, skip 18s
-2026-10-17 15:18:33   drop[unconfirmed] Leeds and Man United injury latest, six out and four doubts before Elland Road clash (OneFootball) :: six players ruled out before Elland Road clash
-2026-10-17 15:18:33   llm groq-20b: rate limited, skip 209s
-2026-10-17 15:22:59 indexed 997 markets
-2026-10-17 15:23:17   drop[1-source] Las Palmas v Castellón: Vlak returns as visitors aim to respond, quartet ruled out (OneFootball) :: Vlatko Vlak, wait 2nd source
-2026-10-17 15:25:26   drop[not-key] Match on Smackdown stopped after R-Truth injury (Gerweck.net) :: R-Truth: injured during match causing stoppage
-2026-10-17 15:25:26   llm groq-120b: rate limited, skip 251s
-2026-10-17 15:25:27   drop[1-source] Manchester United receive injury boost ahead of Leeds United clash (EPL Index) :: Marcus Rashford, wait 2nd source
-2026-10-17 15:30:02   drop[no-market] Hyderabad : Police Inspector suspended after an inquiry found that he allegedly interfered (Cross Town News) :: Hyderabad Police Department
-2026-10-17 15:32:29   llm groq-120b: rate limited, skip 140s
-2026-10-17 15:32:30   drop[no-pick] Chelsea’s Emiliano Martinez taken to hospital with suspected head injury (The New York Times) :: short
-2026-10-17 15:32:30   llm groq-20b: rate limited, skip 141s
-2026-10-17 15:33:02 indexed 992 markets
-2026-10-17 15:39:19   drop[1-source] Liton ruled out of tri-nation series with hip injury (Bangladesh Sangbad Sangstha (BSS)) :: Liton Das, wait 2nd source
-2026-10-17 15:39:19   llm groq-120b: rate limited, skip 34s
-2026-10-17 15:39:19   drop[1-source] Big Chelsea win at Everton marred as Martinez suffers serious injury (London Evening Standard) :: Chelsea, wait 2nd source
-2026-10-17 15:43:01 indexed 986 markets
-2026-10-17 15:46:16   llm groq-120b: rate limited, skip 15s
-2026-10-17 15:46:19   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
-2026-10-17 15:46:19   drop[verify] Eagles QB Jalen Hurts ruled out for Week 6 after blood clot found in his leg, not expected (Yahoo Sports) :: no answer
-2026-10-17 15:46:20   drop[1-source] Steelers Facing Devastating Michael Pittman Jr Injury Setback (Steeler Nation) :: Michael Pittman Jr, wait 2nd source
-2026-10-17 15:48:33   drop[kind] Two Injury-Related Edges Virginia Tech Can Exploit Against Georgia Tech (247Sports) :: other
-2026-10-17 15:51:01   llm groq-120b: rate limited, skip 128s
-2026-10-17 15:51:02   drop[kind] Roswell's Miller Westerfield: Montlick Injury Attorneys Athlete of the Week (WSB-TV) :: other
-2026-10-17 15:51:02   llm groq-20b: rate limited, skip 250s
-2026-10-17 15:53:00 indexed 994 markets
-2026-10-17 15:55:29   drop[not-key] Penguins’ Egor Chinakhov Sustains Injury At Practice (Pro Hockey Rumors) :: Egor Chinakhov: sustained injury during practice
-2026-10-17 15:55:29   llm groq-120b: rate limited, skip 131s
-2026-10-17 15:55:29   drop[not-key] White Plains Attorney Stephen Holden Suspended Over $290K Trust Account Shortfall (Hoodline) :: Stephen Holden: short
-2026-10-17 15:57:50   llm groq-120b: rate limited, skip 4s
-2026-10-17 15:57:50   llm groq-20b: rate limited, skip 133s
-2026-10-17 16:02:25   llm groq-120b: rate limited, skip 90s
-2026-10-17 16:02:26   drop[no-pick] Chelsea Player Ratings vs. Everton: Ugly Injury Sours Blues Victory (Sports Illustrated) :: short
-2026-10-17 16:02:26   llm groq-20b: rate limited, skip 216s
-2026-10-17 16:03:03 indexed 958 markets
-2026-10-17 16:03:57   drop[team-not-named] Chacarra leads as McIlroy fades before play halted (BBC) :: Spain
-2026-10-17 16:09:32   drop[kind] Struggles continue for injury-riddled Montevallo as they fal... (The Clanton Advertiser) :: other
-2026-10-17 16:09:32   llm groq-120b: rate limited, skip 156s
-2026-10-17 16:09:33   drop[unconfirmed] A.J. Brown Injury: Expected to return for Week 6 (RotoWire) :: injury recovery
-2026-10-17 16:09:33   llm groq-20b: rate limited, skip 76s
-2026-10-17 16:11:40   drop[1-source] R-Truth Injury Causes SmackDown Match Against Damian Priest to Stop (www.twnpnews.com) :: R-Truth, wait 2nd source
-2026-10-17 16:13:04 indexed 956 markets
-2026-10-17 16:13:59   drop[kind] Jalen Hurts Injury: IR stint not expected (RotoWire) :: other
-2026-10-17 16:14:00   llm groq-120b: rate limited, skip 290s
-2026-10-17 16:14:00   llm groq-20b: rate limited, skip 59s
-2026-10-17 16:15:45   drop[team-not-named] Injured Swiatek goes down fighting in Wuhan Open semi-final reut.rs/4k0pYTA (Reuters) :: Poland
-2026-10-17 16:16:19   llm groq-20b: rate limited, skip 255s
-2026-10-17 16:20:59   drop[kind] Petr Cech Marks 20 Years Since Life Threatening Head Injury (SuaraGarut.ID) :: other
-2026-10-17 16:23:04 indexed 955 markets
-2026-10-17 16:23:16   llm groq-120b: rate limited, skip 62s
-2026-10-17 16:23:17   drop[team-not-named] Dante Moore’s NFL Draft Stock Takes a Turn Amid Injury Absence (Sports Illustrated) :: Texas A&M Aggies
-2026-10-17 16:23:17   llm groq-20b: rate limited, skip 184s
-2026-10-17 16:28:00   drop[kind] AI model forecasts ICU vital signs and flags kidney injury earlier (Bioengineer.org) :: other
-2026-10-17 16:28:14   llm groq-120b: rate limited, skip 56s
-2026-10-17 16:28:14   drop[unconfirmed] The Patriots will likely activate WR AJ Brown off Injured Reserve to play against the Jets (Ian Rapoport) :: return
-2026-10-17 16:32:28   drop[kind] College football player Tyler Ulrich dies five days after suffering traumatic injury durin (NBC Sports) :: other
-2026-10-17 16:33:04 indexed 947 markets
-2026-10-17 16:37:17   drop[team-not-named] Iga Swiatek breaks down in tears, battles leg injury in heartbreaking Wuhan Open loss (India Today) :: 
-2026-10-17 16:37:21   llm groq-120b: rate limited, skip 77s
-2026-10-17 16:37:22 NEWS [ESPN 0m] Strasbourg confirmed lineup vs Paris Saint-Germain: Diogo Sousa, Samuel Amo-Ameyaw ruled out of starting XI [fra.1]
-2026-10-17 16:37:22   skip No :: Will RC Strasbourg Alsace win on 2026-10-17? (low conf 0.6)
-2026-10-17 16:37:22   llm groq-20b: rate limited, skip 232s
-2026-10-17 16:39:23   drop[not-key] Channing ‘Stacks’ Lorenzo Stretchered Out After Injury At NXT Live (Fightful) :: Channing “Stacks” Lorenzo: sustained injury and was stretchered out, ruling him out of upcoming matches
-2026-10-17 16:41:39   llm groq-120b: rate limited, skip 154s
-2026-10-17 16:41:39   llm groq-20b: rate limited, skip 9s
-2026-10-17 16:43:06 indexed 956 markets
-2026-10-17 16:43:57   llm groq-20b: rate limited, skip 102s
-2026-10-17 16:43:57   drop[no-pick] Patriots will reportedly activate receiver A.J. Brown from injured reserve after 4-game ab (Yahoo Sports) :: None
-2026-10-17 16:46:33   llm groq-120b: rate limited, skip 79s
-2026-10-17 16:46:34   drop[no-pick] Maple Leafs' John Tavares out week-to-week with lower-body injury (Sportsnet.ca) :: no suitable outcome to rise
-2026-10-17 16:48:35   llm groq-120b: rate limited, skip 19s
-2026-10-17 16:48:35   llm groq-20b: rate limited, skip 60s
-2026-10-17 16:53:07 indexed 949 markets
-2026-10-17 16:53:10   llm groq-120b: rate limited, skip 146s
-2026-10-17 16:53:11 NEWS [ESPN 8m] John Tavares (C, Toronto Maple Leafs) ruled out: Day-To-Day -> Out [NHL]
-2026-10-17 16:53:12   BUY Islanders @ 0.460 x21.7 ($10.00) :: Islanders vs. Maple Leafs
-2026-10-17 16:57:55   drop[1-source] Liverpool dealt new Dominik Szoboszlai injury blow vs. Brentford as Andoni Iraola decision (Sports Mole) :: Dominik Szoboszlai, wait 2nd source
-2026-10-17 17:03:10 indexed 948 markets
-2026-10-17 17:07:09   drop[1-source] Chelsea sink Everton 2-0, lose Martinez to head injury (www.westernpost.ng) :: Chelsea Football Club, wait 2nd source
-2026-10-17 17:09:30   drop[not-key] Justin Sourdif (RW, Washington Capitals) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Justin Sourdif: ruled out due to injury
-2026-10-17 17:13:09 indexed 935 markets
-2026-10-17 17:14:10   drop[kind] Chargers' injury woes give Chiefs no excuse to lose Week 6 showdown (KC Kingdom) :: other
-2026-10-17 17:14:10   llm groq-120b: rate limited, skip 168s
-2026-10-17 17:14:11   drop[1-source] Emi Martinez' horror head injury mars Chelsea's 2-0 win against Everton (India Today) :: Emi Martinez, wait 2nd source
-2026-10-17 17:14:17   drop[side] Bologna confirmed lineup vs Internazionale: Massimo Pessina, Torbjørn Heggem, Riccardo Ors (ESPN) :: Will Bologna FC 1909 vs. FC Internazionale Milano end in a draw? -> Yes vs fact ruled_out: Massimo Pessina (Bologna, soc
-2026-10-17 17:14:18   drop[team-not-named] Internazionale confirmed lineup vs Bologna: Hakan Çalhanoglu, Andy Diouf, Lautaro Martínez (ESPN) :: Inter Milan
-2026-10-17 17:16:38   llm groq-20b: rate limited, skip 35s
-2026-10-17 17:16:38 NEWS [ESPN 6m] Cam York (D, Philadelphia Flyers) ruled out: Day-To-Day -> Out [NHL]
-2026-10-17 17:16:38   skip Senators :: Senators vs. Flyers (rules fallback, LLM down (not traded))
-2026-10-17 17:18:39   drop[team-not-named] TFC coach Robin Fraser suspended for match against New York Red Bulls (Sportsnet.ca) :: Toronto FC
-2026-10-17 17:20:56   llm groq-120b: rate limited, skip 55s
-2026-10-17 17:20:56   drop[unconfirmed] Sources: RB Jacory Croskey-Merritt expected out for Week 6 (Last Man Standig | Substack) :: injury
-2026-10-17 17:20:56   llm groq-20b: rate limited, skip 81s
-2026-10-17 17:23:12 indexed 935 markets
-2026-10-17 17:25:37   drop[kind] Gameday Injury Expectations: Week 6 (Footballguys) :: other
-2026-10-17 17:33:14 indexed 935 markets
-2026-10-17 17:33:18 NEWS [ESPN 0m] Newcastle United confirmed lineup vs Aston Villa: Jacob Murphy ruled out of starting XI [eng.1]
-2026-10-17 17:33:18   skip Yes :: Will Aston Villa FC win on 2026-10-17? (low conf 0.6)
-2026-10-17 17:33:18   llm groq-120b: rate limited, skip 261s
-2026-10-17 17:33:19   drop[side] Aston Villa confirmed lineup vs Newcastle United: Pau Torres, Ross Barkley, John McGinn, I (ESPN) :: Will Aston Villa FC win on 2026-10-17? -> Yes vs fact ruled_out: Pau Torres (Aston Villa, soccer), bad for Aston Villa. 
-2026-10-17 17:33:19   llm groq-20b: rate limited, skip 116s
-2026-10-17 17:39:32   drop[not-key] Bears Injury Report: Edwards, Elliott, Monangai, Odeyingbo Out; Caleb Williams Questionabl (On Tap Sports Net) :: J.J. Edwards: Edwards listed as out in Bears injury report
-2026-10-17 17:41:57   llm groq-120b: rate limited, skip 26s
-2026-10-17 17:41:57   drop[team-not-named] APC reinstates suspended Jigawa federal lawmaker (Daily Post Nigeria) :: All Progressives Congress
-2026-10-17 17:43:13 indexed 936 markets
-2026-10-17 17:45:20   drop[kind] Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says reut.rs/4 (Reuters) :: other
-2026-10-17 17:46:27   llm groq-120b: rate limited, skip 47s
-2026-10-17 17:46:27   drop[1-source] Falcons vs. Bears final injury report: C.J. Henderson will not play in Week 6 (The Falcoholic) :: C.J. Henderson, wait 2nd source
-2026-10-17 17:50:32   llm groq-120b: rate limited, skip 4s
-2026-10-17 17:50:32   drop[side] Bowen Byram (D, Chicago Blackhawks) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Stars vs. Blackhawks -> Blackhawks vs fact ruled_out: Bowen Byram (Chicago Blackhawks, nhl), bad for Chicago Blackhawks.
-2026-10-17 17:51:16   llm groq-120b: rate limited, skip 48s
-2026-10-17 17:51:17   drop[kind] NFL Network Analyst Blasted Over Jalen Hurts Injury Claim (TotalProSports) :: other
-2026-10-17 17:53:01 [pengwin]   book error Will FC Schalke 04 win on 2026-10-17?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=17937493591448975809727208474835021212303284566515405809616719903671562422215
-2026-10-17 17:53:14 indexed 929 markets
-2026-10-17 17:53:29   llm groq-120b: rate limited, skip 285s
-2026-10-17 17:53:29 NEWS [ESPN 0m] Bayern Munich confirmed lineup vs RB Leipzig: Jonathan Tah, Tom Bischof, Lennart Karl ruled out of starting XI [ger.1]
-2026-10-17 17:53:29   skip Yes :: Will RB Leipzig win on 2026-10-17? (low conf 0.6)
-2026-10-17 17:53:29   llm groq-20b: rate limited, skip 350s
-2026-10-17 18:03:14 indexed 966 markets
-2026-10-17 18:03:29 [pengwin]   SELL No @ 1.000 (resolved) pnl +4.49 :: Will FC Schalke 04 win on 2026-10-17?
-2026-10-17 18:03:47 NEWS [ESPN 12m] Jake Sanderson (D, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL]
-2026-10-17 18:03:47   BUY Flyers @ 0.410 x24.4 ($10.00) :: Senators vs. Flyers
-2026-10-17 18:04:53   llm groq-120b: rate limited, skip 251s
-2026-10-17 18:04:54   drop[unconfirmed] Xabi Alonso reveals the latest developments on Martinez's "serious" injury (Goal.com) :: serious injury
-2026-10-17 18:07:13   drop[kind] Savion Williams questionable for Week 6 (USA Today) :: other
-2026-10-17 18:09:40   drop[1-source] Magyar Approved the Transit of Ukrainian Grain Through Hungary — Reuters (UA.NEWS) :: Hungary, wait 2nd source
-2026-10-17 18:11:49   llm groq-120b: rate limited, skip 99s
-2026-10-17 18:11:49   drop[unconfirmed] Dominik Szoboszlai suffers injury recurrence as heavy Liverpool, Hungary minutes load begi (www.sportingnews.com) :: injury recurrence
-2026-10-17 18:11:49   llm groq-20b: rate limited, skip 139s
-2026-10-17 18:13:16 indexed 966 markets
-2026-10-17 18:14:06   llm groq-120b: rate limited, skip 16s
-2026-10-17 18:21:02   drop[kind] Channing ‘Stacks’ Lorenzo reportedly hospitalized after injury at NXT live event (POST Wrestling) :: other
-2026-10-17 18:21:29   llm groq-120b: rate limited, skip 50s
-2026-10-17 18:21:30   drop[verify] Will Mallory (TE, Indianapolis Colts) cleared to play: Injured Reserve -> Active [NFL] (ESPN) :: player not key
-2026-10-17 18:23:17 indexed 965 markets
-2026-10-17 18:23:19   drop[kind] Trio of Republicans bashes Trump’s sanctions pullback politi.co/4hSE0p7 (Politico) :: other
-2026-10-17 18:23:23   llm groq-120b: rate limited, skip 283s
-2026-10-17 18:23:23   drop[1-source] Alisson Santos suffers new injury after returning to… (YSscores) :: Alisson Santos, wait 2nd source
-2026-10-17 18:25:42   llm groq-20b: rate limited, skip 137s
-2026-10-17 18:32:06 [pengwin]   book error Will SV 07 Elversberg win on 2026-10-17?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=115295378138929144023069760522597251763149917224874767299478611368767879708714
-2026-10-17 18:32:43   drop[kind] Pat Freiermuth Injury: Dealing with calf injury, iffy for Week 6 (RotoWire) :: other
-2026-10-17 18:33:18 indexed 945 markets
-2026-10-17 18:37:29   drop[kind] Steelers say DK Metcalf will play, Pat Freiermuth is questionable with calf injury (NBC Sports) :: other
-2026-10-17 18:37:29   llm groq-120b: rate limited, skip 76s
-2026-10-17 18:37:30   drop[1-source] Inter Confirms Lautaro Martinez Hamstring Injury Before Milan Derby (SuaraGarut.ID) :: Lautaro Martinez, wait 2nd source
-2026-10-17 18:39:39   drop[1-source] Steelers Announce Surprising Pat Freiermuth Injury Before Bucs Game (Sports Illustrated) :: Pat Freiermuth, wait 2nd source
-2026-10-17 18:39:39   llm groq-120b: rate limited, skip 221s
-2026-10-17 18:39:39   drop[unconfirmed] Pat Freiermuth Dealing with calf injury, iffy for Week 6 (Fantasy Footballers Podcast) :: calf injury
-2026-10-17 18:42:11 [pengwin]   SELL No @ 0.000 (resolved) pnl -10.00 :: Will SV 07 Elversberg win on 2026-10-17?
-2026-10-17 18:43:17 indexed 935 markets
-2026-10-17 18:46:49   drop[kind] Steelers Suffer Another Major Offensive Injury (Steelers Now) :: other
-2026-10-17 18:48:55   drop[1-source] LSU DE Princewill Umanmielen Suffers Injury vs Mississippi State (Sports Illustrated) :: Princewill Umanmielen, wait 2nd source
-2026-10-17 18:48:55   llm groq-120b: rate limited, skip 260s
-2026-10-17 18:48:56   drop[kind] Julesburg, CO Dog Mauling Injury Elevates Case to Felony Offense (Hoodline) :: other
-2026-10-17 18:53:20 indexed 939 markets
-2026-10-17 18:53:22   drop[not-key] Javontae Jean-Baptiste (LB, Washington Commanders) ruled out: Questionable -> Out [NFL] (ESPN) :: Javontae Jean-Baptiste: ruled out due to injury
-2026-10-17 18:53:22   llm groq-120b: rate limited, skip 236s
-2026-10-17 18:53:23   drop[not-key] Marcus Mariota (QB, Washington Commanders) ruled out: Doubtful -> Out [NFL] (ESPN) :: Marcus Mariota: injury
-2026-10-17 18:53:24   drop[not-key] Charles Omenihu (DE, Washington Commanders) ruled out: Questionable -> Out [NFL] (ESPN) :: Charles Omenihu: injury
-2026-10-17 18:53:24   drop[not-key] Jacory Croskey-Merritt (RB, Washington Commanders) ruled out: Questionable -> Out [NFL] (ESPN) :: Jacory Croskey-Merritt: groin injury
-2026-10-17 18:58:25   drop[not-key] Ross Johnston (LW, St. Louis Blues) ruled out: healthy -> Out [NHL] (ESPN) :: Ross Johnston: ruled out due to injury
-2026-10-17 19:00:25   llm groq-120b: rate limited, skip 153s
-2026-10-17 19:00:25   drop[not-key] Jacory Croskey-Merritt Ruled out for Monday night (Fantasy Footballers Podcast) :: Jacory Croskey-Merritt: injury
-2026-10-17 19:00:25   llm groq-20b: rate limited, skip 47s
-2026-10-17 19:03:25 indexed 945 markets
-2026-10-17 19:07:11 shift over, state saved
+2026-10-17 19:07:25 === start mode=paper pid=2315 ===
+2026-10-17 19:07:25 brain=llm cash=84.02 open=0
+2026-10-17 19:07:25 resuming with 7937 known news items
+2026-10-17 19:07:51 indexed 934 markets
+2026-10-17 19:08:06   llm groq-120b: rate limited, skip 116s
+2026-10-17 19:08:06   drop[verify] Will Mallory (TE, Indianapolis Colts) cleared to play: Injured Reserve -> Active [NFL] (ESPN) :: player not key
+2026-10-17 19:08:07   drop[not-key] Javontae Jean-Baptiste (LB, Washington Commanders) ruled out: Questionable -> Out [NFL] (ESPN) :: Javontae Jean-Baptiste: injury
+2026-10-17 19:08:07   llm groq-20b: rate limited, skip 497s
+2026-10-17 19:08:07 NEWS [ESPN 0m] Bowen Byram (D, Chicago Blackhawks) ruled out: Day-To-Day -> Out [NHL]
+2026-10-17 19:08:07   skip Stars :: Stars vs. Blackhawks (rules fallback, LLM down (not traded))
+2026-10-17 19:08:07 NEWS [ESPN 0m] Jake Sanderson (D, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL]
+2026-10-17 19:08:07   skip Flyers :: Senators vs. Flyers (rules fallback, LLM down (not traded))
+2026-10-17 19:08:07 NEWS [ESPN 0m] Cam York (D, Philadelphia Flyers) ruled out: Day-To-Day -> Out [NHL]
+2026-10-17 19:08:07   skip Senators :: Senators vs. Flyers (rules fallback, LLM down (not traded))
+2026-10-17 19:08:07 NEWS [ESPN 13m] Ross Johnston (LW, St. Louis Blues) ruled out: healthy -> Out [NHL]
+2026-10-17 19:08:07   skip Predators :: Blues vs. Predators (rules fallback, LLM down (not traded))
+2026-10-17 19:08:07 NEWS [ESPN 0m] John Tavares (C, Toronto Maple Leafs) ruled out: Day-To-Day -> Out [NHL]
+2026-10-17 19:08:07   skip Islanders :: Islanders vs. Maple Leafs (rules fallback, LLM down (not traded))
+2026-10-17 19:08:07 NEWS [Ian Rapoport 161m] The Patriots will likely activate WR AJ Brown off Injured Reserve to play against the Jets on Sunday, sources say. Brown returned to practice this week after a stint on IR with a high-ankle sprain and now an anticipated return to the field.
+2026-10-17 19:08:07   skip Jets :: Jets vs. Patriots (rules fallback, LLM down (not traded))
+2026-10-17 19:08:07   skip Husted :: Ohio Senate favorite on November 2? (rules fallback, LLM down (not traded))
+2026-10-17 19:11:02 [pengwin]   book error Will FC Schalke 04 win on 2026-10-17?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=17937493591448975809727208474835021212303284566515405809616719903671562422215
+2026-10-17 19:11:02 [pengwin]   SELL No @ 1.000 (resolved) pnl +4.49 :: Will FC Schalke 04 win on 2026-10-17?
+2026-10-17 19:11:03 [pengwin]   book error Will SV 07 Elversberg win on 2026-10-17?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=115295378138929144023069760522597251763149917224874767299478611368767879708714
+2026-10-17 19:11:03 [pengwin]   SELL No @ 0.000 (resolved) pnl -10.00 :: Will SV 07 Elversberg win on 2026-10-17?
