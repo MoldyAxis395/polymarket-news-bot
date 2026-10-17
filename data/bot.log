@@ -13553,3 +13553,20 @@
 2026-10-18 00:09:03 indexed 911 markets
 2026-10-18 00:09:09   llm groq-20b: rate limited, skip 232s
 2026-10-18 00:11:38 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-18 00:13:43   llm groq-120b: rate limited, skip 265s
+2026-10-18 00:13:43   drop[1-source] Enrique announces injury to Paris Saint-Germain star ahead of Barcelona clash (Goal.com) :: Paris Saint-Germain, wait 2nd source
+2026-10-18 00:13:43   llm groq-20b: rate limited, skip 184s
+2026-10-18 00:15:27 [pengwin]   book error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-18 00:15:47 [pengwin]   settle error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-18 00:18:29 indexed 913 markets
+2026-10-18 00:25:38   drop[no-pick] What to Know About Ohio State’s Backup Quarterback After Julian Sayin Injury (Sports Illustrated) :: short
+2026-10-18 00:25:39   drop[1-source] Enrique announces injury to Paris Saint-Germain star before Barcelona clash (Goal.com) :: Kylian Mbappé, wait 2nd source
+2026-10-18 00:29:06 indexed 908 markets
+2026-10-18 00:29:57   drop[1-source] Taylorsville Police Officer Suspended Over Traffic Stop Video (Hoodline) :: Taylorsville Police Department, wait 2nd source
+2026-10-18 00:32:29   drop[1-source] Alabama football news: Star CB will not return after sustaining lower-body injury vs. Tenn (ClutchPoints) :: Alabama Crimson Tide, wait 2nd source
+2026-10-18 00:34:31   drop[1-source] Cooper Flanagan OUT for Notre Dame vs. BYU | Pregame injury report (On3) :: Cooper Flanagan, wait 2nd source
+2026-10-18 00:36:49   llm groq-120b: rate limited, skip 1s
+2026-10-18 00:36:49   drop[no-pick] Val Chmerkovskiy suspended from 'Dancing With the Stars' after social media post (fox61.com) :: short
+2026-10-18 00:36:50   drop[unconfirmed] Bears' Caleb Williams Makes Official Return from Injury in Week 6 vs Falcons (Sports Illustrated) :: return from injury
+2026-10-18 00:39:06 indexed 904 markets
+2026-10-18 00:42:16 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
