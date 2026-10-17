@@ -13505,3 +13505,28 @@
 2026-10-17 23:10:29   drop[no-pick] He’s back: The Bears are planning to start QB Caleb Williams on Sunday, sources tell NFL N (Ian Rapoport) :: None
 2026-10-17 23:11:26 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-17 23:12:15   llm groq-20b: rate limited, skip 182s
+2026-10-17 23:15:16 [pengwin]   book error ES Troyes AC vs. Racing Club de Lens: Both Teams t: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-17 23:15:36 [pengwin]   settle error ES Troyes AC vs. Racing Club de Lens: Both Teams t: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-17 23:17:37 [pengwin]   book error ES Troyes AC vs. Racing Club de Lens: Both Teams t: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=49644456582283146650622761739550873010247910287171364690568766251447744014356
+2026-10-17 23:18:23 indexed 923 markets
+2026-10-17 23:19:12   drop[1-source] Texas EDGE Colin Simmons suffered lower-leg injury vs. Florida (Burnt Orange Nation) :: Colin Simmons, wait 2nd source
+2026-10-17 23:19:12   llm groq-120b: rate limited, skip 124s
+2026-10-17 23:19:13   drop[1-source] Commanders' Final Injury Report: Four Out, Nine Questionable vs. Unbeaten 49ers (Sports Illustrated) :: Washington Commanders, wait 2nd source
+2026-10-17 23:21:28   drop[not-key] Packers activate Savion Williams off the injured reserve list, others added to IR list (WLUK) :: Savion Williams: Williams activated from IR, adding depth
+2026-10-17 23:23:46   llm groq-120b: rate limited, skip 77s
+2026-10-17 23:23:46   drop[1-source] Emiliano Martinez Set For Surgery As Extent Of Chelsea Injury Revealed (roundtable.io) :: Emiliano Martinez, wait 2nd source
+2026-10-17 23:23:47   drop[1-source] Borussia Dortmund left sweating after attacker suffers ankle injury against Union Berlin (now.arsenal) :: Borussia Dortmund, wait 2nd source
+2026-10-17 23:26:01 [pengwin]   settle error ES Troyes AC vs. Racing Club de Lens: Both Teams t: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-17 23:28:25 indexed 919 markets
+2026-10-17 23:28:29   drop[1-source] Jake Davis starts for Illinois basketball after ankle injury scare (Alton Telegraph) :: Jake Davis, wait 2nd source
+2026-10-17 23:28:29   llm groq-120b: rate limited, skip 132s
+2026-10-17 23:28:29   llm groq-20b: rate limited, skip 110s
+2026-10-17 23:33:05   llm groq-120b: rate limited, skip 138s
+2026-10-17 23:33:05   drop[no-pick] Ohio State QB Julian Sayin out 'several weeks' after suffering injury vs. Indiana (Sporting News) :: short
+2026-10-17 23:35:33   drop[team-not-named] Suspended! Val Chmerkovskiy OFF ‘DWTS’ a Week Over ‘Inappropriate’ Post (Extra) :: Dancing with the Stars
+2026-10-17 23:36:06 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +5.87 :: ES Troyes AC vs. Racing Club de Lens: Both Teams to Score
+2026-10-17 23:37:38   llm groq-120b: rate limited, skip 102s
+2026-10-17 23:37:38   llm groq-20b: rate limited, skip 234s
+2026-10-17 23:38:26 indexed 918 markets
+2026-10-17 23:41:33 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-17 23:42:19   drop[1-source] Photos: Jeremiah Smith dazzles with TD, Julian Sayin leaves with injury, Buckeyes win thri (247Sports) :: Ohio State Buckeyes, wait 2nd source
