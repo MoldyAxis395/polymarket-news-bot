@@ -13397,3 +13397,24 @@
 2026-10-17 20:39:00   drop[team-not-named] ‘Musk’ TikTok Account Permanently Suspended from Platform Ahead of Documentary’s Wide Rele (Variety) :: Tesla, Inc.
 2026-10-17 20:39:04 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-17 20:41:08   drop[kind] Dan Burn Fights to Regain Newcastle Starting Role After Injury (SuaraGarut.ID) :: other
+2026-10-17 20:45:46   drop[1-source] Texas EDGE Colin Simmons helped off field after suffering apparent lower leg injury (On3) :: Colin Simmons, wait 2nd source
+2026-10-17 20:46:31 feed aljazeera error x1: 403 Client Error: Forbidden for url: https://www.aljazeera.com/xml/rss/all.xml
+2026-10-17 20:48:47 indexed 936 markets
+2026-10-17 20:51:08   llm groq-120b: rate limited, skip 892s
+2026-10-17 20:51:08   drop[kind] College Football Player Tyler Ulrich Dies After Traumatic In-Game Injury (Sports Illustrated) :: other
+2026-10-17 20:51:09   drop[unconfirmed] Cincinnati DT’s injury gets worse thanks to injury cart fiasco (Larry Brown Sports) :: injury worsened
+2026-10-17 20:55:49 NEWS [Dallas News 4m] Texas' star edge rusher Colin Simmons leaves game vs. Florida with leg injury
+2026-10-17 20:55:49   skip Packers :: Cowboys vs. Packers (rss sport (measure only))
+2026-10-17 20:55:50   drop[team-not-named] Colin Simmons swarmed by medical staff after going down with injury vs. Florida (Hook'em Headlines) :: Washington State Cougars
+2026-10-17 20:55:50   llm groq-20b: rate limited, skip 108s
+2026-10-17 20:58:13 indexed 935 markets
+2026-10-17 20:58:25   llm groq-20b: rate limited, skip 28s
+2026-10-17 21:01:37   drop[team-not-named] Rams' faltering run defense catches break with Cards' Jeremiyah Love ruled out (Ramblin' Fan) :: Arizona Cardinals
+2026-10-17 21:01:37   llm groq-20b: rate limited, skip 59s
+2026-10-17 21:03:38   drop[kind] Alabama football live chat: Talk Tennessee game with AL.com beat writers (AL.com) :: other
+2026-10-17 21:03:38   llm groq-20b: rate limited, skip 70s
+2026-10-17 21:05:55   llm groq-20b: rate limited, skip 61s
+2026-10-17 21:06:23   drop[not-key] DeMarvion Overshown (LB, Dallas Cowboys) ruled out: Questionable -> Out [NFL] (ESPN) :: DeMarvion Overshown: ruled out for upcoming game
+2026-10-17 21:08:49 indexed 927 markets
+2026-10-17 21:09:15 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-17 21:11:22   drop[no-pick] Injury Cart Accidentally Slams Cincinnati Football Player Into Wall (The Spun) :: short
