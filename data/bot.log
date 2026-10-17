@@ -13369,3 +13369,41 @@
 2026-10-17 10:11:53   llm groq-120b: rate limited, skip 896s
 2026-10-17 10:11:53 [pengwin] AMBURGO-STOCCARDA: no LLM answer (try 11)
 2026-10-17 10:11:55 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 11)
+2026-10-17 10:12:26 [pengwin] Betis-Barcellona: no Polymarket event (try 13)
+2026-10-17 10:12:29 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 12)
+2026-10-17 10:12:31 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 11)
+2026-10-17 10:12:34 [pengwin] BOLOGNA-INTER: no Polymarket event (try 11)
+2026-10-17 10:17:50 indexed 908 markets
+2026-10-17 10:21:47   drop[not-key] Odapada Tahasildar Manoj Kumar Majhi Suspended Over Disciplinary Grounds (Ommcom News) :: Manoj Kumar Majhi: disciplinary suspension
+2026-10-17 10:24:12   llm groq-20b: rate limited, skip 50s
+2026-10-17 10:26:22   llm groq-20b: rate limited, skip 268s
+2026-10-17 10:27:52 indexed 910 markets
+2026-10-17 10:35:35   drop[kind] Xabi Alonso reveals new addition to Chelsea’s six-man leadership group after Reece James i (The Chelsea Chronicle) :: other
+2026-10-17 10:37:51 indexed 905 markets
+2026-10-17 10:39:02 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 114)
+2026-10-17 10:39:06 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 114)
+2026-10-17 10:39:08 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 114)
+2026-10-17 10:39:11 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 113)
+2026-10-17 10:39:14 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 113)
+2026-10-17 10:39:17 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 114)
+2026-10-17 10:39:20 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 114)
+2026-10-17 10:39:22 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 114)
+2026-10-17 10:39:25 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 114)
+2026-10-17 10:39:28 [pengwin] MONACO-TOLOSA: no Polymarket event (try 114)
+2026-10-17 10:39:31 [pengwin] BREST-ANGERS: no Polymarket event (try 114)
+2026-10-17 10:39:33 [pengwin] PSG-LE MANS: no Polymarket event (try 114)
+2026-10-17 10:39:35   llm groq-120b: rate limited, skip 121s
+2026-10-17 10:39:36 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 113)
+2026-10-17 10:39:38 [pengwin] RENNES-AUXERRE: no Polymarket event (try 114)
+2026-10-17 10:39:41 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 114)
+2026-10-17 10:39:43 [pengwin] AUXERRE-BREST: no Polymarket event (try 114)
+2026-10-17 10:40:34 [pengwin] LAZIO-INTER: no Polymarket event (try 114)
+2026-10-17 10:40:36 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 114)
+2026-10-17 10:40:39 [pengwin] INTER-COMO: no Polymarket event (try 114)
+2026-10-17 10:40:41 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 113)
+2026-10-17 10:40:43 [pengwin] COMO-INTER: no Polymarket event (try 114)
+2026-10-17 10:40:46 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 114)
+2026-10-17 10:40:48 [pengwin] NAPOLI-COMO: no Polymarket event (try 114)
+2026-10-17 10:40:51 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 114)
+2026-10-17 10:41:19 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 114)
+2026-10-17 10:42:04 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 12)
