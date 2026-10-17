@@ -13570,16 +13570,15 @@
 2026-10-18 00:36:50   drop[unconfirmed] Bears' Caleb Williams Makes Official Return from Injury in Week 6 vs Falcons (Sports Illustrated) :: return from injury
 2026-10-18 00:39:06 indexed 904 markets
 2026-10-18 00:42:16 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-18 00:43:47   drop[team-not-named] Julian Sayin out for 'several weeks' after injury in win over Indiana (10TV) :: Purdue Boilermakers men's basketball
-2026-10-18 00:43:48   drop[kind] Jeff Lebby gives the latest on Kamario Taylor's injury after Mississippi State vs LSU (The Clarion-Ledger) :: other
-2026-10-18 00:43:48   llm groq-120b: rate limited, skip 286s
-2026-10-18 00:43:48   drop[kind] Suspended silver nanopore array detects pesticide traces with record sensitivity (Bioengineer.org) :: other
-2026-10-18 00:46:04   drop[1-source] Jeff Lebby on Kamario Taylor's injury after Mississippi State vs LSU (The Clarion-Ledger) :: Kamario Taylor, wait 2nd source
-2026-10-18 00:49:07 indexed 908 markets
-2026-10-18 00:49:24   llm groq-120b: rate limited, skip 325s
-2026-10-18 00:49:25   drop[no-pick] Ohio State Quarterback Julian Sayin Set To Miss Time Due to Injury in Indiana Game (Sports Illustrated) :: short
-2026-10-18 00:51:11   drop[side] Owen Tippett (RW, Philadelphia Flyers) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Senators vs. Flyers -> Flyers vs fact ruled_out: Owen Tippett (Philadelphia Flyers, nhl), bad for Philadelphia Flyers. i
-2026-10-18 00:51:29   drop[not-key] Oregon Ducks vs. Ohio State Clash Takes Major Turn Amid Julian Sayin Injury (Sports Illustrated) :: Julian Sayin: injury
-2026-10-18 00:51:37   llm groq-20b: rate limited, skip 210s
-2026-10-18 00:51:37   drop[no-pick] Orlando City SC confirmed lineup vs D.C. United: Vinícius Nogueira, Harvey Sarajian ruled  (ESPN) :: None
-2026-10-18 00:52:26 shift over, state saved
+2026-10-18 00:52:44 === start mode=paper pid=2341 ===
+2026-10-18 00:52:44 brain=llm cash=84.02 open=0
+2026-10-18 00:52:44 resuming with 6404 known news items
+2026-10-18 00:53:09 indexed 903 markets
+2026-10-18 00:53:19   llm groq-120b: rate limited, skip 80s
+2026-10-18 00:53:19   llm groq-20b: rate limited, skip 80s
+2026-10-18 00:53:19 NEWS [ESPN 10m] Owen Tippett (RW, Philadelphia Flyers) ruled out: Day-To-Day -> Out [NHL]
+2026-10-18 00:53:19   skip Senators :: Senators vs. Flyers (rules fallback, LLM down (not traded))
+2026-10-18 00:55:13   llm groq-120b: rate limited, skip 248s
+2026-10-18 00:55:13   llm groq-20b: rate limited, skip 46s
+2026-10-18 00:55:13   drop[no-pick] New York City FC confirmed lineup vs LAFC: Nico Cavallo, Alonso Martínez, Bénie Traoré rul (ESPN) :: None
+2026-10-18 00:57:14   llm groq-20b: rate limited, skip 12s
