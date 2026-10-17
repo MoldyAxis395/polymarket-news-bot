@@ -13623,3 +13623,13 @@
 2026-10-17 13:11:43 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 119)
 2026-10-17 13:11:46 [pengwin] NAPOLI-COMO: no Polymarket event (try 119)
 2026-10-17 13:11:48 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 119)
+2026-10-17 13:12:16 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 119)
+2026-10-17 13:13:01 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 17)
+2026-10-17 13:13:04   llm groq-120b: rate limited, skip 721s
+2026-10-17 13:13:04 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no LLM answer (try 17)
+2026-10-17 13:13:35   llm groq-20b: rate limited, skip 927s
+2026-10-17 13:13:35 [pengwin] Real Madrid-Siviglia: no LLM answer (try 18)
+2026-10-17 13:13:37 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 17)
+2026-10-17 13:13:40 [pengwin] BOLOGNA-INTER: no Polymarket event (try 17)
+2026-10-17 13:18:06 indexed 907 markets
+2026-10-17 13:21:52 shift over, state saved
