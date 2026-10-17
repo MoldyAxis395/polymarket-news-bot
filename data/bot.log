@@ -12950,3 +12950,58 @@
 2026-10-17 02:56:17 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 3)
 2026-10-17 02:56:20 [pengwin] MONCHENGLADBACH-HOFFENHEIM: no LLM answer (try 3)
 2026-10-17 02:56:23 [pengwin] MANCHESTER CITY-IPSWICH TOWN: no Polymarket event (try 5)
+2026-10-17 02:56:54 [pengwin] Betis-Barcellona: no Polymarket event (try 5)
+2026-10-17 02:56:57 [pengwin] Celta Vigo-Alaves: no LLM answer (try 4)
+2026-10-17 02:57:00 [pengwin] Malaga-Real Sociedad: no LLM answer (try 4)
+2026-10-17 02:57:02 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 4)
+2026-10-17 02:57:05 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 3)
+2026-10-17 02:57:07 [pengwin] VENEZIA-NAPOLI: no LLM answer (try 3)
+2026-10-17 02:57:10 [pengwin] BOLOGNA-INTER: no Polymarket event (try 3)
+2026-10-17 02:57:13 [pengwin] ROMA-GENOA: no LLM answer (try 3)
+2026-10-17 02:57:15 [pengwin] UDINESE-LECCE: no LLM answer (try 3)
+2026-10-17 02:57:18 [pengwin] FIORENTINA-COMO: no LLM answer (try 3)
+2026-10-17 02:57:21 [pengwin] MILAN-ATALANTA: no LLM answer (try 3)
+2026-10-17 02:57:23 [pengwin] JUVENTUS-LAZIO: no LLM answer (try 3)
+2026-10-17 02:57:25 [pengwin] MONZA-CAGLIARI: no LLM answer (try 3)
+2026-10-17 02:57:28 [pengwin] PARMA-TORINO: no LLM answer (try 3)
+2026-10-17 02:57:31 [pengwin] Getafe-Vallecano: no LLM answer (try 4)
+2026-10-17 02:57:53 NEWS [ESPN 6m] Julian Strawther (G, Denver Nuggets) ruled out: Day-To-Day -> Out [NBA]
+2026-10-17 02:57:53   skip Lakers :: Nuggets vs. Lakers (rules fallback, LLM down (not traded))
+2026-10-17 03:02:23 indexed 946 markets
+2026-10-17 03:03:14   drop[not-key] Breaking: Chinakhov Out with Injury (Pittsburgh Hockey Now) :: Alexei Chinakhov: injury
+2026-10-17 03:07:07   drop[kind] Game 4 of the ALCS has been postponed. It will be played Saturday at 8 p.m. ET. Game 5 has (Jeff Passan) :: other
+2026-10-17 03:12:22 indexed 939 markets
+2026-10-17 03:12:27   drop[kind] Skiatook Police Department looking for missing man with history of traumatic brain injury (KOKI FOX 23) :: other
+2026-10-17 03:21:42   drop[1-source] BREAKING: WWE Forced to Abruptly End Grudge Match After Veteran Suddenly Suffers Injury; M (Sportskeeda) :: World Wrestling Entertainment (WWE), wait 2nd source
+2026-10-17 03:22:23 indexed 945 markets
+2026-10-17 03:23:57 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 106)
+2026-10-17 03:24:00 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 106)
+2026-10-17 03:24:01   drop[team-not-named] Steelers WR DK Metcalf hit with surprise injury designation for Week 6 (Steelers Wire) :: Seattle Seahawks
+2026-10-17 03:24:02 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 106)
+2026-10-17 03:24:05   llm groq-120b: rate limited, skip 13s
+2026-10-17 03:24:05 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 105)
+2026-10-17 03:24:08 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 105)
+2026-10-17 03:24:11 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 106)
+2026-10-17 03:24:14 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 106)
+2026-10-17 03:24:16 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 106)
+2026-10-17 03:24:19   llm groq-120b: rate limited, skip 3s
+2026-10-17 03:24:19 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 106)
+2026-10-17 03:24:22 [pengwin] MONACO-TOLOSA: no Polymarket event (try 106)
+2026-10-17 03:24:24 [pengwin] BREST-ANGERS: no Polymarket event (try 106)
+2026-10-17 03:24:27 [pengwin] PSG-LE MANS: no Polymarket event (try 106)
+2026-10-17 03:24:29   llm groq-120b: rate limited, skip 102s
+2026-10-17 03:24:29 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 105)
+2026-10-17 03:24:32 [pengwin] RENNES-AUXERRE: no Polymarket event (try 106)
+2026-10-17 03:24:35 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 106)
+2026-10-17 03:24:37 [pengwin] AUXERRE-BREST: no Polymarket event (try 106)
+2026-10-17 03:25:27 [pengwin] LAZIO-INTER: no Polymarket event (try 106)
+2026-10-17 03:25:29 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 106)
+2026-10-17 03:25:32 [pengwin] INTER-COMO: no Polymarket event (try 106)
+2026-10-17 03:25:34 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 105)
+2026-10-17 03:25:36   llm groq-20b: rate limited, skip 261s
+2026-10-17 03:25:36 [pengwin] COMO-INTER: no Polymarket event (try 106)
+2026-10-17 03:25:38 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 106)
+2026-10-17 03:25:40 [pengwin] NAPOLI-COMO: no Polymarket event (try 106)
+2026-10-17 03:25:43 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 106)
+2026-10-17 03:26:12 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 106)
+2026-10-17 03:26:32   llm groq-120b: rate limited, skip 296s
