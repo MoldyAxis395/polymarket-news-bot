@@ -13439,3 +13439,28 @@
 2026-10-17 21:36:47   drop[unconfirmed] Dream forward Allisha Gray returns from finger injury, starts WNBA Finals Game 1 against V (Gwinnett Daily Post) :: injury resolved
 2026-10-17 21:38:18 indexed 938 markets
 2026-10-17 21:39:27 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-17 21:43:16 [pengwin]   book error ES Troyes AC vs. Racing Club de Lens: Both Teams t: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-17 21:43:36 [pengwin]   settle error ES Troyes AC vs. Racing Club de Lens: Both Teams t: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-17 21:46:04   drop[no-pick] Julian Sayin injury: Ohio State QB leaves game vs. Indiana (SB Nation) :: short
+2026-10-17 21:46:04   llm groq-120b: rate limited, skip 242s
+2026-10-17 21:46:05   drop[not-key] Ohio State's Julian Sayin exits game vs. Indiana with gruesome arm injury (Sporting News) :: Julian Sayin: arm injury
+2026-10-17 21:46:28   llm groq-20b: rate limited, skip 21s
+2026-10-17 21:46:28   drop[no-pick] Minnesota United FC confirmed lineup vs St. Louis CITY SC: Michael Boxall, Owen Gene, Tomá (ESPN) :: None
+2026-10-17 21:46:44 NEWS [ESPN 2m] Marco Rossi (C, Vancouver Canucks) ruled out: healthy -> Out [NHL]
+2026-10-17 21:46:44   skip Lightning :: Canucks vs. Lightning (rules fallback, LLM down (not traded))
+2026-10-17 21:48:17 indexed 941 markets
+2026-10-17 21:48:33   drop[team-not-named] Great News on the Stephanie Vaquer & Rusev Injury Front (Sports Illustrated) :: WWE
+2026-10-17 21:48:33   llm groq-20b: rate limited, skip 153s
+2026-10-17 21:50:43   drop[kind] Erling Haaland injury scare for Man City after 3-2 win against Ipswich (OneFootball) :: other
+2026-10-17 21:50:43   llm groq-120b: rate limited, skip 167s
+2026-10-17 21:53:01   drop[team-not-named] 🏥Injury confirmed: 'Dibu' Martínez will need surgery (OneFootball) :: Atlético Madrid
+2026-10-17 21:53:01   llm groq-20b: rate limited, skip 239s
+2026-10-17 21:55:19   drop[kind] Maresca plays down Haaland injury fears after City star limps off (ESPN La Crosse 105.5) :: other
+2026-10-17 21:58:53 indexed 940 markets
+2026-10-17 22:02:00   drop[kind] Family seeks donations for mother of two who suffered brain injury in softball game (San Antonio Express-News) :: other
+2026-10-17 22:02:00   llm groq-120b: rate limited, skip 167s
+2026-10-17 22:02:01   drop[team-not-named] Niger State Miners’ Deaths: Suspended NSCDC Commandant Admits ‘Costly Mistake’, Apologises (Channels Television) :: National Security and Civil Defence Corps
+2026-10-17 22:04:29   drop[1-source] Eagles QB Jalen Hurts ruled out for Week 6 after blood clot found in his leg, reportedly w (Yahoo) :: Jalen Hurts, wait 2nd source
+2026-10-17 22:04:29   llm groq-20b: rate limited, skip 62s
+2026-10-17 22:08:54 indexed 923 markets
+2026-10-17 22:10:14 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
