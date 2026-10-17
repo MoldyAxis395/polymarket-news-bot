@@ -13581,3 +13581,45 @@
 2026-10-17 12:41:43   llm groq-20b: rate limited, skip 58s
 2026-10-17 12:41:43 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 118)
 2026-10-17 12:42:11 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 118)
+2026-10-17 12:42:55 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 16)
+2026-10-17 12:42:58   llm groq-120b: rate limited, skip 836s
+2026-10-17 12:42:58   llm groq-20b: rate limited, skip 722s
+2026-10-17 12:42:58 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no LLM answer (try 16)
+2026-10-17 12:43:29 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 17)
+2026-10-17 12:43:32 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 16)
+2026-10-17 12:43:34 [pengwin] BOLOGNA-INTER: no Polymarket event (try 16)
+2026-10-17 12:48:02 indexed 919 markets
+2026-10-17 12:58:06 indexed 920 markets
+2026-10-17 12:58:56   drop[1-source] Tonga’s World Cup Bid Begins with Injury to Latu Fainu (SSBCrack) :: Latu Fainu, wait 2nd source
+2026-10-17 13:00:56 NEWS [ESPN 0m] Atlético Madrid confirmed lineup vs Espanyol: Alejandro Grimaldo, Marcos Llorente, Johnny Cardoso, Álex Baena, Julián Álvarez ruled out of starting XI [esp.1]
+2026-10-17 13:00:56   skip No :: Will Club Atlético de Madrid win on 2026-10-17? (low conf 0.6)
+2026-10-17 13:02:59   llm groq-120b: rate limited, skip 134s
+2026-10-17 13:03:00   drop[kind] Kennedy tries to score one more win for MAHA ahead of midterms politi.co/4it0I6n (Politico) :: other
+2026-10-17 13:03:30   drop[unconfirmed] Bears’ Kyler Gordon earns Ben Johnson stamp of approval amid injury return (ChiCitySports) :: returns from injury
+2026-10-17 13:08:05 indexed 911 markets
+2026-10-17 13:10:03 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 119)
+2026-10-17 13:10:07 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 119)
+2026-10-17 13:10:09 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 119)
+2026-10-17 13:10:12 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 118)
+2026-10-17 13:10:15   llm groq-120b: rate limited, skip 97s
+2026-10-17 13:10:15 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 118)
+2026-10-17 13:10:18 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 119)
+2026-10-17 13:10:21 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 119)
+2026-10-17 13:10:23 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 119)
+2026-10-17 13:10:26 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 119)
+2026-10-17 13:10:28 [pengwin] MONACO-TOLOSA: no Polymarket event (try 119)
+2026-10-17 13:10:31 [pengwin] BREST-ANGERS: no Polymarket event (try 119)
+2026-10-17 13:10:33 [pengwin] PSG-LE MANS: no Polymarket event (try 119)
+2026-10-17 13:10:36   llm groq-20b: rate limited, skip 169s
+2026-10-17 13:10:36 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 118)
+2026-10-17 13:10:38 [pengwin] RENNES-AUXERRE: no Polymarket event (try 119)
+2026-10-17 13:10:41 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 119)
+2026-10-17 13:10:43 [pengwin] AUXERRE-BREST: no Polymarket event (try 119)
+2026-10-17 13:11:33 [pengwin] LAZIO-INTER: no Polymarket event (try 119)
+2026-10-17 13:11:35 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 119)
+2026-10-17 13:11:38 [pengwin] INTER-COMO: no Polymarket event (try 119)
+2026-10-17 13:11:39 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 118)
+2026-10-17 13:11:41 [pengwin] COMO-INTER: no Polymarket event (try 119)
+2026-10-17 13:11:43 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 119)
+2026-10-17 13:11:46 [pengwin] NAPOLI-COMO: no Polymarket event (try 119)
+2026-10-17 13:11:48 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 119)
