@@ -13595,3 +13595,29 @@
 2026-10-18 01:26:19   drop[not-key] Cincinnati’s Josh Hough gets a painful surprise when the injury cart backs into a wall (MARCA) :: Josh Hough: injury from cart accident
 2026-10-18 01:26:19   llm groq-120b: rate limited, skip 228s
 2026-10-18 01:26:19   drop[1-source] Ohio State escaped Indiana by inches, but Julian Sayin injury changes a lot (The Columbus Dispatch) :: Julian Sayin, wait 2nd source
+2026-10-18 01:33:55 indexed 929 markets
+2026-10-18 01:34:10   drop[1-source] Hurricanes safety Bryce Fitzgerald leaves FSU game with injury (Sun Sentinel) :: Bryce Fitzgerald, wait 2nd source
+2026-10-18 01:38:36   drop[1-source] Florida State QB Ashton Daniels heads to injury tent after targeting hit vs. Miami (On3) :: Ashton Daniels, wait 2nd source
+2026-10-18 01:38:36   llm groq-120b: rate limited, skip 55s
+2026-10-18 01:38:37   drop[kind] Seattle Reign Prepare for Critical Match Against Chicago Stars Amid Injury Challenges and  (SSBCrack) :: other
+2026-10-18 01:42:04   llm groq-120b: rate limited, skip 76s
+2026-10-18 01:42:07   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-18 01:42:07   drop[verify] Mavrik Bourque (C, Nashville Predators) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: no answer
+2026-10-18 01:43:57 indexed 925 markets
+2026-10-18 01:44:08   llm groq-120b: rate limited, skip 29s
+2026-10-18 01:44:09   drop[1-source] Tavares Sustains Injury in Collision During Game Against Sabres (SSBCrack) :: Tavares, wait 2nd source
+2026-10-18 01:44:25 NEWS [ESPN 0m] Houston Dynamo FC confirmed lineup vs FC Dallas: Antônio Carlos, Agustín Bouzat ruled out of starting XI [usa.1]
+2026-10-18 01:44:25   skip No :: Will Houston Dynamo win on 2026-10-17? (low conf 0.6)
+2026-10-18 01:44:25   llm groq-20b: rate limited, skip 16s
+2026-10-18 01:44:25   drop[no-pick] FC Dallas confirmed lineup vs Houston Dynamo FC: Osaze Urhoghide, Lalas Abubakar, Kaick, L (ESPN) :: None
+2026-10-18 01:46:18   drop[1-source] Alabama starting cornerback Zabien Brown suffers "lower extremity injury" during loss on t (247Sports) :: Zabien Brown, wait 2nd source
+2026-10-18 01:46:24   llm groq-120b: rate limited, skip 186s
+2026-10-18 01:46:24   llm groq-20b: rate limited, skip 18s
+2026-10-18 01:50:26   llm groq-120b: rate limited, skip 317s
+2026-10-18 01:50:26 NEWS [ESPN 0m] Sporting Kansas City confirmed lineup vs Real Salt Lake: Justin Reynolds ruled out of starting XI [usa.1]
+2026-10-18 01:50:26   skip Yes :: Will Real Salt Lake win on 2026-10-17? (low conf 0.6)
+2026-10-18 01:50:27   llm groq-20b: rate limited, skip 228s
+2026-10-18 01:50:27   drop[no-pick] Real Salt Lake confirmed lineup vs Sporting Kansas City: DeAndre Yedlin, Samuel Junqua, Ai (ESPN) :: None
+2026-10-18 01:53:58 indexed 927 markets
+2026-10-18 01:57:03   llm groq-120b: rate limited, skip 43s
+2026-10-18 01:57:03   drop[side] Pavel Zacha (C, Boston Bruins) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Bruins vs. Kings -> Bruins vs fact ruled_out: Pavel Zacha (Boston Bruins, nhl), bad for Boston Bruins. ruled out due to 
