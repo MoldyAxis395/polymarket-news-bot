@@ -13539,3 +13539,45 @@
 2026-10-17 12:11:28 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 117)
 2026-10-17 12:11:56   llm groq-120b: rate limited, skip 7s
 2026-10-17 12:11:56 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 117)
+2026-10-17 12:12:41 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 15)
+2026-10-17 12:12:44   llm groq-120b: rate limited, skip 741s
+2026-10-17 12:12:44 [pengwin] AMBURGO-STOCCARDA: no LLM answer (try 15)
+2026-10-17 12:12:46 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 15)
+2026-10-17 12:13:18   llm groq-20b: rate limited, skip 1271s
+2026-10-17 12:13:18 [pengwin] Betis-Barcellona: no LLM answer (try 17)
+2026-10-17 12:13:20 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 16)
+2026-10-17 12:13:23 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 15)
+2026-10-17 12:13:25 [pengwin] BOLOGNA-INTER: no Polymarket event (try 15)
+2026-10-17 12:17:59 indexed 911 markets
+2026-10-17 12:26:27   drop[kind] Chelsea XI vs Everton: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-10-17 12:28:01 indexed 905 markets
+2026-10-17 12:32:40   drop[no-pick] Everton confirmed lineup vs Chelsea: Michael Keane, Brennan Johnson ruled out of starting  (ESPN) :: short
+2026-10-17 12:32:40   llm groq-120b: rate limited, skip 448s
+2026-10-17 12:38:02 indexed 920 markets
+2026-10-17 12:39:53 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 118)
+2026-10-17 12:39:57 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 118)
+2026-10-17 12:39:59 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 118)
+2026-10-17 12:40:02 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 117)
+2026-10-17 12:40:05 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 117)
+2026-10-17 12:40:08 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 118)
+2026-10-17 12:40:11 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 118)
+2026-10-17 12:40:13 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 118)
+2026-10-17 12:40:17 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 118)
+2026-10-17 12:40:19 [pengwin] MONACO-TOLOSA: no Polymarket event (try 118)
+2026-10-17 12:40:22 [pengwin] BREST-ANGERS: no Polymarket event (try 118)
+2026-10-17 12:40:24 [pengwin] PSG-LE MANS: no Polymarket event (try 118)
+2026-10-17 12:40:27 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 117)
+2026-10-17 12:40:30 [pengwin] RENNES-AUXERRE: no Polymarket event (try 118)
+2026-10-17 12:40:33 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 118)
+2026-10-17 12:40:35   llm groq-120b: rate limited, skip 102s
+2026-10-17 12:40:35 [pengwin] AUXERRE-BREST: no Polymarket event (try 118)
+2026-10-17 12:41:25 [pengwin] LAZIO-INTER: no Polymarket event (try 118)
+2026-10-17 12:41:28 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 118)
+2026-10-17 12:41:31 [pengwin] INTER-COMO: no Polymarket event (try 118)
+2026-10-17 12:41:33 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 117)
+2026-10-17 12:41:35 [pengwin] COMO-INTER: no Polymarket event (try 118)
+2026-10-17 12:41:38 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 118)
+2026-10-17 12:41:40 [pengwin] NAPOLI-COMO: no Polymarket event (try 118)
+2026-10-17 12:41:43   llm groq-20b: rate limited, skip 58s
+2026-10-17 12:41:43 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 118)
+2026-10-17 12:42:11 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 118)
