@@ -1,40 +1,58 @@
 {
- "updated": "2026-10-17T16:27:05",
+ "updated": "2026-10-17T16:57:09",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 336,
- "markets_indexed": 955,
- "news_processed": 187,
- "cash": 84.02,
- "equity": 84.02,
+ "llm_calls_today": 359,
+ "markets_indexed": 949,
+ "news_processed": 219,
+ "cash": 74.02,
+ "equity": 83.81,
  "start": 100.0,
- "open": [],
+ "open": [
+  {
+   "market_id": "4761402",
+   "question": "Islanders vs. Maple Leafs",
+   "slug": "nhl-nyi-tor-2026-10-17",
+   "outcome": "Islanders",
+   "token": "55149958127222558051066310291259653728333676635125213411810495327445546183417",
+   "shares": 21.73913043478261,
+   "entry": 0.45999999999999996,
+   "cost": 10.0,
+   "opened": 1792248792.1901793,
+   "opened_iso": "2026-10-17T14:53:12+00:00",
+   "news": "John Tavares (C, Toronto Maple Leafs) ruled out: Day-To-Day -> Out [NHL]",
+   "reason": "llm[groq-20b] trusted: Tavares out hurts Leafs, likely boosting Islanders odds",
+   "conf": 0.7,
+   "end": "2026-10-17T23:00:00+00:00",
+   "last_bid": 0.45,
+   "book_err": false
+  }
+ ],
  "closed_count": 90,
  "llm": {
   "backends": [
    "groq-120b",
    "groq-20b"
   ],
-  "fallbacks": 29,
+  "fallbacks": 35,
   "errors": {
-   "groq-120b": "rate limited, skip 62s",
-   "groq-20b": "rate limited, skip 184s"
+   "groq-120b": "rate limited, skip 146s"
   },
   "rejects": {
-   "no-pick": 3,
-   "fluff": 56,
-   "kind": 16,
+   "no-pick": 5,
+   "fluff": 64,
+   "kind": 18,
    "1-source": 12,
-   "team-not-named": 7,
+   "team-not-named": 8,
    "side": 2,
-   "not-key": 4,
+   "not-key": 5,
    "verify": 2,
    "no-market": 2,
-   "unconfirmed": 2
+   "unconfirmed": 3
   },
   "calls": {
-   "groq-20b": 170,
-   "groq-120b": 166
+   "groq-20b": 180,
+   "groq-120b": 179
   }
  },
  "realized_pnl": -15.98

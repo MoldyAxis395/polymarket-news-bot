@@ -13409,3 +13409,27 @@
 2026-10-17 16:23:16   llm groq-120b: rate limited, skip 62s
 2026-10-17 16:23:17   drop[team-not-named] Dante Moore’s NFL Draft Stock Takes a Turn Amid Injury Absence (Sports Illustrated) :: Texas A&M Aggies
 2026-10-17 16:23:17   llm groq-20b: rate limited, skip 184s
+2026-10-17 16:28:00   drop[kind] AI model forecasts ICU vital signs and flags kidney injury earlier (Bioengineer.org) :: other
+2026-10-17 16:28:14   llm groq-120b: rate limited, skip 56s
+2026-10-17 16:28:14   drop[unconfirmed] The Patriots will likely activate WR AJ Brown off Injured Reserve to play against the Jets (Ian Rapoport) :: return
+2026-10-17 16:32:28   drop[kind] College football player Tyler Ulrich dies five days after suffering traumatic injury durin (NBC Sports) :: other
+2026-10-17 16:33:04 indexed 947 markets
+2026-10-17 16:37:17   drop[team-not-named] Iga Swiatek breaks down in tears, battles leg injury in heartbreaking Wuhan Open loss (India Today) :: 
+2026-10-17 16:37:21   llm groq-120b: rate limited, skip 77s
+2026-10-17 16:37:22 NEWS [ESPN 0m] Strasbourg confirmed lineup vs Paris Saint-Germain: Diogo Sousa, Samuel Amo-Ameyaw ruled out of starting XI [fra.1]
+2026-10-17 16:37:22   skip No :: Will RC Strasbourg Alsace win on 2026-10-17? (low conf 0.6)
+2026-10-17 16:37:22   llm groq-20b: rate limited, skip 232s
+2026-10-17 16:39:23   drop[not-key] Channing ‘Stacks’ Lorenzo Stretchered Out After Injury At NXT Live (Fightful) :: Channing “Stacks” Lorenzo: sustained injury and was stretchered out, ruling him out of upcoming matches
+2026-10-17 16:41:39   llm groq-120b: rate limited, skip 154s
+2026-10-17 16:41:39   llm groq-20b: rate limited, skip 9s
+2026-10-17 16:43:06 indexed 956 markets
+2026-10-17 16:43:57   llm groq-20b: rate limited, skip 102s
+2026-10-17 16:43:57   drop[no-pick] Patriots will reportedly activate receiver A.J. Brown from injured reserve after 4-game ab (Yahoo Sports) :: None
+2026-10-17 16:46:33   llm groq-120b: rate limited, skip 79s
+2026-10-17 16:46:34   drop[no-pick] Maple Leafs' John Tavares out week-to-week with lower-body injury (Sportsnet.ca) :: no suitable outcome to rise
+2026-10-17 16:48:35   llm groq-120b: rate limited, skip 19s
+2026-10-17 16:48:35   llm groq-20b: rate limited, skip 60s
+2026-10-17 16:53:07 indexed 949 markets
+2026-10-17 16:53:10   llm groq-120b: rate limited, skip 146s
+2026-10-17 16:53:11 NEWS [ESPN 8m] John Tavares (C, Toronto Maple Leafs) ruled out: Day-To-Day -> Out [NHL]
+2026-10-17 16:53:12   BUY Islanders @ 0.460 x21.7 ($10.00) :: Islanders vs. Maple Leafs
