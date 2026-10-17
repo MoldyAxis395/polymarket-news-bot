@@ -12886,3 +12886,67 @@
 2026-10-17 02:26:23 [pengwin] BOURNEMOUTH-SUNDERLAND: no LLM answer (try 4)
 2026-10-17 02:26:27 [pengwin] NOTTINGHAM FOREST-ARSENAL: no LLM answer (try 4)
 2026-10-17 02:26:29 [pengwin] TOTTENHAM-COVENTRY CITY: no LLM answer (try 4)
+2026-10-17 02:27:00 [pengwin] Espanyol-Atletico Madrid: no LLM answer (try 4)
+2026-10-17 02:27:03 [pengwin] Villarreal-Elche: no LLM answer (try 4)
+2026-10-17 02:27:05 [pengwin] Betis-Barcellona: no Polymarket event (try 4)
+2026-10-17 02:27:08 [pengwin] Valencia-Athletic Bilbao: no LLM answer (try 4)
+2026-10-17 02:27:11 [pengwin] Osasuna-Racing Santander: no LLM answer (try 4)
+2026-10-17 02:27:14 [pengwin] Celta Vigo-Alaves: no LLM answer (try 3)
+2026-10-17 02:27:17 [pengwin] Malaga-Real Sociedad: no LLM answer (try 3)
+2026-10-17 02:27:19 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 3)
+2026-10-17 02:27:22 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 2)
+2026-10-17 02:27:24 [pengwin] VENEZIA-NAPOLI: no LLM answer (try 2)
+2026-10-17 02:27:27 [pengwin] BOLOGNA-INTER: no Polymarket event (try 2)
+2026-10-17 02:27:31 [pengwin] ROMA-GENOA: no LLM answer (try 2)
+2026-10-17 02:27:33 [pengwin] UDINESE-LECCE: no LLM answer (try 2)
+2026-10-17 02:27:36 [pengwin] FIORENTINA-COMO: no LLM answer (try 2)
+2026-10-17 02:27:38 [pengwin] MILAN-ATALANTA: no LLM answer (try 2)
+2026-10-17 02:27:41 [pengwin] JUVENTUS-LAZIO: no LLM answer (try 2)
+2026-10-17 02:27:44 [pengwin] MONZA-CAGLIARI: no LLM answer (try 2)
+2026-10-17 02:27:46 [pengwin] PARMA-TORINO: no LLM answer (try 2)
+2026-10-17 02:27:49 [pengwin] Getafe-Vallecano: no LLM answer (try 3)
+2026-10-17 02:32:18 indexed 940 markets
+2026-10-17 02:37:50   drop[kind] PETA urges Park City Police Chief to retire K-9 Bruno after line-of-duty injury (Gephardt Daily) :: other
+2026-10-17 02:39:37   drop[not-key] Egor Chinakhov (RW, Pittsburgh Penguins) ruled out: healthy -> Out [NHL] (ESPN) :: Egor Chinakhov: injury
+2026-10-17 02:40:25   drop[kind] Kentucky vs. Oklahoma Injury Report: CJ Baxter questionable; Michael Fasusi doubtful (A Sea Of Blue) :: other
+2026-10-17 02:42:16 indexed 940 markets
+2026-10-17 02:42:26   drop[1-source] Another Georgia Bulldogs player ruled out for Auburn game (247Sports) :: Georgia Bulldogs, wait 2nd source
+2026-10-17 02:42:27   drop[unconfirmed] Alonso Keenly Anticipating “Very Special” Chelsea Ace’s Return From Injury (Chelsea News) :: Alonso expects the key Chelsea defender to come back from injury
+2026-10-17 02:44:46   drop[1-source] Nuggets Dealt Major Injury Blow Days Before Season Opener (Heavy.com) :: Denver Nuggets, wait 2nd source
+2026-10-17 02:51:40   drop[no-market] Injury Report: Multiple UNC Football Players Ruled Out vs. Duke (Tar Heel Times) :: University of North Carolina Football
+2026-10-17 02:52:17 indexed 947 markets
+2026-10-17 02:53:15 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 105)
+2026-10-17 02:53:18   llm groq-120b: rate limited, skip 26s
+2026-10-17 02:53:19 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 105)
+2026-10-17 02:53:21 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 105)
+2026-10-17 02:53:24 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 104)
+2026-10-17 02:53:27 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 104)
+2026-10-17 02:53:30 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 105)
+2026-10-17 02:53:32 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 105)
+2026-10-17 02:53:34 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 105)
+2026-10-17 02:53:37 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 105)
+2026-10-17 02:53:40 [pengwin] MONACO-TOLOSA: no Polymarket event (try 105)
+2026-10-17 02:53:43 [pengwin] BREST-ANGERS: no Polymarket event (try 105)
+2026-10-17 02:53:45 [pengwin] PSG-LE MANS: no Polymarket event (try 105)
+2026-10-17 02:53:47   llm groq-120b: rate limited, skip 420s
+2026-10-17 02:53:47   llm groq-20b: rate limited, skip 69s
+2026-10-17 02:53:47 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 104)
+2026-10-17 02:53:50 [pengwin] RENNES-AUXERRE: no Polymarket event (try 105)
+2026-10-17 02:53:52 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 105)
+2026-10-17 02:53:54 [pengwin] AUXERRE-BREST: no Polymarket event (try 105)
+2026-10-17 02:54:43 [pengwin] LAZIO-INTER: no Polymarket event (try 105)
+2026-10-17 02:54:45 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 105)
+2026-10-17 02:54:47 [pengwin] INTER-COMO: no Polymarket event (try 105)
+2026-10-17 02:54:49 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 104)
+2026-10-17 02:54:51 [pengwin] COMO-INTER: no Polymarket event (try 105)
+2026-10-17 02:54:53 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 105)
+2026-10-17 02:54:55 [pengwin] NAPOLI-COMO: no Polymarket event (try 105)
+2026-10-17 02:54:57   llm groq-20b: rate limited, skip 190s
+2026-10-17 02:54:57 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 105)
+2026-10-17 02:55:25 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 105)
+2026-10-17 02:56:10 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 3)
+2026-10-17 02:56:13 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 3)
+2026-10-17 02:56:15 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 3)
+2026-10-17 02:56:17 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 3)
+2026-10-17 02:56:20 [pengwin] MONCHENGLADBACH-HOFFENHEIM: no LLM answer (try 3)
+2026-10-17 02:56:23 [pengwin] MANCHESTER CITY-IPSWICH TOWN: no Polymarket event (try 5)
