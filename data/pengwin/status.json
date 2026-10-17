@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-17T14:26:43",
+ "updated": "2026-10-17T14:52:59",
  "start": 100.0,
  "cash": 89.85,
- "equity": 138.39,
+ "equity": 138.53,
  "open": [
   {
    "market_id": "5267259",
@@ -74,7 +74,7 @@
    "reason": "pengwin exact: X2 = NO on Will Schalke win",
    "conf": 1.0,
    "end": "2026-10-17T13:30:00+00:00",
-   "last_bid": 0.67,
+   "last_bid": 0.68,
    "book_err": false
   },
   {

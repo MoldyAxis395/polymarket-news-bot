@@ -13317,3 +13317,31 @@
 2026-10-17 14:16:03   drop[1-source] Injury blow for Bangladesh ahead of tri-series opener (ICC) :: Shakib Al Hasan, wait 2nd source
 2026-10-17 14:18:31   drop[1-source] Gas Supply to Be Suspended in Several Rawalpindi Areas (TechJuice) :: Rawalpindi Gas Supply, wait 2nd source
 2026-10-17 14:22:55 indexed 1010 markets
+2026-10-17 14:29:56   drop[kind] SMU Gets Major Injury Advantage As Virginia Loses 22 Players (roundtable.io) :: other
+2026-10-17 14:32:57 indexed 1010 markets
+2026-10-17 14:34:35   drop[kind] Browns sign ex-Broncos running back after Quinshon Judkins injury (Broncos Wire) :: other
+2026-10-17 14:34:36   drop[1-source] Taylorsville police officer suspended over video of conduct during traffic stop (Hickory Daily Record) :: Taylorsville Police Department, wait 2nd source
+2026-10-17 14:37:06   drop[kind] “That’s Outrageous”: RGIII Slams Michael Robinson for Accusing Jalen Hurts of Using Injury (College Sports Network) :: other
+2026-10-17 14:38:00   llm groq-120b: rate limited, skip 339s
+2026-10-17 14:38:01   drop[side] Schalke 04 confirmed lineup vs Mainz: Maximilian Wöber, Junior Adamu, Moussa Sylla ruled o (ESPN) :: Will FC Schalke 04 win on 2026-10-17? -> Yes vs fact ruled_out: Maximilian Wöber (Schalke 04, soccer), bad for Schalke 0
+2026-10-17 14:38:02 NEWS [ESPN 0m] Mainz confirmed lineup vs Schalke 04: Fabio Gruber, Eric Martel ruled out of starting XI [ger.1]
+2026-10-17 14:38:02   skip Yes :: Will FC Schalke 04 win on 2026-10-17? (low conf 0.6)
+2026-10-17 14:41:30   drop[kind] Leeds & Man United final injury news with 10 out or doubtful but international back (Yorkshire Evening Post) :: other
+2026-10-17 14:42:56 indexed 1008 markets
+2026-10-17 14:44:10   drop[not-key] Hamburg SV confirmed lineup vs VfB Stuttgart: Nicolai Remberg, Albert Sambi Lokonga ruled  (ESPN) :: Nicolai Remberg: ruled out of today's starting XI
+2026-10-17 14:44:10   llm groq-120b: rate limited, skip 241s
+2026-10-17 14:44:11 NEWS [ESPN 0m] VfB Stuttgart confirmed lineup vs Hamburg SV: Fabian Bredlow, Grischa Prömel, Chris Führich, Dzenan Pejcinovic ruled out of starting XI [ger.1]
+2026-10-17 14:44:11   skip No :: Will VfB Stuttgart win on 2026-10-17? (low conf 0.6)
+2026-10-17 14:46:20   drop[kind] Bills' Final Week 6 Injury Report: DJ Moore, Four Others Questionable to Face Raiders (Sports Illustrated) :: other
+2026-10-17 14:48:24   llm groq-120b: rate limited, skip 29s
+2026-10-17 14:48:25 NEWS [ESPN 0m] Borussia Dortmund confirmed lineup vs 1. FC Union Berlin: Ramy Bensebaini, Joey Veerman, Fábio Silva, Samuele Inácio, Konstantinos Karetsas ruled out of starting XI [ger.1]
+2026-10-17 14:48:25   skip Yes :: 1. FC Union Berlin leading at halftime? (low conf 0.6)
+2026-10-17 14:48:26   drop[verify] SC Paderborn 07 confirmed lineup vs Werder Bremen: Marvin Pieringer ruled out of starting  (ESPN) :: Pieringer not on SC Paderborn 07
+2026-10-17 14:48:29   llm groq-20b: rate limited, skip 334s
+2026-10-17 14:50:48   drop[kind] Man City XI vs Ipswich: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-10-17 14:50:48   llm groq-120b: rate limited, skip 134s
+2026-10-17 14:52:57 indexed 1010 markets
+2026-10-17 14:53:06   llm groq-120b: rate limited, skip 18s
+2026-10-17 14:55:33   drop[kind] Injury/Weather Report for FSU football game at Miami (On3) :: other
+2026-10-17 14:55:33   llm groq-120b: rate limited, skip 153s
+2026-10-17 14:55:34   drop[kind] Liverpool XI vs Brentford: Starting lineup and confirmed team news (London Evening Standard) :: other
