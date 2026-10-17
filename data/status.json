@@ -1,32 +1,14 @@
 {
- "updated": "2026-10-17T01:56:18",
+ "updated": "2026-10-17T02:26:37",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 395,
- "markets_indexed": 936,
- "news_processed": 4,
- "cash": 64.41,
+ "llm_calls_today": 28,
+ "markets_indexed": 939,
+ "news_processed": 19,
+ "cash": 74.22,
  "equity": 84.02,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "4329883",
-   "question": "Bears vs. Falcons",
-   "slug": "nfl-chi-atl-2026-10-18",
-   "outcome": "Bears",
-   "token": "79757993487308721870645729402015468850899053366152558318911049657776154836791",
-   "shares": 19.607843137254903,
-   "entry": 0.51,
-   "cost": 10.0,
-   "opened": 1792174027.0536602,
-   "opened_iso": "2026-10-16T18:07:07+00:00",
-   "news": "C.J. Henderson (CB, Atlanta Falcons) ruled out: Questionable -> Out [NFL]",
-   "reason": "llm[groq-20b] trusted: Falcons losing starting cornerback hurts their defense, increasing Bears' win probability; Falcons price likely to drop, Bears price to rise >5 points.",
-   "conf": 0.7,
-   "end": "2026-10-18T17:00:00+00:00",
-   "last_bid": 0.5,
-   "book_err": false
-  },
   {
    "market_id": "4329893",
    "question": "Cowboys vs. Packers",
@@ -46,25 +28,28 @@
    "book_err": false
   }
  ],
- "closed_count": 88,
+ "closed_count": 89,
  "llm": {
   "backends": [
    "groq-120b",
    "groq-20b"
   ],
-  "fallbacks": 0,
+  "fallbacks": 3,
   "errors": {
-   "groq-120b": "rate limited, skip 994s",
-   "groq-20b": "rate limited, skip 347s"
+   "groq-120b": "rate limited, skip 857s",
+   "groq-20b": "rate limited, skip 610s"
   },
   "rejects": {
-   "fluff": 1,
-   "1-source": 1
+   "fluff": 2,
+   "1-source": 5,
+   "kind": 2,
+   "no-market": 1,
+   "team-not-named": 1
   },
   "calls": {
-   "groq-120b": 208,
-   "groq-20b": 187
+   "groq-20b": 18,
+   "groq-120b": 10
   }
  },
- "realized_pnl": -15.59
+ "realized_pnl": -15.78
 }

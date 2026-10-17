@@ -12809,3 +12809,80 @@
 2026-10-17 01:56:06 [pengwin] BOURNEMOUTH-SUNDERLAND: no LLM answer (try 3)
 2026-10-17 01:56:09 [pengwin] NOTTINGHAM FOREST-ARSENAL: no LLM answer (try 3)
 2026-10-17 01:56:11 [pengwin] TOTTENHAM-COVENTRY CITY: no LLM answer (try 3)
+2026-10-17 01:56:42 [pengwin] Espanyol-Atletico Madrid: no LLM answer (try 3)
+2026-10-17 01:56:45 [pengwin] Villarreal-Elche: no LLM answer (try 3)
+2026-10-17 01:56:47 [pengwin] Betis-Barcellona: no Polymarket event (try 3)
+2026-10-17 01:56:50 [pengwin] Valencia-Athletic Bilbao: no LLM answer (try 3)
+2026-10-17 01:56:53 [pengwin] Osasuna-Racing Santander: no LLM answer (try 3)
+2026-10-17 01:56:56 [pengwin] Celta Vigo-Alaves: no LLM answer (try 2)
+2026-10-17 01:56:59 [pengwin] Malaga-Real Sociedad: no LLM answer (try 2)
+2026-10-17 01:57:01 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 2)
+2026-10-17 01:57:03 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 1)
+2026-10-17 01:57:06 [pengwin] VENEZIA-NAPOLI: no LLM answer (try 1)
+2026-10-17 01:57:08 [pengwin] BOLOGNA-INTER: no Polymarket event (try 1)
+2026-10-17 01:57:11 [pengwin] ROMA-GENOA: no LLM answer (try 1)
+2026-10-17 01:57:14 [pengwin] UDINESE-LECCE: no LLM answer (try 1)
+2026-10-17 01:57:16 [pengwin] FIORENTINA-COMO: no LLM answer (try 1)
+2026-10-17 01:57:18 [pengwin] MILAN-ATALANTA: no LLM answer (try 1)
+2026-10-17 01:57:21 [pengwin] JUVENTUS-LAZIO: no LLM answer (try 1)
+2026-10-17 01:57:23 [pengwin] MONZA-CAGLIARI: no LLM answer (try 1)
+2026-10-17 01:57:26 [pengwin] PARMA-TORINO: no LLM answer (try 1)
+2026-10-17 01:57:29 [pengwin] Getafe-Vallecano: no LLM answer (try 2)
+2026-10-17 02:02:03 indexed 936 markets
+2026-10-17 02:04:43   drop[1-source] Ravens QB Lamar Jackson ruled OUT vs. Browns on Sunday (Browns Wire) :: Lamar Jackson, wait 2nd source
+2026-10-17 02:07:13   SELL Bears @ 0.500 (max hold) pnl -0.20 :: Bears vs. Falcons
+2026-10-17 02:09:19   drop[1-source] Detroit Lions place trio on injured reserve (Lions Wire) :: Detroit Lions, wait 2nd source
+2026-10-17 02:12:06 indexed 940 markets
+2026-10-17 02:12:19   drop[kind] Video Sean "Diddy Combs moved to low-security facility following head injury - ABC News (ABC News - Breaking News, Latest News and Videos) :: other
+2026-10-17 02:12:20   drop[1-source] Tavatavanawai to start as Jordie Barrett ruled out of Sydney Test (All Blacks) :: Jordie Barrett, wait 2nd source
+2026-10-17 02:12:21   drop[kind] LSU Faces Mississippi State as Kamario Taylor Battles Foot Injury (SuaraGarut.ID) :: other
+2026-10-17 02:14:44   drop[no-market] Argonauts' Chad Kelly exits vs. Redblacks with apparent injury (Sportsnet.ca) :: Toronto Argonauts
+2026-10-17 02:17:02   llm groq-120b: rate limited, skip 182s
+2026-10-17 02:17:02   drop[team-not-named] Sean ‘Diddy’ Combs transferred to new facility after prison perks report, head injury (Los Angeles Times) :: New York Jets
+2026-10-17 02:21:47   drop[1-source] Two Oklahoma Players Ruled Out of Clash With Kentucky (Sports Illustrated) :: University of Oklahoma Sooners, wait 2nd source
+2026-10-17 02:22:14 indexed 939 markets
+2026-10-17 02:22:55 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 104)
+2026-10-17 02:22:58   llm groq-120b: rate limited, skip 133s
+2026-10-17 02:22:58 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 104)
+2026-10-17 02:23:00 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 104)
+2026-10-17 02:23:03 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 103)
+2026-10-17 02:23:06 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 103)
+2026-10-17 02:23:09 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 104)
+2026-10-17 02:23:11 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 104)
+2026-10-17 02:23:14 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 104)
+2026-10-17 02:23:17 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 104)
+2026-10-17 02:23:19 [pengwin] MONACO-TOLOSA: no Polymarket event (try 104)
+2026-10-17 02:23:22 [pengwin] BREST-ANGERS: no Polymarket event (try 104)
+2026-10-17 02:23:24 [pengwin] PSG-LE MANS: no Polymarket event (try 104)
+2026-10-17 02:23:27 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 103)
+2026-10-17 02:23:29 [pengwin] RENNES-AUXERRE: no Polymarket event (try 104)
+2026-10-17 02:23:32   llm groq-20b: rate limited, skip 7s
+2026-10-17 02:23:32 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 104)
+2026-10-17 02:23:34 [pengwin] AUXERRE-BREST: no Polymarket event (try 104)
+2026-10-17 02:23:54   llm groq-20b: rate limited, skip 123s
+2026-10-17 02:24:24 [pengwin] LAZIO-INTER: no Polymarket event (try 104)
+2026-10-17 02:24:26 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 104)
+2026-10-17 02:24:28 [pengwin] INTER-COMO: no Polymarket event (try 104)
+2026-10-17 02:24:30 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 103)
+2026-10-17 02:24:32 [pengwin] COMO-INTER: no Polymarket event (try 104)
+2026-10-17 02:24:34 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 104)
+2026-10-17 02:24:36 [pengwin] NAPOLI-COMO: no Polymarket event (try 104)
+2026-10-17 02:24:38 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 104)
+2026-10-17 02:25:06 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 104)
+2026-10-17 02:25:51 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 2)
+2026-10-17 02:25:54   llm groq-120b: rate limited, skip 857s
+2026-10-17 02:25:54 [pengwin] BAYERN MONACO-LIPSIA: no LLM answer (try 2)
+2026-10-17 02:25:56 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 2)
+2026-10-17 02:25:59   llm groq-20b: rate limited, skip 610s
+2026-10-17 02:25:59 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no LLM answer (try 2)
+2026-10-17 02:26:01 [pengwin] MONCHENGLADBACH-HOFFENHEIM: no LLM answer (try 2)
+2026-10-17 02:26:04 [pengwin] EVERTON-CHELSEA: no LLM answer (try 4)
+2026-10-17 02:26:07 [pengwin] FULHAM-HULL CITY: no LLM answer (try 4)
+2026-10-17 02:26:09 [pengwin] BRENTFORD-LIVERPOOL: no LLM answer (try 4)
+2026-10-17 02:26:12 [pengwin] MANCHESTER CITY-IPSWICH TOWN: no Polymarket event (try 4)
+2026-10-17 02:26:15 [pengwin] NEWCASTLE-ASTON VILLA: no LLM answer (try 4)
+2026-10-17 02:26:18 [pengwin] BRIGHTON-CRYSTAL PALACE: no LLM answer (try 4)
+2026-10-17 02:26:21 [pengwin] LEEDS UNITED-MANCHESTER UNITED: no LLM answer (try 4)
+2026-10-17 02:26:23 [pengwin] BOURNEMOUTH-SUNDERLAND: no LLM answer (try 4)
+2026-10-17 02:26:27 [pengwin] NOTTINGHAM FOREST-ARSENAL: no LLM answer (try 4)
+2026-10-17 02:26:29 [pengwin] TOTTENHAM-COVENTRY CITY: no LLM answer (try 4)

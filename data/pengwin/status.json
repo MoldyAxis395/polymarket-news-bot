@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-17T01:51:35",
+ "updated": "2026-10-17T02:21:17",
  "start": 100.0,
- "cash": 109.85,
- "equity": 139.0,
+ "cash": 89.85,
+ "equity": 138.69,
  "open": [
   {
    "market_id": "5267259",
@@ -58,15 +58,51 @@
    "end": "2026-10-18T13:30:00+00:00",
    "last_bid": 0.63,
    "book_err": false
+  },
+  {
+   "market_id": "5263838",
+   "question": "Will FC Schalke 04 win on 2026-10-17?",
+   "slug": "bun-s04-mai-2026-10-17-s04",
+   "outcome": "No",
+   "token": "17937493591448975809727208474835021212303284566515405809616719903671562422215",
+   "shares": 14.492753623188406,
+   "entry": 0.69,
+   "cost": 10.0,
+   "opened": 1792194923.8921611,
+   "opened_iso": "2026-10-16T23:55:23+00:00",
+   "news": "SCHALKE-MAINZ: X2 (esatto)",
+   "reason": "pengwin exact: X2 = NO on Will Schalke win",
+   "conf": 1.0,
+   "end": "2026-10-17T13:30:00+00:00",
+   "last_bid": 0.68,
+   "book_err": false
+  },
+  {
+   "market_id": "5263880",
+   "question": "Will SV 07 Elversberg win on 2026-10-17?",
+   "slug": "bun-elv-aug-2026-10-17-elv",
+   "outcome": "No",
+   "token": "115295378138929144023069760522597251763149917224874767299478611368767879708714",
+   "shares": 16.39344262295082,
+   "entry": 0.61,
+   "cost": 9.999999999999998,
+   "opened": 1792194938.0344388,
+   "opened_iso": "2026-10-16T23:55:38+00:00",
+   "news": "ELVERSBERG-AUGSBURG: X2 (esatto)",
+   "reason": "pengwin exact: X2 = NO on home win",
+   "conf": 1.0,
+   "end": "2026-10-17T13:30:00+00:00",
+   "last_bid": 0.6,
+   "book_err": false
   }
  ],
  "closed_count": 19,
  "realized_pnl": 39.85,
  "pages": {
-  "pending": 177,
+  "pending": 179,
   "picked": 0,
-  "traded": 22,
-  "skipped": 41,
+  "traded": 24,
+  "skipped": 43,
   "expired": 0
  }
 }

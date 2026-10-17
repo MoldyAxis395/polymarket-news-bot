@@ -1,24 +1,6 @@
 {
- "cash": 64.41152390475762,
+ "cash": 74.21544547338507,
  "positions": [
-  {
-   "market_id": "4329883",
-   "question": "Bears vs. Falcons",
-   "slug": "nfl-chi-atl-2026-10-18",
-   "outcome": "Bears",
-   "token": "79757993487308721870645729402015468850899053366152558318911049657776154836791",
-   "shares": 19.607843137254903,
-   "entry": 0.51,
-   "cost": 10.0,
-   "opened": 1792174027.0536602,
-   "opened_iso": "2026-10-16T18:07:07+00:00",
-   "news": "C.J. Henderson (CB, Atlanta Falcons) ruled out: Questionable -> Out [NFL]",
-   "reason": "llm[groq-20b] trusted: Falcons losing starting cornerback hurts their defense, increasing Bears' win probability; Falcons price likely to drop, Bears price to rise >5 points.",
-   "conf": 0.7,
-   "end": "2026-10-18T17:00:00+00:00",
-   "last_bid": 0.5,
-   "book_err": false
-  },
   {
    "market_id": "4329893",
    "question": "Cowboys vs. Packers",
@@ -1927,6 +1909,28 @@
    "pnl": 0.17857142857142527,
    "why": "max hold",
    "closed_iso": "2026-10-14T08:21:39+00:00"
+  },
+  {
+   "market_id": "4329883",
+   "question": "Bears vs. Falcons",
+   "slug": "nfl-chi-atl-2026-10-18",
+   "outcome": "Bears",
+   "token": "79757993487308721870645729402015468850899053366152558318911049657776154836791",
+   "shares": 19.607843137254903,
+   "entry": 0.51,
+   "cost": 10.0,
+   "opened": 1792174027.0536602,
+   "opened_iso": "2026-10-16T18:07:07+00:00",
+   "news": "C.J. Henderson (CB, Atlanta Falcons) ruled out: Questionable -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: Falcons losing starting cornerback hurts their defense, increasing Bears' win probability; Falcons price likely to drop, Bears price to rise >5 points.",
+   "conf": 0.7,
+   "end": "2026-10-18T17:00:00+00:00",
+   "last_bid": 0.5,
+   "book_err": false,
+   "exit": 0.5,
+   "pnl": -0.19607843137254832,
+   "why": "max hold",
+   "closed_iso": "2026-10-17T00:07:13+00:00"
   }
  ],
  "cooldown": {
@@ -1984,6 +1988,7 @@
   "5224522": 1791524954.8634791,
   "4058840": 1791527502.917582,
   "4024677": 1791760822.2038703,
-  "4640805": 1791976899.3379605
+  "4640805": 1791976899.3379605,
+  "4329883": 1792206433.6232815
  }
 }
