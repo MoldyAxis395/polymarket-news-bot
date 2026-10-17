@@ -1,43 +1,6 @@
 {
- "cash": 64.02313778107738,
- "positions": [
-  {
-   "market_id": "4761402",
-   "question": "Islanders vs. Maple Leafs",
-   "slug": "nhl-nyi-tor-2026-10-17",
-   "outcome": "Islanders",
-   "token": "55149958127222558051066310291259653728333676635125213411810495327445546183417",
-   "shares": 21.73913043478261,
-   "entry": 0.45999999999999996,
-   "cost": 10.0,
-   "opened": 1792248792.1901793,
-   "opened_iso": "2026-10-17T14:53:12+00:00",
-   "news": "John Tavares (C, Toronto Maple Leafs) ruled out: Day-To-Day -> Out [NHL]",
-   "reason": "llm[groq-20b] trusted: Tavares out hurts Leafs, likely boosting Islanders odds",
-   "conf": 0.7,
-   "end": "2026-10-17T23:00:00+00:00",
-   "last_bid": 0.45,
-   "book_err": false
-  },
-  {
-   "market_id": "4761407",
-   "question": "Senators vs. Flyers",
-   "slug": "nhl-ott-phi-2026-10-17",
-   "outcome": "Flyers",
-   "token": "66465886871934436625793640479891814943859026360327484946212671411410713352891",
-   "shares": 24.390243902439025,
-   "entry": 0.41,
-   "cost": 10.0,
-   "opened": 1792253027.5034075,
-   "opened_iso": "2026-10-17T16:03:47+00:00",
-   "news": "Jake Sanderson (D, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL]",
-   "reason": "llm[groq-120b] trusted: Jake Sanderson's injury hurts Ottawa, lowering their win probability and boosting the Flyers' chance",
-   "conf": 0.7,
-   "end": "2026-10-17T23:00:00+00:00",
-   "last_bid": 0.4,
-   "book_err": false
-  }
- ],
+ "cash": 84.02313778107738,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",

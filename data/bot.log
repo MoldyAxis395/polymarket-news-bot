@@ -13342,3 +13342,17 @@
 2026-10-17 19:11:02 [pengwin]   SELL No @ 1.000 (resolved) pnl +4.49 :: Will FC Schalke 04 win on 2026-10-17?
 2026-10-17 19:11:03 [pengwin]   book error Will SV 07 Elversberg win on 2026-10-17?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=115295378138929144023069760522597251763149917224874767299478611368767879708714
 2026-10-17 19:11:03 [pengwin]   SELL No @ 0.000 (resolved) pnl -10.00 :: Will SV 07 Elversberg win on 2026-10-17?
+2026-10-17 19:16:01   drop[not-key] Egor Chinakhov (RW, Pittsburgh Penguins) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Egor Chinakhov: injury
+2026-10-17 19:18:36 indexed 932 markets
+2026-10-17 19:24:08   llm groq-120b: rate limited, skip 193s
+2026-10-17 19:24:08   drop[unconfirmed] Good News For Anthony Davis As Injury Heals Ahead Of Wizards Debut (heavy.com) :: injury heals
+2026-10-17 19:28:05 indexed 925 markets
+2026-10-17 19:36:46   drop[not-key] Charlotte FC confirmed lineup vs Philadelphia Union: Harry Toffolo, Tim Ream, Will Cleary, (ESPN) :: Harry Toffolo: ruled out of starting XI
+2026-10-17 19:38:39 indexed 930 markets
+2026-10-17 19:38:41 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-17 19:38:44   drop[kind] Iraola addresses Szoboszlai and Frimpong injury worries after double body blow for Liverpo (LiveScore) :: other
+2026-10-17 19:38:44   drop[1-source] 'It's ambitious' - Eckert reveals extent of Downes injury after Bolton absence (Daily Echo) :: Downes, wait 2nd source
+2026-10-17 19:41:00   drop[kind] Dream's Allisha Gray a game-time decision with hand injury ahead of WNBA Finals Game 1 (Yahoo Sports) :: other
+2026-10-17 19:41:00   llm groq-120b: rate limited, skip 53s
+2026-10-17 19:41:01   drop[unconfirmed] Liverpool’s Dominik Szoboszlai, Jeremie Frimpong out for ‘some time’ with injury – Andoni  (The New York Times) :: injury
+2026-10-17 19:41:01   drop[kind] Erling Haaland sparks major injury fears for Manchester City following tight Premier Leagu (Goal.com) :: other

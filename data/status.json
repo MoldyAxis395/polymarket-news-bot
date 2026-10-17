@@ -1,51 +1,14 @@
 {
- "updated": "2026-10-17T19:12:08",
+ "updated": "2026-10-17T19:42:15",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 255,
- "markets_indexed": 934,
- "news_processed": 48,
+ "llm_calls_today": 265,
+ "markets_indexed": 930,
+ "news_processed": 70,
  "cash": 84.02,
  "equity": 84.02,
  "start": 100.0,
- "open": [
-  {
-   "market_id": "4761402",
-   "question": "Islanders vs. Maple Leafs",
-   "slug": "nhl-nyi-tor-2026-10-17",
-   "outcome": "Islanders",
-   "token": "55149958127222558051066310291259653728333676635125213411810495327445546183417",
-   "shares": 21.73913043478261,
-   "entry": 0.45999999999999996,
-   "cost": 10.0,
-   "opened": 1792248792.1901793,
-   "opened_iso": "2026-10-17T14:53:12+00:00",
-   "news": "John Tavares (C, Toronto Maple Leafs) ruled out: Day-To-Day -> Out [NHL]",
-   "reason": "llm[groq-20b] trusted: Tavares out hurts Leafs, likely boosting Islanders odds",
-   "conf": 0.7,
-   "end": "2026-10-17T23:00:00+00:00",
-   "last_bid": 0.45,
-   "book_err": false
-  },
-  {
-   "market_id": "4761407",
-   "question": "Senators vs. Flyers",
-   "slug": "nhl-ott-phi-2026-10-17",
-   "outcome": "Flyers",
-   "token": "66465886871934436625793640479891814943859026360327484946212671411410713352891",
-   "shares": 24.390243902439025,
-   "entry": 0.41,
-   "cost": 10.0,
-   "opened": 1792253027.5034075,
-   "opened_iso": "2026-10-17T16:03:47+00:00",
-   "news": "Jake Sanderson (D, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL]",
-   "reason": "llm[groq-120b] trusted: Jake Sanderson's injury hurts Ottawa, lowering their win probability and boosting the Flyers' chance",
-   "conf": 0.7,
-   "end": "2026-10-17T23:00:00+00:00",
-   "last_bid": 0.4,
-   "book_err": false
-  }
- ],
+ "open": [],
  "closed_count": 90,
  "llm": {
   "backends": [
@@ -54,17 +17,19 @@
   ],
   "fallbacks": 14,
   "errors": {
-   "groq-120b": "rate limited, skip 116s",
-   "groq-20b": "rate limited, skip 497s"
+   "groq-120b": "rate limited, skip 53s"
   },
   "rejects": {
    "verify": 1,
-   "not-key": 1,
-   "fluff": 8
+   "not-key": 3,
+   "fluff": 11,
+   "unconfirmed": 2,
+   "kind": 3,
+   "1-source": 1
   },
   "calls": {
-   "groq-20b": 130,
-   "groq-120b": 125
+   "groq-20b": 133,
+   "groq-120b": 132
   }
  },
  "realized_pnl": -15.98
