@@ -13305,3 +13305,15 @@
 2026-10-17 13:52:51 indexed 880 markets
 2026-10-17 13:53:25 NEWS [Fabrizio Romano 0m] 🚨⚪️ Éder Militão returns available for Real Madrid and back in the squad tomorrow after long injury.
 2026-10-17 13:53:25   skip Yes :: Will Real Madrid CF win on 2026-10-18? (low conf 0.6)
+2026-10-17 14:02:16   drop[team-not-named] La Liga: Mourinho backs suspended Vinicius ahead of Sevilla clash (IANS LIVE) :: Real Madrid
+2026-10-17 14:02:53 indexed 993 markets
+2026-10-17 14:12:53 indexed 1001 markets
+2026-10-17 14:13:45   drop[team-not-named] Litton ruled out of tri-series; Miraz misses opener with fever (The Daily Star) :: Bangladesh national cricket team
+2026-10-17 14:15:33 NEWS [ESPN 0m] Venezia confirmed lineup vs Napoli: Thierry Correia ruled out of starting XI [ita.1]
+2026-10-17 14:15:33   skip Yes :: Will SSC Napoli win on 2026-10-17? (low conf 0.62)
+2026-10-17 14:15:33   llm groq-120b: rate limited, skip 147s
+2026-10-17 14:15:34 NEWS [ESPN 0m] Napoli confirmed lineup vs Venezia: Vanja Milinkovic-Savic, Rafa Marín, Matteo Politano, Kevin De Bruyne, Rasmus Højlund ruled out of starting XI [ita.1]
+2026-10-17 14:15:34   skip No :: Will SSC Napoli win on 2026-10-17? (low conf 0.6)
+2026-10-17 14:16:03   drop[1-source] Injury blow for Bangladesh ahead of tri-series opener (ICC) :: Shakib Al Hasan, wait 2nd source
+2026-10-17 14:18:31   drop[1-source] Gas Supply to Be Suspended in Several Rawalpindi Areas (TechJuice) :: Rawalpindi Gas Supply, wait 2nd source
+2026-10-17 14:22:55 indexed 1010 markets
