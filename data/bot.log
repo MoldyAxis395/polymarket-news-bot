@@ -13582,3 +13582,16 @@
 2026-10-18 00:55:13   llm groq-20b: rate limited, skip 46s
 2026-10-18 00:55:13   drop[no-pick] New York City FC confirmed lineup vs LAFC: Nico Cavallo, Alonso Martínez, Bénie Traoré rul (ESPN) :: None
 2026-10-18 00:57:14   llm groq-20b: rate limited, skip 12s
+2026-10-18 00:58:07   drop[1-source] No. 2 Notre Dame's Cooper Flanagan Out with Hamstring Injury at No. 8 BYU (247Sports) :: Cooper Flanagan, wait 2nd source
+2026-10-18 00:59:15   llm groq-20b: rate limited, skip 196s
+2026-10-18 01:03:19 indexed 908 markets
+2026-10-18 01:07:17   drop[kind] Ohio State Handed Alarming Julian Sayin Injury Outlook by Sports Doctor (Heavy.com) :: other
+2026-10-18 01:07:17   drop[1-source] Toronto FC Coach Suspended, Faces Must-Win Game Against New York Red Bulls (SSBCrack) :: Bob Bradley, wait 2nd source
+2026-10-18 01:09:35   drop[1-source] Ohio State ready to back QB Luke Fahey after Julian Sayin injury (The Columbus Dispatch) :: Julian Sayin, wait 2nd source
+2026-10-18 01:13:20 indexed 915 markets
+2026-10-18 01:23:56 indexed 914 markets
+2026-10-18 01:24:01   drop[1-source] Licenses of five Reliance and Eternal facilities suspended in Maharashtra — The Express Tr (UA.NEWS) :: Reliance and Eternal facilities in Maharashtra, wait 2nd source
+2026-10-18 01:24:01   drop[team-not-named] Ryan Day Says Julian Sayin Will Miss Several Weeks With Injury (SuaraGarut.ID) :: Ohio State Buckeyes
+2026-10-18 01:26:19   drop[not-key] Cincinnati’s Josh Hough gets a painful surprise when the injury cart backs into a wall (MARCA) :: Josh Hough: injury from cart accident
+2026-10-18 01:26:19   llm groq-120b: rate limited, skip 228s
+2026-10-18 01:26:19   drop[1-source] Ohio State escaped Indiana by inches, but Julian Sayin injury changes a lot (The Columbus Dispatch) :: Julian Sayin, wait 2nd source
