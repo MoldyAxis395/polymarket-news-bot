@@ -13065,3 +13065,45 @@
 2026-10-17 03:56:11 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 107)
 2026-10-17 03:56:13 [pengwin] NAPOLI-COMO: no Polymarket event (try 107)
 2026-10-17 03:56:16 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 107)
+2026-10-17 03:56:43 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 107)
+2026-10-17 03:57:27 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 5)
+2026-10-17 03:57:30   llm groq-120b: rate limited, skip 849s
+2026-10-17 03:57:30 [pengwin] BAYERN MONACO-LIPSIA: no LLM answer (try 5)
+2026-10-17 03:57:32 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 5)
+2026-10-17 03:57:34 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 5)
+2026-10-17 03:57:37 [pengwin] MANCHESTER CITY-IPSWICH TOWN: no LLM answer (try 7)
+2026-10-17 03:58:08   llm groq-20b: rate limited, skip 1086s
+2026-10-17 03:58:08 [pengwin] Betis-Barcellona: no LLM answer (try 7)
+2026-10-17 03:58:10 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 6)
+2026-10-17 03:58:13 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 5)
+2026-10-17 03:58:15 [pengwin] BOLOGNA-INTER: no Polymarket event (try 5)
+2026-10-17 04:02:31 indexed 937 markets
+2026-10-17 04:12:31 indexed 935 markets
+2026-10-17 04:18:01   drop[1-source] Korean army officer leaves post 64 times in 10 months to 'feed his lizard', gets suspended (Mothership) :: Republic of Korea Army, wait 2nd source
+2026-10-17 04:22:35 indexed 936 markets
+2026-10-17 04:24:42 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 108)
+2026-10-17 04:24:45 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 108)
+2026-10-17 04:24:47 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 108)
+2026-10-17 04:24:50 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 107)
+2026-10-17 04:24:53 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 107)
+2026-10-17 04:24:56 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 108)
+2026-10-17 04:24:59 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 108)
+2026-10-17 04:25:01 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 108)
+2026-10-17 04:25:04 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 108)
+2026-10-17 04:25:07 [pengwin] MONACO-TOLOSA: no Polymarket event (try 108)
+2026-10-17 04:25:10 [pengwin] BREST-ANGERS: no Polymarket event (try 108)
+2026-10-17 04:25:12 [pengwin] PSG-LE MANS: no Polymarket event (try 108)
+2026-10-17 04:25:15   llm groq-120b: rate limited, skip 31s
+2026-10-17 04:25:15 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 107)
+2026-10-17 04:25:18 [pengwin] RENNES-AUXERRE: no Polymarket event (try 108)
+2026-10-17 04:25:20 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 108)
+2026-10-17 04:25:23 [pengwin] AUXERRE-BREST: no Polymarket event (try 108)
+2026-10-17 04:26:12   llm groq-120b: rate limited, skip 20s
+2026-10-17 04:26:13 [pengwin] LAZIO-INTER: no Polymarket event (try 108)
+2026-10-17 04:26:15 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 108)
+2026-10-17 04:26:17 [pengwin] INTER-COMO: no Polymarket event (try 108)
+2026-10-17 04:26:20 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 107)
+2026-10-17 04:26:22 [pengwin] COMO-INTER: no Polymarket event (try 108)
+2026-10-17 04:26:24 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 108)
+2026-10-17 04:26:27 [pengwin] NAPOLI-COMO: no Polymarket event (try 108)
+2026-10-17 04:26:29 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 108)
