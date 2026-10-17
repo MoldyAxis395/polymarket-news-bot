@@ -13479,3 +13479,29 @@
 2026-10-17 22:38:55 indexed 925 markets
 2026-10-17 22:39:08   llm groq-120b: rate limited, skip 1275s
 2026-10-17 22:39:09   drop[no-pick] Ohio State QB Julian Sayin to miss 'several weeks' after suffering injury in win vs. India (CBS Sports) :: short
+2026-10-17 22:43:36   drop[team-not-named] Coach Ryan Day addresses injury of QB Julian Sayin after big win against Indiana (WSYX) :: Ohio State Buckeyes
+2026-10-17 22:43:36   drop[1-source] Liverpool hit by double injury setback before Villarreal visit (OneFootball) :: Virgil van Dijk, wait 2nd source
+2026-10-17 22:46:08 bluesky error x1: HTTPSConnectionPool(host='public.api.bsky.app', port=443): Read timed out. (read timeout=15)
+2026-10-17 22:48:56 indexed 921 markets
+2026-10-17 22:49:11   drop[kind] Ohio State's Julian Sayin status in question for Oregon game after injury (Yahoo Sports) :: other
+2026-10-17 22:49:11   llm groq-20b: rate limited, skip 349s
+2026-10-17 22:55:28 soccer_lineups error x1: 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/scoreboard
+2026-10-17 22:55:54   drop[1-source] Dortmund sweat over Karetsas after ankle injury against Union Berlin (Bulinews) :: Karetsas, wait 2nd source
+2026-10-17 22:55:54   llm groq-20b: rate limited, skip 325s
+2026-10-17 22:57:23 NEWS [Ian Rapoport 0m] Breaking: Eagles QB Jalen Hurts is on Injured Reserve.
+2026-10-17 22:57:23   skip Panthers :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-17 22:58:21 indexed 920 markets
+2026-10-17 23:03:02   drop[team-not-named] Kompany suffers injury against Leipzig: Eberl reveals his stance on the Arsenal clash (Goal.com) :: Burnley FC
+2026-10-17 23:05:20   drop[kind] Alonso: James injury will not change Chelsea’s January plans (LiveScore) :: other
+2026-10-17 23:06:57   drop[kind] 🚨 Hansi Flick on 11 wins in 11 games this season: “Well, nice… but we have to win titles”. (Fabrizio Romano) :: other
+2026-10-17 23:07:48   drop[unconfirmed] Alabama RB EJ Crowell heads to locker room with apparent injury in 1st half vs. Tennessee (On3) :: left game with apparent injury in first half
+2026-10-17 23:07:48   drop[1-source] Tennessee Football Star Offensive Lineman David Sanders Jr. Exits Alabama Game With Injury (Rocky Top Insider) :: David Sanders Jr., wait 2nd source
+2026-10-17 23:08:23 indexed 925 markets
+2026-10-17 23:09:58   drop[1-source] 49ers get Kyle Juszczyk back for Commanders, Nick Bosa OUT for another week (Niners Nation) :: Kyle Juszczyk, wait 2nd source
+2026-10-17 23:09:59   drop[1-source] Chase Sowell Shakes Off Injury Scare, Delivers Monster First Half Against Michigan (Nittany Sports Now) :: Chase Sowell, wait 2nd source
+2026-10-17 23:09:59   llm groq-120b: rate limited, skip 322s
+2026-10-17 23:10:00   drop[no-pick] Former NFL Pro Bowler slams Ohio State QB following Julian Sayin’s injury exit in win over (A to Z Sports) :: short
+2026-10-17 23:10:29   llm groq-20b: rate limited, skip 85s
+2026-10-17 23:10:29   drop[no-pick] He’s back: The Bears are planning to start QB Caleb Williams on Sunday, sources tell NFL N (Ian Rapoport) :: None
+2026-10-17 23:11:26 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-17 23:12:15   llm groq-20b: rate limited, skip 182s
