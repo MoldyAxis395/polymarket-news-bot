@@ -13464,3 +13464,18 @@
 2026-10-17 22:04:29   llm groq-20b: rate limited, skip 62s
 2026-10-17 22:08:54 indexed 923 markets
 2026-10-17 22:10:14 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-17 22:13:43   drop[team-not-named] Val Chmerkovskiy Releases Statement After Suspension from ‘DWTS’ (Cosmopolitan) :: Dancing with the Stars
+2026-10-17 22:14:02 [pengwin]   book error ES Troyes AC vs. Racing Club de Lens: Both Teams t: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-17 22:15:52   drop[not-key] Commanders | Croskey-Merritt out vs. 49ers after re-injury, White and Ekeler cleared (Fantasy Guru) :: Croskey-Merritt: out vs 49ers after re‑injury
+2026-10-17 22:15:52   drop[not-key] Commanders | Jacory Croskey-Merritt ruled out for Week 6 at 49ers (Fantasy Guru) :: Jacory Croskey-Merritt: ruled out for Week 6 vs 49ers
+2026-10-17 22:18:19 indexed 926 markets
+2026-10-17 22:20:41   drop[unconfirmed] No. 4 Ohio State QB Julian Sayin likely out 'several weeks' after apparent right arm injur (Yahoo) :: right arm injury likely sidelines him for weeks
+2026-10-17 22:25:16   llm groq-120b: rate limited, skip 331s
+2026-10-17 22:25:17   drop[no-pick] Ohio State QB Julian Sayin Suffers Significant Injury (Detroit Sports Nation) :: short
+2026-10-17 22:27:35 NEWS [TotalProSports 4m] BREAKING: Eagles Superstar Jalen Hurts Out For The Foreseeable Future After Doctors Weigh In On Injury
+2026-10-17 22:27:35   skip Panthers :: Panthers vs. Eagles (rss sport (measure only))
+2026-10-17 22:28:54 indexed 920 markets
+2026-10-17 22:32:01   drop[1-source] Val Chmerkovskiy Speaks Out After He’s Suspended from ‘Dancing with the Stars’ (Just Jared) :: Val Chmerkovskiy, wait 2nd source
+2026-10-17 22:38:55 indexed 925 markets
+2026-10-17 22:39:08   llm groq-120b: rate limited, skip 1275s
+2026-10-17 22:39:09   drop[no-pick] Ohio State QB Julian Sayin to miss 'several weeks' after suffering injury in win vs. India (CBS Sports) :: short
