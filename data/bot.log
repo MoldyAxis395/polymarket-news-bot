@@ -13356,3 +13356,27 @@
 2026-10-17 19:41:00   llm groq-120b: rate limited, skip 53s
 2026-10-17 19:41:01   drop[unconfirmed] Liverpool’s Dominik Szoboszlai, Jeremie Frimpong out for ‘some time’ with injury – Andoni  (The New York Times) :: injury
 2026-10-17 19:41:01   drop[kind] Erling Haaland sparks major injury fears for Manchester City following tight Premier Leagu (Goal.com) :: other
+2026-10-17 19:48:39 indexed 929 markets
+2026-10-17 19:51:01   drop[no-market] Keshi Anderson: John Mousinho on Portsmouth attacker's hamstring injury (BBC) :: Portsmouth FC
+2026-10-17 19:51:02   drop[1-source] Stephanie Vaquer Reveals Ankle Injury Following WWE Money In The Bank Title Loss (PWMania) :: Stephanie Vaquer, wait 2nd source
+2026-10-17 19:54:58 NEWS [ESPN 0m] Troyes confirmed lineup vs Lens: Iron Gomis, Kandet Diawara, Jeremy Le Douaron ruled out of starting XI [fra.1]
+2026-10-17 19:54:58   skip Yes :: Will Racing Club de Lens win on 2026-10-17? (low conf 0.62)
+2026-10-17 19:54:58   llm groq-120b: rate limited, skip 126s
+2026-10-17 19:54:59   drop[no-pick] Lens confirmed lineup vs Troyes: Samson Baidoo, Junior Kadile, Matthieu Udol, Amadou Haida (ESPN) :: short
+2026-10-17 19:58:40 indexed 931 markets
+2026-10-17 19:58:54   drop[kind] Medical Students Train to Tackle Firearm Injury Prevention in Two-Hour Session (Bioengineer.org) :: other
+2026-10-17 20:03:01   llm groq-120b: rate limited, skip 275s
+2026-10-17 20:03:02   drop[no-pick] Valencia confirmed lineup vs Athletic Club: Mouctar Diakhaby, Filip Ugrinic ruled out of s (ESPN) :: short
+2026-10-17 20:03:02 NEWS [ESPN 0m] Athletic Club confirmed lineup vs Valencia: Yuri Berchiche, Jesús Areso, Yeray ruled out of starting XI [esp.1]
+2026-10-17 20:03:02   skip No :: Will Athletic Club win on 2026-10-17? (low conf 0.6)
+2026-10-17 20:03:03 NEWS [ESPN 0m] Lille confirmed lineup vs Brest: Berke Özer, Alexsandro, Nabil Bentaleb, Ayase Ueda ruled out of starting XI [fra.1]
+2026-10-17 20:03:03   skip No :: Will Lille OSC win on 2026-10-17? (low conf 0.6)
+2026-10-17 20:03:19   llm groq-20b: rate limited, skip 225s
+2026-10-17 20:04:46 NEWS [ESPN 8m] Olli Maatta (D, Minnesota Wild) ruled out: Day-To-Day -> Out [NHL]
+2026-10-17 20:04:46   skip Blue Jackets :: Blue Jackets vs. Wild (rules fallback, LLM down (not traded))
+2026-10-17 20:08:43 indexed 944 markets
+2026-10-17 20:08:53 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-17 20:08:57   llm groq-120b: rate limited, skip 423s
+2026-10-17 20:08:57   drop[1-source] Tennessee quarterback Faizon Brandon available; Alabama key players out (Knoxville News Sentinel) :: Faizon Brandon, wait 2nd source
+2026-10-17 20:08:58   llm groq-20b: rate limited, skip 142s
+2026-10-17 20:11:49   drop[kind] Retiring Republicans bash Trump’s sanctions pullback politi.co/4hSE0p7 (Politico) :: other
