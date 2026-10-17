@@ -13433,3 +13433,22 @@
 2026-10-17 16:53:10   llm groq-120b: rate limited, skip 146s
 2026-10-17 16:53:11 NEWS [ESPN 8m] John Tavares (C, Toronto Maple Leafs) ruled out: Day-To-Day -> Out [NHL]
 2026-10-17 16:53:12   BUY Islanders @ 0.460 x21.7 ($10.00) :: Islanders vs. Maple Leafs
+2026-10-17 16:57:55   drop[1-source] Liverpool dealt new Dominik Szoboszlai injury blow vs. Brentford as Andoni Iraola decision (Sports Mole) :: Dominik Szoboszlai, wait 2nd source
+2026-10-17 17:03:10 indexed 948 markets
+2026-10-17 17:07:09   drop[1-source] Chelsea sink Everton 2-0, lose Martinez to head injury (www.westernpost.ng) :: Chelsea Football Club, wait 2nd source
+2026-10-17 17:09:30   drop[not-key] Justin Sourdif (RW, Washington Capitals) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Justin Sourdif: ruled out due to injury
+2026-10-17 17:13:09 indexed 935 markets
+2026-10-17 17:14:10   drop[kind] Chargers' injury woes give Chiefs no excuse to lose Week 6 showdown (KC Kingdom) :: other
+2026-10-17 17:14:10   llm groq-120b: rate limited, skip 168s
+2026-10-17 17:14:11   drop[1-source] Emi Martinez' horror head injury mars Chelsea's 2-0 win against Everton (India Today) :: Emi Martinez, wait 2nd source
+2026-10-17 17:14:17   drop[side] Bologna confirmed lineup vs Internazionale: Massimo Pessina, Torbjørn Heggem, Riccardo Ors (ESPN) :: Will Bologna FC 1909 vs. FC Internazionale Milano end in a draw? -> Yes vs fact ruled_out: Massimo Pessina (Bologna, soc
+2026-10-17 17:14:18   drop[team-not-named] Internazionale confirmed lineup vs Bologna: Hakan Çalhanoglu, Andy Diouf, Lautaro Martínez (ESPN) :: Inter Milan
+2026-10-17 17:16:38   llm groq-20b: rate limited, skip 35s
+2026-10-17 17:16:38 NEWS [ESPN 6m] Cam York (D, Philadelphia Flyers) ruled out: Day-To-Day -> Out [NHL]
+2026-10-17 17:16:38   skip Senators :: Senators vs. Flyers (rules fallback, LLM down (not traded))
+2026-10-17 17:18:39   drop[team-not-named] TFC coach Robin Fraser suspended for match against New York Red Bulls (Sportsnet.ca) :: Toronto FC
+2026-10-17 17:20:56   llm groq-120b: rate limited, skip 55s
+2026-10-17 17:20:56   drop[unconfirmed] Sources: RB Jacory Croskey-Merritt expected out for Week 6 (Last Man Standig | Substack) :: injury
+2026-10-17 17:20:56   llm groq-20b: rate limited, skip 81s
+2026-10-17 17:23:12 indexed 935 markets
+2026-10-17 17:25:37   drop[kind] Gameday Injury Expectations: Week 6 (Footballguys) :: other
