@@ -13233,3 +13233,46 @@
 2026-10-17 05:56:00 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 111)
 2026-10-17 05:56:02   llm groq-120b: rate limited, skip 38s
 2026-10-17 05:56:02 [pengwin] AUXERRE-BREST: no Polymarket event (try 111)
+2026-10-17 05:56:51   llm groq-120b: rate limited, skip 26s
+2026-10-17 05:56:51 [pengwin] LAZIO-INTER: no Polymarket event (try 111)
+2026-10-17 05:56:54 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 111)
+2026-10-17 05:56:56 [pengwin] INTER-COMO: no Polymarket event (try 111)
+2026-10-17 05:56:58 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 110)
+2026-10-17 05:57:00 [pengwin] COMO-INTER: no Polymarket event (try 111)
+2026-10-17 05:57:03 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 111)
+2026-10-17 05:57:05 [pengwin] NAPOLI-COMO: no Polymarket event (try 111)
+2026-10-17 05:57:07 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 111)
+2026-10-17 05:57:35 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 111)
+2026-10-17 05:58:19 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 9)
+2026-10-17 05:58:22   llm groq-120b: rate limited, skip 21s
+2026-10-17 05:58:22 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 9)
+2026-10-17 05:58:25 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 9)
+2026-10-17 05:58:27   llm groq-20b: rate limited, skip 484s
+2026-10-17 05:58:27 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no LLM answer (try 9)
+2026-10-17 05:58:58   llm groq-120b: rate limited, skip 1047s
+2026-10-17 05:58:58 [pengwin] Betis-Barcellona: no LLM answer (try 11)
+2026-10-17 05:59:00 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 10)
+2026-10-17 05:59:03 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 9)
+2026-10-17 05:59:05 [pengwin] BOLOGNA-INTER: no Polymarket event (try 9)
+2026-10-17 06:02:43 indexed 906 markets
+2026-10-17 06:10:41   drop[side] ALCS Game 4 between Guardians, Rays postponed to Saturday reut.rs/4sbIESr (Reuters) :: Tampa Bay Rays vs. Cleveland Guardians -> Tampa Bay Rays vs fact official_decision: - (Guardians, mlb), bad for Guardian
+2026-10-17 06:12:43 indexed 907 markets
+2026-10-17 06:13:43   drop[unconfirmed] Mitchell Moses ruled out of World Cup (Sporting News AU) :: injury
+2026-10-17 06:22:44 indexed 898 markets
+2026-10-17 06:25:32 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 112)
+2026-10-17 06:25:35 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 112)
+2026-10-17 06:25:37 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 112)
+2026-10-17 06:25:40 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 111)
+2026-10-17 06:25:43 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 111)
+2026-10-17 06:25:46 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 112)
+2026-10-17 06:25:48 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 112)
+2026-10-17 06:25:51 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 112)
+2026-10-17 06:25:54 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 112)
+2026-10-17 06:25:56 [pengwin] MONACO-TOLOSA: no Polymarket event (try 112)
+2026-10-17 06:25:59 [pengwin] BREST-ANGERS: no Polymarket event (try 112)
+2026-10-17 06:26:01 [pengwin] PSG-LE MANS: no Polymarket event (try 112)
+2026-10-17 06:26:03 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 111)
+2026-10-17 06:26:06 [pengwin] RENNES-AUXERRE: no Polymarket event (try 112)
+2026-10-17 06:26:09   llm groq-120b: rate limited, skip 52s
+2026-10-17 06:26:09 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 112)
+2026-10-17 06:26:11 [pengwin] AUXERRE-BREST: no Polymarket event (try 112)
