@@ -13365,3 +13365,24 @@
 2026-10-17 15:25:26   drop[not-key] Match on Smackdown stopped after R-Truth injury (Gerweck.net) :: R-Truth: injured during match causing stoppage
 2026-10-17 15:25:26   llm groq-120b: rate limited, skip 251s
 2026-10-17 15:25:27   drop[1-source] Manchester United receive injury boost ahead of Leeds United clash (EPL Index) :: Marcus Rashford, wait 2nd source
+2026-10-17 15:30:02   drop[no-market] Hyderabad : Police Inspector suspended after an inquiry found that he allegedly interfered (Cross Town News) :: Hyderabad Police Department
+2026-10-17 15:32:29   llm groq-120b: rate limited, skip 140s
+2026-10-17 15:32:30   drop[no-pick] Chelsea’s Emiliano Martinez taken to hospital with suspected head injury (The New York Times) :: short
+2026-10-17 15:32:30   llm groq-20b: rate limited, skip 141s
+2026-10-17 15:33:02 indexed 992 markets
+2026-10-17 15:39:19   drop[1-source] Liton ruled out of tri-nation series with hip injury (Bangladesh Sangbad Sangstha (BSS)) :: Liton Das, wait 2nd source
+2026-10-17 15:39:19   llm groq-120b: rate limited, skip 34s
+2026-10-17 15:39:19   drop[1-source] Big Chelsea win at Everton marred as Martinez suffers serious injury (London Evening Standard) :: Chelsea, wait 2nd source
+2026-10-17 15:43:01 indexed 986 markets
+2026-10-17 15:46:16   llm groq-120b: rate limited, skip 15s
+2026-10-17 15:46:19   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-17 15:46:19   drop[verify] Eagles QB Jalen Hurts ruled out for Week 6 after blood clot found in his leg, not expected (Yahoo Sports) :: no answer
+2026-10-17 15:46:20   drop[1-source] Steelers Facing Devastating Michael Pittman Jr Injury Setback (Steeler Nation) :: Michael Pittman Jr, wait 2nd source
+2026-10-17 15:48:33   drop[kind] Two Injury-Related Edges Virginia Tech Can Exploit Against Georgia Tech (247Sports) :: other
+2026-10-17 15:51:01   llm groq-120b: rate limited, skip 128s
+2026-10-17 15:51:02   drop[kind] Roswell's Miller Westerfield: Montlick Injury Attorneys Athlete of the Week (WSB-TV) :: other
+2026-10-17 15:51:02   llm groq-20b: rate limited, skip 250s
+2026-10-17 15:53:00 indexed 994 markets
+2026-10-17 15:55:29   drop[not-key] Penguins’ Egor Chinakhov Sustains Injury At Practice (Pro Hockey Rumors) :: Egor Chinakhov: sustained injury during practice
+2026-10-17 15:55:29   llm groq-120b: rate limited, skip 131s
+2026-10-17 15:55:29   drop[not-key] White Plains Attorney Stephen Holden Suspended Over $290K Trust Account Shortfall (Hoodline) :: Stephen Holden: short
