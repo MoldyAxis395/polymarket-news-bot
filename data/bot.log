@@ -13530,3 +13530,26 @@
 2026-10-17 23:38:26 indexed 918 markets
 2026-10-17 23:41:33 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-17 23:42:19   drop[1-source] Photos: Jeremiah Smith dazzles with TD, Julian Sayin leaves with injury, Buckeyes win thri (247Sports) :: Ohio State Buckeyes, wait 2nd source
+2026-10-17 23:44:44   llm groq-120b: rate limited, skip 67s
+2026-10-17 23:44:45   drop[1-source] Val Chmerkovskiy suspended from Dancing with the Stars over Oscars Slap reference (TV Tattle) :: Val Chmerkovskiy, wait 2nd source
+2026-10-17 23:46:56   drop[1-source] Stephanie Vaquer Makes In-Ring Return From Injury at 10/16 WWE Hawaii Tour Live Event (TPWW) :: Stephanie Vaquer, wait 2nd source
+2026-10-17 23:48:25 indexed 921 markets
+2026-10-17 23:49:15   llm groq-120b: rate limited, skip 95s
+2026-10-17 23:49:15   drop[no-pick] Texas EDGE Colin Simmons leaves Saturday's loss with a "lower leg" injury, per Steve Sarki (247Sports) :: short
+2026-10-17 23:50:27   drop[not-key] Brandon Montour (D, Seattle Kraken) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Brandon Montour: day-to-day
+2026-10-17 23:51:34   llm groq-120b: rate limited, skip 233s
+2026-10-17 23:51:34   drop[no-pick] Dortmund sweat over Karetsas after ankle injury in Union Berlin draw (OneFootball) :: short
+2026-10-17 23:51:34   llm groq-20b: rate limited, skip 163s
+2026-10-17 23:53:10 [pengwin]   SELL Under @ 1.000 (resolved) pnl +0.99 :: Valencia CF vs. Athletic Club: O/U 4.5
+2026-10-17 23:56:09   llm groq-120b: rate limited, skip 38s
+2026-10-17 23:56:10   drop[unconfirmed] Kyle Juszczyk Available, Deebo Ruled OUT vs. Commanders in Week 6 #WASvsSF (San Francisco 49ers) :: injury
+2026-10-17 23:56:10   llm groq-20b: rate limited, skip 314s
+2026-10-17 23:58:32 indexed 918 markets
+2026-10-18 00:02:26   llm groq-120b: rate limited, skip 624s
+2026-10-18 00:02:26   llm groq-20b: rate limited, skip 29s
+2026-10-18 00:02:26   drop[no-pick] No. 4 Ohio State holds off No. 5 Indiana for 19-15 victory but loses QB Julian Sayin to in (ABC News - Breaking News, Latest News and Videos) :: None
+2026-10-18 00:04:44   drop[no-market] USC vs. Ohio State Showdown Takes on New Meaning With Julian Sayin Injury (Sports Illustrated) :: USC
+2026-10-18 00:05:39   drop[not-key] Noah Penda (F, Orlando Magic) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Noah Penda: hamstring
+2026-10-18 00:09:03 indexed 911 markets
+2026-10-18 00:09:09   llm groq-20b: rate limited, skip 232s
+2026-10-18 00:11:38 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
