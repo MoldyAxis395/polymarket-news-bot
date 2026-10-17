@@ -72,7 +72,8 @@
    "conf": 1.0,
    "end": "2026-10-17T13:30:00+00:00",
    "last_bid": 0.999,
-   "book_err": false
+   "book_err": true,
+   "settle_retry": 1792252981.4485333
   },
   {
    "market_id": "5263880",
@@ -89,8 +90,9 @@
    "reason": "pengwin exact: X2 = NO on home win",
    "conf": 1.0,
    "end": "2026-10-17T13:30:00+00:00",
-   "last_bid": 0.14,
-   "book_err": false
+   "last_bid": null,
+   "book_err": false,
+   "settle_retry": 1792252678.1796944
   }
  ],
  "closed": [

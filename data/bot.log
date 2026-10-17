@@ -13452,3 +13452,26 @@
 2026-10-17 17:20:56   llm groq-20b: rate limited, skip 81s
 2026-10-17 17:23:12 indexed 935 markets
 2026-10-17 17:25:37   drop[kind] Gameday Injury Expectations: Week 6 (Footballguys) :: other
+2026-10-17 17:33:14 indexed 935 markets
+2026-10-17 17:33:18 NEWS [ESPN 0m] Newcastle United confirmed lineup vs Aston Villa: Jacob Murphy ruled out of starting XI [eng.1]
+2026-10-17 17:33:18   skip Yes :: Will Aston Villa FC win on 2026-10-17? (low conf 0.6)
+2026-10-17 17:33:18   llm groq-120b: rate limited, skip 261s
+2026-10-17 17:33:19   drop[side] Aston Villa confirmed lineup vs Newcastle United: Pau Torres, Ross Barkley, John McGinn, I (ESPN) :: Will Aston Villa FC win on 2026-10-17? -> Yes vs fact ruled_out: Pau Torres (Aston Villa, soccer), bad for Aston Villa. 
+2026-10-17 17:33:19   llm groq-20b: rate limited, skip 116s
+2026-10-17 17:39:32   drop[not-key] Bears Injury Report: Edwards, Elliott, Monangai, Odeyingbo Out; Caleb Williams Questionabl (On Tap Sports Net) :: J.J. Edwards: Edwards listed as out in Bears injury report
+2026-10-17 17:41:57   llm groq-120b: rate limited, skip 26s
+2026-10-17 17:41:57   drop[team-not-named] APC reinstates suspended Jigawa federal lawmaker (Daily Post Nigeria) :: All Progressives Congress
+2026-10-17 17:43:13 indexed 936 markets
+2026-10-17 17:45:20   drop[kind] Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says reut.rs/4 (Reuters) :: other
+2026-10-17 17:46:27   llm groq-120b: rate limited, skip 47s
+2026-10-17 17:46:27   drop[1-source] Falcons vs. Bears final injury report: C.J. Henderson will not play in Week 6 (The Falcoholic) :: C.J. Henderson, wait 2nd source
+2026-10-17 17:50:32   llm groq-120b: rate limited, skip 4s
+2026-10-17 17:50:32   drop[side] Bowen Byram (D, Chicago Blackhawks) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Stars vs. Blackhawks -> Blackhawks vs fact ruled_out: Bowen Byram (Chicago Blackhawks, nhl), bad for Chicago Blackhawks.
+2026-10-17 17:51:16   llm groq-120b: rate limited, skip 48s
+2026-10-17 17:51:17   drop[kind] NFL Network Analyst Blasted Over Jalen Hurts Injury Claim (TotalProSports) :: other
+2026-10-17 17:53:01 [pengwin]   book error Will FC Schalke 04 win on 2026-10-17?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=17937493591448975809727208474835021212303284566515405809616719903671562422215
+2026-10-17 17:53:14 indexed 929 markets
+2026-10-17 17:53:29   llm groq-120b: rate limited, skip 285s
+2026-10-17 17:53:29 NEWS [ESPN 0m] Bayern Munich confirmed lineup vs RB Leipzig: Jonathan Tah, Tom Bischof, Lennart Karl ruled out of starting XI [ger.1]
+2026-10-17 17:53:29   skip Yes :: Will RB Leipzig win on 2026-10-17? (low conf 0.6)
+2026-10-17 17:53:29   llm groq-20b: rate limited, skip 350s
