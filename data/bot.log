@@ -13407,3 +13407,46 @@
 2026-10-17 10:40:51 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 114)
 2026-10-17 10:41:19 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 114)
 2026-10-17 10:42:04 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 12)
+2026-10-17 10:42:07   llm groq-120b: rate limited, skip 965s
+2026-10-17 10:42:07   llm groq-20b: rate limited, skip 687s
+2026-10-17 10:42:07 [pengwin] AMBURGO-STOCCARDA: no LLM answer (try 12)
+2026-10-17 10:42:09 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 12)
+2026-10-17 10:42:40 [pengwin] Betis-Barcellona: no Polymarket event (try 14)
+2026-10-17 10:42:43 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 13)
+2026-10-17 10:42:45 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 12)
+2026-10-17 10:42:47 [pengwin] BOLOGNA-INTER: no Polymarket event (try 12)
+2026-10-17 10:47:50 indexed 910 markets
+2026-10-17 10:56:19   drop[1-source] Late night venue has licence suspended after Wembley shooting | News - Hits Radio (London) (Rayo) :: Late night venue, wait 2nd source
+2026-10-17 10:57:51 indexed 910 markets
+2026-10-17 11:03:16   drop[kind] Drug driver given suspended prison sentence after leading police on pursuit through Berwic (Northumberland Gazette) :: other
+2026-10-17 11:05:34   drop[1-source] Celta Vigo handed double injury blow as World Cup winner to miss Celtic clash (The National Scot) :: Celta Vigo, wait 2nd source
+2026-10-17 11:07:52 indexed 912 markets
+2026-10-17 11:09:15 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 115)
+2026-10-17 11:09:19 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 115)
+2026-10-17 11:09:21 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 115)
+2026-10-17 11:09:24 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 114)
+2026-10-17 11:09:27 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 114)
+2026-10-17 11:09:30 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 115)
+2026-10-17 11:09:33 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 115)
+2026-10-17 11:09:35 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 115)
+2026-10-17 11:09:38   llm groq-120b: rate limited, skip 58s
+2026-10-17 11:09:38 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 115)
+2026-10-17 11:09:41 [pengwin] MONACO-TOLOSA: no Polymarket event (try 115)
+2026-10-17 11:09:44 [pengwin] BREST-ANGERS: no Polymarket event (try 115)
+2026-10-17 11:09:46 [pengwin] PSG-LE MANS: no Polymarket event (try 115)
+2026-10-17 11:09:48 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 114)
+2026-10-17 11:09:51 [pengwin] RENNES-AUXERRE: no Polymarket event (try 115)
+2026-10-17 11:09:54 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 115)
+2026-10-17 11:09:56 [pengwin] AUXERRE-BREST: no Polymarket event (try 115)
+2026-10-17 11:10:47   llm groq-120b: rate limited, skip 27s
+2026-10-17 11:10:47 [pengwin] LAZIO-INTER: no Polymarket event (try 115)
+2026-10-17 11:10:49 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 115)
+2026-10-17 11:10:52 [pengwin] INTER-COMO: no Polymarket event (try 115)
+2026-10-17 11:10:54 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 114)
+2026-10-17 11:10:57 [pengwin] COMO-INTER: no Polymarket event (try 115)
+2026-10-17 11:10:59 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 115)
+2026-10-17 11:11:02 [pengwin] NAPOLI-COMO: no Polymarket event (try 115)
+2026-10-17 11:11:05 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 115)
+2026-10-17 11:11:33   llm groq-120b: rate limited, skip 60s
+2026-10-17 11:11:33   llm groq-20b: rate limited, skip 329s
+2026-10-17 11:11:33 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 115)
