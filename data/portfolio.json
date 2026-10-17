@@ -1,25 +1,6 @@
 {
- "cash": 74.21544547338507,
- "positions": [
-  {
-   "market_id": "4329893",
-   "question": "Cowboys vs. Packers",
-   "slug": "nfl-dal-gb-2026-10-19",
-   "outcome": "Packers",
-   "token": "21229555207265850108920299530398596306658389490025953671520798592653541449729",
-   "shares": 19.23076923076923,
-   "entry": 0.52,
-   "cost": 10.0,
-   "opened": 1792185834.8338068,
-   "opened_iso": "2026-10-16T21:23:54+00:00",
-   "news": "Drew Shelton (OT, Dallas Cowboys) ruled out: Questionable -> Out [NFL]",
-   "reason": "llm[groq-20b] trusted: Drew Shelton's injury weakens Dallas' offensive line, decreasing Cowboys' win probability and increasing Packers' chance to win the upcoming game.",
-   "conf": 0.7,
-   "end": "2026-10-19T00:20:00+00:00",
-   "last_bid": 0.51,
-   "book_err": false
-  }
- ],
+ "cash": 84.02313778107738,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -1931,6 +1912,28 @@
    "pnl": -0.19607843137254832,
    "why": "max hold",
    "closed_iso": "2026-10-17T00:07:13+00:00"
+  },
+  {
+   "market_id": "4329893",
+   "question": "Cowboys vs. Packers",
+   "slug": "nfl-dal-gb-2026-10-19",
+   "outcome": "Packers",
+   "token": "21229555207265850108920299530398596306658389490025953671520798592653541449729",
+   "shares": 19.23076923076923,
+   "entry": 0.52,
+   "cost": 10.0,
+   "opened": 1792185834.8338068,
+   "opened_iso": "2026-10-16T21:23:54+00:00",
+   "news": "Drew Shelton (OT, Dallas Cowboys) ruled out: Questionable -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: Drew Shelton's injury weakens Dallas' offensive line, decreasing Cowboys' win probability and increasing Packers' chance to win the upcoming game.",
+   "conf": 0.7,
+   "end": "2026-10-19T00:20:00+00:00",
+   "last_bid": 0.51,
+   "book_err": false,
+   "exit": 0.51,
+   "pnl": -0.1923076923076934,
+   "why": "max hold",
+   "closed_iso": "2026-10-17T03:24:10+00:00"
   }
  ],
  "cooldown": {
@@ -1989,6 +1992,7 @@
   "4058840": 1791527502.917582,
   "4024677": 1791760822.2038703,
   "4640805": 1791976899.3379605,
-  "4329883": 1792206433.6232815
+  "4329883": 1792206433.6232815,
+  "4329893": 1792218250.650857
  }
 }

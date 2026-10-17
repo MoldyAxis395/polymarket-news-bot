@@ -180,3 +180,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-16T18:07:07+00:00,BUY,Bears vs. Falcons,Bears,19.61,0.5100,10.00,,"C.J. Henderson (CB, Atlanta Falcons) ruled out: Questionable -> Out [NFL] | llm[groq-20b] trusted: Falcons losing starting cornerback hurts their defense, increasing Bears' win probability; Falcons price likely to drop, Bears price to rise >5 points."
 2026-10-16T21:23:54+00:00,BUY,Cowboys vs. Packers,Packers,19.23,0.5200,10.00,,"Drew Shelton (OT, Dallas Cowboys) ruled out: Questionable -> Out [NFL] | llm[groq-20b] trusted: Drew Shelton's injury weakens Dallas' offensive line, decreasing Cowboys' win probability and increasing Packers' chance to win the upcoming game."
 2026-10-17T00:07:13+00:00,SELL,Bears vs. Falcons,Bears,19.61,0.5000,9.80,-0.20,max hold
+2026-10-17T03:24:10+00:00,SELL,Cowboys vs. Packers,Packers,19.23,0.5100,9.81,-0.19,max hold
