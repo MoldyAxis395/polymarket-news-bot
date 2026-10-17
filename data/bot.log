@@ -13316,3 +13316,47 @@
 2026-10-17 06:56:27 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 113)
 2026-10-17 06:56:29   llm groq-120b: rate limited, skip 58s
 2026-10-17 06:56:29 [pengwin] AUXERRE-BREST: no Polymarket event (try 113)
+2026-10-17 06:57:18 [pengwin] LAZIO-INTER: no Polymarket event (try 113)
+2026-10-17 06:57:21 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 113)
+2026-10-17 06:57:23 [pengwin] INTER-COMO: no Polymarket event (try 113)
+2026-10-17 06:57:25 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 112)
+2026-10-17 06:57:27   llm groq-120b: rate limited, skip 39s
+2026-10-17 06:57:28 [pengwin] COMO-INTER: no Polymarket event (try 113)
+2026-10-17 06:57:30 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 113)
+2026-10-17 06:57:33 [pengwin] NAPOLI-COMO: no Polymarket event (try 113)
+2026-10-17 06:57:35 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 113)
+2026-10-17 06:58:04 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 113)
+2026-10-17 06:58:49 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 11)
+2026-10-17 06:58:52   llm groq-120b: rate limited, skip 794s
+2026-10-17 06:58:52   llm groq-20b: rate limited, skip 184s
+2026-10-17 06:58:52 [pengwin] BAYERN MONACO-LIPSIA: no LLM answer (try 11)
+2026-10-17 06:58:54 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 11)
+2026-10-17 06:59:25 [pengwin] Betis-Barcellona: no Polymarket event (try 13)
+2026-10-17 06:59:28 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 12)
+2026-10-17 06:59:30 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 11)
+2026-10-17 06:59:33 [pengwin] BOLOGNA-INTER: no Polymarket event (try 11)
+2026-10-17 07:02:03   drop[1-source] Struggles continue for injury-riddled Montevallo in loss to Jemison (Shelby County Reporter) :: Montevallo, wait 2nd source
+2026-10-17 07:02:48 indexed 914 markets
+2026-10-17 07:04:26   drop[1-source] Medic suspended after crashing his car into a city home (EDP24) :: Medic, wait 2nd source
+2026-10-17 07:04:26   llm groq-20b: rate limited, skip 55s
+2026-10-17 07:12:50 indexed 912 markets
+2026-10-17 07:22:50 indexed 912 markets
+2026-10-17 07:25:19   drop[1-source] Trump Suspended Sanctions Against Russia That Were Promoted by Lindsey Graham — Bloomberg (UA.NEWS) :: Donald Trump, wait 2nd source
+2026-10-17 07:25:19   drop[1-source] Kangaroos star’s World Cup campaign over after ‘rare’ injury (The Daily Telegraph) :: Australia national rugby league team (the Kangaroos), wait 2nd source
+2026-10-17 07:26:00 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 114)
+2026-10-17 07:26:03 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 114)
+2026-10-17 07:26:05 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 114)
+2026-10-17 07:26:08 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 113)
+2026-10-17 07:26:11 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 113)
+2026-10-17 07:26:14 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 114)
+2026-10-17 07:26:16   llm groq-120b: rate limited, skip 191s
+2026-10-17 07:26:16 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 114)
+2026-10-17 07:26:19 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 114)
+2026-10-17 07:26:21 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 114)
+2026-10-17 07:26:24 [pengwin] MONACO-TOLOSA: no Polymarket event (try 114)
+2026-10-17 07:26:27 [pengwin] BREST-ANGERS: no Polymarket event (try 114)
+2026-10-17 07:26:29 [pengwin] PSG-LE MANS: no Polymarket event (try 114)
+2026-10-17 07:26:31 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 113)
+2026-10-17 07:26:34 [pengwin] RENNES-AUXERRE: no Polymarket event (try 114)
+2026-10-17 07:26:37 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 114)
+2026-10-17 07:26:39 [pengwin] AUXERRE-BREST: no Polymarket event (try 114)
