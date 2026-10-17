@@ -13107,277 +13107,48 @@
 2026-10-17 04:26:24 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 108)
 2026-10-17 04:26:27 [pengwin] NAPOLI-COMO: no Polymarket event (try 108)
 2026-10-17 04:26:29 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 108)
-2026-10-17 04:26:57 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 108)
-2026-10-17 04:27:43 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 6)
-2026-10-17 04:27:46   llm groq-120b: rate limited, skip 16s
-2026-10-17 04:27:46 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 6)
-2026-10-17 04:27:49 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 6)
-2026-10-17 04:27:52   llm groq-20b: rate limited, skip 774s
-2026-10-17 04:27:52 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no LLM answer (try 6)
-2026-10-17 04:27:55 [pengwin] MANCHESTER CITY-IPSWICH TOWN: no LLM answer (try 8)
-2026-10-17 04:28:26   llm groq-120b: rate limited, skip 1080s
-2026-10-17 04:28:26 [pengwin] Betis-Barcellona: no LLM answer (try 8)
-2026-10-17 04:28:29 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 7)
-2026-10-17 04:28:32 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 6)
-2026-10-17 04:28:34 [pengwin] BOLOGNA-INTER: no Polymarket event (try 6)
-2026-10-17 04:32:36 indexed 935 markets
-2026-10-17 04:42:35 indexed 930 markets
-2026-10-17 04:43:29   drop[1-source] Cobie Durant Injury: Won't play against Green Bay (RotoWire) :: Cobie Durant, wait 2nd source
-2026-10-17 04:43:29   llm groq-20b: rate limited, skip 337s
-2026-10-17 04:52:38 indexed 933 markets
-2026-10-17 04:55:02 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 109)
-2026-10-17 04:55:05 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 109)
-2026-10-17 04:55:07 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 109)
-2026-10-17 04:55:10 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 108)
-2026-10-17 04:55:13 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 108)
-2026-10-17 04:55:16 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 109)
-2026-10-17 04:55:19 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 109)
-2026-10-17 04:55:21 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 109)
-2026-10-17 04:55:24 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 109)
-2026-10-17 04:55:27 [pengwin] MONACO-TOLOSA: no Polymarket event (try 109)
-2026-10-17 04:55:29 [pengwin] BREST-ANGERS: no Polymarket event (try 109)
-2026-10-17 04:55:31 [pengwin] PSG-LE MANS: no Polymarket event (try 109)
-2026-10-17 04:55:34 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 108)
-2026-10-17 04:55:37 [pengwin] RENNES-AUXERRE: no Polymarket event (try 109)
-2026-10-17 04:55:39   llm groq-120b: rate limited, skip 35s
-2026-10-17 04:55:40 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 109)
-2026-10-17 04:55:42 [pengwin] AUXERRE-BREST: no Polymarket event (try 109)
-2026-10-17 04:55:45   drop[team-not-named] Trump issues order to bypass Russian sanctions in bill named for late Lindsey Graham polit (Politico) :: United States of America
-2026-10-17 04:56:14   drop[not-key] Tonka Hemingway (DT, Las Vegas Raiders) ruled out: Questionable -> Out [NFL] (ESPN) :: Tonka Hemingway: injury
-2026-10-17 04:56:31   llm groq-120b: rate limited, skip 34s
-2026-10-17 04:56:31   llm groq-20b: rate limited, skip 213s
-2026-10-17 04:56:31 [pengwin] LAZIO-INTER: no Polymarket event (try 109)
-2026-10-17 04:56:33 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 109)
-2026-10-17 04:56:35 [pengwin] INTER-COMO: no Polymarket event (try 109)
-2026-10-17 04:56:37 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 108)
-2026-10-17 04:56:39 [pengwin] COMO-INTER: no Polymarket event (try 109)
-2026-10-17 04:56:41 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 109)
-2026-10-17 04:56:43 [pengwin] NAPOLI-COMO: no Polymarket event (try 109)
-2026-10-17 04:56:45 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 109)
-2026-10-17 04:57:13 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 109)
-2026-10-17 04:57:58 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 7)
-2026-10-17 04:58:00   llm groq-120b: rate limited, skip 25s
-2026-10-17 04:58:00 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 7)
-2026-10-17 04:58:03 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 7)
-2026-10-17 04:58:05 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 7)
-2026-10-17 04:58:35   llm groq-120b: rate limited, skip 6s
-2026-10-17 04:58:35 [pengwin] Betis-Barcellona: no Polymarket event (try 9)
-2026-10-17 04:58:37 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 8)
-2026-10-17 04:58:39 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 7)
-2026-10-17 04:58:42   llm groq-120b: rate limited, skip 28s
-2026-10-17 04:58:42 [pengwin] BOLOGNA-INTER: no Polymarket event (try 7)
-2026-10-17 04:59:47   llm groq-120b: rate limited, skip 68s
-2026-10-17 05:02:38 indexed 936 markets
-2026-10-17 05:06:34   drop[kind] Neeraj Chopra aims for strong comeback next year after injury (The News Mill) :: other
-2026-10-17 05:12:38 indexed 929 markets
-2026-10-17 05:18:22   drop[unconfirmed] Feared R-Truth Injury After Awkward Finish To SmackDown Match (SEScoops) :: feared injury after match finish
-2026-10-17 05:22:40 indexed 931 markets
-2026-10-17 05:22:47   drop[1-source] Andy Reid Confirms Double Injury Blow for Chiefs Ahead of Chargers Game (EssentiallySports) :: Kansas City Chiefs, wait 2nd source
-2026-10-17 05:24:10   SELL Packers @ 0.510 (max hold) pnl -0.19 :: Cowboys vs. Packers
-2026-10-17 05:25:10 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 110)
-2026-10-17 05:25:14 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 110)
-2026-10-17 05:25:16 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 110)
-2026-10-17 05:25:19 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 109)
-2026-10-17 05:25:22 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 109)
-2026-10-17 05:25:24   llm groq-120b: rate limited, skip 3s
-2026-10-17 05:25:25 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 110)
-2026-10-17 05:25:27 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 110)
-2026-10-17 05:25:30 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 110)
-2026-10-17 05:25:33   llm groq-120b: rate limited, skip 92s
-2026-10-17 05:25:33 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 110)
-2026-10-17 05:25:35 [pengwin] MONACO-TOLOSA: no Polymarket event (try 110)
-2026-10-17 05:25:38 [pengwin] BREST-ANGERS: no Polymarket event (try 110)
-2026-10-17 05:25:40 [pengwin] PSG-LE MANS: no Polymarket event (try 110)
-2026-10-17 05:25:43 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 109)
-2026-10-17 05:25:45 [pengwin] RENNES-AUXERRE: no Polymarket event (try 110)
-2026-10-17 05:25:48 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 110)
-2026-10-17 05:25:50 [pengwin] AUXERRE-BREST: no Polymarket event (try 110)
-2026-10-17 05:26:40 [pengwin] LAZIO-INTER: no Polymarket event (try 110)
-2026-10-17 05:26:42 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 110)
-2026-10-17 05:26:45 [pengwin] INTER-COMO: no Polymarket event (try 110)
-2026-10-17 05:26:47 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 109)
-2026-10-17 05:26:49 [pengwin] COMO-INTER: no Polymarket event (try 110)
-2026-10-17 05:26:52 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 110)
-2026-10-17 05:26:54   llm groq-20b: rate limited, skip 46s
-2026-10-17 05:26:54 [pengwin] NAPOLI-COMO: no Polymarket event (try 110)
-2026-10-17 05:26:56 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 110)
-2026-10-17 05:27:24 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 110)
-2026-10-17 05:28:09 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 8)
-2026-10-17 05:28:12   llm groq-120b: rate limited, skip 13s
-2026-10-17 05:28:12 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 8)
-2026-10-17 05:28:15   llm groq-20b: rate limited, skip 78s
-2026-10-17 05:28:15 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 8)
-2026-10-17 05:28:17 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 8)
-2026-10-17 05:28:48   llm groq-120b: rate limited, skip 31s
-2026-10-17 05:28:48 [pengwin] Betis-Barcellona: no Polymarket event (try 10)
-2026-10-17 05:28:50 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 9)
-2026-10-17 05:28:53 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 8)
-2026-10-17 05:28:55 [pengwin] BOLOGNA-INTER: no Polymarket event (try 8)
-2026-10-17 05:32:41 indexed 926 markets
-2026-10-17 05:42:40 indexed 916 markets
-2026-10-17 05:52:41 indexed 916 markets
-2026-10-17 05:55:22 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 111)
-2026-10-17 05:55:26 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 111)
-2026-10-17 05:55:28 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 111)
-2026-10-17 05:55:31 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 110)
-2026-10-17 05:55:34 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 110)
-2026-10-17 05:55:37 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 111)
-2026-10-17 05:55:39 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 111)
-2026-10-17 05:55:42 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 111)
-2026-10-17 05:55:45 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 111)
-2026-10-17 05:55:47 [pengwin] MONACO-TOLOSA: no Polymarket event (try 111)
-2026-10-17 05:55:50 [pengwin] BREST-ANGERS: no Polymarket event (try 111)
-2026-10-17 05:55:52 [pengwin] PSG-LE MANS: no Polymarket event (try 111)
-2026-10-17 05:55:55 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 110)
-2026-10-17 05:55:57 [pengwin] RENNES-AUXERRE: no Polymarket event (try 111)
-2026-10-17 05:56:00 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 111)
-2026-10-17 05:56:02   llm groq-120b: rate limited, skip 38s
-2026-10-17 05:56:02 [pengwin] AUXERRE-BREST: no Polymarket event (try 111)
-2026-10-17 05:56:51   llm groq-120b: rate limited, skip 26s
-2026-10-17 05:56:51 [pengwin] LAZIO-INTER: no Polymarket event (try 111)
-2026-10-17 05:56:54 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 111)
-2026-10-17 05:56:56 [pengwin] INTER-COMO: no Polymarket event (try 111)
-2026-10-17 05:56:58 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 110)
-2026-10-17 05:57:00 [pengwin] COMO-INTER: no Polymarket event (try 111)
-2026-10-17 05:57:03 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 111)
-2026-10-17 05:57:05 [pengwin] NAPOLI-COMO: no Polymarket event (try 111)
-2026-10-17 05:57:07 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 111)
-2026-10-17 05:57:35 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 111)
-2026-10-17 05:58:19 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 9)
-2026-10-17 05:58:22   llm groq-120b: rate limited, skip 21s
-2026-10-17 05:58:22 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 9)
-2026-10-17 05:58:25 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 9)
-2026-10-17 05:58:27   llm groq-20b: rate limited, skip 484s
-2026-10-17 05:58:27 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no LLM answer (try 9)
-2026-10-17 05:58:58   llm groq-120b: rate limited, skip 1047s
-2026-10-17 05:58:58 [pengwin] Betis-Barcellona: no LLM answer (try 11)
-2026-10-17 05:59:00 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 10)
-2026-10-17 05:59:03 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 9)
-2026-10-17 05:59:05 [pengwin] BOLOGNA-INTER: no Polymarket event (try 9)
-2026-10-17 06:02:43 indexed 906 markets
-2026-10-17 06:10:41   drop[side] ALCS Game 4 between Guardians, Rays postponed to Saturday reut.rs/4sbIESr (Reuters) :: Tampa Bay Rays vs. Cleveland Guardians -> Tampa Bay Rays vs fact official_decision: - (Guardians, mlb), bad for Guardian
-2026-10-17 06:12:43 indexed 907 markets
-2026-10-17 06:13:43   drop[unconfirmed] Mitchell Moses ruled out of World Cup (Sporting News AU) :: injury
-2026-10-17 06:22:44 indexed 898 markets
-2026-10-17 06:25:32 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 112)
-2026-10-17 06:25:35 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 112)
-2026-10-17 06:25:37 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 112)
-2026-10-17 06:25:40 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 111)
-2026-10-17 06:25:43 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 111)
-2026-10-17 06:25:46 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 112)
-2026-10-17 06:25:48 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 112)
-2026-10-17 06:25:51 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 112)
-2026-10-17 06:25:54 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 112)
-2026-10-17 06:25:56 [pengwin] MONACO-TOLOSA: no Polymarket event (try 112)
-2026-10-17 06:25:59 [pengwin] BREST-ANGERS: no Polymarket event (try 112)
-2026-10-17 06:26:01 [pengwin] PSG-LE MANS: no Polymarket event (try 112)
-2026-10-17 06:26:03 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 111)
-2026-10-17 06:26:06 [pengwin] RENNES-AUXERRE: no Polymarket event (try 112)
-2026-10-17 06:26:09   llm groq-120b: rate limited, skip 52s
-2026-10-17 06:26:09 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 112)
-2026-10-17 06:26:11 [pengwin] AUXERRE-BREST: no Polymarket event (try 112)
-2026-10-17 06:27:01 [pengwin] LAZIO-INTER: no Polymarket event (try 112)
-2026-10-17 06:27:03   llm groq-120b: rate limited, skip 16s
-2026-10-17 06:27:03 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 112)
-2026-10-17 06:27:05 [pengwin] INTER-COMO: no Polymarket event (try 112)
-2026-10-17 06:27:08 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 111)
-2026-10-17 06:27:10 [pengwin] COMO-INTER: no Polymarket event (try 112)
-2026-10-17 06:27:12 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 112)
-2026-10-17 06:27:15 [pengwin] NAPOLI-COMO: no Polymarket event (try 112)
-2026-10-17 06:27:17 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 112)
-2026-10-17 06:27:45 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 112)
-2026-10-17 06:28:29 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 10)
-2026-10-17 06:28:32   llm groq-120b: rate limited, skip 41s
-2026-10-17 06:28:32 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 10)
-2026-10-17 06:28:35   llm groq-20b: rate limited, skip 682s
-2026-10-17 06:28:35 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 10)
-2026-10-17 06:29:08 [pengwin] Betis-Barcellona: no Polymarket event (try 12)
-2026-10-17 06:29:11 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 11)
-2026-10-17 06:29:14 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 10)
-2026-10-17 06:29:16   llm groq-120b: rate limited, skip 31s
-2026-10-17 06:29:16 [pengwin] BOLOGNA-INTER: no Polymarket event (try 10)
-2026-10-17 06:32:45 indexed 905 markets
-2026-10-17 06:42:46 indexed 902 markets
-2026-10-17 06:52:47 indexed 916 markets
-2026-10-17 06:55:48 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 113)
-2026-10-17 06:55:51 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 113)
-2026-10-17 06:55:54 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 113)
-2026-10-17 06:55:56 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 112)
-2026-10-17 06:55:59 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 112)
-2026-10-17 06:56:02 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 113)
-2026-10-17 06:56:05 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 113)
-2026-10-17 06:56:07 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 113)
-2026-10-17 06:56:10 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 113)
-2026-10-17 06:56:13 [pengwin] MONACO-TOLOSA: no Polymarket event (try 113)
-2026-10-17 06:56:16 [pengwin] BREST-ANGERS: no Polymarket event (try 113)
-2026-10-17 06:56:18 [pengwin] PSG-LE MANS: no Polymarket event (try 113)
-2026-10-17 06:56:21 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 112)
-2026-10-17 06:56:23 [pengwin] RENNES-AUXERRE: no Polymarket event (try 113)
-2026-10-17 06:56:27 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 113)
-2026-10-17 06:56:29   llm groq-120b: rate limited, skip 58s
-2026-10-17 06:56:29 [pengwin] AUXERRE-BREST: no Polymarket event (try 113)
-2026-10-17 06:57:18 [pengwin] LAZIO-INTER: no Polymarket event (try 113)
-2026-10-17 06:57:21 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 113)
-2026-10-17 06:57:23 [pengwin] INTER-COMO: no Polymarket event (try 113)
-2026-10-17 06:57:25 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 112)
-2026-10-17 06:57:27   llm groq-120b: rate limited, skip 39s
-2026-10-17 06:57:28 [pengwin] COMO-INTER: no Polymarket event (try 113)
-2026-10-17 06:57:30 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 113)
-2026-10-17 06:57:33 [pengwin] NAPOLI-COMO: no Polymarket event (try 113)
-2026-10-17 06:57:35 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 113)
-2026-10-17 06:58:04 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 113)
-2026-10-17 06:58:49 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 11)
-2026-10-17 06:58:52   llm groq-120b: rate limited, skip 794s
-2026-10-17 06:58:52   llm groq-20b: rate limited, skip 184s
-2026-10-17 06:58:52 [pengwin] BAYERN MONACO-LIPSIA: no LLM answer (try 11)
-2026-10-17 06:58:54 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 11)
-2026-10-17 06:59:25 [pengwin] Betis-Barcellona: no Polymarket event (try 13)
-2026-10-17 06:59:28 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 12)
-2026-10-17 06:59:30 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 11)
-2026-10-17 06:59:33 [pengwin] BOLOGNA-INTER: no Polymarket event (try 11)
-2026-10-17 07:02:03   drop[1-source] Struggles continue for injury-riddled Montevallo in loss to Jemison (Shelby County Reporter) :: Montevallo, wait 2nd source
-2026-10-17 07:02:48 indexed 914 markets
-2026-10-17 07:04:26   drop[1-source] Medic suspended after crashing his car into a city home (EDP24) :: Medic, wait 2nd source
-2026-10-17 07:04:26   llm groq-20b: rate limited, skip 55s
-2026-10-17 07:12:50 indexed 912 markets
-2026-10-17 07:22:50 indexed 912 markets
-2026-10-17 07:25:19   drop[1-source] Trump Suspended Sanctions Against Russia That Were Promoted by Lindsey Graham — Bloomberg (UA.NEWS) :: Donald Trump, wait 2nd source
-2026-10-17 07:25:19   drop[1-source] Kangaroos star’s World Cup campaign over after ‘rare’ injury (The Daily Telegraph) :: Australia national rugby league team (the Kangaroos), wait 2nd source
-2026-10-17 07:26:00 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 114)
-2026-10-17 07:26:03 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 114)
-2026-10-17 07:26:05 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 114)
-2026-10-17 07:26:08 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 113)
-2026-10-17 07:26:11 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 113)
-2026-10-17 07:26:14 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 114)
-2026-10-17 07:26:16   llm groq-120b: rate limited, skip 191s
-2026-10-17 07:26:16 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 114)
-2026-10-17 07:26:19 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 114)
-2026-10-17 07:26:21 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 114)
-2026-10-17 07:26:24 [pengwin] MONACO-TOLOSA: no Polymarket event (try 114)
-2026-10-17 07:26:27 [pengwin] BREST-ANGERS: no Polymarket event (try 114)
-2026-10-17 07:26:29 [pengwin] PSG-LE MANS: no Polymarket event (try 114)
-2026-10-17 07:26:31 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 113)
-2026-10-17 07:26:34 [pengwin] RENNES-AUXERRE: no Polymarket event (try 114)
-2026-10-17 07:26:37 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 114)
-2026-10-17 07:26:39 [pengwin] AUXERRE-BREST: no Polymarket event (try 114)
-2026-10-17 07:27:27 [pengwin] LAZIO-INTER: no Polymarket event (try 114)
-2026-10-17 07:27:30 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 114)
-2026-10-17 07:27:32 [pengwin] INTER-COMO: no Polymarket event (try 114)
-2026-10-17 07:27:34 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 113)
-2026-10-17 07:27:36 [pengwin] COMO-INTER: no Polymarket event (try 114)
-2026-10-17 07:27:39   llm groq-20b: rate limited, skip 115s
-2026-10-17 07:27:39 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 114)
-2026-10-17 07:27:41 [pengwin] NAPOLI-COMO: no Polymarket event (try 114)
-2026-10-17 07:27:43 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 114)
-2026-10-17 07:28:10 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 114)
-2026-10-17 07:28:54 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 12)
-2026-10-17 07:28:57 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 12)
-2026-10-17 07:28:59 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 12)
-2026-10-17 07:29:30   llm groq-120b: rate limited, skip 677s
-2026-10-17 07:29:30 [pengwin] Betis-Barcellona: no LLM answer (try 14)
-2026-10-17 07:29:32 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 13)
-2026-10-17 07:29:35 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 12)
-2026-10-17 07:29:37   llm groq-20b: rate limited, skip 37s
-2026-10-17 07:29:37 [pengwin] BOLOGNA-INTER: no Polymarket event (try 12)
-2026-10-17 07:32:52 indexed 905 markets
-2026-10-17 07:36:35 shift over, state saved
+2026-10-17 07:36:51 === start mode=paper pid=2106 ===
+2026-10-17 07:36:51 brain=llm cash=74.22 open=1
+2026-10-17 07:36:51 resuming with 7327 known news items
+2026-10-17 07:37:17 indexed 909 markets
+2026-10-17 07:37:30 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 108)
+2026-10-17 07:37:31   drop[no-market] Tonka Hemingway (DT, Las Vegas Raiders) ruled out: Questionable -> Out [NFL] (ESPN) :: Las Vegas Raiders
+2026-10-17 07:37:31   drop[kind] ALCS Game 4 between Guardians, Rays postponed to Saturday reut.rs/4sbIESr (Reuters) :: other
+2026-10-17 07:37:31   llm groq-120b: rate limited, skip 174s
+2026-10-17 07:37:32   drop[team-not-named] Trump issues order to bypass Russian sanctions in bill named for late Lindsey Graham polit (Politico) :: United States of America
+2026-10-17 07:37:32   SELL Packers @ 0.510 (max hold) pnl -0.19 :: Cowboys vs. Packers
+2026-10-17 07:37:33 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 108)
+2026-10-17 07:37:35 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 108)
+2026-10-17 07:37:38   llm groq-20b: rate limited, skip 499s
+2026-10-17 07:37:38 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 107)
+2026-10-17 07:37:40 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 107)
+2026-10-17 07:37:43 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 108)
+2026-10-17 07:37:45 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 108)
+2026-10-17 07:37:47 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 108)
+2026-10-17 07:37:50 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 108)
+2026-10-17 07:37:52 [pengwin] MONACO-TOLOSA: no Polymarket event (try 108)
+2026-10-17 07:37:54 [pengwin] BREST-ANGERS: no Polymarket event (try 108)
+2026-10-17 07:37:57 [pengwin] PSG-LE MANS: no Polymarket event (try 108)
+2026-10-17 07:37:59 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 107)
+2026-10-17 07:38:01 [pengwin] RENNES-AUXERRE: no Polymarket event (try 108)
+2026-10-17 07:38:04 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 108)
+2026-10-17 07:38:07 [pengwin] AUXERRE-BREST: no Polymarket event (try 108)
+2026-10-17 07:38:57 [pengwin] LAZIO-INTER: no Polymarket event (try 108)
+2026-10-17 07:38:59 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 108)
+2026-10-17 07:39:02 [pengwin] INTER-COMO: no Polymarket event (try 108)
+2026-10-17 07:39:03 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 107)
+2026-10-17 07:39:05 [pengwin] COMO-INTER: no Polymarket event (try 108)
+2026-10-17 07:39:08 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 108)
+2026-10-17 07:39:10 [pengwin] NAPOLI-COMO: no Polymarket event (try 108)
+2026-10-17 07:39:12 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 108)
+2026-10-17 07:39:40 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 108)
+2026-10-17 07:40:25 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 6)
+2026-10-17 07:40:28   llm groq-120b: rate limited, skip 627s
+2026-10-17 07:40:28 [pengwin] BAYERN MONACO-LIPSIA: no LLM answer (try 6)
+2026-10-17 07:40:31 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 6)
+2026-10-17 07:40:33 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 6)
+2026-10-17 07:40:36 [pengwin] MANCHESTER CITY-IPSWICH TOWN: no LLM answer (try 8)
+2026-10-17 07:41:07 [pengwin] Betis-Barcellona: no Polymarket event (try 8)
+2026-10-17 07:41:09 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 7)
+2026-10-17 07:41:12 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 6)
+2026-10-17 07:41:14 [pengwin] BOLOGNA-INTER: no Polymarket event (try 6)
