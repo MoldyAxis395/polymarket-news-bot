@@ -13293,3 +13293,15 @@
 2026-10-17 13:22:50   llm groq-120b: rate limited, skip 5s
 2026-10-17 13:22:50   drop[no-pick] Everton confirmed lineup vs Chelsea: Michael Keane, Brennan Johnson ruled out of starting  (ESPN) :: short
 2026-10-17 13:22:51   llm groq-20b: rate limited, skip 72s
+2026-10-17 13:27:34   drop[kind] Over half face financial pressure if unable to work due to illness or injury (Midwest Radio) :: other
+2026-10-17 13:29:51   drop[1-source] Five Nashik FDA officers suspended, 20 officers under scanner (Newsband) :: Nashik Food and Drug Administration, wait 2nd source
+2026-10-17 13:29:52   llm groq-120b: rate limited, skip 103s
+2026-10-17 13:29:52   drop[kind] Many schools in Nghe An have temporarily suspended the enhanced curriculum. (Vietnam.vn) :: other
+2026-10-17 13:32:50 indexed 888 markets
+2026-10-17 13:34:29   drop[team-not-named] Moses ruled out as PNG opens with World Cup wins (Oz Arab Media) :: Papua New Guinea national soccer team
+2026-10-17 13:39:07   drop[1-source] Liverpool Face Brentford Injury Blow as Iraola Considers Major Lineup Changes (Sportsnaut) :: Liverpool FC, wait 2nd source
+2026-10-17 13:42:52 indexed 890 markets
+2026-10-17 13:43:43   drop[kind] Bills have 5 players questionable vs Raiders but no one ruled out (Democrat and Chronicle) :: other
+2026-10-17 13:52:51 indexed 880 markets
+2026-10-17 13:53:25 NEWS [Fabrizio Romano 0m] 🚨⚪️ Éder Militão returns available for Real Madrid and back in the squad tomorrow after long injury.
+2026-10-17 13:53:25   skip Yes :: Will Real Madrid CF win on 2026-10-18? (low conf 0.6)
