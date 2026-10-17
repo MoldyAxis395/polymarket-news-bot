@@ -13475,3 +13475,24 @@
 2026-10-17 17:53:29 NEWS [ESPN 0m] Bayern Munich confirmed lineup vs RB Leipzig: Jonathan Tah, Tom Bischof, Lennart Karl ruled out of starting XI [ger.1]
 2026-10-17 17:53:29   skip Yes :: Will RB Leipzig win on 2026-10-17? (low conf 0.6)
 2026-10-17 17:53:29   llm groq-20b: rate limited, skip 350s
+2026-10-17 18:03:14 indexed 966 markets
+2026-10-17 18:03:29 [pengwin]   SELL No @ 1.000 (resolved) pnl +4.49 :: Will FC Schalke 04 win on 2026-10-17?
+2026-10-17 18:03:47 NEWS [ESPN 12m] Jake Sanderson (D, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL]
+2026-10-17 18:03:47   BUY Flyers @ 0.410 x24.4 ($10.00) :: Senators vs. Flyers
+2026-10-17 18:04:53   llm groq-120b: rate limited, skip 251s
+2026-10-17 18:04:54   drop[unconfirmed] Xabi Alonso reveals the latest developments on Martinez's "serious" injury (Goal.com) :: serious injury
+2026-10-17 18:07:13   drop[kind] Savion Williams questionable for Week 6 (USA Today) :: other
+2026-10-17 18:09:40   drop[1-source] Magyar Approved the Transit of Ukrainian Grain Through Hungary — Reuters (UA.NEWS) :: Hungary, wait 2nd source
+2026-10-17 18:11:49   llm groq-120b: rate limited, skip 99s
+2026-10-17 18:11:49   drop[unconfirmed] Dominik Szoboszlai suffers injury recurrence as heavy Liverpool, Hungary minutes load begi (www.sportingnews.com) :: injury recurrence
+2026-10-17 18:11:49   llm groq-20b: rate limited, skip 139s
+2026-10-17 18:13:16 indexed 966 markets
+2026-10-17 18:14:06   llm groq-120b: rate limited, skip 16s
+2026-10-17 18:21:02   drop[kind] Channing ‘Stacks’ Lorenzo reportedly hospitalized after injury at NXT live event (POST Wrestling) :: other
+2026-10-17 18:21:29   llm groq-120b: rate limited, skip 50s
+2026-10-17 18:21:30   drop[verify] Will Mallory (TE, Indianapolis Colts) cleared to play: Injured Reserve -> Active [NFL] (ESPN) :: player not key
+2026-10-17 18:23:17 indexed 965 markets
+2026-10-17 18:23:19   drop[kind] Trio of Republicans bashes Trump’s sanctions pullback politi.co/4hSE0p7 (Politico) :: other
+2026-10-17 18:23:23   llm groq-120b: rate limited, skip 283s
+2026-10-17 18:23:23   drop[1-source] Alisson Santos suffers new injury after returning to… (YSscores) :: Alisson Santos, wait 2nd source
+2026-10-17 18:25:42   llm groq-20b: rate limited, skip 137s

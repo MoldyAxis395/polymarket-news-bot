@@ -42,3 +42,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-16T06:36:35+00:00,BUY,Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to Score,Yes,15.62,0.6400,10.00,,BAYER LEVERKUSEN-LIPSIA: GG (esatto) | pengwin exact: replicates GOAL
 2026-10-16T23:55:23+00:00,BUY,Will FC Schalke 04 win on 2026-10-17?,No,14.49,0.6900,10.00,,SCHALKE-MAINZ: X2 (esatto) | pengwin exact: X2 = NO on Will Schalke win
 2026-10-16T23:55:38+00:00,BUY,Will SV 07 Elversberg win on 2026-10-17?,No,16.39,0.6100,10.00,,ELVERSBERG-AUGSBURG: X2 (esatto) | pengwin exact: X2 = NO on home win
+2026-10-17T16:03:29+00:00,SELL,Will FC Schalke 04 win on 2026-10-17?,No,14.49,1.0000,14.49,+4.49,resolved

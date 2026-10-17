@@ -1,5 +1,5 @@
 {
- "cash": 89.8536254803361,
+ "cash": 104.34637910352451,
  "positions": [
   {
    "market_id": "5267259",
@@ -57,25 +57,6 @@
    "book_err": false
   },
   {
-   "market_id": "5263838",
-   "question": "Will FC Schalke 04 win on 2026-10-17?",
-   "slug": "bun-s04-mai-2026-10-17-s04",
-   "outcome": "No",
-   "token": "17937493591448975809727208474835021212303284566515405809616719903671562422215",
-   "shares": 14.492753623188406,
-   "entry": 0.69,
-   "cost": 10.0,
-   "opened": 1792194923.8921611,
-   "opened_iso": "2026-10-16T23:55:23+00:00",
-   "news": "SCHALKE-MAINZ: X2 (esatto)",
-   "reason": "pengwin exact: X2 = NO on Will Schalke win",
-   "conf": 1.0,
-   "end": "2026-10-17T13:30:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1792252981.4485333
-  },
-  {
    "market_id": "5263880",
    "question": "Will SV 07 Elversberg win on 2026-10-17?",
    "slug": "bun-elv-aug-2026-10-17-elv",
@@ -92,7 +73,7 @@
    "end": "2026-10-17T13:30:00+00:00",
    "last_bid": null,
    "book_err": false,
-   "settle_retry": 1792252678.1796944
+   "settle_retry": 1792254699.4861515
   }
  ],
  "closed": [
@@ -532,6 +513,29 @@
    "pnl": 2.987012987012987,
    "why": "resolved",
    "closed_iso": "2026-10-14T21:30:23+00:00"
+  },
+  {
+   "market_id": "5263838",
+   "question": "Will FC Schalke 04 win on 2026-10-17?",
+   "slug": "bun-s04-mai-2026-10-17-s04",
+   "outcome": "No",
+   "token": "17937493591448975809727208474835021212303284566515405809616719903671562422215",
+   "shares": 14.492753623188406,
+   "entry": 0.69,
+   "cost": 10.0,
+   "opened": 1792194923.8921611,
+   "opened_iso": "2026-10-16T23:55:23+00:00",
+   "news": "SCHALKE-MAINZ: X2 (esatto)",
+   "reason": "pengwin exact: X2 = NO on Will Schalke win",
+   "conf": 1.0,
+   "end": "2026-10-17T13:30:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1792253609.3885436,
+   "exit": 1.0,
+   "pnl": 4.492753623188406,
+   "why": "resolved",
+   "closed_iso": "2026-10-17T16:03:29+00:00"
   }
  ],
  "cooldown": {
@@ -553,6 +557,7 @@
   "5159510": 1791939956.9764273,
   "5159693": 1791940198.6844316,
   "5159396": 1792019243.1488247,
-  "5186926": 1792024223.216215
+  "5186926": 1792024223.216215,
+  "5263838": 1792263809.986893
  }
 }

@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-17T17:57:06",
+ "updated": "2026-10-17T18:27:13",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 395,
- "markets_indexed": 929,
- "news_processed": 283,
- "cash": 74.02,
- "equity": 83.81,
+ "llm_calls_today": 415,
+ "markets_indexed": 965,
+ "news_processed": 319,
+ "cash": 64.02,
+ "equity": 83.56,
  "start": 100.0,
  "open": [
   {
@@ -26,6 +26,24 @@
    "end": "2026-10-17T23:00:00+00:00",
    "last_bid": 0.45,
    "book_err": false
+  },
+  {
+   "market_id": "4761407",
+   "question": "Senators vs. Flyers",
+   "slug": "nhl-ott-phi-2026-10-17",
+   "outcome": "Flyers",
+   "token": "66465886871934436625793640479891814943859026360327484946212671411410713352891",
+   "shares": 24.390243902439025,
+   "entry": 0.41,
+   "cost": 10.0,
+   "opened": 1792253027.5034075,
+   "opened_iso": "2026-10-17T16:03:47+00:00",
+   "news": "Jake Sanderson (D, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL]",
+   "reason": "llm[groq-120b] trusted: Jake Sanderson's injury hurts Ottawa, lowering their win probability and boosting the Flyers' chance",
+   "conf": 0.7,
+   "end": "2026-10-17T23:00:00+00:00",
+   "last_bid": 0.4,
+   "book_err": false
   }
  ],
  "closed_count": 90,
@@ -34,26 +52,26 @@
    "groq-120b",
    "groq-20b"
   ],
-  "fallbacks": 42,
+  "fallbacks": 49,
   "errors": {
-   "groq-120b": "rate limited, skip 285s",
-   "groq-20b": "rate limited, skip 350s"
+   "groq-120b": "rate limited, skip 283s",
+   "groq-20b": "rate limited, skip 137s"
   },
   "rejects": {
    "no-pick": 5,
-   "fluff": 82,
-   "kind": 22,
-   "1-source": 16,
+   "fluff": 94,
+   "kind": 25,
+   "1-source": 18,
    "team-not-named": 11,
    "side": 5,
    "not-key": 7,
-   "verify": 2,
+   "verify": 3,
    "no-market": 2,
-   "unconfirmed": 4
+   "unconfirmed": 6
   },
   "calls": {
-   "groq-20b": 196,
-   "groq-120b": 199
+   "groq-20b": 204,
+   "groq-120b": 211
   }
  },
  "realized_pnl": -15.98
