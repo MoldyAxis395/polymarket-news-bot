@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-17T18:26:42",
+ "updated": "2026-10-17T18:57:18",
  "start": 100.0,
  "cash": 104.35,
- "equity": 143.34,
+ "equity": 133.34,
  "open": [
   {
    "market_id": "5267259",
@@ -58,29 +58,10 @@
    "end": "2026-10-18T13:30:00+00:00",
    "last_bid": 0.63,
    "book_err": false
-  },
-  {
-   "market_id": "5263880",
-   "question": "Will SV 07 Elversberg win on 2026-10-17?",
-   "slug": "bun-elv-aug-2026-10-17-elv",
-   "outcome": "No",
-   "token": "115295378138929144023069760522597251763149917224874767299478611368767879708714",
-   "shares": 16.39344262295082,
-   "entry": 0.61,
-   "cost": 9.999999999999998,
-   "opened": 1792194938.0344388,
-   "opened_iso": "2026-10-16T23:55:38+00:00",
-   "news": "ELVERSBERG-AUGSBURG: X2 (esatto)",
-   "reason": "pengwin exact: X2 = NO on home win",
-   "conf": 1.0,
-   "end": "2026-10-17T13:30:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1792254699.4861515
   }
  ],
- "closed_count": 20,
- "realized_pnl": 44.35,
+ "closed_count": 21,
+ "realized_pnl": 34.35,
  "pages": {
   "pending": 153,
   "picked": 0,

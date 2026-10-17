@@ -13496,3 +13496,24 @@
 2026-10-17 18:23:23   llm groq-120b: rate limited, skip 283s
 2026-10-17 18:23:23   drop[1-source] Alisson Santos suffers new injury after returning to… (YSscores) :: Alisson Santos, wait 2nd source
 2026-10-17 18:25:42   llm groq-20b: rate limited, skip 137s
+2026-10-17 18:32:06 [pengwin]   book error Will SV 07 Elversberg win on 2026-10-17?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=115295378138929144023069760522597251763149917224874767299478611368767879708714
+2026-10-17 18:32:43   drop[kind] Pat Freiermuth Injury: Dealing with calf injury, iffy for Week 6 (RotoWire) :: other
+2026-10-17 18:33:18 indexed 945 markets
+2026-10-17 18:37:29   drop[kind] Steelers say DK Metcalf will play, Pat Freiermuth is questionable with calf injury (NBC Sports) :: other
+2026-10-17 18:37:29   llm groq-120b: rate limited, skip 76s
+2026-10-17 18:37:30   drop[1-source] Inter Confirms Lautaro Martinez Hamstring Injury Before Milan Derby (SuaraGarut.ID) :: Lautaro Martinez, wait 2nd source
+2026-10-17 18:39:39   drop[1-source] Steelers Announce Surprising Pat Freiermuth Injury Before Bucs Game (Sports Illustrated) :: Pat Freiermuth, wait 2nd source
+2026-10-17 18:39:39   llm groq-120b: rate limited, skip 221s
+2026-10-17 18:39:39   drop[unconfirmed] Pat Freiermuth Dealing with calf injury, iffy for Week 6 (Fantasy Footballers Podcast) :: calf injury
+2026-10-17 18:42:11 [pengwin]   SELL No @ 0.000 (resolved) pnl -10.00 :: Will SV 07 Elversberg win on 2026-10-17?
+2026-10-17 18:43:17 indexed 935 markets
+2026-10-17 18:46:49   drop[kind] Steelers Suffer Another Major Offensive Injury (Steelers Now) :: other
+2026-10-17 18:48:55   drop[1-source] LSU DE Princewill Umanmielen Suffers Injury vs Mississippi State (Sports Illustrated) :: Princewill Umanmielen, wait 2nd source
+2026-10-17 18:48:55   llm groq-120b: rate limited, skip 260s
+2026-10-17 18:48:56   drop[kind] Julesburg, CO Dog Mauling Injury Elevates Case to Felony Offense (Hoodline) :: other
+2026-10-17 18:53:20 indexed 939 markets
+2026-10-17 18:53:22   drop[not-key] Javontae Jean-Baptiste (LB, Washington Commanders) ruled out: Questionable -> Out [NFL] (ESPN) :: Javontae Jean-Baptiste: ruled out due to injury
+2026-10-17 18:53:22   llm groq-120b: rate limited, skip 236s
+2026-10-17 18:53:23   drop[not-key] Marcus Mariota (QB, Washington Commanders) ruled out: Doubtful -> Out [NFL] (ESPN) :: Marcus Mariota: injury
+2026-10-17 18:53:24   drop[not-key] Charles Omenihu (DE, Washington Commanders) ruled out: Questionable -> Out [NFL] (ESPN) :: Charles Omenihu: injury
+2026-10-17 18:53:24   drop[not-key] Jacory Croskey-Merritt (RB, Washington Commanders) ruled out: Questionable -> Out [NFL] (ESPN) :: Jacory Croskey-Merritt: groin injury
