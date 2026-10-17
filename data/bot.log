@@ -13450,3 +13450,46 @@
 2026-10-17 11:11:33   llm groq-120b: rate limited, skip 60s
 2026-10-17 11:11:33   llm groq-20b: rate limited, skip 329s
 2026-10-17 11:11:33 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 115)
+2026-10-17 11:12:18 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 13)
+2026-10-17 11:12:20 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 13)
+2026-10-17 11:12:22 [pengwin] BAYER LEVERKUSEN-FRIBURGO: no Polymarket event (try 13)
+2026-10-17 11:12:53   llm groq-120b: rate limited, skip 982s
+2026-10-17 11:12:53 [pengwin] Betis-Barcellona: no LLM answer (try 15)
+2026-10-17 11:12:56 [pengwin] Real Madrid-Siviglia: no Polymarket event (try 14)
+2026-10-17 11:12:58 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 13)
+2026-10-17 11:13:01 [pengwin] BOLOGNA-INTER: no Polymarket event (try 13)
+2026-10-17 11:17:09   llm groq-20b: rate limited, skip 90s
+2026-10-17 11:17:53 indexed 905 markets
+2026-10-17 11:19:37   drop[kind] Blood Protein Signal at End of Heart Bypass Linked to Kidney Injury in Infants (Bioengineer.org) :: other
+2026-10-17 11:21:45   llm groq-20b: rate limited, skip 100s
+2026-10-17 11:27:55 indexed 912 markets
+2026-10-17 11:28:51   drop[1-source] Manchester United midfielder suffers groin injury (centredevils) :: Mason Mount, wait 2nd source
+2026-10-17 11:37:55 indexed 914 markets
+2026-10-17 11:39:29 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 116)
+2026-10-17 11:39:33 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 116)
+2026-10-17 11:39:35 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 116)
+2026-10-17 11:39:38 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 115)
+2026-10-17 11:39:41 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 115)
+2026-10-17 11:39:44 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 116)
+2026-10-17 11:39:47 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 116)
+2026-10-17 11:39:49 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 116)
+2026-10-17 11:39:52 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 116)
+2026-10-17 11:39:55 [pengwin] MONACO-TOLOSA: no Polymarket event (try 116)
+2026-10-17 11:39:58 [pengwin] BREST-ANGERS: no Polymarket event (try 116)
+2026-10-17 11:40:00 [pengwin] PSG-LE MANS: no Polymarket event (try 116)
+2026-10-17 11:40:03 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 115)
+2026-10-17 11:40:06 [pengwin] RENNES-AUXERRE: no Polymarket event (try 116)
+2026-10-17 11:40:09 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 116)
+2026-10-17 11:40:11   llm groq-120b: rate limited, skip 532s
+2026-10-17 11:40:11 [pengwin] AUXERRE-BREST: no Polymarket event (try 116)
+2026-10-17 11:40:17   llm groq-20b: rate limited, skip 25s
+2026-10-17 11:41:01 [pengwin] LAZIO-INTER: no Polymarket event (try 116)
+2026-10-17 11:41:04 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 116)
+2026-10-17 11:41:06 [pengwin] INTER-COMO: no Polymarket event (try 116)
+2026-10-17 11:41:09 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 115)
+2026-10-17 11:41:11 [pengwin] COMO-INTER: no Polymarket event (try 116)
+2026-10-17 11:41:13 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 116)
+2026-10-17 11:41:16 [pengwin] NAPOLI-COMO: no Polymarket event (try 116)
+2026-10-17 11:41:18 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 116)
+2026-10-17 11:41:46   llm groq-20b: rate limited, skip 108s
+2026-10-17 11:41:46 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 116)
