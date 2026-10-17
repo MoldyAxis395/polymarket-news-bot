@@ -13380,3 +13380,20 @@
 2026-10-17 20:08:57   drop[1-source] Tennessee quarterback Faizon Brandon available; Alabama key players out (Knoxville News Sentinel) :: Faizon Brandon, wait 2nd source
 2026-10-17 20:08:58   llm groq-20b: rate limited, skip 142s
 2026-10-17 20:11:49   drop[kind] Retiring Republicans bash Trump’s sanctions pullback politi.co/4hSE0p7 (Politico) :: other
+2026-10-17 20:15:41   drop[1-source] Going bananas: Haaland keeps on scoring as scandal-hit Man City wins again in Premier Leag (Newsday) :: Erling Haaland, wait 2nd source
+2026-10-17 20:15:41   llm groq-20b: rate limited, skip 121s
+2026-10-17 20:18:45 indexed 949 markets
+2026-10-17 20:19:01   drop[not-key] Cincinnati Bearcats defensive lineman Josh Hough out for game (Cincinnati Enquirer) :: Josh Hough: out for game
+2026-10-17 20:19:01   drop[kind] WATCH: Two escape injury in Spur Tree crash (Jamaica Observer) :: other
+2026-10-17 20:28:46 indexed 952 markets
+2026-10-17 20:29:00   drop[kind] Two-Vehicle Injury Crash in Gooding County (Big Country News |) :: other
+2026-10-17 20:29:00   drop[team-not-named] Doctor suspended after PM finds him smoking in hospital room (New Age BD) :: 
+2026-10-17 20:33:27   drop[1-source] West Virginia Football Staffer Hurts Cincinnati Defensive Lineman By Driving Injured Ankle (BroBible) :: University of Cincinnati, wait 2nd source
+2026-10-17 20:35:46   drop[kind] Maresca faces anxious wait over Haaland injury scare (RFI) :: other
+2026-10-17 20:35:47   drop[not-key] Ex-Anarchy Dude, Tempesta Is Suspended from Sailboat Racing (LOOSE CANNON | Peter Swanson) :: Tempesta: suspended from sailboat racing
+2026-10-17 20:35:47   llm groq-120b: rate limited, skip 309s
+2026-10-17 20:35:47   drop[no-market] Seven-try Connacht beat Saracens in Champions Cup (BBC) :: Connacht
+2026-10-17 20:38:45 indexed 945 markets
+2026-10-17 20:39:00   drop[team-not-named] ‘Musk’ TikTok Account Permanently Suspended from Platform Ahead of Documentary’s Wide Rele (Variety) :: Tesla, Inc.
+2026-10-17 20:39:04 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-17 20:41:08   drop[kind] Dan Burn Fights to Regain Newcastle Starting Role After Injury (SuaraGarut.ID) :: other
