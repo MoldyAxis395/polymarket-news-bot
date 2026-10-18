@@ -13686,3 +13686,8 @@
 2026-10-18 04:24:31   drop[team-not-named] NDSU Loses RB to Injury vs. Nevada (Heavy.com) :: North Dakota State University Football
 2026-10-18 04:26:54   drop[not-key] Marques Sigle Injury: Deemed out for Monday Night Football (RotoWire) :: Marques Sigle: injury
 2026-10-18 04:27:18 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-18 04:31:07 [pengwin]   book error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-18 04:31:27 [pengwin]   settle error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-18 04:33:41 indexed 928 markets
+2026-10-18 04:43:46 indexed 925 markets
+2026-10-18 04:54:16 indexed 924 markets
