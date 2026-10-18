@@ -13726,3 +13726,44 @@
 2026-10-18 06:42:06 [pengwin] skip Real Madrid-Siviglia [Over 4.5 cartellini]: no matching market
 2026-10-18 06:42:08 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 9)
 2026-10-18 06:42:10 [pengwin] BOLOGNA-INTER: no Polymarket event (try 9)
+2026-10-18 06:43:34   drop[1-source] San Diego State QB Jayden Denegal exits Fresno State game with injury as Aztecs lead at ha (Sports Illustrated) :: Jayden Denegal, wait 2nd source
+2026-10-18 06:45:52   drop[team-not-named] Rubio says Trump to take up to 60 days to weigh Russia sanctions (Ada Derana) :: United States
+2026-10-18 06:48:44 indexed 894 markets
+2026-10-18 06:50:27   drop[kind] Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta (Ada Derana) :: other
+2026-10-18 06:54:47 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x7f815acf31a0>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
+2026-10-18 06:58:45 indexed 903 markets
+2026-10-18 06:59:39   drop[team-not-named] Félix Auger-Aliassime to miss Brussels and Basel after knee injury ends ATP Finals bid (Tennis Tonic) :: Canada
+2026-10-18 07:08:45 indexed 893 markets
+2026-10-18 07:09:13 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 112)
+2026-10-18 07:09:16 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 112)
+2026-10-18 07:09:17 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 112)
+2026-10-18 07:09:20 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 111)
+2026-10-18 07:09:22 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 111)
+2026-10-18 07:09:25 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 112)
+2026-10-18 07:09:27 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 112)
+2026-10-18 07:09:29 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 112)
+2026-10-18 07:09:31 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 112)
+2026-10-18 07:09:34 [pengwin] MONACO-TOLOSA: no Polymarket event (try 112)
+2026-10-18 07:09:36 [pengwin] BREST-ANGERS: no Polymarket event (try 112)
+2026-10-18 07:09:38 [pengwin] PSG-LE MANS: no Polymarket event (try 112)
+2026-10-18 07:09:40 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 111)
+2026-10-18 07:09:43 [pengwin] RENNES-AUXERRE: no Polymarket event (try 112)
+2026-10-18 07:09:45 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 112)
+2026-10-18 07:09:47 [pengwin] AUXERRE-BREST: no Polymarket event (try 112)
+2026-10-18 07:10:31 [pengwin] LAZIO-INTER: no Polymarket event (try 112)
+2026-10-18 07:10:33 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 112)
+2026-10-18 07:10:35 [pengwin] INTER-COMO: no Polymarket event (try 112)
+2026-10-18 07:10:37 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 111)
+2026-10-18 07:10:39   llm groq-120b: rate limited, skip 44s
+2026-10-18 07:10:39 [pengwin] COMO-INTER: no Polymarket event (try 112)
+2026-10-18 07:10:42 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 112)
+2026-10-18 07:10:44 [pengwin] NAPOLI-COMO: no Polymarket event (try 112)
+2026-10-18 07:10:46 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 112)
+2026-10-18 07:11:11 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 112)
+2026-10-18 07:11:51 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 10)
+2026-10-18 07:11:53 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 10)
+2026-10-18 07:11:55 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 10)
+2026-10-18 07:12:23 [pengwin] Betis-Barcellona: no Polymarket event (try 12)
+2026-10-18 07:12:25 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 10)
+2026-10-18 07:12:27   llm groq-120b: rate limited, skip 182s
+2026-10-18 07:12:28 [pengwin] BOLOGNA-INTER: no Polymarket event (try 10)
