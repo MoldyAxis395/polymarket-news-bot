@@ -14278,3 +14278,56 @@
 2026-10-18 20:37:46   drop[not-key] Brandin Echols Injured Against Buccaneers (Steelers Depot) :: Brandin Echols: injury
 2026-10-18 20:39:45 indexed 980 markets
 2026-10-18 20:39:58   drop[no-market] Nolan Smith concussion adds to Eagles’ injury woes in ugly 1st half vs. Panthers (ClutchPoints) :: Philadelphia Eagles
+2026-10-18 20:44:33   drop[1-source] Eagles dealt another major setback as star LB suffers head injury (The Big Lead) :: T. J. Edwards, wait 2nd source
+2026-10-18 20:49:18   drop[not-key] Jerrick Reed II (S, Arizona Cardinals) ruled out: healthy -> Out [NFL] (ESPN) :: Jerrick Reed II: injury ruled him out
+2026-10-18 20:49:18   llm groq-120b: rate limited, skip 259s
+2026-10-18 20:49:19   drop[side] Starling Thomas V (CB, Arizona Cardinals) ruled out: Active -> Out [NFL] (ESPN) :: Cardinals vs. Rams -> Cardinals vs fact ruled_out: Starling Thomas V (Arizona Cardinals, nfl), bad for Arizona Cardinals
+2026-10-18 20:49:20   llm groq-20b: rate limited, skip 66s
+2026-10-18 20:49:20   drop[no-pick] Carson Beck (QB, Arizona Cardinals) ruled out: Active -> Out [NFL] (ESPN) :: None
+2026-10-18 20:49:20 NEWS [ESPN 12m] Andrew Billings (DT, Arizona Cardinals) ruled out: Active -> Out [NFL]
+2026-10-18 20:49:20   skip Rams :: Cardinals vs. Rams (rules fallback, LLM down (not traded))
+2026-10-18 20:49:20 NEWS [ESPN 2m] Ty Simpson (QB, Los Angeles Rams) ruled out: Active -> Out [NFL]
+2026-10-18 20:49:20   skip Cardinals :: Cardinals vs. Rams (rules fallback, LLM down (not traded))
+2026-10-18 20:49:20 NEWS [ESPN 2m] Trent McDuffie (CB, Los Angeles Rams) ruled out: Questionable -> Out [NFL]
+2026-10-18 20:49:20   skip Cardinals :: Cardinals vs. Rams (rules fallback, LLM down (not traded))
+2026-10-18 20:49:20 NEWS [ESPN 2m] Larrell Murchison (DE, Los Angeles Rams) ruled out: Active -> Out [NFL]
+2026-10-18 20:49:20   skip Cardinals :: Cardinals vs. Rams (rules fallback, LLM down (not traded))
+2026-10-18 20:49:20 NEWS [ESPN 2m] Bill Murray (G, Los Angeles Rams) ruled out: Active -> Out [NFL]
+2026-10-18 20:49:20   skip Cardinals :: Cardinals vs. Rams (rules fallback, LLM down (not traded))
+2026-10-18 20:49:20 NEWS [ESPN 2m] Tutu Atwell (WR, Los Angeles Rams) ruled out: healthy -> Out [NFL]
+2026-10-18 20:49:20   skip Cardinals :: Cardinals vs. Rams (rules fallback, LLM down (not traded))
+2026-10-18 20:49:20 NEWS [ESPN 2m] CJ Daniels (WR, Los Angeles Rams) ruled out: Active -> Out [NFL]
+2026-10-18 20:49:20   skip Cardinals :: Cardinals vs. Rams (rules fallback, LLM down (not traded))
+2026-10-18 20:49:47 indexed 972 markets
+2026-10-18 20:51:29   llm groq-20b: rate limited, skip 37s
+2026-10-18 20:53:46   llm groq-120b: rate limited, skip 80s
+2026-10-18 20:53:46   drop[1-source] Steelers coach Mike McCarthy heads to medical tent with apparent ankle injury, misses half (Yahoo) :: Mike McCarthy, wait 2nd source
+2026-10-18 20:53:47   llm groq-20b: rate limited, skip 166s
+2026-10-18 20:56:17   drop[no-market] Eagles lose another starter to injury after team already without Jalen Hurts, Saquon Barkl (CBS Sports) :: Philadelphia Eagles
+2026-10-18 20:56:17   llm groq-120b: rate limited, skip 145s
+2026-10-18 20:58:24   drop[kind] Justin Jefferson questionable to return vs. the Ravens (Cleveland Browns) :: other
+2026-10-18 20:58:24   llm groq-20b: rate limited, skip 160s
+2026-10-18 20:59:49 indexed 970 markets
+2026-10-18 20:59:51   llm groq-120b: rate limited, skip 232s
+2026-10-18 20:59:51   drop[no-pick] Romeo Doubs (WR, New England Patriots) ruled out: Questionable -> Out [NFL] (ESPN) :: None
+2026-10-18 21:05:41   drop[kind] Steelers HC Mike McCarthy Suffers Injury Coaching vs. Buccaneers (Steelers Now) :: other
+2026-10-18 21:05:55   llm groq-120b: rate limited, skip 151s
+2026-10-18 21:05:56   drop[not-key] Ar'maj Reed-Adams (G, Buffalo Bills) ruled out: Active -> Out [NFL] (ESPN) :: Ar'maj Reed-Adams: injury
+2026-10-18 21:05:56   llm groq-20b: rate limited, skip 208s
+2026-10-18 21:05:56   drop[no-pick] Ed Oliver (DT, Buffalo Bills) ruled out: Questionable -> Out [NFL] (ESPN) :: None
+2026-10-18 21:05:56 NEWS [ESPN 6m] Mike Danna (DE, Buffalo Bills) ruled out: Active -> Out [NFL]
+2026-10-18 21:05:56   skip Raiders :: Bills vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-18 21:05:56   skip Raiders :: Bills vs. Raiders: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:05:56 NEWS [ESPN 6m] Jude Bowry (OT, Buffalo Bills) ruled out: Active -> Out [NFL]
+2026-10-18 21:05:56   skip Raiders :: Bills vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-18 21:05:56   skip Raiders :: Bills vs. Raiders: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:05:56 NEWS [ESPN 9m] DJ Moore (WR, Buffalo Bills) ruled out: Questionable -> Out [NFL]
+2026-10-18 21:05:56   skip Raiders :: Bills vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-18 21:05:56   skip Raiders :: Bills vs. Raiders: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:09:50 indexed 948 markets
+2026-10-18 21:09:56   drop[1-source] Steelers Lose Veteran Cornerback to Injury (Steelers Now) :: Cameron Sutton, wait 2nd source
+2026-10-18 21:09:56   llm groq-120b: rate limited, skip 223s
+2026-10-18 21:09:56   llm groq-20b: rate limited, skip 32s
+2026-10-18 21:12:16   drop[not-key] Jaquan Brisker Injured Against Buccaneers (Steelers Depot) :: Jaquan Brisker: injury
+2026-10-18 21:12:16   llm groq-20b: rate limited, skip 188s
+2026-10-18 21:12:17 [pengwin] page ali/lussemburgo-bulgaria-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
