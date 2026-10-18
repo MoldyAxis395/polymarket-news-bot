@@ -13971,3 +13971,14 @@
 2026-10-18 12:24:00   drop[side] Udinese confirmed lineup vs Lecce: James Abankwah, Unai Gómez ruled out of starting XI [it (ESPN) :: Will Udinese Calcio win on 2026-10-18? -> Yes vs fact ruled_out: - (Udinese, soccer), bad for Udinese. James Abankwah an
 2026-10-18 12:24:01   llm groq-20b: rate limited, skip 263s
 2026-10-18 12:24:01   drop[no-pick] Lecce confirmed lineup vs Udinese: Jamil Siebert, Ivan Ilic, Santiago Pierotti, Francisco  (ESPN) :: None
+2026-10-18 12:31:04   drop[1-source] Chelsea: Emiliano Martínez suffers jaw injury (Foot-Africa.com) :: Emiliano Martínez, wait 2nd source
+2026-10-18 12:34:22 indexed 885 markets
+2026-10-18 12:39:15   drop[team-not-named] Man Utd: Double injury blow 'confirmed' before Leeds clash (London Evening Standard) :: Manchester United Football Club
+2026-10-18 12:43:48 indexed 886 markets
+2026-10-18 12:46:10   drop[team-not-named] The week in sanctions: Juniansyah provisionally suspended (Inside The Games) :: Indonesia
+2026-10-18 12:49:14 feed politico error x1: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-18 12:50:48   drop[kind] Jordan Henderson Sends Message To Emiliano Martinez After Injury (Chelsea FC Online) :: other
+2026-10-18 12:53:15   drop[kind] De Klerk puts team first as he rebuilds after injury setbacks (SABC Sport) :: other
+2026-10-18 12:53:16   llm groq-120b: rate limited, skip 98s
+2026-10-18 12:53:16   drop[1-source] Gwalior Temple Accident: Police Officer Removed, Eight Personnel Suspended After Truck Kil (The Hans India) :: Gwalior Police Department, wait 2nd source
+2026-10-18 12:53:49 indexed 881 markets
