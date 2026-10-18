@@ -13641,3 +13641,19 @@
 2026-10-18 02:49:41   drop[team-not-named] Ousmane Kromah carted off in air cast after injury against Miami (Tallahassee Democrat) :: Florida State Seminoles
 2026-10-18 02:54:04 indexed 937 markets
 2026-10-18 02:55:45 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-18 02:58:54   drop[1-source] Andreas Pereira and Piquerez suspended for Palmeiras v Bragantino in Brasileiro (OneFootball) :: Andreas Pereira, wait 2nd source
+2026-10-18 02:59:34 [pengwin]   book error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-18 02:59:54 [pengwin]   settle error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-18 03:01:01   drop[no-market] Ousmane Kroham injury: FSU football carted off field vs Miami (Tallahassee Democrat) :: Florida State Seminoles football
+2026-10-18 03:01:02   drop[unconfirmed] FSU Football Loses Star RB Ousmane Kromah To Potentially Serious Injury Against Miami (Sports Illustrated) :: sustained potentially serious injury, likely to miss upcoming game
+2026-10-18 03:03:30 indexed 936 markets
+2026-10-18 03:03:35   drop[kind] Suspended inspector had amassed 2.8 cr assets (The Hans India) :: other
+2026-10-18 03:10:29   drop[not-key] Chris Marshall exits Arkansas football's game vs. Vanderbilt with apparent injury (Northwest Arkansas Democrat-Gazette) :: Chris Marshall: exited game with apparent injury
+2026-10-18 03:10:29   drop[not-key] Evan Stewart will not play against Nebraska with undisclosed injury (247Sports) :: Evan Stewart: undisclosed injury
+2026-10-18 03:14:06 indexed 929 markets
+2026-10-18 03:17:13   drop[1-source] Melbourne Cup limbo for Half Yours, as jockeys cleared of serious injury after Caulfield C (Herald Sun) :: Half Yours, wait 2nd source
+2026-10-18 03:21:23   llm groq-120b: rate limited, skip 149s
+2026-10-18 03:21:23   drop[unconfirmed] 🚨🇦🇷 Emiliano ‘Dibu’ Martínez completed surgery tonight after suffering serious injury. “Th (Fabrizio Romano) :: surgery after serious injury
+2026-10-18 03:21:49   drop[1-source] Val Chmerkovskiy is being suspended from Dancing with the Stars for a week after he posted (Facebook) :: Val Chmerkovskiy, wait 2nd source
+2026-10-18 03:24:08 indexed 919 markets
+2026-10-18 03:26:23 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
