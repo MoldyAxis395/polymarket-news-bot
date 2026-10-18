@@ -13672,3 +13672,17 @@
 2026-10-18 03:50:52   drop[not-key] CF Montréal confirmed lineup vs Seattle Sounders FC: Dawid Bugaj, Luca Petrasso, Matthew L (ESPN) :: Dawid Bugaj: injury
 2026-10-18 03:53:37 indexed 929 markets
 2026-10-18 03:57:01 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-18 03:58:56   llm groq-120b: rate limited, skip 178s
+2026-10-18 03:58:56   drop[side] Portland Timbers confirmed lineup vs Colorado Rapids: José Caicedo, Joao Ortiz, Ariel Lass (ESPN) :: Will Portland Timbers win on 2026-10-17? -> Yes vs fact ruled_out: - (Portland Timbers, soccer), bad for Portland Timber
+2026-10-18 03:58:57 NEWS [ESPN 0m] Colorado Rapids confirmed lineup vs Portland Timbers: Reggie Cannon, Paxten Aaronson, Saied Abu Farchi ruled out of starting XI [usa.1]
+2026-10-18 03:58:57   skip Yes :: Will Portland Timbers win on 2026-10-17? (low conf 0.6)
+2026-10-18 04:00:49 [pengwin]   book error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-18 04:03:38 indexed 934 markets
+2026-10-18 04:03:43   drop[not-key] Chabot Ruled Out for Saturday’s Game Against Flyers (SSBCrack) :: Mason Chabot: Injury rules him out for Saturday's game against the Flyers
+2026-10-18 04:13:39 indexed 930 markets
+2026-10-18 04:17:42   drop[1-source] Senators Captain Chabot Exits Game Against Flyers Due to Injury (SSBCrack) :: Brandon Chabot, wait 2nd source
+2026-10-18 04:19:50   drop[team-not-named] What Julian Sayin's injury means for Jeremiah Smith and the Heisman Trophy race (Sporting News) :: Texas A&M Aggies
+2026-10-18 04:23:41 indexed 936 markets
+2026-10-18 04:24:31   drop[team-not-named] NDSU Loses RB to Injury vs. Nevada (Heavy.com) :: North Dakota State University Football
+2026-10-18 04:26:54   drop[not-key] Marques Sigle Injury: Deemed out for Monday Night Football (RotoWire) :: Marques Sigle: injury
+2026-10-18 04:27:18 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
