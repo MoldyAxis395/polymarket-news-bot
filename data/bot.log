@@ -14113,3 +14113,27 @@
 2026-10-18 16:24:49   llm groq-20b: rate limited, skip 85s
 2026-10-18 16:27:33 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-18 16:27:57   drop[kind] The Toronto Maple Leafs Need More From Depth Players In Wake Of John Tavares' Injury (The Hockey News) :: other
+2026-10-18 16:29:32   drop[team-not-named] 🚨⚠️ Nuno Mendes suffers muscle injury as tests done today have confirmed. The Portuguese l (Fabrizio Romano) :: Paris Saint-Germain
+2026-10-18 16:32:31   llm groq-120b: rate limited, skip 19s
+2026-10-18 16:32:31   drop[kind] Manuel Neuer an injury doubt for Bayern Munich’s Arsenal clash (Bavarian Football Works) :: other
+2026-10-18 16:32:57   llm groq-120b: rate limited, skip 37s
+2026-10-18 16:32:57   llm groq-20b: rate limited, skip 183s
+2026-10-18 16:34:11 indexed 994 markets
+2026-10-18 16:37:01   llm groq-120b: rate limited, skip 102s
+2026-10-18 16:37:02 NEWS [ESPN 0m] Stade Rennais confirmed lineup vs Paris FC: Mahamadou Nagida, Valentin Rongier, Abdelhamid Aït Boudlal, Mousa Al-Tamari, Mahdi Camara ruled out of starting XI [fra.1]
+2026-10-18 16:37:02   skip Yes :: Will Paris FC win on 2026-10-18? (low conf 0.6)
+2026-10-18 16:37:25   llm groq-20b: rate limited, skip 195s
+2026-10-18 16:39:45   llm groq-120b: rate limited, skip 925s
+2026-10-18 16:41:05   llm groq-20b: rate limited, skip 19s
+2026-10-18 16:42:01   drop[kind] Referee carted off field due to injury during Texans-Jaguars game (Larry Brown Sports) :: other
+2026-10-18 16:44:14 indexed 993 markets
+2026-10-18 16:51:15   drop[team-not-named] Bad news for Luis Enrique! PSG confirm Nuno Mendes has suffered a thigh injury and will mi (Goal.com) :: Paris Saint-Germain
+2026-10-18 16:51:16   drop[kind] ‘Costly mistake’, suspended NSCDC commandant says deaths of 37 miners were avoidable (Chronicle NG) :: other
+2026-10-18 16:53:41   llm groq-20b: rate limited, skip 132s
+2026-10-18 16:54:15 indexed 987 markets
+2026-10-18 16:55:51   drop[verify] 🔵⚪️ 6 wins in a row in all competitions for Brighton! Fabian Hürzeler’s side currently fly (Fabrizio Romano) :: person not on team
+2026-10-18 16:55:55   drop[kind] Barcelona defender a doubt for PSG clash as he undergoes tests after fresh injury vs Real  (Barca Universal) :: other
+2026-10-18 16:56:19   llm groq-120b: rate limited, skip 167s
+2026-10-18 16:56:19   drop[unconfirmed] Devin Carter (G, Boston Celtics) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: illness
+2026-10-18 16:57:36 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-18 16:58:12   llm groq-20b: rate limited, skip 68s
