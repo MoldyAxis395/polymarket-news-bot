@@ -14521,3 +14521,24 @@
 2026-10-19 01:28:38 [pengwin] Betis-Barcellona: no Polymarket event (try 20)
 2026-10-19 01:28:41 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 18)
 2026-10-19 01:28:43 [pengwin] BOLOGNA-INTER: no Polymarket event (try 18)
+2026-10-19 01:29:31   llm groq-120b: rate limited, skip 7s
+2026-10-19 01:30:52   drop[team-not-named] Lyon go top after comeback win over Nice reut.rs/4julxjL (Reuters) :: Olympique Lyonnais
+2026-10-19 01:31:37   llm groq-120b: rate limited, skip 141s
+2026-10-19 01:31:38   drop[kind] Steelers coach Mike McCarthy shrugs off foot injury after halftime tent visit (Medicine Hat News) :: other
+2026-10-19 01:31:38   llm groq-20b: rate limited, skip 360s
+2026-10-19 01:34:39 indexed 908 markets
+2026-10-19 01:36:16   drop[1-source] Patriots | TreVeyon Henderson plays 16 snaps in return from ankle injury (Fantasy Guru) :: TreVeyon Henderson, wait 2nd source
+2026-10-19 01:38:43   drop[1-source] Rams kicker Blake Grupe leaves with knee injury after attempting tackle on kickoff return, (Yahoo) :: Blake Grupe, wait 2nd source
+2026-10-19 01:44:42 indexed 892 markets
+2026-10-19 01:45:16   drop[not-key] Mark Jankowski (C, Carolina Hurricanes) ruled out: healthy -> Out [NHL] (ESPN) :: Mark Jankowski: ruled out due to injury
+2026-10-19 01:45:33   llm groq-120b: rate limited, skip 186s
+2026-10-19 01:45:33   drop[not-key] Chargers WR Ladd McConkey ruled out with concussion early in loss to Chiefs after awkward  (Yahoo Sports) :: Ladd McConkey: concussion
+2026-10-19 01:48:04   drop[1-source] Bryce Young throws for 2 TDs and leads Panthers to 25-14 win over injury-riddled Eagles -  (ABC News - Breaking News, Latest News and Videos) :: Bryce Young, wait 2nd source
+2026-10-19 01:48:04   drop[unconfirmed] Bears’ Ozzy Trapilo Opens Up After Injury Comeback (Heavy.com) :: injury comeback
+2026-10-19 01:50:10   drop[1-source] TasFoods enters long-term suspension as TasFoods stock stays suspended (ad-hoc-news.de) :: TasFoods, wait 2nd source
+2026-10-19 01:50:10   llm groq-120b: rate limited, skip 145s
+2026-10-19 01:50:10   drop[unconfirmed] Ben Simmons Suffers Season-Ending Achilles Injury; Derails Long-Awaited NBA Comeback (Fadeaway World) :: Achilles injury
+2026-10-19 01:54:43 indexed 891 markets
+2026-10-19 01:58:38 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 19)
+2026-10-19 01:58:41 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 19)
+2026-10-19 01:58:43 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 19)
