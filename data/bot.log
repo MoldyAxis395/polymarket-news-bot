@@ -14084,3 +14084,32 @@
 2026-10-18 15:53:36   drop[kind] Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels (CNBC) :: other
 2026-10-18 15:54:06 indexed 1004 markets
 2026-10-18 15:58:04   drop[kind] Worker rushed to hospital after horror hand injury on ODEON cinema roof at Preston Docks (Lancashire Evening Post) :: other
+2026-10-18 16:00:57   drop[unconfirmed] Chargers OT Joe Alt, who has missed a couple games with a neck injury, received good news  (Ian Rapoport) :: expected to return to field soon
+2026-10-18 16:02:00   llm groq-120b: rate limited, skip 24s
+2026-10-18 16:02:02   drop[verify] The Steelers are optimistic that TE Pat Freiermuth, who was added to the injury report wit (Ian Rapoport) :: reading wrong
+2026-10-18 16:02:56   llm groq-120b: rate limited, skip 38s
+2026-10-18 16:02:57   drop[kind] Only 26 of 40 Major Industrial Companies Say Their Injury Rates Include Contractors, SDS M (EIN News) :: other
+2026-10-18 16:02:57   drop[1-source] Deaths of 37 Miners Avoidable - Suspended NSCDC Boss (Nigeria Info FM) :: Nigeria Security and Civil Defence Corps, wait 2nd source
+2026-10-18 16:04:44 indexed 1003 markets
+2026-10-18 16:06:19   drop[kind] Bucs RB Sean Tucker (quad) is listed as questionable and is not expected to go today, sour (Ian Rapoport) :: other
+2026-10-18 16:07:09   llm groq-120b: rate limited, skip 75s
+2026-10-18 16:07:10   drop[unconfirmed] QPR’s Dembele returns to action after long injury lay-off (West London Sport) :: return from injury
+2026-10-18 16:07:21   drop[kind] Giants LT Andrew Thomas (groin) and edge Abdul Carter (calf) are both expected to play, so (Ian Rapoport) :: other
+2026-10-18 16:08:40   llm groq-120b: rate limited, skip 213s
+2026-10-18 16:08:40   llm groq-20b: rate limited, skip 6s
+2026-10-18 16:08:40   drop[no-pick] Late tries give Pau bonus-point win over Leicester (BBC) :: None
+2026-10-18 16:11:43   drop[kind] Cocaine-Induced Severe Rhabdomyolysis with Acute Kidney Injury: A Case Report of Massively (Cureus) :: other
+2026-10-18 16:11:43   llm groq-20b: rate limited, skip 162s
+2026-10-18 16:14:08 indexed 997 markets
+2026-10-18 16:19:47 NEWS [ESPN 0m] Lorient confirmed lineup vs AS Monaco: Isak Jensen, Alec Georgen, Mamadou Koné ruled out of starting XI [fra.1]
+2026-10-18 16:19:47   skip No :: Will FC Lorient win on 2026-10-18? (low conf 0.6)
+2026-10-18 16:19:47   llm groq-120b: rate limited, skip 204s
+2026-10-18 16:19:47   llm groq-20b: rate limited, skip 74s
+2026-10-18 16:21:10   drop[kind] Arsenal XI vs Nottingham Forest: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-10-18 16:24:44 indexed 987 markets
+2026-10-18 16:24:48   llm groq-120b: rate limited, skip 212s
+2026-10-18 16:24:49 NEWS [ESPN 0m] Le Havre AC confirmed lineup vs AJ Auxerre: Ayumu Seko ruled out of starting XI [fra.1]
+2026-10-18 16:24:49   skip No :: Will Le Havre AC win on 2026-10-18? (low conf 0.6)
+2026-10-18 16:24:49   llm groq-20b: rate limited, skip 85s
+2026-10-18 16:27:33 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-18 16:27:57   drop[kind] The Toronto Maple Leafs Need More From Depth Players In Wake Of John Tavares' Injury (The Hockey News) :: other
