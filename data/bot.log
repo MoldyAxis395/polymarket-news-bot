@@ -14040,3 +14040,19 @@
 2026-10-18 14:21:44   drop[kind] Severe Influenza A-Associated Rhabdomyolysis Without Acute Kidney Injury: A Case Report (Cureus) :: other
 2026-10-18 14:21:45   drop[1-source] Suspended Anglican Archbishop Takes Primate, Church To Court (New Telegraph) :: Anglican Church, wait 2nd source
 2026-10-18 14:24:00 indexed 1009 markets
+2026-10-18 14:28:40   drop[kind] Kidney Injury Gene Switch Discovered in Immune Cells Offers New Treatment Hope (Bioengineer.org) :: other
+2026-10-18 14:31:15   llm groq-120b: rate limited, skip 38s
+2026-10-18 14:31:15   drop[side] Leeds United unchanged vs Man Utd as Ampadu hits 100 as captain and James ruled out (OneFootball) :: Will Leeds United FC vs. Manchester United FC end in a draw? -> Yes vs fact ruled_out: Luke James (Leeds United, soccer)
+2026-10-18 14:33:16   drop[team-not-named] Saints Owner Gayle Benson Endorses HC Kellen Moore; QB Tyler Shough Dealing With Hand Inju (ProFootballRumors.com) :: Dallas Cowboys
+2026-10-18 14:34:37 indexed 1011 markets
+2026-10-18 14:42:27   drop[1-source] Sannadi steps up as Guruzeta injury opens door at Athletic (OneFootball) :: Iñaki Guruzeta, wait 2nd source
+2026-10-18 14:44:02 indexed 1018 markets
+2026-10-18 14:47:24   drop[kind] Luke Bryan's Son Injured In Football Game, Taking a Break to Heal (Amarillo Country Radio) :: other
+2026-10-18 14:54:02 indexed 1027 markets
+2026-10-18 14:55:50 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-18 14:57:17   llm groq-120b: rate limited, skip 162s
+2026-10-18 14:57:18 NEWS [ESPN 0m] Fiorentina confirmed lineup vs Como: Luca Ranieri, Víctor Valdepeñas, Christ Inao Oulaï, Beto, Wilfried Gnonto ruled out of starting XI [ita.1]
+2026-10-18 14:57:18   skip No :: Will ACF Fiorentina win on 2026-10-18? (low conf 0.6)
+2026-10-18 14:57:19 NEWS [ESPN 0m] Como confirmed lineup vs Fiorentina: Robert Sánchez, Jacobo Ramón, Martin Baturina, Assane Diao, Kaiki, Máximo Perrone ruled out of starting XI [ita.1]
+2026-10-18 14:57:19   skip No :: Will Como 1907 win on 2026-10-18? (low conf 0.6)
+2026-10-18 14:57:57   drop[1-source] Jordan Staal’s Injury Creates New Opportunities for Jesperi Kotkaniemi With the Hurricanes (The Hockey Writers) :: Jordan Staal, wait 2nd source
