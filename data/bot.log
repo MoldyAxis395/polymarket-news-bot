@@ -14146,3 +14146,147 @@
 2026-10-18 17:25:24   drop[kind] One killed, 15 injured in Ukrainian drone attack on St Petersburg and Leningrad region reu (Reuters) :: other
 2026-10-18 17:26:42   drop[1-source] A painful blow for Saudi side Al-Nassr with an injury to their star (Goal.com) :: Cristiano Ronaldo, wait 2nd source
 2026-10-18 17:27:40 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-18 17:29:01 NEWS [NBC News 4m] Trump endorses Benjamin Netanyahu ahead of pivotal Israeli election
+2026-10-18 17:29:01   skip Yes :: Will Benjamin Netanyahu be the next Prime Minister of Israel? (low conf 0.6)
+2026-10-18 17:29:34   llm groq-120b: rate limited, skip 216s
+2026-10-18 17:29:34   drop[side] AC Milan confirmed lineup vs Atalanta: Fikayo Tomori, Ardon Jashari, Alphadjo Cissè, David (ESPN) :: Will AC Milan win on 2026-10-18? -> Yes vs fact ruled_out: Francesco Camarda (AC Milan, soccer), bad for AC Milan. injur
+2026-10-18 17:29:35   drop[side] Atalanta confirmed lineup vs AC Milan: Giorgio Scalvini, Davide Zappacosta, Eljif Elmas, F (ESPN) :: Will Atalanta BC win on 2026-10-18? -> Yes vs fact ruled_out: Giorgio Scalvini (Atalanta, soccer), bad for Atalanta. inj
+2026-10-18 17:31:35   drop[1-source] A painful blow for Al-Nassr with the injury of its star (Goal.com) :: Alvaro Morata, wait 2nd source
+2026-10-18 17:31:39   llm groq-20b: rate limited, skip 256s
+2026-10-18 17:31:39   drop[verify] Real Sociedad confirmed lineup vs Málaga: Unai Marrero, Igor Zubeldia, Sergio Gómez, Yange (ESPN) :: no answer
+2026-10-18 17:33:38   drop[1-source] A painful blow for Al Nassr with the injury to its star (Goal.com) :: Cristiano Ronaldo, wait 2nd source
+2026-10-18 17:34:53 indexed 974 markets
+2026-10-18 17:35:44   llm groq-120b: rate limited, skip 143s
+2026-10-18 17:35:57   llm groq-20b: rate limited, skip 30s
+2026-10-18 17:38:59   drop[not-key] Elijah Sarratt (WR, Baltimore Ravens) ruled out: Active -> Out [NFL] (ESPN) :: Elijah Sarratt: injury
+2026-10-18 17:38:59   llm groq-120b: rate limited, skip 201s
+2026-10-18 17:38:59   drop[not-key] Andrew Vorhees (G, Baltimore Ravens) ruled out: Questionable -> Out [NFL] (ESPN) :: Andrew Vorhees: injury
+2026-10-18 17:38:59   llm groq-20b: rate limited, skip 105s
+2026-10-18 17:38:59 NEWS [ESPN 6m] K'Von Wallace (CB, Baltimore Ravens) ruled out: healthy -> Out [NFL]
+2026-10-18 17:38:59   skip Browns :: Ravens vs. Browns (rules fallback, LLM down (not traded))
+2026-10-18 17:38:59 NEWS [ESPN 5m] Dalton Tucker (G, Indianapolis Colts) ruled out: Active -> Out [NFL]
+2026-10-18 17:38:59   skip Titans :: Titans vs. Colts (rules fallback, LLM down (not traded))
+2026-10-18 17:38:59 NEWS [ESPN 5m] Riley Leonard (QB, Indianapolis Colts) ruled out: Active -> Out [NFL]
+2026-10-18 17:38:59   skip Titans :: Titans vs. Colts (rules fallback, LLM down (not traded))
+2026-10-18 17:38:59 NEWS [ESPN 7m] Nicholas Singleton (RB, Tennessee Titans) ruled out: Active -> Out [NFL]
+2026-10-18 17:38:59   skip Browns :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-18 17:38:59   skip Colts :: Titans vs. Colts (rules fallback, LLM down (not traded))
+2026-10-18 17:38:59 NEWS [ESPN 7m] Alontae Taylor (CB, Tennessee Titans) ruled out: healthy -> Out [NFL]
+2026-10-18 17:38:59   skip Browns :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-18 17:38:59   skip Colts :: Titans vs. Colts (rules fallback, LLM down (not traded))
+2026-10-18 17:38:59 NEWS [ESPN 7m] Jackie Marshall (DT, Tennessee Titans) ruled out: Active -> Out [NFL]
+2026-10-18 17:38:59   skip Browns :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-18 17:38:59   skip Colts :: Titans vs. Colts (rules fallback, LLM down (not traded))
+2026-10-18 17:38:59 NEWS [ESPN 7m] Kylen Granson (TE, Tennessee Titans) ruled out: Active -> Out [NFL]
+2026-10-18 17:38:59   skip Browns :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-18 17:38:59   skip Colts :: Titans vs. Colts (rules fallback, LLM down (not traded))
+2026-10-18 17:38:59 NEWS [ESPN 7m] Brandon Crenshaw-Dickson (OT, Tennessee Titans) ruled out: Active -> Out [NFL]
+2026-10-18 17:38:59   skip Browns :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-18 17:38:59   skip Colts :: Titans vs. Colts (rules fallback, LLM down (not traded))
+2026-10-18 17:41:00   drop[not-key] Nahshon Wright (CB, New York Jets) ruled out: Active -> Out [NFL] (ESPN) :: Nahshon Wright: injury
+2026-10-18 17:41:00   llm groq-20b: rate limited, skip 280s
+2026-10-18 17:41:00 NEWS [ESPN 6m] Jack Heflin (DT, New York Jets) ruled out: healthy -> Out [NFL]
+2026-10-18 17:41:00   skip Patriots :: Jets vs. Patriots (rules fallback, LLM down (not traded))
+2026-10-18 17:42:36   llm groq-120b: rate limited, skip 28s
+2026-10-18 17:43:24   llm groq-120b: rate limited, skip 175s
+2026-10-18 17:43:24   drop[no-pick] My one feeling is shame - Sage on bruising Palace defeat (BBC) :: None
+2026-10-18 17:44:55 indexed 979 markets
+2026-10-18 17:46:08   llm groq-20b: rate limited, skip 15s
+2026-10-18 17:46:08 NEWS [ESPN 0m] Tyler Warren (TE, Indianapolis Colts) ruled out: Questionable -> Out [NFL]
+2026-10-18 17:46:08   skip Titans :: Titans vs. Colts (rules fallback, LLM down (not traded))
+2026-10-18 17:49:37   drop[team-not-named] Jenna Dewan’s Fiancé Steve Kazee Speaks Out After Her DWTS Partner Val Chmerkovskiy Is Sus (People.com) :: Dancing with the Stars
+2026-10-18 17:49:59   llm groq-120b: rate limited, skip 172s
+2026-10-18 17:50:00   drop[unconfirmed] Quinshon Judkins (RB, Cleveland Browns) ruled out: Questionable -> Out [NFL] (ESPN) :: injury
+2026-10-18 17:50:00   llm groq-20b: rate limited, skip 69s
+2026-10-18 17:50:00 NEWS [ESPN 15m] Mason Graham (DT, Cleveland Browns) ruled out: Questionable -> Out [NFL]
+2026-10-18 17:50:00   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00   skip Ravens :: Ravens vs. Browns (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 15m] Taylen Green (QB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-18 17:50:00   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00   skip Ravens :: Ravens vs. Browns (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 15m] Noah Igbinoghene (CB, Cleveland Browns) ruled out: healthy -> Out [NFL]
+2026-10-18 17:50:00   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00   skip Ravens :: Ravens vs. Browns (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 15m] Parker Brailsford (C, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-18 17:50:00   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00   skip Ravens :: Ravens vs. Browns (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 4m] Zach Wilson (QB, New Orleans Saints) ruled out: Active -> Out [NFL]
+2026-10-18 17:50:00   skip Giants :: Saints vs. Giants (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 4m] Mike Reid (CB, New Orleans Saints) ruled out: Active -> Out [NFL]
+2026-10-18 17:50:00   skip Giants :: Saints vs. Giants (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 4m] John Ridgeway III (DT, New Orleans Saints) ruled out: healthy -> Out [NFL]
+2026-10-18 17:50:00   skip Giants :: Saints vs. Giants (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 4m] Nathan Shepherd (DT, New Orleans Saints) ruled out: Questionable -> Out [NFL]
+2026-10-18 17:50:00   skip Giants :: Saints vs. Giants (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 7m] Joe Milton III (QB, Philadelphia Eagles) ruled out: Active -> Out [NFL]
+2026-10-18 17:50:00   skip Panthers :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 17m] AJ Epenesa (DE, Philadelphia Eagles) ruled out: Doubtful -> Out [NFL]
+2026-10-18 17:50:00   skip Panthers :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 17m] Hollywood Brown (WR, Philadelphia Eagles) ruled out: Active -> Out [NFL]
+2026-10-18 17:50:00   skip Panthers :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 8m] Terell Smith (CB, Pittsburgh Steelers) ruled out: Active -> Out [NFL]
+2026-10-18 17:50:00   skip Buccaneers :: Steelers vs. Buccaneers (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 8m] Sean Murphy-Bunting (CB, Pittsburgh Steelers) ruled out: Active -> Out [NFL]
+2026-10-18 17:50:00   skip Buccaneers :: Steelers vs. Buccaneers (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 8m] Eli Heidenreich (RB, Pittsburgh Steelers) ruled out: Active -> Out [NFL]
+2026-10-18 17:50:00   skip Buccaneers :: Steelers vs. Buccaneers (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 8m] Will Howard (QB, Pittsburgh Steelers) ruled out: Active -> Out [NFL]
+2026-10-18 17:50:00   skip Buccaneers :: Steelers vs. Buccaneers (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 8m] Kevin Jobity Jr. (DT, Pittsburgh Steelers) ruled out: Active -> Out [NFL]
+2026-10-18 17:50:00   skip Buccaneers :: Steelers vs. Buccaneers (rules fallback, LLM down (not traded))
+2026-10-18 17:50:00 NEWS [ESPN 8m] Drew Allar (QB, Pittsburgh Steelers) ruled out: Active -> Out [NFL]
+2026-10-18 17:50:00   skip Buccaneers :: Steelers vs. Buccaneers (rules fallback, LLM down (not traded))
+2026-10-18 17:51:18 [pengwin]   book error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=114281626175178604028911566727311075308132764979506407000959036078524287085600
+2026-10-18 17:51:52   drop[kind] Jaguars' Antonio Johnson questionable to return with an ankle injury (The Florida Times-Union) :: other
+2026-10-18 17:52:26   llm groq-20b: rate limited, skip 218s
+2026-10-18 17:52:26 NEWS [Fabrizio Romano 0m] 🚨⚠️ Eric García will be out for 3-4 weeks with an injury, Barcelona confirm. Out against PSG and Real Madrid. Koundé will miss PSG game on Tuesday with an injury too; set to be evaluated for El Clásico.
+2026-10-18 17:52:26   skip Yes :: Will Real Madrid CF win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-18 17:52:26   skip Yes :: Will FC Barcelona vs. Real Madrid CF end in a draw? (rules fallback, LLM down (not traded))
+2026-10-18 17:52:26   skip Yes :: Will FC Barcelona win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-18 17:54:21 indexed 974 markets
+2026-10-18 17:54:23   drop[not-key] Cooper Rush (QB, Atlanta Falcons) ruled out: Active -> Out [NFL] (ESPN) :: Cooper Rush: ruled out due to injury
+2026-10-18 17:54:23   llm groq-120b: rate limited, skip 149s
+2026-10-18 17:54:23 NEWS [ESPN 3m] Jack Strand (QB, Atlanta Falcons) ruled out: Active -> Out [NFL]
+2026-10-18 17:54:23   skip Bears :: Bears vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 3m] Ethan Onianwa (OT, Atlanta Falcons) ruled out: Active -> Out [NFL]
+2026-10-18 17:54:23   skip Bears :: Bears vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 3m] Christian Harris (LB, Atlanta Falcons) ruled out: Active -> Out [NFL]
+2026-10-18 17:54:23   skip Bears :: Bears vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 3m] Drake Jackson (DE, Atlanta Falcons) ruled out: healthy -> Out [NFL]
+2026-10-18 17:54:23   skip Bears :: Bears vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 3m] Malcolm DeWalt IV (CB, Atlanta Falcons) ruled out: Active -> Out [NFL]
+2026-10-18 17:54:23   skip Bears :: Bears vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 10m] Albert Reese IV (OT, Carolina Panthers) ruled out: Active -> Out [NFL]
+2026-10-18 17:54:23   skip Eagles :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 10m] Ja'Tavion Sanders (TE, Carolina Panthers) ruled out: Active -> Out [NFL]
+2026-10-18 17:54:23   skip Eagles :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 10m] Torricelli Simpkins III (G, Carolina Panthers) ruled out: healthy -> Out [NFL]
+2026-10-18 17:54:23   skip Eagles :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 10m] Haynes King (QB, Carolina Panthers) ruled out: Active -> Out [NFL]
+2026-10-18 17:54:23   skip Eagles :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 10m] TeRah Edwards (DT, Carolina Panthers) ruled out: healthy -> Out [NFL]
+2026-10-18 17:54:23   skip Eagles :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 10m] Monroe Freeling (OT, Carolina Panthers) ruled out: Doubtful -> Out [NFL]
+2026-10-18 17:54:23   skip Eagles :: Panthers vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 2m] Billy Schrauth (G, Tampa Bay Buccaneers) ruled out: Active -> Out [NFL]
+2026-10-18 17:54:23   skip No :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23   skip No :: Will there be a run scored in the first inning?: Tampa Bay Rays vs. Cl (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23   skip Steelers :: Steelers vs. Buccaneers (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 2m] Sean Tucker (RB, Tampa Bay Buccaneers) ruled out: Questionable -> Out [NFL]
+2026-10-18 17:54:23   skip No :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23   skip No :: Will there be a run scored in the first inning?: Tampa Bay Rays vs. Cl (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23   skip Steelers :: Steelers vs. Buccaneers (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 2m] Benjamin Morrison (CB, Tampa Bay Buccaneers) ruled out: Doubtful -> Out [NFL]
+2026-10-18 17:54:23   skip No :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23   skip No :: Will there be a run scored in the first inning?: Tampa Bay Rays vs. Cl (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23   skip Steelers :: Steelers vs. Buccaneers (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 2m] Luke Haggard (G, Tampa Bay Buccaneers) ruled out: Active -> Out [NFL]
+2026-10-18 17:54:23   skip No :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23   skip No :: Will there be a run scored in the first inning?: Tampa Bay Rays vs. Cl (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23   skip Steelers :: Steelers vs. Buccaneers (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23 NEWS [ESPN 2m] DeMonte Capehart (DT, Tampa Bay Buccaneers) ruled out: Active -> Out [NFL]
+2026-10-18 17:54:23   skip No :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23   skip No :: Will there be a run scored in the first inning?: Tampa Bay Rays vs. Cl (rules fallback, LLM down (not traded))
+2026-10-18 17:54:23   skip Steelers :: Steelers vs. Buccaneers (rules fallback, LLM down (not traded))
+2026-10-18 17:56:44   llm groq-20b: rate limited, skip 33s
+2026-10-18 17:57:44 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
