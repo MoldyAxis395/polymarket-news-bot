@@ -14290,3 +14290,31 @@
 2026-10-18 17:54:23   skip Steelers :: Steelers vs. Buccaneers (rules fallback, LLM down (not traded))
 2026-10-18 17:56:44   llm groq-20b: rate limited, skip 33s
 2026-10-18 17:57:44 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-18 17:59:06   drop[team-not-named] Nuno Mendes ruled out of PSG v Barcelona, Lamine Yamal faces Lucas Digne (foot.mundo) :: Paris Saint-Germain
+2026-10-18 18:01:23   llm groq-120b: rate limited, skip 18s
+2026-10-18 18:01:24   drop[1-source] Borussia Dortmund 'not feeling good' about Konstantinos Karetsas ankle injury (Bundesliga | official website) :: Konstantinos Karetsas, wait 2nd source
+2026-10-18 18:02:38 [pengwin]   settle error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-18 18:03:31   drop[not-key] Behren Morton (QB, New England Patriots) ruled out: Active -> Out [NFL] (ESPN) :: Behren Morton: ruled out
+2026-10-18 18:03:31   llm groq-120b: rate limited, skip 173s
+2026-10-18 18:03:31   drop[not-key] Tanner Arkin (TE, New England Patriots) ruled out: Active -> Out [NFL] (ESPN) :: Tanner Arkin: injury
+2026-10-18 18:03:31   llm groq-20b: rate limited, skip 213s
+2026-10-18 18:03:31 NEWS [ESPN 13m] Channing Canada (CB, New England Patriots) ruled out: Questionable -> Out [NFL]
+2026-10-18 18:03:31   skip Jets :: Jets vs. Patriots (rules fallback, LLM down (not traded))
+2026-10-18 18:03:31 NEWS [ESPN 13m] Dametrious Crownover (OT, New England Patriots) ruled out: Active -> Out [NFL]
+2026-10-18 18:03:31   skip Jets :: Jets vs. Patriots (rules fallback, LLM down (not traded))
+2026-10-18 18:04:22 indexed 983 markets
+2026-10-18 18:04:32 NEWS [ESPN 6m] Tyrique Stevenson Sr. (CB, Chicago Bears) ruled out: Questionable -> Out [NFL]
+2026-10-18 18:04:32   skip Falcons :: Bears vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-18 18:04:32 NEWS [ESPN 16m] Case Keenum (QB, Chicago Bears) ruled out: Active -> Out [NFL]
+2026-10-18 18:04:32   skip Falcons :: Bears vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-18 18:04:32 NEWS [ESPN 16m] Jayden Loving (DT, Chicago Bears) ruled out: Active -> Out [NFL]
+2026-10-18 18:04:32   skip Falcons :: Bears vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-18 18:04:32 NEWS [ESPN 16m] Jordan McFadden (G, Chicago Bears) ruled out: healthy -> Out [NFL]
+2026-10-18 18:04:32   skip Falcons :: Bears vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-18 18:07:35   drop[not-key] Jermaine Eluemunor (OT, New York Giants) ruled out: Questionable -> Out [NFL] (ESPN) :: Jermaine Eluemunor: injury ruled him out
+2026-10-18 18:07:35   llm groq-120b: rate limited, skip 202s
+2026-10-18 18:07:36   drop[side] CJ Okoye (DT, New York Giants) ruled out: healthy -> Out [NFL] (ESPN) :: Saints vs. Giants -> Giants vs fact ruled_out: CJ Okoye (New York Giants, nfl), bad for New York Giants. injury
+2026-10-18 18:07:36   llm groq-20b: rate limited, skip 421s
+2026-10-18 18:07:36 NEWS [ESPN 14m] Jake Haener (QB, New York Giants) ruled out: Active -> Out [NFL]
+2026-10-18 18:07:36   skip Saints :: Saints vs. Giants (rules fallback, LLM down (not traded))
+2026-10-18 18:08:22 shift over, state saved
