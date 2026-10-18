@@ -14226,3 +14226,36 @@
 2026-10-18 19:29:23 indexed 990 markets
 2026-10-18 19:34:59   drop[1-source] Barcelona hit by double injury blow ahead of PSG showdown (K24 Digital) :: Pedri, wait 2nd source
 2026-10-18 19:39:23 indexed 986 markets
+2026-10-18 19:44:15   drop[1-source] ‘Costly mistake’ — suspended NSCDC commandant says deaths of ’37 miners’ were avoidable (www.nigerianeye.com) :: Nigeria National Security and Civil Defence Corps (NSCDC), wait 2nd source
+2026-10-18 19:44:47   llm groq-120b: rate limited, skip 118s
+2026-10-18 19:44:48 NEWS [ESPN 3m] Grant Delpit (S, Cleveland Browns) ruled out: Questionable -> Out [NFL]
+2026-10-18 19:44:48   skip Titans :: Browns vs. Titans (illiquid)
+2026-10-18 19:45:27   drop[not-key] Richie Palacios scratched, ruled out of Tampa Bay Rays lineup vs Cleveland Guardians [MLB] (MLB.com) :: Richie Palacios: scratched
+2026-10-18 19:45:27   drop[not-key] Victor Mesa Jr. scratched, ruled out of Tampa Bay Rays lineup vs Cleveland Guardians [MLB] (MLB.com) :: Victor Mesa Jr.: scratched
+2026-10-18 19:46:31   drop[team-not-named] Romeo Doubs suffers shoulder injury on touchdown catch vs. Jets (Pats Pulpit) :: New England Patriots
+2026-10-18 19:46:32   drop[kind] Mamelodi Sundowns suffer Teboho Mokoena injury scare after frustrating Wiliete stalemate (thestar.co.za) :: other
+2026-10-18 19:46:36   drop[team-not-named] Lyon confirmed lineup vs Nice: Dominik Greif, Felix Bacher, Ruben Kluivert, Corentin Tolis (ESPN) :: Olympique Lyonnais
+2026-10-18 19:46:37   drop[team-not-named] Nice confirmed lineup vs Lyon: Djibril Coulibaly ruled out of starting XI [fra.1] (ESPN) :: Olympique Lyonnais
+2026-10-18 19:49:25 indexed 998 markets
+2026-10-18 19:51:50   llm groq-120b: rate limited, skip 42s
+2026-10-18 19:51:52   drop[verify] Madueke scores only goal as below-par Arsenal beat Nottingham Forest (Al Jazeera) :: headline is result, not new; player not star
+2026-10-18 19:53:23   drop[kind] Carson Steele injury: Eagles RB questionable to return against Panthers (Bleeding Green Nation) :: other
+2026-10-18 19:53:23   llm groq-120b: rate limited, skip 235s
+2026-10-18 19:53:24   drop[1-source] Browns injury: Lose another starter in Week 6 versus the Ravens (Dawgs By Nature) :: Jalen Reagor, wait 2nd source
+2026-10-18 19:53:25   drop[kind] Tyler Shough is playing through painful injury (Larry Brown Sports) :: other
+2026-10-18 19:53:25   drop[1-source] Patriots WR Romeo Doubs exits game with injury on 42-yard TD reception (Patriots Wire) :: Romeo Doubs, wait 2nd source
+2026-10-18 19:53:25   drop[not-key] Dean Wade Injury: Doesn't practice Sunday (RotoWire) :: Dean Wade: injury
+2026-10-18 19:55:42   drop[kind] Carson Steele Questionable with shoulder injury (Fantasy Footballers Podcast) :: other
+2026-10-18 19:55:43   drop[team-not-named] Rune withdraws from Brussels due to injury: 'Really annoying and unfortunate timing' (ATP Tour) :: Norway
+2026-10-18 19:59:28 indexed 991 markets
+2026-10-18 20:02:37   drop[1-source] Falcons Lose Key Defender to Injury In Week 5 Against Bears (Sports Illustrated) :: Atlanta Falcons, wait 2nd source
+2026-10-18 20:02:48   llm groq-120b: rate limited, skip 90s
+2026-10-18 20:02:49   drop[side] Real Madrid confirmed lineup vs Sevilla: Denzel Dumfries, Antonio Rüdiger, Vinícius Júnior (ESPN) :: Will Real Madrid CF vs. Sevilla FC end in a draw? -> Yes vs fact ruled_out: Denzel Dumfries (Real Madrid, soccer), bad f
+2026-10-18 20:02:50   llm groq-20b: rate limited, skip 262s
+2026-10-18 20:02:50   drop[no-pick] Sevilla confirmed lineup vs Real Madrid: Giorgi Kochorashvili, Miguel Sierra ruled out of  (ESPN) :: None
+2026-10-18 20:04:48   drop[not-key] Juventus confirmed lineup vs Lazio: Federico Gatti, Andrea Cambiaso, Lloyd Kelly, Francisc (ESPN) :: Nick Woltemade: ruled out of starting XI
+2026-10-18 20:04:49   llm groq-120b: rate limited, skip 203s
+2026-10-18 20:09:27 indexed 980 markets
+2026-10-18 20:09:42   drop[1-source] Mercedes Mone Reveals Extent of Broken Nose, Wrestling with Injury After AEW WrestleDream  (Bleacher Report) :: Mercedes Mone, wait 2nd source
+2026-10-18 20:11:48   llm groq-120b: rate limited, skip 140s
+2026-10-18 20:11:48   drop[1-source] Eagles' sack leader Nolan Smith injured vs Panthers, depleting position (Delawareonline.com) :: Nolan Smith, wait 2nd source
