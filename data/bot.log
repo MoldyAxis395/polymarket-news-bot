@@ -14008,3 +14008,35 @@
 2026-10-18 13:53:56 indexed 877 markets
 2026-10-18 13:55:09 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-18 13:57:53   drop[kind] Man Utd XI vs Leeds: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-10-18 14:01:40   llm groq-120b: rate limited, skip 56s
+2026-10-18 14:01:40   drop[side] AFC Bournemouth confirmed lineup vs Sunderland: Bafodé Diakité, Julio Soler, Ben Gannon-Do (ESPN) :: Will AFC Bournemouth win on 2026-10-18? -> Yes vs fact ruled_out: Álvaro Rodríguez (AFC Bournemouth, soccer), bad for AF
+2026-10-18 14:01:41 NEWS [ESPN 0m] Sunderland confirmed lineup vs AFC Bournemouth: Luke O'Nien, Dayann Methalie, Malick Fofana, Nilson Angulo, Jules Ahoka ruled out of starting XI [eng.1]
+2026-10-18 14:01:41   skip No :: Will Sunderland AFC win on 2026-10-18? (low conf 0.6)
+2026-10-18 14:01:42 NEWS [ESPN 0m] Brighton & Hove Albion confirmed lineup vs Crystal Palace: Pascal Struijk ruled out of starting XI [eng.1]
+2026-10-18 14:01:42   skip No :: Will Brighton & Hove Albion FC win on 2026-10-18? (low conf 0.6)
+2026-10-18 14:01:43   drop[side] Crystal Palace confirmed lineup vs Brighton & Hove Albion: Axel Disasi, Ismaïla Sarr, Ósca (ESPN) :: Will Crystal Palace FC win on 2026-10-18? -> Yes vs fact ruled_out: Axel Disasi (Crystal Palace, soccer), bad for Crysta
+2026-10-18 14:01:44   drop[side] Manchester United confirmed lineup vs Leeds United: Ayden Heaven, Marcus Rashford ruled ou (ESPN) :: Will Manchester United FC win on 2026-10-18? -> Yes vs fact ruled_out: Marcus Rashford (Manchester United, soccer), bad 
+2026-10-18 14:04:32 indexed 1017 markets
+2026-10-18 14:04:40   drop[no-market] Suspended Health ACEO Admits Failings Over Missing Oxygen Cylinders (Samoa Global News) :: Samoa Health Department
+2026-10-18 14:07:38   llm groq-120b: rate limited, skip 151s
+2026-10-18 14:07:38 NEWS [ESPN 5m] Braden Smith (OT, Houston Texans) ruled out: Active -> Out [NFL]
+2026-10-18 14:07:38   skip Jaguars :: Texans vs. Jaguars (low conf 0.6)
+2026-10-18 14:07:38   drop[not-key] Nate Thomas (OT, Houston Texans) ruled out: Active -> Out [NFL] (ESPN) :: Nate Thomas: injury
+2026-10-18 14:07:39   drop[not-key] Marlin Klein (TE, Houston Texans) ruled out: Active -> Out [NFL] (ESPN) :: Marlin Klein: injury
+2026-10-18 14:07:39   drop[not-key] Febechi Nwaiwu (G, Houston Texans) ruled out: Active -> Out [NFL] (ESPN) :: Febechi Nwaiwu: injury
+2026-10-18 14:07:40   drop[not-key] Sabastian Harsh (DE, Houston Texans) ruled out: Active -> Out [NFL] (ESPN) :: Sebastian Harsh: injury
+2026-10-18 14:07:40   drop[not-key] CJ Williams (WR, Jacksonville Jaguars) ruled out: Active -> Out [NFL] (ESPN) :: CJ Williams: injury
+2026-10-18 14:07:40   drop[not-key] Wesley Williams (DE, Jacksonville Jaguars) ruled out: Active -> Out [NFL] (ESPN) :: Wesley Williams: injury
+2026-10-18 14:07:41   llm groq-20b: rate limited, skip 4s
+2026-10-18 14:07:41 NEWS [ESPN 6m] Albert Regis (DT, Jacksonville Jaguars) ruled out: Active -> Out [NFL]
+2026-10-18 14:07:41   skip Texans :: Texans vs. Jaguars: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 14:07:41   skip Texans :: Texans vs. Jaguars (rules fallback, LLM down (not traded))
+2026-10-18 14:07:41 NEWS [ESPN 6m] Jalen Huskey (S, Jacksonville Jaguars) ruled out: Active -> Out [NFL]
+2026-10-18 14:07:41   skip Texans :: Texans vs. Jaguars: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 14:07:41   skip Texans :: Texans vs. Jaguars (rules fallback, LLM down (not traded))
+2026-10-18 14:08:38   llm groq-20b: rate limited, skip 206s
+2026-10-18 14:08:38   drop[no-pick] Angers confirmed lineup vs Marseille: Jordan Lefort, Ousmane Camara, Joseph Kalulu Kyateng (ESPN) :: None
+2026-10-18 14:14:33 indexed 1014 markets
+2026-10-18 14:21:44   drop[kind] Severe Influenza A-Associated Rhabdomyolysis Without Acute Kidney Injury: A Case Report (Cureus) :: other
+2026-10-18 14:21:45   drop[1-source] Suspended Anglican Archbishop Takes Primate, Church To Court (New Telegraph) :: Anglican Church, wait 2nd source
+2026-10-18 14:24:00 indexed 1009 markets
