@@ -13982,3 +13982,15 @@
 2026-10-18 12:53:16   llm groq-120b: rate limited, skip 98s
 2026-10-18 12:53:16   drop[1-source] Gwalior Temple Accident: Police Officer Removed, Eight Personnel Suspended After Truck Kil (The Hans India) :: Gwalior Police Department, wait 2nd source
 2026-10-18 12:53:49 indexed 881 markets
+2026-10-18 13:02:40 NEWS [ESPN 0m] Osasuna confirmed lineup vs Racing Santander: Unai Santos, Iñigo Arguibide, Lucas Torró, Raúl García ruled out of starting XI [esp.1]
+2026-10-18 13:02:40   skip Yes :: Will Real Racing Club win on 2026-10-18? (low conf 0.6)
+2026-10-18 13:03:52 indexed 872 markets
+2026-10-18 13:04:42   llm groq-120b: rate limited, skip 33s
+2026-10-18 13:04:42   drop[kind] Don’t Count Out Tavien St. Clair After Ohio State QB Julian Sayin Injury (Heavy.com) :: other
+2026-10-18 13:14:28 indexed 874 markets
+2026-10-18 13:16:50   drop[no-market] Gwalior Temple Tragedy: CSP Removed, 8 Cops Suspended After Truck Kills 15 Near Sheetla Ma (Pragativadi) :: Gwalior police department
+2026-10-18 13:21:37   drop[not-key] Colts Announce Roster Move Amid Tyler Warren Injury Uncertainty (Heavy.com) :: Tyler Warren: injury uncertainty prompted roster move
+2026-10-18 13:24:30 indexed 870 markets
+2026-10-18 13:24:33   drop[kind] Kennedy tries to score 1 more win for MAHA ahead of midterms politi.co/4it0I6n (Politico) :: other
+2026-10-18 13:25:05 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-18 13:26:55   drop[kind] What Makes Luke Fahey Ohio State’s Starting QB After Julian Sayin Injury (Heavy.com) :: other
