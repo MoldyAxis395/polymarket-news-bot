@@ -13686,35 +13686,43 @@
 2026-10-18 04:24:31   drop[team-not-named] NDSU Loses RB to Injury vs. Nevada (Heavy.com) :: North Dakota State University Football
 2026-10-18 04:26:54   drop[not-key] Marques Sigle Injury: Deemed out for Monday Night Football (RotoWire) :: Marques Sigle: injury
 2026-10-18 04:27:18 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-18 04:31:07 [pengwin]   book error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
-2026-10-18 04:31:27 [pengwin]   settle error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
-2026-10-18 04:33:41 indexed 928 markets
-2026-10-18 04:43:46 indexed 925 markets
-2026-10-18 04:54:16 indexed 924 markets
-2026-10-18 05:03:43 indexed 925 markets
-2026-10-18 05:06:05   drop[1-source] Injury rules Thomas out for Wales (The Rugby Paper) :: Thomas, wait 2nd source
-2026-10-18 05:14:21 indexed 919 markets
-2026-10-18 05:17:41   drop[1-source] AEW Star Returns Early From Injury At WrestleDream (SEScoops) :: All Elite Wrestling (AEW), wait 2nd source
-2026-10-18 05:24:18 indexed 914 markets
-2026-10-18 05:28:35 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-18 05:32:24 [pengwin]   book error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
-2026-10-18 05:32:44 [pengwin]   settle error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
-2026-10-18 05:33:45 indexed 918 markets
-2026-10-18 05:44:20 indexed 920 markets
-2026-10-18 05:47:29   drop[kind] Duke under fire after CB swatted away female athletic trainer tending to Landan Callahan's (HITC) :: other
-2026-10-18 05:49:59   drop[1-source] Odapada tehsildar suspended (OrissaPOST) :: Odapada Tehsildar, wait 2nd source
-2026-10-18 05:50:38   drop[kind] Rubio says Trump to take up to 60 days to weigh Russia sanctions reut.rs/4yQxcy5 (Reuters) :: other
-2026-10-18 05:54:20 indexed 919 markets
-2026-10-18 06:03:48 indexed 896 markets
-2026-10-18 06:04:39   drop[kind] Hull City facing anxious wait over Vaz injury as Sergej Jakirovic explains Fulham tactics (Hull Live) :: other
-2026-10-18 06:13:48 indexed 898 markets
-2026-10-18 06:20:12   drop[kind] Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta reut.rs (Reuters) :: other
-2026-10-18 06:24:25 indexed 886 markets
-2026-10-18 06:27:41   drop[kind] UTSA 'Deeply Saddened' After Military Member Hospitalized Following Injury During Pregame  (Bleacher Report) :: other
-2026-10-18 06:29:53 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-18 06:32:10   drop[kind] UTEP Turns to Raymond Moore III After EJ Colson Injury (SuaraGarut.ID) :: other
-2026-10-18 06:33:26 [pengwin]   book error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-18 06:33:46 [pengwin]   settle error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
-2026-10-18 06:33:52 indexed 895 markets
-2026-10-18 06:34:43   drop[1-source] Utah football’s 5-star offensive tackle exits Colorado game with right-leg injury (The Salt Lake Tribune) :: University of Utah football, wait 2nd source
-2026-10-18 06:37:46 shift over, state saved
+2026-10-18 06:38:09 === start mode=paper pid=2135 ===
+2026-10-18 06:38:09 brain=llm cash=84.02 open=0
+2026-10-18 06:38:09 resuming with 6365 known news items
+2026-10-18 06:38:31 indexed 896 markets
+2026-10-18 06:38:43 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 111)
+2026-10-18 06:38:46 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 111)
+2026-10-18 06:38:47   drop[kind] Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta reut.rs (Reuters) :: other
+2026-10-18 06:38:47   drop[kind] Rubio says Trump to take up to 60 days to weigh Russia sanctions reut.rs/4yQxcy5 (Reuters) :: other
+2026-10-18 06:38:47 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 111)
+2026-10-18 06:38:50 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 110)
+2026-10-18 06:38:52 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 110)
+2026-10-18 06:38:55 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 111)
+2026-10-18 06:38:57 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 111)
+2026-10-18 06:38:59 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 111)
+2026-10-18 06:39:02 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 111)
+2026-10-18 06:39:04 [pengwin] MONACO-TOLOSA: no Polymarket event (try 111)
+2026-10-18 06:39:06 [pengwin] BREST-ANGERS: no Polymarket event (try 111)
+2026-10-18 06:39:08 [pengwin] PSG-LE MANS: no Polymarket event (try 111)
+2026-10-18 06:39:10 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 110)
+2026-10-18 06:39:13 [pengwin] RENNES-AUXERRE: no Polymarket event (try 111)
+2026-10-18 06:39:15 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 111)
+2026-10-18 06:39:17 [pengwin] AUXERRE-BREST: no Polymarket event (try 111)
+2026-10-18 06:40:02 [pengwin] LAZIO-INTER: no Polymarket event (try 111)
+2026-10-18 06:40:04 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 111)
+2026-10-18 06:40:07 [pengwin] INTER-COMO: no Polymarket event (try 111)
+2026-10-18 06:40:10 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 110)
+2026-10-18 06:40:12 [pengwin] COMO-INTER: no Polymarket event (try 111)
+2026-10-18 06:40:14 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 111)
+2026-10-18 06:40:17 [pengwin] NAPOLI-COMO: no Polymarket event (try 111)
+2026-10-18 06:40:19 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 111)
+2026-10-18 06:40:44 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 111)
+2026-10-18 06:41:25 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 9)
+2026-10-18 06:41:27 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 9)
+2026-10-18 06:41:29 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 9)
+2026-10-18 06:41:35 [pengwin] skip BAYER LEVERKUSEN-FRIBURGO [1X + MULTIGOL 2-5]: Polymarket offers no double‑chance (1X) market and no total‑goals range 2‑5; thus no exact or approximate single market matches the base pick
+2026-10-18 06:42:03 [pengwin] Betis-Barcellona: no Polymarket event (try 11)
+2026-10-18 06:42:05   llm groq-120b: rate limited, skip 268s
+2026-10-18 06:42:06 [pengwin] skip Real Madrid-Siviglia [Over 4.5 cartellini]: no matching market
+2026-10-18 06:42:08 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 9)
+2026-10-18 06:42:10 [pengwin] BOLOGNA-INTER: no Polymarket event (try 9)
