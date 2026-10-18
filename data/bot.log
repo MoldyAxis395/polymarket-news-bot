@@ -14394,3 +14394,17 @@
 2026-10-18 21:39:55 NEWS [ESPN 10m] Cam York (D, Philadelphia Flyers) ruled out: Day-To-Day -> Injured Reserve [NHL]
 2026-10-18 21:39:55   skip Avalanche :: Avalanche vs. Flyers (low conf 0.62)
 2026-10-18 21:40:00   drop[1-source] Giants’ $34 Million Starter Ruled Out With Injury Against Saints (Heavy.com) :: Daniel Jones, wait 2nd source
+2026-10-18 21:49:09   drop[team-not-named] He was carried off on a stretcher: worrying injury for Morocco star (Goal.com) :: Paris Saint-Germain
+2026-10-18 21:49:53 indexed 909 markets
+2026-10-18 21:51:46   drop[not-key] Ben Brown becomes latest Patriots O-lineman to leave Jets game with injury (Pats Pulpit) :: Ben Brown: left Jets game with injury
+2026-10-18 21:51:46   llm groq-120b: rate limited, skip 14s
+2026-10-18 21:51:46   drop[kind] Dibu Martínez has successful surgery after jaw injury, hopes to be back in weeks (OneFootball) :: other
+2026-10-18 21:51:47   drop[1-source] Carried off on a stretcher: worrying injury for Morocco star (Goal.com) :: Morocco national football team, wait 2nd source
+2026-10-18 21:59:53 indexed 909 markets
+2026-10-18 22:07:42   drop[1-source] Steelers coach Mike McCarthy limps into injury tent at halftime of Buccaneers game (Newsday) :: Mike McCarthy, wait 2nd source
+2026-10-18 22:09:55 indexed 913 markets
+2026-10-18 22:10:14   drop[no-market] Steelers coach Mike McCarthy limps into injury tent at halft... (Standard Democrat) :: Pittsburgh Steelers
+2026-10-18 22:12:18 NEWS [ESPN 0m] FC Cincinnati confirmed lineup vs Columbus Crew: Evan Louro, Kyle Smith, Tah Anunga, Gerardo Valenzuela, Ender Echenique ruled out of starting XI [usa.1]
+2026-10-18 22:12:18   skip No :: Will FC Cincinnati win on 2026-10-18? (low conf 0.6)
+2026-10-18 22:12:18   drop[not-key] Columbus Crew confirmed lineup vs FC Cincinnati: Dylan Chambost, Mohamed Farsi, Josef Mart (ESPN) :: Dylan Chambost: ruled out of starting XI
+2026-10-18 22:12:35 [pengwin] page ppa-italia/bologna-lazio-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
