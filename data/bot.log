@@ -14259,3 +14259,22 @@
 2026-10-18 20:09:42   drop[1-source] Mercedes Mone Reveals Extent of Broken Nose, Wrestling with Injury After AEW WrestleDream  (Bleacher Report) :: Mercedes Mone, wait 2nd source
 2026-10-18 20:11:48   llm groq-120b: rate limited, skip 140s
 2026-10-18 20:11:48   drop[1-source] Eagles' sack leader Nolan Smith injured vs Panthers, depleting position (Delawareonline.com) :: Nolan Smith, wait 2nd source
+2026-10-18 20:14:08   drop[1-source] Patriots veteran offensive lineman leaves game early with injury (Patriots Wire) :: New England Patriots, wait 2nd source
+2026-10-18 20:18:04   drop[team-not-named] Trump endorses Netanyahu for reelection politi.co/4yoFU5F (Politico) :: Likud
+2026-10-18 20:19:18 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-18 20:19:43 indexed 983 markets
+2026-10-18 20:21:22   drop[1-source] Another Eagles edge rusher goes down with an injury (Bleeding Green Nation) :: Josh Sweat, wait 2nd source
+2026-10-18 20:23:41   llm groq-120b: rate limited, skip 37s
+2026-10-18 20:23:42   drop[unconfirmed] Patriots Announce Injury to $24 Million Ex-Jets Starter During Game (Heavy.com) :: injury
+2026-10-18 20:25:26   drop[no-market] Northampton beat Cardiff for first English win (BBC) :: Northampton Saints
+2026-10-18 20:28:26   llm groq-120b: rate limited, skip 10s
+2026-10-18 20:28:26   drop[not-key] Rashod Bateman Leaves With Shoulder Injury (Draft Sharks) :: Rashod Bateman: shoulder injury
+2026-10-18 20:29:45 indexed 982 markets
+2026-10-18 20:32:57   drop[1-source] Lyra Valkyria’s X Account Appears Suspended as WWE Star’s Instagram Vanishes (Ringside News) :: Lyra Valkyria, wait 2nd source
+2026-10-18 20:35:16   drop[team-not-named] Alijah Vera-Tucker exits with hamstring injury in first half against Jets (Pats Pulpit) :: New York Giants
+2026-10-18 20:35:16   llm groq-120b: rate limited, skip 236s
+2026-10-18 20:35:17   drop[kind] Patriots’ $66 Million Duo Suffers Injury Scare Against Former Team (heavy.com) :: other
+2026-10-18 20:35:17   llm groq-20b: rate limited, skip 6s
+2026-10-18 20:37:46   drop[not-key] Brandin Echols Injured Against Buccaneers (Steelers Depot) :: Brandin Echols: injury
+2026-10-18 20:39:45 indexed 980 markets
+2026-10-18 20:39:58   drop[no-market] Nolan Smith concussion adds to Eagles’ injury woes in ugly 1st half vs. Panthers (ClutchPoints) :: Philadelphia Eagles
