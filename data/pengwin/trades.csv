@@ -46,3 +46,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-17T17:11:03+00:00,SELL,Will SV 07 Elversberg win on 2026-10-17?,No,16.39,0.0000,0.00,-10.00,resolved
 2026-10-17T21:36:06+00:00,SELL,ES Troyes AC vs. Racing Club de Lens: Both Teams to Score,Yes,15.87,1.0000,15.87,+5.87,resolved
 2026-10-17T21:53:10+00:00,SELL,Valencia CF vs. Athletic Club: O/U 4.5,Under,10.99,1.0000,10.99,+0.99,resolved
+2026-10-18T16:12:01+00:00,SELL,Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to Score,Yes,15.62,1.0000,15.62,+5.62,resolved

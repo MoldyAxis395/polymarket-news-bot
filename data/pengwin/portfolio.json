@@ -1,26 +1,6 @@
 {
- "cash": 131.20840596555138,
- "positions": [
-  {
-   "market_id": "5314365",
-   "question": "Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to Score",
-   "slug": "bun-b04-fre-2026-10-18-btts",
-   "outcome": "Yes",
-   "token": "114281626175178604028911566727311075308132764979506407000959036078524287085600",
-   "shares": 15.625,
-   "entry": 0.64,
-   "cost": 10.0,
-   "opened": 1792132595.7668314,
-   "opened_iso": "2026-10-16T06:36:35+00:00",
-   "news": "BAYER LEVERKUSEN-LIPSIA: GG (esatto)",
-   "reason": "pengwin exact: replicates GOAL",
-   "conf": 1.0,
-   "end": "2026-10-18T13:30:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1792339938.5801327
-  }
- ],
+ "cash": 146.83340596555138,
+ "positions": [],
  "closed": [
   {
    "market_id": "5009005",
@@ -550,6 +530,29 @@
    "pnl": 0.989010989010989,
    "why": "resolved",
    "closed_iso": "2026-10-17T21:53:10+00:00"
+  },
+  {
+   "market_id": "5314365",
+   "question": "Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to Score",
+   "slug": "bun-b04-fre-2026-10-18-btts",
+   "outcome": "Yes",
+   "token": "114281626175178604028911566727311075308132764979506407000959036078524287085600",
+   "shares": 15.625,
+   "entry": 0.64,
+   "cost": 10.0,
+   "opened": 1792132595.7668314,
+   "opened_iso": "2026-10-16T06:36:35+00:00",
+   "news": "BAYER LEVERKUSEN-LIPSIA: GG (esatto)",
+   "reason": "pengwin exact: replicates GOAL",
+   "conf": 1.0,
+   "end": "2026-10-18T13:30:00+00:00",
+   "last_bid": 0.63,
+   "book_err": true,
+   "settle_retry": 1792340521.1358411,
+   "exit": 1.0,
+   "pnl": 5.625,
+   "why": "resolved",
+   "closed_iso": "2026-10-18T16:12:01+00:00"
   }
  ],
  "cooldown": {
@@ -575,6 +578,7 @@
   "5263838": 1792267863.04836,
   "5263880": 1792267863.9293058,
   "5267259": 1792283766.774074,
-  "5269776": 1792284790.8484263
+  "5269776": 1792284790.8484263,
+  "5314365": 1792350721.7238474
  }
 }
