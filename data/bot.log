@@ -14056,3 +14056,20 @@
 2026-10-18 14:57:19 NEWS [ESPN 0m] Como confirmed lineup vs Fiorentina: Robert Sánchez, Jacobo Ramón, Martin Baturina, Assane Diao, Kaiki, Máximo Perrone ruled out of starting XI [ita.1]
 2026-10-18 14:57:19   skip No :: Will Como 1907 win on 2026-10-18? (low conf 0.6)
 2026-10-18 14:57:57   drop[1-source] Jordan Staal’s Injury Creates New Opportunities for Jesperi Kotkaniemi With the Hurricanes (The Hockey Writers) :: Jordan Staal, wait 2nd source
+2026-10-18 14:59:24 [pengwin]   book error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-18 14:59:44 [pengwin]   settle error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-18 15:04:04 indexed 1016 markets
+2026-10-18 15:05:30 NEWS [ESPN 0m] Bayer Leverkusen confirmed lineup vs SC Freiburg: Loïc Badé, Lucas Vázquez, Nathan Tella, Malik Tillman, Martin Terrier ruled out of starting XI [ger.1]
+2026-10-18 15:05:30   skip No :: Will Bayer 04 Leverkusen win on 2026-10-18? (low conf 0.62)
+2026-10-18 15:05:31   llm groq-120b: rate limited, skip 257s
+2026-10-18 15:05:32   drop[verify] SC Freiburg confirmed lineup vs Bayer Leverkusen: Yuito Suzuki ruled out of starting XI [g (ESPN) :: Suzuki not in SC Freiburg squad in 2026, not a key starter, headline likely recap
+2026-10-18 15:14:40 indexed 1018 markets
+2026-10-18 15:14:45   drop[not-key] Chelsea goalkeeper Martinez undergoes surgery after jaw injury | (theeagleonline.com.ng) :: Martinez: undergoing surgery after jaw injury
+2026-10-18 15:17:55   llm groq-120b: rate limited, skip 600s
+2026-10-18 15:17:55 NEWS [ESPN 0m] Celta Vigo confirmed lineup vs Alavés: Marcos Alonso, Aleix Febas, Javi Rueda ruled out of starting XI [esp.1]
+2026-10-18 15:17:55   skip No :: Will RC Celta de Vigo win on 2026-10-18? (low conf 0.6)
+2026-10-18 15:17:56   drop[side] Alavés confirmed lineup vs Celta Vigo: Ángel Pérez, Denis Suárez ruled out of starting XI  (ESPN) :: Will RC Celta de Vigo vs. Deportivo Alavés end in a draw? -> Yes vs fact ruled_out: Ángel Pérez (Alavés, soccer), bad fo
+2026-10-18 15:21:48   drop[team-not-named] Inactives watch: Caleb Williams to play; Hurts, Jackson ruled out for Week 6 (ESPN La Crosse 105.5) :: Philadelphia Eagles
+2026-10-18 15:24:40 indexed 1005 markets
+2026-10-18 15:24:58   drop[1-source] Val Chmerkovskiy Suspended From DWTS After Carrie Ann Post (PopTV Culture) :: Val Chmerkovskiy, wait 2nd source
+2026-10-18 15:27:05   llm groq-20b: rate limited, skip 162s
