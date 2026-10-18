@@ -13657,3 +13657,18 @@
 2026-10-18 03:21:49   drop[1-source] Val Chmerkovskiy is being suspended from Dancing with the Stars for a week after he posted (Facebook) :: Val Chmerkovskiy, wait 2nd source
 2026-10-18 03:24:08 indexed 919 markets
 2026-10-18 03:26:23 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-18 03:30:12 [pengwin]   book error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-18 03:30:32 [pengwin]   settle error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-18 03:33:33 indexed 929 markets
+2026-10-18 03:35:54   drop[kind] Zetrix AI in Crisis: Suspended Services, Unremitted Funds, and an Uncertain Future (Vocal) :: other
+2026-10-18 03:38:42   drop[not-key] LA Galaxy confirmed lineup vs San Diego FC: Calegari, Joseph Paintsil ruled out of startin (ESPN) :: Calegari: ruled out of starting XI
+2026-10-18 03:38:44   drop[not-key] San Diego FC confirmed lineup vs LA Galaxy: CJ dos Santos, Dagur Thórhallsson, Onni Valaka (ESPN) :: CJ dos Santos: ruled out of starting XI
+2026-10-18 03:42:46   drop[not-key] San Jose Earthquakes confirmed lineup vs Nashville SC: Earl Edwards, Vítor Costa, Paul Mar (ESPN) :: Earl Edwards: ruled out of starting XI
+2026-10-18 03:42:47   drop[not-key] Nashville SC confirmed lineup vs San Jose Earthquakes: Reed Baker-Whiting, Elias Saad rule (ESPN) :: Reed Baker-Whiting: injury
+2026-10-18 03:44:13 indexed 932 markets
+2026-10-18 03:49:49   drop[team-not-named] Mitchell Moses Ruled Out of World Cup With Calf Tear (The Sporting Base) :: Australia national basketball team
+2026-10-18 03:50:49   llm groq-120b: rate limited, skip 51s
+2026-10-18 03:50:51   drop[verify] Seattle Sounders FC confirmed lineup vs CF Montréal: Jackson Ragen, Sebastian Gomez ruled  (ESPN) :: person not first-team, not impactful
+2026-10-18 03:50:52   drop[not-key] CF Montréal confirmed lineup vs Seattle Sounders FC: Dawid Bugaj, Luca Petrasso, Matthew L (ESPN) :: Dawid Bugaj: injury
+2026-10-18 03:53:37 indexed 929 markets
+2026-10-18 03:57:01 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
