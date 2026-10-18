@@ -14331,3 +14331,66 @@
 2026-10-18 21:12:16   drop[not-key] Jaquan Brisker Injured Against Buccaneers (Steelers Depot) :: Jaquan Brisker: injury
 2026-10-18 21:12:16   llm groq-20b: rate limited, skip 188s
 2026-10-18 21:12:17 [pengwin] page ali/lussemburgo-bulgaria-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-18 21:14:45   drop[not-key] Falcons rookie Kendal Daniels stretchered off the field and ruled out after helmet-to-knee (Yahoo) :: Kendal Daniels: helmet-to-knee tackle
+2026-10-18 21:14:45   llm groq-120b: rate limited, skip 247s
+2026-10-18 21:15:04 NEWS [ESPN 14m] Rodney Shelley (CB, Los Angeles Chargers) ruled out: Doubtful -> Out [NFL]
+2026-10-18 21:15:04   skip Chiefs :: Chargers vs. Chiefs (rules fallback, LLM down (not traded))
+2026-10-18 21:15:04   skip Chiefs :: Chargers vs. Chiefs: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:15:04 NEWS [ESPN 14m] Bud Dupree (LB, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
+2026-10-18 21:15:04   skip Chiefs :: Chargers vs. Chiefs (rules fallback, LLM down (not traded))
+2026-10-18 21:15:04   skip Chiefs :: Chargers vs. Chiefs: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:16:56   drop[kind] Canadiens Week Ahead: Schedule & Storylines – Top Line Offence, Injury Woes Already and Mo (The Hockey Writers) :: other
+2026-10-18 21:19:17   drop[not-key] Falcons rookie LB Kendal Daniels carted off with apparent head/neck injury vs. Bears (The Falcoholic) :: Kendal Daniels: carted off with apparent head/neck injury during game vs Bears
+2026-10-18 21:19:17   llm groq-120b: rate limited, skip 268s
+2026-10-18 21:19:17   llm groq-20b: rate limited, skip 26s
+2026-10-18 21:19:17 NEWS [Sportsnet.ca 4m] Bills receiver DJ Moore misses second straight game vs. Raiders
+2026-10-18 21:19:17   skip Yes :: Josh Allen: Anytime Touchdown (rules fallback, LLM down (not traded))
+2026-10-18 21:19:17   skip Raiders :: Bills vs. Raiders: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:19:17   skip Raiders :: Bills vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-18 21:19:51 indexed 949 markets
+2026-10-18 21:20:10   llm groq-20b: rate limited, skip 13s
+2026-10-18 21:20:10 NEWS [ESPN 13m] Jared Wiley (TE, Kansas City Chiefs) ruled out: Active -> Out [NFL]
+2026-10-18 21:20:10   skip Chargers :: Chargers vs. Chiefs (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10   skip Chargers :: Chargers vs. Chiefs: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10 NEWS [ESPN 13m] Garrett Nussmeier (QB, Kansas City Chiefs) ruled out: Active -> Out [NFL]
+2026-10-18 21:20:10   skip Chargers :: Chargers vs. Chiefs (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10   skip Chargers :: Chargers vs. Chiefs: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10 NEWS [ESPN 13m] Diego Pounds (OT, Kansas City Chiefs) ruled out: Active -> Out [NFL]
+2026-10-18 21:20:10   skip Chargers :: Chargers vs. Chiefs (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10   skip Chargers :: Chargers vs. Chiefs: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10 NEWS [ESPN 13m] Jack Pyburn (LB, Kansas City Chiefs) ruled out: Active -> Out [NFL]
+2026-10-18 21:20:10   skip Chargers :: Chargers vs. Chiefs (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10   skip Chargers :: Chargers vs. Chiefs: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10 NEWS [ESPN 13m] Jadon Canady (CB, Kansas City Chiefs) ruled out: Active -> Out [NFL]
+2026-10-18 21:20:10   skip Chargers :: Chargers vs. Chiefs (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10   skip Chargers :: Chargers vs. Chiefs: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10 NEWS [ESPN 7m] Aidan O'Connell (QB, Las Vegas Raiders) ruled out: Active -> Out [NFL]
+2026-10-18 21:20:10   skip Bills :: Bills vs. Raiders: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10   skip Bills :: Bills vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10 NEWS [ESPN 16m] Cian Slone (DE, Las Vegas Raiders) ruled out: healthy -> Out [NFL]
+2026-10-18 21:20:10   skip Bills :: Bills vs. Raiders: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10   skip Bills :: Bills vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10 NEWS [ESPN 16m] Tristin McCollum (S, Las Vegas Raiders) ruled out: Active -> Out [NFL]
+2026-10-18 21:20:10   skip Bills :: Bills vs. Raiders: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10   skip Bills :: Bills vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10 NEWS [ESPN 16m] Dalton Johnson (S, Las Vegas Raiders) ruled out: Active -> Out [NFL]
+2026-10-18 21:20:10   skip No :: Dalton Kincaid: Anytime Touchdown (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10   skip Bills :: Bills vs. Raiders: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10   skip Bills :: Bills vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10 NEWS [ESPN 16m] Bryce Cabeldue (G, Las Vegas Raiders) ruled out: healthy -> Out [NFL]
+2026-10-18 21:20:10   skip Bills :: Bills vs. Raiders: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-18 21:20:10   skip Bills :: Bills vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-18 21:21:12   llm groq-20b: rate limited, skip 169s
+2026-10-18 21:21:12   drop[no-pick] Kendal Daniels (LB, Atlanta Falcons) ruled out: Active -> Out [NFL] (ESPN) :: None
+2026-10-18 21:24:04   drop[1-source] Steelers safety, former Penn State star goes down with injury against Buccaneers (PennLive.com) :: Jordan Whitehead, wait 2nd source
+2026-10-18 21:24:05   llm groq-120b: rate limited, skip 305s
+2026-10-18 21:24:05   llm groq-20b: rate limited, skip 20s
+2026-10-18 21:24:05 NEWS [Sportsnet.ca 3m] Rams CB Trent McDuffie inactive vs. Cardinals after injury during practice
+2026-10-18 21:24:05   skip Cardinals :: Cardinals vs. Rams (rules fallback, LLM down (not traded))
+2026-10-18 21:28:30   drop[not-key] Carson Steele Iffy to return with shoulder injury (Fantasy Footballers Podcast) :: Carson Steele Iffy: shoulder injury cleared
+2026-10-18 21:28:30   llm groq-20b: rate limited, skip 25s
+2026-10-18 21:29:51 indexed 932 markets
+2026-10-18 21:39:52 indexed 917 markets
+2026-10-18 21:39:55 NEWS [ESPN 10m] Cam York (D, Philadelphia Flyers) ruled out: Day-To-Day -> Injured Reserve [NHL]
+2026-10-18 21:39:55   skip Avalanche :: Avalanche vs. Flyers (low conf 0.62)
+2026-10-18 21:40:00   drop[1-source] Giants’ $34 Million Starter Ruled Out With Injury Against Saints (Heavy.com) :: Daniel Jones, wait 2nd source
