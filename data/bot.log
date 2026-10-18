@@ -14394,85 +14394,46 @@
 2026-10-18 21:39:55 NEWS [ESPN 10m] Cam York (D, Philadelphia Flyers) ruled out: Day-To-Day -> Injured Reserve [NHL]
 2026-10-18 21:39:55   skip Avalanche :: Avalanche vs. Flyers (low conf 0.62)
 2026-10-18 21:40:00   drop[1-source] Giants’ $34 Million Starter Ruled Out With Injury Against Saints (Heavy.com) :: Daniel Jones, wait 2nd source
-2026-10-18 21:49:09   drop[team-not-named] He was carried off on a stretcher: worrying injury for Morocco star (Goal.com) :: Paris Saint-Germain
-2026-10-18 21:49:53 indexed 909 markets
-2026-10-18 21:51:46   drop[not-key] Ben Brown becomes latest Patriots O-lineman to leave Jets game with injury (Pats Pulpit) :: Ben Brown: left Jets game with injury
-2026-10-18 21:51:46   llm groq-120b: rate limited, skip 14s
-2026-10-18 21:51:46   drop[kind] Dibu Martínez has successful surgery after jaw injury, hopes to be back in weeks (OneFootball) :: other
-2026-10-18 21:51:47   drop[1-source] Carried off on a stretcher: worrying injury for Morocco star (Goal.com) :: Morocco national football team, wait 2nd source
-2026-10-18 21:59:53 indexed 909 markets
-2026-10-18 22:07:42   drop[1-source] Steelers coach Mike McCarthy limps into injury tent at halftime of Buccaneers game (Newsday) :: Mike McCarthy, wait 2nd source
-2026-10-18 22:09:55 indexed 913 markets
-2026-10-18 22:10:14   drop[no-market] Steelers coach Mike McCarthy limps into injury tent at halft... (Standard Democrat) :: Pittsburgh Steelers
-2026-10-18 22:12:18 NEWS [ESPN 0m] FC Cincinnati confirmed lineup vs Columbus Crew: Evan Louro, Kyle Smith, Tah Anunga, Gerardo Valenzuela, Ender Echenique ruled out of starting XI [usa.1]
-2026-10-18 22:12:18   skip No :: Will FC Cincinnati win on 2026-10-18? (low conf 0.6)
-2026-10-18 22:12:18   drop[not-key] Columbus Crew confirmed lineup vs FC Cincinnati: Dylan Chambost, Mohamed Farsi, Josef Mart (ESPN) :: Dylan Chambost: ruled out of starting XI
-2026-10-18 22:12:35 [pengwin] page ppa-italia/bologna-lazio-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-18 22:14:41   llm groq-120b: rate limited, skip 194s
-2026-10-18 22:14:41   drop[unconfirmed] DJ Moore Ruled Out Again for Bills’ Matchup Against Raiders (SSBCrack) :: injury
-2026-10-18 22:16:41 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
-2026-10-18 22:19:56 indexed 917 markets
-2026-10-18 22:21:36   drop[1-source] Cuti Romero injury extent revealed as Atletico Madrid defender set to miss just two games (Goal.com) :: Cuti Romero, wait 2nd source
-2026-10-18 22:29:57 indexed 930 markets
-2026-10-18 22:29:59   drop[kind] Unbelievably, new Rams K Blake Grupe, who just replaced Harrison Mevis, is doubtful to ret (Ian Rapoport) :: other
-2026-10-18 22:33:08   drop[team-not-named] Source: FSU loses top RB Kromah for season with ankle injury (ESPN La Crosse 105.5) :: Florida State Seminoles
-2026-10-18 22:35:28   drop[team-not-named] "OMG" — Social Media Couldn't Believe What Bryce Young Did After Opposing Player Went Down (TotalProSports) :: Carolina Panthers
-2026-10-18 22:38:02   llm groq-120b: rate limited, skip 35s
-2026-10-18 22:38:03   drop[not-key] Rams' new kicker Blake Grupe forced out with injury just minutes into debut (USA Today) :: Blake Grupe: injury
-2026-10-18 22:38:03   drop[1-source] Rams are in trouble after losing new kicker Blake Grupe to injury in Cardinals game (The Big Lead) :: Blake Grupe, wait 2nd source
-2026-10-18 22:39:57 indexed 926 markets
-2026-10-18 22:40:04   drop[1-source] Caleb Williams completes first 12 passes in return after missing 3 games as Bears top Falc (WRAL) :: Caleb Williams, wait 2nd source
-2026-10-18 22:40:04   llm groq-120b: rate limited, skip 172s
-2026-10-18 22:40:05   drop[not-key] Blake Grupe injury: New Rams kicker injures knee vs. Cardinals (SB Nation) :: Blake Grupe: knee injury
-2026-10-18 22:42:20   drop[team-not-named] Isaiah Denis ruled out for UNC basketball’s exhibition matchup with Indiana (Keeping It Heel) :: University of North Carolina
-2026-10-18 22:42:21   drop[team-not-named] Video Emerges Of Travis Kelce’s Brutal Injury Sunday (The Spun) :: Kansas City Chiefs
-2026-10-18 22:44:41   drop[1-source] Drake Maye's 3 TD passes help Patriots stave off late push by Jets in 26-19 win (ABC7 New York) :: Drake Maye, wait 2nd source
-2026-10-18 22:49:59 indexed 934 markets
-2026-10-18 22:51:39   drop[kind] Crash Results In Injury (WHKY) :: other
-2026-10-18 22:51:39   llm groq-120b: rate limited, skip 137s
-2026-10-18 22:51:40   drop[1-source] Rams’ Kicker Problems Worsen With Unfortunate Injury (LA Sports Report) :: Matt Gay, wait 2nd source
-2026-10-18 22:51:40   drop[not-key] Concerning Jonah Elliss Injury Development Emerges After Broncos Win (Sports Illustrated) :: Jonah Elliss: injury
-2026-10-18 22:51:41   drop[kind] Chris Berman: Damar Hamlin’s Injury Changed NFL’s Schedule Plans (The Spun) :: other
-2026-10-18 22:53:57   drop[unconfirmed] Rams kicker Blake Grupe doubtful to return after suffering knee injury minutes into L.A. d (CBS Sports) :: suffered knee injury minutes into debut, doubtful to return
-2026-10-18 22:53:57   llm groq-120b: rate limited, skip 276s
-2026-10-18 22:53:57   drop[not-key] Rams’ kicking curse strikes again as new kicker Blake Grupe gets hurt (New York Post) :: Blake Grupe: injury
-2026-10-18 22:53:58   drop[no-market] Steelers coach Mike McCarthy misses halftime of OT win over Buccaneers, visits medical ten (Yahoo) :: Pittsburgh Steelers
-2026-10-18 22:56:28   drop[unconfirmed] Rams kicker Blake Grupe doubtful to return with knee injury after attempting tackle on kic (Yahoo Sports) :: knee injury
-2026-10-18 22:56:28   drop[kind] Off Road Vehicle Overturned with One Possible Injury - WEIS | Local & Area News, Sports, & (weisradio.com) :: other
-2026-10-18 22:56:28   drop[1-source] Bryce Young throws for 2 TDs and leads Panthers to 25-14 win over injury-riddled Eagles (Standard Democrat) :: Carolina Panthers, wait 2nd source
-2026-10-18 22:58:38   llm groq-120b: rate limited, skip 45s
-2026-10-18 22:58:38   drop[no-market] Without Hurts, injury-ridden Philadelphia Eagles lose to Carolina Panthers (CBS News) :: Philadelphia Eagles
-2026-10-18 22:59:59 indexed 932 markets
-2026-10-18 23:00:57   drop[no-market] Bryce Young leads Panthers to win over injury-riddled Eagles (Sportsnet.ca) :: Carolina Panthers
-2026-10-18 23:00:57   llm groq-120b: rate limited, skip 132s
-2026-10-18 23:00:57   drop[kind] Injury Roundup: Steelers Suffer Multiple Injuries Against Buccaneers (Steelers Depot) :: other
-2026-10-18 23:01:03   drop[kind] Woman dies after being swept away by river as torrential rains batter Spain reut.rs/4dMzC8 (Reuters) :: other
-2026-10-18 23:10:01 indexed 944 markets
-2026-10-18 23:10:09   llm groq-120b: rate limited, skip 44s
-2026-10-18 23:10:11   drop[verify] Rams Lose New Kicker Blake Grupe to Injury in First Quarter (roundtable.io) :: not on Rams
-2026-10-18 23:12:27   drop[kind] "Trashy" Bears Fans Are Getting Blasted For Their Disgusting 3-Word Chant As Injured Falco (TotalProSports) :: other
-2026-10-18 23:14:53   llm groq-120b: rate limited, skip 129s
-2026-10-18 23:14:53   drop[no-market] Panthers Hang On to Beat Injury-Plagued Eagles Stream of National Football League (CBS Sports) :: Carolina Panthers
-2026-10-18 23:14:53   llm groq-20b: rate limited, skip 121s
-2026-10-18 23:19:20   drop[kind] Wicks has injury scare, two catches in loss (NBC Sports) :: other
-2026-10-18 23:19:20   llm groq-120b: rate limited, skip 236s
-2026-10-18 23:19:20   drop[not-key] Ladd McConkey Injury: Ruled out with concussion (RotoWire) :: Ladd McConkey: concussion
-2026-10-18 23:20:03 indexed 939 markets
-2026-10-18 23:21:40   drop[not-key] Penda frustrated by timing of injury as Magic continue to evaluate Wagner (Orlando Sentinel) :: Penda: injury timing
-2026-10-18 23:21:40   llm groq-20b: rate limited, skip 360s
-2026-10-18 23:24:06   drop[team-not-named] Ladd McConkey ruled out with head injury (NBC Sports) :: Wisconsin Badgers
-2026-10-18 23:24:06   llm groq-120b: rate limited, skip 257s
-2026-10-18 23:30:05 indexed 940 markets
-2026-10-18 23:30:56   drop[no-market] Bears' Caleb Williams shines in first game back from injury (Yardbarker) :: Chicago Bears
-2026-10-18 23:33:29   drop[team-not-named] Ladd McConkey Ruled out with concussion (Fantasy Footballers Podcast) :: Ohio State Buckeyes
-2026-10-18 23:33:29   llm groq-120b: rate limited, skip 228s
-2026-10-18 23:33:29   drop[unconfirmed] Giants Week 6 Injury Round Up: Newsome, Thomas and Mooney Exit Team's 34-27 Loss to Saints (Sports Illustrated) :: 34-27 loss to Saints
-2026-10-18 23:40:05 indexed 944 markets
-2026-10-18 23:40:56   llm groq-120b: rate limited, skip 188s
-2026-10-18 23:40:57   drop[verify] Mbappe scores twice as Real Madrid beat Sevilla (BBC) :: Mbappé does not play for Real Madrid
-2026-10-18 23:42:13 [pengwin] page o/serie-b/arezzo-sdtirol-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-18 23:42:15 [pengwin] page io/serie-b/modena-empoli-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-18 23:42:37   drop[unconfirmed] Nuggets’ Spencer Jones on track to return from injury for season opener at Thunder (The Denver Post) :: injury recovery
-2026-10-18 23:44:48   drop[1-source] ATLANTA, Ga. (AP) - Caleb Williams completed his first 12 passes in his return from a hams (Instagram) :: Chicago Bears, wait 2nd source
-2026-10-18 23:50:05 indexed 943 markets
-2026-10-18 23:53:40 shift over, state saved
+2026-10-18 23:53:53 === start mode=paper pid=2119 ===
+2026-10-18 23:53:53 brain=llm cash=84.02 open=0
+2026-10-18 23:53:53 resuming with 6866 known news items
+2026-10-18 23:54:17 indexed 942 markets
+2026-10-18 23:54:29 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 117)
+2026-10-18 23:54:33 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 117)
+2026-10-18 23:54:33   drop[not-key] Ladd McConkey (WR, Los Angeles Chargers) ruled out: Active -> Out [NFL] (ESPN) :: Ladd McConkey: evaluated for head injury and ruled out
+2026-10-18 23:54:34   llm groq-120b: rate limited, skip 172s
+2026-10-18 23:54:34   drop[unconfirmed] Unbelievably, new Rams K Blake Grupe, who just replaced Harrison Mevis, is doubtful to ret (Ian Rapoport) :: knee injury
+2026-10-18 23:54:35   drop[kind] Woman dies after being swept away by river as torrential rains batter Spain reut.rs/4dMzC8 (Reuters) :: other
+2026-10-18 23:54:35 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 117)
+2026-10-18 23:54:38 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 116)
+2026-10-18 23:54:41 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 116)
+2026-10-18 23:54:44   llm groq-20b: rate limited, skip 5s
+2026-10-18 23:54:44 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 117)
+2026-10-18 23:54:46 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 117)
+2026-10-18 23:54:48 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 117)
+2026-10-18 23:54:51   llm groq-20b: rate limited, skip 9s
+2026-10-18 23:54:51 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 117)
+2026-10-18 23:54:53 [pengwin] MONACO-TOLOSA: no Polymarket event (try 117)
+2026-10-18 23:54:55 [pengwin] BREST-ANGERS: no Polymarket event (try 117)
+2026-10-18 23:54:58 [pengwin] PSG-LE MANS: no Polymarket event (try 117)
+2026-10-18 23:55:00 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 116)
+2026-10-18 23:55:03 [pengwin] RENNES-AUXERRE: no Polymarket event (try 117)
+2026-10-18 23:55:05 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 117)
+2026-10-18 23:55:07 [pengwin] AUXERRE-BREST: no Polymarket event (try 117)
+2026-10-18 23:55:55   llm groq-20b: rate limited, skip 29s
+2026-10-18 23:55:55 [pengwin] LAZIO-INTER: no Polymarket event (try 117)
+2026-10-18 23:55:57 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 117)
+2026-10-18 23:56:00 [pengwin] INTER-COMO: no Polymarket event (try 117)
+2026-10-18 23:56:02 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 116)
+2026-10-18 23:56:03 [pengwin] COMO-INTER: no Polymarket event (try 117)
+2026-10-18 23:56:06 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 117)
+2026-10-18 23:56:08 [pengwin] NAPOLI-COMO: no Polymarket event (try 117)
+2026-10-18 23:56:10 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 117)
+2026-10-18 23:56:37 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 117)
+2026-10-18 23:56:59   llm groq-20b: rate limited, skip 74s
+2026-10-18 23:57:20 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 15)
+2026-10-18 23:57:23 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 15)
+2026-10-18 23:57:26 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 15)
+2026-10-18 23:57:55 [pengwin] Betis-Barcellona: no Polymarket event (try 17)
+2026-10-18 23:57:58 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 15)
+2026-10-18 23:58:01 [pengwin] BOLOGNA-INTER: no Polymarket event (try 15)
