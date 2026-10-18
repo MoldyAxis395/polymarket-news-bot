@@ -13621,3 +13621,11 @@
 2026-10-18 01:53:58 indexed 927 markets
 2026-10-18 01:57:03   llm groq-120b: rate limited, skip 43s
 2026-10-18 01:57:03   drop[side] Pavel Zacha (C, Boston Bruins) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Bruins vs. Kings -> Bruins vs fact ruled_out: Pavel Zacha (Boston Bruins, nhl), bad for Boston Bruins. ruled out due to 
+2026-10-18 02:03:58 indexed 921 markets
+2026-10-18 02:14:00 indexed 929 markets
+2026-10-18 02:14:16   drop[verify] Bruins’ Pavel Zacha Sidelined With Upper-Body Injury (Boston Hockey Now) :: Zacha no longer plays for Boston
+2026-10-18 02:16:22   drop[1-source] UCLA Turns to Ty Dieffenbach After Iamaleava Injury (SuaraGarut.ID) :: Ty Dieffenbach, wait 2nd source
+2026-10-18 02:20:58   drop[team-not-named] TV star suspended for ‘inappropriate’ joke (The Courier Mail) :: 
+2026-10-18 02:20:58   llm groq-120b: rate limited, skip 96s
+2026-10-18 02:20:58   drop[team-not-named] Britain's worst-behaved pupil suspended 51 TIMES in a year as calls grow to bring back bor (The Sun) :: 
+2026-10-18 02:24:01 indexed 931 markets
