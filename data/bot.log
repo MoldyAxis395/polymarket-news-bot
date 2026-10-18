@@ -13696,3 +13696,12 @@
 2026-10-18 05:14:21 indexed 919 markets
 2026-10-18 05:17:41   drop[1-source] AEW Star Returns Early From Injury At WrestleDream (SEScoops) :: All Elite Wrestling (AEW), wait 2nd source
 2026-10-18 05:24:18 indexed 914 markets
+2026-10-18 05:28:35 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-18 05:32:24 [pengwin]   book error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-18 05:32:44 [pengwin]   settle error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-18 05:33:45 indexed 918 markets
+2026-10-18 05:44:20 indexed 920 markets
+2026-10-18 05:47:29   drop[kind] Duke under fire after CB swatted away female athletic trainer tending to Landan Callahan's (HITC) :: other
+2026-10-18 05:49:59   drop[1-source] Odapada tehsildar suspended (OrissaPOST) :: Odapada Tehsildar, wait 2nd source
+2026-10-18 05:50:38   drop[kind] Rubio says Trump to take up to 60 days to weigh Russia sanctions reut.rs/4yQxcy5 (Reuters) :: other
+2026-10-18 05:54:20 indexed 919 markets
