@@ -13711,3 +13711,10 @@
 2026-10-18 06:20:12   drop[kind] Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta reut.rs (Reuters) :: other
 2026-10-18 06:24:25 indexed 886 markets
 2026-10-18 06:27:41   drop[kind] UTSA 'Deeply Saddened' After Military Member Hospitalized Following Injury During Pregame  (Bleacher Report) :: other
+2026-10-18 06:29:53 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-18 06:32:10   drop[kind] UTEP Turns to Raymond Moore III After EJ Colson Injury (SuaraGarut.ID) :: other
+2026-10-18 06:33:26 [pengwin]   book error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-18 06:33:46 [pengwin]   settle error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-18 06:33:52 indexed 895 markets
+2026-10-18 06:34:43   drop[1-source] Utah football’s 5-star offensive tackle exits Colorado game with right-leg injury (The Salt Lake Tribune) :: University of Utah football, wait 2nd source
+2026-10-18 06:37:46 shift over, state saved
