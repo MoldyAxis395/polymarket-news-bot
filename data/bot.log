@@ -14194,3 +14194,18 @@
 2026-10-18 18:11:47   llm groq-120b: rate limited, skip 246s
 2026-10-18 18:12:01 [pengwin]   book error Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=114281626175178604028911566727311075308132764979506407000959036078524287085600
 2026-10-18 18:12:01 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +5.62 :: Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to Score
+2026-10-18 18:14:04   llm groq-20b: rate limited, skip 38s
+2026-10-18 18:16:23   drop[not-key] Noah Penda on Hamstring Injury (NBA.com) :: Noah Penda: hamstring injury sidelines him
+2026-10-18 18:19:16 indexed 975 markets
+2026-10-18 18:20:58   drop[kind] All Five Questionable Steelers to Dress vs. Buccaneers (Steelers Now) :: other
+2026-10-18 18:23:17   llm groq-120b: rate limited, skip 169s
+2026-10-18 18:23:17   drop[unconfirmed] Dylan Browne McMonagle scores first win after return from injury (Donegal Daily) :: first win after return from injury
+2026-10-18 18:29:15 indexed 970 markets
+2026-10-18 18:32:34   drop[1-source] Pittsburgh Steelers get huge boost with good injury news on five starters, including Pat F (PennLive.com) :: Pat Freiermuth, wait 2nd source
+2026-10-18 18:32:34   drop[1-source] Chicago Bears’ Ozzy Trapilo officially makes injury return vs. Falcons (ChiCitySports) :: Ozzy Trapilo, wait 2nd source
+2026-10-18 18:34:51   llm groq-120b: rate limited, skip 48s
+2026-10-18 18:34:51   drop[1-source] Barcelona hit by double injury blow before PSG trip (The Straits Times) :: FC Barcelona, wait 2nd source
+2026-10-18 18:37:22   drop[kind] Fans call for Duke player to be suspended after swiping at female athletic trainer (www.sportingnews.com) :: other
+2026-10-18 18:37:22   llm groq-120b: rate limited, skip 183s
+2026-10-18 18:37:23   drop[1-source] Early injury for Chalobah in Como's win over Fiorenti… (YSscores) :: John Chalobah, wait 2nd source
+2026-10-18 18:39:16 indexed 968 markets
