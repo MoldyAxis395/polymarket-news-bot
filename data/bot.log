@@ -13994,3 +13994,17 @@
 2026-10-18 13:24:33   drop[kind] Kennedy tries to score 1 more win for MAHA ahead of midterms politi.co/4it0I6n (Politico) :: other
 2026-10-18 13:25:05 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-18 13:26:55   drop[kind] What Makes Luke Fahey Ohio State’s Starting QB After Julian Sayin Injury (Heavy.com) :: other
+2026-10-18 13:31:35   drop[1-source] Gas supply to be temporarily suspended (Pakistan Connect) :: Pakistan, wait 2nd source
+2026-10-18 13:34:31 indexed 866 markets
+2026-10-18 13:34:52   drop[1-source] Tottenham injury blow ahead of Coventry City as Roberto De Zerbi rules two players out (Coventry Telegraph) :: Tottenham Hotspur, wait 2nd source
+2026-10-18 13:36:55   llm groq-120b: rate limited, skip 389s
+2026-10-18 13:36:56   drop[1-source] Alvin Kamara’s Injury Playing Status Revealed for Saints RB Depth Chart With Kendre Miller (Heavy.com) :: Alvin Kamara, wait 2nd source
+2026-10-18 13:43:57 indexed 871 markets
+2026-10-18 13:46:22   drop[kind] Rapoport: Steelers ‘Optimistic’ Pat Freiermuth Will Play Against Buccaneers (Steelers Depot) :: other
+2026-10-18 13:48:41   drop[kind] Chris Olave Injury: Expected to play Sunday (RotoWire) :: other
+2026-10-18 13:48:41   drop[1-source] Real Madrid host Sevilla without suspended Vini Jr (OneFootball) :: Vinícius Júnior, wait 2nd source
+2026-10-18 13:48:41   llm groq-120b: rate limited, skip 71s
+2026-10-18 13:48:42   drop[unconfirmed] ‘I will be back in few weeks’ – Martínez allays long-term injury fears (Businessday NG) :: injury update
+2026-10-18 13:53:56 indexed 877 markets
+2026-10-18 13:55:09 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-18 13:57:53   drop[kind] Man Utd XI vs Leeds: Starting lineup and confirmed team news (London Evening Standard) :: other
