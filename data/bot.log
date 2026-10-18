@@ -13629,3 +13629,15 @@
 2026-10-18 02:20:58   llm groq-120b: rate limited, skip 96s
 2026-10-18 02:20:58   drop[team-not-named] Britain's worst-behaved pupil suspended 51 TIMES in a year as calls grow to bring back bor (The Sun) :: 
 2026-10-18 02:24:01 indexed 931 markets
+2026-10-18 02:33:27 indexed 933 markets
+2026-10-18 02:35:50   drop[1-source] Chelsea Wins Against Everton, Goalkeeper Martinez Suffers Head Injury (Ratopati) :: Chelsea Football Club, wait 2nd source
+2026-10-18 02:40:27   drop[1-source] Florida State RB Ousmane Kromah placed in air cast, carted off after nasty injury vs. Miam (On3) :: Ousmane Kromah, wait 2nd source
+2026-10-18 02:40:27   llm groq-120b: rate limited, skip 291s
+2026-10-18 02:40:27   drop[1-source] Bills Make Wide Receiver Decision Amid DJ Moore Injury Uncertainty (heavy.com) :: DJ Moore, wait 2nd source
+2026-10-18 02:40:28   drop[1-source] Chelsea Goalkeeper Martinez Suffers Jaw Injury, Requires Surgery (조선일보) :: Martinez, wait 2nd source
+2026-10-18 02:42:54   drop[team-not-named] Ousmane Kromah carted off against Miami with a left leg injury (247Sports) :: Florida State Seminoles
+2026-10-18 02:44:02 indexed 935 markets
+2026-10-18 02:44:53   drop[kind] 2 men airlifted after separate falls, 1 with serious head injury in Cary and another who f (Lake and McHenry County Scanner) :: other
+2026-10-18 02:49:41   drop[team-not-named] Ousmane Kromah carted off in air cast after injury against Miami (Tallahassee Democrat) :: Florida State Seminoles
+2026-10-18 02:54:04 indexed 937 markets
+2026-10-18 02:55:45 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
