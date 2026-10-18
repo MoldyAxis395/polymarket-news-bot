@@ -14048,3 +14048,51 @@
 2026-10-18 10:42:45 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 119)
 2026-10-18 10:43:04   drop[team-not-named] Jay White Makes Early Injury Return at AEW WrestleDream Tailgate Brawl (wrestlingworld.co) :: All Elite Wrestling
 2026-10-18 10:43:10 [pengwin] MAINZ-BAYER LEVERKUSEN: no Polymarket event (try 119)
+2026-10-18 10:43:50 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 17)
+2026-10-18 10:43:52   llm groq-120b: rate limited, skip 67s
+2026-10-18 10:43:53 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 17)
+2026-10-18 10:43:55 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 17)
+2026-10-18 10:44:22 [pengwin] Betis-Barcellona: no Polymarket event (try 19)
+2026-10-18 10:44:25 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 17)
+2026-10-18 10:44:28 [pengwin] BOLOGNA-INTER: no Polymarket event (try 17)
+2026-10-18 10:49:11 indexed 882 markets
+2026-10-18 10:50:01   drop[1-source] Tottenham suffer double injury blow but Roberto De Zerbi confirms huge Dejan Kulusevski bo (Football London) :: Dejan Kulusevski, wait 2nd source
+2026-10-18 10:54:46   drop[not-key] STEELERS INJURY REPORT: FREIERMUTH QUESTIONABLE, WILSON PLACED ON IR (WCCS AM1160 & 101.1FM) :: James Wilson: placed on IR
+2026-10-18 10:54:46   llm groq-120b: rate limited, skip 148s
+2026-10-18 10:54:48   drop[verify] Chelsea: Emi Martinez horror injury diagonosis revealed after Blues No1 issues statement (TEAMtalk) :: not at Chelsea
+2026-10-18 10:59:11 indexed 885 markets
+2026-10-18 10:59:16   drop[1-source] Szoboszlai injury: Liverpool pair out for ‘some time’ (Dave.Sport) :: Dominik Szoboszlai, wait 2nd source
+2026-10-18 11:01:11   llm groq-120b: rate limited, skip 99s
+2026-10-18 11:01:13   drop[verify] Haaland’s record scoring spree helps Man City to seventh Premier League win (Al Jazeera) :: Uncertain if Haaland still at Man City on 2026-10-24
+2026-10-18 11:04:06   drop[team-not-named] Felix Auger-Aliassime releases statement after withdrawing from two tournaments due to inj (Tennishead) :: Canada
+2026-10-18 11:04:06   llm groq-120b: rate limited, skip 256s
+2026-10-18 11:04:07 NEWS [Dave.Sport 2m] Haaland injury: Maresca on Man City’s five scares vs Ipswich
+2026-10-18 11:04:07   skip No :: Will Manchester City FC win on 2026-10-24? (low conf 0.6)
+2026-10-18 11:09:12 indexed 881 markets
+2026-10-18 11:10:48   drop[team-not-named] All-clear for QPR striker Kone after injury scare (West London Sport) :: Queens Park Rangers
+2026-10-18 11:11:31 [pengwin] BORUSSIA DORTMUND-WERDER BREMA: no Polymarket event (try 120)
+2026-10-18 11:11:33   llm groq-120b: rate limited, skip 81s
+2026-10-18 11:11:34 [pengwin] AUGSBURG-BAYERN MONACO: no Polymarket event (try 120)
+2026-10-18 11:11:36 [pengwin] LIPSIA-FRANCOFORTE: no Polymarket event (try 120)
+2026-10-18 11:11:38 [pengwin] PADERBORN-STOCCARDA: no Polymarket event (try 119)
+2026-10-18 11:11:40 [pengwin] UNION BERLINO-ELVERSBERG: no Polymarket event (try 119)
+2026-10-18 11:11:43 [pengwin] FRIBURGO-SCHALKE: no Polymarket event (try 120)
+2026-10-18 11:11:46 [pengwin] COLONIA-BORUSSIA MONCHENGLADBACH: no Polymarket event (try 120)
+2026-10-18 11:11:47 [pengwin] SCHALKE-ELVERSBERG: no Polymarket event (try 120)
+2026-10-18 11:11:50 [pengwin] LILLE-LE HAVRE: no Polymarket event (try 120)
+2026-10-18 11:11:52 [pengwin] MONACO-TOLOSA: no Polymarket event (try 120)
+2026-10-18 11:11:54 [pengwin] BREST-ANGERS: no Polymarket event (try 120)
+2026-10-18 11:11:56 [pengwin] PSG-LE MANS: no Polymarket event (try 120)
+2026-10-18 11:11:58 [pengwin] NIZZA-STRASBURGO: no Polymarket event (try 119)
+2026-10-18 11:12:01 [pengwin] RENNES-AUXERRE: no Polymarket event (try 120)
+2026-10-18 11:12:03 [pengwin] TROYES-MARSIGLIA: no Polymarket event (try 120)
+2026-10-18 11:12:05 [pengwin] AUXERRE-BREST: no Polymarket event (try 120)
+2026-10-18 11:12:49 [pengwin] LAZIO-INTER: no Polymarket event (try 120)
+2026-10-18 11:12:51 [pengwin] ATALANTA-LAZIO: no Polymarket event (try 120)
+2026-10-18 11:12:53 [pengwin] INTER-COMO: no Polymarket event (try 120)
+2026-10-18 11:12:55   llm groq-120b: rate limited, skip 73s
+2026-10-18 11:12:55 [pengwin] LAZIO-ATALANTA: no Polymarket event (try 119)
+2026-10-18 11:12:57 [pengwin] COMO-INTER: no Polymarket event (try 120)
+2026-10-18 11:13:00 [pengwin] BOLOGNA-LAZIO: no Polymarket event (try 120)
+2026-10-18 11:13:02 [pengwin] NAPOLI-COMO: no Polymarket event (try 120)
+2026-10-18 11:13:04 [pengwin] ATALANTA-JUVENTUS: no Polymarket event (try 120)
