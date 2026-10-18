@@ -14408,3 +14408,21 @@
 2026-10-18 22:12:18   skip No :: Will FC Cincinnati win on 2026-10-18? (low conf 0.6)
 2026-10-18 22:12:18   drop[not-key] Columbus Crew confirmed lineup vs FC Cincinnati: Dylan Chambost, Mohamed Farsi, Josef Mart (ESPN) :: Dylan Chambost: ruled out of starting XI
 2026-10-18 22:12:35 [pengwin] page ppa-italia/bologna-lazio-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-18 22:14:41   llm groq-120b: rate limited, skip 194s
+2026-10-18 22:14:41   drop[unconfirmed] DJ Moore Ruled Out Again for Bills’ Matchup Against Raiders (SSBCrack) :: injury
+2026-10-18 22:16:41 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-18 22:19:56 indexed 917 markets
+2026-10-18 22:21:36   drop[1-source] Cuti Romero injury extent revealed as Atletico Madrid defender set to miss just two games (Goal.com) :: Cuti Romero, wait 2nd source
+2026-10-18 22:29:57 indexed 930 markets
+2026-10-18 22:29:59   drop[kind] Unbelievably, new Rams K Blake Grupe, who just replaced Harrison Mevis, is doubtful to ret (Ian Rapoport) :: other
+2026-10-18 22:33:08   drop[team-not-named] Source: FSU loses top RB Kromah for season with ankle injury (ESPN La Crosse 105.5) :: Florida State Seminoles
+2026-10-18 22:35:28   drop[team-not-named] "OMG" — Social Media Couldn't Believe What Bryce Young Did After Opposing Player Went Down (TotalProSports) :: Carolina Panthers
+2026-10-18 22:38:02   llm groq-120b: rate limited, skip 35s
+2026-10-18 22:38:03   drop[not-key] Rams' new kicker Blake Grupe forced out with injury just minutes into debut (USA Today) :: Blake Grupe: injury
+2026-10-18 22:38:03   drop[1-source] Rams are in trouble after losing new kicker Blake Grupe to injury in Cardinals game (The Big Lead) :: Blake Grupe, wait 2nd source
+2026-10-18 22:39:57 indexed 926 markets
+2026-10-18 22:40:04   drop[1-source] Caleb Williams completes first 12 passes in return after missing 3 games as Bears top Falc (WRAL) :: Caleb Williams, wait 2nd source
+2026-10-18 22:40:04   llm groq-120b: rate limited, skip 172s
+2026-10-18 22:40:05   drop[not-key] Blake Grupe injury: New Rams kicker injures knee vs. Cardinals (SB Nation) :: Blake Grupe: knee injury
+2026-10-18 22:42:20   drop[team-not-named] Isaiah Denis ruled out for UNC basketball’s exhibition matchup with Indiana (Keeping It Heel) :: University of North Carolina
+2026-10-18 22:42:21   drop[team-not-named] Video Emerges Of Travis Kelce’s Brutal Injury Sunday (The Spun) :: Kansas City Chiefs
