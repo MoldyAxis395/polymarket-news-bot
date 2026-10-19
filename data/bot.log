@@ -14542,3 +14542,22 @@
 2026-10-19 01:58:38 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 19)
 2026-10-19 01:58:41 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 19)
 2026-10-19 01:58:43 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 19)
+2026-10-19 01:59:14 [pengwin] Betis-Barcellona: no Polymarket event (try 21)
+2026-10-19 01:59:16 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 19)
+2026-10-19 01:59:19 [pengwin] BOLOGNA-INTER: no Polymarket event (try 19)
+2026-10-19 01:59:25   llm groq-120b: rate limited, skip 131s
+2026-10-19 01:59:26 NEWS [Jeff Passan 0m] FINAL: Rays 3, Guardians 1 Tampa Bay heads home one win away from the World Series. Drew Rasmussen was brilliant over seven innings, the Rays hit and ran and bunted their way to enough offense and their defense was exceptional. A classic Rays win leading into Game 6 on Monday.
+2026-10-19 01:59:26   skip Tampa Bay Rays :: Cleveland Guardians vs. Tampa Bay Rays (low conf 0.6)
+2026-10-19 02:04:43 indexed 892 markets
+2026-10-19 02:08:39   drop[kind] Steve Kerr Says Stephen Curry Is "Fine" Following Injury Scare At Practice (Hoops Rumors) :: other
+2026-10-19 02:08:39   llm groq-120b: rate limited, skip 50s
+2026-10-19 02:08:40   drop[kind] Ex-Packers All-Timer Limps Off Field With Non-Contact Injury (heavy.com) :: other
+2026-10-19 02:10:58   drop[kind] Travis Kelce injury gets addressed by Chiefs coach Andy Reid after Chargers game (Sporting News) :: other
+2026-10-19 02:13:15   llm groq-120b: rate limited, skip 19s
+2026-10-19 02:13:16   drop[kind] Four dead, 39 injured at Canadian military base in grass fire (FBC News) :: other
+2026-10-19 02:13:17   drop[kind] Doctor Releases Brutal Davante Adams Injury Footage That Nobody Wants To See [VIDEO] (TotalProSports) :: other
+2026-10-19 02:14:46 indexed 888 markets
+2026-10-19 02:17:54   drop[1-source] Caleb Williams completes first 12 passes in return after missing 3 games as Bears top Falc (ABC News - Breaking News, Latest News and Videos) :: Caleb Williams, wait 2nd source
+2026-10-19 02:20:14   drop[no-market] Bears’ Caleb Williams drops ‘confident’ declaration after returning from injury to beat Fa (ClutchPoints) :: Chicago Bears
+2026-10-19 02:24:47 indexed 893 markets
+2026-10-19 02:27:10   drop[1-source] Warriors' fans can breathe a sigh of relief after Stephen Curry injury scare (Yardbarker) :: Stephen Curry, wait 2nd source
