@@ -15226,3 +15226,35 @@
 2026-10-19 21:39:54 [pengwin] Betis-Barcellona: no Polymarket event (try 41)
 2026-10-19 21:39:56 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 39)
 2026-10-19 21:39:59 [pengwin] BOLOGNA-INTER: no Polymarket event (try 39)
+2026-10-19 21:46:13   drop[no-market] Ronaldo given 30-day suspension and £215 fine by Portuguese FA (BBC) :: Portugal national football team
+2026-10-19 21:47:19 indexed 931 markets
+2026-10-19 21:48:10   drop[no-market] Bills safety C.J. Gardner-Johnson suspended one game by NFL following spitting incident ag (Fingerlakes1.com) :: Buffalo Bills
+2026-10-19 21:50:27   llm groq-120b: rate limited, skip 93s
+2026-10-19 21:50:28   drop[no-market] Buffalo Bills safety C.J. Gardner-Johnson suspended one game (Niagara Frontier Publications) :: Buffalo Bills
+2026-10-19 21:53:06   drop[team-not-named] CJ Gardner-Johnson has been suspended by the NFL (Larry Brown Sports) :: New York Jets
+2026-10-19 21:53:06   llm groq-120b: rate limited, skip 279s
+2026-10-19 21:53:06   drop[kind] WWE News: R-Truth Reportedly Okay Following Injury Scare At Last Week’s SmackDown (eWrestling) :: other
+2026-10-19 21:54:24   drop[unconfirmed] Mouhamed Gueye (F, Atlanta Hawks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: injury
+2026-10-19 21:55:04   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-19 21:56:43 indexed 928 markets
+2026-10-19 21:57:34   drop[not-key] Zac Taylor Sets Injury Table Following 2026 Bye Week, First Ravens Matchup Next (Sports Illustrated) :: Zac Taylor: injury
+2026-10-19 21:57:35   drop[not-key] Seahawks TE Elijah Arroyo will miss time with shoulder injury (NBC Sports) :: Elijah Arroyo: shoulder injury
+2026-10-19 21:57:46   drop[not-key] Blake Grupe (PK, Los Angeles Rams) ruled out: Questionable -> Injured Reserve [NFL] (ESPN) :: Blake Grupe: placed on injured reserve
+2026-10-19 22:02:26   drop[1-source] Texans Set to Welcome WR Tank Dell Back After Lengthy Injury Absence (Sports Illustrated) :: Tank Dell, wait 2nd source
+2026-10-19 22:04:30   llm groq-120b: rate limited, skip 165s
+2026-10-19 22:04:31   drop[not-key] Bills | C.J. Gardner-Johnson suspended one game for spitting at Brock Bowers (Fantasy Guru) :: C.J. Gardner-Johnson: suspension
+2026-10-19 22:04:31   drop[team-not-named] Texans | Tank Dell will play Sunday vs. Giants in first game since 2024 leg injury (Fantasy Guru) :: Dallas Cowboys
+2026-10-19 22:04:32   drop[unconfirmed] Injury Keeps Ounahi Out of Action Until Early 2027 (Morocco World News) :: injury
+2026-10-19 22:04:33   drop[1-source] Reality Star Returns to 'Dancing With the Stars' Rehearsals After Painful Neck Injury (Wide Open Country) :: Dancing With the Stars, wait 2nd source
+2026-10-19 22:06:43 indexed 934 markets
+2026-10-19 22:06:51   drop[team-not-named] Cristiano Ronaldo suspended for 30 days after quitting Portugal camp (Euronews.com) :: Manchester United
+2026-10-19 22:08:04 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-19 22:09:09   drop[kind] Bell County man arrested on child injury charge after infant suffers life-threatening inju (KXXV) :: other
+2026-10-19 22:09:09   llm groq-120b: rate limited, skip 196s
+2026-10-19 22:09:10   drop[not-key] Rams add K Blake Grupe to IR with knee injury suffered while attempting tackle on Sunday (Yahoo Sports) :: Blake Grupe: knee injury
+2026-10-19 22:10:15 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 40)
+2026-10-19 22:10:18 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 40)
+2026-10-19 22:10:20 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 40)
+2026-10-19 22:10:47 [pengwin] Betis-Barcellona: no Polymarket event (try 42)
+2026-10-19 22:10:50 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 40)
+2026-10-19 22:10:52 [pengwin] BOLOGNA-INTER: no Polymarket event (try 40)
