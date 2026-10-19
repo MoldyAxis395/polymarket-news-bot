@@ -15319,3 +15319,46 @@
 2026-10-19 23:09:52   drop[1-source] 76ers Dealt Another Injury Blow Ahead of Knicks Opener (Heavy.com) :: Philadelphia 76ers, wait 2nd source
 2026-10-19 23:10:39   llm groq-120b: rate limited, skip 202s
 2026-10-19 23:10:39   drop[no-market] US, Cuba trade barbs at UN ahead of sanctions vote reut.rs/3UASAZm (Reuters) :: United States and Cuba
+2026-10-19 23:11:22 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 42)
+2026-10-19 23:11:24 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 42)
+2026-10-19 23:11:26 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 42)
+2026-10-19 23:11:54 [pengwin] Betis-Barcellona: no Polymarket event (try 44)
+2026-10-19 23:11:56 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 42)
+2026-10-19 23:11:58 [pengwin] BOLOGNA-INTER: no Polymarket event (try 42)
+2026-10-19 23:12:08   drop[unconfirmed] Rams WR Davante Adams out 6-10 weeks with hamstring injury. DT Poona Ford out for season (yourvalley.net) :: hamstring injury
+2026-10-19 23:12:08   drop[unconfirmed] Dominick Barlow Injury: Out at least two weeks (RotoWire) :: injury
+2026-10-19 23:12:12   drop[unconfirmed] Bad to worse: Rams star WR Davante Adams, who sustained a hamstring injury in last night’s (Ian Rapoport) :: hamstring injury
+2026-10-19 23:12:28 [pengwin]   BUY Yes @ 0.600 x16.7 ($10.00) :: Will Fenerbahçe SK win on 2026-10-20?
+2026-10-19 23:12:31 [pengwin] skip PSG-BARCELLONA [Lamine Yamal over 1.5 falli subiti]: no matching market
+2026-10-19 23:12:35 [pengwin] skip MANCHESTER CITY-AEK [Over 1.5 cards for AEK]: no matching market
+2026-10-19 23:12:38   llm groq-20b: rate limited, skip 2s
+2026-10-19 23:12:38 [pengwin] STOCCARDA-ATLETICO MADRID: no Polymarket event (try 1)
+2026-10-19 23:12:38 NEWS [ESPN 2m] Poona Ford (DT, Los Angeles Rams) ruled out: healthy -> Out [NFL]
+2026-10-19 23:12:38   skip Raiders :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-19 23:12:38 NEWS [ESPN 4m] Kobie Turner (DE, Los Angeles Rams) ruled out: healthy -> Out [NFL]
+2026-10-19 23:12:38   skip Raiders :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-19 23:12:38 NEWS [ESPN 13m] Davante Adams (WR, Los Angeles Rams) ruled out: Active -> Out [NFL]
+2026-10-19 23:12:38   skip Raiders :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-19 23:12:40   llm groq-20b: rate limited, skip 12s
+2026-10-19 23:12:40 [pengwin] LIVERPOOL-VILLARREAL: no LLM answer (try 1)
+2026-10-19 23:12:42 [pengwin] PORTO-PSV: no LLM answer (try 1)
+2026-10-19 23:12:44 [pengwin] ROMA-SLOVAN BRATISLAVA: no LLM answer (try 1)
+2026-10-19 23:12:46 [pengwin] NAPOLI-BODØ/GLIMT: no LLM answer (try 1)
+2026-10-19 23:12:49 [pengwin] SABAH BAKU-BORUSSIA DORTMUND: no LLM answer (try 1)
+2026-10-19 23:14:38   llm groq-120b: rate limited, skip 47s
+2026-10-19 23:14:38   drop[not-key] Romeo Doubs placed on injured reserve as Patriots roster keeps taking hits (Boston.com) :: Romeo Doubs: injury
+2026-10-19 23:16:54 indexed 921 markets
+2026-10-19 23:19:16   drop[kind] Ex-Chiefs star drops brutal truth about Travis Kelce injury (MARCA) :: other
+2026-10-19 23:21:34   drop[1-source] Kyle Dugger returns to Bengals practice ahead of Ravens game; Cashius Howell battling illn (Cincy Jungle) :: Kyle Dugger, wait 2nd source
+2026-10-19 23:23:57   llm groq-120b: rate limited, skip 86s
+2026-10-19 23:23:58   drop[1-source] Knicks Get Major Boost as 76ers Reveal Concerning News on 6 Players (Heavy.com) :: Philadelphia 76ers, wait 2nd source
+2026-10-19 23:25:07   drop[not-key] Tacko Fall (C, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Tacko Fall: injury
+2026-10-19 23:26:07   drop[kind] Dolphins’ Discarded WR Signs With Patriots After Romeo Doubs Injury (heavy.com) :: other
+2026-10-19 23:27:31 indexed 929 markets
+2026-10-19 23:31:03   drop[1-source] 3 Texans Players Most Impacted By Tank Dell's Return From Injury (Sports Illustrated) :: Tank Dell, wait 2nd source
+2026-10-19 23:33:00   llm groq-120b: rate limited, skip 163s
+2026-10-19 23:33:01   drop[not-key] Sixers injury report: Dominick Barlow out, 3 questionable for season opener vs. Knicks (Metro Philadelphia) :: Dominick Barlow: injury
+2026-10-19 23:36:06   llm groq-120b: rate limited, skip 169s
+2026-10-19 23:36:06   drop[no-pick] Spurs beat Coventry to earn first league win of the season (BBC) :: short
+2026-10-19 23:36:57 indexed 934 markets
+2026-10-19 23:37:59   drop[no-pick] Josh Jacobs (RB, Green Bay Packers) cleared to play: Out -> Active [NFL] (ESPN) :: short
