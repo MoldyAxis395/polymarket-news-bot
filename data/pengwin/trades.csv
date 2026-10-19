@@ -48,3 +48,6 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-17T21:53:10+00:00,SELL,Valencia CF vs. Athletic Club: O/U 4.5,Under,10.99,1.0000,10.99,+0.99,resolved
 2026-10-18T16:12:01+00:00,SELL,Bayer 04 Leverkusen vs. SC Freiburg: Both Teams to Score,Yes,15.62,1.0000,15.62,+5.62,resolved
 2026-10-19T21:12:28+00:00,BUY,Will Fenerbahçe SK win on 2026-10-20?,Yes,16.67,0.6000,10.00,,FENERBAHCE-SLAVIA PRAGA: 1 (esatto) | pengwin exact: base pick home win
+2026-10-19T22:13:54+00:00,BUY,Liverpool FC vs. Villarreal CF: 1st Half O/U 0.5,Over,12.66,0.7900,10.00,,LIVERPOOL-VILLARREAL: 1st Half O/U 0.5 OVER (esatto) | pengwin exact: replicates casa over 0.5 primo tempo
+2026-10-19T22:13:58+00:00,BUY,FC Porto vs. PSV: FC Porto O/U 1.5,Over,15.15,0.6600,10.00,,PORTO-PSV: FC Porto O/U 1.5 Over (esatto) | pengwin exact: home over 1.5
+2026-10-19T22:14:07+00:00,BUY,Will BV Borussia 09 Dortmund win on 2026-10-20?,Yes,13.33,0.7500,10.00,,SABAH BAKU-BORUSSIA DORTMUND: 2 (esatto) | pengwin exact: away win
