@@ -15071,3 +15071,76 @@
 2026-10-19 19:01:56   drop[not-key] Ty Simpson (QB, Los Angeles Rams) cleared to play: Out -> Active [NFL] (ESPN) :: Ty Simpson: cleared to play and moved to active roster
 2026-10-19 19:02:58   llm groq-120b: rate limited, skip 104s
 2026-10-19 19:02:58   drop[not-key] Aidan O'Connell (QB, Las Vegas Raiders) cleared to play: Out -> Active [NFL] (ESPN) :: Aidan O'Connell: cleared to play
+2026-10-19 19:04:38   drop[unconfirmed] Jason Zucker Injury: On track to play Wednesday (RotoWire) :: returning
+2026-10-19 19:04:38   drop[unconfirmed] From China Open glory to an early end of season: Zheng Qinwen turns attention to 2027 afte (Tennisuptodate.com) :: injury setback
+2026-10-19 19:06:22 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 35)
+2026-10-19 19:06:25 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 35)
+2026-10-19 19:06:28 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 35)
+2026-10-19 19:06:55 [pengwin] Betis-Barcellona: no Polymarket event (try 37)
+2026-10-19 19:06:57 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 35)
+2026-10-19 19:07:00 [pengwin] BOLOGNA-INTER: no Polymarket event (try 35)
+2026-10-19 19:09:15   llm groq-120b: rate limited, skip 87s
+2026-10-19 19:09:15   drop[1-source] QB Nico Iamaleava’s UCLA Future Faces Awkward Question as Bruins Earn “Better” Verdict Ami (شبكة تواصل الإخبارية) :: Nico Iamaleava, wait 2nd source
+2026-10-19 19:09:54 indexed 933 markets
+2026-10-19 19:11:09   drop[not-key] CJ Okoye (DT, New York Giants) cleared to play: Out -> Active [NFL] (ESPN) :: CJ Okoye: cleared to play
+2026-10-19 19:11:09   llm groq-120b: rate limited, skip 246s
+2026-10-19 19:11:10   drop[not-key] Jake Haener (QB, New York Giants) cleared to play: Out -> Active [NFL] (ESPN) :: Jake Haener: cleared to play
+2026-10-19 19:13:53   drop[not-key] QPR confirm Mbengue ACL injury (West London Sport) :: Moussa Mbengue: ACL injury
+2026-10-19 19:16:10   drop[kind] 10 things to know about personal injury law before you ever need it (St. Louis Magazine) :: other
+2026-10-19 19:16:10   llm groq-120b: rate limited, skip 242s
+2026-10-19 19:16:10   drop[1-source] Early injury forces Ziyad Al-Johani to leave Al Ahly… (YSscores) :: Ziyad Al-Johani, wait 2nd source
+2026-10-19 19:17:14   drop[not-key] Thomas Chabot (D, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Thomas Chabot: day-to-day
+2026-10-19 19:18:31   drop[unconfirmed] Thomas Chabot Injury: Set to miss at least a week (RotoWire) :: injury
+2026-10-19 19:19:56 indexed 939 markets
+2026-10-19 19:20:01   drop[no-market] 🚨🇵🇹 OFFICIAL: Cristiano Ronaldo has been suspended for 30 days plus fined for €255. The de (Fabrizio Romano) :: Portugal national football team
+2026-10-19 19:21:19   drop[not-key] Behren Morton (QB, New England Patriots) cleared to play: Out -> Active [NFL] (ESPN) :: Behren Morton: cleared to play
+2026-10-19 19:21:20   llm groq-120b: rate limited, skip 238s
+2026-10-19 19:21:20   drop[not-key] Tanner Arkin (TE, New England Patriots) cleared to play: Out -> Active [NFL] (ESPN) :: Tanner Arkin: player cleared
+2026-10-19 19:21:21   drop[not-key] Dametrious Crownover (OT, New England Patriots) cleared to play: Out -> Active [NFL] (ESPN) :: Dametrious Crownover: cleared to play
+2026-10-19 19:21:21 NEWS [ESPN 12m] Zach Wilson (QB, New Orleans Saints) cleared to play: Out -> Active [NFL]
+2026-10-19 19:21:21   skip Saints :: Steelers vs. Saints (low conf 0.35)
+2026-10-19 19:21:22   drop[not-key] Mike Reid (CB, New Orleans Saints) cleared to play: Out -> Active [NFL] (ESPN) :: Mike Reid: cleared to play
+2026-10-19 19:21:24 NEWS [ESPN 12m] John Ridgeway III (DT, New Orleans Saints) cleared to play: Out -> Active [NFL]
+2026-10-19 19:21:24   skip Saints :: Steelers vs. Saints (low conf 0.6)
+2026-10-19 19:21:24   drop[not-key] Hollywood Brown (WR, Philadelphia Eagles) cleared to play: Out -> Active [NFL] (ESPN) :: Hollywood Brown: cleared to play
+2026-10-19 19:21:27   drop[verify] Joe Milton (QB, Philadelphia Eagles) cleared to play: Out -> Active [NFL] (ESPN) :: Joe Milton is depth, not a starter, unlikely to move market
+2026-10-19 19:21:27   drop[not-key] Drew Allar (QB, Pittsburgh Steelers) cleared to play: Out -> Active [NFL] (ESPN) :: Drew Allar: cleared to play
+2026-10-19 19:21:28   drop[not-key] Eli Heidenreich (RB, Pittsburgh Steelers) cleared to play: Out -> Active [NFL] (ESPN) :: Eli Heidenreich: return
+2026-10-19 19:21:29   drop[not-key] Terell Smith (CB, Pittsburgh Steelers) cleared to play: Out -> Active [NFL] (ESPN) :: Terell Smith: player returns
+2026-10-19 19:21:31   llm groq-20b: rate limited, skip 2s
+2026-10-19 19:21:31   drop[no-pick] Will Howard (QB, Pittsburgh Steelers) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-10-19 19:21:31 NEWS [ESPN 7m] Sean Murphy-Bunting (CB, Pittsburgh Steelers) cleared to play: Out -> Active [NFL]
+2026-10-19 19:21:31   skip Steelers :: Steelers vs. Saints (rules fallback, LLM down (not traded))
+2026-10-19 19:21:31 NEWS [ESPN 7m] Kevin Jobity Jr. (DT, Pittsburgh Steelers) cleared to play: Out -> Active [NFL]
+2026-10-19 19:21:31   skip Steelers :: Steelers vs. Saints (rules fallback, LLM down (not traded))
+2026-10-19 19:25:34   llm groq-120b: rate limited, skip 43s
+2026-10-19 19:25:34   drop[kind] R-Truth Addresses Legit Injury with New Photo After Match vs. Damian Priest on WWE SmackDo (Bleacher Report) :: other
+2026-10-19 19:25:35   drop[kind] Placentia-Whitbourne RCMP seizes vehicle from suspended driver (ntv.ca) :: other
+2026-10-19 19:26:21   llm groq-120b: rate limited, skip 7s
+2026-10-19 19:26:22   drop[no-pick] Nahshon Wright (CB, New York Jets) cleared to play: Out -> Active [NFL] (ESPN) :: short
+2026-10-19 19:26:24   drop[no-pick] Jack Heflin (DT, New York Jets) cleared to play: Out -> Active [NFL] (ESPN) :: short
+2026-10-19 19:26:24   drop[not-key] Robert Henry Jr. (RB, Seattle Seahawks) cleared to play: Out -> Active [NFL] (ESPN) :: Robert Henry Jr.: cleared to play
+2026-10-19 19:26:28   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-19 19:26:28   drop[verify] Jalen Milroe (QB, Seattle Seahawks) cleared to play: Out -> Active [NFL] (ESPN) :: no answer
+2026-10-19 19:26:28   drop[not-key] Avery Smith (CB, Seattle Seahawks) cleared to play: Out -> Active [NFL] (ESPN) :: Avery Smith: cleared to play
+2026-10-19 19:26:29   drop[not-key] Brandon Pili (DT, Seattle Seahawks) cleared to play: Out -> Active [NFL] (ESPN) :: Brandon Pili: cleared to play after being out
+2026-10-19 19:26:29   llm groq-120b: rate limited, skip 256s
+2026-10-19 19:26:30   drop[not-key] Montorie Foster Jr. (WR, Seattle Seahawks) cleared to play: Out -> Active [NFL] (ESPN) :: Montorie Foster Jr.: cleared to play
+2026-10-19 19:26:30   drop[not-key] Billy Schrauth (G, Tampa Bay Buccaneers) cleared to play: Out -> Active [NFL] (ESPN) :: Billy Schrauth: cleared to play
+2026-10-19 19:26:31   drop[not-key] DeMonte Capehart (DT, Tampa Bay Buccaneers) cleared to play: Out -> Active [NFL] (ESPN) :: DeMonte Capehart: player returns
+2026-10-19 19:26:31   drop[not-key] Luke Haggard (G, Tampa Bay Buccaneers) cleared to play: Out -> Active [NFL] (ESPN) :: Luke Haggard: cleared to play
+2026-10-19 19:26:32   drop[not-key] Kylen Granson (TE, Tennessee Titans) cleared to play: Out -> Active [NFL] (ESPN) :: Kylen Granson: cleared to play
+2026-10-19 19:26:32   llm groq-20b: rate limited, skip 3s
+2026-10-19 19:26:32 NEWS [ESPN 9m] Jackie Marshall (DT, Tennessee Titans) cleared to play: Out -> Active [NFL]
+2026-10-19 19:26:32   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-19 19:26:32 NEWS [ESPN 9m] Nicholas Singleton (RB, Tennessee Titans) cleared to play: Out -> Active [NFL]
+2026-10-19 19:26:32   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-19 19:26:32 NEWS [ESPN 9m] Brandon Crenshaw-Dickson (OT, Tennessee Titans) cleared to play: Out -> Active [NFL]
+2026-10-19 19:26:32   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-19 19:26:32 NEWS [ESPN 9m] Alontae Taylor (CB, Tennessee Titans) cleared to play: Out -> Active [NFL]
+2026-10-19 19:26:32   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-19 19:29:57 indexed 942 markets
+2026-10-19 19:30:28   drop[1-source] The O's liquor license suspended in Sunderland after underage drinking found by ABCC inves (Greenfield Recorder) :: O's (Sunderland), wait 2nd source
+2026-10-19 19:30:29   drop[not-key] Senators' Thomas Chabot out one to two weeks with upper-body injury (Sportsnet.ca) :: Thomas Chabot: upper-body injury
+2026-10-19 19:30:30   drop[kind] RCMP seizes vehicle from suspended driver on Trans Canada Highway in NL (PNI Atlantic News) :: other
+2026-10-19 19:30:30   drop[1-source] Betis' Colombian striker Hernandez suffers calf injury (IANS LIVE) :: Jhonatan Hernandez, wait 2nd source
