@@ -14988,3 +14988,86 @@
 2026-10-19 18:29:57   drop[unconfirmed] Texas star pass rusher Colin Simmons expected to miss Ole Miss game with high ankle sprain (CBS Sports) :: expected to miss game
 2026-10-19 18:29:58   drop[kind] R-Truth Says He Is Okay After Injury Scare On 10/16 WWE SmackDown (Fightful) :: other
 2026-10-19 18:29:58   drop[unconfirmed] NFL Week 6 injury roundup: Davante Adams, Ladd McConkey and more (ClutchPoints) :: injury
+2026-10-19 18:35:48 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 34)
+2026-10-19 18:35:51 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 34)
+2026-10-19 18:35:54 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 34)
+2026-10-19 18:36:12   llm groq-120b: rate limited, skip 165s
+2026-10-19 18:36:13 NEWS [ESPN 8m] Jayden Loving (DT, Chicago Bears) cleared to play: Out -> Active [NFL]
+2026-10-19 18:36:13   skip Bears :: Patriots vs. Bears (illiquid)
+2026-10-19 18:36:14   drop[not-key] Case Keenum (QB, Chicago Bears) cleared to play: Out -> Active [NFL] (ESPN) :: Case Keenum: return from injury
+2026-10-19 18:36:15   drop[not-key] Jordan McFadden (G, Chicago Bears) cleared to play: Out -> Active [NFL] (ESPN) :: Jordan McFadden: return
+2026-10-19 18:36:16   drop[verify] Noah Igbinoghene (CB, Cleveland Browns) cleared to play: Out -> Active [NFL] (ESPN) :: person no longer on team
+2026-10-19 18:36:17   drop[not-key] Taylen Green (QB, Cleveland Browns) cleared to play: Out -> Active [NFL] (ESPN) :: Taylen Green: cleared to play
+2026-10-19 18:36:17   drop[not-key] Parker Brailsford (C, Cleveland Browns) cleared to play: Out -> Active [NFL] (ESPN) :: Parker Brailsford: cleared to play
+2026-10-19 18:36:23 [pengwin] Betis-Barcellona: no Polymarket event (try 36)
+2026-10-19 18:36:25 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 34)
+2026-10-19 18:36:28 [pengwin] BOLOGNA-INTER: no Polymarket event (try 34)
+2026-10-19 18:36:56   drop[kind] Warning signs over threats to Australian politicians were rising before MP hit by car (BBC) :: other
+2026-10-19 18:39:19   llm groq-120b: rate limited, skip 71s
+2026-10-19 18:39:19   drop[team-not-named] Jalen Hurts sidelined for season after blood clots diagnosed in lungs and leg (New Jersey 101.5) :: Philadelphia Eagles
+2026-10-19 18:39:51 indexed 948 markets
+2026-10-19 18:41:15   drop[not-key] Torricelli Simpkins III (G, Carolina Panthers) cleared to play: Out -> Active [NFL] (ESPN) :: Torricelli Simpkins III: cleared to play
+2026-10-19 18:41:15   llm groq-120b: rate limited, skip 237s
+2026-10-19 18:41:17 NEWS [ESPN 14m] TeRah Edwards (DT, Carolina Panthers) cleared to play: Out -> Active [NFL]
+2026-10-19 18:41:17   skip Panthers :: Buccaneers vs. Panthers (illiquid)
+2026-10-19 18:41:19   drop[verify] Haynes King (QB, Carolina Panthers) cleared to play: Out -> Active [NFL] (ESPN) :: Haynes King not on Panthers roster
+2026-10-19 18:41:19   drop[not-key] Ja'Tavion Sanders (TE, Carolina Panthers) cleared to play: Out -> Active [NFL] (ESPN) :: Ja'Tavion Sanders: cleared
+2026-10-19 18:41:19   drop[not-key] Albert Reese IV (OT, Carolina Panthers) cleared to play: Out -> Active [NFL] (ESPN) :: Albert Reese IV: cleared to play
+2026-10-19 18:41:20   drop[not-key] James Houston (LB, Dallas Cowboys) cleared to play: Out -> Active [NFL] (ESPN) :: James Houston: cleared to play
+2026-10-19 18:41:20   drop[not-key] Alijah Clark (S, Dallas Cowboys) cleared to play: Out -> Active [NFL] (ESPN) :: Alijah Clark: return
+2026-10-19 18:41:21   drop[not-key] Camden Brown (WR, Dallas Cowboys) cleared to play: Out -> Active [NFL] (ESPN) :: Camden Brown: return from injury
+2026-10-19 18:41:21   drop[not-key] Dallen Bentley (TE, Denver Broncos) cleared to play: Out -> Active [NFL] (ESPN) :: Dallen Bentley: player returns
+2026-10-19 18:41:22   drop[not-key] Sam Ehlinger (QB, Denver Broncos) cleared to play: Out -> Active [NFL] (ESPN) :: Sam Ehlinger: return
+2026-10-19 18:41:22   llm groq-20b: rate limited, skip 3s
+2026-10-19 18:41:36   drop[1-source] Patriots Announce Offensive Line Decision After Jets Injury Disaster (heavy.com) :: New England Patriots, wait 2nd source
+2026-10-19 18:43:17   drop[not-key] Emari Demercado (RB, Dallas Cowboys) cleared to play: Out -> Active [NFL] (ESPN) :: Emari Demercado: cleared to play
+2026-10-19 18:46:12   drop[kind] Hearts suffer a fresh injury scare as Wouter Vrancken admits options are thin for the Trab (Edinburgh News) :: other
+2026-10-19 18:48:29   llm groq-120b: rate limited, skip 104s
+2026-10-19 18:48:30   drop[unconfirmed] Bengals News: Lamar Jackson Injury Watch as Ravens week arrives (Yahoo Sports) :: injury watch
+2026-10-19 18:49:51 indexed 950 markets
+2026-10-19 18:50:46   drop[kind] Elkins woman charged with child abuse resulting in injury (The Intermountain) :: other
+2026-10-19 18:51:30   llm groq-120b: rate limited, skip 179s
+2026-10-19 18:51:30   drop[not-key] Donovan Jennings (G, Green Bay Packers) cleared to play: Out -> Active [NFL] (ESPN) :: Donovan Jennings: cleared to play
+2026-10-19 18:51:30   drop[not-key] Jager Burton (C, Green Bay Packers) cleared to play: Out -> Active [NFL] (ESPN) :: Jager Burton: return
+2026-10-19 18:55:24   drop[no-market] Trump launches women’s health initiative at National Institutes of Health (NBC News) :: National Institutes of Health
+2026-10-19 18:56:37   llm groq-120b: rate limited, skip 165s
+2026-10-19 18:56:37   drop[not-key] Marlin Klein (TE, Houston Texans) cleared to play: Out -> Active [NFL] (ESPN) :: Marlin Klein: cleared to play
+2026-10-19 18:56:38   drop[not-key] Febechi Nwaiwu (G, Houston Texans) cleared to play: Out -> Active [NFL] (ESPN) :: Febechi Nwaiwu: injury recovery
+2026-10-19 18:56:38   drop[not-key] Sabastian Harsh (DE, Houston Texans) cleared to play: Out -> Active [NFL] (ESPN) :: Sebastian Harsh: cleared to play
+2026-10-19 18:56:39   drop[not-key] Nate Thomas (OT, Houston Texans) cleared to play: Out -> Active [NFL] (ESPN) :: Nate Thomas: cleared to play
+2026-10-19 18:56:39   drop[not-key] Braden Smith (OT, Houston Texans) cleared to play: Out -> Active [NFL] (ESPN) :: Braden Smith: player returns
+2026-10-19 18:56:39   drop[not-key] Dalton Tucker (G, Indianapolis Colts) cleared to play: Out -> Active [NFL] (ESPN) :: Dalton Tucker: cleared to play
+2026-10-19 18:56:40   drop[not-key] Riley Leonard (QB, Indianapolis Colts) cleared to play: Out -> Active [NFL] (ESPN) :: Riley Leonard: cleared to play
+2026-10-19 18:56:40   drop[not-key] Jalen Huskey (S, Jacksonville Jaguars) cleared to play: Out -> Active [NFL] (ESPN) :: Jalen Huskey: cleared to play
+2026-10-19 18:56:41   drop[no-market] Albert Regis (DT, Jacksonville Jaguars) cleared to play: Out -> Active [NFL] (ESPN) :: Jacksonville Jaguars
+2026-10-19 18:56:41   drop[no-market] Wesley Williams (DE, Jacksonville Jaguars) cleared to play: Out -> Active [NFL] (ESPN) :: Jacksonville Jaguars
+2026-10-19 18:56:41   drop[not-key] CJ Williams (WR, Jacksonville Jaguars) cleared to play: Out -> Active [NFL] (ESPN) :: CJ Williams: cleared to play
+2026-10-19 18:56:42   drop[not-key] Garrett Nussmeier (QB, Kansas City Chiefs) cleared to play: Out -> Active [NFL] (ESPN) :: Garrett Nussmeier: return
+2026-10-19 18:56:42   drop[not-key] Diego Pounds (OT, Kansas City Chiefs) cleared to play: Out -> Active [NFL] (ESPN) :: Diego Pounds: cleared to play
+2026-10-19 18:56:42   llm groq-20b: rate limited, skip 4s
+2026-10-19 18:56:42 NEWS [ESPN 12m] Jack Pyburn (LB, Kansas City Chiefs) cleared to play: Out -> Active [NFL]
+2026-10-19 18:56:42   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-19 18:56:42 NEWS [ESPN 12m] Jadon Canady (CB, Kansas City Chiefs) cleared to play: Out -> Active [NFL]
+2026-10-19 18:56:42   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-19 18:56:42 NEWS [ESPN 12m] Jared Wiley (TE, Kansas City Chiefs) cleared to play: Out -> Active [NFL]
+2026-10-19 18:56:42   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-19 18:56:42 NEWS [ESPN 11m] Dalton Johnson (S, Las Vegas Raiders) cleared to play: Out -> Active [NFL]
+2026-10-19 18:56:42   skip Raiders :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-19 18:56:42 NEWS [ESPN 11m] Tristin McCollum (S, Las Vegas Raiders) cleared to play: Out -> Active [NFL]
+2026-10-19 18:56:42   skip Raiders :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-19 18:56:42 NEWS [ESPN 11m] Cian Slone (DE, Las Vegas Raiders) cleared to play: Out -> Active [NFL]
+2026-10-19 18:56:42   skip Raiders :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-19 18:56:42 NEWS [ESPN 11m] Bryce Cabeldue (G, Las Vegas Raiders) cleared to play: Out -> Active [NFL]
+2026-10-19 18:56:42   skip Raiders :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-19 18:56:42 NEWS [ESPN 4m] CJ Daniels (WR, Los Angeles Rams) cleared to play: Out -> Active [NFL]
+2026-10-19 18:56:42   skip Rams :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-19 18:56:42 NEWS [ESPN 4m] Larrell Murchison (DE, Los Angeles Rams) cleared to play: Out -> Active [NFL]
+2026-10-19 18:56:42   skip Rams :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-19 18:56:42 NEWS [ESPN 4m] Bill Murray (G, Los Angeles Rams) cleared to play: Out -> Active [NFL]
+2026-10-19 18:56:42   skip Rams :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-19 18:57:39   drop[not-key] Tutu Atwell (WR, Los Angeles Rams) cleared to play: Out -> Active [NFL] (ESPN) :: Tutu Atwell: cleared to play
+2026-10-19 18:57:44   drop[not-key] Dominick Barlow Injury: Sits out another practice (RotoWire) :: Dominick Barlow: injury
+2026-10-19 18:59:52 indexed 947 markets
+2026-10-19 19:01:56   drop[not-key] Ty Simpson (QB, Los Angeles Rams) cleared to play: Out -> Active [NFL] (ESPN) :: Ty Simpson: cleared to play and moved to active roster
+2026-10-19 19:02:58   llm groq-120b: rate limited, skip 104s
+2026-10-19 19:02:58   drop[not-key] Aidan O'Connell (QB, Las Vegas Raiders) cleared to play: Out -> Active [NFL] (ESPN) :: Aidan O'Connell: cleared to play
