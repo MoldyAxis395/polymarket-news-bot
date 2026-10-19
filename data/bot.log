@@ -15402,3 +15402,32 @@
 2026-10-20 00:37:39 indexed 940 markets
 2026-10-20 00:37:43   drop[1-source] Cat adoptions & intakes temporarily suspended (WNEM) :: WNEM, wait 2nd source
 2026-10-20 00:40:45 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-20 00:42:57 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 44)
+2026-10-20 00:42:59 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 44)
+2026-10-20 00:43:27 [pengwin] Betis-Barcellona: no Polymarket event (try 46)
+2026-10-20 00:43:29 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 44)
+2026-10-20 00:43:31 [pengwin] BOLOGNA-INTER: no Polymarket event (try 44)
+2026-10-20 00:44:00   llm groq-120b: rate limited, skip 1011s
+2026-10-20 00:44:02 [pengwin]   BUY Over @ 0.790 x12.7 ($10.00) :: VfB Stuttgart vs. Club Atlético de Madrid: VfB Stuttgart O/U 0.5
+2026-10-20 00:44:05   llm groq-20b: rate limited, skip 880s
+2026-10-20 00:44:05 [pengwin] ROMA-SLOVAN BRATISLAVA: no LLM answer (try 3)
+2026-10-20 00:44:07 [pengwin] NAPOLI-BODØ/GLIMT: no LLM answer (try 3)
+2026-10-20 00:44:10 [pengwin] SPORTING-LASK: no LLM answer (try 2)
+2026-10-20 00:47:06 indexed 947 markets
+2026-10-20 00:48:09 NEWS [ESPN 10m] Tyson Foerster (RW, Philadelphia Flyers) ruled out: Day-To-Day -> Out [NHL]
+2026-10-20 00:48:09   skip Avalanche :: Avalanche vs. Flyers (rules fallback, LLM down (not traded))
+2026-10-20 00:57:40 indexed 942 markets
+2026-10-20 01:00:51   drop[1-source] Buffalo Bills’ Superstar Suspended By The NFL – Breaking News (Gridiron Heroics) :: Josh Allen, wait 2nd source
+2026-10-20 01:03:10   drop[kind] Bears Facing Patriots Roster With Even Worse Injury Luck This Week on 'TNF' (Sports Illustrated) :: other
+2026-10-20 01:05:40   drop[team-not-named] Maddison revels in Spurs injury comeback after overcoming 'dark days' (beIN SPORTS) :: Tottenham Hotspur
+2026-10-20 01:05:41   drop[1-source] Big blow as injury rules Semenyo out of Ghana’s next AFCON qualifiers (Graphic Online) :: Thomas Partey, wait 2nd source
+2026-10-20 01:07:08 indexed 939 markets
+2026-10-20 01:08:11   drop[team-not-named] Kurtis Rourke (QB, San Francisco 49ers) ruled out: Active -> Out [NFL] (ESPN) :: Ohio State Buckeyes
+2026-10-20 01:08:12   drop[not-key] Naquan Jones (DT, San Francisco 49ers) ruled out: healthy -> Out [NFL] (ESPN) :: Naquan Jones: ruled out due to injury
+2026-10-20 01:08:12   llm groq-120b: rate limited, skip 187s
+2026-10-20 01:08:12   drop[not-key] Enrique Cruz Jr. (OT, San Francisco 49ers) ruled out: Active -> Out [NFL] (ESPN) :: Enrique Cruz Jr.: injury
+2026-10-20 01:08:12   drop[not-key] Isaac Yiadom (CB, Washington Commanders) ruled out: healthy -> Out [NFL] (ESPN) :: Isaac Yiadom: injury
+2026-10-20 01:08:13   drop[not-key] Tanoa Togiai (G, Washington Commanders) ruled out: Active -> Out [NFL] (ESPN) :: Tanoa Togiai: injury
+2026-10-20 01:08:13   drop[not-key] T.J. Maguranyanga (DE, Washington Commanders) ruled out: healthy -> Out [NFL] (ESPN) :: T.J. Maguranyanga: injury
+2026-10-20 01:08:13   drop[not-key] Fabian Moreau (CB, Washington Commanders) ruled out: Active -> Out [NFL] (ESPN) :: Fabian Moreau: injury
+2026-10-20 01:10:48 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)

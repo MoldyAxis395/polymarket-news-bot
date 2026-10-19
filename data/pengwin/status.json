@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-20T00:39:20",
+ "updated": "2026-10-20T01:09:23",
  "start": 100.0,
- "cash": 106.83,
- "equity": 146.42,
+ "cash": 96.83,
+ "equity": 146.45,
  "open": [
   {
    "market_id": "5383472",
@@ -55,7 +55,7 @@
    "reason": "pengwin exact: home over 1.5",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.65,
+   "last_bid": 0.66,
    "book_err": false
   },
   {
@@ -75,14 +75,32 @@
    "end": "2026-10-20T16:45:00+00:00",
    "last_bid": 0.74,
    "book_err": false
+  },
+  {
+   "market_id": "5410085",
+   "question": "VfB Stuttgart vs. Club Atl\u00e9tico de Madrid: VfB Stuttgart O/U 0.5",
+   "slug": "ucl-stu-atm-2026-10-20-team-total-home-0pt5",
+   "outcome": "Over",
+   "token": "114246874882288638558970998173437890466728653696619061208192990768324527629392",
+   "shares": 12.658227848101266,
+   "entry": 0.79,
+   "cost": 10.0,
+   "opened": 1792449842.8794296,
+   "opened_iso": "2026-10-19T22:44:02+00:00",
+   "news": "STOCCARDA-ATLETICO MADRID: MULTIGOL 1-4 CASA (approssimato)",
+   "reason": "pengwin approx: home team at least 1 goal",
+   "conf": 1.0,
+   "end": "2026-10-20T19:00:00+00:00",
+   "last_bid": 0.78,
+   "book_err": false
   }
  ],
  "closed_count": 24,
  "realized_pnl": 46.83,
  "pages": {
-  "pending": 129,
+  "pending": 128,
   "picked": 1,
-  "traded": 28,
+  "traded": 29,
   "skipped": 98,
   "expired": 0
  }
