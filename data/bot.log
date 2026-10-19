@@ -15154,3 +15154,31 @@
 2026-10-19 19:40:02 indexed 919 markets
 2026-10-19 19:43:06   drop[not-key] Tyler Bilodeau (F, Brooklyn Nets) ruled out: healthy -> Out [NBA] (ESPN) :: Tyler Bilodeau: ruled out due to injury
 2026-10-19 19:43:43 shift over, state saved
+2026-10-19 20:36:01 === start mode=paper pid=2374 ===
+2026-10-19 20:36:01 brain=llm cash=84.02 open=0
+2026-10-19 20:36:01 resuming with 8071 known news items
+2026-10-19 20:36:24 indexed 929 markets
+2026-10-19 20:36:40   drop[team-not-named] Nic Claxton (C, Chicago Bulls) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Brooklyn Nets
+2026-10-19 20:36:41 NEWS [ESPN 46m] Tobias Harris (F, San Antonio Spurs) ruled out: Day-To-Day -> Out [NBA]
+2026-10-19 20:36:41   skip Thunder :: Thunder vs. Spurs (low conf 0.62)
+2026-10-19 20:36:43 NEWS [ESPN 0m] Tottenham Hotspur confirmed lineup vs Coventry City: Marcos Senesi, Destiny Udogie, Sávio, Lucas Bergvall, Conor Gallagher ruled out of starting XI [eng.1]
+2026-10-19 20:36:43   skip Yes :: Will Coventry City FC win on 2026-10-19? (low conf 0.62)
+2026-10-19 20:36:44 NEWS [ESPN 0m] Coventry City confirmed lineup vs Tottenham Hotspur: Ephron Mason-Clark ruled out of starting XI [eng.1]
+2026-10-19 20:36:44   skip No :: Will Coventry City FC win on 2026-10-19? (low conf 0.6)
+2026-10-19 20:36:45   drop[not-key] Getafe confirmed lineup vs Rayo Vallecano: Zaid Romero, Francho Serrano, Andrés García, Iv (ESPN) :: Zaid Romero: ruled out of starting XI for match vs Rayo Vallecano
+2026-10-19 20:36:46 NEWS [ESPN 0m] Rayo Vallecano confirmed lineup vs Getafe: Pedro Díaz ruled out of starting XI [esp.1]
+2026-10-19 20:36:46   skip Yes :: Will Getafe CF win on 2026-10-19? (low conf 0.6)
+2026-10-19 20:36:46   llm groq-120b: rate limited, skip 138s
+2026-10-19 20:36:47   drop[side] Parma confirmed lineup vs Torino: Vincent Sierro, Franco Carboni, Nesta Elphege ruled out  (ESPN) :: Will Parma Calcio 1913 win on 2026-10-19? -> Yes vs fact ruled_out: Nesta Elphege (Parma, soccer), bad for Parma. injury
+2026-10-19 20:36:48 NEWS [ESPN 0m] Torino confirmed lineup vs Parma: Ricardo Rodríguez, Gaetano Oristanio ruled out of starting XI [ita.1]
+2026-10-19 20:36:48   skip Yes :: Will Parma Calcio 1913 win on 2026-10-19? (low conf 0.6)
+2026-10-19 20:36:49   drop[team-not-named] Cristiano Ronaldo fined €255, suspended 30 days after Portugal walk-out (ESPN) :: Manchester United
+2026-10-19 20:36:49   drop[kind] Injury Two-Vehicle Crash on Rte 31 in Washington Twp., NJ (MetroLaw.com) :: other
+2026-10-19 20:36:50   drop[unconfirmed] He will miss 15 matches: painful injury sidelines Morocco star (Goal.com) :: injury
+2026-10-19 20:38:09 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 37)
+2026-10-19 20:38:11 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 37)
+2026-10-19 20:38:13 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 37)
+2026-10-19 20:38:40 [pengwin] Betis-Barcellona: no Polymarket event (try 39)
+2026-10-19 20:38:42 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 37)
+2026-10-19 20:38:44 [pengwin] BOLOGNA-INTER: no Polymarket event (try 37)
+2026-10-19 20:39:10   drop[team-not-named] Set to miss 15 matches: painful injury sidelines Morocco star (Goal.com) :: Paris Saint-Germain
