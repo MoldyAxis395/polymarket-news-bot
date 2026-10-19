@@ -15362,3 +15362,15 @@
 2026-10-19 23:36:06   drop[no-pick] Spurs beat Coventry to earn first league win of the season (BBC) :: short
 2026-10-19 23:36:57 indexed 934 markets
 2026-10-19 23:37:59   drop[no-pick] Josh Jacobs (RB, Green Bay Packers) cleared to play: Out -> Active [NFL] (ESPN) :: short
+2026-10-19 23:42:09 [pengwin] ERROR equest |     resp = self.send(prep, **send_kwargs) |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send |     r = adapter.send(request, **kwargs) |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py", line 711, in send |     raise ConnectionError(err, request=request) | requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-19 23:43:21   llm groq-120b: rate limited, skip 152s
+2026-10-19 23:43:21   drop[no-pick] Lampard 'proud' of Coventry performance in defeat to Spurs (BBC) :: short
+2026-10-19 23:46:58 indexed 927 markets
+2026-10-19 23:53:54   drop[1-source] Davante Adams lost to major injury as Rams set to face Raiders Week 7 (Raiders Wire) :: Davante Adams, wait 2nd source
+2026-10-19 23:57:00 indexed 929 markets
+2026-10-19 23:58:45   drop[not-key] Commanders place Jacory Croskey-Merritt, Javontae Jean-Baptiste on injured reserve (WJLA) :: Jacory Croskey-Merritt, Javontae Jean-Baptiste: Both players were placed on injured reserve, making them unavailable for
+2026-10-19 23:59:39   drop[no-market] Aaron Boone is returning as Yankees manager next season, a source confirmed to ESPN. @pcal (Jeff Passan) :: New York Yankees
+2026-10-20 00:05:35   drop[team-not-named] Kobie Turner Bound for IR with groin injury (Fantasy Footballers Podcast) :: New York Giants
+2026-10-20 00:05:36   drop[1-source] Texas DE Colin Simmons To Miss Multiple Weeks with Ankle Injury (roundtable.io) :: Colin Simmons, wait 2nd source
+2026-10-20 00:07:37 indexed 942 markets
+2026-10-20 00:10:37 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
