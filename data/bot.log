@@ -14856,3 +14856,32 @@
 2026-10-19 16:33:27 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 30)
 2026-10-19 16:33:29 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 30)
 2026-10-19 16:33:32 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 30)
+2026-10-19 16:34:01 [pengwin] Betis-Barcellona: no Polymarket event (try 32)
+2026-10-19 16:34:03 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 30)
+2026-10-19 16:34:06 [pengwin] BOLOGNA-INTER: no Polymarket event (try 30)
+2026-10-19 16:34:32   llm groq-120b: rate limited, skip 227s
+2026-10-19 16:34:33   drop[1-source] Andoni Iraola Reveals Liverpool Injury Blow With Dominik Szoboszlai Clarification (Sports Illustrated) :: Dominik Szoboszlai, wait 2nd source
+2026-10-19 16:36:39   drop[no-market] McKinney Suffers Season-Ending Knee Injury (University of Minnesota Athletics) :: Minnesota Golden Gophers
+2026-10-19 16:36:40   drop[team-not-named] Irish showjumper Max Wachman suspended for one month (Equnews International) :: Ireland
+2026-10-19 16:36:40   drop[1-source] Leeds Bradford Airport strikes suspended for talks (Unite the Union) :: Leeds Bradford Airport, wait 2nd source
+2026-10-19 16:38:58   drop[unconfirmed] Jalen Hurts ruled out for the season after doctors discover more blood clots in terrifying (www.the-sun.com) :: diagnosed with blood clots, season-ending
+2026-10-19 16:39:36 indexed 956 markets
+2026-10-19 16:41:16   llm groq-120b: rate limited, skip 48s
+2026-10-19 16:41:17   drop[kind] Delta Goodrem's Strictly future confirmed after rib injury (PinkNews) :: other
+2026-10-19 16:41:20   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-19 16:41:20   drop[verify] Jalen Hurts Injury Shock: Philadelphia Eagles Confirm QB Dealing With Blood Clots In Lungs (The Sunday Guardian) :: no answer
+2026-10-19 16:45:54   llm groq-120b: rate limited, skip 174s
+2026-10-19 16:45:56 NEWS [101 Great Goals 4m] BREAKING: Eagles QB Hurts ruled out for season
+2026-10-19 16:45:56   skip Cowboys :: Cowboys vs. Eagles (rss sport (measure only))
+2026-10-19 16:46:09   drop[not-key] Owen Tippett (RW, Philadelphia Flyers) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Owen Tippett: day-to-day
+2026-10-19 16:48:12   drop[kind] Andoni Iraola reveals Liverpool double injury blow after Brentford win as 'massive' setbac (Football365) :: other
+2026-10-19 16:49:37 indexed 957 markets
+2026-10-19 16:50:32   drop[1-source] Heartbreaking injury for Gopher WBB (Minnesota News Network) :: University of Minnesota Golden Gophers women's basketball, wait 2nd source
+2026-10-19 16:50:41   llm groq-120b: rate limited, skip 303s
+2026-10-19 16:50:42   drop[unconfirmed] City's Semenyo out for up to eight weeks, Haaland may be fit to face AEK reut.rs/4irsDVc (Reuters) :: injury
+2026-10-19 16:53:03   drop[kind] Christian University Football Player Dies at 21 After Suffering Injury During Game (Beliefnet) :: other
+2026-10-19 16:57:31   drop[1-source] Ghana forward Semenyo ruled out for eight weeks with injury (TRT Afrika) :: Daniel Semenyo, wait 2nd source
+2026-10-19 16:59:42 indexed 957 markets
+2026-10-19 17:02:28   llm groq-120b: rate limited, skip 139s
+2026-10-19 17:02:28   drop[no-pick] Leeds Bradford Airport strike action suspended - but union warns action not ruled out (Yorkshire Evening Post) :: short
+2026-10-19 17:03:53 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 31)
