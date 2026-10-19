@@ -15294,3 +15294,28 @@
 2026-10-19 22:40:50 [pengwin] FRANCOFORTE-COLONIA: no Polymarket event (try 41)
 2026-10-19 22:40:53 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 41)
 2026-10-19 22:40:55 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 41)
+2026-10-19 22:41:25 [pengwin] Betis-Barcellona: no Polymarket event (try 43)
+2026-10-19 22:41:27 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 41)
+2026-10-19 22:41:30 [pengwin] BOLOGNA-INTER: no Polymarket event (try 41)
+2026-10-19 22:43:52   drop[1-source] Gateside service suspended at PTI airport in Greensboro (wfmynews2.com) :: PTI Airport (Greensboro), wait 2nd source
+2026-10-19 22:46:21   llm groq-120b: rate limited, skip 45s
+2026-10-19 22:46:22   drop[not-key] Patriots put WR Doubs on injured reserve after shoulder injury (WCVB) :: Jahan Doubs: injured reserve
+2026-10-19 22:46:50 indexed 929 markets
+2026-10-19 22:48:27   drop[kind] Injury crash reported on Lashley Street in Longmont (Police notes) (Longmont Times-Call) :: other
+2026-10-19 22:48:28   llm groq-120b: rate limited, skip 300s
+2026-10-19 22:48:28   drop[kind] Fremantle captain reflects on heartbreaking Grand Final injury (Zero Hanger) :: other
+2026-10-19 22:50:35   drop[kind] Japan launches mission to return samples from Mars moon reut.rs/4sklqda (Reuters) :: other
+2026-10-19 22:53:03   drop[unconfirmed] Dejan Kulusevski makes long-awaited Tottenham return after 526 days of injury hell (London Evening Standard) :: injury recovery
+2026-10-19 22:53:03   drop[kind] Police explain presence at suspended Archbishop Ibezim’s church service (Vanguard News) :: other
+2026-10-19 22:57:27 indexed 932 markets
+2026-10-19 22:57:32   drop[no-pick] Dejan Kulusevski makes Tottenham return 526 days after suffering knee injury (ESPN) :: short
+2026-10-19 22:57:32   llm groq-120b: rate limited, skip 188s
+2026-10-19 22:57:33   drop[not-key] Report: Patriots place Romeo Doubs on IR after shoulder injury (Ahn Fire Digital) :: Romeo Doubs: shoulder injury
+2026-10-19 23:03:31   drop[kind] Former New York State Assembly member Ari Espinal charged with stealing union funds politi (Politico) :: other
+2026-10-19 23:04:25   llm groq-120b: rate limited, skip 20s
+2026-10-19 23:04:25   drop[unconfirmed] Davante Adams to miss 6-10 weeks with hamstring injury (Turf Show Times) :: hamstring injury
+2026-10-19 23:07:28 indexed 927 markets
+2026-10-19 23:09:33   drop[not-key] Dominick Barlow (F, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Dominick Barlow: ruled out for opening night
+2026-10-19 23:09:52   drop[1-source] 76ers Dealt Another Injury Blow Ahead of Knicks Opener (Heavy.com) :: Philadelphia 76ers, wait 2nd source
+2026-10-19 23:10:39   llm groq-120b: rate limited, skip 202s
+2026-10-19 23:10:39   drop[no-market] US, Cuba trade barbs at UN ahead of sanctions vote reut.rs/3UASAZm (Reuters) :: United States and Cuba
