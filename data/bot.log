@@ -15431,3 +15431,26 @@
 2026-10-20 01:08:13   drop[not-key] T.J. Maguranyanga (DE, Washington Commanders) ruled out: healthy -> Out [NFL] (ESPN) :: T.J. Maguranyanga: injury
 2026-10-20 01:08:13   drop[not-key] Fabian Moreau (CB, Washington Commanders) ruled out: Active -> Out [NFL] (ESPN) :: Fabian Moreau: injury
 2026-10-20 01:10:48 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-20 01:12:33   llm groq-120b: rate limited, skip 13s
+2026-10-20 01:12:33   llm groq-20b: rate limited, skip 56s
+2026-10-20 01:13:03 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 45)
+2026-10-20 01:13:05 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 45)
+2026-10-20 01:13:33 [pengwin] Betis-Barcellona: no Polymarket event (try 47)
+2026-10-20 01:13:35 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 45)
+2026-10-20 01:13:37   llm groq-120b: rate limited, skip 73s
+2026-10-20 01:13:38 [pengwin] BOLOGNA-INTER: no Polymarket event (try 45)
+2026-10-20 01:14:08   llm groq-20b: rate limited, skip 871s
+2026-10-20 01:14:08 [pengwin] ROMA-SLOVAN BRATISLAVA: no LLM answer (try 4)
+2026-10-20 01:14:10 [pengwin] NAPOLI-BODØ/GLIMT: no LLM answer (try 4)
+2026-10-20 01:14:13 [pengwin] SPORTING-LASK: no LLM answer (try 3)
+2026-10-20 01:14:57   llm groq-120b: rate limited, skip 94s
+2026-10-20 01:17:07 indexed 939 markets
+2026-10-20 01:17:12   drop[1-source] City councilwoman suspended from committee duties (WREG.com) :: City Council, wait 2nd source
+2026-10-20 01:17:12   llm groq-120b: rate limited, skip 279s
+2026-10-20 01:26:30   drop[not-key] Elijah Arroyo (TE, Seattle Seahawks) ruled out: Doubtful -> Out [NFL] (ESPN) :: Elijah Arroyo: ruled out for Week 7 game
+2026-10-20 01:27:44 indexed 927 markets
+2026-10-20 01:28:35   drop[not-key] Bulls’ Claxton will miss the start of the season with a hamstring injury (Daily Herald) :: Bobby Claxton: will miss start of season due to hamstring injury
+2026-10-20 01:28:35   llm groq-120b: rate limited, skip 164s
+2026-10-20 01:37:42 indexed 929 markets
+2026-10-20 01:37:56   drop[not-key] Sixers’ Barlow Out At Least Two Weeks With Back Injury (Hoops Rumors) :: James Barlow: back injury
+2026-10-20 01:40:51 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)

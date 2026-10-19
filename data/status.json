@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-20T01:11:02",
+ "updated": "2026-10-20T01:41:07",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 653,
- "markets_indexed": 939,
- "news_processed": 301,
+ "llm_calls_today": 667,
+ "markets_indexed": 929,
+ "news_processed": 331,
  "cash": 84.02,
  "equity": 84.02,
  "start": 100.0,
@@ -15,25 +15,25 @@
    "groq-120b",
    "groq-20b"
   ],
-  "fallbacks": 12,
+  "fallbacks": 19,
   "errors": {
-   "groq-120b": "rate limited, skip 187s"
+   "groq-20b": "rate limited, skip 871s"
   },
   "rejects": {
    "team-not-named": 20,
-   "not-key": 30,
+   "not-key": 33,
    "side": 1,
-   "fluff": 74,
+   "fluff": 82,
    "kind": 22,
    "unconfirmed": 10,
    "no-market": 10,
-   "1-source": 18,
+   "1-source": 19,
    "no-pick": 5,
    "verify": 1
   },
   "calls": {
-   "groq-120b": 373,
-   "groq-20b": 280
+   "groq-120b": 384,
+   "groq-20b": 283
   }
  },
  "realized_pnl": -15.98
