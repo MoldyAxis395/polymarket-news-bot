@@ -16,7 +16,7 @@
    "reason": "pengwin exact: base pick home win",
    "conf": 1.0,
    "end": "2026-10-20T16:45:00+00:00",
-   "last_bid": 0.68,
+   "last_bid": 0.84,
    "book_err": false
   },
   {
@@ -70,7 +70,7 @@
    "reason": "pengwin exact: away win",
    "conf": 1.0,
    "end": "2026-10-20T16:45:00+00:00",
-   "last_bid": 0.76,
+   "last_bid": 0.89,
    "book_err": false
   },
   {
