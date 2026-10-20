@@ -1,28 +1,9 @@
 {
- "updated": "2026-10-20T20:37:12",
+ "updated": "2026-10-20T21:07:43",
  "start": 100.0,
- "cash": 86.83,
- "equity": 149.52,
+ "cash": 100.17,
+ "equity": 140.75,
  "open": [
-  {
-   "market_id": "5383472",
-   "question": "Will Fenerbah\u00e7e SK win on 2026-10-20?",
-   "slug": "ucl-fen-slp-2026-10-20-fen",
-   "outcome": "Yes",
-   "token": "17292323499489372545579302733363019995926339218858278157792616571347594716210",
-   "shares": 16.666666666666668,
-   "entry": 0.6,
-   "cost": 10.0,
-   "opened": 1792444348.6198163,
-   "opened_iso": "2026-10-19T21:12:28+00:00",
-   "news": "FENERBAHCE-SLAVIA PRAGA: 1 (esatto)",
-   "reason": "pengwin exact: base pick home win",
-   "conf": 1.0,
-   "end": "2026-10-20T16:45:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1792522031.73437
-  },
   {
    "market_id": "5410200",
    "question": "Liverpool FC vs. Villarreal CF: 1st Half O/U 0.5",
@@ -38,7 +19,7 @@
    "reason": "pengwin exact: replicates casa over 0.5 primo tempo",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.75,
+   "last_bid": 0.99,
    "book_err": false
   },
   {
@@ -56,25 +37,7 @@
    "reason": "pengwin exact: home over 1.5",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.66,
-   "book_err": false
-  },
-  {
-   "market_id": "5383447",
-   "question": "Will BV Borussia 09 Dortmund win on 2026-10-20?",
-   "slug": "ucl-sf-bvb-2026-10-20-bvb",
-   "outcome": "Yes",
-   "token": "67737901129405236712398051831182894456477901257188893908694799670296273331804",
-   "shares": 13.333333333333334,
-   "entry": 0.75,
-   "cost": 10.0,
-   "opened": 1792448047.8311763,
-   "opened_iso": "2026-10-19T22:14:07+00:00",
-   "news": "SABAH BAKU-BORUSSIA DORTMUND: 2 (esatto)",
-   "reason": "pengwin exact: away win",
-   "conf": 1.0,
-   "end": "2026-10-20T16:45:00+00:00",
-   "last_bid": 0.999,
+   "last_bid": 0.59,
    "book_err": false
   },
   {
@@ -92,7 +55,7 @@
    "reason": "pengwin approx: home team at least 1 goal",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.78,
+   "last_bid": 0.72,
    "book_err": false
   },
   {
@@ -114,8 +77,8 @@
    "book_err": false
   }
  ],
- "closed_count": 24,
- "realized_pnl": 46.83,
+ "closed_count": 26,
+ "realized_pnl": 40.17,
  "pages": {
   "pending": 125,
   "picked": 1,

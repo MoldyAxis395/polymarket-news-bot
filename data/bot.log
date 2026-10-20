@@ -16063,3 +16063,23 @@
 2026-10-20 20:34:43 indexed 1055 markets
 2026-10-20 20:34:48   drop[kind] Injury so rare the operation has only been done twice before in Europe (Lente Desportiva) :: other
 2026-10-20 20:37:07   drop[1-source] Ronaldo Suspended 30 Days and Fined After Portugal Walkout (Vocal) :: Cristiano Ronaldo, wait 2nd source
+2026-10-20 20:44:01   llm groq-120b: rate limited, skip 83s
+2026-10-20 20:44:02   drop[kind] Mayville State QB Matt Donovan’s Life Has Been ‘Saved’ After Suffering a Traumatic Brain I (Us Weekly) :: other
+2026-10-20 20:44:43 indexed 1056 markets
+2026-10-20 20:45:15   drop[no-market] SpaceX investors, ahead of results, press Musk on Tesla merger reut.rs/4yCjbDx (Reuters) :: Tesla
+2026-10-20 20:46:22   drop[unconfirmed] Stephen Curry expected to play Wednesday against the Lakers after injury scare (Silver Screen and Roll) :: expected to play after injury scare
+2026-10-20 20:46:23   drop[kind] RFK’s granddaughter Kyle Kennedy dies at 42, six years after spinal cord injury (MEAWW News) :: other
+2026-10-20 20:52:59 bluesky error x1: HTTPSConnectionPool(host='public.api.bsky.app', port=443): Read timed out. (read timeout=15)
+2026-10-20 20:53:13   drop[1-source] Perran Moon: Second Labour MP suspended amid questions over £50,000 taxpayer-backed Covid  (GB News) :: Perran Moon, wait 2nd source
+2026-10-20 20:54:29 [pengwin]   book error Will BV Borussia 09 Dortmund win on 2026-10-20?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=67737901129405236712398051831182894456477901257188893908694799670296273331804
+2026-10-20 20:54:44 indexed 1040 markets
+2026-10-20 20:56:31 [pengwin]   book error Will Fenerbahçe SK win on 2026-10-20?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=17292323499489372545579302733363019995926339218858278157792616571347594716210
+2026-10-20 21:00:41 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x7f4b86a82f90>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
+2026-10-20 21:02:30   drop[1-source] CPI | Salesforce Strikes $5.66 Billion Deal to Acquire Braze (PYMNTS.com) :: Salesforce acquiring Braze, wait 2nd source
+2026-10-20 21:04:39 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +3.33 :: Will BV Borussia 09 Dortmund win on 2026-10-20?
+2026-10-20 21:04:44 indexed 986 markets
+2026-10-20 21:04:49   drop[unconfirmed] Lewis Miley set for new headache after Newcastle source's injury reveal (Football Insider) :: new injury concern may sideline him
+2026-10-20 21:07:06   drop[1-source] Sanderson’s return much needed for Senators’ injury-riddled blueline (Daily Faceoff) :: Thomas Sanderson, wait 2nd source
+2026-10-20 21:07:06   llm groq-120b: rate limited, skip 1367s
+2026-10-20 21:07:07   drop[1-source] Cornwall MP suspended by party amid COVID loan investigation (Cornish times) :: Cornwall Conservative Party, wait 2nd source
+2026-10-20 21:07:42 [pengwin]   SELL Yes @ 0.000 (resolved) pnl -10.00 :: Will Fenerbahçe SK win on 2026-10-20?

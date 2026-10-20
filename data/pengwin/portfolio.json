@@ -1,25 +1,6 @@
 {
- "cash": 86.83340596555138,
+ "cash": 100.1667392988847,
  "positions": [
-  {
-   "market_id": "5383472",
-   "question": "Will Fenerbah\u00e7e SK win on 2026-10-20?",
-   "slug": "ucl-fen-slp-2026-10-20-fen",
-   "outcome": "Yes",
-   "token": "17292323499489372545579302733363019995926339218858278157792616571347594716210",
-   "shares": 16.666666666666668,
-   "entry": 0.6,
-   "cost": 10.0,
-   "opened": 1792444348.6198163,
-   "opened_iso": "2026-10-19T21:12:28+00:00",
-   "news": "FENERBAHCE-SLAVIA PRAGA: 1 (esatto)",
-   "reason": "pengwin exact: base pick home win",
-   "conf": 1.0,
-   "end": "2026-10-20T16:45:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1792522031.73437
-  },
   {
    "market_id": "5410200",
    "question": "Liverpool FC vs. Villarreal CF: 1st Half O/U 0.5",
@@ -35,7 +16,7 @@
    "reason": "pengwin exact: replicates casa over 0.5 primo tempo",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.75,
+   "last_bid": 0.99,
    "book_err": false
   },
   {
@@ -53,25 +34,7 @@
    "reason": "pengwin exact: home over 1.5",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.66,
-   "book_err": false
-  },
-  {
-   "market_id": "5383447",
-   "question": "Will BV Borussia 09 Dortmund win on 2026-10-20?",
-   "slug": "ucl-sf-bvb-2026-10-20-bvb",
-   "outcome": "Yes",
-   "token": "67737901129405236712398051831182894456477901257188893908694799670296273331804",
-   "shares": 13.333333333333334,
-   "entry": 0.75,
-   "cost": 10.0,
-   "opened": 1792448047.8311763,
-   "opened_iso": "2026-10-19T22:14:07+00:00",
-   "news": "SABAH BAKU-BORUSSIA DORTMUND: 2 (esatto)",
-   "reason": "pengwin exact: away win",
-   "conf": 1.0,
-   "end": "2026-10-20T16:45:00+00:00",
-   "last_bid": 0.999,
+   "last_bid": 0.59,
    "book_err": false
   },
   {
@@ -89,7 +52,7 @@
    "reason": "pengwin approx: home team at least 1 goal",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.78,
+   "last_bid": 0.72,
    "book_err": false
   },
   {
@@ -663,6 +626,52 @@
    "pnl": 5.625,
    "why": "resolved",
    "closed_iso": "2026-10-18T16:12:01+00:00"
+  },
+  {
+   "market_id": "5383447",
+   "question": "Will BV Borussia 09 Dortmund win on 2026-10-20?",
+   "slug": "ucl-sf-bvb-2026-10-20-bvb",
+   "outcome": "Yes",
+   "token": "67737901129405236712398051831182894456477901257188893908694799670296273331804",
+   "shares": 13.333333333333334,
+   "entry": 0.75,
+   "cost": 10.0,
+   "opened": 1792448047.8311763,
+   "opened_iso": "2026-10-19T22:14:07+00:00",
+   "news": "SABAH BAKU-BORUSSIA DORTMUND: 2 (esatto)",
+   "reason": "pengwin exact: away win",
+   "conf": 1.0,
+   "end": "2026-10-20T16:45:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1792523679.3422253,
+   "exit": 1.0,
+   "pnl": 3.333333333333334,
+   "why": "resolved",
+   "closed_iso": "2026-10-20T19:04:40+00:00"
+  },
+  {
+   "market_id": "5383472",
+   "question": "Will Fenerbah\u00e7e SK win on 2026-10-20?",
+   "slug": "ucl-fen-slp-2026-10-20-fen",
+   "outcome": "Yes",
+   "token": "17292323499489372545579302733363019995926339218858278157792616571347594716210",
+   "shares": 16.666666666666668,
+   "entry": 0.6,
+   "cost": 10.0,
+   "opened": 1792444348.6198163,
+   "opened_iso": "2026-10-19T21:12:28+00:00",
+   "news": "FENERBAHCE-SLAVIA PRAGA: 1 (esatto)",
+   "reason": "pengwin exact: base pick home win",
+   "conf": 1.0,
+   "end": "2026-10-20T16:45:00+00:00",
+   "last_bid": null,
+   "book_err": true,
+   "settle_retry": 1792523862.358023,
+   "exit": 0.0,
+   "pnl": -10.0,
+   "why": "resolved",
+   "closed_iso": "2026-10-20T19:07:42+00:00"
   }
  ],
  "cooldown": {
@@ -689,6 +698,8 @@
   "5263880": 1792267863.9293058,
   "5267259": 1792283766.774074,
   "5269776": 1792284790.8484263,
-  "5314365": 1792350721.7238474
+  "5314365": 1792350721.7238474,
+  "5383447": 1792533880.1614914,
+  "5383472": 1792534062.9988928
  }
 }
