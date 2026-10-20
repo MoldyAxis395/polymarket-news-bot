@@ -16102,3 +16102,13 @@
 2026-10-20 21:34:46 indexed 986 markets
 2026-10-20 21:35:36   drop[no-market] Boeing wins FAA approval for 737 Max 10 after years of delays (CNBC) :: Boeing
 2026-10-20 21:37:18   drop[team-not-named] Romeo Doubs injury opens door for other players (NBC Sports) :: Green Bay Packers
+2026-10-20 21:39:28   drop[kind] Chicago Bears QB Caleb Williams accused of ‘false flag’ injury boogeyman (ChiCitySports) :: other
+2026-10-20 21:39:29   drop[1-source] Dani Olmo adds to Barcelona’s injury problems ahead of El Clasico (Barca Blaugranes) :: Dani Olmo, wait 2nd source
+2026-10-20 21:39:29   llm groq-120b: rate limited, skip 90s
+2026-10-20 21:39:31   drop[verify] Disaster for Barcelona! Dani Olmo suffers injury against PSG just days before El Clasico (Dailysports) :: Olmo not star enough to shift market 5+ points
+2026-10-20 21:39:32   drop[kind] Kyle Monangai, RB, listed as Questionable (Chicago Bears) (Total Apex Sports) :: other
+2026-10-20 21:44:46 indexed 980 markets
+2026-10-20 21:46:37   drop[1-source] Texans star set for first game in two years after devastating knee injury (The Sun) :: Houston Texans, wait 2nd source
+2026-10-20 21:46:37   llm groq-120b: rate limited, skip 415s
+2026-10-20 21:46:37   drop[kind] Driver Escapes Injury After Vehicle Leaves Route 208, Hits Embankment in Elk Township (exploreClarion) :: other
+2026-10-20 21:48:33 shift over, state saved
