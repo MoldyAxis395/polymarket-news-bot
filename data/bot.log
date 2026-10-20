@@ -16135,3 +16135,24 @@
 2026-10-20 22:53:16 [pengwin] Betis-Barcellona: no Polymarket event (try 62)
 2026-10-20 22:53:18 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 60)
 2026-10-20 22:53:21 [pengwin] BOLOGNA-INTER: no Polymarket event (try 60)
+2026-10-20 22:56:49 NEWS [ESPN 14m] Marco Rossi (C, Vancouver Canucks) ruled out: Day-To-Day -> Out [NHL]
+2026-10-20 22:56:49   skip Hurricanes :: Hurricanes vs. Canucks (low conf 0.6)
+2026-10-20 22:56:49   llm groq-120b: rate limited, skip 270s
+2026-10-20 22:56:49   drop[1-source] Labour MP Perran Moon suspended after questions over Covid bounceback loan (The Independent) :: Perran Moon, wait 2nd source
+2026-10-20 22:58:46 [pengwin]   settle error FC Porto vs. PSV: FC Porto O/U 1.5: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-20 22:58:48   drop[not-key] Kylan Boswell (G, Charlotte Hornets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Kylan Boswell: day-to-week
+2026-10-20 22:58:48   drop[not-key] Jonathan Isaac (F, Orlando Magic) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Jonathan Isaac: Day‑to‑day rule‑out
+2026-10-20 22:58:48   drop[unconfirmed] Anthony Black (G, Orlando Magic) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Day‑to‑day injury status
+2026-10-20 22:59:39 indexed 976 markets
+2026-10-20 23:07:00 NEWS [ESPN 12m] Alexander Wennberg (C, San Jose Sharks) ruled out: Day-To-Day -> Out [NHL]
+2026-10-20 23:07:00   skip Canadiens :: Sharks vs. Canadiens (low conf 0.6)
+2026-10-20 23:09:40 indexed 974 markets
+2026-10-20 23:10:39   drop[not-key] Tyler Bilodeau (shoulder) ruled out vs. Charlotte (NBC Sports) :: Tyler Bilodeau: shoulder injury
+2026-10-20 23:10:43   llm groq-120b: rate limited, skip 187s
+2026-10-20 23:10:44   drop[kind] California law school wins fight over 'Hastings' namesake as US Supreme Court denies chall (Reuters) :: other
+2026-10-20 23:15:13   drop[not-key] Trabzonspor president among suspended football officials in Turkey (vijesti.me) :: Ahmet Ağaoğlu: President suspended among football officials
+2026-10-20 23:19:43 indexed 974 markets
+2026-10-20 23:22:05   llm groq-120b: rate limited, skip 229s
+2026-10-20 23:22:05   drop[no-pick] Second Labour MP suspended over Covid loan repayments (BBC) :: short
+2026-10-20 23:23:32 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 61)
+2026-10-20 23:23:35 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 61)

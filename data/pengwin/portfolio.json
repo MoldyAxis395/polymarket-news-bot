@@ -34,9 +34,9 @@
    "reason": "pengwin exact: home over 1.5",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.001,
+   "last_bid": null,
    "book_err": false,
-   "settle_retry": 1792529888.3957894
+   "settle_retry": 1792531739.224276
   },
   {
    "market_id": "5410085",
