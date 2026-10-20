@@ -16082,3 +16082,26 @@
 2026-10-20 21:53:16 [pengwin]   SELL Yes @ 0.000 (resolved) pnl -10.00 :: Will Fenerbahçe SK win on 2026-10-20?
 2026-10-20 21:53:17 [pengwin]   book error Will BV Borussia 09 Dortmund win on 2026-10-20?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=67737901129405236712398051831182894456477901257188893908694799670296273331804
 2026-10-20 21:53:17 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +3.33 :: Will BV Borussia 09 Dortmund win on 2026-10-20?
+2026-10-20 21:56:37   drop[kind] Celtics news: Mitchell Robinson suffers ankle injury scare in first Boston game vs. Piston (ClutchPoints) :: other
+2026-10-20 21:59:29 indexed 980 markets
+2026-10-20 22:05:52   drop[1-source] Ousmane Dembele injured – a Barcelona star also has to come off early (Goal.com) :: Ousmane Dembele, wait 2nd source
+2026-10-20 22:08:22   drop[team-not-named] MP suspended over claims he did not repay taxpayer-funded Covid loan | ITV News (ITVX) :: UK Parliament / Conservative Party
+2026-10-20 22:08:41   drop[not-key] Bub Means (WR, Cleveland Browns) ruled out: healthy -> Out [NFL] (ESPN) :: Bub Means: ruled out due to injury
+2026-10-20 22:09:32 indexed 987 markets
+2026-10-20 22:10:28   llm groq-120b: rate limited, skip 159s
+2026-10-20 22:10:28   drop[kind] MSOC: Huskies head back to the valley Wednesday to resume suspended UTRGV match (Houston Christian University Athletics) :: other
+2026-10-20 22:12:47   drop[kind] SpaceX quarterly revenue jumps, beats estimates as AI business surges (Reuters) :: other
+2026-10-20 22:12:47   drop[1-source] Cafeteria license at Advocate Illinois Masonic suspended after health inspection reveals c (Chicago Tribune) :: Advocate Illinois Masonic, wait 2nd source
+2026-10-20 22:15:06   drop[no-market] Commanders' Terry McLaurin to miss remainder of season after injury, will undergo surgery (WJLA) :: Washington Commanders
+2026-10-20 22:15:06   llm groq-120b: rate limited, skip 199s
+2026-10-20 22:15:07   drop[kind] Case report links uncertain initial injury with later multidrug-resistant wound colonizati (Bioengineer.org) :: other
+2026-10-20 22:15:07   drop[kind] Case-control study finds altered metal levels, oxidative stress and inflammation in spinal (Bioengineer.org) :: other
+2026-10-20 22:17:34   drop[kind] ‘Shame on You!’ ESPN’s Jeff Saturday Goes Off on Philadelphia Eagles Over Handling of Jale (Mediaite) :: other
+2026-10-20 22:20:08 indexed 993 markets
+2026-10-20 22:20:13   drop[kind] Female British tourist suffers serious injury in violent France riots as projectile 'tears (GB News) :: other
+2026-10-20 22:22:09 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 59)
+2026-10-20 22:22:12 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 59)
+2026-10-20 22:22:43   llm groq-120b: rate limited, skip 126s
+2026-10-20 22:22:44 [pengwin] Betis-Barcellona: no Polymarket event (try 61)
+2026-10-20 22:22:47 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 59)
+2026-10-20 22:22:50 [pengwin] BOLOGNA-INTER: no Polymarket event (try 59)
