@@ -16245,3 +16245,22 @@
 2026-10-21 00:47:43   drop[kind] Rams sign kicker Brandon McManus following season-ending injury to Blake Grupe (The New York Times) :: other
 2026-10-21 00:47:44   drop[team-not-named] Thigh injury ends Iga Swiatek's season and WTA Finals bid (Dawn) :: Poland
 2026-10-21 00:49:52 indexed 962 markets
+2026-10-21 00:55:18   drop[kind] Ryan Day on Julian Sayin's injury, Luke Fahey taking the reins (247Sports) :: other
+2026-10-21 00:55:31 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 64)
+2026-10-21 00:55:34 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 64)
+2026-10-21 00:56:05   llm groq-120b: rate limited, skip 32s
+2026-10-21 00:56:05 [pengwin] Betis-Barcellona: no Polymarket event (try 66)
+2026-10-21 00:56:08 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 64)
+2026-10-21 00:56:11 [pengwin] BOLOGNA-INTER: no Polymarket event (try 64)
+2026-10-21 00:57:28 [pengwin]   book error Will Sporting CP win on 2026-10-21?: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-21 00:59:54 indexed 967 markets
+2026-10-21 01:00:10   drop[1-source] Panthers’ Jacob Markstrom Out With Injury (Pro Hockey Rumors) :: Jacob Markstrom, wait 2nd source
+2026-10-21 01:06:56   drop[kind] Lynchburg woman runs NYC Marathon to raise brain injury awareness (WSET) :: other
+2026-10-21 01:09:22   drop[1-source] A.C.L. Construction shares suspended on TSX Venture Exchange | 2026-10-20 | Investing News (Stockhouse) :: A.C.L. Construction, wait 2nd source
+2026-10-21 01:10:28 indexed 979 markets
+2026-10-21 01:16:04   drop[kind] Brit tourist 'seriously injured' after 32ft plunge from cliff at popular beach (The Sun) :: other
+2026-10-21 01:18:11   drop[1-source] Patriots news: New England CB takes first step in injury return ahead of TNF clash vs. Bea (ClutchPoints) :: J.C. Jackson, wait 2nd source
+2026-10-21 01:19:55 indexed 979 markets
+2026-10-21 01:23:02   llm groq-120b: rate limited, skip 12s
+2026-10-21 01:23:02   drop[kind] BetMGM BetDefense: 1st Quarter NBA Injury Protection (sports.betmgm.com) :: other
+2026-10-21 01:23:03   drop[unconfirmed] Gala Osimhen needs patience after injury return (Punch Newspapers) :: needs patience after injury return
