@@ -15630,3 +15630,10 @@
 2026-10-20 07:50:06 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
 2026-10-20 07:52:35 indexed 865 markets
 2026-10-20 07:52:51   drop[not-key] Manchester City's Antoine Semenyo is set to be out of action for up to eight weeks with a  (Blueprint Newspapers) :: Antoine Semenyo: will miss up to eight weeks due to leg injury
+2026-10-20 07:57:15   drop[1-source] UEFA Champions League: Barcelona hit by double injury blow before PSG trip (Blueprint Newspapers) :: Pedro González López, wait 2nd source
+2026-10-20 08:02:10   drop[1-source] Pathahewaheta PS temporarily suspended (Sri Lanka Mirror) :: Pathahewaheta PS, wait 2nd source
+2026-10-20 08:02:36 indexed 869 markets
+2026-10-20 08:04:13   drop[1-source] Liverpool FC team news vs. Villarreal – Available squad with 1 doubt & 7 ruled out (This Is Anfield) :: Liverpool FC, wait 2nd source
+2026-10-20 08:04:14   drop[kind] Second member of prison staff suspended as part of ongoing drugs-related investigation (Guernsey Press) :: other
+2026-10-20 08:04:14   drop[team-not-named] 49ers Offense Falters After Mike Evans Exits With Injury (SuaraGarut.ID) :: Tampa Bay Buccaneers
+2026-10-20 08:06:17 shift over, state saved
