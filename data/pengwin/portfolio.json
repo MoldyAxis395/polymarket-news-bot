@@ -628,29 +628,6 @@
    "closed_iso": "2026-10-18T16:12:01+00:00"
   },
   {
-   "market_id": "5383447",
-   "question": "Will BV Borussia 09 Dortmund win on 2026-10-20?",
-   "slug": "ucl-sf-bvb-2026-10-20-bvb",
-   "outcome": "Yes",
-   "token": "67737901129405236712398051831182894456477901257188893908694799670296273331804",
-   "shares": 13.333333333333334,
-   "entry": 0.75,
-   "cost": 10.0,
-   "opened": 1792448047.8311763,
-   "opened_iso": "2026-10-19T22:14:07+00:00",
-   "news": "SABAH BAKU-BORUSSIA DORTMUND: 2 (esatto)",
-   "reason": "pengwin exact: away win",
-   "conf": 1.0,
-   "end": "2026-10-20T16:45:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1792523679.3422253,
-   "exit": 1.0,
-   "pnl": 3.333333333333334,
-   "why": "resolved",
-   "closed_iso": "2026-10-20T19:04:40+00:00"
-  },
-  {
    "market_id": "5383472",
    "question": "Will Fenerbah\u00e7e SK win on 2026-10-20?",
    "slug": "ucl-fen-slp-2026-10-20-fen",
@@ -667,11 +644,34 @@
    "end": "2026-10-20T16:45:00+00:00",
    "last_bid": null,
    "book_err": true,
-   "settle_retry": 1792523862.358023,
+   "settle_retry": 1792526596.007375,
    "exit": 0.0,
    "pnl": -10.0,
    "why": "resolved",
-   "closed_iso": "2026-10-20T19:07:42+00:00"
+   "closed_iso": "2026-10-20T19:53:16+00:00"
+  },
+  {
+   "market_id": "5383447",
+   "question": "Will BV Borussia 09 Dortmund win on 2026-10-20?",
+   "slug": "ucl-sf-bvb-2026-10-20-bvb",
+   "outcome": "Yes",
+   "token": "67737901129405236712398051831182894456477901257188893908694799670296273331804",
+   "shares": 13.333333333333334,
+   "entry": 0.75,
+   "cost": 10.0,
+   "opened": 1792448047.8311763,
+   "opened_iso": "2026-10-19T22:14:07+00:00",
+   "news": "SABAH BAKU-BORUSSIA DORTMUND: 2 (esatto)",
+   "reason": "pengwin exact: away win",
+   "conf": 1.0,
+   "end": "2026-10-20T16:45:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1792526597.0024676,
+   "exit": 1.0,
+   "pnl": 3.333333333333334,
+   "why": "resolved",
+   "closed_iso": "2026-10-20T19:53:17+00:00"
   }
  ],
  "cooldown": {
@@ -699,7 +699,7 @@
   "5267259": 1792283766.774074,
   "5269776": 1792284790.8484263,
   "5314365": 1792350721.7238474,
-  "5383447": 1792533880.1614914,
-  "5383472": 1792534062.9988928
+  "5383472": 1792536796.5477083,
+  "5383447": 1792536797.5480778
  }
 }
