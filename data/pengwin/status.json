@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-20T21:07:43",
+ "updated": "2026-10-20T21:38:05",
  "start": 100.0,
  "cash": 100.17,
- "equity": 140.75,
+ "equity": 140.76,
  "open": [
   {
    "market_id": "5410200",
@@ -19,7 +19,7 @@
    "reason": "pengwin exact: replicates casa over 0.5 primo tempo",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.99,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -37,7 +37,7 @@
    "reason": "pengwin exact: home over 1.5",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.59,
+   "last_bid": 0.35,
    "book_err": false
   },
   {
@@ -55,7 +55,7 @@
    "reason": "pengwin approx: home team at least 1 goal",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.72,
+   "last_bid": 0.999,
    "book_err": false
   },
   {

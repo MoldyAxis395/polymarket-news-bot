@@ -16,7 +16,7 @@
    "reason": "pengwin exact: replicates casa over 0.5 primo tempo",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.99,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -34,7 +34,7 @@
    "reason": "pengwin exact: home over 1.5",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.59,
+   "last_bid": 0.35,
    "book_err": false
   },
   {
@@ -52,7 +52,7 @@
    "reason": "pengwin approx: home team at least 1 goal",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.72,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
