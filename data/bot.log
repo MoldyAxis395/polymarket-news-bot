@@ -16183,3 +16183,41 @@
 2026-10-20 23:52:19   drop[1-source] Party directs suspended Obuasi SHTS Head, Zakaria Abdulai to step down. (Modern Ghana) :: Zakaria Abdulai, wait 2nd source
 2026-10-20 23:53:52   drop[verify] Dre Greenlaw (LB, San Francisco 49ers) cleared to play: Suspension -> Active [NFL] (ESPN) :: depth player, insufficient impact
 2026-10-20 23:54:04 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 62)
+2026-10-20 23:54:07 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 62)
+2026-10-20 23:54:39 [pengwin] Betis-Barcellona: no Polymarket event (try 64)
+2026-10-20 23:54:41 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 62)
+2026-10-20 23:54:44 [pengwin] BOLOGNA-INTER: no Polymarket event (try 62)
+2026-10-20 23:55:46 [pengwin]   book error VfB Stuttgart vs. Club Atlético de Madrid: VfB Stu: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=114246874882288638558970998173437890466728653696619061208192990768324527629392
+2026-10-20 23:55:46 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.66 :: VfB Stuttgart vs. Club Atlético de Madrid: VfB Stuttgart O/U 0.5
+2026-10-20 23:59:49 [pengwin]   book error Liverpool FC vs. Villarreal CF: 1st Half O/U 0.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=20199353447013759884611680072503494209126566169160092749145317395483834176377
+2026-10-20 23:59:49 indexed 960 markets
+2026-10-21 00:00:09 [pengwin]   settle error Liverpool FC vs. Villarreal CF: 1st Half O/U 0.5: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-21 00:00:09 [pengwin]   book error FC Porto vs. PSV: FC Porto O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=26061073931048895611771353314216997708705281459853475138132989891441233644671
+2026-10-21 00:01:42   drop[1-source] Urban Meyer confused by Ohio State quarterback situation after Julian Sayin injury (thecomeback.com) :: Julian Sayin, wait 2nd source
+2026-10-21 00:03:42   drop[team-not-named] Man Utd Injuries: Every Player Doubtful, Ruled Out of Critical Como Clash (Sports Illustrated) :: Manchester United
+2026-10-21 00:03:42   llm groq-120b: rate limited, skip 85s
+2026-10-21 00:03:43   drop[1-source] Samsung Lions breathe easier as injured Koo Ja-wook returns to action (Korea JoongAng Daily) :: Koo Ja-wook, wait 2nd source
+2026-10-21 00:08:18   drop[team-not-named] PSG Overcomes Dembélé Injury to Score Four Against Barcelona (조선일보) :: Paris Saint-Germain
+2026-10-21 00:09:51 indexed 966 markets
+2026-10-21 00:10:14 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.66 :: Liverpool FC vs. Villarreal CF: 1st Half O/U 0.5
+2026-10-21 00:10:15 [pengwin]   SELL Over @ 0.000 (resolved) pnl -10.00 :: FC Porto vs. PSV: FC Porto O/U 1.5
+2026-10-21 00:10:55   drop[no-market] NFL won’t punish Eagles over handling of Hurts’ blood clot injury (WBMA) :: Philadelphia Eagles
+2026-10-21 00:10:55   llm groq-120b: rate limited, skip 251s
+2026-10-21 00:10:57   drop[1-source] Jung Kwan Jang's Mooney Sidelined by Knee Injury (조선일보) :: Jung Kwan Jang, wait 2nd source
+2026-10-21 00:15:16   llm groq-120b: rate limited, skip 32s
+2026-10-21 00:15:16   drop[team-not-named] Gaithersburg Man Sentenced to 100 Years, With All But 35 Suspended, for Rockville Park Sho (The MoCo Show -) :: 
+2026-10-21 00:17:35   drop[1-source] NFL Referee Larry Smith Reportedly Out for Season After Suffering Leg Injury, Slipping on  (Bleacher Report) :: Larry Smith, wait 2nd source
+2026-10-21 00:19:49 indexed 966 markets
+2026-10-21 00:20:02   llm groq-120b: rate limited, skip 24s
+2026-10-21 00:20:02   drop[kind] Child reports reveal distinct clues to self-injury in preadolescents (Bioengineer.org) :: other
+2026-10-21 00:21:17   drop[no-market] Caleb Martin (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Dallas Mavericks
+2026-10-21 00:21:17   llm groq-120b: rate limited, skip 238s
+2026-10-21 00:21:18   drop[unconfirmed] Tarik Biberovic (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: right heel bursitis
+2026-10-21 00:21:18   drop[unconfirmed] Dereck Lively II (C, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: surgery
+2026-10-21 00:21:18   drop[unconfirmed] Santi Aldama (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: injury
+2026-10-21 00:21:19   drop[not-key] Blake Hinson (F, Utah Jazz) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Blake Hinson: injury
+2026-10-21 00:21:19   drop[not-key] Tony Bradley (C, Utah Jazz) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Tony Bradley: day-to-day injury
+2026-10-21 00:21:20   drop[unconfirmed] Trey Alexander (G, Utah Jazz) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: bone bruise
+2026-10-21 00:22:11   drop[no-market] Caleb Martin (thumb) ruled out vs. Houston (NBC Sports) :: Houston Texans
+2026-10-21 00:22:42 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-21 00:23:19   drop[not-key] Carson Steele (RB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: Carson Steele: injury
