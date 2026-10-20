@@ -52,3 +52,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-19T22:13:58+00:00,BUY,FC Porto vs. PSV: FC Porto O/U 1.5,Over,15.15,0.6600,10.00,,PORTO-PSV: FC Porto O/U 1.5 Over (esatto) | pengwin exact: home over 1.5
 2026-10-19T22:14:07+00:00,BUY,Will BV Borussia 09 Dortmund win on 2026-10-20?,Yes,13.33,0.7500,10.00,,SABAH BAKU-BORUSSIA DORTMUND: 2 (esatto) | pengwin exact: away win
 2026-10-19T22:44:02+00:00,BUY,VfB Stuttgart vs. Club Atlético de Madrid: VfB Stuttgart O/U 0.5,Over,12.66,0.7900,10.00,,STOCCARDA-ATLETICO MADRID: MULTIGOL 1-4 CASA (approssimato) | pengwin approx: home team at least 1 goal
+2026-10-19T23:44:11+00:00,BUY,Will Sporting CP win on 2026-10-21?,Yes,12.35,0.8100,10.00,,SPORTING-LASK: 1 (esatto) | pengwin exact: base pick home win
