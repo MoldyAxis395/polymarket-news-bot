@@ -16221,3 +16221,27 @@
 2026-10-21 00:22:11   drop[no-market] Caleb Martin (thumb) ruled out vs. Houston (NBC Sports) :: Houston Texans
 2026-10-21 00:22:42 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-21 00:23:19   drop[not-key] Carson Steele (RB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: Carson Steele: injury
+2026-10-21 00:25:13 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 63)
+2026-10-21 00:25:16 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 63)
+2026-10-21 00:25:47 [pengwin] Betis-Barcellona: no Polymarket event (try 65)
+2026-10-21 00:25:50 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 63)
+2026-10-21 00:25:52   llm groq-120b: rate limited, skip 104s
+2026-10-21 00:25:53 [pengwin] BOLOGNA-INTER: no Polymarket event (try 63)
+2026-10-21 00:26:46   drop[team-not-named] Blake Hinson (hamstring) ruled out vs. Memphis (NBC Sports) :: Tennessee Titans
+2026-10-21 00:26:47   drop[not-key] Chicago Bears injury report: Jonah Jackson returns to practice Tuesday in estimated report (Shaw Local) :: Jonah Jackson: player returns
+2026-10-21 00:29:50 indexed 963 markets
+2026-10-21 00:31:26   drop[team-not-named] Patriots vs. Bears Tuesday injury report: Carlton Davis III returns, leaving three non-par (Pats Pulpit) :: Tampa Bay Buccaneers
+2026-10-21 00:31:26   llm groq-120b: rate limited, skip 115s
+2026-10-21 00:31:26   drop[kind] Injury-Hit Manchester United Faces Champions League Clash with Como (조선일보) :: other
+2026-10-21 00:33:42   llm groq-120b: rate limited, skip 87s
+2026-10-21 00:33:42   drop[kind] Raleigh targets dangerous crashes with safety plan (ABC11 News) :: other
+2026-10-21 00:33:43   drop[team-not-named] Trey Alexander (knee) ruled out vs. Memphis (NBC Sports) :: Arkansas Razorbacks
+2026-10-21 00:34:34   drop[side] Dean Wade (F, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: 76ers vs. Knicks -> 76ers vs fact ruled_out: Dean Wade (Philadelphia 76ers, nba), bad for Philadelphia 76ers. Day-To-Day
+2026-10-21 00:35:58   drop[team-not-named] Dean Wade (ankle) ruled out vs. New York (NBC Sports) :: Cleveland Guardians
+2026-10-21 00:39:52 indexed 962 markets
+2026-10-21 00:41:55   drop[not-key] Judd Caulfield (RW, Anaheim Ducks) ruled out: healthy -> Out [NHL] (ESPN) :: Judd Caulfield: injury
+2026-10-21 00:45:17   drop[kind] Acute kidney injury linked to mortality in hospitalized COVID-19 cohort (Bioengineer.org) :: other
+2026-10-21 00:47:43   llm groq-120b: rate limited, skip 301s
+2026-10-21 00:47:43   drop[kind] Rams sign kicker Brandon McManus following season-ending injury to Blake Grupe (The New York Times) :: other
+2026-10-21 00:47:44   drop[team-not-named] Thigh injury ends Iga Swiatek's season and WTA Finals bid (Dawn) :: Poland
+2026-10-21 00:49:52 indexed 962 markets
