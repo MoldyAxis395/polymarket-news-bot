@@ -16264,3 +16264,28 @@
 2026-10-21 01:23:02   llm groq-120b: rate limited, skip 12s
 2026-10-21 01:23:02   drop[kind] BetMGM BetDefense: 1st Quarter NBA Injury Protection (sports.betmgm.com) :: other
 2026-10-21 01:23:03   drop[unconfirmed] Gala Osimhen needs patience after injury return (Punch Newspapers) :: needs patience after injury return
+2026-10-21 01:25:35   drop[1-source] Star Tennessee Basketball Point Guard Exits Exhibition at Duke With Injury (Rocky Top Insider) :: Dalton Knecht, wait 2nd source
+2026-10-21 01:25:36   llm groq-120b: rate limited, skip 122s
+2026-10-21 01:25:37   drop[not-key] Ohio State’s Julian Sayin out ‘indefinitely ‘ with elbow injury, Ryan Day announces (ClutchPoints) :: Julian Sayin: injury
+2026-10-21 01:26:04 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 65)
+2026-10-21 01:26:07 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 65)
+2026-10-21 01:26:38 [pengwin] Betis-Barcellona: no Polymarket event (try 67)
+2026-10-21 01:26:41 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 65)
+2026-10-21 01:26:44 [pengwin] BOLOGNA-INTER: no Polymarket event (try 65)
+2026-10-21 01:29:55 indexed 991 markets
+2026-10-21 01:29:59   drop[1-source] Commanders enter bye week with questions about who'll step up to replace injured WR Terry  (WRAL) :: Terry McLaurin, wait 2nd source
+2026-10-21 01:32:44 bluesky error x1: HTTPSConnectionPool(host='public.api.bsky.app', port=443): Read timed out. (read timeout=15)
+2026-10-21 01:39:08   drop[1-source] Tennessee Basketball Star Terrence Hill Jr. Suffers Injury vs. Duke (Sports Illustrated) :: Terrence Hill Jr., wait 2nd source
+2026-10-21 01:39:09   drop[kind] Deni Avdija Injury: Questionable for Wednesday (RotoWire) :: other
+2026-10-21 01:39:55 indexed 988 markets
+2026-10-21 01:41:32   drop[kind] Suspended cop and partner further demanded (FBC News) :: other
+2026-10-21 01:43:18   llm groq-120b: rate limited, skip 257s
+2026-10-21 01:43:18   drop[not-key] Chris Youngblood (G, Portland Trail Blazers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Chris Youngblood: left calf soreness
+2026-10-21 01:43:18   drop[not-key] Branden Carlson (C, Portland Trail Blazers) ruled out: healthy -> Out [NBA] (ESPN) :: Branden Carlson: injury
+2026-10-21 01:43:59   drop[1-source] Santos back in training for Bahia as Veríssimo injury forces change (OneFootball) :: Santos, wait 2nd source
+2026-10-21 01:50:32 indexed 988 markets
+2026-10-21 01:50:47   drop[no-pick] Tennessee basketball guard Terrence Hill Jr. exits Duke exhibition with injury (247Sports) :: short
+2026-10-21 01:51:33   llm groq-120b: rate limited, skip 245s
+2026-10-21 01:51:34   drop[unconfirmed] Brandin Podziemski (G, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: day-to-day
+2026-10-21 01:53:49   drop[kind] Toddler injured in two-car crash (The Cairns Post) :: other
+2026-10-21 01:54:15 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
