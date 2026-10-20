@@ -15874,3 +15874,11 @@
 2026-10-20 15:49:45 indexed 1039 markets
 2026-10-20 15:51:34   drop[team-not-named] QPR dealt triple injury blow with midfield star among new absentees (The72) :: Queens Park Rangers
 2026-10-20 15:53:34 shift over, state saved
+2026-10-20 16:03:32 === start mode=paper pid=2360 ===
+2026-10-20 16:03:32 brain=llm cash=84.02 open=0
+2026-10-20 16:03:32 resuming with 9707 known news items
+2026-10-20 16:03:58 indexed 1023 markets
+2026-10-20 16:04:16   drop[kind] Jeremy McNichols Injury: Deemed questionable for Monday (RotoWire) :: other
+2026-10-20 16:06:38   drop[kind] Fanatics expands NFL and NBA player injury protection to full games at no additional cost (Yogonet) :: other
+2026-10-20 16:06:38   llm groq-120b: rate limited, skip 7s
+2026-10-20 16:06:39   drop[kind] U.S. Citizen Hospitalized After ICE Arrest in California: Agents Accused of Fracturing Arm (MundoNOW) :: other
