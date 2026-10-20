@@ -16021,3 +16021,25 @@
 2026-10-20 19:37:09   drop[kind] Jim Nantz lists himself as 'questionable' after Peanut Punch wrist injury, expects to be ‘ (Awful Announcing) :: other
 2026-10-20 19:37:09   llm groq-120b: rate limited, skip 80s
 2026-10-20 19:37:10   drop[not-key] Brandon Montour Injury: Deemed game-time decision (RotoWire) :: Brandon Montour: game-time decision
+2026-10-20 19:39:15   drop[1-source] Michigan plastic surgeon’s license suspended in 4th state days after Local 4 investigation (ClickOnDetroit | WDIV Local 4) :: Michigan plastic surgeon, wait 2nd source
+2026-10-20 19:39:16   drop[1-source] Al Nassr’s Kingsley Coman Ruled Out for Next Match Against Neom Due to Injury (SSBCrack) :: Kingsley Coman, wait 2nd source
+2026-10-20 19:44:36 indexed 1069 markets
+2026-10-20 19:46:24   drop[1-source] Terry McLaurin Knee Injury: Commanders WR Carted Off vs 49ers (Hoodline) :: Terry McLaurin, wait 2nd source
+2026-10-20 19:50:48   drop[1-source] Caudal light stimulation outperforms rostral treatment in injured rats (Bioengineer.org) :: Bioengineer.org, wait 2nd source
+2026-10-20 19:54:36 indexed 1060 markets
+2026-10-20 19:55:36   drop[not-key] Cavs’ Nae’Qwan Tomlin faces weeks out with back injury (Cavaliers Nation) :: Nae’Qwan Tomlin: back injury
+2026-10-20 19:55:36   drop[1-source] Erling Haaland rested by Man City for Champions League clash after injury (The Independent) :: Erling Haaland, wait 2nd source
+2026-10-20 19:57:45   llm groq-120b: rate limited, skip 260s
+2026-10-20 19:57:45   drop[1-source] NFL Made Quick Final Decision on Eagles’ Handling of Jalen Hurts Injury (heavy.com) :: Jalen Hurts, wait 2nd source
+2026-10-20 20:02:49   llm groq-120b: rate limited, skip 729s
+2026-10-20 20:02:49   drop[side] AS Roma confirmed lineup vs Slovan Bratislava: Evan Ndicka, Konstantinos Koulierakis, Matì (ESPN) :: Will AS Roma win on 2026-10-20? -> Yes vs fact ruled_out: - (AS Roma, soccer), bad for AS Roma. ruled out of starting XI
+2026-10-20 20:02:51 NEWS [ESPN 0m] Slovan Bratislava confirmed lineup vs AS Roma: Cristian Martínez, Alen Mustafic, Andraz Sporar ruled out of starting XI [uefa.champions]
+2026-10-20 20:02:51   skip Yes :: AS Roma leading at halftime? (low conf 0.6)
+2026-10-20 20:02:53   drop[verify] FC Porto confirmed lineup vs PSV Eindhoven: Moura, Martim Fernandes, Alan Varela, André Si (ESPN) :: Borja Sainz not at FC Porto
+2026-10-20 20:02:54   drop[no-market] PSV Eindhoven confirmed lineup vs FC Porto: Armando Obispo, Ruben Van Bommel ruled out of  (ESPN) :: PSV Eindhoven
+2026-10-20 20:02:54   drop[not-key] Liverpool confirmed lineup vs Villarreal: Jeremie Frimpong, Florian Wirtz, Bradley Barcola (ESPN) :: Jeremie Frimpong: ruled out
+2026-10-20 20:02:55   drop[side] Villarreal confirmed lineup vs Liverpool: Luiz Júnior, Carlos Romero, Gerard Moreno ruled  (ESPN) :: Will Villarreal CF win on 2026-10-20? -> Yes vs fact ruled_out: Gerard Moreno (Villarreal, soccer), bad for Villarreal. 
+2026-10-20 20:02:55   llm groq-20b: rate limited, skip 6s
+2026-10-20 20:04:37 indexed 1050 markets
+2026-10-20 20:04:55   drop[team-not-named] Fans all raise the same problem with MotoGP after injury ends Toprak Razgatlioglu’s rookie (www.motogpnews.com) :: Red Bull KTM Factory Racing
+2026-10-20 20:06:58   drop[kind] Como vs. Man United: Red Devils have defensive crisis for vital Champions League fixture a (Sports Mole) :: other
