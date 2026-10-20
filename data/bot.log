@@ -15542,3 +15542,17 @@
 2026-10-20 04:22:01 indexed 927 markets
 2026-10-20 04:24:26   drop[not-key] 49ers' Evans ruled out on MNF after aggravating Achilles injury (theScore) :: Evans: aggravated Achilles injury
 2026-10-20 04:24:27   drop[no-market] 49ers WR Mike Evans leaves game against Commanders with an Achilles tendon injury (The Lethbridge Herald) :: San Francisco 49ers
+2026-10-20 04:29:07   drop[kind] Dodgers Learn to Question Ohtani's Injury Assessments (조선일보) :: other
+2026-10-20 04:31:18   llm groq-120b: rate limited, skip 49s
+2026-10-20 04:31:18   drop[no-market] Commanders Lose Terry McLaurin to Knee Injury, Carted Off Against 49ers (Sports Illustrated) :: Washington Commanders
+2026-10-20 04:32:01 indexed 920 markets
+2026-10-20 04:35:57   drop[kind] NFL Analyst Issues Public Apology After Making Wild Jalen Hurts Injury Accusations (heavy.com) :: other
+2026-10-20 04:38:24   drop[1-source] Pathahewaheta Pradeshiya Sabha suspended pending probe into irregularities (Ada Derana) :: Pathahewaheta Pradeshiya Sabha, wait 2nd source
+2026-10-20 04:38:24   llm groq-120b: rate limited, skip 112s
+2026-10-20 04:38:24   drop[not-key] Commanders news: Sam Cosmi exits MNF vs. 49ers with injury (ClutchPoints) :: Sam Cosmi: injury
+2026-10-20 04:40:33   llm groq-120b: rate limited, skip 60s
+2026-10-20 04:40:33   drop[team-not-named] Mike Evans leaves MNF with Achilles injury (USA Today) :: Tampa Bay Buccaneers
+2026-10-20 04:42:01 indexed 917 markets
+2026-10-20 04:45:12   drop[kind] Face-to-face classes suspended in Digos City due to expected 'danger' heat index (ABS-CBN) :: other
+2026-10-20 04:47:38   drop[kind] Michael Robinson apologizes after implying Jalen Hurts was faking injury (Awful Announcing) :: other
+2026-10-20 04:52:03 indexed 915 markets
