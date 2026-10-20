@@ -15968,3 +15968,21 @@
 2026-10-20 18:06:59   drop[verify] Naquan Jones (DT, San Francisco 49ers) cleared to play: Out -> Active [NFL] (ESPN) :: person not on team, depth, market mismatch
 2026-10-20 18:06:59   drop[not-key] Enrique Cruz Jr. (OT, San Francisco 49ers) cleared to play: Out -> Active [NFL] (ESPN) :: Enrique Cruz Jr.: cleared to play
 2026-10-20 18:07:02   drop[verify] Kurtis Rourke (QB, San Francisco 49ers) cleared to play: Out -> Active [NFL] (ESPN) :: player not star, market not about player
+2026-10-20 18:09:06   drop[1-source] Expected timetable for Patriots WR Romeo Doubs' injury revealed (Patriots Wire) :: Romeo Doubs, wait 2nd source
+2026-10-20 18:09:07   drop[kind] Kyle Kennedy’s Health Struggles: She Died 6 Years After Tragic Spinal Cord Injury (Men's Journal) :: other
+2026-10-20 18:11:23   llm groq-120b: rate limited, skip 9s
+2026-10-20 18:11:24   drop[1-source] Star point guard hurt. Latest on 2 Butler basketball injured players (IndyStar) :: Butler Bulldogs, wait 2nd source
+2026-10-20 18:14:24 indexed 1078 markets
+2026-10-20 18:16:03   drop[1-source] Pacers' Tyrese Haliburton: Achilles Injury Made Me Think About Basketball Mortality (roundtable.io) :: Tyrese Haliburton, wait 2nd source
+2026-10-20 18:18:21   drop[team-not-named] 49ers WR Mike Evans Leaves Game With Achilles Injury Stream of National Football League (CBS Sports) :: Tampa Bay Buccaneers
+2026-10-20 18:20:39   llm groq-120b: rate limited, skip 44s
+2026-10-20 18:20:39   drop[not-key] Florida Panthers G Jacob Markstrom out 10-14 days after injury in practice (TSN) :: Jacob Markstrom: injury
+2026-10-20 18:24:27 indexed 1083 markets
+2026-10-20 18:25:17   llm groq-120b: rate limited, skip 122s
+2026-10-20 18:25:17   drop[kind] Kyle Kennedy, Granddaughter of Bobby Kennedy, Dead at 42 After Spinal Cord Injury Six Year (E! News) :: other
+2026-10-20 18:26:35   drop[unconfirmed] AJ Dybantsa (F, Washington Wizards) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: day‑to‑day injury
+2026-10-20 18:27:36   llm groq-120b: rate limited, skip 23s
+2026-10-20 18:27:37   drop[no-pick] Ryan Day confirms Ohio State QB Julian Sayin to miss ‘weeks’ with arm injury (Field Level Media) :: short
+2026-10-20 18:33:39   drop[not-key] Jordan Hawkins (G, Chicago Bulls) ruled out: healthy -> Out [NBA] (ESPN) :: Jordan Hawkins: out for opening night
+2026-10-20 18:33:40   drop[not-key] Dailyn Swain (G, Chicago Bulls) ruled out: healthy -> Out [NBA] (ESPN) :: Dailyn Swain: illness
+2026-10-20 18:34:25 indexed 1077 markets

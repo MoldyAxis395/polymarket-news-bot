@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-20T18:08:42",
+ "updated": "2026-10-20T18:35:08",
  "start": 100.0,
  "cash": 86.83,
- "equity": 147.19,
+ "equity": 147.65,
  "open": [
   {
    "market_id": "5383472",
@@ -19,7 +19,7 @@
    "reason": "pengwin exact: base pick home win",
    "conf": 1.0,
    "end": "2026-10-20T16:45:00+00:00",
-   "last_bid": 0.66,
+   "last_bid": 0.68,
    "book_err": false
   },
   {
@@ -91,7 +91,7 @@
    "reason": "pengwin approx: home team at least 1 goal",
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
-   "last_bid": 0.76,
+   "last_bid": 0.77,
    "book_err": false
   },
   {
