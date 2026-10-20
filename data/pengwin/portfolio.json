@@ -1,5 +1,5 @@
 {
- "cash": 96.83340596555138,
+ "cash": 86.83340596555138,
  "positions": [
   {
    "market_id": "5383472",
@@ -16,7 +16,7 @@
    "reason": "pengwin exact: base pick home win",
    "conf": 1.0,
    "end": "2026-10-20T16:45:00+00:00",
-   "last_bid": 0.61,
+   "last_bid": 0.62,
    "book_err": false
   },
   {
@@ -70,7 +70,7 @@
    "reason": "pengwin exact: away win",
    "conf": 1.0,
    "end": "2026-10-20T16:45:00+00:00",
-   "last_bid": 0.74,
+   "last_bid": 0.75,
    "book_err": false
   },
   {
@@ -89,6 +89,24 @@
    "conf": 1.0,
    "end": "2026-10-20T19:00:00+00:00",
    "last_bid": 0.77,
+   "book_err": false
+  },
+  {
+   "market_id": "5436698",
+   "question": "Will Sporting CP win on 2026-10-21?",
+   "slug": "ucl-spo-lin2-2026-10-21-spo",
+   "outcome": "Yes",
+   "token": "95964689339190880556446151671347153950760435609238655442923745072813680158280",
+   "shares": 12.345679012345679,
+   "entry": 0.81,
+   "cost": 10.0,
+   "opened": 1792483940.041512,
+   "opened_iso": "2026-10-20T08:12:20+00:00",
+   "news": "SPORTING-LASK: 1 (home win) @1.22 (esatto)",
+   "reason": "pengwin exact: Base pick is home win, matches market 0 Yes",
+   "conf": 1.0,
+   "end": "2026-10-21T19:00:00+00:00",
+   "last_bid": 0.8,
    "book_err": false
   }
  ],
