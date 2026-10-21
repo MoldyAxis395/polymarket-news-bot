@@ -16340,3 +16340,29 @@
 2026-10-21 04:38:56 [pengwin] CLUB BRUGGE-LENS: no LLM answer (try 3)
 2026-10-21 04:38:59 [pengwin] ASTON VILLA-VIKING: no LLM answer (try 3)
 2026-10-21 04:39:01 [pengwin] BETIS-FEYENOORD: no LLM answer (try 3)
+2026-10-21 04:41:15   llm groq-120b: rate limited, skip 4s
+2026-10-21 04:44:55 indexed 997 markets
+2026-10-21 04:46:45   drop[kind] Rick Barnes unsure of Terrence Hill Jr.'s status after ankle injury at Duke (On3) :: other
+2026-10-21 04:48:54   drop[team-not-named] Miller’s teammate sidelined for remaining MotoGP races (Speedcafe.com) :: Red Bull KTM Factory Racing
+2026-10-21 04:53:31   drop[1-source] What Rick Barnes Said About Terrence Hill Jr.'s Injury After Tennessee's Exhibition Loss a (Rocky Top Insider) :: Terrence Hill Jr., wait 2nd source
+2026-10-21 04:54:55 indexed 987 markets
+2026-10-21 04:56:14   llm groq-120b: rate limited, skip 40s
+2026-10-21 04:56:15   drop[team-not-named] Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees (Ada Derana) :: SpaceX and Tesla
+2026-10-21 05:02:43   drop[not-key] Cowboys news: DeMarvion Overshown is chomping at the bit to return from injury vs. Eagles (ClutchPoints) :: DeMarvion Overshown: He is set to return from injury for the upcoming game against the Eagles
+2026-10-21 05:02:44   drop[1-source] 'Needed time' - Aston Villa ace's admission following injury return (Express and Star) :: Ollie Watkins, wait 2nd source
+2026-10-21 05:04:56 indexed 1008 markets
+2026-10-21 05:06:29 [pengwin] page onali/albania-san-marino-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-21 05:07:24 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 68)
+2026-10-21 05:07:26 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 68)
+2026-10-21 05:07:54   llm groq-120b: rate limited, skip 23s
+2026-10-21 05:07:54 [pengwin] Betis-Barcellona: no Polymarket event (try 70)
+2026-10-21 05:07:57 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 68)
+2026-10-21 05:07:57 [pengwin] page io/serie-a/bologna-inter-statistiche-quote-e-pronostico-2026: Response ended prematurely
+2026-10-21 05:08:58   llm groq-120b: rate limited, skip 845s
+2026-10-21 05:08:59 [pengwin] skip BAYERN MONACO-ARSENAL [1X (home win)]: double chance mapped to YES: Will FC Bayern München win on 2026-10-21?
+2026-10-21 05:09:02   llm groq-20b: rate limited, skip 108s
+2026-10-21 05:09:02 [pengwin] REAL MADRID-LIPSIA: no Polymarket event (try 4)
+2026-10-21 05:09:04 [pengwin] INTER-SHAKHTAR: no Polymarket event (try 4)
+2026-10-21 05:09:07 [pengwin] CLUB BRUGGE-LENS: no LLM answer (try 4)
+2026-10-21 05:09:10 [pengwin] ASTON VILLA-VIKING: no LLM answer (try 4)
+2026-10-21 05:09:12 [pengwin] BETIS-FEYENOORD: no LLM answer (try 4)
