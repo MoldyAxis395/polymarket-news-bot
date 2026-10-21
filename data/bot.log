@@ -16901,3 +16901,22 @@
 2026-10-22 01:21:45   drop[unconfirmed] Jett Howard (G, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: right calf tightness
 2026-10-22 01:21:50   llm groq-20b: rate limited, skip 20s
 2026-10-22 01:24:33 [pengwin] page erie-b/benevento-vicenza-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-22 01:25:49   llm groq-120b: rate limited, skip 121s
+2026-10-22 01:25:50   drop[side] A.J. Terrell Jr. (CB, Atlanta Falcons) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: 49ers vs. Falcons -> Falcons vs fact ruled_out: A.J. Terrell Jr. (Atlanta Falcons, nfl), bad for Atlanta Falcons. placed
+2026-10-22 01:26:29   drop[kind] Packers quarterback Jordan Love has no concerns about back injury (USA Today) :: other
+2026-10-22 01:31:08   llm groq-120b: rate limited, skip 198s
+2026-10-22 01:31:08   drop[no-pick] 2 Fayette County corrections officers fired, another suspended after alleged inmate beatin (CBS News) :: short
+2026-10-22 01:31:43 indexed 1027 markets
+2026-10-22 01:33:38   llm groq-20b: rate limited, skip 132s
+2026-10-22 01:35:44   drop[kind] Stock Market Today: Nasdaq Leads Wall Street Rally (www.stl.news) :: other
+2026-10-22 01:35:44   llm groq-120b: rate limited, skip 161s
+2026-10-22 01:38:05   drop[1-source] Memphis suffers thigh injury, misses Corinthians' trip to Vasco (OneFootball) :: Memphis, wait 2nd source
+2026-10-22 01:41:10   drop[not-key] Paulson Adebo (CB, New York Giants) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Paulson Adebo: placed on injured reserve due to knee injury
+2026-10-22 01:41:43 indexed 1030 markets
+2026-10-22 01:42:45   llm groq-120b: rate limited, skip 58s
+2026-10-22 01:42:45   drop[1-source] The 49ers are 'managing' Mike Evans' Achilles injury after he left last game early (Newsday) :: Mike Evans, wait 2nd source
+2026-10-22 01:42:45   llm groq-20b: rate limited, skip 233s
+2026-10-22 01:51:46 indexed 1027 markets
+2026-10-22 01:51:49 NEWS [ESPN 4m] Steven Adams (C, Houston Rockets) ruled out: Day-To-Day -> Out [NBA]
+2026-10-22 01:51:49   skip Mavericks :: Mavericks vs. Rockets (low conf 0.6)
+2026-10-22 01:54:41 [pengwin] page rence-league/gent-aarhus-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
