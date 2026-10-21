@@ -16761,3 +16761,32 @@
 2026-10-21 19:36:33   llm groq-120b: rate limited, skip 258s
 2026-10-21 19:36:34   llm groq-20b: rate limited, skip 101s
 2026-10-21 19:38:03 indexed 1068 markets
+2026-10-21 19:41:07 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 84)
+2026-10-21 19:41:09 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 84)
+2026-10-21 19:41:38 [pengwin] Betis-Barcellona: no Polymarket event (try 86)
+2026-10-21 19:41:41   llm groq-120b: rate limited, skip 90s
+2026-10-21 19:41:41 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 84)
+2026-10-21 19:41:44 [pengwin] BOLOGNA-INTER: no Polymarket event (try 84)
+2026-10-21 19:48:02 indexed 1070 markets
+2026-10-21 19:48:11   drop[kind] Injury toll from Russian drone attack toll in Chortkiv rises to four (Ukrinform) :: other
+2026-10-21 19:50:30   llm groq-120b: rate limited, skip 77s
+2026-10-21 19:50:31   drop[1-source] Watch Ethan Nwaneri's brother score dramatic injury-time equaliser for Arsenal U19s just d (The Sun) :: Arsenal U19s, wait 2nd source
+2026-10-21 19:52:59   drop[kind] Cristiano Ronaldo offers support to Khvicha Kvaratskhelia after injury (OneFootball) :: other
+2026-10-21 19:52:59   llm groq-120b: rate limited, skip 235s
+2026-10-21 19:53:00   drop[kind] Bayern Munich XI vs Arsenal: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-10-21 19:57:25   drop[kind] Man given suspended sentence after racist note left at Henry Tufnell MP’s office (The Pembrokeshire Herald) :: other
+2026-10-21 19:58:05 indexed 1075 markets
+2026-10-21 19:59:40   llm groq-120b: rate limited, skip 159s
+2026-10-21 19:59:40   drop[1-source] 49ers get bad news on injured wide receiver (The Big Lead) :: Deebo Samuel, wait 2nd source
+2026-10-21 19:59:41   drop[kind] Arsenal XI vs Bayern: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-10-21 20:01:12   llm groq-20b: rate limited, skip 140s
+2026-10-21 20:04:16   drop[1-source] Barcelona’s Champions League Misery Made Worse by Significant Injury Blow (Sports Illustrated) :: Pedri, wait 2nd source
+2026-10-21 20:04:16   llm groq-120b: rate limited, skip 175s
+2026-10-21 20:04:16   drop[kind] Suspended Lehigh County 911 dispatcher charged with raping girl, 12 (The Morning Call) :: other
+2026-10-21 20:05:19   llm groq-20b: rate limited, skip 197s
+2026-10-21 20:05:19 NEWS [ESPN 2m] Jordan Hawkins (G, Chicago Bulls) ruled out: Day-To-Day -> Out [NBA]
+2026-10-21 20:05:19   skip Raptors :: Bulls vs. Raptors (rules fallback, LLM down (not traded))
+2026-10-21 20:08:07 indexed 1064 markets
+2026-10-21 20:08:58   drop[not-key] Jordan Hawkins Injury: Downgraded to out (RotoWire) :: Jordan Hawkins: injury downgrade to out
+2026-10-21 20:08:58   llm groq-120b: rate limited, skip 198s
+2026-10-21 20:08:59   drop[not-key] Quinton Byfield Injury: Considered day-to-day (RotoWire) :: Quinton Byfield: injury
