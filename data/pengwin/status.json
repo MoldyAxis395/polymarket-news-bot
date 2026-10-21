@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-21T12:21:55",
+ "updated": "2026-10-21T12:52:25",
  "start": 100.0,
  "cash": 115.48,
- "equity": 134.99,
+ "equity": 134.87,
  "open": [
   {
    "market_id": "5436698",
@@ -19,7 +19,7 @@
    "reason": "pengwin exact: Base pick is home win, matches market 0 Yes",
    "conf": 1.0,
    "end": "2026-10-21T19:00:00+00:00",
-   "last_bid": 0.78,
+   "last_bid": 0.77,
    "book_err": false,
    "settle_retry": 1792550392.2940054
   },
