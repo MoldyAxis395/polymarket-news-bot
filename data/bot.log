@@ -16735,3 +16735,20 @@
 2026-10-21 21:24:38   llm groq-120b: rate limited, skip 70s
 2026-10-21 21:24:39   drop[not-key] Kyle Monangai ruled out, Jonah Jackson set to play vs. Patriots (NBC Sports) :: Kyle Monangai: injury
 2026-10-21 21:24:39   llm groq-20b: rate limited, skip 147s
+2026-10-21 21:29:27   drop[no-pick] Breaking: Bukayo Saka forced to leave Arsenal vs. Bayern Munich with injury (Bavarian Football Works) :: short
+2026-10-21 21:30:43 indexed 1029 markets
+2026-10-21 21:31:36   llm groq-120b: rate limited, skip 121s
+2026-10-21 21:31:36   drop[kind] Two Injured in Crash on Watt Avenue in North Highlands (www.sacramentoinjuryattorneysblog.com) :: other
+2026-10-21 21:31:37   llm groq-20b: rate limited, skip 83s
+2026-10-21 21:33:54   drop[1-source] Commanders get odd trade question from ESPN after Terry McLaurin's injury (www.sportingnews.com) :: Terry McLaurin, wait 2nd source
+2026-10-21 21:38:43   llm groq-120b: rate limited, skip 19s
+2026-10-21 21:38:44   drop[1-source] Patriots vs. Bears Wednesday injury report: Starting guards among handful ruled out for We (Pats Pulpit) :: New England Patriots, wait 2nd source
+2026-10-21 21:40:43 indexed 1029 markets
+2026-10-21 21:41:04   llm groq-120b: rate limited, skip 96s
+2026-10-21 21:41:04   drop[side] Saka Injury: Arsenal wait on Bukayo Saka after he is forced off inside 10 minutes against  (شبكة تواصل الإخبارية) :: Will Arsenal FC win on 2026-10-24? -> Yes vs fact ruled_out: Bukayo Saka (Arsenal FC, soccer), bad for Arsenal FC. Saka 
+2026-10-21 21:45:25   drop[kind] Patriots Make Injury Announcements Ahead of Thursday Night, Including Losses at OL, CB (Sports Illustrated) :: other
+2026-10-21 21:50:00   drop[not-key] Kane Board OKs $800K personal injury claim (Shaw Local) :: Kane Board: Board approved an $800K personal injury claim
+2026-10-21 21:50:43 indexed 1030 markets
+2026-10-21 21:50:45   llm groq-120b: rate limited, skip 153s
+2026-10-21 21:50:46   drop[not-key] Collin Sexton (G, Los Angeles Lakers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Collin Sexton: right soleus strain
+2026-10-21 21:52:48 [pengwin] page -league/copenhagen-braga-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
