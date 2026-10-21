@@ -16691,148 +16691,24 @@
 2026-10-21 18:09:40   llm groq-20b: rate limited, skip 29s
 2026-10-21 18:09:59 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 81)
 2026-10-21 18:10:02 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 81)
-2026-10-21 18:10:32 [pengwin] Betis-Barcellona: no Polymarket event (try 83)
-2026-10-21 18:10:34 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 81)
-2026-10-21 18:10:36   llm groq-20b: rate limited, skip 92s
-2026-10-21 18:10:36 [pengwin] BOLOGNA-INTER: no Polymarket event (try 81)
-2026-10-21 18:15:55   drop[kind] Cagliari-Decimomannu line: Trains suspended from October 23rd to 25th for roadworks. (L'Unione Sarda.it) :: other
-2026-10-21 18:17:52 indexed 1101 markets
-2026-10-21 18:17:59   drop[1-source] Tony Khan officially announces former AEW champion's return from injury (Sportskeeda) :: Kenny Omega, wait 2nd source
-2026-10-21 18:20:16   llm groq-120b: rate limited, skip 185s
-2026-10-21 18:20:18   drop[not-key] Bills' Sam Franklin Jr. suspended one game by NFL for spitting incident against Raiders, p (Fingerlakes1.com) :: Sam Franklin Jr.: spitting incident
-2026-10-21 18:22:46   drop[unconfirmed] Baker Mayfield Injury: Back at practice, as expected (RotoWire) :: returned to practice
-2026-10-21 18:24:55   drop[team-not-named] Karolína Muchová Qualifies for WTA Finals Following Opponent's Injury (BGNES) :: Czech Republic
-2026-10-21 18:25:36   llm groq-120b: rate limited, skip 194s
-2026-10-21 18:25:36   drop[kind] UK's FTSE 100 pauses as hot inflation report outweighs energy boost reut.rs/3WDlB7g (Reuters) :: other
-2026-10-21 18:27:56 indexed 1093 markets
-2026-10-21 18:29:34   drop[team-not-named] OSU Quarterback Julian Sayin out due to injury indefinitely (WHIO TV) :: Ohio State Buckeyes
-2026-10-21 18:31:21   llm groq-120b: rate limited, skip 142s
-2026-10-21 18:31:21   drop[kind] India's infrastructure output rises 7.9% in September, a record high in new series reut.rs (Reuters) :: other
-2026-10-21 18:36:27   drop[not-key] Roger Goodell Defends Eagles' Handling of Jalen Hurts' Injury, Welcomes Investigation (Bleacher Report) :: Roger Goodell: Goodell publicly defended the Eagles' handling of Jalen Hurts' injury and welcomed an investigation
-2026-10-21 18:37:57 indexed 1087 markets
-2026-10-21 18:40:15 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 82)
-2026-10-21 18:40:18 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 82)
-2026-10-21 18:40:46   llm groq-120b: rate limited, skip 11s
-2026-10-21 18:40:47   llm groq-20b: rate limited, skip 103s
-2026-10-21 18:40:47 [pengwin] Betis-Barcellona: no Polymarket event (try 84)
-2026-10-21 18:40:49 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 82)
-2026-10-21 18:40:51 [pengwin] BOLOGNA-INTER: no Polymarket event (try 82)
-2026-10-21 18:43:25   drop[team-not-named] Paris Saint-Germain announces injury of Georgian player Kvaratskhelia (The Peninsula Qatar) :: SSC Napoli
-2026-10-21 18:47:59 indexed 1084 markets
-2026-10-21 18:52:42   drop[kind] Sajek road blockade resumes tomorrow, travel suspended (The Daily Star) :: other
-2026-10-21 18:52:42   llm groq-120b: rate limited, skip 1s
-2026-10-21 18:52:43   drop[no-market] Ombudsman Ruled Out of Breeders’ Cup Turf as Japan Cup Emerges as Target (SAHorseracing.COM) :: Ombudsman
-2026-10-21 18:54:59   drop[not-key] Adonai Mitchell Injury: Returning to practice in limited fashion (RotoWire) :: Adonai Mitchell: returning to practice in limited fashion
-2026-10-21 18:57:59 indexed 1090 markets
-2026-10-21 18:59:45   drop[1-source] Parvinder Jhota probe: FSL teams collect evidence; two Punjab officials suspended (ANI News) :: Punjab government, wait 2nd source
-2026-10-21 19:01:54   llm groq-120b: rate limited, skip 98s
-2026-10-21 19:01:55   drop[not-key] Bills' Sam Franklin Jr. Suspended One Game for Spitting, Will Appeal (RG.org) :: Sam Franklin Jr.: suspension
-2026-10-21 19:01:55   drop[kind] Roger Goodell Sends Strong Message on Eagles’ Jalen Hurts Injury Situation (Heavy.com) :: other
-2026-10-21 19:04:13   llm groq-120b: rate limited, skip 359s
-2026-10-21 19:04:14   drop[no-market] US imposes sanctions on Greek, Panama law firm for helping Iran shipping (Reuters) :: Greek and Panama law firm
-2026-10-21 19:04:15   drop[not-key] Rashee Rice Injury: Won't practice Wednesday (RotoWire) :: Rashee Rice: won't practice
-2026-10-21 19:04:15   drop[kind] An injury every 15 minutes on NZ roads last Labour weekend (1News) :: other
-2026-10-21 19:06:31   drop[unconfirmed] Kvaratskhelia Set for Surgery After Serious Knee Injury (Nigerian Voice) :: surgery
-2026-10-21 19:08:00 indexed 1080 markets
-2026-10-21 19:11:42 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 83)
-2026-10-21 19:11:45 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 83)
-2026-10-21 19:12:15   llm groq-120b: rate limited, skip 84s
-2026-10-21 19:12:16 NEWS [ESPN 0m] Levante confirmed lineup vs Athletic Club: Nacho Pérez, Adrián de la Fuente, Enzo Bardeli, Orio Rey, Thiago Fernández ruled out of starting XI [esp.1]
-2026-10-21 19:12:16   skip No :: Will Levante UD win on 2026-09-16? (low conf 0.6)
-2026-10-21 19:12:16   llm groq-20b: rate limited, skip 179s
-2026-10-21 19:12:25 [pengwin] Betis-Barcellona: no Polymarket event (try 85)
-2026-10-21 19:12:27 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 83)
-2026-10-21 19:12:30 [pengwin] BOLOGNA-INTER: no Polymarket event (try 83)
-2026-10-21 19:18:04 indexed 1084 markets
-2026-10-21 19:22:47   drop[kind] Jett Howard Injury: Downgraded to questionable (RotoWire) :: other
-2026-10-21 19:24:12 NEWS [ESPN 2m] Jawhar Jordan (RB, Houston Texans) ruled out: Active -> Out [NFL]
-2026-10-21 19:24:12   skip Giants :: Giants vs. Texans (low conf 0.6)
-2026-10-21 19:25:04   drop[kind] Eagles DC Makes Cooper DeJean Injury Suggestion Before Cowboys Game (heavy.com) :: other
-2026-10-21 19:25:04   llm groq-120b: rate limited, skip 364s
-2026-10-21 19:25:05   drop[kind] The Advocates Injury Attorneys Recognize Community Impact of Seattle Area Athletes with In (StreetInsider) :: other
-2026-10-21 19:25:15   drop[no-market] US imposes sanctions on Greek, Panama law firm for helping Iran shipping reut.rs/4zKALpC (Reuters) :: Greek and Panama law firm
-2026-10-21 19:27:32   drop[1-source] Poland has suspended the delivery of military aid to Ukraine due to a decision by the Lviv (UA.NEWS) :: Poland, wait 2nd source
-2026-10-21 19:28:02 indexed 1079 markets
-2026-10-21 19:31:58   drop[team-not-named] Ronaldo sends powerful message to Kvaratskhelia after ACL injury (Pulse Sports Nigeria) :: SSC Napoli
-2026-10-21 19:34:25   llm groq-120b: rate limited, skip 96s
-2026-10-21 19:34:26   drop[kind] Single-run benchmark finds AI liver-injury extraction errors (Bioengineer.org) :: other
-2026-10-21 19:34:26   drop[1-source] Junior Kroupi back in Bournemouth training but ruled out of AC Milan clash (OneFootball) :: Junior Kroupi, wait 2nd source
-2026-10-21 19:36:33   drop[kind] Leavenworth man convicted of several crimes after fleeing police, causing injury to passen (KSHB 41 Kansas City) :: other
-2026-10-21 19:36:33   llm groq-120b: rate limited, skip 258s
-2026-10-21 19:36:34   llm groq-20b: rate limited, skip 101s
-2026-10-21 19:38:03 indexed 1068 markets
-2026-10-21 19:41:07 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 84)
-2026-10-21 19:41:09 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 84)
-2026-10-21 19:41:38 [pengwin] Betis-Barcellona: no Polymarket event (try 86)
-2026-10-21 19:41:41   llm groq-120b: rate limited, skip 90s
-2026-10-21 19:41:41 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 84)
-2026-10-21 19:41:44 [pengwin] BOLOGNA-INTER: no Polymarket event (try 84)
-2026-10-21 19:48:02 indexed 1070 markets
-2026-10-21 19:48:11   drop[kind] Injury toll from Russian drone attack toll in Chortkiv rises to four (Ukrinform) :: other
-2026-10-21 19:50:30   llm groq-120b: rate limited, skip 77s
-2026-10-21 19:50:31   drop[1-source] Watch Ethan Nwaneri's brother score dramatic injury-time equaliser for Arsenal U19s just d (The Sun) :: Arsenal U19s, wait 2nd source
-2026-10-21 19:52:59   drop[kind] Cristiano Ronaldo offers support to Khvicha Kvaratskhelia after injury (OneFootball) :: other
-2026-10-21 19:52:59   llm groq-120b: rate limited, skip 235s
-2026-10-21 19:53:00   drop[kind] Bayern Munich XI vs Arsenal: Starting lineup and confirmed team news (London Evening Standard) :: other
-2026-10-21 19:57:25   drop[kind] Man given suspended sentence after racist note left at Henry Tufnell MP’s office (The Pembrokeshire Herald) :: other
-2026-10-21 19:58:05 indexed 1075 markets
-2026-10-21 19:59:40   llm groq-120b: rate limited, skip 159s
-2026-10-21 19:59:40   drop[1-source] 49ers get bad news on injured wide receiver (The Big Lead) :: Deebo Samuel, wait 2nd source
-2026-10-21 19:59:41   drop[kind] Arsenal XI vs Bayern: Starting lineup and confirmed team news (London Evening Standard) :: other
-2026-10-21 20:01:12   llm groq-20b: rate limited, skip 140s
-2026-10-21 20:04:16   drop[1-source] Barcelona’s Champions League Misery Made Worse by Significant Injury Blow (Sports Illustrated) :: Pedri, wait 2nd source
-2026-10-21 20:04:16   llm groq-120b: rate limited, skip 175s
-2026-10-21 20:04:16   drop[kind] Suspended Lehigh County 911 dispatcher charged with raping girl, 12 (The Morning Call) :: other
-2026-10-21 20:05:19   llm groq-20b: rate limited, skip 197s
-2026-10-21 20:05:19 NEWS [ESPN 2m] Jordan Hawkins (G, Chicago Bulls) ruled out: Day-To-Day -> Out [NBA]
-2026-10-21 20:05:19   skip Raptors :: Bulls vs. Raptors (rules fallback, LLM down (not traded))
-2026-10-21 20:08:07 indexed 1064 markets
-2026-10-21 20:08:58   drop[not-key] Jordan Hawkins Injury: Downgraded to out (RotoWire) :: Jordan Hawkins: injury downgrade to out
-2026-10-21 20:08:58   llm groq-120b: rate limited, skip 198s
-2026-10-21 20:08:59   drop[not-key] Quinton Byfield Injury: Considered day-to-day (RotoWire) :: Quinton Byfield: injury
-2026-10-21 20:11:08 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 85)
-2026-10-21 20:11:10   llm groq-20b: rate limited, skip 130s
-2026-10-21 20:11:10 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 85)
-2026-10-21 20:11:37 [pengwin] Betis-Barcellona: no Polymarket event (try 87)
-2026-10-21 20:11:39 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 85)
-2026-10-21 20:11:41 [pengwin] BOLOGNA-INTER: no Polymarket event (try 85)
-2026-10-21 20:11:45 mlb_lineups error x1: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-21 20:15:53   drop[kind] Lindsey Vonn smiling again after injury and poses topless to promote new project (MARCA) :: other
-2026-10-21 20:18:11 indexed 1072 markets
-2026-10-21 20:20:49   drop[team-not-named] PSG confirm ACL injury to Kvaratskhelia (وكالة سبأ) :: Paris Saint-Germain Football Club
-2026-10-21 20:20:49   llm groq-120b: rate limited, skip 83s
-2026-10-21 20:20:50   drop[1-source] Johan Manzambi’s winner gives Aston Villa edge, but injury cloud lingers before Aston Vill (شبكة تواصل الإخبارية) :: Johan Manzambi, wait 2nd source
-2026-10-21 20:20:50   drop[kind] Mike McCarthy Avoided One Steelers Locker Room Fate After Injury Scare (Gridiron Heroics) :: other
-2026-10-21 20:20:54   llm groq-20b: rate limited, skip 398s
-2026-10-21 20:20:54 NEWS [ESPN 15m] Dailyn Swain (G, Chicago Bulls) ruled out: Day-To-Day -> Out [NBA]
-2026-10-21 20:20:54   skip Raptors :: Bulls vs. Raptors (rules fallback, LLM down (not traded))
-2026-10-21 20:20:54 NEWS [ESPN 4m] Charles Bassey (C, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA]
-2026-10-21 20:20:54   skip No :: NBA: Stephen Curry to leave Warriors? (rules fallback, LLM down (not traded))
-2026-10-21 20:20:54   skip No :: Will Golden State Valkyries win the 2026 WNBA Finals? (rules fallback, LLM down (not traded))
-2026-10-21 20:20:54   skip Lakers :: Warriors vs. Lakers (rules fallback, LLM down (not traded))
-2026-10-21 20:27:28   drop[1-source] Liverpool star “back on grass” after injury (DaveOCKOP) :: Liverpool Football Club, wait 2nd source
-2026-10-21 20:28:11 indexed 1062 markets
-2026-10-21 20:34:17   drop[not-key] Channing Canada (CB, New England Patriots) ruled out: Questionable -> Out [NFL] (ESPN) :: Channing Canada: injury
-2026-10-21 20:34:18   drop[not-key] Ben Brown (C, New England Patriots) ruled out: Doubtful -> Out [NFL] (ESPN) :: Ben Brown: ruled out due to injury
-2026-10-21 20:34:18   llm groq-120b: rate limited, skip 104s
-2026-10-21 20:34:18   drop[not-key] Carlton Davis III (CB, New England Patriots) ruled out: Questionable -> Out [NFL] (ESPN) :: Carlton Davis III: injury
-2026-10-21 20:34:19   drop[not-key] Alijah Vera-Tucker (G, New England Patriots) ruled out: Doubtful -> Out [NFL] (ESPN) :: Alijah Vera-Tucker: injury
-2026-10-21 20:34:19   llm groq-20b: rate limited, skip 170s
-2026-10-21 20:34:19 NEWS [ESPN 4m] Karon Prunty (CB, New England Patriots) ruled out: Questionable -> Out [NFL]
-2026-10-21 20:34:19   skip Bears :: Patriots vs. Bears (rules fallback, LLM down (not traded))
-2026-10-21 20:36:42   llm groq-120b: rate limited, skip 16s
-2026-10-21 20:38:11 indexed 1064 markets
-2026-10-21 20:39:13   drop[1-source] Patriots’ Carlton Davis Dealt Injury Blow Ahead of Bears Game (Heavy.com) :: Carlton Davis, wait 2nd source
-2026-10-21 20:41:22   drop[1-source] Dani Olmo sidelined for around one month with adductor injury at Barcelona (OneFootball) :: Dani Olmo, wait 2nd source
-2026-10-21 20:41:22   llm groq-120b: rate limited, skip 246s
-2026-10-21 20:41:23   drop[unconfirmed] Another nightmare for PSG! Dembélé faces three weeks out after Barcelona injury (Dailysports) :: injury
-2026-10-21 20:42:11 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 86)
-2026-10-21 20:42:13   llm groq-20b: rate limited, skip 60s
-2026-10-21 20:42:13 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 86)
-2026-10-21 20:42:42 [pengwin] Betis-Barcellona: no Polymarket event (try 88)
-2026-10-21 20:42:44 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 86)
-2026-10-21 20:42:46 [pengwin] BOLOGNA-INTER: no Polymarket event (try 86)
-2026-10-21 20:43:37   llm groq-20b: rate limited, skip 114s
-2026-10-21 20:48:14 indexed 1069 markets
-2026-10-21 20:48:29   drop[kind] Mining worker suspended a year over secret complaints wins $84k (Human Resources Director) :: other
-2026-10-21 20:49:57 shift over, state saved
+2026-10-21 20:50:12 === start mode=paper pid=2111 ===
+2026-10-21 20:50:12 brain=llm cash=84.02 open=0
+2026-10-21 20:50:12 resuming with 10066 known news items
+2026-10-21 20:50:38 indexed 1067 markets
+2026-10-21 20:50:56   drop[not-key] Channing Canada (CB, New England Patriots) ruled out: Questionable -> Out [NFL] (ESPN) :: Channing Canada: ruled out due to injury
+2026-10-21 20:50:56   llm groq-120b: rate limited, skip 203s
+2026-10-21 20:50:57   drop[not-key] Ben Brown (C, New England Patriots) ruled out: Doubtful -> Out [NFL] (ESPN) :: Ben Brown: injury
+2026-10-21 20:50:57   drop[not-key] Alijah Vera-Tucker (G, New England Patriots) ruled out: Doubtful -> Out [NFL] (ESPN) :: Alijah Vera-Tucker: injury
+2026-10-21 20:50:57   llm groq-20b: rate limited, skip 113s
+2026-10-21 20:50:57 NEWS [ESPN 21m] Karon Prunty (CB, New England Patriots) ruled out: Questionable -> Out [NFL]
+2026-10-21 20:50:57   skip Bears :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-21 20:50:57 NEWS [ESPN 0m] Carlton Davis III (CB, New England Patriots) ruled out: Questionable -> Out [NFL]
+2026-10-21 20:50:57   skip Bears :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-21 20:50:57 NEWS [ESPN 45m] Dailyn Swain (G, Chicago Bulls) ruled out: Day-To-Day -> Out [NBA]
+2026-10-21 20:50:57   skip Raptors :: Bulls vs. Raptors (rules fallback, LLM down (not traded))
+2026-10-21 20:50:57 NEWS [ESPN 47m] Jordan Hawkins (G, Chicago Bulls) ruled out: Day-To-Day -> Out [NBA]
+2026-10-21 20:50:57   skip Raptors :: Bulls vs. Raptors (rules fallback, LLM down (not traded))
+2026-10-21 20:50:57 NEWS [ESPN 34m] Charles Bassey (C, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA]
+2026-10-21 20:50:57   skip No :: NBA: Stephen Curry to leave Warriors? (rules fallback, LLM down (not traded))
+2026-10-21 20:50:57   skip No :: Will Golden State Valkyries win the 2026 WNBA Finals? (rules fallback, LLM down (not traded))
+2026-10-21 20:50:57   skip Lakers :: Warriors vs. Lakers (rules fallback, LLM down (not traded))
