@@ -16775,3 +16775,24 @@
 2026-10-21 22:21:01 indexed 1022 markets
 2026-10-21 22:21:47 [pengwin] page e/feyenoord-az-alkmaar-statistiche-quote-e-pronostico-2026-2: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 2026-10-21 22:23:32   drop[team-not-named] Jordan Love Dealing with back injury (Fantasy Footballers Podcast) :: Green Bay Packers
+2026-10-21 22:25:53   drop[kind] Practice Notebook: Colts CB Sauce Gardner not concerned about calf injury (Colts.com) :: other
+2026-10-21 22:28:19   llm groq-120b: rate limited, skip 247s
+2026-10-21 22:28:22   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-21 22:28:22   drop[verify] Arsenal forward Bukayo Saka forced off early with apparent leg injury against Bayern Munic (Newsday) :: no answer
+2026-10-21 22:28:22   llm groq-20b: rate limited, skip 102s
+2026-10-21 22:31:05 indexed 1021 markets
+2026-10-21 22:32:44   llm groq-120b: rate limited, skip 69s
+2026-10-21 22:32:45   drop[kind] Suspended driver stopped for the second time in weeks, faces $12K in fines (CityNews Ottawa) :: other
+2026-10-21 22:35:04   drop[kind] Steelers Rookie Tackle Max Iheanachor Dealing with Hand Injury (Steelers Now) :: other
+2026-10-21 22:39:42   drop[team-not-named] Jordan Love listed as limited with back injury on Wednesday (NBC Sports) :: Green Bay Packers
+2026-10-21 22:41:09 indexed 1019 markets
+2026-10-21 22:42:06   llm groq-120b: rate limited, skip 56s
+2026-10-21 22:42:07   drop[unconfirmed] Lamar Jackson Injury: Returns in limited fashion Wednesday (RotoWire) :: limited return
+2026-10-21 22:42:07   drop[kind] Broda Shaggi recounts survival after stray bullet injury (Punch Newspapers) :: other
+2026-10-21 22:44:24   llm groq-120b: rate limited, skip 16s
+2026-10-21 22:44:24   llm groq-20b: rate limited, skip 31s
+2026-10-21 22:51:09 indexed 1022 markets
+2026-10-21 22:51:18   drop[kind] Prescribed exercise may help relieve chronic pain after spinal cord injury: new study (UBC Faculty of Medicine) :: other
+2026-10-21 22:53:37   drop[1-source] 49ers Defensive End Mykel Williams Suffers Another Knee Injury (Sports Illustrated) :: Mykel Williams, wait 2nd source
+2026-10-21 22:53:37   llm groq-120b: rate limited, skip 13s
+2026-10-21 22:53:37   drop[team-not-named] Bonnies Blackwood Is Sidelined Following Post-game Injury (TAPinto) :: Alabama Crimson Tide
