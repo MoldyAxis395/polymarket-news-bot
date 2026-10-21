@@ -16289,3 +16289,34 @@
 2026-10-21 01:51:34   drop[unconfirmed] Brandin Podziemski (G, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: day-to-day
 2026-10-21 01:53:49   drop[kind] Toddler injured in two-car crash (The Cairns Post) :: other
 2026-10-21 01:54:15 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-21 01:56:46 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 66)
+2026-10-21 01:56:49 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 66)
+2026-10-21 01:57:20 [pengwin] Betis-Barcellona: no Polymarket event (try 68)
+2026-10-21 01:57:23   llm groq-120b: rate limited, skip 115s
+2026-10-21 01:57:23 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 66)
+2026-10-21 01:57:26 [pengwin] BOLOGNA-INTER: no Polymarket event (try 66)
+2026-10-21 01:58:16   drop[not-key] No. 3 Ohio State preparing for Julian Sayin to miss rest of regular season, 'doubtful' he  (Yahoo Sports) :: Julian Sayin: arm injury
+2026-10-21 01:59:58 indexed 993 markets
+2026-10-21 02:00:49   drop[kind] Brodashaggi Shares Emotional Footage After Surviving Gunshot Injury In Ogun State (Gistlover) :: other
+2026-10-21 02:03:19   llm groq-120b: rate limited, skip 145s
+2026-10-21 02:03:19   drop[not-key] Brandin Podziemski (back) ruled out vs. Lakers (NBC Sports) :: Brandin Podziemski: back injury
+2026-10-21 02:05:25   drop[unconfirmed] ‘Playmaker’ Jaylon Domingeaux on injury, return to Wisconsin football (Badger Observer) :: injury recovery
+2026-10-21 02:07:44   drop[team-not-named] Branden Carlson (concussion) ruled out vs. Phoenix (NBC Sports) :: Winnipeg Jets
+2026-10-21 02:07:44   llm groq-120b: rate limited, skip 213s
+2026-10-21 02:07:45   drop[kind] Suspended police officer and partner further remanded over child assault (Fijivillage) :: other
+2026-10-21 02:07:45   drop[not-key] Sixers’ Dominick Barlow Faces Injury Setback Ahead of Season Opener (SSBCrack) :: Dominick Barlow: injury
+2026-10-21 02:09:07   drop[not-key] Cameron Carr (G, Los Angeles Lakers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Cameron Carr: contusion
+2026-10-21 02:09:07   drop[not-key] Adou Thiero (F, Los Angeles Lakers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Adou Thiero: injury
+2026-10-21 02:10:34 ERROR ^^^^^ |   File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 502 Server Error: Bad Gateway for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1700&order=volume24hr&ascending=false&end_date_min=2026-10-21T00%3A09%3A33Z&end_date_max=2026-11-20T00%3A09%3A33Z
+2026-10-21 02:10:54 ERROR ^^^^^^ |   File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 502 Server Error: Bad Gateway for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=800&order=volume24hr&ascending=false&end_date_min=2026-10-21T00%3A10%3A46Z&end_date_max=2026-11-20T00%3A10%3A46Z
+2026-10-21 02:11:31 indexed 989 markets
+2026-10-21 02:11:35   drop[team-not-named] Brutal Injury Diagnosis Revealed As Veteran NFL Referee Is Ruled Out For Season (TotalProSports) :: National Football League
+2026-10-21 02:12:33   llm groq-120b: rate limited, skip 143s
+2026-10-21 02:12:33   drop[unconfirmed] Jake Hummel (LB, Houston Texans) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: IR placement
+2026-10-21 02:19:08   drop[1-source] LG Twins Fall to Fourth Place After Injury-Plagued Season (조선일보) :: LG Twins, wait 2nd source
+2026-10-21 02:19:08   llm groq-120b: rate limited, skip 93s
+2026-10-21 02:19:08   drop[not-key] Kings news: LA loses Quinton Byfield to injury vs. Capitals (ClutchPoints) :: Quinton Byfield: injury
+2026-10-21 02:21:33 indexed 987 markets
+2026-10-21 02:24:14   drop[kind] Notoginsenoside R1 reduces ischemic injury in cells and rats through CKLF1-dependent metab (Bioengineer.org) :: other
+2026-10-21 02:24:14   llm groq-120b: rate limited, skip 102s
+2026-10-21 02:24:14   drop[kind] Julian Sayin 'Doubtful' To Return in the Regular Season Following Elbow Injury (Barstool Sports) :: other
