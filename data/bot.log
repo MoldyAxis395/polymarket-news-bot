@@ -16815,3 +16815,32 @@
 2026-10-21 23:21:27   drop[not-key] Tacko Fall (C, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Tacko Fall: day-to-day
 2026-10-21 23:23:49   drop[kind] Colts' Injury Woes Continue as 16 Players Appear on Week 7 Report (Sports Illustrated) :: other
 2026-10-21 23:23:50   llm groq-20b: rate limited, skip 191s
+2026-10-21 23:30:42   drop[team-not-named] Malik Willis listed as full participant with right thumb injury (NBC Sports) :: Tennessee Titans
+2026-10-21 23:30:43   llm groq-120b: rate limited, skip 36s
+2026-10-21 23:30:43   drop[team-not-named] US orders embassy staff to leave Saudi Arabia, airport suspended as WWE Crown Jewel is sti (Wrestleview.com) :: United States
+2026-10-21 23:31:15 indexed 1000 markets
+2026-10-21 23:31:43   drop[not-key] FC Cincinnati confirmed lineup vs D.C. United: Evan Louro, Julian Malatini, Teenage Hadebe (ESPN) :: Evan Louro: ruled out of starting XI
+2026-10-21 23:31:43   llm groq-120b: rate limited, skip 333s
+2026-10-21 23:31:43   llm groq-20b: rate limited, skip 45s
+2026-10-21 23:33:10   llm groq-20b: rate limited, skip 24s
+2026-10-21 23:35:24   drop[kind] Walmart launches tools for AI agents to shop for customers reut.rs/4zP6rKI (Reuters) :: other
+2026-10-21 23:39:50   drop[1-source] Utah football news: Utes tackle already ruled out for Saturday Houston clash (ClutchPoints) :: University of Utah Football (Utah Utes), wait 2nd source
+2026-10-21 23:41:02 [pengwin]   book error Will Sporting CP win on 2026-10-21?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=95964689339190880556446151671347153950760435609238655442923745072813680158280
+2026-10-21 23:41:18 indexed 1007 markets
+2026-10-21 23:41:19   llm groq-120b: rate limited, skip 16s
+2026-10-21 23:41:20   drop[unconfirmed] 🚨 Mikel Arteta: “Bukayo Saka’s injury doesn’t look good at all”. “It’s his quad and we wai (Fabrizio Romano) :: quad injury
+2026-10-21 23:42:23   drop[team-not-named] Barstool Sports questions if Julian Sayin injury will help Jeremiah Smith win Heisman (thecomeback.com) :: Texas A&M Aggies
+2026-10-21 23:42:23   llm groq-120b: rate limited, skip 193s
+2026-10-21 23:42:24   llm groq-20b: rate limited, skip 30s
+2026-10-21 23:42:24 NEWS [BBC 4m] Real Madrid dominate Leipzig for third straight win
+2026-10-21 23:42:24   skip Yes :: Will Real Madrid CF win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-21 23:42:24   skip Yes :: Will FC Barcelona win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-21 23:42:24   skip No :: FC Barcelona vs. Real Madrid CF: Both Teams to Score (rules fallback, LLM down (not traded))
+2026-10-21 23:44:28   drop[kind] Syko Stu Reveals Severe Brain Injury And Health Issues Following Raja Jackson Attack (PWMania) :: other
+2026-10-21 23:47:03 [pengwin]   SELL Yes @ 0.000 (resolved) pnl -10.00 :: Will Sporting CP win on 2026-10-21?
+2026-10-21 23:49:05   drop[kind] Bo Nix acknowledges mental aspect of returning from injury: 'I'd be lying if I said no' (Broncos Wire) :: other
+2026-10-21 23:49:05   llm groq-120b: rate limited, skip 212s
+2026-10-21 23:49:05   drop[1-source] LB Nate Landman enters concussion protocol in latest injury setback for Rams (Newsday) :: Nate Landman, wait 2nd source
+2026-10-21 23:49:05   llm groq-20b: rate limited, skip 260s
+2026-10-21 23:51:20 indexed 1010 markets
+2026-10-21 23:53:45   drop[1-source] Steelers Starting OLB Suffers Groin Injury (Sports Illustrated) :: Alex Highsmith, wait 2nd source

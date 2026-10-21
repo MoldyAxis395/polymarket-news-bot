@@ -1,26 +1,6 @@
 {
  "cash": 127.38795689984914,
- "positions": [
-  {
-   "market_id": "5436698",
-   "question": "Will Sporting CP win on 2026-10-21?",
-   "slug": "ucl-spo-lin2-2026-10-21-spo",
-   "outcome": "Yes",
-   "token": "95964689339190880556446151671347153950760435609238655442923745072813680158280",
-   "shares": 12.345679012345679,
-   "entry": 0.81,
-   "cost": 10.0,
-   "opened": 1792483940.041512,
-   "opened_iso": "2026-10-20T08:12:20+00:00",
-   "news": "SPORTING-LASK: 1 (home win) @1.22 (esatto)",
-   "reason": "pengwin exact: Base pick is home win, matches market 0 Yes",
-   "conf": 1.0,
-   "end": "2026-10-21T19:00:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1792618006.4198787
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "market_id": "5009005",
@@ -711,6 +691,29 @@
    "pnl": 1.904761904761905,
    "why": "resolved",
    "closed_iso": "2026-10-21T19:09:42+00:00"
+  },
+  {
+   "market_id": "5436698",
+   "question": "Will Sporting CP win on 2026-10-21?",
+   "slug": "ucl-spo-lin2-2026-10-21-spo",
+   "outcome": "Yes",
+   "token": "95964689339190880556446151671347153950760435609238655442923745072813680158280",
+   "shares": 12.345679012345679,
+   "entry": 0.81,
+   "cost": 10.0,
+   "opened": 1792483940.041512,
+   "opened_iso": "2026-10-20T08:12:20+00:00",
+   "news": "SPORTING-LASK: 1 (home win) @1.22 (esatto)",
+   "reason": "pengwin exact: Base pick is home win, matches market 0 Yes",
+   "conf": 1.0,
+   "end": "2026-10-21T19:00:00+00:00",
+   "last_bid": null,
+   "book_err": true,
+   "settle_retry": 1792619822.8534844,
+   "exit": 0.0,
+   "pnl": -10.0,
+   "why": "resolved",
+   "closed_iso": "2026-10-21T21:47:03+00:00"
   }
  ],
  "cooldown": {
@@ -743,6 +746,7 @@
   "5410085": 1792544147.2795374,
   "5410200": 1792545014.777066,
   "5410268": 1792545015.6347582,
-  "5409948": 1792620582.1095939
+  "5409948": 1792620582.1095939,
+  "5436698": 1792630023.4600146
  }
 }
