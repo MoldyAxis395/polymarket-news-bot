@@ -16579,3 +16579,28 @@
 2026-10-21 16:09:00 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 77)
 2026-10-21 16:09:02   llm groq-20b: rate limited, skip 128s
 2026-10-21 16:09:02 [pengwin] BOLOGNA-INTER: no Polymarket event (try 77)
+2026-10-21 16:13:20   llm groq-120b: rate limited, skip 23s
+2026-10-21 16:13:21   drop[1-source] Ireland Nations Championship squad: Jack Conan ruled out as uncapped Ulster pair Jamie Ben (Irish Independent) :: Jack Conan, wait 2nd source
+2026-10-21 16:15:32 indexed 1091 markets
+2026-10-21 16:22:35   drop[team-not-named] Serie A: Chukwueze Faces Weeks on Sidelines With Hip Injury (Real Broadcasting Network) :: Udinese
+2026-10-21 16:22:35   drop[team-not-named] Kvaratskhelia To Undergo Knee Surgery After ACL Injury Against Barcelona (Naija News) :: SSC Napoli
+2026-10-21 16:22:35   llm groq-120b: rate limited, skip 31s
+2026-10-21 16:22:36   drop[1-source] Khvicha Kvaratskhelia suffers ACL injury against Barcelona (Mid-Day) :: Khvicha Kvaratskhelia, wait 2nd source
+2026-10-21 16:22:50   drop[not-key] Sam Franklin Jr. (S, Buffalo Bills) ruled out: Active -> Suspension [NFL] (ESPN) :: Sam Franklin Jr.: suspension
+2026-10-21 16:24:56   drop[team-not-named] Kvaratskhelia's injury leaves Paris Saint-Germain facing a shocking "joker card" that terr (Goal.com) :: SSC Napoli
+2026-10-21 16:25:32 indexed 1079 markets
+2026-10-21 16:27:15   llm groq-120b: rate limited, skip 75s
+2026-10-21 16:27:16   drop[not-key] Second spitter: Bills’ Sam Franklin Jr. suspended 1 game (Field Level Media) :: Sam Franklin Jr.: suspension
+2026-10-21 16:29:47   drop[kind] Cristiano Ronaldo sends Khvicha Kvaratskhelia message of support after ACL injury for PSG  (sportal.co.nz) :: other
+2026-10-21 16:31:50   llm groq-120b: rate limited, skip 140s
+2026-10-21 16:31:51   drop[kind] Kings Injury Report: Every Injury and Status vs. Clippers for Opening Night (Sports Illustrated) :: other
+2026-10-21 16:31:51   llm groq-20b: rate limited, skip 281s
+2026-10-21 16:35:32 indexed 1094 markets
+2026-10-21 16:36:25   drop[1-source] Newcastle manager search ruled out 'all the usual suspects' and left Arteta with biggest m (Football365) :: Newcastle United, wait 2nd source
+2026-10-21 16:38:37 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 78)
+2026-10-21 16:38:39   llm groq-120b: rate limited, skip 51s
+2026-10-21 16:38:40 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 78)
+2026-10-21 16:39:09 [pengwin] Betis-Barcellona: no Polymarket event (try 80)
+2026-10-21 16:39:11 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 78)
+2026-10-21 16:39:14   llm groq-20b: rate limited, skip 53s
+2026-10-21 16:39:14 [pengwin] BOLOGNA-INTER: no Polymarket event (try 78)
