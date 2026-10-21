@@ -16844,3 +16844,20 @@
 2026-10-21 23:49:05   llm groq-20b: rate limited, skip 260s
 2026-10-21 23:51:20 indexed 1010 markets
 2026-10-21 23:53:45   drop[1-source] Steelers Starting OLB Suffers Groin Injury (Sports Illustrated) :: Alex Highsmith, wait 2nd source
+2026-10-21 23:56:07   llm groq-120b: rate limited, skip 66s
+2026-10-21 23:56:07   drop[kind] Packers Injury Report: Jordan Love has a back injury, but it’s not serious (Acme Packing Company) :: other
+2026-10-21 23:56:08   llm groq-20b: rate limited, skip 211s
+2026-10-21 23:58:26   drop[kind] Site-Shaped Glass Installations: DRIFT’s ‘Aeolus’ Turns Simulated Airflow Into Suspended… (Trend Hunter) :: other
+2026-10-22 00:00:59   drop[1-source] Steelers Veteran Cornerback Misses Practice With Injury (Steelers Now) :: Cameron Sutton, wait 2nd source
+2026-10-22 00:01:30 indexed 1005 markets
+2026-10-22 00:03:09   llm groq-120b: rate limited, skip 213s
+2026-10-22 00:03:09   drop[kind] USMNT Given Major Injury Boost Ahead of Concacaf Nations League Quarterfinals (Sports Illustrated) :: other
+2026-10-22 00:05:16   llm groq-20b: rate limited, skip 48s
+2026-10-22 00:10:43   drop[not-key] Nikola Topic (G, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Nikola Topic: out due to back surgery recovery
+2026-10-22 00:10:43   llm groq-120b: rate limited, skip 121s
+2026-10-22 00:10:44   drop[unconfirmed] Thomas Sorber (C, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: knee surgery recovery
+2026-10-22 00:11:30 indexed 999 markets
+2026-10-22 00:12:22   drop[1-source] Kappa Alpha Psi Fraternity, Inc. suspended from campus (The Crimson White) :: Kappa Alpha Psi Fraternity, Inc., wait 2nd source
+2026-10-22 00:19:32   drop[kind] Cavs Hit With Big Injury as Big Man Questionable For Season Opener (Sports Illustrated) :: other
+2026-10-22 00:19:33   drop[team-not-named] 10/21 Injury Report: VanVleet and Irving Set to Make Their Returns (roundtable.io) :: Houston Rockets
+2026-10-22 00:21:30 indexed 1000 markets
