@@ -16876,3 +16876,28 @@
 2026-10-22 00:47:15   drop[team-not-named] Lee Kang-in's First Absence Due to Injury (조선일보) :: Tottenham Hotspur
 2026-10-22 00:49:25   drop[not-key] Falcons injury report: Kendal Daniels participates fully in first practice after injury (Atlanta Falcons) :: Kendal Daniels: return after injury
 2026-10-22 00:51:34 indexed 985 markets
+2026-10-22 00:56:29   drop[unconfirmed] Bukayo Saka's injury 'does not look good at all' - Arsenal boss Mikel Arteta (BBC) :: injury appears serious and may keep him out
+2026-10-22 00:56:30   drop[1-source] Dani Olmo's injury blow hands Real Madrid a massive Clasico lifeline (LiveScore) :: Dani Olmo, wait 2nd source
+2026-10-22 00:56:30   llm groq-120b: rate limited, skip 159s
+2026-10-22 00:56:30   drop[kind] Arsenal boss Mike Arteta concerned over Bukayo Saka’s quad injury (Oxford Mail) :: other
+2026-10-22 00:56:31   drop[kind] Arteta fears Saka injury after Arsenal’s Champions League draw with Bayern (Vanguard News) :: other
+2026-10-22 01:00:52   drop[kind] Evening Injury Crash on Sicklerville Rd in Gloucester Twp., NJ (MetroLaw.com) :: other
+2026-10-22 01:00:52   llm groq-120b: rate limited, skip 154s
+2026-10-22 01:00:53   drop[unconfirmed] Broda Shaggi Opens Up About Stray Bullet Injury After Months Away (Olorisupergal) :: returning from injury
+2026-10-22 01:01:37 indexed 1008 markets
+2026-10-22 01:01:43   llm groq-20b: rate limited, skip 264s
+2026-10-22 01:06:54   llm groq-120b: rate limited, skip 5s
+2026-10-22 01:06:54   llm groq-20b: rate limited, skip 54s
+2026-10-22 01:06:54   drop[verify] Isaiah Stewart (C, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: no answer
+2026-10-22 01:10:13   drop[1-source] Injury Emerges for Steelers Defensive Lineman (Steelers Now) :: Pittsburgh Steelers, wait 2nd source
+2026-10-22 01:10:13   llm groq-120b: rate limited, skip 188s
+2026-10-22 01:10:13   drop[team-not-named] Isaiah Stewart Injury: Ruled out Wednesday (RotoWire) :: Detroit Pistons
+2026-10-22 01:11:36 indexed 1002 markets
+2026-10-22 01:17:08   drop[team-not-named] A.J. Terrell Injury: Designated to return from IR (RotoWire) :: Buffalo Bills
+2026-10-22 01:19:30   drop[not-key] Carson Schwesinger Injury: Still dealing with ankle issue (RotoWire) :: Carson Schwesinger: ankle injury limits his availability
+2026-10-22 01:19:30   llm groq-120b: rate limited, skip 255s
+2026-10-22 01:19:30   drop[team-not-named] Chukwueze out with hip injury, to miss Europa League tie (Punch Newspapers) :: West Ham United
+2026-10-22 01:21:43 indexed 1001 markets
+2026-10-22 01:21:45   drop[unconfirmed] Jett Howard (G, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: right calf tightness
+2026-10-22 01:21:50   llm groq-20b: rate limited, skip 20s
+2026-10-22 01:24:33 [pengwin] page erie-b/benevento-vicenza-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
