@@ -16796,3 +16796,22 @@
 2026-10-21 22:53:37   drop[1-source] 49ers Defensive End Mykel Williams Suffers Another Knee Injury (Sports Illustrated) :: Mykel Williams, wait 2nd source
 2026-10-21 22:53:37   llm groq-120b: rate limited, skip 13s
 2026-10-21 22:53:37   drop[team-not-named] Bonnies Blackwood Is Sidelined Following Post-game Injury (TAPinto) :: Alabama Crimson Tide
+2026-10-21 23:00:31   drop[1-source] Panthers LB Jaelan Phillips (hamstring) set to miss Week 7 game vs. Bucs (ABC11 News) :: Jaelan Phillips, wait 2nd source
+2026-10-21 23:01:12 indexed 1014 markets
+2026-10-21 23:05:20 NEWS [BBC 5m] Mac Allister scores twice as Liverpool fightback to beat Villarreal
+2026-10-21 23:05:20   skip Yes :: Will Liverpool FC win on 2026-10-25? (low conf 0.62)
+2026-10-21 23:05:20   llm groq-120b: rate limited, skip 61s
+2026-10-21 23:05:21   drop[no-pick] Foden nets hat-trick as Man City beat AEK Athens (BBC) :: short
+2026-10-21 23:09:48   llm groq-120b: rate limited, skip 295s
+2026-10-21 23:09:49   drop[verify] Khalifa Diop (C, Cleveland Cavaliers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Diop depth, not star
+2026-10-21 23:09:49   drop[kind] Dean Wade Injury: Iffy for Thursday (RotoWire) :: other
+2026-10-21 23:11:12 indexed 1015 markets
+2026-10-21 23:11:13   llm groq-20b: rate limited, skip 158s
+2026-10-21 23:16:41   drop[kind] Shengjiang San limits lung injury alongside complement-linked neutrophil responses in mice (Bioengineer.org) :: other
+2026-10-21 23:21:16 indexed 1014 markets
+2026-10-21 23:21:23   drop[1-source] Tank Dell Sends Strong Message on Injury Return for Texans (Heavy.com) :: Tank Dell, wait 2nd source
+2026-10-21 23:21:23   llm groq-120b: rate limited, skip 277s
+2026-10-21 23:21:24   drop[not-key] Khalifa Diop (knee) ruled out Thursday vs. PHI (NBC Sports) :: Khalifa Diop: knee injury
+2026-10-21 23:21:27   drop[not-key] Tacko Fall (C, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Tacko Fall: day-to-day
+2026-10-21 23:23:49   drop[kind] Colts' Injury Woes Continue as 16 Players Appear on Week 7 Report (Sports Illustrated) :: other
+2026-10-21 23:23:50   llm groq-20b: rate limited, skip 191s
