@@ -16340,144 +16340,29 @@
 2026-10-21 04:38:56 [pengwin] CLUB BRUGGE-LENS: no LLM answer (try 3)
 2026-10-21 04:38:59 [pengwin] ASTON VILLA-VIKING: no LLM answer (try 3)
 2026-10-21 04:39:01 [pengwin] BETIS-FEYENOORD: no LLM answer (try 3)
-2026-10-21 04:41:15   llm groq-120b: rate limited, skip 4s
-2026-10-21 04:44:55 indexed 997 markets
-2026-10-21 04:46:45   drop[kind] Rick Barnes unsure of Terrence Hill Jr.'s status after ankle injury at Duke (On3) :: other
-2026-10-21 04:48:54   drop[team-not-named] Miller’s teammate sidelined for remaining MotoGP races (Speedcafe.com) :: Red Bull KTM Factory Racing
-2026-10-21 04:53:31   drop[1-source] What Rick Barnes Said About Terrence Hill Jr.'s Injury After Tennessee's Exhibition Loss a (Rocky Top Insider) :: Terrence Hill Jr., wait 2nd source
-2026-10-21 04:54:55 indexed 987 markets
-2026-10-21 04:56:14   llm groq-120b: rate limited, skip 40s
-2026-10-21 04:56:15   drop[team-not-named] Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees (Ada Derana) :: SpaceX and Tesla
-2026-10-21 05:02:43   drop[not-key] Cowboys news: DeMarvion Overshown is chomping at the bit to return from injury vs. Eagles (ClutchPoints) :: DeMarvion Overshown: He is set to return from injury for the upcoming game against the Eagles
-2026-10-21 05:02:44   drop[1-source] 'Needed time' - Aston Villa ace's admission following injury return (Express and Star) :: Ollie Watkins, wait 2nd source
-2026-10-21 05:04:56 indexed 1008 markets
-2026-10-21 05:06:29 [pengwin] page onali/albania-san-marino-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-21 05:07:24 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 68)
-2026-10-21 05:07:26 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 68)
-2026-10-21 05:07:54   llm groq-120b: rate limited, skip 23s
-2026-10-21 05:07:54 [pengwin] Betis-Barcellona: no Polymarket event (try 70)
-2026-10-21 05:07:57 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 68)
-2026-10-21 05:07:57 [pengwin] page io/serie-a/bologna-inter-statistiche-quote-e-pronostico-2026: Response ended prematurely
-2026-10-21 05:08:58   llm groq-120b: rate limited, skip 845s
-2026-10-21 05:08:59 [pengwin] skip BAYERN MONACO-ARSENAL [1X (home win)]: double chance mapped to YES: Will FC Bayern München win on 2026-10-21?
-2026-10-21 05:09:02   llm groq-20b: rate limited, skip 108s
-2026-10-21 05:09:02 [pengwin] REAL MADRID-LIPSIA: no Polymarket event (try 4)
-2026-10-21 05:09:04 [pengwin] INTER-SHAKHTAR: no Polymarket event (try 4)
-2026-10-21 05:09:07 [pengwin] CLUB BRUGGE-LENS: no LLM answer (try 4)
-2026-10-21 05:09:10 [pengwin] ASTON VILLA-VIKING: no LLM answer (try 4)
-2026-10-21 05:09:12 [pengwin] BETIS-FEYENOORD: no LLM answer (try 4)
-2026-10-21 05:14:57 indexed 1004 markets
-2026-10-21 05:24:57 indexed 996 markets
-2026-10-21 05:25:49   drop[1-source] Gerald Ryan mare Sacrosanct returns from injury to chase Gosford glory (racenet.com.au) :: Sacrosanct, wait 2nd source
-2026-10-21 05:30:30   drop[not-key] INITIAL AVAILABILITY REPORT: Duke Scott Ruled Out (Inside Pack Sports) :: Duke Scott: ruled out due to injury
-2026-10-21 05:34:59 indexed 998 markets
-2026-10-21 05:37:37 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 69)
-2026-10-21 05:37:40 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 69)
-2026-10-21 05:38:08 [pengwin] Betis-Barcellona: no Polymarket event (try 71)
-2026-10-21 05:38:11 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 69)
-2026-10-21 05:38:14 [pengwin] BOLOGNA-INTER: no Polymarket event (try 68)
-2026-10-21 05:39:13   llm groq-120b: rate limited, skip 451s
-2026-10-21 05:39:15 [pengwin] skip REAL MADRID-LIPSIA [home win with zero goals conceded]: no matching market
-2026-10-21 05:39:18   llm groq-20b: rate limited, skip 958s
-2026-10-21 05:39:18 [pengwin] INTER-SHAKHTAR: no LLM answer (try 5)
-2026-10-21 05:44:59 indexed 996 markets
-2026-10-21 05:48:57   drop[kind] “A fresh start”: Injury-plagued recruit opens up on Hawthorn move (Zero Hanger) :: other
-2026-10-21 05:51:26   drop[team-not-named] PSG Beat Barcelona 4-2 But Lose Dembele, Kvaratskhelia To Injury (RealGM) :: Paris Saint-Germain
-2026-10-21 05:55:00 indexed 998 markets
-2026-10-21 06:00:47   drop[not-key] NC State vs. Stanford injury report: Duke Scott, Tristan Teasdell OUT | Jojo Trader, Kamen (247Sports) :: Duke Scott: ruled out for upcoming game
-2026-10-21 06:05:01 indexed 983 markets
-2026-10-21 06:07:27   drop[1-source] Julian Sayin "Out Indefinitely" as Buckeyes Injury Woes Add Up - WHIZ - Fox 5 / Marquee Br (WHIZ) :: Julian Sayin, wait 2nd source
-2026-10-21 06:07:44 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 70)
-2026-10-21 06:07:46 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 70)
-2026-10-21 06:08:15 [pengwin] Betis-Barcellona: no Polymarket event (try 72)
-2026-10-21 06:08:17 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 70)
-2026-10-21 06:08:20 [pengwin] BOLOGNA-INTER: no Polymarket event (try 69)
-2026-10-21 06:09:19   llm groq-120b: rate limited, skip 752s
-2026-10-21 06:09:20 [pengwin] skip INTER-SHAKHTAR [1 primo tempo]: no matching market
-2026-10-21 06:09:59   drop[1-source] Ronaldo suspended for 30 days and fined €255 for walking out of Portugal camp (Howl.link) :: Cristiano Ronaldo, wait 2nd source
-2026-10-21 06:14:26   drop[1-source] Nashik College Canteen Licence Suspended Over Hygiene (Urban Acres) :: Nashik College Canteen, wait 2nd source
-2026-10-21 06:14:59 indexed 988 markets
-2026-10-21 06:19:17   drop[not-key] Julian Sayin Out Indefinitely With Elbow Injury, Day Says (RG.org) :: Julian Sayin: elbow injury
-2026-10-21 06:21:24   llm groq-20b: rate limited, skip 131s
-2026-10-21 06:24:59 indexed 989 markets
-2026-10-21 06:35:05 indexed 989 markets
-2026-10-21 06:37:47 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 71)
-2026-10-21 06:37:50 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 71)
-2026-10-21 06:38:18 [pengwin] Betis-Barcellona: no Polymarket event (try 73)
-2026-10-21 06:38:21 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 71)
-2026-10-21 06:38:24 [pengwin] BOLOGNA-INTER: no Polymarket event (try 70)
-2026-10-21 06:39:46   drop[kind] Luke Bryan’s Son Thanks Fans for Prayers After Football Injury (Movieguide) :: other
-2026-10-21 06:45:05 indexed 979 markets
-2026-10-21 06:49:00   drop[team-not-named] Kings secure long-awaited first win, lose Quinton Byfield to upper-body injury (ABC30 Fresno) :: Colorado Avalanche
-2026-10-21 06:55:06 indexed 974 markets
-2026-10-21 06:56:27 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
-2026-10-21 07:05:04 indexed 977 markets
-2026-10-21 07:05:06   drop[kind] ❤️🫵🏼 Mac Allister on Iraola: “From the first day, I started seeing something. He's a nice  (Fabrizio Romano) :: other
-2026-10-21 07:07:28   drop[1-source] Injury-plagued Mississippi State shut out by LSU in 31-0 loss (The Reflector online) :: Mississippi State, wait 2nd source
-2026-10-21 07:07:46 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 72)
-2026-10-21 07:07:49 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 72)
-2026-10-21 07:08:17 [pengwin] Betis-Barcellona: no Polymarket event (try 74)
-2026-10-21 07:08:20 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 72)
-2026-10-21 07:08:23 [pengwin] BOLOGNA-INTER: no Polymarket event (try 71)
-2026-10-21 07:15:07 indexed 987 markets
-2026-10-21 07:25:08 indexed 988 markets
-2026-10-21 07:25:10   drop[no-market] APEC finance ministers agree to boost policy coordination, China's Lan says reut.rs/4k6K3r (Reuters) :: Asia-Pacific Economic Cooperation (APEC)
-2026-10-21 07:35:09 indexed 988 markets
-2026-10-21 07:38:43 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 73)
-2026-10-21 07:38:46 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 73)
-2026-10-21 07:39:14 [pengwin] Betis-Barcellona: no Polymarket event (try 75)
-2026-10-21 07:39:17 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 73)
-2026-10-21 07:39:19 [pengwin] BOLOGNA-INTER: no Polymarket event (try 72)
-2026-10-21 07:39:49   drop[kind] Council worker claims $1.02m in work injury lawsuit (The Courier Mail) :: other
-2026-10-21 07:45:12 indexed 997 markets
-2026-10-21 07:49:56   drop[team-not-named] Elon Musk considering Tesla-SpaceX merger (BBC) :: Tesla and SpaceX
-2026-10-21 07:55:12 indexed 993 markets
-2026-10-21 08:00:59   drop[no-market] Commanders’ WR Terry McLaurin out for season with torn patellar tendon (The New York Times) :: Washington Commanders
-2026-10-21 08:05:13 indexed 985 markets
-2026-10-21 08:09:43 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 74)
-2026-10-21 08:09:46 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 74)
-2026-10-21 08:10:14 [pengwin] Betis-Barcellona: no Polymarket event (try 76)
-2026-10-21 08:10:17 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 74)
-2026-10-21 08:10:20 [pengwin] BOLOGNA-INTER: no Polymarket event (try 73)
-2026-10-21 08:13:06   drop[kind] UK inflation jumps to 3.5% — cementing rate hike expectations (CNBC) :: other
-2026-10-21 08:15:12 indexed 975 markets
-2026-10-21 08:15:14   drop[kind] One killed, two injured in attack on Russia's Bryansk region, governor says reut.rs/3UIraA (Reuters) :: other
-2026-10-21 08:19:20   drop[1-source] Our Villa Visit Not APC Return – Suspended Zamfara Lawmakers (LEADERSHIP Newspapers) :: Zamfara State lawmakers, wait 2nd source
-2026-10-21 08:23:45   drop[1-source] Barcelona injury news: Key midfielder facing four to five weeks out after recent injury vs (Barca Universal) :: Pedri González, wait 2nd source
-2026-10-21 08:23:46   drop[1-source] 'Worst part of the game!' - Luis Enrique left reeling as Ousmane Dembele headline TRIPLE P (Goal.com) :: Ousmane Dembele, wait 2nd source
-2026-10-21 08:23:46   drop[1-source] Rival watch: Barcelona suffer major injury blow ahead of El Clasico vs Real Madrid (Madrid Universal) :: FC Barcelona, wait 2nd source
-2026-10-21 08:25:15 indexed 967 markets
-2026-10-21 08:25:17   drop[no-market] UK approves long-delayed Jackdaw gas field reut.rs/3UEo155 (Reuters) :: Jackdaw gas field
-2026-10-21 08:28:34   drop[team-not-named] Boubacar Kamara says fitness and rhythm returning after injury lay-off (OneFootball) :: Olympique de Marseille
-2026-10-21 08:31:13   drop[kind] 🔴🔵 Achraf Hakimi: “We want to win, win, win again! We want to keep winning titles”. “Luis  (Fabrizio Romano) :: other
-2026-10-21 08:33:02   drop[unconfirmed] PSG nightmare as Khvicha Kvaratskhelia injury sparks ACL rupture fears following Barcelona (Yahoo) :: injury raises ACL rupture concerns, likely sidelining him
-2026-10-21 08:35:16 indexed 975 markets
-2026-10-21 08:35:22   drop[kind] Beverly West Law Launches Personal Injury Firm in California and Nevada (StreetInsider) :: other
-2026-10-21 08:38:28   drop[no-pick] LeBron James' 76ers beat Knicks on NBA opening night (BBC) :: short
-2026-10-21 08:40:01   drop[kind] Adamantane-nitrone hybrid TA1 reduces ischemic brain injury in mouse and cell studies (Bioengineer.org) :: other
-2026-10-21 08:40:01   drop[1-source] Labour MP suspended in Covid-era bounceback loan investigation (Rayo) :: Labour Party, wait 2nd source
-2026-10-21 08:40:42   llm groq-120b: rate limited, skip 95s
-2026-10-21 08:40:43 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 75)
-2026-10-21 08:40:45 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 75)
-2026-10-21 08:41:14 [pengwin] Betis-Barcellona: no Polymarket event (try 77)
-2026-10-21 08:41:16 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 75)
-2026-10-21 08:41:19 [pengwin] BOLOGNA-INTER: no Polymarket event (try 74)
-2026-10-21 08:42:18   llm groq-120b: rate limited, skip 196s
-2026-10-21 08:42:19   drop[kind] Major concern for Kvaratskhelia! PSG star may have suffered a horrific injury (Goal.com) :: other
-2026-10-21 08:45:18 indexed 966 markets
-2026-10-21 08:53:52   drop[team-not-named] Katie Boulter Advances in Japan Open After Rain Delay, Iga Swiatek Ends Season Due to Inju (SSBCrack) :: Poland (national representation)
-2026-10-21 08:55:19 indexed 948 markets
-2026-10-21 08:58:28   drop[team-not-named] Anthony Cirelli Injury: Two goals before early exit (RotoWire) :: New Jersey Devils
-2026-10-21 09:04:41   drop[kind] 🚨 Raphinha when asked if the defeat vs PSG can affect also El Clásico: “No”. (Fabrizio Romano) :: other
-2026-10-21 09:05:19 indexed 962 markets
-2026-10-21 09:05:21   drop[kind] Getty Images files for US bankruptcy, advances restructuring plan reut.rs/4hSXxWo (Reuters) :: other
-2026-10-21 09:07:46   drop[team-not-named] Khvicha Kvaratskhelia has sustained a serious injury (NEWS.am Sport) :: SSC Napoli
-2026-10-21 09:10:05   drop[1-source] Ronaldo suspended and fined after leaving Portugal camp (سانا) :: Cristiano Ronaldo, wait 2nd source
-2026-10-21 09:11:41   llm groq-120b: rate limited, skip 36s
-2026-10-21 09:11:41 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 76)
-2026-10-21 09:11:43 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 76)
-2026-10-21 09:12:11 [pengwin] Betis-Barcellona: no Polymarket event (try 78)
-2026-10-21 09:12:14 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 76)
-2026-10-21 09:12:17 [pengwin] BOLOGNA-INTER: no Polymarket event (try 75)
-2026-10-21 09:15:20 indexed 964 markets
-2026-10-21 09:19:18 shift over, state saved
+2026-10-21 09:19:33 === start mode=paper pid=2120 ===
+2026-10-21 09:19:33 brain=llm cash=84.02 open=0
+2026-10-21 09:19:33 resuming with 10381 known news items
+2026-10-21 09:19:59 indexed 965 markets
+2026-10-21 09:20:21   drop[kind] 🚨 Raphinha when asked if the defeat vs PSG can affect also El Clásico: “No”. (Fabrizio Romano) :: other
+2026-10-21 09:20:21   llm groq-120b: rate limited, skip 14s
+2026-10-21 09:20:21   drop[kind] 🔴🔵 Achraf Hakimi: “We want to win, win, win again! We want to keep winning titles”. “Luis  (Fabrizio Romano) :: other
+2026-10-21 09:20:22   drop[kind] ❤️🫵🏼 Mac Allister on Iraola: “From the first day, I started seeing something. He's a nice  (Fabrizio Romano) :: other
+2026-10-21 09:20:22   drop[kind] 🚨 Hansi Flick: “Titles are won in June, not in October. Especially the Champions League”.  (Fabrizio Romano) :: other
+2026-10-21 09:20:23   drop[no-market] Getty Images files for US bankruptcy, advances restructuring plan reut.rs/4hSXxWo (Reuters) :: Getty Images
+2026-10-21 09:20:23   drop[team-not-named] UK approves long-delayed Jackdaw gas field reut.rs/3UEo155 (Reuters) :: UK government
+2026-10-21 09:20:24   drop[kind] One killed, two injured in attack on Russia's Bryansk region, governor says reut.rs/3UIraA (Reuters) :: other
+2026-10-21 09:22:10 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 68)
+2026-10-21 09:22:13 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 68)
+2026-10-21 09:22:45 [pengwin] Betis-Barcellona: no Polymarket event (try 70)
+2026-10-21 09:22:47   llm groq-120b: rate limited, skip 980s
+2026-10-21 09:22:47 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 68)
+2026-10-21 09:22:50 [pengwin] BOLOGNA-INTER: no Polymarket event (try 68)
+2026-10-21 09:23:56 [pengwin] skip BAYERN MONACO-ARSENAL [1X + casa over 2.5 corner]: no matching market
+2026-10-21 09:24:01 [pengwin] skip REAL MADRID-LIPSIA [home win 0-0]: no matching market
+2026-10-21 09:24:05   llm groq-20b: rate limited, skip 7s
+2026-10-21 09:24:05 [pengwin] INTER-SHAKHTAR: no LLM answer (try 4)
+2026-10-21 09:24:08 [pengwin] CLUB BRUGGE-LENS: no LLM answer (try 4)
+2026-10-21 09:24:11 [pengwin] ASTON VILLA-VIKING: no LLM answer (try 4)
+2026-10-21 09:24:14   llm groq-20b: rate limited, skip 3s
+2026-10-21 09:24:14 [pengwin] BETIS-FEYENOORD: no LLM answer (try 4)
