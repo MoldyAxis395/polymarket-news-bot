@@ -16366,3 +16366,17 @@
 2026-10-21 05:09:07 [pengwin] CLUB BRUGGE-LENS: no LLM answer (try 4)
 2026-10-21 05:09:10 [pengwin] ASTON VILLA-VIKING: no LLM answer (try 4)
 2026-10-21 05:09:12 [pengwin] BETIS-FEYENOORD: no LLM answer (try 4)
+2026-10-21 05:14:57 indexed 1004 markets
+2026-10-21 05:24:57 indexed 996 markets
+2026-10-21 05:25:49   drop[1-source] Gerald Ryan mare Sacrosanct returns from injury to chase Gosford glory (racenet.com.au) :: Sacrosanct, wait 2nd source
+2026-10-21 05:30:30   drop[not-key] INITIAL AVAILABILITY REPORT: Duke Scott Ruled Out (Inside Pack Sports) :: Duke Scott: ruled out due to injury
+2026-10-21 05:34:59 indexed 998 markets
+2026-10-21 05:37:37 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 69)
+2026-10-21 05:37:40 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 69)
+2026-10-21 05:38:08 [pengwin] Betis-Barcellona: no Polymarket event (try 71)
+2026-10-21 05:38:11 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 69)
+2026-10-21 05:38:14 [pengwin] BOLOGNA-INTER: no Polymarket event (try 68)
+2026-10-21 05:39:13   llm groq-120b: rate limited, skip 451s
+2026-10-21 05:39:15 [pengwin] skip REAL MADRID-LIPSIA [home win with zero goals conceded]: no matching market
+2026-10-21 05:39:18   llm groq-20b: rate limited, skip 958s
+2026-10-21 05:39:18 [pengwin] INTER-SHAKHTAR: no LLM answer (try 5)
