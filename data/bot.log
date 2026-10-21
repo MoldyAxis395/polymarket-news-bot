@@ -16823,3 +16823,16 @@
 2026-10-21 20:36:42   llm groq-120b: rate limited, skip 16s
 2026-10-21 20:38:11 indexed 1064 markets
 2026-10-21 20:39:13   drop[1-source] Patriots’ Carlton Davis Dealt Injury Blow Ahead of Bears Game (Heavy.com) :: Carlton Davis, wait 2nd source
+2026-10-21 20:41:22   drop[1-source] Dani Olmo sidelined for around one month with adductor injury at Barcelona (OneFootball) :: Dani Olmo, wait 2nd source
+2026-10-21 20:41:22   llm groq-120b: rate limited, skip 246s
+2026-10-21 20:41:23   drop[unconfirmed] Another nightmare for PSG! Dembélé faces three weeks out after Barcelona injury (Dailysports) :: injury
+2026-10-21 20:42:11 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 86)
+2026-10-21 20:42:13   llm groq-20b: rate limited, skip 60s
+2026-10-21 20:42:13 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 86)
+2026-10-21 20:42:42 [pengwin] Betis-Barcellona: no Polymarket event (try 88)
+2026-10-21 20:42:44 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 86)
+2026-10-21 20:42:46 [pengwin] BOLOGNA-INTER: no Polymarket event (try 86)
+2026-10-21 20:43:37   llm groq-20b: rate limited, skip 114s
+2026-10-21 20:48:14 indexed 1069 markets
+2026-10-21 20:48:29   drop[kind] Mining worker suspended a year over secret complaints wins $84k (Human Resources Director) :: other
+2026-10-21 20:49:57 shift over, state saved
