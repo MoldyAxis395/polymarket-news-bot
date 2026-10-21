@@ -16666,3 +16666,28 @@
 2026-10-21 17:39:28 [pengwin] Betis-Barcellona: no Polymarket event (try 82)
 2026-10-21 17:39:30 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 80)
 2026-10-21 17:39:32 [pengwin] BOLOGNA-INTER: no Polymarket event (try 80)
+2026-10-21 17:40:42   llm groq-20b: rate limited, skip 195s
+2026-10-21 17:45:19   drop[1-source] Big El Clasico blow for Barcelona as key star ruled out for a month with injury (footballtoday.com) :: Robert Lewandowski, wait 2nd source
+2026-10-21 17:45:22   llm groq-120b: rate limited, skip 132s
+2026-10-21 17:45:23   drop[no-market] US Trustee cleared to pursue Jackson Walker fees in ethics fight reut.rs/4yV8r3U (Reuters) :: Jackson Walker
+2026-10-21 17:46:06   llm groq-20b: rate limited, skip 182s
+2026-10-21 17:47:54 indexed 1076 markets
+2026-10-21 17:48:16   drop[not-key] Como confirmed lineup vs Manchester United: Robert Sánchez, Trevoh Chalobah, Ivan Smolcic, (ESPN) :: Assane Diao: ruled out of starting XI
+2026-10-21 17:48:17   llm groq-120b: rate limited, skip 274s
+2026-10-21 17:52:37   drop[team-not-named] Kano lawmaker suspended for allegedly insulting Gov Yusuf (Daily Trust) :: 
+2026-10-21 17:54:56   drop[kind] Woman Escapes Injury After Rare Elk-Vehicle Crash in Lancaster County (KLIN) :: other
+2026-10-21 17:57:23   llm groq-120b: rate limited, skip 99s
+2026-10-21 17:57:24   drop[not-key] Lakers news: Secret Bronny James injury revealed after he bombed in preseason (ClutchPoints) :: Bronny James: injury
+2026-10-21 17:57:52 indexed 1075 markets
+2026-10-21 18:01:49   drop[kind] Six options for Hansi Flick to turn to following Barcelona midfielder’s injury (Barca Universal) :: other
+2026-10-21 18:04:07   drop[unconfirmed] Barcelona fear Jules Kounde will also miss El Clasico with ankle injury (Barca Blaugranes) :: ankle injury
+2026-10-21 18:04:07   llm groq-120b: rate limited, skip 223s
+2026-10-21 18:04:09   drop[team-not-named] Andy Roddick shares the 'best-case scenario' for Joao Fonseca now as he ends season early  (Tennishead) :: Portugal
+2026-10-21 18:04:09   drop[kind] Tesla earnings loom after Musk calls SpaceX merger a 'good idea' (CNBC) :: other
+2026-10-21 18:04:10   llm groq-20b: rate limited, skip 185s
+2026-10-21 18:07:54 indexed 1082 markets
+2026-10-21 18:08:45   drop[1-source] Champion Stakes scorer Ombudsman ruled out of Breeders' Cup - but Japan Cup swansong 'unde (Racing Post) :: Ombudsman, wait 2nd source
+2026-10-21 18:09:40   llm groq-120b: rate limited, skip 180s
+2026-10-21 18:09:40   llm groq-20b: rate limited, skip 29s
+2026-10-21 18:09:59 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 81)
+2026-10-21 18:10:02 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 81)
