@@ -16752,3 +16752,26 @@
 2026-10-21 21:50:45   llm groq-120b: rate limited, skip 153s
 2026-10-21 21:50:46   drop[not-key] Collin Sexton (G, Los Angeles Lakers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Collin Sexton: right soleus strain
 2026-10-21 21:52:48 [pengwin] page -league/copenhagen-braga-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-21 21:57:49   drop[kind] Waldorf Golden Corral License Suspended Over Roaches, Food Safety Violations (The BayNet) :: other
+2026-10-21 21:57:49   llm groq-120b: rate limited, skip 34s
+2026-10-21 21:57:50   drop[team-not-named] Mike Evans Injury: Not slated to practice Wednesday (RotoWire) :: Tampa Bay Buccaneers
+2026-10-21 22:00:31   drop[1-source] Smith injury adds to Australia woes as defeat looms in second test (The Straits Times) :: Steve Smith, wait 2nd source
+2026-10-21 22:00:31   llm groq-120b: rate limited, skip 100s
+2026-10-21 22:00:32   drop[kind] Gabbia to begin conservative treatment immediately to recover from injury (Milanreports.com) :: other
+2026-10-21 22:01:03 indexed 1013 markets
+2026-10-21 22:05:00   drop[unconfirmed] Kentucky is hopeful Grant Grayton can return from injury before end of season (On3) :: team hopeful he can play before season ends
+2026-10-21 22:09:46   drop[not-key] Micah Potter Injury: Upgraded to probable (RotoWire) :: Micah Potter: upgraded to probable
+2026-10-21 22:11:00 indexed 1023 markets
+2026-10-21 22:11:06   llm groq-120b: rate limited, skip 121s
+2026-10-21 22:11:07   drop[kind] Tesla beats on earnings and revenue (CNBC) :: other
+2026-10-21 22:11:56   drop[kind] Pabst: News on Hurts injury is 'out of control' (NBC Sports) :: other
+2026-10-21 22:11:57   drop[not-key] Collin Sexton out for Lakers’ season opener vs. Warriors with calf injury (ClutchPoints) :: Collin Sexton: calf injury
+2026-10-21 22:13:25   llm groq-120b: rate limited, skip 37s
+2026-10-21 22:13:25   llm groq-20b: rate limited, skip 175s
+2026-10-21 22:14:14   drop[team-not-named] Some good news from Gurv Sihra about that lung injury he suffered on the indies (Cageside Seats) :: Chicago White Sox
+2026-10-21 22:14:14   llm groq-120b: rate limited, skip 311s
+2026-10-21 22:16:31   drop[not-key] Tyler Warren did not practice on Wednesday with groin injury (NBC Sports) :: Tyler Warren: groin injury
+2026-10-21 22:16:31   llm groq-20b: rate limited, skip 271s
+2026-10-21 22:21:01 indexed 1022 markets
+2026-10-21 22:21:47 [pengwin] page e/feyenoord-az-alkmaar-statistiche-quote-e-pronostico-2026-2: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-21 22:23:32   drop[team-not-named] Jordan Love Dealing with back injury (Fantasy Footballers Podcast) :: Green Bay Packers
