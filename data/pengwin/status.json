@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-21T05:39:18",
+ "updated": "2026-10-21T06:09:21",
  "start": 100.0,
  "cash": 115.48,
- "equity": 135.36,
+ "equity": 135.49,
  "open": [
   {
    "market_id": "5436698",
@@ -19,7 +19,7 @@
    "reason": "pengwin exact: Base pick is home win, matches market 0 Yes",
    "conf": 1.0,
    "end": "2026-10-21T19:00:00+00:00",
-   "last_bid": 0.81,
+   "last_bid": 0.82,
    "book_err": false,
    "settle_retry": 1792550392.2940054
   },
@@ -45,10 +45,10 @@
  "closed_count": 29,
  "realized_pnl": 35.48,
  "pages": {
-  "pending": 146,
+  "pending": 145,
   "picked": 1,
   "traded": 31,
-  "skipped": 107,
+  "skipped": 108,
   "expired": 0
  }
 }

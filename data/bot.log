@@ -16380,3 +16380,17 @@
 2026-10-21 05:39:15 [pengwin] skip REAL MADRID-LIPSIA [home win with zero goals conceded]: no matching market
 2026-10-21 05:39:18   llm groq-20b: rate limited, skip 958s
 2026-10-21 05:39:18 [pengwin] INTER-SHAKHTAR: no LLM answer (try 5)
+2026-10-21 05:44:59 indexed 996 markets
+2026-10-21 05:48:57   drop[kind] “A fresh start”: Injury-plagued recruit opens up on Hawthorn move (Zero Hanger) :: other
+2026-10-21 05:51:26   drop[team-not-named] PSG Beat Barcelona 4-2 But Lose Dembele, Kvaratskhelia To Injury (RealGM) :: Paris Saint-Germain
+2026-10-21 05:55:00 indexed 998 markets
+2026-10-21 06:00:47   drop[not-key] NC State vs. Stanford injury report: Duke Scott, Tristan Teasdell OUT | Jojo Trader, Kamen (247Sports) :: Duke Scott: ruled out for upcoming game
+2026-10-21 06:05:01 indexed 983 markets
+2026-10-21 06:07:27   drop[1-source] Julian Sayin "Out Indefinitely" as Buckeyes Injury Woes Add Up - WHIZ - Fox 5 / Marquee Br (WHIZ) :: Julian Sayin, wait 2nd source
+2026-10-21 06:07:44 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 70)
+2026-10-21 06:07:46 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 70)
+2026-10-21 06:08:15 [pengwin] Betis-Barcellona: no Polymarket event (try 72)
+2026-10-21 06:08:17 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 70)
+2026-10-21 06:08:20 [pengwin] BOLOGNA-INTER: no Polymarket event (try 69)
+2026-10-21 06:09:19   llm groq-120b: rate limited, skip 752s
+2026-10-21 06:09:20 [pengwin] skip INTER-SHAKHTAR [1 primo tempo]: no matching market
