@@ -16604,3 +16604,26 @@
 2026-10-21 16:39:11 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 78)
 2026-10-21 16:39:14   llm groq-20b: rate limited, skip 53s
 2026-10-21 16:39:14 [pengwin] BOLOGNA-INTER: no Polymarket event (try 78)
+2026-10-21 16:41:01   llm groq-120b: rate limited, skip 86s
+2026-10-21 16:41:01   llm groq-20b: rate limited, skip 100s
+2026-10-21 16:43:20   llm groq-120b: rate limited, skip 309s
+2026-10-21 16:43:20   llm groq-20b: rate limited, skip 597s
+2026-10-21 16:45:35 indexed 1097 markets
+2026-10-21 16:50:15   drop[1-source] DB Franklin becomes 2nd Bills player suspended for spitting in Raiders game (ESPN La Crosse 105.5) :: DB Franklin, wait 2nd source
+2026-10-21 16:50:17   drop[1-source] Oh no. Barcelona leader ruled out for 4 weeks and will miss El Clásico (Dailysports) :: Marc-André ter Stegen, wait 2nd source
+2026-10-21 16:55:36 indexed 1099 markets
+2026-10-21 16:59:32   drop[team-not-named] Pierre-Luc Dubois Injury: On track to return Saturday (RotoWire) :: Winnipeg Jets
+2026-10-21 16:59:33   drop[no-market] Another Buffalo Bills Player Has Been Suspended For Spitting In The Same Game (TotalProSports) :: Buffalo Bills
+2026-10-21 17:01:50   llm groq-120b: rate limited, skip 56s
+2026-10-21 17:01:50   drop[1-source] Injury Ward: Dahlin’s Impending Return; Islanders’ Injury Woes & South Beach’s Bad Breaks (DobberHockey) :: Johan Dahlin, wait 2nd source
+2026-10-21 17:02:54   llm groq-120b: rate limited, skip 3s
+2026-10-21 17:02:55   drop[not-key] Justin Danforth (RW, Buffalo Sabres) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Justin Danforth: injury
+2026-10-21 17:04:08   llm groq-120b: rate limited, skip 334s
+2026-10-21 17:04:09   drop[kind] Cristiano Ronaldo sends emotional message to Khvicha Kvaratskhelia after ACL injury vs Bar (101 Great Goals) :: other
+2026-10-21 17:04:09   llm groq-20b: rate limited, skip 238s
+2026-10-21 17:05:36 indexed 1083 markets
+2026-10-21 17:08:52 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 79)
+2026-10-21 17:08:54 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 79)
+2026-10-21 17:09:25 [pengwin] Betis-Barcellona: no Polymarket event (try 81)
+2026-10-21 17:09:28 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 79)
+2026-10-21 17:09:32 [pengwin] BOLOGNA-INTER: no Polymarket event (try 79)
