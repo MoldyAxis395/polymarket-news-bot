@@ -16790,3 +16790,36 @@
 2026-10-21 20:08:58   drop[not-key] Jordan Hawkins Injury: Downgraded to out (RotoWire) :: Jordan Hawkins: injury downgrade to out
 2026-10-21 20:08:58   llm groq-120b: rate limited, skip 198s
 2026-10-21 20:08:59   drop[not-key] Quinton Byfield Injury: Considered day-to-day (RotoWire) :: Quinton Byfield: injury
+2026-10-21 20:11:08 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 85)
+2026-10-21 20:11:10   llm groq-20b: rate limited, skip 130s
+2026-10-21 20:11:10 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 85)
+2026-10-21 20:11:37 [pengwin] Betis-Barcellona: no Polymarket event (try 87)
+2026-10-21 20:11:39 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 85)
+2026-10-21 20:11:41 [pengwin] BOLOGNA-INTER: no Polymarket event (try 85)
+2026-10-21 20:11:45 mlb_lineups error x1: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-21 20:15:53   drop[kind] Lindsey Vonn smiling again after injury and poses topless to promote new project (MARCA) :: other
+2026-10-21 20:18:11 indexed 1072 markets
+2026-10-21 20:20:49   drop[team-not-named] PSG confirm ACL injury to Kvaratskhelia (وكالة سبأ) :: Paris Saint-Germain Football Club
+2026-10-21 20:20:49   llm groq-120b: rate limited, skip 83s
+2026-10-21 20:20:50   drop[1-source] Johan Manzambi’s winner gives Aston Villa edge, but injury cloud lingers before Aston Vill (شبكة تواصل الإخبارية) :: Johan Manzambi, wait 2nd source
+2026-10-21 20:20:50   drop[kind] Mike McCarthy Avoided One Steelers Locker Room Fate After Injury Scare (Gridiron Heroics) :: other
+2026-10-21 20:20:54   llm groq-20b: rate limited, skip 398s
+2026-10-21 20:20:54 NEWS [ESPN 15m] Dailyn Swain (G, Chicago Bulls) ruled out: Day-To-Day -> Out [NBA]
+2026-10-21 20:20:54   skip Raptors :: Bulls vs. Raptors (rules fallback, LLM down (not traded))
+2026-10-21 20:20:54 NEWS [ESPN 4m] Charles Bassey (C, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA]
+2026-10-21 20:20:54   skip No :: NBA: Stephen Curry to leave Warriors? (rules fallback, LLM down (not traded))
+2026-10-21 20:20:54   skip No :: Will Golden State Valkyries win the 2026 WNBA Finals? (rules fallback, LLM down (not traded))
+2026-10-21 20:20:54   skip Lakers :: Warriors vs. Lakers (rules fallback, LLM down (not traded))
+2026-10-21 20:27:28   drop[1-source] Liverpool star “back on grass” after injury (DaveOCKOP) :: Liverpool Football Club, wait 2nd source
+2026-10-21 20:28:11 indexed 1062 markets
+2026-10-21 20:34:17   drop[not-key] Channing Canada (CB, New England Patriots) ruled out: Questionable -> Out [NFL] (ESPN) :: Channing Canada: injury
+2026-10-21 20:34:18   drop[not-key] Ben Brown (C, New England Patriots) ruled out: Doubtful -> Out [NFL] (ESPN) :: Ben Brown: ruled out due to injury
+2026-10-21 20:34:18   llm groq-120b: rate limited, skip 104s
+2026-10-21 20:34:18   drop[not-key] Carlton Davis III (CB, New England Patriots) ruled out: Questionable -> Out [NFL] (ESPN) :: Carlton Davis III: injury
+2026-10-21 20:34:19   drop[not-key] Alijah Vera-Tucker (G, New England Patriots) ruled out: Doubtful -> Out [NFL] (ESPN) :: Alijah Vera-Tucker: injury
+2026-10-21 20:34:19   llm groq-20b: rate limited, skip 170s
+2026-10-21 20:34:19 NEWS [ESPN 4m] Karon Prunty (CB, New England Patriots) ruled out: Questionable -> Out [NFL]
+2026-10-21 20:34:19   skip Bears :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-21 20:36:42   llm groq-120b: rate limited, skip 16s
+2026-10-21 20:38:11 indexed 1064 markets
+2026-10-21 20:39:13   drop[1-source] Patriots’ Carlton Davis Dealt Injury Blow Ahead of Bears Game (Heavy.com) :: Carlton Davis, wait 2nd source
