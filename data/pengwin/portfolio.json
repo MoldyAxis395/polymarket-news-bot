@@ -1,5 +1,5 @@
 {
- "cash": 115.48319499508723,
+ "cash": 127.38795689984914,
  "positions": [
   {
    "market_id": "5436698",
@@ -16,27 +16,9 @@
    "reason": "pengwin exact: Base pick is home win, matches market 0 Yes",
    "conf": 1.0,
    "end": "2026-10-21T19:00:00+00:00",
-   "last_bid": 0.72,
+   "last_bid": 0.58,
    "book_err": false,
-   "settle_retry": 1792550392.2940054
-  },
-  {
-   "market_id": "5409948",
-   "question": "Como 1907 vs. Manchester United FC: O/U 1.5",
-   "slug": "ucl-com-mnu-2026-10-21-total-1pt5",
-   "outcome": "Over",
-   "token": "76411619961364246431625221506759671651914837397834003479641781025412575741056",
-   "shares": 11.904761904761905,
-   "entry": 0.84,
-   "cost": 10.0,
-   "opened": 1792548509.405678,
-   "opened_iso": "2026-10-21T02:08:29+00:00",
-   "news": "COMO-MANCHESTER UNITED: OVER 1.5 (approssimato)",
-   "reason": "pengwin approx: replicates over 1.5 leg of combo",
-   "conf": 1.0,
-   "end": "2026-10-21T16:45:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false
+   "settle_retry": 1792611236.446183
   }
  ],
  "closed": [
@@ -706,6 +688,29 @@
    "pnl": -10.0,
    "why": "resolved",
    "closed_iso": "2026-10-20T22:10:15+00:00"
+  },
+  {
+   "market_id": "5409948",
+   "question": "Como 1907 vs. Manchester United FC: O/U 1.5",
+   "slug": "ucl-com-mnu-2026-10-21-total-1pt5",
+   "outcome": "Over",
+   "token": "76411619961364246431625221506759671651914837397834003479641781025412575741056",
+   "shares": 11.904761904761905,
+   "entry": 0.84,
+   "cost": 10.0,
+   "opened": 1792548509.405678,
+   "opened_iso": "2026-10-21T02:08:29+00:00",
+   "news": "COMO-MANCHESTER UNITED: OVER 1.5 (approssimato)",
+   "reason": "pengwin approx: replicates over 1.5 leg of combo",
+   "conf": 1.0,
+   "end": "2026-10-21T16:45:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1792610381.437886,
+   "exit": 1.0,
+   "pnl": 1.904761904761905,
+   "why": "resolved",
+   "closed_iso": "2026-10-21T19:09:42+00:00"
   }
  ],
  "cooldown": {
@@ -737,6 +742,7 @@
   "5383447": 1792536797.5480778,
   "5410085": 1792544147.2795374,
   "5410200": 1792545014.777066,
-  "5410268": 1792545015.6347582
+  "5410268": 1792545015.6347582,
+  "5409948": 1792620582.1095939
  }
 }

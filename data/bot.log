@@ -16712,3 +16712,26 @@
 2026-10-21 20:50:57   skip No :: NBA: Stephen Curry to leave Warriors? (rules fallback, LLM down (not traded))
 2026-10-21 20:50:57   skip No :: Will Golden State Valkyries win the 2026 WNBA Finals? (rules fallback, LLM down (not traded))
 2026-10-21 20:50:57   skip Lakers :: Warriors vs. Lakers (rules fallback, LLM down (not traded))
+2026-10-21 20:55:42   drop[kind] Brain Injury Can Initiate Biological, Behavioral and Social Changes that Persist for Years (JD Supra) :: other
+2026-10-21 20:59:31   llm groq-120b: rate limited, skip 311s
+2026-10-21 20:59:31   drop[side] 0️⃣📉 Zero wins in the last seven games in all competitions for Manchester United. (Fabrizio Romano) :: Will Manchester United FC win on 2026-10-25? -> Yes vs fact result: - (Manchester United, soccer), bad for Manchester Un
+2026-10-21 20:59:38 [pengwin]   book error Como 1907 vs. Manchester United FC: O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=76411619961364246431625221506759671651914837397834003479641781025412575741056
+2026-10-21 21:00:41 indexed 1038 markets
+2026-10-21 21:01:43   drop[no-market] Planned Parenthood chapter fired workers for opposing 'mission drift,' lawsuit claims reut (Reuters) :: Planned Parenthood chapter
+2026-10-21 21:03:22   drop[team-not-named] Jayden Reed injury may have quietly paved the way for Matthew Golden's breakout (Lombardi Ave) :: New York Jets
+2026-10-21 21:05:40   drop[1-source] Attorney Cornell Johnson Suspended in Colorado Over Client Trust Account Violations (ALABnews -) :: Cornell Johnson, wait 2nd source
+2026-10-21 21:09:41 [pengwin]   SELL Over @ 1.000 (resolved) pnl +1.90 :: Como 1907 vs. Manchester United FC: O/U 1.5
+2026-10-21 21:10:43 indexed 1014 markets
+2026-10-21 21:13:15   drop[not-key] Kyle Monangai (RB, Chicago Bears) ruled out: Questionable -> Out [NFL] (ESPN) :: Kyle Monangai: ruled out for Thursday game vs New England
+2026-10-21 21:15:27   drop[not-key] Attorney Weitao Chen Suspended in New Jersey After U.S. Patent and Trademark Office Sancti (ALABnews -) :: Weitao Chen: suspended after USPTO sanction
+2026-10-21 21:17:44   llm groq-120b: rate limited, skip 99s
+2026-10-21 21:17:44   drop[1-source] Disaster! Arsenal star suffers injury in opening minutes against Bayern Munich (Dailysports) :: Bukayo Saka, wait 2nd source
+2026-10-21 21:20:43 indexed 1021 markets
+2026-10-21 21:21:46   llm groq-120b: rate limited, skip 149s
+2026-10-21 21:21:46 NEWS [ESPN 0m] Jack Sanborn (LB, Chicago Bears) ruled out: Questionable -> Out [NFL]
+2026-10-21 21:21:46   skip Patriots :: Patriots vs. Bears (low conf 0.6)
+2026-10-21 21:22:20   drop[team-not-named] OL forward Keito Nakamura given one-match ban plus one suspended (OneFootball) :: Olympique Lyonnais
+2026-10-21 21:23:56 [pengwin]   book error Will Sporting CP win on 2026-10-21?: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-21 21:24:38   llm groq-120b: rate limited, skip 70s
+2026-10-21 21:24:39   drop[not-key] Kyle Monangai ruled out, Jonah Jackson set to play vs. Patriots (NBC Sports) :: Kyle Monangai: injury
+2026-10-21 21:24:39   llm groq-20b: rate limited, skip 147s

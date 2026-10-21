@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-21T20:54:37",
+ "updated": "2026-10-21T21:24:56",
  "start": 100.0,
- "cash": 115.48,
- "equity": 136.26,
+ "cash": 127.39,
+ "equity": 134.55,
  "open": [
   {
    "market_id": "5436698",
@@ -19,33 +19,15 @@
    "reason": "pengwin exact: Base pick is home win, matches market 0 Yes",
    "conf": 1.0,
    "end": "2026-10-21T19:00:00+00:00",
-   "last_bid": 0.72,
+   "last_bid": 0.58,
    "book_err": false,
-   "settle_retry": 1792550392.2940054
-  },
-  {
-   "market_id": "5409948",
-   "question": "Como 1907 vs. Manchester United FC: O/U 1.5",
-   "slug": "ucl-com-mnu-2026-10-21-total-1pt5",
-   "outcome": "Over",
-   "token": "76411619961364246431625221506759671651914837397834003479641781025412575741056",
-   "shares": 11.904761904761905,
-   "entry": 0.84,
-   "cost": 10.0,
-   "opened": 1792548509.405678,
-   "opened_iso": "2026-10-21T02:08:29+00:00",
-   "news": "COMO-MANCHESTER UNITED: OVER 1.5 (approssimato)",
-   "reason": "pengwin approx: replicates over 1.5 leg of combo",
-   "conf": 1.0,
-   "end": "2026-10-21T16:45:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false
+   "settle_retry": 1792611236.446183
   }
  ],
- "closed_count": 29,
- "realized_pnl": 35.48,
+ "closed_count": 30,
+ "realized_pnl": 37.39,
  "pages": {
-  "pending": 152,
+  "pending": 151,
   "picked": 1,
   "traded": 31,
   "skipped": 108,
