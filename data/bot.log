@@ -16346,3 +16346,14 @@
 2026-10-21 03:20:29   drop[kind] Saluda Medical's shares hit record low on Evoke device recall reut.rs/4yBPFh0 (Reuters) :: other
 2026-10-21 03:22:28 indexed 984 markets
 2026-10-21 03:22:43   drop[no-pick] Toronto Maple Leafs’ Jake McCabe exits game with injury vs. Columbus Blue Jackets (TSN) :: short
+2026-10-21 03:24:50   drop[kind] Val Chmerkovskiy Suspended from Dancing with the Stars After Social Media Controversy (SSBCrack) :: other
+2026-10-21 03:26:47 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-21 03:29:47 [pengwin] Betis-Barcellona: no Polymarket event (try 69)
+2026-10-21 03:29:49   llm groq-120b: rate limited, skip 16s
+2026-10-21 03:29:50 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 67)
+2026-10-21 03:29:52 [pengwin] BOLOGNA-INTER: no Polymarket event (try 67)
+2026-10-21 03:30:58   llm groq-120b: rate limited, skip 292s
+2026-10-21 03:31:14 [pengwin] ERROR  651, in request |     resp = self.send(prep, **send_kwargs) |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send |     r = adapter.send(request, **kwargs) |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py", line 742, in send |     raise ReadTimeout(e, request=request) | requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-21 03:31:53 indexed 987 markets
+2026-10-21 03:32:09   drop[team-not-named] Pathahewaheta PS suspended (The Morning) :: 
+2026-10-21 03:33:56 shift over, state saved
