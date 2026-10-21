@@ -16320,3 +16320,21 @@
 2026-10-21 02:24:14   drop[kind] Notoginsenoside R1 reduces ischemic injury in cells and rats through CKLF1-dependent metab (Bioengineer.org) :: other
 2026-10-21 02:24:14   llm groq-120b: rate limited, skip 102s
 2026-10-21 02:24:14   drop[kind] Julian Sayin 'Doubtful' To Return in the Regular Season Following Elbow Injury (Barstool Sports) :: other
+2026-10-21 02:26:32   drop[kind] Age affects acute traumatic brain injury outcomes in rats exposed to the same impact setti (Bioengineer.org) :: other
+2026-10-21 02:27:22 [pengwin] ERROR  in request |     resp = self.send(prep, **send_kwargs) |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send |     r = adapter.send(request, **kwargs) |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py", line 742, in send |     raise ReadTimeout(e, request=request) | requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Read timed out. (read timeout=20)
+2026-10-21 02:28:47   llm groq-120b: rate limited, skip 37s
+2026-10-21 02:28:49   llm groq-20b: rate limited, skip 359s
+2026-10-21 02:28:49   drop[no-pick] Adou Thiero (knee) ruled out vs. Golden State (NBC Sports) :: None
+2026-10-21 02:31:18   drop[1-source] Warriors Make Stephen Curry Announcement Ahead of Lakers Opener After Injury Scare (Heavy.com) :: Stephen Curry, wait 2nd source
+2026-10-21 02:31:18   llm groq-120b: rate limited, skip 262s
+2026-10-21 02:31:47 indexed 980 markets
+2026-10-21 02:35:40   llm groq-120b: rate limited, skip 18s
+2026-10-21 02:35:41   llm groq-20b: rate limited, skip 73s
+2026-10-21 02:38:01   drop[1-source] Ja’Kobi Jackson Undergoes Surgery for Lisfranc Injury, Hopes to Return By Michigan Game (Eleven Warriors) :: Ja’Kobi Jackson, wait 2nd source
+2026-10-21 02:41:16 feed bbc_world error x1: HTTPSConnectionPool(host='feeds.bbci.co.uk', port=443): Read timed out. (read timeout=15)
+2026-10-21 02:41:47 indexed 978 markets
+2026-10-21 02:44:54   drop[1-source] Lee Kang-in Sidelined by Quadriceps Injury in Atlético Madrid's 1-1 Draw (조선일보) :: Lee Kang-in, wait 2nd source
+2026-10-21 02:47:13   drop[team-not-named] Bradley Beal (knee) ruled out vs. Sacramento (NBC Sports) :: Washington Wizards
+2026-10-21 02:47:26   llm groq-120b: rate limited, skip 226s
+2026-10-21 02:47:26   drop[unconfirmed] Cooper McDonald (LB, Kansas City Chiefs) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: knee injury
+2026-10-21 02:52:25 indexed 985 markets
