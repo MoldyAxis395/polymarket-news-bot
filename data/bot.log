@@ -16366,3 +16366,21 @@
 2026-10-21 09:24:11 [pengwin] ASTON VILLA-VIKING: no LLM answer (try 4)
 2026-10-21 09:24:14   llm groq-20b: rate limited, skip 3s
 2026-10-21 09:24:14 [pengwin] BETIS-FEYENOORD: no LLM answer (try 4)
+2026-10-21 09:30:00 indexed 961 markets
+2026-10-21 09:32:41   drop[1-source] Celta Vigo hit by fresh injury blow as five players ruled out of Celtic clash (67 Hail Hail) :: Celta Vigo, wait 2nd source
+2026-10-21 09:35:00   drop[1-source] APEC finance ministers agree to boost policy coordination, China's Lan says, China News (AsiaOne.com) :: Lan Yu, wait 2nd source
+2026-10-21 09:40:12 indexed 963 markets
+2026-10-21 09:41:54   drop[1-source] CAF Champions League: MC Alger captain, Abdellaoui ruled out of Rangers' second leg (Daily Post Nigeria) :: Abdellaoui, wait 2nd source
+2026-10-21 09:42:55   drop[kind] 🚨🏆 Hansi Flick: “I have to say that: in October, you can't win titles”. “The titles, and e (Fabrizio Romano) :: other
+2026-10-21 09:46:30   llm groq-120b: rate limited, skip 223s
+2026-10-21 09:46:32   drop[1-source] Second Labour MP suspended over taxpayer-funded Covid loan repayments (The National Scot) :: John Smith, wait 2nd source
+2026-10-21 09:48:58   drop[not-key] Vikings Running Back Jordan Mason Returns to Practice After Injury (SSBCrack) :: Jordan Mason: player returns
+2026-10-21 09:50:13 indexed 955 markets
+2026-10-21 09:51:07   drop[kind] Suspended sentences and fines: Luxembourg entrepreneur among six on trial in Metz over pos (RTL Today) :: other
+2026-10-21 09:52:57 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 69)
+2026-10-21 09:53:00 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 69)
+2026-10-21 09:53:25   llm groq-120b: rate limited, skip 625s
+2026-10-21 09:53:27   drop[kind] Carrick Faces Selection Headache as Injury-Hit Manchester United Travel to Como (https://streamlinefeed.co.ke/) :: other
+2026-10-21 09:53:32 [pengwin] Betis-Barcellona: no Polymarket event (try 71)
+2026-10-21 09:53:35 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 69)
+2026-10-21 09:53:37 [pengwin] BOLOGNA-INTER: no Polymarket event (try 69)
