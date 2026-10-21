@@ -16315,3 +16315,28 @@
 2026-10-21 04:08:41 [pengwin] CLUB BRUGGE-LENS: no LLM answer (try 2)
 2026-10-21 04:08:44 [pengwin] ASTON VILLA-VIKING: no LLM answer (try 2)
 2026-10-21 04:08:46 [pengwin] BETIS-FEYENOORD: no LLM answer (try 2)
+2026-10-21 04:14:55 indexed 991 markets
+2026-10-21 04:17:20   drop[1-source] ACC initial injury report:Virginia will be without safety Ethan Minter, two starters quest (247Sports) :: Ethan Minter, wait 2nd source
+2026-10-21 04:20:53   drop[kind] 🚨 Anthony Gordon: “PSG deserved to win. They have been the team to beat in the last two ye (Fabrizio Romano) :: other
+2026-10-21 04:22:04   llm groq-120b: rate limited, skip 77s
+2026-10-21 04:22:05   drop[kind] ‘Knocked Out My Teeth’: Nelly Korda Recalls Serious Mouth Injury After Club-Slam Mishap (EssentiallySports) :: other
+2026-10-21 04:24:13   drop[team-not-named] Maple Leafs give Blue Jackets fits, but lose defenceman Jake McCabe to injury (Toronto Sun) :: Boston Bruins
+2026-10-21 04:24:55 indexed 991 markets
+2026-10-21 04:28:52   drop[kind] Mohd Shuhaily charged with two counts of causing injury to police personnel (Borneo Post) :: other
+2026-10-21 04:29:52 [pengwin]   book error Will Sporting CP win on 2026-10-21?: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-21 04:34:55 indexed 985 markets
+2026-10-21 04:37:11 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 67)
+2026-10-21 04:37:14 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 67)
+2026-10-21 04:37:42 [pengwin] Betis-Barcellona: no Polymarket event (try 69)
+2026-10-21 04:37:45 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 67)
+2026-10-21 04:37:47   llm groq-120b: rate limited, skip 128s
+2026-10-21 04:37:48 [pengwin] BOLOGNA-INTER: no Polymarket event (try 67)
+2026-10-21 04:38:36 [pengwin] page ce-league/lincoln-twente-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-21 04:38:46 [pengwin] skip LILLE-GALATASARAY [MULTIGOL 1-3 OSPITE]: Lille OSC vs. Galatasaray SK: Galatasaray SK O/U 3.5 -> Under: ask 0.957 out of range
+2026-10-21 04:38:49   llm groq-20b: rate limited, skip 843s
+2026-10-21 04:38:49 [pengwin] BAYERN MONACO-ARSENAL: no LLM answer (try 3)
+2026-10-21 04:38:52 [pengwin] REAL MADRID-LIPSIA: no Polymarket event (try 3)
+2026-10-21 04:38:54 [pengwin] INTER-SHAKHTAR: no Polymarket event (try 3)
+2026-10-21 04:38:56 [pengwin] CLUB BRUGGE-LENS: no LLM answer (try 3)
+2026-10-21 04:38:59 [pengwin] ASTON VILLA-VIKING: no LLM answer (try 3)
+2026-10-21 04:39:01 [pengwin] BETIS-FEYENOORD: no LLM answer (try 3)
