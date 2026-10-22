@@ -17112,3 +17112,24 @@
 2026-10-22 13:22:39   drop[not-key] Buffalo Bills’ defensive back Sam Franklin Jr. suspended one game after alleged spitting i (K-Jewel 99.3 FM) :: Sam Franklin Jr.: suspension
 2026-10-22 13:23:23   llm groq-120b: rate limited, skip 45s
 2026-10-22 13:23:24   drop[kind] Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products (CNBC) :: other
+2026-10-22 13:26:31 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-22 13:27:27   drop[kind] At least four dead after storm brings flooding to southern France (BBC) :: other
+2026-10-22 13:27:35 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 95)
+2026-10-22 13:27:37   llm groq-120b: rate limited, skip 45s
+2026-10-22 13:27:37 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 95)
+2026-10-22 13:28:05 [pengwin] Betis-Barcellona: no Polymarket event (try 97)
+2026-10-22 13:28:08 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 95)
+2026-10-22 13:28:10 [pengwin] BOLOGNA-INTER: no Polymarket event (try 95)
+2026-10-22 13:31:48   drop[not-key] Gonçalo Ramos’ injury opens the door for Italian youngsters at AC Milan (Football Italia) :: Gonçalo Ramos: Ramos' injury creates opportunities for Italian youngsters at AC Milan
+2026-10-22 13:32:32 indexed 1023 markets
+2026-10-22 13:35:16   llm groq-120b: rate limited, skip 105s
+2026-10-22 13:35:16   drop[kind] Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk reut.rs/4Bjt (Reuters) :: other
+2026-10-22 13:36:40 NEWS [USA Today 5m] Tyronn Lue, Clippers dedicate season-opening win to Steve Ballmer
+2026-10-22 13:36:40   skip Clippers :: Clippers vs. Lakers (low conf 0.6)
+2026-10-22 13:36:41   drop[1-source] Onuachu Ruled Out Of Trabzonspor’s Clash With Hearts (www.footballinnigeria.com.ng) :: Onuachu, wait 2nd source
+2026-10-22 13:38:45   llm groq-120b: rate limited, skip 113s
+2026-10-22 13:38:46   drop[verify] UEFA Europa Conference League: Onuachu ruled out of Trabzonspor’s clash against Hearts (Blueprint Newspapers) :: Onuachu not on team
+2026-10-22 13:42:35 indexed 1028 markets
+2026-10-22 13:44:13   drop[kind] Comcast beats earnings expectations as media revenue offsets weakness in connectivity (CNBC) :: other
+2026-10-22 13:45:59   drop[team-not-named] Australian pacer Megan Schutt suspended for two matches over prescription medication breac (Sports Tiger) :: Australia women's cricket team
+2026-10-22 13:52:36 indexed 1021 markets
