@@ -17414,3 +17414,32 @@
 2026-10-22 21:53:29 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
 2026-10-22 21:55:26 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-22 21:56:21 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 106)
+2026-10-22 21:56:41   drop[kind] Defiance Injury Law Expands Attorney Team, Strengthening Complex Injury Litigation (StreetInsider) :: other
+2026-10-22 21:56:49 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 106)
+2026-10-22 21:56:51 [pengwin] BOLOGNA-INTER: no Polymarket event (try 106)
+2026-10-22 21:59:12   drop[kind] NYSNA union claims nurse was suspended at Kings County Hospital for advocating for patient (Brooklyn Eagle) :: other
+2026-10-22 21:59:13   drop[team-not-named] Emeka Egbuka Injury: Officially non-participant Thursday (RotoWire) :: Washington Commanders
+2026-10-22 21:59:13   llm groq-120b: rate limited, skip 366s
+2026-10-22 21:59:13   drop[not-key] Sharks’ Alex Wennberg out week-to-week with upper-body injury (Yardbarker) :: Alex Wennberg: upper-body injury
+2026-10-22 22:01:20   drop[1-source] Steelers secondary suffers concerning injury setback ahead of Saints matchup | See link be (Facebook) :: Jalen Carter, wait 2nd source
+2026-10-22 22:02:02 indexed 995 markets
+2026-10-22 22:03:40   drop[1-source] Ningbo Construction subsidiary wins 1.2 billion yuan bid for expressway project (Prop News Time) :: Ningbo Construction subsidiary, wait 2nd source
+2026-10-22 22:03:41   drop[kind] Injury crash reported at 21st and Francis in Longmont (Police notes) (Longmont Times-Call) :: other
+2026-10-22 22:08:30   drop[unconfirmed] Josh Giddey Injury: Expected to play Friday (RotoWire) :: expected to play Friday
+2026-10-22 22:12:04 indexed 990 markets
+2026-10-22 22:12:15   llm groq-120b: rate limited, skip 90s
+2026-10-22 22:12:16   drop[no-pick] Caleb Martin (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: no suitable outcome to rise by 5+ points
+2026-10-22 22:12:16   drop[not-key] Tarik Biberovic (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Tarik Biberovic: right heel bursitis
+2026-10-22 22:12:17   drop[unconfirmed] Dereck Lively II (C, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: surgery
+2026-10-22 22:12:57   drop[team-not-named] Caleb Martin, Tarik Biberovic ruled out Friday (NBC Sports) :: New York Jets
+2026-10-22 22:19:52   drop[kind] Quinshon Judkins Injury: Limited again Thursday (RotoWire) :: other
+2026-10-22 22:19:52   llm groq-120b: rate limited, skip 3s
+2026-10-22 22:19:53 NEWS [The Spun 2m] Utah Football Player Suspended Indefinitely Amid Horrifying Allegations
+2026-10-22 22:19:53   skip Kraken :: Utah vs. Kraken (low conf 0.6)
+2026-10-22 22:22:06 indexed 990 markets
+2026-10-22 22:22:11   drop[1-source] Steelers | T.J. Watt limited Thursday with new calf injury (Fantasy Guru) :: T. J. Watt, wait 2nd source
+2026-10-22 22:22:11   llm groq-120b: rate limited, skip 164s
+2026-10-22 22:22:11   drop[not-key] Steelers | Ben Skowronek ruled out for Week 7, will not make Paris trip (Fantasy Guru) :: Ben Skowronek: injury
+2026-10-22 22:22:11   llm groq-20b: rate limited, skip 52s
+2026-10-22 22:24:29   drop[1-source] Hearts gripped by injury woe at Trabzonspor as ace faces season-ending scenario and teamma (The Scotsman) :: Moussa Dembélé, wait 2nd source
+2026-10-22 22:25:45 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
