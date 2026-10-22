@@ -16936,3 +16936,22 @@
 2026-10-22 08:53:08 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 86)
 2026-10-22 08:53:10   llm groq-120b: rate limited, skip 235s
 2026-10-22 08:53:10 [pengwin] BOLOGNA-INTER: no Polymarket event (try 86)
+2026-10-22 08:56:15   drop[1-source] Australia pacer suspended over medication breach (The Daily Star) :: Mitchell Starc, wait 2nd source
+2026-10-22 08:58:34   drop[kind] Kim Min-jae Substituted Early, No Serious Injury (조선일보) :: other
+2026-10-22 09:01:10   llm groq-120b: rate limited, skip 131s
+2026-10-22 09:01:11   drop[1-source] After the serious injury: Paris's stance on Kvaratskhelia's contract renewal talks reveale (Goal.com) :: Giorgi Kvaratskhelia, wait 2nd source
+2026-10-22 09:01:12   drop[kind] Emma Raducanu gets advice from former British No 1 after ‘unusual injury’ (Tennis365) :: other
+2026-10-22 09:01:42 indexed 1016 markets
+2026-10-22 09:03:19   drop[1-source] After the serious injury: Paris's position on Kvaratskhelia contract renewal talks reveale (Goal.com) :: Gela Kvaratskhelia, wait 2nd source
+2026-10-22 09:03:19   drop[kind] Arsenal ‘concerned’ about Saka injury, says Arteta (SportsDesk) :: other
+2026-10-22 09:10:29   drop[1-source] Nicky Hayen outlines Dastan Satpayev Burnley hope on return from injury (Burnley Express) :: Dastan Satpayev, wait 2nd source
+2026-10-22 09:11:41 indexed 1021 markets
+2026-10-22 09:19:40   drop[1-source] Tottenham transfer news as £85m target steps up injury return (Read Tottenham) :: Tottenham Hotspur Football Club, wait 2nd source
+2026-10-22 09:21:43 indexed 1012 markets
+2026-10-22 09:21:48   drop[1-source] UECL: Onuachu Ruled Out Of Trabzonspor’s Clash Against Hearts (Complete Sports) :: Paul Onuachu, wait 2nd source
+2026-10-22 09:22:40 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-22 09:23:44 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 87)
+2026-10-22 09:23:46 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 87)
+2026-10-22 09:24:15 [pengwin] Betis-Barcellona: no Polymarket event (try 89)
+2026-10-22 09:24:17 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 87)
+2026-10-22 09:24:19 [pengwin] BOLOGNA-INTER: no Polymarket event (try 87)
