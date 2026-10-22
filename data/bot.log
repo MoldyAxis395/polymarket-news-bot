@@ -16916,3 +16916,23 @@
 2026-10-22 08:22:24 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 85)
 2026-10-22 08:22:26 [pengwin] BOLOGNA-INTER: no Polymarket event (try 85)
 2026-10-22 08:23:53   drop[kind] Saka injury ‘does not look good at all’ — Arteta (sportingtribune.com) :: other
+2026-10-22 08:26:13   llm groq-120b: rate limited, skip 85s
+2026-10-22 08:26:13   drop[1-source] Hrithik Shokeen's long road back: A back injury, Delhi's faith and a maiden five-for (India Today) :: Hrithik Shokeen, wait 2nd source
+2026-10-22 08:31:18 indexed 1035 markets
+2026-10-22 08:34:01   drop[1-source] Lawyer suspended for running firm while barred from practising on own account (Human Resources Director) :: law firm (unspecified), wait 2nd source
+2026-10-22 08:36:17   drop[team-not-named] Cricketer Megan Schutt suspended for two matches — Channel NewsAsia (UA.NEWS) :: Australia women's national cricket team
+2026-10-22 08:36:17   llm groq-120b: rate limited, skip 168s
+2026-10-22 08:36:18   drop[kind] Talatau Amone a chance of international return as injury rocks Tonga (Zero Tackle) :: other
+2026-10-22 08:38:34   drop[not-key] Dru Smith’s Injury Complicates Miami Heat’s Opening Night Rotation (SSBCrack) :: Dru Smith: injury
+2026-10-22 08:41:15 indexed 1035 markets
+2026-10-22 08:43:57   drop[kind] Saka's quad injury 'doesn’t look good at all': Arteta (IANS LIVE) :: other
+2026-10-22 08:48:35   drop[not-key] Raith Rovers' McMullan hoping to get firing again after injury (Fife Today) :: Ryan McMullan: He is currently injured and unavailable to play
+2026-10-22 08:48:35   llm groq-120b: rate limited, skip 58s
+2026-10-22 08:48:36   drop[unconfirmed] I can’t be suspended by ward - Jigawa ADC chieftain Gantsa (Daily Post Nigeria) :: claims he cannot be suspended
+2026-10-22 08:51:18 indexed 1029 markets
+2026-10-22 08:52:35 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 86)
+2026-10-22 08:52:37 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 86)
+2026-10-22 08:53:06 [pengwin] Betis-Barcellona: no Polymarket event (try 88)
+2026-10-22 08:53:08 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 86)
+2026-10-22 08:53:10   llm groq-120b: rate limited, skip 235s
+2026-10-22 08:53:10 [pengwin] BOLOGNA-INTER: no Polymarket event (try 86)
