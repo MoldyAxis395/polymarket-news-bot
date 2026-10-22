@@ -16889,3 +16889,19 @@
 2026-10-22 04:09:47 [pengwin] Betis-Barcellona: no Polymarket event (try 86)
 2026-10-22 04:09:49 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 84)
 2026-10-22 04:09:51 [pengwin] BOLOGNA-INTER: no Polymarket event (try 84)
+2026-10-22 04:13:27   llm groq-120b: rate limited, skip 54s
+2026-10-22 04:13:27   drop[1-source] UEFA Competitions: Osimhen Shines For Galatasaray, Chukwueze Ruled Out, Boniface Dropped (BSN Sports) :: Chukwueze, wait 2nd source
+2026-10-22 04:15:45   drop[kind] Kings Face Injury Challenges Ahead of Season Opener Against Clippers (SSBCrack) :: other
+2026-10-22 04:16:26 indexed 1080 markets
+2026-10-22 04:20:23   drop[1-source] Utah football player suspended indefinitely after arrest for allegedly sharing ‘sexually e (The Salt Lake Tribune) :: University of Utah Football, wait 2nd source
+2026-10-22 04:26:28 indexed 1078 markets
+2026-10-22 04:29:38   drop[unconfirmed] BREAKING: Avery Johnson may miss Saturday's game with an injury | Power Talk (247Sports) :: injury may keep him out of Saturday's game
+2026-10-22 04:31:55   drop[kind] Part-time starter questionable on Texas Tech football injury report (Lubbock Avalanche-Journal) :: other
+2026-10-22 04:36:28 indexed 1083 markets
+2026-10-22 04:38:22 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-22 04:39:25 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 85)
+2026-10-22 04:39:28 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 85)
+2026-10-22 04:39:56 [pengwin] Betis-Barcellona: no Polymarket event (try 87)
+2026-10-22 04:39:58 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 85)
+2026-10-22 04:40:00   llm groq-120b: rate limited, skip 10s
+2026-10-22 04:40:01 [pengwin] BOLOGNA-INTER: no Polymarket event (try 85)
