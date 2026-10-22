@@ -1,38 +1,58 @@
 {
- "updated": "2026-10-23T00:26:33",
+ "updated": "2026-10-23T00:56:23",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 582,
- "markets_indexed": 985,
- "news_processed": 318,
- "cash": 84.02,
- "equity": 84.02,
+ "llm_calls_today": 608,
+ "markets_indexed": 974,
+ "news_processed": 356,
+ "cash": 74.02,
+ "equity": 83.78,
  "start": 100.0,
- "open": [],
+ "open": [
+  {
+   "market_id": "4465810",
+   "question": "Patriots vs. Bears",
+   "slug": "nfl-ne-chi-2026-10-23",
+   "outcome": "Patriots",
+   "token": "100418554533870028564580320858616813722975772325054442709650747770554067362636",
+   "shares": 24.390243902439025,
+   "entry": 0.41,
+   "cost": 10.0,
+   "opened": 1792709531.8583202,
+   "opened_iso": "2026-10-22T22:52:11+00:00",
+   "news": "T.J. Edwards (LB, Chicago Bears) ruled out: Doubtful -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: Bears lose, Patriots win price rises",
+   "conf": 0.65,
+   "end": "2026-10-23T00:15:00+00:00",
+   "last_bid": 0.4,
+   "book_err": false
+  }
+ ],
  "closed_count": 90,
  "llm": {
   "backends": [
    "groq-120b",
    "groq-20b"
   ],
-  "fallbacks": 45,
+  "fallbacks": 53,
   "errors": {
-   "groq-120b": "rate limited, skip 276s"
+   "groq-120b": "rate limited, skip 288s",
+   "groq-20b": "rate limited, skip 455s"
   },
   "rejects": {
-   "not-key": 13,
+   "not-key": 17,
    "unconfirmed": 13,
-   "no-pick": 10,
-   "fluff": 67,
-   "1-source": 14,
-   "kind": 23,
+   "no-pick": 12,
+   "fluff": 70,
+   "1-source": 15,
+   "kind": 26,
    "side": 1,
-   "team-not-named": 11,
+   "team-not-named": 14,
    "no-market": 2
   },
   "calls": {
-   "groq-120b": 331,
-   "groq-20b": 251
+   "groq-120b": 340,
+   "groq-20b": 268
   }
  },
  "realized_pnl": -15.98

@@ -183,3 +183,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-17T05:37:32+00:00,SELL,Cowboys vs. Packers,Packers,19.23,0.5100,9.81,-0.19,max hold
 2026-10-17T14:53:12+00:00,BUY,Islanders vs. Maple Leafs,Islanders,21.74,0.4600,10.00,,"John Tavares (C, Toronto Maple Leafs) ruled out: Day-To-Day -> Out [NHL] | llm[groq-20b] trusted: Tavares out hurts Leafs, likely boosting Islanders odds"
 2026-10-17T16:03:47+00:00,BUY,Senators vs. Flyers,Flyers,24.39,0.4100,10.00,,"Jake Sanderson (D, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL] | llm[groq-120b] trusted: Jake Sanderson's injury hurts Ottawa, lowering their win probability and boosting the Flyers' chance"
+2026-10-22T22:52:11+00:00,BUY,Patriots vs. Bears,Patriots,24.39,0.4100,10.00,,"T.J. Edwards (LB, Chicago Bears) ruled out: Doubtful -> Out [NFL] | llm[groq-20b] trusted: Bears lose, Patriots win price rises"

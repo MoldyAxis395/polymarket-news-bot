@@ -17539,3 +17539,43 @@
 2026-10-23 00:25:08   drop[unconfirmed] Puka Nacua leaves practice early with injury, Week 7 status now in question (The Big Lead) :: left practice early with injury, week 7 status uncertain
 2026-10-23 00:25:08   llm groq-120b: rate limited, skip 276s
 2026-10-23 00:25:09   drop[not-key] Puka Nacua suffers calf injury in Rams practice Thursday (Rams Wire) :: Puka Nacua: calf injury
+2026-10-23 00:27:16   drop[no-pick] Rams star Puka Nacua leaves practice after sustaining a calf injury (Los Angeles Times) :: no outcome should rise
+2026-10-23 00:27:42 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 111)
+2026-10-23 00:28:10 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 111)
+2026-10-23 00:28:13 [pengwin] BOLOGNA-INTER: no Polymarket event (try 111)
+2026-10-23 00:29:34   drop[not-key] Rams news: Puka Nacua exits practice with calf issue to add to LA's injury woes (ClutchPoints) :: Puka Nacua: calf injury
+2026-10-23 00:32:38 indexed 978 markets
+2026-10-23 00:34:28   drop[team-not-named] Puka Nacua Exits Thursday's practice with calf injury (Fantasy Footballers Podcast) :: Los Angeles Rams
+2026-10-23 00:36:33   drop[team-not-named] CBS12 News Athlete of the Week: Wyatt Parks turns ACL injury into Dominant Senior Season (WPEC) :: Texas Longhorns
+2026-10-23 00:41:11   drop[team-not-named] Puka Nacua leaves practice early with calf injury (NBC Sports) :: Los Angeles Rams
+2026-10-23 00:42:37 indexed 983 markets
+2026-10-23 00:42:59   llm groq-120b: rate limited, skip 120s
+2026-10-23 00:43:00   drop[no-pick] Dean Wade (F, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: short
+2026-10-23 00:50:08   drop[not-key] Judd Caulfield (RW, Anaheim Ducks) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: Judd Caulfield: placed on injured reserve
+2026-10-23 00:50:21   drop[1-source] Bears’ inactives vs. Patriots: LB T.J. Edwards out with hamstring injury (Chicago Sun-Times) :: T.J. Edwards, wait 2nd source
+2026-10-23 00:50:21   llm groq-120b: rate limited, skip 238s
+2026-10-23 00:50:22   drop[kind] ‘Wonderful’: Swadley’s BBQ owner Brent Swadley released from jail after suspended sentence (News 9) :: other
+2026-10-23 00:50:22   drop[not-key] Puka Nacua injured in Rams’ Thursday practice (Turf Show Times) :: Puka Nacua: injury
+2026-10-23 00:50:26   drop[kind] Singer Raye wins Mercury Prize for 'This Music May Contain Hope' reut.rs/3W2sq25 (Reuters) :: other
+2026-10-23 00:52:11 NEWS [ESPN 0m] T.J. Edwards (LB, Chicago Bears) ruled out: Doubtful -> Out [NFL]
+2026-10-23 00:52:11   BUY Patriots @ 0.410 x24.4 ($10.00) :: Patriots vs. Bears
+2026-10-23 00:52:41 indexed 974 markets
+2026-10-23 00:52:54   llm groq-20b: rate limited, skip 23s
+2026-10-23 00:55:04   drop[kind] All-Pro Rams WR Puka Nacua leaves practice early with calf injury (The Lethbridge Herald) :: other
+2026-10-23 00:55:04   llm groq-120b: rate limited, skip 288s
+2026-10-23 00:55:04   drop[not-key] Raiders Thursday Week 7 injury report vs Rams: Puka Nacua suffers calf injury (Raiders Wire) :: Puka Nacua: calf injury
+2026-10-23 00:56:12   llm groq-20b: rate limited, skip 455s
+2026-10-23 00:56:12 NEWS [ESPN 8m] Case Keenum (QB, Chicago Bears) ruled out: Active -> Out [NFL]
+2026-10-23 00:56:12   skip Patriots :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-23 00:56:12 NEWS [ESPN 8m] Jayden Loving (DT, Chicago Bears) ruled out: Active -> Out [NFL]
+2026-10-23 00:56:12   skip Patriots :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-23 00:56:12 NEWS [ESPN 8m] Nick McCloud (CB, Chicago Bears) ruled out: healthy -> Out [NFL]
+2026-10-23 00:56:12   skip Patriots :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-23 00:56:12 NEWS [ESPN 8m] Jordan McFadden (G, Chicago Bears) ruled out: Active -> Out [NFL]
+2026-10-23 00:56:12   skip Patriots :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-23 00:56:12 NEWS [ESPN 8m] Behren Morton (QB, New England Patriots) ruled out: Active -> Out [NFL]
+2026-10-23 00:56:12   skip Bears :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-23 00:56:12 NEWS [ESPN 8m] Joshua Farmer (DT, New England Patriots) ruled out: healthy -> Out [NFL]
+2026-10-23 00:56:12   skip Bears :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-23 00:56:12 NEWS [ESPN 9m] Marshall Rifai (D, Toronto Maple Leafs) ruled out: Day-To-Day -> Out [NHL]
+2026-10-23 00:56:12   skip Rangers :: Rangers vs. Maple Leafs (rules fallback, LLM down (not traded))
