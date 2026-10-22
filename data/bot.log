@@ -17477,3 +17477,31 @@
 2026-10-22 22:54:32   drop[team-not-named] Bukayo Saka calf injury: What Arteta said (Total Apex Sports) :: Arsenal
 2026-10-22 22:55:36   drop[unconfirmed] Luke Musgrave (TE, Green Bay Packers) ruled out: healthy -> Out [NFL] (ESPN) :: ruled out
 2026-10-22 22:56:03 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-22 22:56:50   llm groq-20b: rate limited, skip 140s
+2026-10-22 22:56:58 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 108)
+2026-10-22 22:57:26 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 108)
+2026-10-22 22:57:28 [pengwin] BOLOGNA-INTER: no Polymarket event (try 108)
+2026-10-22 22:57:37 NEWS [ESPN 9m] T.J. McConnell (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA]
+2026-10-22 22:57:37   skip Mavericks :: Mavericks vs. Pacers (rules fallback, LLM down (not traded))
+2026-10-22 22:59:55   drop[no-market] GB's Fraser wins all-around bronze at Worlds (BBC) :: Great Britain
+2026-10-22 23:00:42   drop[not-key] Christian Rozeboom (LB, Tampa Bay Buccaneers) ruled out: Questionable -> Injured Reserve [ (ESPN) :: Christian Rozeboom: placed on injured reserve
+2026-10-22 23:00:42   llm groq-120b: rate limited, skip 286s
+2026-10-22 23:00:42   llm groq-20b: rate limited, skip 210s
+2026-10-22 23:00:42 NEWS [ESPN 6m] David Sills V (WR, Tampa Bay Buccaneers) cleared to play: Injured Reserve -> Active [NFL]
+2026-10-22 23:00:42   skip Yes :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-22 23:00:42   skip Buccaneers :: Buccaneers vs. Panthers (rules fallback, LLM down (not traded))
+2026-10-22 23:02:16 indexed 987 markets
+2026-10-22 23:08:29   drop[unconfirmed] Kon Knueppel Injury: Still out with hamstring strain (RotoWire) :: hamstring strain
+2026-10-22 23:08:29   llm groq-120b: rate limited, skip 139s
+2026-10-22 23:08:29   drop[unconfirmed] Linus Ullmark Injury: Out 1-2 weeks (RotoWire) :: injury
+2026-10-22 23:12:16 indexed 991 markets
+2026-10-22 23:18:33   drop[not-key] Grant Williams (F, Charlotte Hornets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Grant Williams: hamstring strain
+2026-10-22 23:18:34   llm groq-120b: rate limited, skip 104s
+2026-10-22 23:18:34 NEWS [ESPN 12m] Coby White (G, Charlotte Hornets) ruled out: Day-To-Day -> Out [NBA]
+2026-10-22 23:18:34   skip Hawks :: Hawks vs. Hornets (low conf 0.6)
+2026-10-22 23:18:34   drop[not-key] Kon Knueppel (G, Charlotte Hornets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Kon Knueppel: hamstring strain
+2026-10-22 23:22:16 indexed 986 markets
+2026-10-22 23:22:21   drop[1-source] Suspended Lives: Syrians Confront Denmark’s “Zero Asylum” Reality (The Syrian Observer) :: Denmark, wait 2nd source
+2026-10-22 23:24:39   llm groq-120b: rate limited, skip 55s
+2026-10-22 23:24:39   drop[no-market] Elks DL Darien Newell suspended a second time for drug violation (Sportsnet.ca) :: Edmonton Elks
+2026-10-22 23:26:27 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
