@@ -17315,81 +17315,21 @@
 2026-10-22 18:11:20 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 102)
 2026-10-22 18:11:22   llm groq-120b: rate limited, skip 150s
 2026-10-22 18:11:22 [pengwin] BOLOGNA-INTER: no Polymarket event (try 102)
-2026-10-22 18:16:16   drop[1-source] Lampard on Coventry City midfielder’s injury setback and duo’s absences (LiveScore) :: Coventry City, wait 2nd source
-2026-10-22 18:16:16   llm groq-120b: rate limited, skip 251s
-2026-10-22 18:16:17   drop[kind] Mountain Rescue Team assist walker with head injury in Cribyn area (Brecon & Radnor Express) :: other
-2026-10-22 18:16:55 indexed 1112 markets
-2026-10-22 18:18:35   drop[unconfirmed] Hearts defender Harry Milne out for months as injury strikes again - free agent signings a (Edinburgh News) :: injury
-2026-10-22 18:18:35   llm groq-20b: rate limited, skip 264s
-2026-10-22 18:20:53   llm groq-120b: rate limited, skip 150s
-2026-10-22 18:20:53   drop[no-pick] Canadiens captain Nick Suzuki out 2-4 weeks with upper-body injury, ending ironman streak (The New York Times) :: None
-2026-10-22 18:23:23   drop[kind] OKC Thunder Injury Report: Every Injury and Status vs. Nuggets (Sports Illustrated) :: other
-2026-10-22 18:26:29   drop[kind] The rising French star whose dad won Rugby World Cup with England (BBC) :: other
-2026-10-22 18:26:56 indexed 1103 markets
-2026-10-22 18:27:47   llm groq-120b: rate limited, skip 176s
-2026-10-22 18:27:47   llm groq-20b: rate limited, skip 32s
-2026-10-22 18:30:00   drop[not-key] AJ Dybantsa (F, Washington Wizards) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: AJ Dybantsa: day‑to‑day injury
-2026-10-22 18:34:43   drop[1-source] Max Dowman gives Arsenal one shining light after Bukayo Saka's injury (Pain in the Arsenal) :: Bukayo Saka, wait 2nd source
-2026-10-22 18:34:43   llm groq-120b: rate limited, skip 50s
-2026-10-22 18:34:43   drop[team-not-named] Life-threatening bleeding from spleen after rugby injury triggers changes (ODT) :: 
-2026-10-22 18:36:57 indexed 1105 markets
-2026-10-22 18:38:09   llm groq-120b: rate limited, skip 48s
-2026-10-22 18:38:10 NEWS [ESPN 12m] Alexander Wennberg (C, San Jose Sharks) ruled out: Day-To-Day -> Out [NHL]
-2026-10-22 18:38:10   skip Senators :: Sharks vs. Senators (low conf 0.6)
-2026-10-22 18:41:02 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-22 18:41:58 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 103)
-2026-10-22 18:42:01 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 103)
-2026-10-22 18:42:28 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 103)
-2026-10-22 18:42:30   llm groq-120b: rate limited, skip 116s
-2026-10-22 18:42:31 [pengwin] BOLOGNA-INTER: no Polymarket event (try 103)
-2026-10-22 18:43:56   llm groq-20b: rate limited, skip 85s
-2026-10-22 18:46:13   llm groq-120b: rate limited, skip 120s
-2026-10-22 18:46:14   drop[no-pick] Canadiens captain Nick Suzuki out 2-4 weeks with upper-body injury (ESPN) :: short
-2026-10-22 18:46:14   llm groq-20b: rate limited, skip 123s
-2026-10-22 18:46:59 indexed 1097 markets
-2026-10-22 18:47:20 espn_injuries error x1: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-22 18:53:15   drop[not-key] Rust to be reevaluated by Penguins in six weeks for lower-body injury (NHL.com) :: Jake Rust: lower-body injury, will be reevaluated in six weeks
-2026-10-22 18:57:00 indexed 1085 markets
-2026-10-22 18:57:50   drop[not-key] Buffalo Bills DB Sam Franklin Jr. suspended one game (Niagara Frontier Publications) :: Sam Franklin Jr.: suspended one game
-2026-10-22 18:57:50   llm groq-120b: rate limited, skip 157s
-2026-10-22 18:57:51   drop[unconfirmed] Nick Suzuki Injury Ends Iron Man Streak and Leaves Huge Hole for Montreal Canadiens (Last Word On Sports) :: injury
-2026-10-22 19:00:33   llm groq-120b: rate limited, skip 31s
-2026-10-22 19:00:34   drop[no-pick] Senators place Ullmark on injury reserve (Sportsnet.ca) :: no outcome should rise by 5+ points
-2026-10-22 19:00:37   llm groq-20b: rate limited, skip 11s
-2026-10-22 19:00:37 NEWS [ESPN 9m] Josh Simmons (OT, Kansas City Chiefs) ruled out: Questionable -> Out [NFL]
-2026-10-22 19:00:37   skip Seahawks :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
-2026-10-22 19:02:26   drop[kind] Suspended Obuasi Headmaster Sues Journalist Manasseh Azure Awuni and Multimedia Group for  (Modern Ghana) :: other
-2026-10-22 19:02:26   llm groq-120b: rate limited, skip 215s
-2026-10-22 19:02:26   llm groq-20b: rate limited, skip 9s
-2026-10-22 19:04:43   drop[unconfirmed] Garry Ringrose joins Sam Prendergast as injury doubt for Ireland’s Nations Championship op (Irish Independent) :: injury doubt
-2026-10-22 19:06:19   llm groq-120b: rate limited, skip 192s
-2026-10-22 19:06:20   drop[no-pick] BREAKING: Calley Means, senior adviser to Health Secretary Robert F. Kennedy Jr., resigned (Politico) :: short
-2026-10-22 19:06:20   llm groq-20b: rate limited, skip 219s
-2026-10-22 19:07:00 indexed 1081 markets
-2026-10-22 19:11:57 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 104)
-2026-10-22 19:11:59 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 104)
-2026-10-22 19:12:27 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 104)
-2026-10-22 19:12:29   llm groq-120b: rate limited, skip 197s
-2026-10-22 19:12:29 [pengwin] BOLOGNA-INTER: no Polymarket event (try 104)
-2026-10-22 19:15:38   drop[kind] European corporate earnings set to get a boost from energy windfall reut.rs/47F7osX (Reuters) :: other
-2026-10-22 19:17:03 indexed 1079 markets
-2026-10-22 19:18:42   drop[1-source] Ravens quarterback Lamar Jackson returns to practice after ankle injury (WBFF) :: Lamar Jackson, wait 2nd source
-2026-10-22 19:18:42   llm groq-120b: rate limited, skip 159s
-2026-10-22 19:18:42   drop[not-key] Kuliczkowski using Boston as motivation for injury comeback (Flying Fish Hockey) :: Kuliczkowski: injury comeback
-2026-10-22 19:22:21   llm groq-120b: rate limited, skip 88s
-2026-10-22 19:22:21   drop[no-pick] Mikael Backlund (C, Calgary Flames) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: no suitable outcome to rise
-2026-10-22 19:23:16   llm groq-20b: rate limited, skip 152s
-2026-10-22 19:24:21   llm groq-120b: rate limited, skip 145s
-2026-10-22 19:27:02 indexed 1063 markets
-2026-10-22 19:35:44   drop[no-pick] Top RFK Jr. adviser Calley Means quits Trump administration, WSJ reports reut.rs/47vjSTZ (Reuters) :: The resignation of Calley Means is unlikely to shift any of the listed market odds by 5+ points, and the remaining viabl
-2026-10-22 19:37:01 indexed 1052 markets
-2026-10-22 19:39:27   drop[1-source] Samsung's Koo Honors Mentor, Juniors Amid Injury (조선일보) :: Samsung Lions, wait 2nd source
-2026-10-22 19:42:54 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 105)
-2026-10-22 19:42:57 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 105)
-2026-10-22 19:43:25 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 105)
-2026-10-22 19:43:27   llm groq-120b: rate limited, skip 192s
-2026-10-22 19:43:28 [pengwin] BOLOGNA-INTER: no Polymarket event (try 105)
-2026-10-22 19:44:14   drop[not-key] Brent Swadley receives six-year suspended sentence in Oklahoma fraud case (News On 6) :: Brent Swadley: suspended six‑year sentence
-2026-10-22 19:47:02 indexed 1051 markets
-2026-10-22 19:51:01   drop[kind] Licenses of around 2,000 firms suspended over non-paid fees (Arab Times Kuwait News) :: other
-2026-10-22 19:51:03 shift over, state saved
+2026-10-22 19:51:19 === start mode=paper pid=2351 ===
+2026-10-22 19:51:19 brain=llm cash=84.02 open=0
+2026-10-22 19:51:19 resuming with 8790 known news items
+2026-10-22 19:51:45 indexed 1054 markets
+2026-10-22 19:52:01   llm groq-120b: rate limited, skip 11s
+2026-10-22 19:52:01   drop[not-key] Josh Simmons (OT, Kansas City Chiefs) ruled out: Questionable -> Out [NFL] (ESPN) :: Josh Simmons: injury
+2026-10-22 19:52:01   drop[not-key] AJ Dybantsa (F, Washington Wizards) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: AJ Dybantsa: day‑to‑day injury
+2026-10-22 19:52:02   drop[unconfirmed] Mikael Backlund (C, Calgary Flames) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: upper-body injury
+2026-10-22 19:52:02   llm groq-20b: rate limited, skip 32s
+2026-10-22 19:52:02   drop[no-pick] Alexander Wennberg (C, San Jose Sharks) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: None
+2026-10-22 19:52:02 NEWS [Politico 46m] BREAKING: Calley Means, senior adviser to Health Secretary Robert F. Kennedy Jr., resigned over frustrations that the MAHA agenda had stalled inside the White House.
+2026-10-22 19:52:02   skip No :: Next White House Press Secretary announced by October 31, 2026? (rules fallback, LLM down (not traded))
+2026-10-22 19:52:15 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 102)
+2026-10-22 19:52:17 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 102)
+2026-10-22 19:52:44   llm groq-120b: rate limited, skip 67s
+2026-10-22 19:52:44 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 102)
+2026-10-22 19:52:46   llm groq-20b: rate limited, skip 76s
+2026-10-22 19:52:46 [pengwin] BOLOGNA-INTER: no Polymarket event (try 102)
