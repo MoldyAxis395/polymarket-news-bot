@@ -17177,3 +17177,32 @@
 2026-10-22 15:38:48   llm groq-20b: rate limited, skip 125s
 2026-10-22 15:38:48 [pengwin] BOLOGNA-INTER: no Polymarket event (try 97)
 2026-10-22 15:39:01   llm groq-120b: rate limited, skip 11s
+2026-10-22 15:45:55   drop[kind] 17-year-old rugby player dies after on-field injury (Punch Newspapers) :: other
+2026-10-22 15:45:56   drop[1-source] Hajipur Sahu Hotel’s Food Licence Suspended After Cockroach Complaint (Patna Press) :: Hajipur Sahu Hotel, wait 2nd source
+2026-10-22 15:46:37 indexed 1113 markets
+2026-10-22 15:53:05   llm groq-120b: rate limited, skip 26s
+2026-10-22 15:53:05   drop[no-pick] 🚨 Blow for Bayern, star ruled out indefinitely! (Yahoo Sports) :: no relevant market
+2026-10-22 15:53:06   drop[kind] Gudan Wan reduced liver injury in mouse model of MASH (Bioengineer.org) :: other
+2026-10-22 15:53:07   drop[kind] Trams and trolleybuses were suspended in Zhytomyr due to a power shortage (UA.NEWS) :: other
+2026-10-22 15:56:37 indexed 1117 markets
+2026-10-22 15:57:31   drop[kind] Surprise: Vikings RB Reveals Knee Injury He’s Playing Through (Minnesota Sports Fan) :: other
+2026-10-22 15:57:31   llm groq-120b: rate limited, skip 66s
+2026-10-22 15:57:32   drop[1-source] EuroLeague Round 7 injury report with sidelined and returning players (Eurohoops) :: EuroLeague, wait 2nd source
+2026-10-22 15:59:50   drop[1-source] Injury Rules Out El Desperado of NJPW Super Jr. Tag League 2026, Replacement Announced (411Mania.) :: El Desperado, wait 2nd source
+2026-10-22 16:00:55   llm groq-120b: rate limited, skip 275s
+2026-10-22 16:00:55   llm groq-20b: rate limited, skip 91s
+2026-10-22 16:00:55 NEWS [ESPN 5m] Bryan Rust (RW, Pittsburgh Penguins) ruled out: Day-To-Day -> Injured Reserve [NHL]
+2026-10-22 16:00:55   skip Panthers :: Panthers vs. Penguins (rules fallback, LLM down (not traded))
+2026-10-22 16:04:25   drop[1-source] Mountain Ridge tops Northern in injury-shortened game (WV News) :: Mountain Ridge, wait 2nd source
+2026-10-22 16:05:34   llm groq-120b: rate limited, skip 18s
+2026-10-22 16:05:34   llm groq-20b: rate limited, skip 64s
+2026-10-22 16:06:40 indexed 1121 markets
+2026-10-22 16:06:47   drop[1-source] Hyundai Mobis Star Gauge Prim Suffers Knee Injury (조선일보) :: Star Gauge Prim, wait 2nd source
+2026-10-22 16:07:48 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-22 16:08:44 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 98)
+2026-10-22 16:08:46   llm groq-120b: rate limited, skip 83s
+2026-10-22 16:08:46 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 98)
+2026-10-22 16:09:14 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 98)
+2026-10-22 16:09:16 [pengwin] BOLOGNA-INTER: no Polymarket event (try 98)
+2026-10-22 16:10:27   llm groq-120b: rate limited, skip 109s
+2026-10-22 16:10:27   llm groq-20b: rate limited, skip 25s
