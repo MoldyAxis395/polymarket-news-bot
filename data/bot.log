@@ -16920,3 +16920,20 @@
 2026-10-22 01:51:49 NEWS [ESPN 4m] Steven Adams (C, Houston Rockets) ruled out: Day-To-Day -> Out [NBA]
 2026-10-22 01:51:49   skip Mavericks :: Mavericks vs. Rockets (low conf 0.6)
 2026-10-22 01:54:41 [pengwin] page rence-league/gent-aarhus-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-22 01:58:47   drop[kind] Dawson Creek acupuncturist suspended after prescribing ivermectin: regulator (CBC) :: other
+2026-10-22 02:01:49 indexed 1056 markets
+2026-10-22 02:03:27   drop[kind] Dalton Knecht Linked to Lakers’ Western Conference Rival After Major Injury (Heavy.com) :: other
+2026-10-22 02:03:28   drop[not-key] Kings Recall Jared Wright (Pro Hockey Rumors) :: Jared Wright: recall from AHL to NHL roster
+2026-10-22 02:08:00   llm groq-120b: rate limited, skip 26s
+2026-10-22 02:08:00   drop[kind] 6 UNC Starters Questionable on Wednesday Injury Report (247Sports) :: other
+2026-10-22 02:10:29   drop[team-not-named] Bukayo Saka Exits Early With Muscle Injury in 2-2 Draw (조선일보) :: Arsenal
+2026-10-22 02:11:52 indexed 1052 markets
+2026-10-22 02:12:44   llm groq-120b: rate limited, skip 45s
+2026-10-22 02:12:44   drop[1-source] Rutgers injury report: Three players listed as out for the Northwestern game (247Sports) :: Rutgers, wait 2nd source
+2026-10-22 02:12:45   drop[team-not-named] ‘Freak accident’: Jasmin Strange suffers heartbreaking ACL injury to end World Cup dream (Adelaide Now) :: Australia women's national soccer team
+2026-10-22 02:17:20   drop[not-key] Ryan Coleman-Williams ruled out ahead of Alabama-Texas A&M (On3) :: Ryan Coleman-Williams: ruled out for upcoming Alabama vs Texas A&M game
+2026-10-22 02:19:46   drop[1-source] Two Oklahoma Offensive Linemen Ruled Out for Mississippi State Contest (Sports Illustrated) :: University of Oklahoma football, wait 2nd source
+2026-10-22 02:21:52 indexed 1046 markets
+2026-10-22 02:21:58   llm groq-120b: rate limited, skip 23s
+2026-10-22 02:21:58   drop[unconfirmed] Colin Simmons injury: Texas says star is doubtful vs. Ole Miss (Austin American-Statesman) :: doubtful
+2026-10-22 02:21:59   drop[kind] Semaglutide and teduglutide reduced intestinal injury in mice — News-Medical (UA.NEWS) :: other
