@@ -17206,3 +17206,30 @@
 2026-10-22 16:09:16 [pengwin] BOLOGNA-INTER: no Polymarket event (try 98)
 2026-10-22 16:10:27   llm groq-120b: rate limited, skip 109s
 2026-10-22 16:10:27   llm groq-20b: rate limited, skip 25s
+2026-10-22 16:11:22   drop[kind] Vikings’ Aaron Jones Reveals Shocking Detail About His Injury (heavy.com) :: other
+2026-10-22 16:11:22   llm groq-20b: rate limited, skip 256s
+2026-10-22 16:13:39   drop[1-source] Premier League Winner Out: Burnley Injury Latest Ahead of Sincil Bank Visit (The Stacey West) :: Burnley Football Club, wait 2nd source
+2026-10-22 16:15:08   llm groq-120b: rate limited, skip 171s
+2026-10-22 16:15:08 NEWS [BBC 2m] South Africa complete famous win over Australia
+2026-10-22 16:15:08   skip No :: Will South Africa win? (rules fallback, LLM down (not traded))
+2026-10-22 16:15:08   skip No :: Will the match end in a draw? (rules fallback, LLM down (not traded))
+2026-10-22 16:15:08   skip No :: Will Australia win? (rules fallback, LLM down (not traded))
+2026-10-22 16:16:08   llm groq-20b: rate limited, skip 45s
+2026-10-22 16:16:41 indexed 1108 markets
+2026-10-22 16:25:27   drop[not-key] Former Tennessee football player Jamal Wallace 'suspended indefinitely' after arrest (The Tennessean) :: Jamal Wallace: suspended indefinitely after arrest
+2026-10-22 16:26:42 indexed 1120 markets
+2026-10-22 16:27:34   drop[team-not-named] Renuka ruled out of ODIs against Zimbabwe; Jintimani named as her replacement (IANS LIVE) :: India women's national cricket team
+2026-10-22 16:32:10   drop[kind] Troy vs. ULM injury report: TK Keyes doubtful, Goose Crowder questionable (The Troy Messenger) :: other
+2026-10-22 16:32:10   llm groq-120b: rate limited, skip 12s
+2026-10-22 16:32:10   drop[not-key] Clippers dedicate opening-night win to suspended owner Steve Ballmer: 'We're still fightin (Yahoo) :: Steve Ballmer: Owner suspended
+2026-10-22 16:34:47   drop[1-source] Bayern Munich announce Luis Díaz sidelined with muscle injury after Arsenal game (Bavarian Football Works) :: Luis Díaz, wait 2nd source
+2026-10-22 16:36:42 indexed 1114 markets
+2026-10-22 16:36:50   llm groq-120b: rate limited, skip 13s
+2026-10-22 16:36:51   drop[kind] Russia strikes Kyiv hours after agreeing to US-brokered peace talks – video (The Guardian) :: other
+2026-10-22 16:39:07 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 99)
+2026-10-22 16:39:08   llm groq-120b: rate limited, skip 9s
+2026-10-22 16:39:09   drop[1-source] Burnley injury problems stack up as Nicky Hayen issues Jamie Vardy latest (The72) :: Jamie Vardy, wait 2nd source
+2026-10-22 16:39:10 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 99)
+2026-10-22 16:39:38 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 99)
+2026-10-22 16:39:41   llm groq-120b: rate limited, skip 10s
+2026-10-22 16:39:41 [pengwin] BOLOGNA-INTER: no Polymarket event (try 99)
