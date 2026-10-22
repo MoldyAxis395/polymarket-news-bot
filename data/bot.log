@@ -17505,3 +17505,16 @@
 2026-10-22 23:24:39   llm groq-120b: rate limited, skip 55s
 2026-10-22 23:24:39   drop[no-market] Elks DL Darien Newell suspended a second time for drug violation (Sportsnet.ca) :: Edmonton Elks
 2026-10-22 23:26:27 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-22 23:27:23 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 109)
+2026-10-22 23:27:52 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 109)
+2026-10-22 23:27:54   llm groq-120b: rate limited, skip 2s
+2026-10-22 23:27:54 [pengwin] BOLOGNA-INTER: no Polymarket event (try 109)
+2026-10-22 23:27:57 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-22 23:30:40 [pengwin]   book error AS Monaco FC vs. Lille OSC: O/U 2.5: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-22 23:32:18 indexed 984 markets
+2026-10-22 23:39:32   drop[kind] Ravens QB Lamar Jackson inches one step closer toward injury return (Yardbarker) :: other
+2026-10-22 23:39:33   drop[1-source] Packers’ Jordan Love upgraded on injury report while Christian Watson, Matthew Golden stil (ClutchPoints) :: Jordan Love, wait 2nd source
+2026-10-22 23:42:03   drop[unconfirmed] Cowboys’ George Pickens limited at practice with nagging shoulder injury before Eagles gam (ClutchPoints) :: shoulder injury limits practice before Eagles game
+2026-10-22 23:42:30 indexed 988 markets
+2026-10-22 23:52:33 indexed 986 markets
+2026-10-22 23:52:38   drop[team-not-named] UNF frat suspended for hazing (Action News Jax) :: University of North Florida
