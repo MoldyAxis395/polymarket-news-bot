@@ -16977,3 +16977,23 @@
 2026-10-22 06:34:39   drop[unconfirmed] Saka injury doesn't look good, says Arsenal manager Arteta (The Straits Times) :: injury
 2026-10-22 06:36:41 indexed 1050 markets
 2026-10-22 06:40:12 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-22 06:41:19 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 89)
+2026-10-22 06:41:22 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 89)
+2026-10-22 06:41:50 [pengwin] Betis-Barcellona: no Polymarket event (try 91)
+2026-10-22 06:41:53 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 89)
+2026-10-22 06:41:55 [pengwin] BOLOGNA-INTER: no Polymarket event (try 89)
+2026-10-22 06:43:50   llm groq-120b: rate limited, skip 257s
+2026-10-22 06:43:50   drop[1-source] Alabama Football Suffers Another Major Blow as Ryan Coleman-Williams Ruled Out Against Tex (roundtable.io) :: Ryan Coleman-Williams, wait 2nd source
+2026-10-22 06:46:40 indexed 1046 markets
+2026-10-22 06:48:17   drop[1-source] Another Scam Surfaces Against Suspended IAS Officer Abhishek Chandra: WB STF Statement Lin (TRIPURAINFO) :: Abhishek Chandra, wait 2nd source
+2026-10-22 06:56:43 indexed 1050 markets
+2026-10-22 07:04:28   drop[team-not-named] PSG blow as Kvaratskhelia suffers major injury in win over Barca (Sowetan) :: SSC Napoli
+2026-10-22 07:04:28   drop[kind] Award honour for student who overcame injury after being kicked in face by horse (EDP24) :: other
+2026-10-22 07:04:29   drop[kind] ‘Really annoying’ – Newcastle United star reveals frustration after injury setbacks (Shields Gazette) :: other
+2026-10-22 07:06:43 indexed 1049 markets
+2026-10-22 07:06:47   llm groq-120b: rate limited, skip 16s
+2026-10-22 07:06:48   drop[not-key] Lual sidelined with hamstring injury (Western Sydney Wanderers) :: Lual: hamstring
+2026-10-22 07:09:06   drop[kind] Attack on King Fahd Airport Leaves One Dead, Eight Injured in Dammam (Newsfirst) :: other
+2026-10-22 07:09:06   llm groq-120b: rate limited, skip 159s
+2026-10-22 07:09:07   drop[team-not-named] Lee Kang-in Under Special Management Amid Quadriceps Injury (조선일보) :: Tottenham Hotspur
+2026-10-22 07:10:25 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
