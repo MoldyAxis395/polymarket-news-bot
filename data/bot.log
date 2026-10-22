@@ -17579,3 +17579,25 @@
 2026-10-23 00:56:12   skip Bears :: Patriots vs. Bears (rules fallback, LLM down (not traded))
 2026-10-23 00:56:12 NEWS [ESPN 9m] Marshall Rifai (D, Toronto Maple Leafs) ruled out: Day-To-Day -> Out [NHL]
 2026-10-23 00:56:12   skip Rangers :: Rangers vs. Maple Leafs (rules fallback, LLM down (not traded))
+2026-10-23 00:57:10 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-23 00:58:06 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 112)
+2026-10-23 00:58:34 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 112)
+2026-10-23 00:58:36 [pengwin] BOLOGNA-INTER: no Polymarket event (try 112)
+2026-10-23 01:02:45 indexed 995 markets
+2026-10-23 01:02:47   drop[not-key] Egor Chinakhov (RW, Pittsburgh Penguins) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Egor Chinakhov: injury
+2026-10-23 01:04:22   llm groq-120b: rate limited, skip 1s
+2026-10-23 01:04:23   drop[kind] 'Thank you to God': Brent Swadley received suspended six-year sentence (KOKH) :: other
+2026-10-23 01:04:23   drop[team-not-named] Saquon Barkley Injury: Limited Thursday (RotoWire) :: New York Giants
+2026-10-23 01:04:23   llm groq-20b: rate limited, skip 249s
+2026-10-23 01:04:46   drop[not-key] Jeff Malott (LW, Anaheim Ducks) ruled out: healthy -> Out [NHL] (ESPN) :: Jeff Malott: ruled out despite being healthy
+2026-10-23 01:04:47   llm groq-120b: rate limited, skip 258s
+2026-10-23 01:12:46 indexed 1001 markets
+2026-10-23 01:12:56   llm groq-120b: rate limited, skip 184s
+2026-10-23 01:12:58   drop[verify] Trey Alexander (G, Utah Jazz) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Trey Alexander is not a starter/star, so his absence unlikely to move the market 5+ points.
+2026-10-23 01:15:58   llm groq-20b: rate limited, skip 112s
+2026-10-23 01:18:17   drop[not-key] Chiefs | Rashee Rice misses practice again, knee added to injury report (Fantasy Guru) :: Rashee Rice: knee injury added to report
+2026-10-23 01:18:18   llm groq-120b: rate limited, skip 111s
+2026-10-23 01:18:18   llm groq-20b: rate limited, skip 7s
+2026-10-23 01:22:47 indexed 1009 markets
+2026-10-23 01:24:06 NEWS [ESPN 15m] Quinton Byfield (RW, Los Angeles Kings) ruled out: Day-To-Day -> Out [NHL]
+2026-10-23 01:24:06   skip Islanders :: Kings vs. Islanders (low conf 0.62)
