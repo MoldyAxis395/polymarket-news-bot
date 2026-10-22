@@ -17258,3 +17258,26 @@
 2026-10-22 17:10:49 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 100)
 2026-10-22 17:10:51   llm groq-20b: rate limited, skip 230s
 2026-10-22 17:10:51 [pengwin] BOLOGNA-INTER: no Polymarket event (try 100)
+2026-10-22 17:11:58 [pengwin] page on-villa-manchester-city-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-22 17:16:48 indexed 1099 markets
+2026-10-22 17:25:25   drop[1-source] Arsenal receive Christos Tzolis injury boost as winger closes in on return ahead of Liverp (ArsenalNews.co.uk) :: Christos Tzolis, wait 2nd source
+2026-10-22 17:26:48 indexed 1092 markets
+2026-10-22 17:27:41   drop[not-key] Bayern winger Diaz ruled out with hamstring tear (Jamaica Observer) :: Diaz: hamstring tear
+2026-10-22 17:30:34   drop[kind] Tragic loss for rugby as young player dies following serious match injury (Briefly News) :: other
+2026-10-22 17:31:33   drop[no-market] FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by  (CNBC) :: FIFA
+2026-10-22 17:32:20   llm groq-120b: rate limited, skip 132s
+2026-10-22 17:32:20   drop[1-source] Brent Swadley receives suspended sentence for Foggy Bottom Kitchen scandal (KOKH) :: Brent Swadley, wait 2nd source
+2026-10-22 17:32:21   drop[kind] Bo Nix finally admitted what everyone has wondered about his injury (Predominantly Orange) :: other
+2026-10-22 17:32:22   drop[team-not-named] El Desperado Announces Injury, Will Miss NJPW Super Jr Tag League (Monthly Puroresu) :: New Japan Pro-Wrestling
+2026-10-22 17:32:55   llm groq-20b: rate limited, skip 246s
+2026-10-22 17:32:55   drop[no-pick] Nick Suzuki (C, Montreal Canadiens) ruled out: healthy -> Out [NHL] (ESPN) :: None
+2026-10-22 17:34:40   drop[team-not-named] Nick Suzuki Injury: Facing multi-week absence (RotoWire) :: Montreal Canadiens
+2026-10-22 17:34:40   llm groq-120b: rate limited, skip 258s
+2026-10-22 17:35:58 NEWS [ESPN 11m] Linus Ullmark (G, Ottawa Senators) ruled out: Day-To-Day -> Injured Reserve [NHL]
+2026-10-22 17:35:58   skip Sharks :: Sharks vs. Senators (rules fallback, LLM down (not traded))
+2026-10-22 17:36:52 indexed 1091 markets
+2026-10-22 17:40:03 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 101)
+2026-10-22 17:40:06 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 101)
+2026-10-22 17:40:34 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 101)
+2026-10-22 17:40:36   llm groq-120b: rate limited, skip 166s
+2026-10-22 17:40:37 [pengwin] BOLOGNA-INTER: no Polymarket event (try 101)
