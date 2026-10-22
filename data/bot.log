@@ -17233,3 +17233,28 @@
 2026-10-22 16:39:38 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 99)
 2026-10-22 16:39:41   llm groq-120b: rate limited, skip 10s
 2026-10-22 16:39:41 [pengwin] BOLOGNA-INTER: no Polymarket event (try 99)
+2026-10-22 16:43:57   drop[not-key] Bristol Bears injury latest for Exeter Chiefs: Genge, Oghre, Jordan, Kloska (Bristol Live) :: Genge: injured
+2026-10-22 16:46:44 indexed 1109 markets
+2026-10-22 16:50:44   drop[kind] FPL GW8 Injury Replacements: Szoboszlai, Semenyo, Saka (thefalse9.com) :: other
+2026-10-22 16:50:44   llm groq-120b: rate limited, skip 164s
+2026-10-22 16:50:44   drop[unconfirmed] Bayern's Diaz sidelined with hamstring injury after Arsenal draw (The Straits Times) :: hamstring injury
+2026-10-22 16:53:09   drop[kind] Joy Behar’s Injury Leaves The View Considering Major Format Change — Source (Crave Online) :: other
+2026-10-22 16:55:17   drop[1-source] Puri School Headmaster Suspended Over Alleged Job Fraud (Ommcom News) :: Puri School, wait 2nd source
+2026-10-22 16:56:48 indexed 1106 markets
+2026-10-22 16:57:41   drop[1-source] Barcelona defender ruled out of El Clasico; at risk of missing Aston Villa, Atletico Madri (Barca Universal) :: FC Barcelona, wait 2nd source
+2026-10-22 17:04:33   drop[1-source] The BayNet Daily Newscast: Waldorf Golden Corral License Suspended Over Roaches, Food Safe (The BayNet) :: Waldorf Golden Corral, wait 2nd source
+2026-10-22 17:04:33   llm groq-120b: rate limited, skip 238s
+2026-10-22 17:04:34   drop[no-pick] Swansea City suffer Ronald blow as winger ruled out with hamstring injury (BBC) :: no relevant market
+2026-10-22 17:04:35   drop[kind] Nuggets vs. Thunder injury report features 1 ironic questionable status (ClutchPoints) :: other
+2026-10-22 17:04:36   drop[kind] J.J. Watt Feared The Worst After Jim Nantz’s Peanut Punch Injury Before CBS Deal News Took (ClutchPoints) :: other
+2026-10-22 17:06:46 indexed 1102 markets
+2026-10-22 17:09:13   drop[team-not-named] Mike Evans’ injury exposes 49ers’ dire paucity of options at wide receiver (San Francisco Chronicle) :: Tampa Bay Buccaneers
+2026-10-22 17:09:13   llm groq-120b: rate limited, skip 205s
+2026-10-22 17:09:14   drop[kind] Cavs vs. 76ers injury report: Jarrett Allen questionable for Joel Embiid matchup (ClutchPoints) :: other
+2026-10-22 17:09:21 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-22 17:10:18 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 100)
+2026-10-22 17:10:21   llm groq-20b: rate limited, skip 1s
+2026-10-22 17:10:21 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 100)
+2026-10-22 17:10:49 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 100)
+2026-10-22 17:10:51   llm groq-20b: rate limited, skip 230s
+2026-10-22 17:10:51 [pengwin] BOLOGNA-INTER: no Polymarket event (try 100)
