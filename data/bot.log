@@ -17122,3 +17122,25 @@
 2026-10-22 14:38:24 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 95)
 2026-10-22 14:38:27 [pengwin] BOLOGNA-INTER: no Polymarket event (try 95)
 2026-10-22 14:40:27   drop[kind] Brent crude near $112 as U.S. and Israel reportedly weigh fresh Iran strikes (CNBC) :: other
+2026-10-22 14:42:43   llm groq-120b: rate limited, skip 90s
+2026-10-22 14:42:44   drop[1-source] Gophers guard Tori McKinney to miss season with knee injury (The Minnesota Daily) :: Tori McKinney, wait 2nd source
+2026-10-22 14:45:12   llm groq-120b: rate limited, skip 154s
+2026-10-22 14:45:15   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-22 14:45:15   drop[verify] Pacers' Tyrese Haliburton makes emotional return from Achilles injury (USA Today) :: no answer
+2026-10-22 14:46:30 indexed 1116 markets
+2026-10-22 14:47:22   drop[1-source] Meridian to be suspended on Oct 30, faces delisting after latest bid to delay regularisati (The Edge Malaysia) :: Meridian, wait 2nd source
+2026-10-22 14:49:40   llm groq-120b: rate limited, skip 15s
+2026-10-22 14:49:42   drop[unconfirmed] Raul Fernandez still compromised after Indonesia finger injury: “I’m not at 100%” (Motorsport.com) :: finger injury
+2026-10-22 14:54:28   drop[team-not-named] Cody Rhodes’s WrestleMania 42 Injury Was Worse Than Initially Believed (Ringside News) :: WWE (Raw)
+2026-10-22 14:56:31 indexed 1122 markets
+2026-10-22 15:03:52   drop[1-source] Colorado Injury Report Reveals Long List Expected to Miss Oklahoma State Game (Sports Illustrated) :: Colorado Buffaloes, wait 2nd source
+2026-10-22 15:03:53   drop[1-source] Injury boost as Gillingham players close in on comebacks (Kent Online) :: Gillingham FC, wait 2nd source
+2026-10-22 15:04:35   drop[kind] This House Democrat sees an opening to beat John Fetterman in 2028 politi.co/4dQsqbz (Politico) :: other
+2026-10-22 15:05:51   llm groq-120b: rate limited, skip 281s
+2026-10-22 15:05:51   drop[not-key] Cardiff City confirm new injury blow for young defender (The72) :: Jamal Smith: injury
+2026-10-22 15:06:33 indexed 1120 markets
+2026-10-22 15:06:51   drop[team-not-named] Childcare crackdown: 53 workers suspended in NSW in 12 months (The Daily Telegraph) :: New South Wales
+2026-10-22 15:08:12 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 96)
+2026-10-22 15:08:15 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 96)
+2026-10-22 15:08:42 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 96)
+2026-10-22 15:08:45 [pengwin] BOLOGNA-INTER: no Polymarket event (try 96)
