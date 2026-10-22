@@ -17281,3 +17281,37 @@
 2026-10-22 17:40:34 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 101)
 2026-10-22 17:40:36   llm groq-120b: rate limited, skip 166s
 2026-10-22 17:40:37 [pengwin] BOLOGNA-INTER: no Polymarket event (try 101)
+2026-10-22 17:46:51 indexed 1096 markets
+2026-10-22 17:47:38   llm groq-120b: rate limited, skip 188s
+2026-10-22 17:47:39   drop[side] Ararat-Armenia confirmed lineup vs AZ Alkmaar: Luis Felipe, Alwyn Luheni Tera, Zidane Banj (ESPN) :: Will Ararat-Armenia FA win on 2026-10-22? -> Yes vs fact ruled_out: - (Ararat-Armenia, soccer), bad for Ararat-Armenia. 
+2026-10-22 17:47:40   drop[no-market] AZ Alkmaar confirmed lineup vs Ararat-Armenia: Wouter Goes, Ro-Zangelo Daal ruled out of s (ESPN) :: AZ Alkmaar
+2026-10-22 17:47:40   llm groq-20b: rate limited, skip 61s
+2026-10-22 17:49:38   llm groq-20b: rate limited, skip 26s
+2026-10-22 17:53:03   drop[kind] Brent Swadley receives six-year suspended sentence (KFOR) :: other
+2026-10-22 17:53:37   llm groq-120b: rate limited, skip 110s
+2026-10-22 17:53:38   drop[kind] Ways and Means Democrats ask Treasury about delayed IRS data politi.co/4iyC7hn (Politico) :: other
+2026-10-22 17:53:40   drop[team-not-named] Ferencvaros confirmed lineup vs Torreense: Toon Raemaekers, Attila Osvath, Cadu, Marius Du (ESPN) :: Ferencváros
+2026-10-22 17:53:40   llm groq-20b: rate limited, skip 288s
+2026-10-22 17:56:53 indexed 1096 markets
+2026-10-22 17:56:55   drop[team-not-named] Judge orders Trump to sit for deposition he canceled in BBC lawsuit politi.co/4i2jTET (Politico) :: United States
+2026-10-22 17:57:46   llm groq-120b: rate limited, skip 141s
+2026-10-22 18:01:25   llm groq-120b: rate limited, skip 112s
+2026-10-22 18:01:27 NEWS [ESPN 2m] Samuel Girard (D, Pittsburgh Penguins) ruled out: Day-To-Day -> Out [NHL]
+2026-10-22 18:01:27   skip Panthers :: Panthers vs. Penguins (low conf 0.6)
+2026-10-22 18:03:11   drop[kind] WRU loses £18m and says four regions unsustainable (BBC) :: other
+2026-10-22 18:05:00   llm groq-120b: rate limited, skip 18s
+2026-10-22 18:05:00   llm groq-20b: rate limited, skip 88s
+2026-10-22 18:06:54 indexed 1114 markets
+2026-10-22 18:07:01   llm groq-120b: rate limited, skip 67s
+2026-10-22 18:07:02   drop[no-pick] Canadiens lose Nick Suzuki for up to a month due to upper-body injury (ClutchPoints) :: short
+2026-10-22 18:09:03   llm groq-120b: rate limited, skip 20s
+2026-10-22 18:09:03   llm groq-20b: rate limited, skip 10s
+2026-10-22 18:09:03 NEWS [ESPN 8m] Sebastian Joseph-Day (DT, Pittsburgh Steelers) ruled out: Questionable -> Injured Reserve [NFL]
+2026-10-22 18:09:03   skip Saints :: Steelers vs. Saints (rules fallback, LLM down (not traded))
+2026-10-22 18:09:20   llm groq-20b: rate limited, skip 253s
+2026-10-22 18:09:20   drop[no-pick] Barcelona playmaker’s remarkable run ends after a fresh injury against PSG (Yahoo Sports) :: None
+2026-10-22 18:10:49 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 102)
+2026-10-22 18:10:52 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 102)
+2026-10-22 18:11:20 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 102)
+2026-10-22 18:11:22   llm groq-120b: rate limited, skip 150s
+2026-10-22 18:11:22 [pengwin] BOLOGNA-INTER: no Polymarket event (try 102)
