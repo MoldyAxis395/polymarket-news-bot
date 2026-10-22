@@ -1,15 +1,34 @@
 {
- "updated": "2026-10-22T21:23:03",
+ "updated": "2026-10-22T21:54:01",
  "start": 100.0,
- "cash": 127.39,
- "equity": 127.39,
- "open": [],
+ "cash": 117.39,
+ "equity": 127.2,
+ "open": [
+  {
+   "market_id": "5597100",
+   "question": "AS Monaco FC vs. Lille OSC: O/U 2.5",
+   "slug": "fl1-asm-lil-2026-10-25-total-2pt5",
+   "outcome": "Over",
+   "token": "36307339683851743400103247809838602175873416896631101373033766402017856128275",
+   "shares": 18.867924528301884,
+   "entry": 0.53,
+   "cost": 10.0,
+   "opened": 1792697101.7984912,
+   "opened_iso": "2026-10-22T19:25:01+00:00",
+   "news": "BAYERN MONACO-LIPSIA: OVER 2.5 (esatto)",
+   "reason": "pengwin exact: total goals >2.5",
+   "conf": 1.0,
+   "end": "2026-10-25T14:00:00+00:00",
+   "last_bid": 0.52,
+   "book_err": false
+  }
+ ],
  "closed_count": 31,
  "realized_pnl": 27.39,
  "pages": {
-  "pending": 155,
+  "pending": 154,
   "picked": 1,
-  "traded": 31,
+  "traded": 32,
   "skipped": 109,
   "expired": 56
  }

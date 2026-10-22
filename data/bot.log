@@ -17402,3 +17402,15 @@
 2026-10-22 21:25:04 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 105)
 2026-10-22 21:25:31 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 105)
 2026-10-22 21:25:33 [pengwin] BOLOGNA-INTER: no Polymarket event (try 105)
+2026-10-22 21:27:00   llm groq-20b: rate limited, skip 712s
+2026-10-22 21:27:00 NEWS [ESPN 0m] Ben Skowronek (WR, Pittsburgh Steelers) ruled out: Questionable -> Out [NFL]
+2026-10-22 21:27:00   skip Saints :: Steelers vs. Saints (rules fallback, LLM down (not traded))
+2026-10-22 21:31:57 indexed 1008 markets
+2026-10-22 21:41:18   drop[team-not-named] Trump signs executive order aimed at reducing housing costs reut.rs/3VUio37 (Reuters) :: United States federal government
+2026-10-22 21:41:58 indexed 994 markets
+2026-10-22 21:45:08   drop[1-source] Utah Football Player Suspended After Allegedly Raping Woman, Sharing Videos Online (TMZ) :: University of Utah Football, wait 2nd source
+2026-10-22 21:50:58   drop[kind] Actor Tom Skerritt, star of 'Alien' and 'Top Gun,' dies at 93 reut.rs/4Bs3662 (Reuters) :: other
+2026-10-22 21:51:59 indexed 990 markets
+2026-10-22 21:53:29 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-22 21:55:26 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-22 21:56:21 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 106)
