@@ -16863,3 +16863,29 @@
 2026-10-22 03:38:41 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 83)
 2026-10-22 03:38:43   llm groq-120b: rate limited, skip 9s
 2026-10-22 03:38:44 [pengwin] BOLOGNA-INTER: no Polymarket event (try 83)
+2026-10-22 03:41:40   drop[not-key] Dorian Mausi (LB, Tennessee Titans) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Dorian Mausi: placed on injured reserve
+2026-10-22 03:42:40   llm groq-120b: rate limited, skip 278s
+2026-10-22 03:42:42   drop[verify] Malik Monk (G, Sacramento Kings) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: not current
+2026-10-22 03:46:22 indexed 1061 markets
+2026-10-22 03:49:29   drop[kind] 🚨 Michael Carrick: “If you don't run forward and you don't run back, you ain't going to wi (Fabrizio Romano) :: other
+2026-10-22 03:56:24 indexed 1061 markets
+2026-10-22 04:01:50   drop[team-not-named] LSU Tight End Trey’Dez Green Is Off SEC’s Injury Report For 1st Time Since Knee Injury At  (TigerRag.com |) :: Louisiana State University Tigers
+2026-10-22 04:01:52   drop[not-key] Wisconsin center Austin Kawecki nears return from hand injury (Milwaukee Journal Sentinel) :: Austin Kawecki: near return from hand injury
+2026-10-22 04:01:52   llm groq-120b: rate limited, skip 82s
+2026-10-22 04:01:52   drop[1-source] Crossover: Lamar Jackson Ongoing INJURY Headlines Bengals vs Ravens As Cincy Eyes Trey Hen (firstcoastnews.com) :: Lamar Jackson, wait 2nd source
+2026-10-22 04:01:53   drop[1-source] Senators news: Linus Ullmark exits Panthers clash with injury after save (ClutchPoints) :: Linus Ullmark, wait 2nd source
+2026-10-22 04:04:07   drop[team-not-named] Linus Ullmark exits vs. Florida Panthers with apparent lower-body injury (TSN) :: Boston Bruins
+2026-10-22 04:06:26 indexed 1076 markets
+2026-10-22 04:06:30   llm groq-120b: rate limited, skip 80s
+2026-10-22 04:06:30   drop[kind] Kansas State QB Avery Johnson listed as questionable for Arizona State (The Topeka Capital-Journal) :: other
+2026-10-22 04:06:31   drop[1-source] UCF’s Taevion Swint ruled out for Saturday showdown with No. 2 BYU (Orlando Sentinel) :: Taevion Swint, wait 2nd source
+2026-10-22 04:08:14 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-22 04:09:00   llm groq-120b: rate limited, skip 102s
+2026-10-22 04:09:01 NEWS [theScore 3m] Senators' Ullmark helped off ice after sustaining injury vs. Panthers
+2026-10-22 04:09:01   skip Sharks :: Sharks vs. Senators (low conf 0.6)
+2026-10-22 04:09:17 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 84)
+2026-10-22 04:09:20 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 84)
+2026-10-22 04:09:47   llm groq-20b: rate limited, skip 15s
+2026-10-22 04:09:47 [pengwin] Betis-Barcellona: no Polymarket event (try 86)
+2026-10-22 04:09:49 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 84)
+2026-10-22 04:09:51 [pengwin] BOLOGNA-INTER: no Polymarket event (try 84)
