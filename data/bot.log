@@ -16937,3 +16937,12 @@
 2026-10-22 02:21:58   llm groq-120b: rate limited, skip 23s
 2026-10-22 02:21:58   drop[unconfirmed] Colin Simmons injury: Texas says star is doubtful vs. Ole Miss (Austin American-Statesman) :: doubtful
 2026-10-22 02:21:59   drop[kind] Semaglutide and teduglutide reduced intestinal injury in mice — News-Medical (UA.NEWS) :: other
+2026-10-22 02:29:01   drop[kind] 3 Ole Miss Players Questionable vs. Texas on Initial SEC Injury Report (Sports Illustrated) :: other
+2026-10-22 02:29:02   drop[kind] Ole Miss vs. Texas Injury Report: Davis, Sanders Questionable (The Rebel Walk) :: other
+2026-10-22 02:29:02   llm groq-120b: rate limited, skip 266s
+2026-10-22 02:29:02   drop[not-key] Indiana vs. Michigan injury report: RB Khobie Martin set to return from injury this week (247Sports) :: Khobie Martin: player returning from injury
+2026-10-22 02:31:08   drop[1-source] Multiple Texas A&M Starters Dealing With Injury Before Alabama Game (Sports Illustrated) :: Texas A&M Aggies, wait 2nd source
+2026-10-22 02:31:16   drop[kind] New World screwworm cases confirmed in cow in New Mexico, wildlife in Texas, officials say (Reuters) :: other
+2026-10-22 02:31:52 indexed 1054 markets
+2026-10-22 02:33:32   drop[kind] Two Fayette corrections officers fired, one suspended in inmate assault (Herald-Standard) :: other
+2026-10-22 02:35:20 shift over, state saved
