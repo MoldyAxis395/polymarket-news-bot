@@ -17081,64 +17081,19 @@
 2026-10-22 12:52:36   drop[1-source] Nurses Call For Reinstatement Of Union Official Who Was Suspended (News12 | Brooklyn) :: Nurses Union, wait 2nd source
 2026-10-22 12:52:37   drop[1-source] Sydney FC Rally Behind Alyse Oppedisano Following ACL Injury (Sydney FC) :: Alyse Oppedisano, wait 2nd source
 2026-10-22 12:54:54   drop[kind] Suspended Silicon Metasurfaces Tune Mid-Infrared Light Rapidly (Bioengineer.org) :: other
-2026-10-22 12:57:11 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 94)
-2026-10-22 12:57:13   llm groq-120b: rate limited, skip 48s
-2026-10-22 12:57:13 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 94)
-2026-10-22 12:57:41 [pengwin] Betis-Barcellona: no Polymarket event (try 96)
-2026-10-22 12:57:43 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 94)
-2026-10-22 12:57:46 [pengwin] BOLOGNA-INTER: no Polymarket event (try 94)
-2026-10-22 12:59:41   llm groq-120b: rate limited, skip 56s
-2026-10-22 12:59:41   drop[kind] British tourist let off with suspended sentence after admitting rape of woman in Magaluf h (Sunday World) :: other
-2026-10-22 13:01:50   drop[not-key] Clemson True Freshman WR Gordon Sellars III Ruled Out vs. Virginia Tech (Sports Illustrated) :: Gordon Sellars III: injury
-2026-10-22 13:02:30 indexed 1026 markets
-2026-10-22 13:04:07   llm groq-120b: rate limited, skip 43s
-2026-10-22 13:04:08   drop[1-source] Ravens QB Lamar Jackson returns to practice (Baltimore Beatdown) :: Lamar Jackson, wait 2nd source
-2026-10-22 13:04:08   drop[team-not-named] Caleb Williams injury clearly cost Bears quarterback MVP run (Da Windy City) :: USC Trojans
-2026-10-22 13:04:09   drop[unconfirmed] Cody Rhodes Says Orbital Injury At WrestleMania 42 Affected His Work After (Fightful) :: injury
-2026-10-22 13:04:10   drop[kind] Involuntary care gets backing of brain injury expert at conference in Kelowna (Castanet) :: other
-2026-10-22 13:04:10   drop[1-source] ‘Big one’: The plan for Portsmouth striker as he bolsters injury-hit ranks (Portsmouth News) :: Kieran Goss, wait 2nd source
-2026-10-22 13:04:11   drop[1-source] Arsenal almost had another injury scare before Bukayo Saka went off against Bayern Munich (Arsenal Insider) :: Bukayo Saka, wait 2nd source
-2026-10-22 13:05:53   drop[kind] 'Ten years of hate and abuse' - Schoeman on viral victory over Brownlees (BBC) :: other
-2026-10-22 13:10:49   drop[kind] Cuba's public transport plunges to all-time low amid US fuel blockade, minister says reut. (Reuters) :: other
-2026-10-22 13:11:02   llm groq-120b: rate limited, skip 241s
-2026-10-22 13:11:02   drop[team-not-named] Ex-Univ. of Tokyo Professor Gets Suspended Sentence over Bribing (JIJI PRESS) :: 
-2026-10-22 13:11:03   drop[kind] Georgian Bluffs Stays Mum On Suspended Sales At Mount Pleasant Cemetery (Bayshore Broadcasting News Centre) :: other
-2026-10-22 13:12:31 indexed 1028 markets
-2026-10-22 13:13:21   drop[kind] P&G flags bigger hit to annual profit from higher commodity costs, beats revenue estimates (Reuters) :: other
-2026-10-22 13:15:41   drop[kind] Rice bran extracts ease STZ injury in cells and diabetic symptoms in mice (Bioengineer.org) :: other
-2026-10-22 13:20:16   drop[team-not-named] SpaceX-Tesla merger: Musk’s public backing rattled insiders (The Next Web) :: SpaceX and Tesla
-2026-10-22 13:22:34 indexed 1023 markets
-2026-10-22 13:22:39   llm groq-120b: rate limited, skip 26s
-2026-10-22 13:22:39   drop[not-key] Buffalo Bills’ defensive back Sam Franklin Jr. suspended one game after alleged spitting i (K-Jewel 99.3 FM) :: Sam Franklin Jr.: suspension
-2026-10-22 13:23:23   llm groq-120b: rate limited, skip 45s
-2026-10-22 13:23:24   drop[kind] Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products (CNBC) :: other
-2026-10-22 13:26:31 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-22 13:27:27   drop[kind] At least four dead after storm brings flooding to southern France (BBC) :: other
-2026-10-22 13:27:35 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 95)
-2026-10-22 13:27:37   llm groq-120b: rate limited, skip 45s
-2026-10-22 13:27:37 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 95)
-2026-10-22 13:28:05 [pengwin] Betis-Barcellona: no Polymarket event (try 97)
-2026-10-22 13:28:08 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 95)
-2026-10-22 13:28:10 [pengwin] BOLOGNA-INTER: no Polymarket event (try 95)
-2026-10-22 13:31:48   drop[not-key] Gonçalo Ramos’ injury opens the door for Italian youngsters at AC Milan (Football Italia) :: Gonçalo Ramos: Ramos' injury creates opportunities for Italian youngsters at AC Milan
-2026-10-22 13:32:32 indexed 1023 markets
-2026-10-22 13:35:16   llm groq-120b: rate limited, skip 105s
-2026-10-22 13:35:16   drop[kind] Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk reut.rs/4Bjt (Reuters) :: other
-2026-10-22 13:36:40 NEWS [USA Today 5m] Tyronn Lue, Clippers dedicate season-opening win to Steve Ballmer
-2026-10-22 13:36:40   skip Clippers :: Clippers vs. Lakers (low conf 0.6)
-2026-10-22 13:36:41   drop[1-source] Onuachu Ruled Out Of Trabzonspor’s Clash With Hearts (www.footballinnigeria.com.ng) :: Onuachu, wait 2nd source
-2026-10-22 13:38:45   llm groq-120b: rate limited, skip 113s
-2026-10-22 13:38:46   drop[verify] UEFA Europa Conference League: Onuachu ruled out of Trabzonspor’s clash against Hearts (Blueprint Newspapers) :: Onuachu not on team
-2026-10-22 13:42:35 indexed 1028 markets
-2026-10-22 13:44:13   drop[kind] Comcast beats earnings expectations as media revenue offsets weakness in connectivity (CNBC) :: other
-2026-10-22 13:45:59   drop[team-not-named] Australian pacer Megan Schutt suspended for two matches over prescription medication breac (Sports Tiger) :: Australia women's cricket team
-2026-10-22 13:52:36 indexed 1021 markets
-2026-10-22 13:57:28 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 96)
-2026-10-22 13:57:30 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 96)
-2026-10-22 13:57:58 [pengwin] Betis-Barcellona: no Polymarket event (try 98)
-2026-10-22 13:58:00 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 96)
-2026-10-22 13:58:02   llm groq-120b: rate limited, skip 44s
-2026-10-22 13:58:02 [pengwin] BOLOGNA-INTER: no Polymarket event (try 96)
-2026-10-22 14:02:37 indexed 1136 markets
-2026-10-22 14:04:33   drop[1-source] Latest Injury Blow Leaves Texas Longhorns in a Predicament vs. Ole Miss (Sports Illustrated) :: Texas Longhorns, wait 2nd source
-2026-10-22 14:05:49 shift over, state saved
+2026-10-22 14:06:02 === start mode=paper pid=2336 ===
+2026-10-22 14:06:02 brain=llm cash=84.02 open=0
+2026-10-22 14:06:02 resuming with 8914 known news items
+2026-10-22 14:06:29 indexed 1128 markets
+2026-10-22 14:06:47   drop[kind] Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk reut.rs/4Bjt (Reuters) :: other
+2026-10-22 14:06:47   llm groq-120b: rate limited, skip 178s
+2026-10-22 14:06:48   drop[kind] Cuba's public transport plunges to all-time low amid US fuel blockade, minister says reut. (Reuters) :: other
+2026-10-22 14:06:48   drop[kind] Suspect’s license was suspended 13 times (Gulf Breeze News) :: other
+2026-10-22 14:06:49   drop[unconfirmed] Seahawks’ Zach Charbonnet takes major step towards injury return in Week 7 (ClutchPoints) :: injury update
+2026-10-22 14:06:59 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 94)
+2026-10-22 14:07:02 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 94)
+2026-10-22 14:07:30 [pengwin] Betis-Barcellona: no Polymarket event (try 96)
+2026-10-22 14:07:32 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 94)
+2026-10-22 14:07:34 [pengwin] BOLOGNA-INTER: no Polymarket event (try 94)
+2026-10-22 14:07:39   drop[kind] Jones wins 50th Irish cap as Flood and Wall return (BBC) :: other
+2026-10-22 14:09:11   drop[1-source] Utah Football Player Suspended After Arrest on Multiple Felony Charges (Heartland College Sports) :: University of Utah Utes, wait 2nd source
