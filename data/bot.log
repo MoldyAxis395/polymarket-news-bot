@@ -17333,3 +17333,29 @@
 2026-10-22 19:52:44 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 102)
 2026-10-22 19:52:46   llm groq-20b: rate limited, skip 76s
 2026-10-22 19:52:46 [pengwin] BOLOGNA-INTER: no Polymarket event (try 102)
+2026-10-22 19:56:42   drop[1-source] Penguins winger Bryan Rust will miss at least six weeks with a lower-body injury (Pittsburgh Post-Gazette) :: Bryan Rust, wait 2nd source
+2026-10-22 19:59:03   llm groq-120b: rate limited, skip 85s
+2026-10-22 19:59:03   drop[1-source] Utah Football Player Suspended Indefinitely After Being Accused of Raping Woman (People.com) :: Utah Utes, wait 2nd source
+2026-10-22 19:59:03   llm groq-20b: rate limited, skip 66s
+2026-10-22 20:01:46 indexed 1043 markets
+2026-10-22 20:02:08   drop[kind] Saka’s injury ‘doesn’t look good at all’ (Herald.co.zw) :: other
+2026-10-22 20:02:11   llm groq-120b: rate limited, skip 288s
+2026-10-22 20:02:12   llm groq-20b: rate limited, skip 232s
+2026-10-22 20:02:12   drop[no-pick] AFC Bournemouth confirmed lineup vs AC Milan: Djordje Petrovic, Adam Smith, Rayan, Lewis C (ESPN) :: None
+2026-10-22 20:08:16   llm groq-120b: rate limited, skip 296s
+2026-10-22 20:08:17   drop[side] Celtic confirmed lineup vs Celta Vigo: Viljami Sinisalo, Auston Trusty, Sebastian Tounekti (ESPN) :: Will Celtic FC win on 2026-10-22? -> Yes vs fact ruled_out: - (Celtic FC, soccer), bad for Celtic FC. ruled out of start
+2026-10-22 20:08:17   llm groq-20b: rate limited, skip 213s
+2026-10-22 20:11:47 indexed 1040 markets
+2026-10-22 20:13:28   drop[kind] Eklund on Sharks Trading Him, Suffering Another Serious Injury (San Jose Hockey Now) :: other
+2026-10-22 20:18:00   llm groq-120b: rate limited, skip 38s
+2026-10-22 20:18:01   drop[unconfirmed] Duo’s return from injury provide Derry City boss with a welcome boost to his options durin (Belfast Telegraph) :: two players returned from injury
+2026-10-22 20:18:01   drop[kind] Arsenal ‘concerned’ about Saka injury (The New Nation) :: other
+2026-10-22 20:21:48 indexed 1032 markets
+2026-10-22 20:22:39   drop[unconfirmed] Addison Barger’s injury-plagued season left a hole in the Blue Jays’ lineup in 2026 (Blue Jays Nation) :: season-long injuries leave a hole in the lineup
+2026-10-22 20:22:39   llm groq-120b: rate limited, skip 48s
+2026-10-22 20:22:40   drop[team-not-named] The one positive from Bukayo Saka long-term injury (now.arsenal) :: Arsenal
+2026-10-22 20:23:09 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 103)
+2026-10-22 20:23:11   llm groq-20b: rate limited, skip 693s
+2026-10-22 20:23:11 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 103)
+2026-10-22 20:23:39 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 103)
+2026-10-22 20:23:41 [pengwin] BOLOGNA-INTER: no Polymarket event (try 103)
