@@ -17477,142 +17477,57 @@
 2026-10-22 22:54:32   drop[team-not-named] Bukayo Saka calf injury: What Arteta said (Total Apex Sports) :: Arsenal
 2026-10-22 22:55:36   drop[unconfirmed] Luke Musgrave (TE, Green Bay Packers) ruled out: healthy -> Out [NFL] (ESPN) :: ruled out
 2026-10-22 22:56:03 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-22 22:56:50   llm groq-20b: rate limited, skip 140s
-2026-10-22 22:56:58 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 108)
-2026-10-22 22:57:26 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 108)
-2026-10-22 22:57:28 [pengwin] BOLOGNA-INTER: no Polymarket event (try 108)
-2026-10-22 22:57:37 NEWS [ESPN 9m] T.J. McConnell (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA]
-2026-10-22 22:57:37   skip Mavericks :: Mavericks vs. Pacers (rules fallback, LLM down (not traded))
-2026-10-22 22:59:55   drop[no-market] GB's Fraser wins all-around bronze at Worlds (BBC) :: Great Britain
-2026-10-22 23:00:42   drop[not-key] Christian Rozeboom (LB, Tampa Bay Buccaneers) ruled out: Questionable -> Injured Reserve [ (ESPN) :: Christian Rozeboom: placed on injured reserve
-2026-10-22 23:00:42   llm groq-120b: rate limited, skip 286s
-2026-10-22 23:00:42   llm groq-20b: rate limited, skip 210s
-2026-10-22 23:00:42 NEWS [ESPN 6m] David Sills V (WR, Tampa Bay Buccaneers) cleared to play: Injured Reserve -> Active [NFL]
-2026-10-22 23:00:42   skip Yes :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
-2026-10-22 23:00:42   skip Buccaneers :: Buccaneers vs. Panthers (rules fallback, LLM down (not traded))
-2026-10-22 23:02:16 indexed 987 markets
-2026-10-22 23:08:29   drop[unconfirmed] Kon Knueppel Injury: Still out with hamstring strain (RotoWire) :: hamstring strain
-2026-10-22 23:08:29   llm groq-120b: rate limited, skip 139s
-2026-10-22 23:08:29   drop[unconfirmed] Linus Ullmark Injury: Out 1-2 weeks (RotoWire) :: injury
-2026-10-22 23:12:16 indexed 991 markets
-2026-10-22 23:18:33   drop[not-key] Grant Williams (F, Charlotte Hornets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Grant Williams: hamstring strain
-2026-10-22 23:18:34   llm groq-120b: rate limited, skip 104s
-2026-10-22 23:18:34 NEWS [ESPN 12m] Coby White (G, Charlotte Hornets) ruled out: Day-To-Day -> Out [NBA]
-2026-10-22 23:18:34   skip Hawks :: Hawks vs. Hornets (low conf 0.6)
-2026-10-22 23:18:34   drop[not-key] Kon Knueppel (G, Charlotte Hornets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Kon Knueppel: hamstring strain
-2026-10-22 23:22:16 indexed 986 markets
-2026-10-22 23:22:21   drop[1-source] Suspended Lives: Syrians Confront Denmark’s “Zero Asylum” Reality (The Syrian Observer) :: Denmark, wait 2nd source
-2026-10-22 23:24:39   llm groq-120b: rate limited, skip 55s
-2026-10-22 23:24:39   drop[no-market] Elks DL Darien Newell suspended a second time for drug violation (Sportsnet.ca) :: Edmonton Elks
-2026-10-22 23:26:27 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-22 23:27:23 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 109)
-2026-10-22 23:27:52 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 109)
-2026-10-22 23:27:54   llm groq-120b: rate limited, skip 2s
-2026-10-22 23:27:54 [pengwin] BOLOGNA-INTER: no Polymarket event (try 109)
-2026-10-22 23:27:57 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
-2026-10-22 23:30:40 [pengwin]   book error AS Monaco FC vs. Lille OSC: O/U 2.5: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
-2026-10-22 23:32:18 indexed 984 markets
-2026-10-22 23:39:32   drop[kind] Ravens QB Lamar Jackson inches one step closer toward injury return (Yardbarker) :: other
-2026-10-22 23:39:33   drop[1-source] Packers’ Jordan Love upgraded on injury report while Christian Watson, Matthew Golden stil (ClutchPoints) :: Jordan Love, wait 2nd source
-2026-10-22 23:42:03   drop[unconfirmed] Cowboys’ George Pickens limited at practice with nagging shoulder injury before Eagles gam (ClutchPoints) :: shoulder injury limits practice before Eagles game
-2026-10-22 23:42:30 indexed 988 markets
-2026-10-22 23:52:33 indexed 986 markets
-2026-10-22 23:52:38   drop[team-not-named] UNF frat suspended for hazing (Action News Jax) :: University of North Florida
-2026-10-22 23:57:29   drop[kind] St. Louis goalkeeper Bürki alert after head injury in US Ope... (Daily American Republic) :: other
-2026-10-22 23:57:41 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 110)
-2026-10-22 23:58:09 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 110)
-2026-10-22 23:58:12   llm groq-120b: rate limited, skip 19s
-2026-10-22 23:58:12 [pengwin] BOLOGNA-INTER: no Polymarket event (try 110)
-2026-10-23 00:02:36 indexed 981 markets
-2026-10-23 00:08:47   drop[team-not-named] Tobias Harris Injury: Ruled out for Friday (RotoWire) :: Philadelphia 76ers
-2026-10-23 00:10:58   drop[kind] Getty Images says investor litigation helped push it to bankruptcy reut.rs/4zac4Do (Reuters) :: other
-2026-10-23 00:11:06   drop[kind] 49ers news: Nick Bosa gets official target date for return from calf injury (ClutchPoints) :: other
-2026-10-23 00:12:35 indexed 979 markets
-2026-10-23 00:13:05   llm groq-120b: rate limited, skip 34s
-2026-10-23 00:13:05   drop[unconfirmed] Tobias Harris (F, San Antonio Spurs) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: left calf strain
-2026-10-23 00:14:41   drop[kind] Patriots CB Christian Gonzalez was downgraded to questionable for tonight's game vs the Be (Ian Rapoport) :: other
-2026-10-23 00:18:03   llm groq-120b: rate limited, skip 329s
-2026-10-23 00:18:03   drop[no-pick] Utah DT Jamal Wallace suspended indefinitely amid arrest for distributing intimate images, (CBS Sports) :: short
-2026-10-23 00:22:36 indexed 985 markets
-2026-10-23 00:22:41   drop[not-key] Rams WR Puka Nacua Suffered Calf Injury (NFLTradeRumors.co) :: Puka Nacua: calf injury
-2026-10-23 00:22:42   drop[no-pick] Utah DT Jamal Wallace suspended indefinitely (cedarnews.net) :: short
-2026-10-23 00:25:08   drop[unconfirmed] Puka Nacua leaves practice early with injury, Week 7 status now in question (The Big Lead) :: left practice early with injury, week 7 status uncertain
-2026-10-23 00:25:08   llm groq-120b: rate limited, skip 276s
-2026-10-23 00:25:09   drop[not-key] Puka Nacua suffers calf injury in Rams practice Thursday (Rams Wire) :: Puka Nacua: calf injury
-2026-10-23 00:27:16   drop[no-pick] Rams star Puka Nacua leaves practice after sustaining a calf injury (Los Angeles Times) :: no outcome should rise
-2026-10-23 00:27:42 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 111)
-2026-10-23 00:28:10 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 111)
-2026-10-23 00:28:13 [pengwin] BOLOGNA-INTER: no Polymarket event (try 111)
-2026-10-23 00:29:34   drop[not-key] Rams news: Puka Nacua exits practice with calf issue to add to LA's injury woes (ClutchPoints) :: Puka Nacua: calf injury
-2026-10-23 00:32:38 indexed 978 markets
-2026-10-23 00:34:28   drop[team-not-named] Puka Nacua Exits Thursday's practice with calf injury (Fantasy Footballers Podcast) :: Los Angeles Rams
-2026-10-23 00:36:33   drop[team-not-named] CBS12 News Athlete of the Week: Wyatt Parks turns ACL injury into Dominant Senior Season (WPEC) :: Texas Longhorns
-2026-10-23 00:41:11   drop[team-not-named] Puka Nacua leaves practice early with calf injury (NBC Sports) :: Los Angeles Rams
-2026-10-23 00:42:37 indexed 983 markets
-2026-10-23 00:42:59   llm groq-120b: rate limited, skip 120s
-2026-10-23 00:43:00   drop[no-pick] Dean Wade (F, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: short
-2026-10-23 00:50:08   drop[not-key] Judd Caulfield (RW, Anaheim Ducks) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: Judd Caulfield: placed on injured reserve
-2026-10-23 00:50:21   drop[1-source] Bears’ inactives vs. Patriots: LB T.J. Edwards out with hamstring injury (Chicago Sun-Times) :: T.J. Edwards, wait 2nd source
-2026-10-23 00:50:21   llm groq-120b: rate limited, skip 238s
-2026-10-23 00:50:22   drop[kind] ‘Wonderful’: Swadley’s BBQ owner Brent Swadley released from jail after suspended sentence (News 9) :: other
-2026-10-23 00:50:22   drop[not-key] Puka Nacua injured in Rams’ Thursday practice (Turf Show Times) :: Puka Nacua: injury
-2026-10-23 00:50:26   drop[kind] Singer Raye wins Mercury Prize for 'This Music May Contain Hope' reut.rs/3W2sq25 (Reuters) :: other
-2026-10-23 00:52:11 NEWS [ESPN 0m] T.J. Edwards (LB, Chicago Bears) ruled out: Doubtful -> Out [NFL]
-2026-10-23 00:52:11   BUY Patriots @ 0.410 x24.4 ($10.00) :: Patriots vs. Bears
-2026-10-23 00:52:41 indexed 974 markets
-2026-10-23 00:52:54   llm groq-20b: rate limited, skip 23s
-2026-10-23 00:55:04   drop[kind] All-Pro Rams WR Puka Nacua leaves practice early with calf injury (The Lethbridge Herald) :: other
-2026-10-23 00:55:04   llm groq-120b: rate limited, skip 288s
-2026-10-23 00:55:04   drop[not-key] Raiders Thursday Week 7 injury report vs Rams: Puka Nacua suffers calf injury (Raiders Wire) :: Puka Nacua: calf injury
-2026-10-23 00:56:12   llm groq-20b: rate limited, skip 455s
-2026-10-23 00:56:12 NEWS [ESPN 8m] Case Keenum (QB, Chicago Bears) ruled out: Active -> Out [NFL]
-2026-10-23 00:56:12   skip Patriots :: Patriots vs. Bears (rules fallback, LLM down (not traded))
-2026-10-23 00:56:12 NEWS [ESPN 8m] Jayden Loving (DT, Chicago Bears) ruled out: Active -> Out [NFL]
-2026-10-23 00:56:12   skip Patriots :: Patriots vs. Bears (rules fallback, LLM down (not traded))
-2026-10-23 00:56:12 NEWS [ESPN 8m] Nick McCloud (CB, Chicago Bears) ruled out: healthy -> Out [NFL]
-2026-10-23 00:56:12   skip Patriots :: Patriots vs. Bears (rules fallback, LLM down (not traded))
-2026-10-23 00:56:12 NEWS [ESPN 8m] Jordan McFadden (G, Chicago Bears) ruled out: Active -> Out [NFL]
-2026-10-23 00:56:12   skip Patriots :: Patriots vs. Bears (rules fallback, LLM down (not traded))
-2026-10-23 00:56:12 NEWS [ESPN 8m] Behren Morton (QB, New England Patriots) ruled out: Active -> Out [NFL]
-2026-10-23 00:56:12   skip Bears :: Patriots vs. Bears (rules fallback, LLM down (not traded))
-2026-10-23 00:56:12 NEWS [ESPN 8m] Joshua Farmer (DT, New England Patriots) ruled out: healthy -> Out [NFL]
-2026-10-23 00:56:12   skip Bears :: Patriots vs. Bears (rules fallback, LLM down (not traded))
-2026-10-23 00:56:12 NEWS [ESPN 9m] Marshall Rifai (D, Toronto Maple Leafs) ruled out: Day-To-Day -> Out [NHL]
-2026-10-23 00:56:12   skip Rangers :: Rangers vs. Maple Leafs (rules fallback, LLM down (not traded))
-2026-10-23 00:57:10 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-23 00:58:06 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 112)
-2026-10-23 00:58:34 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 112)
-2026-10-23 00:58:36 [pengwin] BOLOGNA-INTER: no Polymarket event (try 112)
-2026-10-23 01:02:45 indexed 995 markets
-2026-10-23 01:02:47   drop[not-key] Egor Chinakhov (RW, Pittsburgh Penguins) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Egor Chinakhov: injury
-2026-10-23 01:04:22   llm groq-120b: rate limited, skip 1s
-2026-10-23 01:04:23   drop[kind] 'Thank you to God': Brent Swadley received suspended six-year sentence (KOKH) :: other
-2026-10-23 01:04:23   drop[team-not-named] Saquon Barkley Injury: Limited Thursday (RotoWire) :: New York Giants
-2026-10-23 01:04:23   llm groq-20b: rate limited, skip 249s
-2026-10-23 01:04:46   drop[not-key] Jeff Malott (LW, Anaheim Ducks) ruled out: healthy -> Out [NHL] (ESPN) :: Jeff Malott: ruled out despite being healthy
-2026-10-23 01:04:47   llm groq-120b: rate limited, skip 258s
-2026-10-23 01:12:46 indexed 1001 markets
-2026-10-23 01:12:56   llm groq-120b: rate limited, skip 184s
-2026-10-23 01:12:58   drop[verify] Trey Alexander (G, Utah Jazz) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Trey Alexander is not a starter/star, so his absence unlikely to move the market 5+ points.
-2026-10-23 01:15:58   llm groq-20b: rate limited, skip 112s
-2026-10-23 01:18:17   drop[not-key] Chiefs | Rashee Rice misses practice again, knee added to injury report (Fantasy Guru) :: Rashee Rice: knee injury added to report
-2026-10-23 01:18:18   llm groq-120b: rate limited, skip 111s
-2026-10-23 01:18:18   llm groq-20b: rate limited, skip 7s
-2026-10-23 01:22:47 indexed 1009 markets
-2026-10-23 01:24:06 NEWS [ESPN 15m] Quinton Byfield (RW, Los Angeles Kings) ruled out: Day-To-Day -> Out [NHL]
-2026-10-23 01:24:06   skip Islanders :: Kings vs. Islanders (low conf 0.62)
-2026-10-23 01:27:30   llm groq-120b: rate limited, skip 45s
-2026-10-23 01:27:30   drop[not-key] Dontayvion Wicks DNP due to ankle injury (Fantasy Footballers Podcast) :: Dontayvion Wicks: ankle injury
-2026-10-23 01:28:08 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 113)
-2026-10-23 01:28:37 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 113)
-2026-10-23 01:28:39   llm groq-120b: rate limited, skip 107s
-2026-10-23 01:28:39 [pengwin] BOLOGNA-INTER: no Polymarket event (try 113)
-2026-10-23 01:30:34   drop[no-market] Taiwan shuts down ahead of weakening Typhoon Champi, hundreds of flights cancelled reut.rs (Reuters) :: Taiwan
-2026-10-23 01:32:49 indexed 1012 markets
-2026-10-23 01:34:28   drop[1-source] Texans lose RB David Montgomery in Week 7 with groin injury (Texans Wire) :: David Montgomery, wait 2nd source
-2026-10-23 01:34:29   llm groq-120b: rate limited, skip 182s
-2026-10-23 01:34:29   drop[kind] Jake McCabe Addresses Eye Injury From High Stick Incident, Calls for Better Stick Control (SSBCrack) :: other
-2026-10-23 01:35:17   llm groq-20b: rate limited, skip 89s
-2026-10-23 01:35:17 NEWS [ESPN 2m] Mitch Marner (RW, Vegas Golden Knights) ruled out: healthy -> Out [NHL]
-2026-10-23 01:35:17   skip Blues :: Golden Knights vs. Blues (rules fallback, LLM down (not traded))
-2026-10-23 01:36:21 shift over, state saved
+2026-10-23 01:36:39 === start mode=paper pid=2341 ===
+2026-10-23 01:36:39 brain=llm cash=84.02 open=0
+2026-10-23 01:36:39 resuming with 8704 known news items
+2026-10-23 01:37:07 indexed 1002 markets
+2026-10-23 01:37:20   llm groq-120b: rate limited, skip 22s
+2026-10-23 01:37:20   drop[unconfirmed] T.J. Edwards (LB, Chicago Bears) ruled out: Doubtful -> Out [NFL] (ESPN) :: hamstring injury
+2026-10-23 01:37:20   llm groq-20b: rate limited, skip 248s
+2026-10-23 01:37:20 NEWS [ESPN 24m] Case Keenum (QB, Chicago Bears) ruled out: Active -> Out [NFL]
+2026-10-23 01:37:20   skip Patriots :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 49m] Jayden Loving (DT, Chicago Bears) ruled out: Active -> Out [NFL]
+2026-10-23 01:37:20   skip Patriots :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 49m] Nick McCloud (CB, Chicago Bears) ruled out: healthy -> Out [NFL]
+2026-10-23 01:37:20   skip Patriots :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 49m] Jordan McFadden (G, Chicago Bears) ruled out: Active -> Out [NFL]
+2026-10-23 01:37:20   skip Patriots :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 25m] Behren Morton (QB, New England Patriots) ruled out: Active -> Out [NFL]
+2026-10-23 01:37:20   skip Bears :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 49m] Joshua Farmer (DT, New England Patriots) ruled out: healthy -> Out [NFL]
+2026-10-23 01:37:20   skip Bears :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 0m] Christian Rozeboom (LB, Tampa Bay Buccaneers) ruled out: Questionable -> Injured Reserve [NFL]
+2026-10-23 01:37:20   skip No :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20   skip Panthers :: Buccaneers vs. Panthers (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 0m] David Sills V (WR, Tampa Bay Buccaneers) cleared to play: Injured Reserve -> Active [NFL]
+2026-10-23 01:37:20   skip Yes :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20   skip Buccaneers :: Buccaneers vs. Panthers (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 0m] Grant Williams (F, Charlotte Hornets) ruled out: Day-To-Day -> Out [NBA]
+2026-10-23 01:37:20   skip Hawks :: Hawks vs. Hornets (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20   skip Heat :: Heat vs. Hornets (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 0m] Coby White (G, Charlotte Hornets) ruled out: Day-To-Day -> Out [NBA]
+2026-10-23 01:37:20   skip Hawks :: Hawks vs. Hornets (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20   skip Heat :: Heat vs. Hornets (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 0m] Kon Knueppel (G, Charlotte Hornets) ruled out: Day-To-Day -> Out [NBA]
+2026-10-23 01:37:20   skip Hawks :: Hawks vs. Hornets (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20   skip Heat :: Heat vs. Hornets (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 0m] T.J. McConnell (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA]
+2026-10-23 01:37:20   skip Mavericks :: Mavericks vs. Pacers (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 0m] Tobias Harris (F, San Antonio Spurs) ruled out: Day-To-Day -> Out [NBA]
+2026-10-23 01:37:20   skip Rockets :: Rockets vs. Spurs (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 35m] Trey Alexander (G, Utah Jazz) ruled out: Day-To-Day -> Out [NBA]
+2026-10-23 01:37:20   skip Pelicans :: Pelicans vs. Jazz (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 45m] Egor Chinakhov (RW, Pittsburgh Penguins) ruled out: Day-To-Day -> Out [NHL]
+2026-10-23 01:37:20   skip Predators :: Predators vs. Penguins (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [ESPN 4m] Mitch Marner (RW, Vegas Golden Knights) ruled out: healthy -> Out [NHL]
+2026-10-23 01:37:20   skip Blues :: Golden Knights vs. Blues (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [Ian Rapoport 83m] Patriots CB Christian Gonzalez was downgraded to questionable for tonight's game vs the Bears with an illness.
+2026-10-23 01:37:20   skip Bears :: Patriots vs. Bears (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20   skip Yes :: Eli Raridon: Anytime Touchdown (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20   skip Yes :: Rhamondre Stevenson: Anytime Touchdown (rules fallback, LLM down (not traded))
+2026-10-23 01:37:20 NEWS [Reuters 7m] Taiwan shuts down ahead of weakening Typhoon Champi, hundreds of flights cancelled reut.rs/3TWDg9j
+2026-10-23 01:37:20   skip No :: Will Champi peak as a Very strong typhoon? (rules fallback, LLM down (not traded))
+2026-10-23 01:37:36 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 108)
+2026-10-23 01:38:04 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 108)
+2026-10-23 01:38:07 [pengwin] BOLOGNA-INTER: no Polymarket event (try 108)
+2026-10-23 01:39:47   llm groq-120b: rate limited, skip 165s
