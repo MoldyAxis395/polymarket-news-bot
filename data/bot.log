@@ -16820,3 +16820,24 @@
 2026-10-22 02:37:11 [pengwin] BOLOGNA-INTER: no Polymarket event (try 81)
 2026-10-22 02:38:18 [pengwin]   book error Will Sporting CP win on 2026-10-21?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=95964689339190880556446151671347153950760435609238655442923745072813680158280
 2026-10-22 02:38:18 [pengwin]   SELL Yes @ 0.000 (resolved) pnl -10.00 :: Will Sporting CP win on 2026-10-21?
+2026-10-22 02:40:59   drop[kind] McVay says Rams have not explored adding a wide receiver externally in wake of Davante Ada (Rams) :: other
+2026-10-22 02:40:59   llm groq-120b: rate limited, skip 150s
+2026-10-22 02:40:59   drop[kind] Colin Simmons listed as doubtful, Hollywood Smothers questionable on Texas' Wednesday SEC  (247Sports) :: other
+2026-10-22 02:46:14 indexed 1052 markets
+2026-10-22 02:52:30   drop[team-not-named] Chris Marshall's Injury May Have Unlocked Confidence For Jackson, Hogs' Passing Game (Sports Illustrated) :: Arkansas Razorbacks
+2026-10-22 02:56:16 indexed 1055 markets
+2026-10-22 02:59:25   drop[1-source] Mikael Backlund's injury opens the door for Calgary Flames Prospects (kens5.com) :: Mikael Backlund, wait 2nd source
+2026-10-22 03:01:42   drop[1-source] Bayern Munich Draws 2-2 With Arsenal Amid Kim Min-jae Injury (조선일보) :: Kim Min-jae, wait 2nd source
+2026-10-22 03:06:19 indexed 1052 markets
+2026-10-22 03:06:23   drop[1-source] Groin injury limits Steelers LB Alex Highsmith; 4 others s (TribLIVE.com) :: Alex Highsmith, wait 2nd source
+2026-10-22 03:06:24   llm groq-120b: rate limited, skip 46s
+2026-10-22 03:06:24   drop[no-pick] LB Nate Landman enters concussion protocol in latest injury setback for Rams (The Washington Post) :: no outcome should rise
+2026-10-22 03:06:26   drop[1-source] Dante Moore ruled out for third straight game, Evan Stewart also unavailable against Illin (247Sports) :: Dante Moore, wait 2nd source
+2026-10-22 03:07:24 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 82)
+2026-10-22 03:07:26   llm groq-120b: rate limited, skip 14s
+2026-10-22 03:07:26 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 82)
+2026-10-22 03:07:54 [pengwin] Betis-Barcellona: no Polymarket event (try 84)
+2026-10-22 03:07:56   llm groq-120b: rate limited, skip 174s
+2026-10-22 03:07:57 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 82)
+2026-10-22 03:07:59 [pengwin] BOLOGNA-INTER: no Polymarket event (try 82)
+2026-10-22 03:08:40   llm groq-20b: rate limited, skip 323s
