@@ -17601,3 +17601,18 @@
 2026-10-23 01:22:47 indexed 1009 markets
 2026-10-23 01:24:06 NEWS [ESPN 15m] Quinton Byfield (RW, Los Angeles Kings) ruled out: Day-To-Day -> Out [NHL]
 2026-10-23 01:24:06   skip Islanders :: Kings vs. Islanders (low conf 0.62)
+2026-10-23 01:27:30   llm groq-120b: rate limited, skip 45s
+2026-10-23 01:27:30   drop[not-key] Dontayvion Wicks DNP due to ankle injury (Fantasy Footballers Podcast) :: Dontayvion Wicks: ankle injury
+2026-10-23 01:28:08 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 113)
+2026-10-23 01:28:37 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 113)
+2026-10-23 01:28:39   llm groq-120b: rate limited, skip 107s
+2026-10-23 01:28:39 [pengwin] BOLOGNA-INTER: no Polymarket event (try 113)
+2026-10-23 01:30:34   drop[no-market] Taiwan shuts down ahead of weakening Typhoon Champi, hundreds of flights cancelled reut.rs (Reuters) :: Taiwan
+2026-10-23 01:32:49 indexed 1012 markets
+2026-10-23 01:34:28   drop[1-source] Texans lose RB David Montgomery in Week 7 with groin injury (Texans Wire) :: David Montgomery, wait 2nd source
+2026-10-23 01:34:29   llm groq-120b: rate limited, skip 182s
+2026-10-23 01:34:29   drop[kind] Jake McCabe Addresses Eye Injury From High Stick Incident, Calls for Better Stick Control (SSBCrack) :: other
+2026-10-23 01:35:17   llm groq-20b: rate limited, skip 89s
+2026-10-23 01:35:17 NEWS [ESPN 2m] Mitch Marner (RW, Vegas Golden Knights) ruled out: healthy -> Out [NHL]
+2026-10-23 01:35:17   skip Blues :: Golden Knights vs. Blues (rules fallback, LLM down (not traded))
+2026-10-23 01:36:21 shift over, state saved
