@@ -17315,3 +17315,25 @@
 2026-10-22 18:11:20 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 102)
 2026-10-22 18:11:22   llm groq-120b: rate limited, skip 150s
 2026-10-22 18:11:22 [pengwin] BOLOGNA-INTER: no Polymarket event (try 102)
+2026-10-22 18:16:16   drop[1-source] Lampard on Coventry City midfielder’s injury setback and duo’s absences (LiveScore) :: Coventry City, wait 2nd source
+2026-10-22 18:16:16   llm groq-120b: rate limited, skip 251s
+2026-10-22 18:16:17   drop[kind] Mountain Rescue Team assist walker with head injury in Cribyn area (Brecon & Radnor Express) :: other
+2026-10-22 18:16:55 indexed 1112 markets
+2026-10-22 18:18:35   drop[unconfirmed] Hearts defender Harry Milne out for months as injury strikes again - free agent signings a (Edinburgh News) :: injury
+2026-10-22 18:18:35   llm groq-20b: rate limited, skip 264s
+2026-10-22 18:20:53   llm groq-120b: rate limited, skip 150s
+2026-10-22 18:20:53   drop[no-pick] Canadiens captain Nick Suzuki out 2-4 weeks with upper-body injury, ending ironman streak (The New York Times) :: None
+2026-10-22 18:23:23   drop[kind] OKC Thunder Injury Report: Every Injury and Status vs. Nuggets (Sports Illustrated) :: other
+2026-10-22 18:26:29   drop[kind] The rising French star whose dad won Rugby World Cup with England (BBC) :: other
+2026-10-22 18:26:56 indexed 1103 markets
+2026-10-22 18:27:47   llm groq-120b: rate limited, skip 176s
+2026-10-22 18:27:47   llm groq-20b: rate limited, skip 32s
+2026-10-22 18:30:00   drop[not-key] AJ Dybantsa (F, Washington Wizards) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: AJ Dybantsa: day‑to‑day injury
+2026-10-22 18:34:43   drop[1-source] Max Dowman gives Arsenal one shining light after Bukayo Saka's injury (Pain in the Arsenal) :: Bukayo Saka, wait 2nd source
+2026-10-22 18:34:43   llm groq-120b: rate limited, skip 50s
+2026-10-22 18:34:43   drop[team-not-named] Life-threatening bleeding from spleen after rugby injury triggers changes (ODT) :: 
+2026-10-22 18:36:57 indexed 1105 markets
+2026-10-22 18:38:09   llm groq-120b: rate limited, skip 48s
+2026-10-22 18:38:10 NEWS [ESPN 12m] Alexander Wennberg (C, San Jose Sharks) ruled out: Day-To-Day -> Out [NHL]
+2026-10-22 18:38:10   skip Senators :: Sharks vs. Senators (low conf 0.6)
+2026-10-22 18:41:02 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
