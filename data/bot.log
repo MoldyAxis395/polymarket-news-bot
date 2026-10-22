@@ -16841,3 +16841,25 @@
 2026-10-22 03:07:57 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 82)
 2026-10-22 03:07:59 [pengwin] BOLOGNA-INTER: no Polymarket event (try 82)
 2026-10-22 03:08:40   llm groq-20b: rate limited, skip 323s
+2026-10-22 03:11:41   llm groq-120b: rate limited, skip 115s
+2026-10-22 03:11:41 NEWS [ESPN 4m] Bam Martin-Scott (LB, Carolina Panthers) ruled out: healthy -> Injured Reserve [NFL]
+2026-10-22 03:11:41   skip Buccaneers :: Buccaneers vs. Panthers (rules fallback, LLM down (not traded))
+2026-10-22 03:15:34   drop[not-key] Mykel Williams Injury: Doesn't practice Wednesday (RotoWire) :: Mykel Williams: didn't practice Wednesday due to injury
+2026-10-22 03:15:34   llm groq-120b: rate limited, skip 209s
+2026-10-22 03:15:35   drop[kind] Small RNA tRF-15:31 reduces diabetic kidney injury in mice (Bioengineer.org) :: other
+2026-10-22 03:16:18 indexed 1062 markets
+2026-10-22 03:17:56   drop[kind] Arsenal ‘concerned’ about Saka injury: Arteta (The Straits Times) :: other
+2026-10-22 03:24:45   drop[kind] Roman Safiullin reveals Novak Djokovic message after big post-injury Wimbledon run (Tennis World USA) :: other
+2026-10-22 03:24:46   drop[1-source] Steven Borden returns from injury on AEW Dynamite, issues Blood & Guts challenge (F4W/WON) :: Steven Borden, wait 2nd source
+2026-10-22 03:26:20 indexed 1069 markets
+2026-10-22 03:26:22   llm groq-120b: rate limited, skip 147s
+2026-10-22 03:26:23   drop[unconfirmed] T.J. Tampa (CB, Baltimore Ravens) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: knee injury
+2026-10-22 03:26:23   drop[not-key] Kyle Louis (LB, Miami Dolphins) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Kyle Louis: injury
+2026-10-22 03:36:23 indexed 1063 markets
+2026-10-22 03:36:27   drop[team-not-named] Malik Monk (ankle) ruled out Wednesday vs. Clippers (NBC Sports) :: Los Angeles Lakers
+2026-10-22 03:38:09 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 83)
+2026-10-22 03:38:11 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 83)
+2026-10-22 03:38:39 [pengwin] Betis-Barcellona: no Polymarket event (try 85)
+2026-10-22 03:38:41 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 83)
+2026-10-22 03:38:43   llm groq-120b: rate limited, skip 9s
+2026-10-22 03:38:44 [pengwin] BOLOGNA-INTER: no Polymarket event (try 83)
