@@ -16796,153 +16796,27 @@
 2026-10-21 22:53:37   drop[1-source] 49ers Defensive End Mykel Williams Suffers Another Knee Injury (Sports Illustrated) :: Mykel Williams, wait 2nd source
 2026-10-21 22:53:37   llm groq-120b: rate limited, skip 13s
 2026-10-21 22:53:37   drop[team-not-named] Bonnies Blackwood Is Sidelined Following Post-game Injury (TAPinto) :: Alabama Crimson Tide
-2026-10-21 23:00:31   drop[1-source] Panthers LB Jaelan Phillips (hamstring) set to miss Week 7 game vs. Bucs (ABC11 News) :: Jaelan Phillips, wait 2nd source
-2026-10-21 23:01:12 indexed 1014 markets
-2026-10-21 23:05:20 NEWS [BBC 5m] Mac Allister scores twice as Liverpool fightback to beat Villarreal
-2026-10-21 23:05:20   skip Yes :: Will Liverpool FC win on 2026-10-25? (low conf 0.62)
-2026-10-21 23:05:20   llm groq-120b: rate limited, skip 61s
-2026-10-21 23:05:21   drop[no-pick] Foden nets hat-trick as Man City beat AEK Athens (BBC) :: short
-2026-10-21 23:09:48   llm groq-120b: rate limited, skip 295s
-2026-10-21 23:09:49   drop[verify] Khalifa Diop (C, Cleveland Cavaliers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Diop depth, not star
-2026-10-21 23:09:49   drop[kind] Dean Wade Injury: Iffy for Thursday (RotoWire) :: other
-2026-10-21 23:11:12 indexed 1015 markets
-2026-10-21 23:11:13   llm groq-20b: rate limited, skip 158s
-2026-10-21 23:16:41   drop[kind] Shengjiang San limits lung injury alongside complement-linked neutrophil responses in mice (Bioengineer.org) :: other
-2026-10-21 23:21:16 indexed 1014 markets
-2026-10-21 23:21:23   drop[1-source] Tank Dell Sends Strong Message on Injury Return for Texans (Heavy.com) :: Tank Dell, wait 2nd source
-2026-10-21 23:21:23   llm groq-120b: rate limited, skip 277s
-2026-10-21 23:21:24   drop[not-key] Khalifa Diop (knee) ruled out Thursday vs. PHI (NBC Sports) :: Khalifa Diop: knee injury
-2026-10-21 23:21:27   drop[not-key] Tacko Fall (C, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Tacko Fall: day-to-day
-2026-10-21 23:23:49   drop[kind] Colts' Injury Woes Continue as 16 Players Appear on Week 7 Report (Sports Illustrated) :: other
-2026-10-21 23:23:50   llm groq-20b: rate limited, skip 191s
-2026-10-21 23:30:42   drop[team-not-named] Malik Willis listed as full participant with right thumb injury (NBC Sports) :: Tennessee Titans
-2026-10-21 23:30:43   llm groq-120b: rate limited, skip 36s
-2026-10-21 23:30:43   drop[team-not-named] US orders embassy staff to leave Saudi Arabia, airport suspended as WWE Crown Jewel is sti (Wrestleview.com) :: United States
-2026-10-21 23:31:15 indexed 1000 markets
-2026-10-21 23:31:43   drop[not-key] FC Cincinnati confirmed lineup vs D.C. United: Evan Louro, Julian Malatini, Teenage Hadebe (ESPN) :: Evan Louro: ruled out of starting XI
-2026-10-21 23:31:43   llm groq-120b: rate limited, skip 333s
-2026-10-21 23:31:43   llm groq-20b: rate limited, skip 45s
-2026-10-21 23:33:10   llm groq-20b: rate limited, skip 24s
-2026-10-21 23:35:24   drop[kind] Walmart launches tools for AI agents to shop for customers reut.rs/4zP6rKI (Reuters) :: other
-2026-10-21 23:39:50   drop[1-source] Utah football news: Utes tackle already ruled out for Saturday Houston clash (ClutchPoints) :: University of Utah Football (Utah Utes), wait 2nd source
-2026-10-21 23:41:02 [pengwin]   book error Will Sporting CP win on 2026-10-21?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=95964689339190880556446151671347153950760435609238655442923745072813680158280
-2026-10-21 23:41:18 indexed 1007 markets
-2026-10-21 23:41:19   llm groq-120b: rate limited, skip 16s
-2026-10-21 23:41:20   drop[unconfirmed] 🚨 Mikel Arteta: “Bukayo Saka’s injury doesn’t look good at all”. “It’s his quad and we wai (Fabrizio Romano) :: quad injury
-2026-10-21 23:42:23   drop[team-not-named] Barstool Sports questions if Julian Sayin injury will help Jeremiah Smith win Heisman (thecomeback.com) :: Texas A&M Aggies
-2026-10-21 23:42:23   llm groq-120b: rate limited, skip 193s
-2026-10-21 23:42:24   llm groq-20b: rate limited, skip 30s
-2026-10-21 23:42:24 NEWS [BBC 4m] Real Madrid dominate Leipzig for third straight win
-2026-10-21 23:42:24   skip Yes :: Will Real Madrid CF win on 2026-10-25? (rules fallback, LLM down (not traded))
-2026-10-21 23:42:24   skip Yes :: Will FC Barcelona win on 2026-10-25? (rules fallback, LLM down (not traded))
-2026-10-21 23:42:24   skip No :: FC Barcelona vs. Real Madrid CF: Both Teams to Score (rules fallback, LLM down (not traded))
-2026-10-21 23:44:28   drop[kind] Syko Stu Reveals Severe Brain Injury And Health Issues Following Raja Jackson Attack (PWMania) :: other
-2026-10-21 23:47:03 [pengwin]   SELL Yes @ 0.000 (resolved) pnl -10.00 :: Will Sporting CP win on 2026-10-21?
-2026-10-21 23:49:05   drop[kind] Bo Nix acknowledges mental aspect of returning from injury: 'I'd be lying if I said no' (Broncos Wire) :: other
-2026-10-21 23:49:05   llm groq-120b: rate limited, skip 212s
-2026-10-21 23:49:05   drop[1-source] LB Nate Landman enters concussion protocol in latest injury setback for Rams (Newsday) :: Nate Landman, wait 2nd source
-2026-10-21 23:49:05   llm groq-20b: rate limited, skip 260s
-2026-10-21 23:51:20 indexed 1010 markets
-2026-10-21 23:53:45   drop[1-source] Steelers Starting OLB Suffers Groin Injury (Sports Illustrated) :: Alex Highsmith, wait 2nd source
-2026-10-21 23:56:07   llm groq-120b: rate limited, skip 66s
-2026-10-21 23:56:07   drop[kind] Packers Injury Report: Jordan Love has a back injury, but it’s not serious (Acme Packing Company) :: other
-2026-10-21 23:56:08   llm groq-20b: rate limited, skip 211s
-2026-10-21 23:58:26   drop[kind] Site-Shaped Glass Installations: DRIFT’s ‘Aeolus’ Turns Simulated Airflow Into Suspended… (Trend Hunter) :: other
-2026-10-22 00:00:59   drop[1-source] Steelers Veteran Cornerback Misses Practice With Injury (Steelers Now) :: Cameron Sutton, wait 2nd source
-2026-10-22 00:01:30 indexed 1005 markets
-2026-10-22 00:03:09   llm groq-120b: rate limited, skip 213s
-2026-10-22 00:03:09   drop[kind] USMNT Given Major Injury Boost Ahead of Concacaf Nations League Quarterfinals (Sports Illustrated) :: other
-2026-10-22 00:05:16   llm groq-20b: rate limited, skip 48s
-2026-10-22 00:10:43   drop[not-key] Nikola Topic (G, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Nikola Topic: out due to back surgery recovery
-2026-10-22 00:10:43   llm groq-120b: rate limited, skip 121s
-2026-10-22 00:10:44   drop[unconfirmed] Thomas Sorber (C, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: knee surgery recovery
-2026-10-22 00:11:30 indexed 999 markets
-2026-10-22 00:12:22   drop[1-source] Kappa Alpha Psi Fraternity, Inc. suspended from campus (The Crimson White) :: Kappa Alpha Psi Fraternity, Inc., wait 2nd source
-2026-10-22 00:19:32   drop[kind] Cavs Hit With Big Injury as Big Man Questionable For Season Opener (Sports Illustrated) :: other
-2026-10-22 00:19:33   drop[team-not-named] 10/21 Injury Report: VanVleet and Irving Set to Make Their Returns (roundtable.io) :: Houston Rockets
-2026-10-22 00:21:30 indexed 1000 markets
-2026-10-22 00:28:39   drop[team-not-named] From bad to worse! Memphis injury confirmed at Corinthians (OneFootball) :: FC Barcelona
-2026-10-22 00:30:56   drop[kind] Saudi civil aviation says one killed, eight injured in attack on King Fahd airport reut.rs (Reuters) :: other
-2026-10-22 00:31:31 indexed 996 markets
-2026-10-22 00:33:11   drop[1-source] There's Good News on the Injury Front for the Dolphins ... With a Big But (Sports Illustrated) :: Tua Tagovailoa, wait 2nd source
-2026-10-22 00:35:26   llm groq-120b: rate limited, skip 199s
-2026-10-22 00:35:28   drop[verify] Arsenal: Mikel Arteta says Bukayo Saka's injury 'doesn't look good at all' (Sky Sports) :: uncertain
-2026-10-22 00:37:55   drop[kind] VITRAN St. Thomas, St. John Fixed Route Services Temporarily Suspended (St. Thomas Source) :: other
-2026-10-22 00:41:34 indexed 979 markets
-2026-10-22 00:44:45   drop[1-source] Baumgartner hails emotional injury comeback after RB Leipzig’s 4-1 loss at Real Madrid (OneFootball) :: Lukas Baumgartner, wait 2nd source
-2026-10-22 00:47:14   drop[not-key] 3 Lions Impacted Most by Brian Branch's Return from Injury (Sports Illustrated) :: Brian Branch: his return from injury benefits the Lions
-2026-10-22 00:47:14   llm groq-120b: rate limited, skip 134s
-2026-10-22 00:47:15   drop[kind] Bo Nix Makes Blunt Mental Health Admission About Ankle Injury Amid Criticism (Heavy.com) :: other
-2026-10-22 00:47:15   drop[team-not-named] Lee Kang-in's First Absence Due to Injury (조선일보) :: Tottenham Hotspur
-2026-10-22 00:49:25   drop[not-key] Falcons injury report: Kendal Daniels participates fully in first practice after injury (Atlanta Falcons) :: Kendal Daniels: return after injury
-2026-10-22 00:51:34 indexed 985 markets
-2026-10-22 00:56:29   drop[unconfirmed] Bukayo Saka's injury 'does not look good at all' - Arsenal boss Mikel Arteta (BBC) :: injury appears serious and may keep him out
-2026-10-22 00:56:30   drop[1-source] Dani Olmo's injury blow hands Real Madrid a massive Clasico lifeline (LiveScore) :: Dani Olmo, wait 2nd source
-2026-10-22 00:56:30   llm groq-120b: rate limited, skip 159s
-2026-10-22 00:56:30   drop[kind] Arsenal boss Mike Arteta concerned over Bukayo Saka’s quad injury (Oxford Mail) :: other
-2026-10-22 00:56:31   drop[kind] Arteta fears Saka injury after Arsenal’s Champions League draw with Bayern (Vanguard News) :: other
-2026-10-22 01:00:52   drop[kind] Evening Injury Crash on Sicklerville Rd in Gloucester Twp., NJ (MetroLaw.com) :: other
-2026-10-22 01:00:52   llm groq-120b: rate limited, skip 154s
-2026-10-22 01:00:53   drop[unconfirmed] Broda Shaggi Opens Up About Stray Bullet Injury After Months Away (Olorisupergal) :: returning from injury
-2026-10-22 01:01:37 indexed 1008 markets
-2026-10-22 01:01:43   llm groq-20b: rate limited, skip 264s
-2026-10-22 01:06:54   llm groq-120b: rate limited, skip 5s
-2026-10-22 01:06:54   llm groq-20b: rate limited, skip 54s
-2026-10-22 01:06:54   drop[verify] Isaiah Stewart (C, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: no answer
-2026-10-22 01:10:13   drop[1-source] Injury Emerges for Steelers Defensive Lineman (Steelers Now) :: Pittsburgh Steelers, wait 2nd source
-2026-10-22 01:10:13   llm groq-120b: rate limited, skip 188s
-2026-10-22 01:10:13   drop[team-not-named] Isaiah Stewart Injury: Ruled out Wednesday (RotoWire) :: Detroit Pistons
-2026-10-22 01:11:36 indexed 1002 markets
-2026-10-22 01:17:08   drop[team-not-named] A.J. Terrell Injury: Designated to return from IR (RotoWire) :: Buffalo Bills
-2026-10-22 01:19:30   drop[not-key] Carson Schwesinger Injury: Still dealing with ankle issue (RotoWire) :: Carson Schwesinger: ankle injury limits his availability
-2026-10-22 01:19:30   llm groq-120b: rate limited, skip 255s
-2026-10-22 01:19:30   drop[team-not-named] Chukwueze out with hip injury, to miss Europa League tie (Punch Newspapers) :: West Ham United
-2026-10-22 01:21:43 indexed 1001 markets
-2026-10-22 01:21:45   drop[unconfirmed] Jett Howard (G, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: right calf tightness
-2026-10-22 01:21:50   llm groq-20b: rate limited, skip 20s
-2026-10-22 01:24:33 [pengwin] page erie-b/benevento-vicenza-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-22 01:25:49   llm groq-120b: rate limited, skip 121s
-2026-10-22 01:25:50   drop[side] A.J. Terrell Jr. (CB, Atlanta Falcons) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: 49ers vs. Falcons -> Falcons vs fact ruled_out: A.J. Terrell Jr. (Atlanta Falcons, nfl), bad for Atlanta Falcons. placed
-2026-10-22 01:26:29   drop[kind] Packers quarterback Jordan Love has no concerns about back injury (USA Today) :: other
-2026-10-22 01:31:08   llm groq-120b: rate limited, skip 198s
-2026-10-22 01:31:08   drop[no-pick] 2 Fayette County corrections officers fired, another suspended after alleged inmate beatin (CBS News) :: short
-2026-10-22 01:31:43 indexed 1027 markets
-2026-10-22 01:33:38   llm groq-20b: rate limited, skip 132s
-2026-10-22 01:35:44   drop[kind] Stock Market Today: Nasdaq Leads Wall Street Rally (www.stl.news) :: other
-2026-10-22 01:35:44   llm groq-120b: rate limited, skip 161s
-2026-10-22 01:38:05   drop[1-source] Memphis suffers thigh injury, misses Corinthians' trip to Vasco (OneFootball) :: Memphis, wait 2nd source
-2026-10-22 01:41:10   drop[not-key] Paulson Adebo (CB, New York Giants) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Paulson Adebo: placed on injured reserve due to knee injury
-2026-10-22 01:41:43 indexed 1030 markets
-2026-10-22 01:42:45   llm groq-120b: rate limited, skip 58s
-2026-10-22 01:42:45   drop[1-source] The 49ers are 'managing' Mike Evans' Achilles injury after he left last game early (Newsday) :: Mike Evans, wait 2nd source
-2026-10-22 01:42:45   llm groq-20b: rate limited, skip 233s
-2026-10-22 01:51:46 indexed 1027 markets
-2026-10-22 01:51:49 NEWS [ESPN 4m] Steven Adams (C, Houston Rockets) ruled out: Day-To-Day -> Out [NBA]
-2026-10-22 01:51:49   skip Mavericks :: Mavericks vs. Rockets (low conf 0.6)
-2026-10-22 01:54:41 [pengwin] page rence-league/gent-aarhus-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-22 01:58:47   drop[kind] Dawson Creek acupuncturist suspended after prescribing ivermectin: regulator (CBC) :: other
-2026-10-22 02:01:49 indexed 1056 markets
-2026-10-22 02:03:27   drop[kind] Dalton Knecht Linked to Lakers’ Western Conference Rival After Major Injury (Heavy.com) :: other
-2026-10-22 02:03:28   drop[not-key] Kings Recall Jared Wright (Pro Hockey Rumors) :: Jared Wright: recall from AHL to NHL roster
-2026-10-22 02:08:00   llm groq-120b: rate limited, skip 26s
-2026-10-22 02:08:00   drop[kind] 6 UNC Starters Questionable on Wednesday Injury Report (247Sports) :: other
-2026-10-22 02:10:29   drop[team-not-named] Bukayo Saka Exits Early With Muscle Injury in 2-2 Draw (조선일보) :: Arsenal
-2026-10-22 02:11:52 indexed 1052 markets
-2026-10-22 02:12:44   llm groq-120b: rate limited, skip 45s
-2026-10-22 02:12:44   drop[1-source] Rutgers injury report: Three players listed as out for the Northwestern game (247Sports) :: Rutgers, wait 2nd source
-2026-10-22 02:12:45   drop[team-not-named] ‘Freak accident’: Jasmin Strange suffers heartbreaking ACL injury to end World Cup dream (Adelaide Now) :: Australia women's national soccer team
-2026-10-22 02:17:20   drop[not-key] Ryan Coleman-Williams ruled out ahead of Alabama-Texas A&M (On3) :: Ryan Coleman-Williams: ruled out for upcoming Alabama vs Texas A&M game
-2026-10-22 02:19:46   drop[1-source] Two Oklahoma Offensive Linemen Ruled Out for Mississippi State Contest (Sports Illustrated) :: University of Oklahoma football, wait 2nd source
-2026-10-22 02:21:52 indexed 1046 markets
-2026-10-22 02:21:58   llm groq-120b: rate limited, skip 23s
-2026-10-22 02:21:58   drop[unconfirmed] Colin Simmons injury: Texas says star is doubtful vs. Ole Miss (Austin American-Statesman) :: doubtful
-2026-10-22 02:21:59   drop[kind] Semaglutide and teduglutide reduced intestinal injury in mice — News-Medical (UA.NEWS) :: other
-2026-10-22 02:29:01   drop[kind] 3 Ole Miss Players Questionable vs. Texas on Initial SEC Injury Report (Sports Illustrated) :: other
-2026-10-22 02:29:02   drop[kind] Ole Miss vs. Texas Injury Report: Davis, Sanders Questionable (The Rebel Walk) :: other
-2026-10-22 02:29:02   llm groq-120b: rate limited, skip 266s
-2026-10-22 02:29:02   drop[not-key] Indiana vs. Michigan injury report: RB Khobie Martin set to return from injury this week (247Sports) :: Khobie Martin: player returning from injury
-2026-10-22 02:31:08   drop[1-source] Multiple Texas A&M Starters Dealing With Injury Before Alabama Game (Sports Illustrated) :: Texas A&M Aggies, wait 2nd source
-2026-10-22 02:31:16   drop[kind] New World screwworm cases confirmed in cow in New Mexico, wildlife in Texas, officials say (Reuters) :: other
-2026-10-22 02:31:52 indexed 1054 markets
-2026-10-22 02:33:32   drop[kind] Two Fayette corrections officers fired, one suspended in inmate assault (Herald-Standard) :: other
-2026-10-22 02:35:20 shift over, state saved
+2026-10-22 02:35:34 === start mode=paper pid=2427 ===
+2026-10-22 02:35:34 brain=llm cash=84.02 open=0
+2026-10-22 02:35:34 resuming with 9608 known news items
+2026-10-22 02:36:00 indexed 1054 markets
+2026-10-22 02:36:15   llm groq-120b: rate limited, skip 132s
+2026-10-22 02:36:16   drop[unconfirmed] A.J. Terrell Jr. (CB, Atlanta Falcons) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: IR
+2026-10-22 02:36:16   drop[unconfirmed] Paulson Adebo (CB, New York Giants) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: knee injury
+2026-10-22 02:36:16   drop[not-key] Khalifa Diop (C, Cleveland Cavaliers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Khalifa Diop: knee injury
+2026-10-22 02:36:16   llm groq-20b: rate limited, skip 254s
+2026-10-22 02:36:16 NEWS [ESPN 0m] Nikola Topic (G, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]
+2026-10-22 02:36:16   skip Nuggets :: Nuggets vs. Thunder (rules fallback, LLM down (not traded))
+2026-10-22 02:36:16 NEWS [ESPN 0m] Thomas Sorber (C, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]
+2026-10-22 02:36:16   skip Nuggets :: Nuggets vs. Thunder (rules fallback, LLM down (not traded))
+2026-10-22 02:36:16 NEWS [ESPN 0m] Dalton Rushing (C, Los Angeles Dodgers) ruled out: healthy -> Out [MLB]
+2026-10-22 02:36:16   skip No :: Will Karen Bass win the 2026 Los Angeles mayoral election by 0%-4%? (rules fallback, LLM down (not traded))
+2026-10-22 02:36:38 [pengwin] BAYERN MONACO-LIPSIA: no Polymarket event (try 81)
+2026-10-22 02:36:40 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 81)
+2026-10-22 02:37:02 NEWS [ESPN 2m] Luke Kennard (G, Phoenix Suns) ruled out: Day-To-Day -> Out [NBA]
+2026-10-22 02:37:02   skip Trail Blazers :: Suns vs. Trail Blazers (rules fallback, LLM down (not traded))
+2026-10-22 02:37:07 [pengwin] Betis-Barcellona: no Polymarket event (try 83)
+2026-10-22 02:37:09 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 81)
+2026-10-22 02:37:11 [pengwin] BOLOGNA-INTER: no Polymarket event (try 81)
+2026-10-22 02:38:18 [pengwin]   book error Will Sporting CP win on 2026-10-21?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=95964689339190880556446151671347153950760435609238655442923745072813680158280
+2026-10-22 02:38:18 [pengwin]   SELL Yes @ 0.000 (resolved) pnl -10.00 :: Will Sporting CP win on 2026-10-21?
