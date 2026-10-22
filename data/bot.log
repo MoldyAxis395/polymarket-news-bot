@@ -17443,3 +17443,37 @@
 2026-10-22 22:22:11   llm groq-20b: rate limited, skip 52s
 2026-10-22 22:24:29   drop[1-source] Hearts gripped by injury woe at Trabzonspor as ace faces season-ending scenario and teamma (The Scotsman) :: Moussa Dembélé, wait 2nd source
 2026-10-22 22:25:45 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-22 22:26:39 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 107)
+2026-10-22 22:27:06 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 107)
+2026-10-22 22:27:09 [pengwin] BOLOGNA-INTER: no Polymarket event (try 107)
+2026-10-22 22:27:39   llm groq-120b: rate limited, skip 258s
+2026-10-22 22:27:39   llm groq-20b: rate limited, skip 5s
+2026-10-22 22:27:39 NEWS [ESPN 15m] Santi Aldama (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA]
+2026-10-22 22:27:39   skip Pacers :: Mavericks vs. Pacers (rules fallback, LLM down (not traded))
+2026-10-22 22:29:00   drop[kind] PSG ‘to line up’ January move for Ibrahim Maza after Kvaratskhelia injury (OneFootball) :: other
+2026-10-22 22:31:18   llm groq-20b: rate limited, skip 77s
+2026-10-22 22:32:06 indexed 995 markets
+2026-10-22 22:33:09   drop[not-key] Anthony Black (G, Orlando Magic) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Anthony Black: right ankle sprain
+2026-10-22 22:33:09   llm groq-120b: rate limited, skip 193s
+2026-10-22 22:33:10   llm groq-20b: rate limited, skip 216s
+2026-10-22 22:33:10   drop[no-pick] Jonathan Isaac (F, Orlando Magic) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: None
+2026-10-22 22:40:42   drop[team-not-named] Trump signs housing affordability executive order politi.co/3WGs3dK (Politico) :: United States government
+2026-10-22 22:41:26   llm groq-120b: rate limited, skip 229s
+2026-10-22 22:41:27   drop[no-pick] New York City ends a classic attraction: Horse-drawn carriages banned over safety and abus (BBC) :: short
+2026-10-22 22:42:06 indexed 990 markets
+2026-10-22 22:45:18   llm groq-120b: rate limited, skip 43s
+2026-10-22 22:45:19   drop[kind] Newmont beats quarterly profit estimates on higher gold prices reut.rs/48bCPew (Reuters) :: other
+2026-10-22 22:45:21   llm groq-20b: rate limited, skip 2s
+2026-10-22 22:45:21 NEWS [ESPN 15m] Beaux Collins (WR, Atlanta Falcons) ruled out: healthy -> Injured Reserve [NFL]
+2026-10-22 22:45:21   skip 49ers :: 49ers vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-22 22:47:36   drop[1-source] Forest welcome Gibbs-White back as three ruled out for Ipswich trip (OneFootball) :: Nottingham Forest, wait 2nd source
+2026-10-22 22:49:53   llm groq-120b: rate limited, skip 86s
+2026-10-22 22:49:54   llm groq-20b: rate limited, skip 45s
+2026-10-22 22:49:54   drop[no-pick] New York City ends a classic: Horse-drawn carriages banned over safety and abuse concerns (BBC) :: None
+2026-10-22 22:52:07 indexed 986 markets
+2026-10-22 22:52:22   drop[kind] Russia Loses Ground to Gulf Oil Suppliers in India’s Market (Caspian Post) :: other
+2026-10-22 22:54:31   drop[team-not-named] NEWELL SUSPENDED NINE GAMES FOR VIOLATING CFL/CFLPA DRUG POLICY (press.cfl.ca) :: Toronto Argonauts
+2026-10-22 22:54:31   llm groq-120b: rate limited, skip 350s
+2026-10-22 22:54:32   drop[team-not-named] Bukayo Saka calf injury: What Arteta said (Total Apex Sports) :: Arsenal
+2026-10-22 22:55:36   drop[unconfirmed] Luke Musgrave (TE, Green Bay Packers) ruled out: healthy -> Out [NFL] (ESPN) :: ruled out
+2026-10-22 22:56:03 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
