@@ -17878,3 +17878,27 @@
 2026-10-23 14:41:52 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 4)
 2026-10-23 14:41:54 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 4)
 2026-10-23 14:41:57 [pengwin] HOFFENHEIM-BAYER LEVERKUSEN: no LLM answer (try 4)
+2026-10-23 14:42:16 [pengwin] Valencia-Villarreal: no LLM answer (try 4)
+2026-10-23 14:42:18 [pengwin] Atletico Madrid-Deportivo: no LLM answer (try 4)
+2026-10-23 14:42:21 [pengwin] Athletic Bilbao-Getafe: no LLM answer (try 4)
+2026-10-23 14:42:23 [pengwin] Real Sociedad-Levante: no LLM answer (try 4)
+2026-10-23 14:42:25 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 3)
+2026-10-23 14:42:27 [pengwin] Siviglia-Osasuna: no Polymarket event (try 3)
+2026-10-23 14:48:01 indexed 1090 markets
+2026-10-23 14:56:24 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-23 14:56:36   drop[kind] High chairs and LED finger lights recalled over injury and death risks (NBC Montana) :: other
+2026-10-23 14:56:36   drop[kind] Trabzonspor goalkeeper Onana escapes injury in car crash in Turkey (The Straits Times) :: other
+2026-10-23 14:56:37   drop[kind] 17-Year-Old Female Rugby Player Dies After Sustaining Serious On-Field Injury During Game (شبكة تواصل الإخبارية) :: other
+2026-10-23 14:56:37   drop[kind] Seven shot dead by gunmen at church funeral in Jordan, state media say (BBC) :: other
+2026-10-23 14:58:05 indexed 1081 markets
+2026-10-23 15:05:26   drop[kind] Building collapses in Kenyan capital, rescuers on the scene reut.rs/47DFH3F (Reuters) :: other
+2026-10-23 15:08:07 indexed 1076 markets
+2026-10-23 15:08:24   drop[kind] Rico Dowdle Injury: Questionable for Sunday's game (RotoWire) :: other
+2026-10-23 15:08:25   llm groq-120b: rate limited, skip 104s
+2026-10-23 15:08:25   drop[1-source] Athletics: Hammer blow for Kenya as world marathon champ Jepchirchir suspended for doping  (Ahram Online) :: Geoffrey Jepchirchir, wait 2nd source
+2026-10-23 15:10:35   drop[team-not-named] Marathon world champion Peres Jepchirchir provisionally suspended (Canadian Running Magazine) :: Kenya
+2026-10-23 15:11:52   llm groq-120b: rate limited, skip 57s
+2026-10-23 15:11:55   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-23 15:11:55 [pengwin] MANCHESTER UNITED-BOURNEMOUTH: no LLM answer (try 5)
+2026-10-23 15:11:57   llm groq-20b: rate limited, skip 327s
+2026-10-23 15:11:57 [pengwin] TORINO-MONZA: no LLM answer (try 1)

@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-23T14:37:44",
+ "updated": "2026-10-23T15:08:20",
  "start": 100.0,
- "cash": 47.39,
- "equity": 125.58,
+ "cash": 37.39,
+ "equity": 125.44,
  "open": [
   {
    "market_id": "5597100",
@@ -148,15 +148,33 @@
    "end": "2026-10-24T13:30:00+00:00",
    "last_bid": 0.84,
    "book_err": false
+  },
+  {
+   "market_id": "5534122",
+   "question": "Will Arsenal FC win on 2026-10-24?",
+   "slug": "epl-ars-eve-2026-10-24-ars",
+   "outcome": "Yes",
+   "token": "114460869056021695126097471762228510096841940195417663873021964330022095891387",
+   "shares": 14.492753623188406,
+   "entry": 0.69,
+   "cost": 10.0,
+   "opened": 1792759276.4243932,
+   "opened_iso": "2026-10-23T12:41:16+00:00",
+   "news": "ARSENAL-EVERTON: 1 (approssimato)",
+   "reason": "pengwin approx: home win leg of 1X",
+   "conf": 1.0,
+   "end": "2026-10-24T14:00:00+00:00",
+   "last_bid": 0.68,
+   "book_err": false
   }
  ],
  "closed_count": 31,
  "realized_pnl": 27.39,
  "pages": {
-  "pending": 150,
+  "pending": 143,
   "picked": 1,
-  "traded": 39,
-  "skipped": 122,
+  "traded": 40,
+  "skipped": 128,
   "expired": 56
  }
 }
