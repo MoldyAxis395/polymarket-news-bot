@@ -18326,3 +18326,16 @@
 2026-10-23 23:25:26   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
 2026-10-23 23:26:53   drop[1-source] Report: 3 Lakers ruled out, Collin Sexton to make debut vs. Clippers (Lakers Daily) :: Los Angeles Lakers, wait 2nd source
 2026-10-23 23:27:30   drop[not-key] Ben Sheppard (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Ben Sheppard: left knee soreness
+2026-10-23 23:29:31   drop[not-key] Tyler Badie (RB, Denver Broncos) ruled out: Questionable -> Out [NFL] (ESPN) :: Tyler Badie: thumb injury
+2026-10-23 23:31:16   drop[kind] Packers injury report: Four players questionable (WLUK) :: other
+2026-10-23 23:31:16   drop[1-source] Packers injury report: Starting linebacker out, 4 questionable for divisional showdown (Wisconsin State Journal) :: De'Vondre Campbell, wait 2nd source
+2026-10-23 23:31:52   llm groq-120b: rate limited, skip 998s
+2026-10-23 23:31:52 [pengwin] LIPSIA-ELVERSBERG: no LLM answer (try 18)
+2026-10-23 23:32:12 [pengwin] Siviglia-Osasuna: no Polymarket event (try 17)
+2026-10-23 23:34:20 indexed 978 markets
+2026-10-23 23:34:37   drop[unconfirmed] Andrew Wingard (S, Arizona Cardinals) ruled out: Questionable -> Out [NFL] (ESPN) :: bone bruise
+2026-10-23 23:39:46   llm groq-20b: rate limited, skip 153s
+2026-10-23 23:44:20 indexed 968 markets
+2026-10-23 23:45:23   drop[1-source] Bears TE Cole Kmet Out For Season With Knee Injury (RealGM) :: Cole Kmet, wait 2nd source
+2026-10-23 23:54:18 indexed 969 markets
+2026-10-23 23:56:40   drop[kind] Michigan State Football Dealt Potential Injury Blow Ahead of Clash WIth No.9 UCLA (Heavy.com) :: other
