@@ -18007,3 +18007,32 @@
 2026-10-23 18:26:37 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 8)
 2026-10-23 18:26:57 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 7)
 2026-10-23 18:27:00 [pengwin] Siviglia-Osasuna: no Polymarket event (try 7)
+2026-10-23 18:30:49   drop[kind] Search for missing woman suspended after body found near Bedford Embankment (Bedford Independent) :: other
+2026-10-23 18:33:24 indexed 1028 markets
+2026-10-23 18:33:41   drop[kind] Study reviews strategies to manage post-injury brain agitation (News-Medical) :: other
+2026-10-23 18:33:41   drop[1-source] Arsenal sweating over Saka’s fitness after Wednesday’s Champions League injury (Graphic Online) :: Bukayo Saka, wait 2nd source
+2026-10-23 18:38:04   drop[1-source] State evaluating whether Vista can keep trauma center designation after anesthesia service (Lake and McHenry County Scanner) :: Vista Hospital, wait 2nd source
+2026-10-23 18:40:22   drop[unconfirmed] Report: Bears tight end Cole Kmet’s injury is ‘likely’ season-ending (Windy City Gridiron) :: likely season-ending injury
+2026-10-23 18:43:25 indexed 1026 markets
+2026-10-23 18:43:26   drop[kind] Melania Trump says she secured ‘localized’ ceasefire in one Ukrainian city politi.co/4ihei (Politico) :: other
+2026-10-23 18:45:03   llm groq-120b: rate limited, skip 273s
+2026-10-23 18:45:03   drop[not-key] Week 7 Friday Injury Report: Jaelan Phillips out, Monroe Freeling questionable (Panthers.com) :: Jaelan Phillips: injury
+2026-10-23 18:45:04   drop[team-not-named] Criminal defense attorney suspended for multiple rule violations (Missouri Lawyers Media) :: 
+2026-10-23 18:45:04   drop[kind] Girl, 5, who suffered spinal, brain injury in Aug. 3 crash home from hospital (Butler Eagle) :: other
+2026-10-23 18:45:04   llm groq-20b: rate limited, skip 222s
+2026-10-23 18:49:42   drop[unconfirmed] Cole Kmet Believed to have serious knee injury (Fantasy Footballers Podcast) :: serious knee injury
+2026-10-23 18:53:23 indexed 1028 markets
+2026-10-23 18:54:17   drop[1-source] Jaguars left tackle Anton Harrison is out for the season with a torn knee ligament (Newsday) :: Anton Harrison, wait 2nd source
+2026-10-23 18:56:08   llm groq-120b: rate limited, skip 390s
+2026-10-23 18:56:09   llm groq-20b: rate limited, skip 94s
+2026-10-23 18:56:09 [pengwin] INTER-FIORENTINA: no LLM answer (try 2)
+2026-10-23 18:56:11 [pengwin] ATALANTA-FROSINONE: no LLM answer (try 2)
+2026-10-23 18:56:15 [pengwin] GENOA-VENEZIA: no LLM answer (try 2)
+2026-10-23 18:56:19 [pengwin] LECCE-JUVENTUS: no LLM answer (try 2)
+2026-10-23 18:56:22 [pengwin] UDINESE-MILAN: no LLM answer (try 2)
+2026-10-23 18:56:41 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 9)
+2026-10-23 18:56:44 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 9)
+2026-10-23 18:57:05 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 8)
+2026-10-23 18:57:08 [pengwin] Siviglia-Osasuna: no Polymarket event (try 8)
+2026-10-23 18:57:36 NEWS [ESPN 49m] Tyler Warren (TE, Indianapolis Colts) ruled out: Questionable -> Out [NFL]
+2026-10-23 18:57:36   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
