@@ -17740,3 +17740,17 @@
 2026-10-23 12:52:56 indexed 975 markets
 2026-10-23 12:52:59   llm groq-120b: rate limited, skip 58s
 2026-10-23 12:53:00   drop[kind] Saquon Barkley Sets the Record Straight on Eagles-Jalen Hurts Injury Controversy (heavy.com) :: other
+2026-10-23 12:57:38   drop[1-source] Taskin Ahmed Returns to Bangladesh Test Squad (Dainik Jagran MP CG) :: Taskin Ahmed, wait 2nd source
+2026-10-23 13:01:16   llm groq-120b: rate limited, skip 77s
+2026-10-23 13:01:18 NEWS [Reuters 1m] Unrest-hit France poised for Moody's ratings verdict reut.rs/4i2zTqA
+2026-10-23 13:01:18   skip Yes :: France declares state of emergency by October 31, 2026? (low conf 0.6)
+2026-10-23 13:02:10   drop[team-not-named] Boonville Police charge Rome suspect for allegedly driving on suspended registration (Flack Broadcasting) :: 
+2026-10-23 13:02:12   drop[1-source] Steelers place veteran defender on injured reserve before Paris game | See link below ⬇️ 📸 (Facebook) :: Pittsburgh Steelers, wait 2nd source
+2026-10-23 13:02:12   drop[kind] With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage (CNBC) :: other
+2026-10-23 13:02:56 indexed 976 markets
+2026-10-23 13:04:34   drop[1-source] Train services between Rambukkana-Peradeniya, Gampola suspended on Oct. 24 and 25 (Ada Derana) :: Rambukkana-Peradeniya and Gampola train services (Sri Lanka Railways), wait 2nd source
+2026-10-23 13:04:34   llm groq-120b: rate limited, skip 172s
+2026-10-23 13:04:35   drop[unconfirmed] Bayern 29yo suffered 4-6 week injury vs Arsenal (Daily Cannon) :: 29‑year‑old player ruled out for 4‑6 weeks
+2026-10-23 13:04:36   drop[1-source] Striker injured just days before Crystal Palace v Newcastle United clash (Shields Gazette) :: Crystal Palace, wait 2nd source
+2026-10-23 13:05:34   drop[kind] UK Royal Navy sailor appears in court charged under National Security Act reut.rs/4i1lmLI (Reuters) :: other
+2026-10-23 13:06:55 shift over, state saved
