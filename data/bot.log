@@ -17549,3 +17549,23 @@
 2026-10-23 02:08:12   drop[kind] Badminton: Coach happy with Wei Chong’s progress after injury struggles (The Star) :: other
 2026-10-23 02:10:28   llm groq-120b: rate limited, skip 28s
 2026-10-23 02:10:29   drop[kind] Lakers Get Major Injury Boost as Newcomer Nears Debut Against Clippers (heavy.com) :: other
+2026-10-23 02:13:47   drop[not-key] Adou Thiero (F, Los Angeles Lakers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Adou Thiero: ruled out for upcoming game
+2026-10-23 02:13:48   llm groq-120b: rate limited, skip 146s
+2026-10-23 02:13:48   llm groq-20b: rate limited, skip 73s
+2026-10-23 02:13:48   drop[no-pick] Cameron Carr (G, Los Angeles Lakers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: None
+2026-10-23 02:17:19 indexed 1013 markets
+2026-10-23 02:17:25   drop[kind] Japan core inflation exceeds BOJ target, cements near-term rate hike chance (Columbus Ledger-Enquirer) :: other
+2026-10-23 02:18:51   llm groq-120b: rate limited, skip 176s
+2026-10-23 02:18:51   drop[unconfirmed] Spencer Jones (F, Denver Nuggets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: hamstring injury
+2026-10-23 02:22:04   drop[1-source] Kentucky vs. Vanderbilt Injury Report: Sam Greene and Nic Anderson are out; CJ Baxter will (A Sea Of Blue) :: Sam Greene, wait 2nd source
+2026-10-23 02:22:04   llm groq-120b: rate limited, skip 236s
+2026-10-23 02:22:05   drop[1-source] San Jose Sharks’ winger injured in game vs. Ottawa Senators (The Vacaville Reporter) :: San Jose Sharks, wait 2nd source
+2026-10-23 02:26:42   llm groq-120b: rate limited, skip 61s
+2026-10-23 02:26:43   drop[kind] Actor Tom Skerritt, star of Alien and Top Gun, dies at 93 (CNA) :: other
+2026-10-23 02:27:23 indexed 1012 markets
+2026-10-23 02:30:31   drop[kind] Australia's Zip tumbles 50% after fraud incident dents first-quarter customer growth reut. (Reuters) :: other
+2026-10-23 02:31:21   llm groq-120b: rate limited, skip 32s
+2026-10-23 02:31:22   drop[1-source] Texas EDGE Colin Simmons ruled out in Thursday injury report (Burnt Orange Nation) :: Colin Simmons, wait 2nd source
+2026-10-23 02:36:00   drop[1-source] Puka Nacua Leaves Practice Early With Injury As Things Somehow Get Even Worse For The Rams (TotalProSports) :: Puka Nacua, wait 2nd source
+2026-10-23 02:37:41 indexed 998 markets
+2026-10-23 02:37:43   drop[not-key] Maxim Shabanov (RW, Minnesota Wild) ruled out: healthy -> Out [NHL] (ESPN) :: Maxim Shabanov: injury
