@@ -18215,3 +18215,34 @@
 2026-10-23 21:54:24   drop[kind] Lamar Jackson Injury: Potential game-time decision (RotoWire) :: other
 2026-10-23 21:57:10   llm groq-120b: rate limited, skip 98s
 2026-10-23 21:57:11   drop[not-key] Charles Bassey (C, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Charles Bassey: right patellar tendinopathy
+2026-10-23 21:58:47   drop[kind] Saints Final Injury Report: Ruiz, Shepherd questionable for Steelers in Paris (Crescent City Sports) :: other
+2026-10-23 21:58:48   drop[not-key] Attorney Robert B. Fitzpatrick Suspended From Practicing Law in D.C. for 60 Days (ALABnews -) :: Robert B. Fitzpatrick: suspension
+2026-10-23 21:58:48   llm groq-20b: rate limited, skip 14s
+2026-10-23 21:59:08   llm groq-120b: rate limited, skip 255s
+2026-10-23 21:59:08   llm groq-20b: rate limited, skip 593s
+2026-10-23 21:59:08 [pengwin] INTER-FIORENTINA: no LLM answer (try 8)
+2026-10-23 21:59:28 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 15)
+2026-10-23 21:59:30 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 15)
+2026-10-23 21:59:51 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 14)
+2026-10-23 21:59:53 [pengwin] Siviglia-Osasuna: no Polymarket event (try 14)
+2026-10-23 22:04:09 indexed 984 markets
+2026-10-23 22:05:46   drop[kind] Saints Final Injury Report: Ruiz, Shepherd questionable for Steelers game in Paris (Crescent City Sports) :: other
+2026-10-23 22:05:46   drop[kind] Bears' Ben Johnson gets honest about impact of Cole Kmet's 'serious' injury (Yardbarker) :: other
+2026-10-23 22:08:04   drop[kind] Denzel Ward questionable for Week 7 vs. the Titans (Cleveland Browns) :: other
+2026-10-23 22:10:24   drop[1-source] Giants LB Tremaine Edmunds To Miss Rest Of Season With Shoulder Injury (ProFootballRumors.com) :: Tremaine Edmunds, wait 2nd source
+2026-10-23 22:10:24   llm groq-120b: rate limited, skip 201s
+2026-10-23 22:10:25   drop[unconfirmed] Giants LB Tremaine Edmunds Suffered Season-Ending Shoulder Injury (NFLTradeRumors.co) :: season-ending shoulder injury
+2026-10-23 22:10:25   drop[team-not-named] Kim Min-jae's Injury Clouds Key Matches Ahead (조선일보) :: FC Seoul
+2026-10-23 22:10:26   drop[kind] Matt Hardy Says Jeff Hardy May Take Some Time Off To Work On Neck Injury (411MANIA) :: other
+2026-10-23 22:12:54   llm groq-20b: rate limited, skip 228s
+2026-10-23 22:14:08 indexed 984 markets
+2026-10-23 22:14:26   drop[not-key] Jake LaRavia (F, Los Angeles Lakers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Jake LaRavia: right ankle sprain
+2026-10-23 22:15:00   llm groq-120b: rate limited, skip 849s
+2026-10-23 22:17:18   llm groq-20b: rate limited, skip 8s
+2026-10-23 22:17:31   llm groq-20b: rate limited, skip 19s
+2026-10-23 22:18:02   drop[unconfirmed] Blakely wins gold in women's all-round at Worlds (BBC) :: gold
+2026-10-23 22:19:35   llm groq-20b: rate limited, skip 177s
+2026-10-23 22:19:35 NEWS [NBC Sports 3m] Giants LB Tremaine Edmunds ruled out for Week 7, reportedly out for season with shoulder injury
+2026-10-23 22:19:35   skip Texans :: Giants vs. Texans (rules fallback, LLM down (not traded))
+2026-10-23 22:24:09 indexed 978 markets
+2026-10-23 22:24:13   llm groq-20b: rate limited, skip 23s

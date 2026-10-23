@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-23T21:55:21",
+ "updated": "2026-10-23T22:26:15",
  "start": 100.0,
  "cash": 0.0,
- "equity": 122.58,
+ "equity": 122.77,
  "open": [
   {
    "market_id": "5597100",
@@ -74,8 +74,9 @@
    "reason": "pengwin exact: home win",
    "conf": 1.0,
    "end": "2026-10-23T18:30:00+00:00",
-   "last_bid": 0.21,
-   "book_err": false
+   "last_bid": null,
+   "book_err": false,
+   "settle_retry": 1792787649.6541862
   },
   {
    "market_id": "5599839",
@@ -182,7 +183,7 @@
    "reason": "pengwin approx: Monza to score \u22651 goal approximated by AC Monza O/U 0.5 Over",
    "conf": 1.0,
    "end": "2026-10-23T18:45:00+00:00",
-   "last_bid": 0.43,
+   "last_bid": 0.19,
    "book_err": false
   },
   {
@@ -243,10 +244,10 @@
  "closed_count": 31,
  "realized_pnl": 27.39,
  "pages": {
-  "pending": 133,
+  "pending": 132,
   "picked": 1,
   "traded": 44,
-  "skipped": 134,
+  "skipped": 135,
   "expired": 56
  }
 }
