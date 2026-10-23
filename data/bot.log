@@ -17531,3 +17531,21 @@
 2026-10-23 01:38:04 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 108)
 2026-10-23 01:38:07 [pengwin] BOLOGNA-INTER: no Polymarket event (try 108)
 2026-10-23 01:39:47   llm groq-120b: rate limited, skip 165s
+2026-10-23 01:47:06 indexed 1003 markets
+2026-10-23 01:49:44   drop[kind] Caleb Williams' rushing upside post-injury yet to be determined (Da Windy City) :: other
+2026-10-23 01:49:45   drop[kind] Dutch Tourist Airlifted From Mount Rinjani After Suffering Leg Injury (The Bali Times) :: other
+2026-10-23 01:57:19 indexed 1007 markets
+2026-10-23 02:01:45   drop[verify] Branden Carlson (C, Portland Trail Blazers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: player status uncertain and impact likely insufficient
+2026-10-23 02:01:45   llm groq-120b: rate limited, skip 228s
+2026-10-23 02:01:45   drop[unconfirmed] Chris Youngblood (G, Portland Trail Blazers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: injury
+2026-10-23 02:06:09   drop[team-not-named] Trooper suspended with pay amid Martha's Vineyard barracks rape investigation, I-Team sour (CBS News) :: Massachusetts State Police
+2026-10-23 02:07:19 indexed 1010 markets
+2026-10-23 02:07:39 [pengwin] AMBURGO-STOCCARDA: no Polymarket event (try 109)
+2026-10-23 02:08:07   llm groq-120b: rate limited, skip 54s
+2026-10-23 02:08:07 [pengwin] FROSINONE-SASSUOLO: no Polymarket event (try 109)
+2026-10-23 02:08:10 [pengwin] BOLOGNA-INTER: no Polymarket event (try 109)
+2026-10-23 02:08:11   drop[kind] Brandin Podziemski Injury: Questionable to play Friday (RotoWire) :: other
+2026-10-23 02:08:11   drop[unconfirmed] Puka Nacua leaves practice early with injury, Week 7 status now in question (شبكة تواصل الإخبارية) :: injury early
+2026-10-23 02:08:12   drop[kind] Badminton: Coach happy with Wei Chong’s progress after injury struggles (The Star) :: other
+2026-10-23 02:10:28   llm groq-120b: rate limited, skip 28s
+2026-10-23 02:10:29   drop[kind] Lakers Get Major Injury Boost as Newcomer Nears Debut Against Clippers (heavy.com) :: other

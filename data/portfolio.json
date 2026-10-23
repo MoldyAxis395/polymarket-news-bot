@@ -1,25 +1,6 @@
 {
- "cash": 74.02313778107738,
- "positions": [
-  {
-   "market_id": "4465810",
-   "question": "Patriots vs. Bears",
-   "slug": "nfl-ne-chi-2026-10-23",
-   "outcome": "Patriots",
-   "token": "100418554533870028564580320858616813722975772325054442709650747770554067362636",
-   "shares": 24.390243902439025,
-   "entry": 0.41,
-   "cost": 10.0,
-   "opened": 1792709531.8583202,
-   "opened_iso": "2026-10-22T22:52:11+00:00",
-   "news": "T.J. Edwards (LB, Chicago Bears) ruled out: Doubtful -> Out [NFL]",
-   "reason": "llm[groq-20b] trusted: Bears lose, Patriots win price rises",
-   "conf": 0.65,
-   "end": "2026-10-23T00:15:00+00:00",
-   "last_bid": 0.4,
-   "book_err": false
-  }
- ],
+ "cash": 84.02313778107738,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
