@@ -17646,3 +17646,13 @@
 2026-10-23 06:00:44   skip Yes :: Will National Party win the most seats in the New Zealand House of Rep (low conf 0.6)
 2026-10-23 06:08:01 indexed 985 markets
 2026-10-23 06:10:25   drop[no-market] ‘Prayers Up for Cole Kmet,’ ‘Brutal’ — Robert Griffin III, NFL World Deeply Worried as Bea (Pro Football Network) :: Chicago Bears
+2026-10-23 06:12:56   drop[not-key] Sharks Locker Room: In Awe of Askarov, Chernyshov Will Be Out For "A Little Bit" With Inju (San Jose Hockey Now) :: Dmitri Chernyshov: injury will keep him out briefly
+2026-10-23 06:15:02   drop[team-not-named] Cole Kmet Carted Off the Field After Injury in Game Against Patriots (SSBCrack) :: Chicago Bears
+2026-10-23 06:17:19   drop[unconfirmed] Ishan Kishan's injury opens door for Vaibhav Sooryavanshi's comeback to India XI vs New Ze (Cricket Addictor) :: Kishan's injury creates opportunity for Sooryavanshi to be selected
+2026-10-23 06:18:00 indexed 984 markets
+2026-10-23 06:20:11   drop[no-market] Nugent-Hopkins (and Levi) win it for Oilers in shootout Tremendous hockey (Elliotte Friedman) :: Edmonton Oilers
+2026-10-23 06:28:02 indexed 988 markets
+2026-10-23 06:28:54   drop[not-key] Cameron Johnson Injury: Fails to return Thursday (RotoWire) :: Cameron Johnson: will miss Thursday game
+2026-10-23 06:38:03 indexed 991 markets
+2026-10-23 06:38:08   drop[1-source] Nuggets news: Cam Johnson suffers ankle injury in opening loss to Thunder (ClutchPoints) :: Cam Johnson, wait 2nd source
+2026-10-23 06:41:05   drop[no-market] Mattias Ekholm (D, Edmonton Oilers) ruled out: healthy -> Out [NHL] (ESPN) :: Edmonton Oilers
