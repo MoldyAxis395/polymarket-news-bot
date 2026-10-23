@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-23T23:57:18",
+ "updated": "2026-10-24T00:07:19",
  "start": 100.0,
- "cash": 41.06,
- "equity": 136.04,
+ "cash": 31.06,
+ "equity": 135.84,
  "open": [
   {
    "market_id": "5597100",
@@ -184,14 +184,32 @@
    "end": "2026-10-24T18:45:00+00:00",
    "last_bid": 0.69,
    "book_err": false
+  },
+  {
+   "market_id": "5644267",
+   "question": "Sevilla FC vs. CA Osasuna: O/U 0.5",
+   "slug": "lal-sev-osa-2026-10-26-total-0pt5",
+   "outcome": "Over",
+   "token": "88739920721412990381214296644141808035748400519288227312148492096562639527932",
+   "shares": 10.894565217391303,
+   "entry": 0.9178888556320464,
+   "cost": 10.0,
+   "opened": 1792792964.6000094,
+   "opened_iso": "2026-10-23T22:02:44+00:00",
+   "news": "Siviglia-Osasuna: MULTIGOL 1-4 CASA (approssimato)",
+   "reason": "pengwin approx: approximated by Sevilla O/U 0.5 Over",
+   "conf": 1.0,
+   "end": "2026-10-26T20:00:00+00:00",
+   "last_bid": 0.9,
+   "book_err": false
   }
  ],
  "closed_count": 34,
  "realized_pnl": 38.45,
  "pages": {
-  "pending": 129,
+  "pending": 128,
   "picked": 1,
-  "traded": 44,
+  "traded": 45,
   "skipped": 138,
   "expired": 56
  }

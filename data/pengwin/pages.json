@@ -2422,13 +2422,16 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/siviglia-osasuna-statistiche-quote-e-pronostico-2026": {
 "first": 1792693332.2736418,
-"status": "pending",
+"status": "traded",
 "pick": "Il cambio in panchina ha beneficiato e non poco per l'Osasuna che, con un colpo d'orgoglio, è tornato alla vittoria nello scorso turno con secco 2-0. Ottimo inizio, ma questo potrebbe non bastare con il Siviglia in trasferta. I biancorossi di Luis Garcia Plaza vengono da una brutta sconfitta al Bernabeu e cercano il riscatto. Mi aspetto un risultato positivo da parte degli andalusi, con un minimo di copertura. Vado con l'1X+Multigol 1-4 casa a 1.45, visto che l'Osasuna in trasferta soffre parecchio in difesa.",
 "match": "Siviglia-Osasuna",
 "picked_at": 1792755452.405072,
 "tries": 17,
 "why": "no Polymarket event",
-"llm_fails": 1
+"llm_fails": 1,
+"market": "Sevilla FC vs. CA Osasuna: O/U 0.5",
+"outcome": "Over",
+"map": "approx"
 },
 "https://www.mondopengwin.it/pronostici/calcio/europa-league/statistiche-quote-e-pronostico-2026-46": {
 "first": 1792714001.0687764,
