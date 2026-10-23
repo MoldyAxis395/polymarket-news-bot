@@ -2415,22 +2415,25 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/barcellona-real-madrid-statistiche-quote-e-pronostico-2026-2": {
 "first": 1792691479.1720636,
-"status": "pending",
+"status": "traded",
 "pick": "Siamo arrivati alla partita delle partite, il big match della 10° giornata che potrebbe decidere già parte del campionato. Il Barcellona è uno schiacciasassi quasi infermabile, ma, la trasferta con il PSG in Champions, ha evidenziato problemi di tenuta difensiva davanti a squadre di pari livello. Occasione importante quindi per il Real che, nonostante diverse vittorie basate sui colpi dei campioni, non ha quasi mai convinto del tutto. Sinceramente, vedo il Barcellona favorito ma sarà comunque possibilmente equlibrata, guai a sottovalutare il Real. Prendiamoci quindi un minimo di copertura e aggiungiamoci il fatto che, probabilmente, segneranno entrambe: 1X+Gol dal valore di 1.60.",
 "match": "Barcellona-Real Madrid",
 "picked_at": 1792755452.405072,
 "tries": 16,
 "why": "no Polymarket event",
-"llm_fails": 2
+"llm_fails": 2,
+"market": "FC Barcelona vs. Real Madrid CF: Both Teams to Score",
+"outcome": "Yes",
+"map": "exact"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/siviglia-osasuna-statistiche-quote-e-pronostico-2026": {
 "first": 1792693332.2736418,
-"status": "pending",
+"status": "skipped",
 "pick": "Il cambio in panchina ha beneficiato e non poco per l'Osasuna che, con un colpo d'orgoglio, è tornato alla vittoria nello scorso turno con secco 2-0. Ottimo inizio, ma questo potrebbe non bastare con il Siviglia in trasferta. I biancorossi di Luis Garcia Plaza vengono da una brutta sconfitta al Bernabeu e cercano il riscatto. Mi aspetto un risultato positivo da parte degli andalusi, con un minimo di copertura. Vado con l'1X+Multigol 1-4 casa a 1.45, visto che l'Osasuna in trasferta soffre parecchio in difesa.",
 "match": "Siviglia-Osasuna",
 "picked_at": 1792755452.405072,
 "tries": 16,
-"why": "no Polymarket event",
+"why": "double chance mapped to YES: Will Sevilla FC win on 2026-10-26?",
 "llm_fails": 1
 },
 "https://www.mondopengwin.it/pronostici/calcio/europa-league/statistiche-quote-e-pronostico-2026-46": {
