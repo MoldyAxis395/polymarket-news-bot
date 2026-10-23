@@ -17728,29 +17728,44 @@
 2026-10-23 12:22:53 indexed 968 markets
 2026-10-23 12:23:06   drop[1-source] Incredible scene as MotoGP race is suspended for the ‘most Australian thing ever’ (NT News) :: MotoGP, wait 2nd source
 2026-10-23 12:26:46   drop[kind] SpaceX-Tesla Merger Antitrust Risk at $3.5T [2026] (https://tech-insider.org/) :: other
-2026-10-23 12:27:30   drop[1-source] Bears' Cole Kmet Carted Off With Knee Injury vs. Patriots (RG.org) :: Cole Kmet, wait 2nd source
-2026-10-23 12:32:54 indexed 966 markets
-2026-10-23 12:36:51   drop[kind] Coaching course bookings suspended for the moment (Scottish Athletics) :: other
-2026-10-23 12:40:43   drop[kind] One killed, four injured in drive-by shooting near Paris reut.rs/4sjLIw3 (Reuters) :: other
-2026-10-23 12:41:37   drop[1-source] Injury: Milan to Evaluate Chukwueze Again In 10 To 15 Days (bsnsports.com.ng) :: Bright Chukwueze, wait 2nd source
-2026-10-23 12:42:55 indexed 965 markets
-2026-10-23 12:48:22   drop[kind] Suspended sentence for who had cocaine and ketamine (carlow-nationalist.ie) :: other
-2026-10-23 12:48:23   drop[1-source] Loftus-Cheek suffers injury during AC Milan vs AFC Bo… (YSscores) :: Rashford Loftus-Cheek, wait 2nd source
-2026-10-23 12:50:53   drop[team-not-named] Man Utd blow as Bournemouth confirm injury boost for Old Trafford trip (London Evening Standard) :: Manchester United
-2026-10-23 12:52:56 indexed 975 markets
-2026-10-23 12:52:59   llm groq-120b: rate limited, skip 58s
-2026-10-23 12:53:00   drop[kind] Saquon Barkley Sets the Record Straight on Eagles-Jalen Hurts Injury Controversy (heavy.com) :: other
-2026-10-23 12:57:38   drop[1-source] Taskin Ahmed Returns to Bangladesh Test Squad (Dainik Jagran MP CG) :: Taskin Ahmed, wait 2nd source
-2026-10-23 13:01:16   llm groq-120b: rate limited, skip 77s
-2026-10-23 13:01:18 NEWS [Reuters 1m] Unrest-hit France poised for Moody's ratings verdict reut.rs/4i2zTqA
-2026-10-23 13:01:18   skip Yes :: France declares state of emergency by October 31, 2026? (low conf 0.6)
-2026-10-23 13:02:10   drop[team-not-named] Boonville Police charge Rome suspect for allegedly driving on suspended registration (Flack Broadcasting) :: 
-2026-10-23 13:02:12   drop[1-source] Steelers place veteran defender on injured reserve before Paris game | See link below ⬇️ 📸 (Facebook) :: Pittsburgh Steelers, wait 2nd source
-2026-10-23 13:02:12   drop[kind] With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage (CNBC) :: other
-2026-10-23 13:02:56 indexed 976 markets
-2026-10-23 13:04:34   drop[1-source] Train services between Rambukkana-Peradeniya, Gampola suspended on Oct. 24 and 25 (Ada Derana) :: Rambukkana-Peradeniya and Gampola train services (Sri Lanka Railways), wait 2nd source
-2026-10-23 13:04:34   llm groq-120b: rate limited, skip 172s
-2026-10-23 13:04:35   drop[unconfirmed] Bayern 29yo suffered 4-6 week injury vs Arsenal (Daily Cannon) :: 29‑year‑old player ruled out for 4‑6 weeks
-2026-10-23 13:04:36   drop[1-source] Striker injured just days before Crystal Palace v Newcastle United clash (Shields Gazette) :: Crystal Palace, wait 2nd source
-2026-10-23 13:05:34   drop[kind] UK Royal Navy sailor appears in court charged under National Security Act reut.rs/4i1lmLI (Reuters) :: other
-2026-10-23 13:06:55 shift over, state saved
+2026-10-23 13:07:09 === start mode=paper pid=2122 ===
+2026-10-23 13:07:09 brain=llm cash=84.02 open=0
+2026-10-23 13:07:09 resuming with 8768 known news items
+2026-10-23 13:07:37 indexed 972 markets
+2026-10-23 13:07:53   drop[kind] UK Royal Navy sailor appears in court charged under National Security Act reut.rs/4i1lmLI (Reuters) :: other
+2026-10-23 13:07:53   llm groq-120b: rate limited, skip 282s
+2026-10-23 13:07:54   drop[unconfirmed] Unrest-hit France poised for Moody's ratings verdict reut.rs/4i2zTqA (Reuters) :: Moody's likely to issue a negative rating
+2026-10-23 13:07:54   drop[kind] One killed, four injured in drive-by shooting near Paris reut.rs/4sjLIw3 (Reuters) :: other
+2026-10-23 13:09:41 [pengwin]   BUY Over @ 0.810 x12.3 ($10.00) :: Ipswich Town FC vs. Nottingham Forest FC: Nottingham Forest FC O/U 0.5
+2026-10-23 13:09:46 [pengwin] skip ASTON VILLA-MANCHESTER CITY [GOAL]: Aston Villa FC vs. Manchester City FC: O/U 0.5 -> Over: ask 0.968 out of range
+2026-10-23 13:09:52 [pengwin]   BUY Under @ 0.680 x14.7 ($10.00) :: Coventry City FC vs. Fulham FC: O/U 3.5
+2026-10-23 13:09:55   llm groq-20b: rate limited, skip 27s
+2026-10-23 13:09:55 [pengwin] ARSENAL-EVERTON: no LLM answer (try 1)
+2026-10-23 13:09:57 [pengwin] CHELSEA-TOTTENHAM: no LLM answer (try 1)
+2026-10-23 13:09:59 [pengwin] CRYSTAL PALACE-NEWCASTLE: no LLM answer (try 1)
+2026-10-23 13:10:02 [pengwin] HULL CITY-BRENTFORD: no LLM answer (try 1)
+2026-10-23 13:10:04 [pengwin] LIVERPOOL-BRIGHTON: no LLM answer (try 1)
+2026-10-23 13:10:06 [pengwin] MANCHESTER UNITED-BOURNEMOUTH: no Polymarket event (try 1)
+2026-10-23 13:10:09 [pengwin] SUNDERLAND-LEEDS UNITED: no LLM answer (try 1)
+2026-10-23 13:10:31 [pengwin]   BUY Yes @ 0.720 x13.9 ($10.00) :: Will VfB Stuttgart win on 2026-10-23?
+2026-10-23 13:10:36 [pengwin] skip COLONIA-SCHALKE [UNDER 3.5 HOME]: 1. FC Köln vs. FC Schalke 04: 1. FC Köln O/U 3.5 -> Under: spread 0.100
+2026-10-23 13:10:39   llm groq-20b: rate limited, skip 16s
+2026-10-23 13:10:39 [pengwin] MAINZ-WERDER BREMA: no LLM answer (try 1)
+2026-10-23 13:10:43 [pengwin] AUGSBURG-UNION BERLINO: no LLM answer (try 1)
+2026-10-23 13:10:55 [pengwin] BORUSSIA DORTMUND-FRANCOFORTE: no Polymarket event (try 1)
+2026-10-23 13:10:58 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 1)
+2026-10-23 13:11:01   llm groq-20b: rate limited, skip 10s
+2026-10-23 13:11:01 [pengwin] LIPSIA-ELVERSBERG: no LLM answer (try 1)
+2026-10-23 13:11:03 [pengwin] HOFFENHEIM-BAYER LEVERKUSEN: no LLM answer (try 1)
+2026-10-23 13:11:25   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-23 13:11:25 [pengwin] FRIBURGO-BAYERN MONACO: no LLM answer (try 1)
+2026-10-23 13:11:29 [pengwin] skip Alaves-Malaga [1X+MULTIGOL 1-3 CASA]: no matching market
+2026-10-23 13:11:32   llm groq-20b: rate limited, skip 11s
+2026-10-23 13:11:32 [pengwin] Vallecano-Elche: no LLM answer (try 1)
+2026-10-23 13:11:34 [pengwin] Racing-Espanyol: no LLM answer (try 1)
+2026-10-23 13:11:37 [pengwin] Valencia-Villarreal: no LLM answer (try 1)
+2026-10-23 13:11:39 [pengwin] Atletico Madrid-Deportivo: no LLM answer (try 1)
+2026-10-23 13:11:42 [pengwin] Athletic Bilbao-Getafe: no LLM answer (try 1)
+2026-10-23 13:11:47 [pengwin]   BUY Over @ 0.750 x13.3 ($10.00) :: RC Celta de Vigo vs. Real Betis Balompié: RC Celta de Vigo O/U 0.5
+2026-10-23 13:11:50   llm groq-20b: rate limited, skip 20s
+2026-10-23 13:11:50 [pengwin] Real Sociedad-Levante: no LLM answer (try 1)
