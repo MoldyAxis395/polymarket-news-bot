@@ -18246,106 +18246,50 @@
 2026-10-23 22:19:35   skip Texans :: Giants vs. Texans (rules fallback, LLM down (not traded))
 2026-10-23 22:24:09 indexed 978 markets
 2026-10-23 22:24:13   llm groq-20b: rate limited, skip 23s
-2026-10-23 22:30:19   llm groq-120b: rate limited, skip 9s
-2026-10-23 22:30:20 [pengwin] skip PADERBORN-AMBURGO [X2]: Will SC Paderborn 07 win on 2026-10-24? -> No: no cash
-2026-10-23 22:30:24   llm groq-20b: rate limited, skip 241s
-2026-10-23 22:30:24 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 16)
-2026-10-23 22:30:45   llm groq-120b: rate limited, skip 50s
-2026-10-23 22:30:45 [pengwin] Barcellona-Real Madrid: no LLM answer (try 15)
-2026-10-23 22:30:47 [pengwin] Siviglia-Osasuna: no Polymarket event (try 15)
-2026-10-23 22:31:44   drop[no-pick] Jameson Taillon (SP, Toronto Blue Jays) ruled out: 15-Day-IL -> Out [MLB] (ESPN) :: short
-2026-10-23 22:33:28   llm groq-120b: rate limited, skip 137s
-2026-10-23 22:34:09 indexed 978 markets
-2026-10-23 22:35:00   llm groq-20b: rate limited, skip 168s
-2026-10-23 22:36:13   llm groq-120b: rate limited, skip 95s
-2026-10-23 22:36:13   drop[verify] David Montgomery (RB, Houston Texans) ruled out: Doubtful -> Out [NFL] (ESPN) :: no answer
-2026-10-23 22:36:13 NEWS [ESPN 6m] Jalen Pitre (S, Houston Texans) ruled out: Questionable -> Out [NFL]
-2026-10-23 22:36:13   skip Giants :: Giants vs. Texans (rules fallback, LLM down (not traded))
-2026-10-23 22:36:13 NEWS [ESPN 6m] Blake Fisher (OT, Houston Texans) ruled out: Questionable -> Out [NFL]
-2026-10-23 22:36:13   skip Giants :: Giants vs. Texans (rules fallback, LLM down (not traded))
-2026-10-23 22:36:13 NEWS [ESPN 6m] Reed Blankenship (S, Houston Texans) ruled out: Questionable -> Out [NFL]
-2026-10-23 22:36:13   skip Giants :: Giants vs. Texans (rules fallback, LLM down (not traded))
-2026-10-23 22:38:03   llm groq-120b: rate limited, skip 108s
-2026-10-23 22:38:03   drop[unconfirmed] Evans (Achilles) officially ruled out of Week 7 (NBC Sports) :: Achilles injury
-2026-10-23 22:38:52   llm groq-20b: rate limited, skip 99s
-2026-10-23 22:40:14   llm groq-120b: rate limited, skip 178s
-2026-10-23 22:40:14 NEWS [ESPN 4m] Zach Charbonnet (RB, Seattle Seahawks) ruled out: Questionable -> Out [NFL]
-2026-10-23 22:40:14   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
-2026-10-23 22:41:16   llm groq-20b: rate limited, skip 275s
-2026-10-23 22:41:16 NEWS [ESPN 2m] Oso Ighodaro (F, Phoenix Suns) ruled out: Day-To-Day -> Out [NBA]
-2026-10-23 22:41:16   skip Warriors :: Warriors vs. Suns (rules fallback, LLM down (not traded))
-2026-10-23 22:41:16   skip Thunder :: Suns vs. Thunder (rules fallback, LLM down (not traded))
-2026-10-23 22:43:40 [pengwin]   book error Will VfB Stuttgart win on 2026-10-23?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=99200773505710549983358119162500601327044006694048336305035218373368421360681
-2026-10-23 22:44:10 indexed 971 markets
-2026-10-23 22:44:42 [pengwin]   SELL Yes @ 0.000 (resolved) pnl -10.00 :: Will VfB Stuttgart win on 2026-10-23?
-2026-10-23 22:45:50   drop[team-not-named] Mike Evans Ruled out for Week 7 (Fantasy Footballers Podcast) :: Tampa Bay Buccaneers
-2026-10-23 22:45:50   llm groq-120b: rate limited, skip 173s
-2026-10-23 22:46:21   llm groq-20b: rate limited, skip 453s
-2026-10-23 22:48:55   llm groq-120b: rate limited, skip 31s
-2026-10-23 22:48:55   drop[no-pick] Mike Evans, Nick Bosa among several 49ers ruled out for Week 7 (NBC Sports) :: None
-2026-10-23 22:49:59   drop[1-source] Seahawks RB Zach Charbonnet and 2 others OUT for Week 7 vs Chiefs (Seahawks Wire) :: Zach Charbonnet, wait 2nd source
-2026-10-23 22:51:27   llm groq-120b: rate limited, skip 144s
-2026-10-23 22:51:27 NEWS [ESPN 2m] Tremaine Edmunds (LB, New York Giants) ruled out: Questionable -> Out [NFL]
-2026-10-23 22:51:27   skip Texans :: Giants vs. Texans (rules fallback, LLM down (not traded))
-2026-10-23 22:54:13 indexed 970 markets
-2026-10-23 22:54:31   drop[not-key] Tony Santillan (RP, Cincinnati Reds) ruled out: 15-Day-IL -> Out [MLB] (ESPN) :: Tony Santillan: ruled out with injury, placed on 15-Day IL
-2026-10-23 22:54:31   llm groq-120b: rate limited, skip 710s
-2026-10-23 22:54:31   drop[not-key] Julian Garcia (RP, Cincinnati Reds) ruled out: 15-Day-IL -> Out [MLB] (ESPN) :: Julian Garcia: injury
-2026-10-23 22:56:04   drop[team-not-named] Zach Charbonnet Ruled out for Week 7 (Fantasy Footballers Podcast) :: Kansas City Chiefs
-2026-10-23 22:56:39   drop[kind] MSU Football Dealt Potential Injury Blow Ahead of Clash WIth No.9 UCLA (Heavy.com) :: other
-2026-10-23 22:56:39   llm groq-20b: rate limited, skip 6s
-2026-10-23 22:56:39   drop[no-pick] Six-try Sharks condemn Cardiff to rare home defeat (BBC) :: None
-2026-10-23 22:57:08 [pengwin]   SELL Over @ 1.000 (resolved) pnl +18.71 :: Torino FC vs. AC Monza: AC Monza O/U 1.5
-2026-10-23 22:59:10   llm groq-20b: rate limited, skip 136s
-2026-10-23 23:01:12 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 17)
-2026-10-23 23:01:33   llm groq-20b: rate limited, skip 523s
-2026-10-23 23:01:33 [pengwin] Barcellona-Real Madrid: no LLM answer (try 16)
-2026-10-23 23:01:35 [pengwin] Siviglia-Osasuna: no Polymarket event (try 16)
-2026-10-23 23:04:13 indexed 976 markets
-2026-10-23 23:06:43   llm groq-120b: rate limited, skip 185s
-2026-10-23 23:06:43   drop[no-pick] Greg Newsome II (CB, New York Giants) ruled out: Questionable -> Out [NFL] (ESPN) :: None
-2026-10-23 23:10:26   drop[kind] Leipzig Face Nkunku Injury Scare Ahead Of Elversberg Clash (roundtable.io) :: other
-2026-10-23 23:10:59   llm groq-120b: rate limited, skip 914s
-2026-10-23 23:11:00   drop[unconfirmed] African Champions League holders knocked out in second round reut.rs/4ikOY5D (Reuters) :: eliminated
-2026-10-23 23:11:24   llm groq-20b: rate limited, skip 84s
-2026-10-23 23:11:24   drop[no-pick] Wade equals Prem try-scoring record as Newcastle beat Sale (BBC) :: None
-2026-10-23 23:13:28   llm groq-20b: rate limited, skip 411s
-2026-10-23 23:14:14 indexed 977 markets
-2026-10-23 23:18:31 [pengwin]   book error Ipswich Town FC vs. Nottingham Forest FC: Nottingh: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=77433384918670164847023172446009865904471554959097774287317835819256354448153
-2026-10-23 23:18:31 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.35 :: Ipswich Town FC vs. Nottingham Forest FC: Nottingham Forest FC O/U 0.5
-2026-10-23 23:21:23   drop[not-key] Tyler Bilodeau (F, Brooklyn Nets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Tyler Bilodeau: injury
-2026-10-23 23:22:02   llm groq-20b: rate limited, skip 173s
-2026-10-23 23:22:02   drop[no-pick] Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month (Reuters) :: None
-2026-10-23 23:24:17 indexed 976 markets
-2026-10-23 23:25:19   drop[kind] Canadian dollar hits five-week high as data supports rate hike bets reut.rs/4iBHVGW (Reuters) :: other
-2026-10-23 23:25:26   drop[not-key] Talanoa Hufanga (S, Denver Broncos) ruled out: Doubtful -> Out [NFL] (ESPN) :: Talanoa Hufanga: injury
-2026-10-23 23:25:26   llm groq-20b: rate limited, skip 525s
-2026-10-23 23:25:26 NEWS [ESPN 7m] Chazz Surratt (LB, Seattle Seahawks) ruled out: Questionable -> Out [NFL]
-2026-10-23 23:25:26   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
-2026-10-23 23:25:26 NEWS [ESPN 7m] Drake Thomas (LB, Seattle Seahawks) ruled out: Questionable -> Out [NFL]
-2026-10-23 23:25:26   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
-2026-10-23 23:26:53   drop[1-source] Report: 3 Lakers ruled out, Collin Sexton to make debut vs. Clippers (Lakers Daily) :: Los Angeles Lakers, wait 2nd source
-2026-10-23 23:27:30   drop[not-key] Ben Sheppard (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Ben Sheppard: left knee soreness
-2026-10-23 23:29:31   drop[not-key] Tyler Badie (RB, Denver Broncos) ruled out: Questionable -> Out [NFL] (ESPN) :: Tyler Badie: thumb injury
-2026-10-23 23:31:16   drop[kind] Packers injury report: Four players questionable (WLUK) :: other
-2026-10-23 23:31:16   drop[1-source] Packers injury report: Starting linebacker out, 4 questionable for divisional showdown (Wisconsin State Journal) :: De'Vondre Campbell, wait 2nd source
-2026-10-23 23:31:52   llm groq-120b: rate limited, skip 998s
-2026-10-23 23:31:52 [pengwin] LIPSIA-ELVERSBERG: no LLM answer (try 18)
-2026-10-23 23:32:12 [pengwin] Siviglia-Osasuna: no Polymarket event (try 17)
-2026-10-23 23:34:20 indexed 978 markets
-2026-10-23 23:34:37   drop[unconfirmed] Andrew Wingard (S, Arizona Cardinals) ruled out: Questionable -> Out [NFL] (ESPN) :: bone bruise
-2026-10-23 23:39:46   llm groq-20b: rate limited, skip 153s
-2026-10-23 23:44:20 indexed 968 markets
-2026-10-23 23:45:23   drop[1-source] Bears TE Cole Kmet Out For Season With Knee Injury (RealGM) :: Cole Kmet, wait 2nd source
-2026-10-23 23:54:18 indexed 969 markets
-2026-10-23 23:56:40   drop[kind] Michigan State Football Dealt Potential Injury Blow Ahead of Clash WIth No.9 UCLA (Heavy.com) :: other
-2026-10-24 00:01:17   drop[team-not-named] Seahawks-Chiefs injury designations: Zach Charbonnet out, Nick Emmanwori questionable (Field Gulls) :: Seattle Seahawks
-2026-10-24 00:01:18   drop[team-not-named] 'I don't want to take risks!' – Roberto De Zerbi delivers major Destiny Udogie injury blow (Goal.com) :: Brighton & Hove Albion
-2026-10-24 00:02:44 [pengwin]   BUY Over @ 0.918 x10.9 ($10.00) :: Sevilla FC vs. CA Osasuna: O/U 0.5
-2026-10-24 00:03:46   llm groq-120b: rate limited, skip 664s
-2026-10-24 00:03:46   drop[kind] Jeff Hardy may be taking time off due to nagging neck injury (Cageside Seats) :: other
-2026-10-24 00:04:19 indexed 968 markets
-2026-10-24 00:05:55   drop[1-source] Giants lose middle linebacker Tremaine Edmunds to season-ending injury (New York Daily News) :: Tremaine Edmunds, wait 2nd source
-2026-10-24 00:05:56   drop[1-source] Alabama Kappa Alpha Psi Suspended Through 2030 for Hazing (Hoodline) :: Alabama Kappa Alpha Psi, wait 2nd source
-2026-10-24 00:05:57   drop[1-source] Big Esterhuizen injury blow mars another statement win for Sharks (supersport.com) :: Big Esterhuizen, wait 2nd source
-2026-10-24 00:07:51 shift over, state saved
+2026-10-24 00:08:12 === start mode=paper pid=2118 ===
+2026-10-24 00:08:12 brain=llm cash=84.02 open=0
+2026-10-24 00:08:12 resuming with 8756 known news items
+2026-10-24 00:08:41 indexed 964 markets
+2026-10-24 00:09:00   llm groq-120b: rate limited, skip 232s
+2026-10-24 00:09:01   drop[no-pick] Andrew Wingard (S, Arizona Cardinals) ruled out: Questionable -> Out [NFL] (ESPN) :: short
+2026-10-24 00:09:01   drop[no-pick] Montez Sweat (DE, Chicago Bears) cleared to play: Suspension -> Active [NFL] (ESPN) :: no relevant market
+2026-10-24 00:09:01   llm groq-20b: rate limited, skip 87s
+2026-10-24 00:09:01 NEWS [ESPN 0m] David Montgomery (RB, Houston Texans) ruled out: Doubtful -> Out [NFL]
+2026-10-24 00:09:01   skip Giants :: Giants vs. Texans (rules fallback, LLM down (not traded))
+2026-10-24 00:09:01 NEWS [ESPN 0m] Jalen Pitre (S, Houston Texans) ruled out: Questionable -> Out [NFL]
+2026-10-24 00:09:01   skip Giants :: Giants vs. Texans (rules fallback, LLM down (not traded))
+2026-10-24 00:09:01 NEWS [ESPN 0m] Blake Fisher (OT, Houston Texans) ruled out: Questionable -> Out [NFL]
+2026-10-24 00:09:01   skip Giants :: Giants vs. Texans (rules fallback, LLM down (not traded))
+2026-10-24 00:09:01 NEWS [ESPN 0m] Reed Blankenship (S, Houston Texans) ruled out: Questionable -> Out [NFL]
+2026-10-24 00:09:01   skip Giants :: Giants vs. Texans (rules fallback, LLM down (not traded))
+2026-10-24 00:09:01 NEWS [ESPN 0m] Greg Newsome II (CB, New York Giants) ruled out: Questionable -> Out [NFL]
+2026-10-24 00:09:01   skip Texans :: Giants vs. Texans (rules fallback, LLM down (not traded))
+2026-10-24 00:09:01 NEWS [ESPN 0m] Tremaine Edmunds (LB, New York Giants) ruled out: Questionable -> Out [NFL]
+2026-10-24 00:09:01   skip Texans :: Giants vs. Texans (rules fallback, LLM down (not traded))
+2026-10-24 00:09:01 NEWS [ESPN 51m] Chazz Surratt (LB, Seattle Seahawks) ruled out: Questionable -> Out [NFL]
+2026-10-24 00:09:01   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-24 00:09:01 NEWS [ESPN 51m] Drake Thomas (LB, Seattle Seahawks) ruled out: Questionable -> Out [NFL]
+2026-10-24 00:09:01   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-24 00:09:01 NEWS [ESPN 0m] Zach Charbonnet (RB, Seattle Seahawks) ruled out: Questionable -> Out [NFL]
+2026-10-24 00:09:01   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-24 00:09:01 NEWS [ESPN 0m] Tyler Bilodeau (F, Brooklyn Nets) ruled out: Day-To-Day -> Out [NBA]
+2026-10-24 00:09:01   skip Cavaliers :: Nets vs. Cavaliers (rules fallback, LLM down (not traded))
+2026-10-24 00:09:01 NEWS [ESPN 7m] Jett Howard (G, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA]
+2026-10-24 00:09:01   skip Pacers :: Mavericks vs. Pacers (rules fallback, LLM down (not traded))
+2026-10-24 00:09:01   skip Spurs :: Spurs vs. Mavericks (rules fallback, LLM down (not traded))
+2026-10-24 00:09:01 NEWS [ESPN 42m] Ben Sheppard (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA]
+2026-10-24 00:09:01   skip Mavericks :: Mavericks vs. Pacers (rules fallback, LLM down (not traded))
+2026-10-24 00:09:01 NEWS [ESPN 0m] Oso Ighodaro (F, Phoenix Suns) ruled out: Day-To-Day -> Out [NBA]
+2026-10-24 00:09:01   skip Thunder :: Suns vs. Thunder (rules fallback, LLM down (not traded))
+2026-10-24 00:09:01   skip Warriors :: Warriors vs. Suns (rules fallback, LLM down (not traded))
+2026-10-24 00:11:08   llm groq-20b: rate limited, skip 733s
+2026-10-24 00:11:08 [pengwin] PADERBORN-AMBURGO: no LLM answer (try 16)
+2026-10-24 00:11:10 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 16)
+2026-10-24 00:11:29 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 15)
+2026-10-24 00:11:31 [pengwin] Siviglia-Osasuna: no Polymarket event (try 15)
+2026-10-24 00:11:56 [pengwin]   book error Ipswich Town FC vs. Nottingham Forest FC: Nottingh: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=77433384918670164847023172446009865904471554959097774287317835819256354448153
+2026-10-24 00:11:56 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.35 :: Ipswich Town FC vs. Nottingham Forest FC: Nottingham Forest FC O/U 0.5
+2026-10-24 00:11:57 [pengwin]   book error Will VfB Stuttgart win on 2026-10-23?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=99200773505710549983358119162500601327044006694048336305035218373368421360681
+2026-10-24 00:11:57 [pengwin]   SELL Yes @ 0.000 (resolved) pnl -10.00 :: Will VfB Stuttgart win on 2026-10-23?
+2026-10-24 00:11:58 [pengwin]   book error Torino FC vs. AC Monza: AC Monza O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=63689108341580754959444559842498056235540870602790644997669253860596505775271
+2026-10-24 00:11:58 [pengwin]   SELL Over @ 1.000 (resolved) pnl +18.71 :: Torino FC vs. AC Monza: AC Monza O/U 1.5
