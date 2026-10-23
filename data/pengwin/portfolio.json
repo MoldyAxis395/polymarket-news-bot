@@ -1,5 +1,5 @@
 {
- "cash": 0.0,
+ "cash": 28.71428571428572,
  "positions": [
   {
    "market_id": "5597100",
@@ -55,25 +55,6 @@
    "end": "2026-10-24T14:00:00+00:00",
    "last_bid": 0.67,
    "book_err": false
-  },
-  {
-   "market_id": "5479421",
-   "question": "Will VfB Stuttgart win on 2026-10-23?",
-   "slug": "bun-stu-moe-2026-10-23-stu",
-   "outcome": "Yes",
-   "token": "99200773505710549983358119162500601327044006694048336305035218373368421360681",
-   "shares": 13.88888888888889,
-   "entry": 0.72,
-   "cost": 10.0,
-   "opened": 1792753831.5905488,
-   "opened_iso": "2026-10-23T11:10:31+00:00",
-   "news": "STOCCARDA-MONCHENGLADBACH: 1 (esatto)",
-   "reason": "pengwin exact: home win",
-   "conf": 1.0,
-   "end": "2026-10-23T18:30:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1792787649.6541862
   },
   {
    "market_id": "5599839",
@@ -163,24 +144,6 @@
    "conf": 1.0,
    "end": "2026-10-24T14:00:00+00:00",
    "last_bid": 0.66,
-   "book_err": false
-  },
-  {
-   "market_id": "5480999",
-   "question": "Torino FC vs. AC Monza: AC Monza O/U 1.5",
-   "slug": "sea-tor-mon-2026-10-23-team-total-away-1pt5",
-   "outcome": "Over",
-   "token": "63689108341580754959444559842498056235540870602790644997669253860596505775271",
-   "shares": 28.71428571428572,
-   "entry": 0.34825870646766166,
-   "cost": 10.0,
-   "opened": 1792772744.1809554,
-   "opened_iso": "2026-10-23T16:25:44+00:00",
-   "news": "TORINO-MONZA: MULTIGOL 1-3 OSPITE @1.40 (approssimato)",
-   "reason": "pengwin approx: Monza to score \u22651 goal approximated by AC Monza O/U 0.5 Over",
-   "conf": 1.0,
-   "end": "2026-10-23T18:45:00+00:00",
-   "last_bid": 0.19,
    "book_err": false
   },
   {
@@ -951,6 +914,52 @@
    "pnl": -10.0,
    "why": "resolved",
    "closed_iso": "2026-10-22T00:38:18+00:00"
+  },
+  {
+   "market_id": "5479421",
+   "question": "Will VfB Stuttgart win on 2026-10-23?",
+   "slug": "bun-stu-moe-2026-10-23-stu",
+   "outcome": "Yes",
+   "token": "99200773505710549983358119162500601327044006694048336305035218373368421360681",
+   "shares": 13.88888888888889,
+   "entry": 0.72,
+   "cost": 10.0,
+   "opened": 1792753831.5905488,
+   "opened_iso": "2026-10-23T11:10:31+00:00",
+   "news": "STOCCARDA-MONCHENGLADBACH: 1 (esatto)",
+   "reason": "pengwin exact: home win",
+   "conf": 1.0,
+   "end": "2026-10-23T18:30:00+00:00",
+   "last_bid": null,
+   "book_err": true,
+   "settle_retry": 1792788882.5824027,
+   "exit": 0.0,
+   "pnl": -10.0,
+   "why": "resolved",
+   "closed_iso": "2026-10-23T20:44:43+00:00"
+  },
+  {
+   "market_id": "5480999",
+   "question": "Torino FC vs. AC Monza: AC Monza O/U 1.5",
+   "slug": "sea-tor-mon-2026-10-23-team-total-away-1pt5",
+   "outcome": "Over",
+   "token": "63689108341580754959444559842498056235540870602790644997669253860596505775271",
+   "shares": 28.71428571428572,
+   "entry": 0.34825870646766166,
+   "cost": 10.0,
+   "opened": 1792772744.1809554,
+   "opened_iso": "2026-10-23T16:25:44+00:00",
+   "news": "TORINO-MONZA: MULTIGOL 1-3 OSPITE @1.40 (approssimato)",
+   "reason": "pengwin approx: Monza to score \u22651 goal approximated by AC Monza O/U 0.5 Over",
+   "conf": 1.0,
+   "end": "2026-10-23T18:45:00+00:00",
+   "last_bid": null,
+   "book_err": false,
+   "settle_retry": 1792789627.852557,
+   "exit": 1.0,
+   "pnl": 18.71428571428572,
+   "why": "resolved",
+   "closed_iso": "2026-10-23T20:57:08+00:00"
   }
  ],
  "cooldown": {
@@ -984,6 +993,8 @@
   "5410200": 1792545014.777066,
   "5410268": 1792545015.6347582,
   "5409948": 1792620582.1095939,
-  "5436698": 1792640298.6773994
+  "5436698": 1792640298.6773994,
+  "5479421": 1792799083.1195025,
+  "5480999": 1792799828.518042
  }
 }

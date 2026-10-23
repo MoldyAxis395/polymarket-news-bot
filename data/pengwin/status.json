@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-23T22:26:15",
+ "updated": "2026-10-23T22:57:09",
  "start": 100.0,
- "cash": 0.0,
- "equity": 122.77,
+ "cash": 28.71,
+ "equity": 136.03,
  "open": [
   {
    "market_id": "5597100",
@@ -58,25 +58,6 @@
    "end": "2026-10-24T14:00:00+00:00",
    "last_bid": 0.67,
    "book_err": false
-  },
-  {
-   "market_id": "5479421",
-   "question": "Will VfB Stuttgart win on 2026-10-23?",
-   "slug": "bun-stu-moe-2026-10-23-stu",
-   "outcome": "Yes",
-   "token": "99200773505710549983358119162500601327044006694048336305035218373368421360681",
-   "shares": 13.88888888888889,
-   "entry": 0.72,
-   "cost": 10.0,
-   "opened": 1792753831.5905488,
-   "opened_iso": "2026-10-23T11:10:31+00:00",
-   "news": "STOCCARDA-MONCHENGLADBACH: 1 (esatto)",
-   "reason": "pengwin exact: home win",
-   "conf": 1.0,
-   "end": "2026-10-23T18:30:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1792787649.6541862
   },
   {
    "market_id": "5599839",
@@ -169,24 +150,6 @@
    "book_err": false
   },
   {
-   "market_id": "5480999",
-   "question": "Torino FC vs. AC Monza: AC Monza O/U 1.5",
-   "slug": "sea-tor-mon-2026-10-23-team-total-away-1pt5",
-   "outcome": "Over",
-   "token": "63689108341580754959444559842498056235540870602790644997669253860596505775271",
-   "shares": 28.71428571428572,
-   "entry": 0.34825870646766166,
-   "cost": 10.0,
-   "opened": 1792772744.1809554,
-   "opened_iso": "2026-10-23T16:25:44+00:00",
-   "news": "TORINO-MONZA: MULTIGOL 1-3 OSPITE @1.40 (approssimato)",
-   "reason": "pengwin approx: Monza to score \u22651 goal approximated by AC Monza O/U 0.5 Over",
-   "conf": 1.0,
-   "end": "2026-10-23T18:45:00+00:00",
-   "last_bid": 0.19,
-   "book_err": false
-  },
-  {
    "market_id": "5526124",
    "question": "Will Como 1907 win on 2026-10-24?",
    "slug": "sea-com-sas-2026-10-24-com",
@@ -241,13 +204,13 @@
    "book_err": false
   }
  ],
- "closed_count": 31,
- "realized_pnl": 27.39,
+ "closed_count": 33,
+ "realized_pnl": 36.1,
  "pages": {
-  "pending": 132,
+  "pending": 131,
   "picked": 1,
   "traded": 44,
-  "skipped": 135,
+  "skipped": 136,
   "expired": 56
  }
 }
