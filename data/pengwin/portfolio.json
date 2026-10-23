@@ -71,7 +71,7 @@
    "reason": "pengwin exact: home win",
    "conf": 1.0,
    "end": "2026-10-23T18:30:00+00:00",
-   "last_bid": 0.73,
+   "last_bid": 0.72,
    "book_err": false
   },
   {
@@ -179,7 +179,7 @@
    "reason": "pengwin approx: Monza to score \u22651 goal approximated by AC Monza O/U 0.5 Over",
    "conf": 1.0,
    "end": "2026-10-23T18:45:00+00:00",
-   "last_bid": 0.33,
+   "last_bid": 0.31,
    "book_err": false
   },
   {

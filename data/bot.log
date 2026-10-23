@@ -18104,3 +18104,37 @@
 2026-10-23 19:57:16   llm groq-120b: rate limited, skip 32s
 2026-10-23 19:57:16 [pengwin] Barcellona-Real Madrid: no LLM answer (try 10)
 2026-10-23 19:57:19 [pengwin] Siviglia-Osasuna: no Polymarket event (try 10)
+2026-10-23 20:02:02 NEWS [ESPN 0m] Ipswich Town confirmed lineup vs Nottingham Forest: Sasa Lukic, Daizen Maeda ruled out of starting XI [eng.1]
+2026-10-23 20:02:02   skip No :: Will Ipswich Town FC win on 2026-10-23? (low conf 0.62)
+2026-10-23 20:02:03   llm groq-120b: rate limited, skip 143s
+2026-10-23 20:02:03   drop[side] Nottingham Forest confirmed lineup vs Ipswich Town: Ousmane Diomande, Ola Aina ruled out o (ESPN) :: Will Nottingham Forest FC win on 2026-10-23? -> Yes vs fact ruled_out: Ousmane Diomande (Nottingham Forest, soccer), bad
+2026-10-23 20:03:52 indexed 994 markets
+2026-10-23 20:03:53   llm groq-20b: rate limited, skip 218s
+2026-10-23 20:03:53 NEWS [ESPN 16m] Mike Hall Jr. (DT, Cleveland Browns) ruled out: Questionable -> Out [NFL]
+2026-10-23 20:03:53   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-23 20:03:53 NEWS [ESPN 16m] Teven Jenkins (G, Cleveland Browns) ruled out: Questionable -> Out [NFL]
+2026-10-23 20:03:53   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-23 20:05:58   llm groq-120b: rate limited, skip 76s
+2026-10-23 20:08:35   drop[not-key] Ravens HC Jesse Minter Announces Tavius Robinson is Out for the Season (roundtable.io) :: Tavius Robinson: out for season
+2026-10-23 20:10:03   llm groq-120b: rate limited, skip 80s
+2026-10-23 20:10:05 NEWS [ESPN 0m] Alavés confirmed lineup vs Málaga: Jonny, Denis Suárez, Toni Martínez ruled out of starting XI [esp.1]
+2026-10-23 20:10:05   skip No :: Will Deportivo Alavés win on 2026-10-23? (low conf 0.6)
+2026-10-23 20:10:05   llm groq-20b: rate limited, skip 42s
+2026-10-23 20:10:54   drop[unconfirmed] Chicago Bears confirm suspicions about Cole Kmet’s injury, leaving a massive void in the o (Yardbarker) :: injury
+2026-10-23 20:13:13   drop[team-not-named] Ben Johnson: Kmet’s injury is season-ending (NBC Sports) :: Chicago Bears
+2026-10-23 20:13:54 indexed 999 markets
+2026-10-23 20:15:50   llm groq-120b: rate limited, skip 147s
+2026-10-23 20:15:51   drop[1-source] Lamar Jackson Reveals Severity of Ankle Injury, Latest on QB's Status for Ravens vs. Benga (Bleacher Report) :: Lamar Jackson, wait 2nd source
+2026-10-23 20:17:47   drop[not-key] Rashee Rice (hamstring) ruled out for Week 7 (NBC Sports) :: Rashee Rice: hamstring injury
+2026-10-23 20:17:47   llm groq-20b: rate limited, skip 344s
+2026-10-23 20:20:04   llm groq-120b: rate limited, skip 64s
+2026-10-23 20:23:53 indexed 1007 markets
+2026-10-23 20:24:16 NEWS [ESPN 0m] Rashee Rice (WR, Kansas City Chiefs) ruled out: Questionable -> Out [NFL]
+2026-10-23 20:24:16   skip Seahawks :: Chiefs vs. Seahawks (low conf 0.6)
+2026-10-23 20:25:07   llm groq-120b: rate limited, skip 691s
+2026-10-23 20:25:07   llm groq-20b: rate limited, skip 491s
+2026-10-23 20:26:27 [pengwin] INTER-FIORENTINA: no Polymarket event (try 5)
+2026-10-23 20:26:45 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 12)
+2026-10-23 20:26:48 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 12)
+2026-10-23 20:27:08 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 11)
+2026-10-23 20:27:11 [pengwin] Siviglia-Osasuna: no Polymarket event (try 11)
