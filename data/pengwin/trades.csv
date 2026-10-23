@@ -77,3 +77,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-23T16:26:02+00:00,BUY,Will SS Lazio win on 2026-10-24?,Yes,10.55,0.7000,7.39,,LAZIO-PARMA: HOME WIN (approssimato) | pengwin approx: closest available bet to home win with opponent zero goals
 2026-10-23T20:44:42+00:00,SELL,Will VfB Stuttgart win on 2026-10-23?,Yes,13.89,0.0000,0.00,-10.00,resolved
 2026-10-23T20:57:08+00:00,SELL,Torino FC vs. AC Monza: AC Monza O/U 1.5,Over,28.71,1.0000,28.71,+18.71,resolved
+2026-10-23T21:18:31+00:00,SELL,Ipswich Town FC vs. Nottingham Forest FC: Nottingham Forest FC O/U 0.5,Over,12.35,1.0000,12.35,+2.35,resolved

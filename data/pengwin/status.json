@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-23T22:57:09",
+ "updated": "2026-10-23T23:27:49",
  "start": 100.0,
- "cash": 28.71,
- "equity": 136.03,
+ "cash": 41.06,
+ "equity": 136.04,
  "open": [
   {
    "market_id": "5597100",
@@ -22,24 +22,6 @@
    "last_bid": 0.52,
    "book_err": false,
    "settle_retry": 1792722170.9616868
-  },
-  {
-   "market_id": "5481059",
-   "question": "Ipswich Town FC vs. Nottingham Forest FC: Nottingham Forest FC O/U 0.5",
-   "slug": "epl-ips-not-2026-10-23-team-total-away-0pt5",
-   "outcome": "Over",
-   "token": "77433384918670164847023172446009865904471554959097774287317835819256354448153",
-   "shares": 12.345679012345679,
-   "entry": 0.81,
-   "cost": 10.0,
-   "opened": 1792753781.7541704,
-   "opened_iso": "2026-10-23T11:09:41+00:00",
-   "news": "IPSWICH TOWN-NOTTINGHAM FOREST: NOTTINGHAM FOREST O/U 0.5 OVER @0.80 (approssimato)",
-   "reason": "pengwin approx: closest to Multigol 1-3 OSPITE",
-   "conf": 1.0,
-   "end": "2026-10-23T19:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false
   },
   {
    "market_id": "5536957",
@@ -204,13 +186,13 @@
    "book_err": false
   }
  ],
- "closed_count": 33,
- "realized_pnl": 36.1,
+ "closed_count": 34,
+ "realized_pnl": 38.45,
  "pages": {
-  "pending": 131,
+  "pending": 130,
   "picked": 1,
   "traded": 44,
-  "skipped": 136,
+  "skipped": 137,
   "expired": 56
  }
 }

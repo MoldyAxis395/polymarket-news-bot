@@ -18296,3 +18296,33 @@
 2026-10-23 22:56:39   llm groq-20b: rate limited, skip 6s
 2026-10-23 22:56:39   drop[no-pick] Six-try Sharks condemn Cardiff to rare home defeat (BBC) :: None
 2026-10-23 22:57:08 [pengwin]   SELL Over @ 1.000 (resolved) pnl +18.71 :: Torino FC vs. AC Monza: AC Monza O/U 1.5
+2026-10-23 22:59:10   llm groq-20b: rate limited, skip 136s
+2026-10-23 23:01:12 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 17)
+2026-10-23 23:01:33   llm groq-20b: rate limited, skip 523s
+2026-10-23 23:01:33 [pengwin] Barcellona-Real Madrid: no LLM answer (try 16)
+2026-10-23 23:01:35 [pengwin] Siviglia-Osasuna: no Polymarket event (try 16)
+2026-10-23 23:04:13 indexed 976 markets
+2026-10-23 23:06:43   llm groq-120b: rate limited, skip 185s
+2026-10-23 23:06:43   drop[no-pick] Greg Newsome II (CB, New York Giants) ruled out: Questionable -> Out [NFL] (ESPN) :: None
+2026-10-23 23:10:26   drop[kind] Leipzig Face Nkunku Injury Scare Ahead Of Elversberg Clash (roundtable.io) :: other
+2026-10-23 23:10:59   llm groq-120b: rate limited, skip 914s
+2026-10-23 23:11:00   drop[unconfirmed] African Champions League holders knocked out in second round reut.rs/4ikOY5D (Reuters) :: eliminated
+2026-10-23 23:11:24   llm groq-20b: rate limited, skip 84s
+2026-10-23 23:11:24   drop[no-pick] Wade equals Prem try-scoring record as Newcastle beat Sale (BBC) :: None
+2026-10-23 23:13:28   llm groq-20b: rate limited, skip 411s
+2026-10-23 23:14:14 indexed 977 markets
+2026-10-23 23:18:31 [pengwin]   book error Ipswich Town FC vs. Nottingham Forest FC: Nottingh: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=77433384918670164847023172446009865904471554959097774287317835819256354448153
+2026-10-23 23:18:31 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.35 :: Ipswich Town FC vs. Nottingham Forest FC: Nottingham Forest FC O/U 0.5
+2026-10-23 23:21:23   drop[not-key] Tyler Bilodeau (F, Brooklyn Nets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Tyler Bilodeau: injury
+2026-10-23 23:22:02   llm groq-20b: rate limited, skip 173s
+2026-10-23 23:22:02   drop[no-pick] Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month (Reuters) :: None
+2026-10-23 23:24:17 indexed 976 markets
+2026-10-23 23:25:19   drop[kind] Canadian dollar hits five-week high as data supports rate hike bets reut.rs/4iBHVGW (Reuters) :: other
+2026-10-23 23:25:26   drop[not-key] Talanoa Hufanga (S, Denver Broncos) ruled out: Doubtful -> Out [NFL] (ESPN) :: Talanoa Hufanga: injury
+2026-10-23 23:25:26   llm groq-20b: rate limited, skip 525s
+2026-10-23 23:25:26 NEWS [ESPN 7m] Chazz Surratt (LB, Seattle Seahawks) ruled out: Questionable -> Out [NFL]
+2026-10-23 23:25:26   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-23 23:25:26 NEWS [ESPN 7m] Drake Thomas (LB, Seattle Seahawks) ruled out: Questionable -> Out [NFL]
+2026-10-23 23:25:26   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-23 23:26:53   drop[1-source] Report: 3 Lakers ruled out, Collin Sexton to make debut vs. Clippers (Lakers Daily) :: Los Angeles Lakers, wait 2nd source
+2026-10-23 23:27:30   drop[not-key] Ben Sheppard (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Ben Sheppard: left knee soreness
