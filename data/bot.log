@@ -17769,3 +17769,51 @@
 2026-10-23 13:11:47 [pengwin]   BUY Over @ 0.750 x13.3 ($10.00) :: RC Celta de Vigo vs. Real Betis Balompié: RC Celta de Vigo O/U 0.5
 2026-10-23 13:11:50   llm groq-20b: rate limited, skip 20s
 2026-10-23 13:11:50 [pengwin] Real Sociedad-Levante: no LLM answer (try 1)
+2026-10-23 13:12:35   drop[kind] At least one dead and four injured in Paris suburb shooting (BBC) :: other
+2026-10-23 13:17:22   drop[unconfirmed] Harrogate Town’s Morgan Williams 'unlikely' to recover from injury in time to face Sutton  (Harrogate Advertiser) :: unlikely to recover in time for upcoming match
+2026-10-23 13:17:52 indexed 982 markets
+2026-10-23 13:27:51 indexed 970 markets
+2026-10-23 13:28:43   drop[1-source] Injured Ishan Kishan ruled out as India eye Vaibhav Sooryavanshi (Newsband) :: Ishan Kishan, wait 2nd source
+2026-10-23 13:28:43   drop[1-source] Mpumalanga principal suspended after arrest over alleged sexual assault of 11-year-old (The Citizen) :: Mpumalanga, wait 2nd source
+2026-10-23 13:28:44   drop[team-not-named] A Potential Break For Vaibhav Sooryavanshi As Ishan Kishan's Injury Raises Questions (Dailyhunt) :: Chennai Super Kings
+2026-10-23 13:31:01   llm groq-120b: rate limited, skip 214s
+2026-10-23 13:31:01   drop[team-not-named] Jepchirchir provisionally suspended (Abbott World Marathon Majors) :: Kenya national athletics team
+2026-10-23 13:33:21   drop[unconfirmed] Report: Jaguars left tackle to miss remainder of season with knee injury (Jaguars Wire) :: knee injury
+2026-10-23 13:35:54   llm groq-120b: rate limited, skip 245s
+2026-10-23 13:35:55   drop[no-pick] India's IndusInd Bank beats profit estimate on loan growth, asset quality boost reut.rs/47 (Reuters) :: short
+2026-10-23 13:35:55   drop[kind] Man who suffered serious brain injury hoping for new lease of life with DJ career (Northampton Chronicle and Echo) :: other
+2026-10-23 13:35:56   drop[team-not-named] High flying Peres Jepchirchir suspended for doping (Dailysport.co.ke) :: Kenya
+2026-10-23 13:37:54 indexed 976 markets
+2026-10-23 13:37:59   drop[1-source] Heavy equipment company penalized for workplace injury in Fort McMurray (constructconnect.com) :: Heavy equipment company, wait 2nd source
+2026-10-23 13:40:03   llm groq-120b: rate limited, skip 563s
+2026-10-23 13:40:06   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-23 13:40:06 [pengwin] ARSENAL-EVERTON: no LLM answer (try 2)
+2026-10-23 13:40:08 [pengwin] skip CHELSEA-TOTTENHAM [Both teams at least 2 cards]: No card market available in Polymarket
+2026-10-23 13:40:13 [pengwin] skip CRYSTAL PALACE-NEWCASTLE [1X double chance]: no matching market
+2026-10-23 13:40:16   llm groq-20b: rate limited, skip 3s
+2026-10-23 13:40:16 [pengwin] HULL CITY-BRENTFORD: no LLM answer (try 2)
+2026-10-23 13:40:18 [pengwin] LIVERPOOL-BRIGHTON: no LLM answer (try 2)
+2026-10-23 13:40:24   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-23 13:40:24 [pengwin] MANCHESTER UNITED-BOURNEMOUTH: no LLM answer (try 2)
+2026-10-23 13:40:26   llm groq-20b: rate limited, skip 7s
+2026-10-23 13:40:26 [pengwin] SUNDERLAND-LEEDS UNITED: no LLM answer (try 2)
+2026-10-23 13:40:49 [pengwin] skip MAINZ-WERDER BREMA [12]: no half-time/full-time market
+2026-10-23 13:40:52   llm groq-20b: rate limited, skip 4s
+2026-10-23 13:40:52 [pengwin] AUGSBURG-UNION BERLINO: no LLM answer (try 2)
+2026-10-23 13:41:07 [pengwin]   BUY Yes @ 0.650 x15.4 ($10.00) :: BV Borussia 09 Dortmund vs. Eintracht Frankfurt: Both Teams to Score
+2026-10-23 13:41:11 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 2)
+2026-10-23 13:41:13   llm groq-20b: rate limited, skip 13s
+2026-10-23 13:41:13 [pengwin] LIPSIA-ELVERSBERG: no LLM answer (try 2)
+2026-10-23 13:41:16 [pengwin] HOFFENHEIM-BAYER LEVERKUSEN: no LLM answer (try 2)
+2026-10-23 13:41:37   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-23 13:41:37 [pengwin] FRIBURGO-BAYERN MONACO: no LLM answer (try 2)
+2026-10-23 13:41:40   llm groq-20b: rate limited, skip 1s
+2026-10-23 13:41:40 [pengwin] Vallecano-Elche: no LLM answer (try 2)
+2026-10-23 13:41:44 [pengwin]   BUY Over @ 0.810 x12.3 ($10.00) :: Real Racing Club vs. RCD Espanyol de Barcelona: Real Racing Club O/U 0.5
+2026-10-23 13:41:47   llm groq-20b: rate limited, skip 18s
+2026-10-23 13:41:47 [pengwin] Valencia-Villarreal: no LLM answer (try 2)
+2026-10-23 13:41:49 [pengwin] Atletico Madrid-Deportivo: no LLM answer (try 2)
+2026-10-23 13:41:52 [pengwin] Athletic Bilbao-Getafe: no LLM answer (try 2)
+2026-10-23 13:41:55 [pengwin] Real Sociedad-Levante: no LLM answer (try 2)
+2026-10-23 13:41:58 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 1)
+2026-10-23 13:42:01 [pengwin] Siviglia-Osasuna: no Polymarket event (try 1)
