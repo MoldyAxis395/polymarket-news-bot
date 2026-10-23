@@ -18074,3 +18074,33 @@
 2026-10-23 19:26:50 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 10)
 2026-10-23 19:27:11 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 9)
 2026-10-23 19:27:13 [pengwin] Siviglia-Osasuna: no Polymarket event (try 9)
+2026-10-23 19:32:44   drop[not-key] Tavius Robinson (LB, Baltimore Ravens) ruled out: Questionable -> Out [NFL] (ESPN) :: Tavius Robinson: injury
+2026-10-23 19:33:34 indexed 1013 markets
+2026-10-23 19:33:39   llm groq-20b: rate limited, skip 277s
+2026-10-23 19:34:46   drop[not-key] Pavel Mintyukov (D, Anaheim Ducks) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Pavel Mintyukov: ruled out with injury
+2026-10-23 19:35:47   drop[not-key] Michael Jerrell (OT, Atlanta Falcons) ruled out: Questionable -> Out [NFL] (ESPN) :: Michael Jerrell: ruled out due to injury
+2026-10-23 19:35:47   llm groq-120b: rate limited, skip 44s
+2026-10-23 19:35:47 NEWS [ESPN 15m] Billy Bowman Jr. (CB, Atlanta Falcons) ruled out: Questionable -> Out [NFL]
+2026-10-23 19:35:47   skip 49ers :: 49ers vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-23 19:35:47 NEWS [ESPN 15m] Divine Deablo (LB, Atlanta Falcons) ruled out: Questionable -> Out [NFL]
+2026-10-23 19:35:47   skip 49ers :: 49ers vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-23 19:40:33   drop[1-source] Packers need Ty'Ron Hopper now more than ever after Zaire Franklin's practice injury (Lombardi Ave) :: Zaire Franklin, wait 2nd source
+2026-10-23 19:42:51   llm groq-120b: rate limited, skip 602s
+2026-10-23 19:42:52   drop[team-not-named] Sauce Gardner, Tyler Warren, Anthony Gould ruled out for Colts-Vikings (NBC Sports) :: Colts
+2026-10-23 19:42:54   drop[no-market] Jeremiyah Love (ankle) ruled out vs. Broncos (NBC Sports) :: Denver Broncos
+2026-10-23 19:43:32 indexed 1001 markets
+2026-10-23 19:45:09   llm groq-20b: rate limited, skip 409s
+2026-10-23 19:53:34 indexed 1002 markets
+2026-10-23 19:54:25   llm groq-120b: rate limited, skip 82s
+2026-10-23 19:54:25   llm groq-20b: rate limited, skip 423s
+2026-10-23 19:56:23   llm groq-120b: rate limited, skip 50s
+2026-10-23 19:56:23 [pengwin] INTER-FIORENTINA: no LLM answer (try 4)
+2026-10-23 19:56:26 [pengwin] ATALANTA-FROSINONE: no LLM answer (try 4)
+2026-10-23 19:56:29 [pengwin] GENOA-VENEZIA: no LLM answer (try 4)
+2026-10-23 19:56:31 [pengwin] LECCE-JUVENTUS: no LLM answer (try 4)
+2026-10-23 19:56:34 [pengwin] UDINESE-MILAN: no LLM answer (try 4)
+2026-10-23 19:56:53 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 11)
+2026-10-23 19:56:55 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 11)
+2026-10-23 19:57:16   llm groq-120b: rate limited, skip 32s
+2026-10-23 19:57:16 [pengwin] Barcellona-Real Madrid: no LLM answer (try 10)
+2026-10-23 19:57:19 [pengwin] Siviglia-Osasuna: no Polymarket event (try 10)
