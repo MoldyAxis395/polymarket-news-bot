@@ -18036,3 +18036,41 @@
 2026-10-23 18:57:08 [pengwin] Siviglia-Osasuna: no Polymarket event (try 8)
 2026-10-23 18:57:36 NEWS [ESPN 49m] Tyler Warren (TE, Indianapolis Colts) ruled out: Questionable -> Out [NFL]
 2026-10-23 18:57:36   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-23 18:58:53   drop[team-not-named] Saka Workload To Be Managed After Injury Setback, Says Arterta (Channels Television) :: Arsenal
+2026-10-23 19:01:42   drop[unconfirmed] Jaelan Phillips (LB, Carolina Panthers) ruled out: Doubtful -> Out [NFL] (ESPN) :: hamstring injury
+2026-10-23 19:03:27 indexed 1028 markets
+2026-10-23 19:03:31   drop[kind] Blackhawks have a $75 million problem that goes beyond Connor Bedard's injury (Da Windy City) :: other
+2026-10-23 19:03:32   drop[1-source] Emi Martinez out! Chelsea star undergoes surgery as Xabi Alonso confirms extended injury l (Goal.com) :: Emi Martinez, wait 2nd source
+2026-10-23 19:04:43   llm groq-120b: rate limited, skip 286s
+2026-10-23 19:04:44   drop[not-key] Thomas Incoom (LB, Carolina Panthers) ruled out: Questionable -> Out [NFL] (ESPN) :: Thomas Incoom: injury
+2026-10-23 19:08:06   drop[not-key] Tyler Warren Ruled out for Sunday's game (Fantasy Footballers Podcast) :: Tyler Warren: injury
+2026-10-23 19:08:07   drop[1-source] What Cole Kmet's Knee Injury Means for the Lions (Detroit Sports Nation) :: Cole Kmet, wait 2nd source
+2026-10-23 19:08:47   llm groq-20b: rate limited, skip 164s
+2026-10-23 19:08:47 NEWS [ESPN 13m] Emeka Egbuka (WR, Tampa Bay Buccaneers) ruled out: Doubtful -> Out [NFL]
+2026-10-23 19:08:47   skip No :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-23 19:08:47   skip No :: Will there be a run scored in the first inning?: Tampa Bay Rays vs. Mi (rules fallback, LLM down (not traded))
+2026-10-23 19:08:47   skip Panthers :: Buccaneers vs. Panthers (rules fallback, LLM down (not traded))
+2026-10-23 19:10:46   drop[kind] Former Conservative campaign chief among three given suspended sentences for betting on ge (Racing Post) :: other
+2026-10-23 19:12:41   drop[kind] Bucky Irving Avoids injury designation (Fantasy Footballers Podcast) :: other
+2026-10-23 19:12:41   llm groq-120b: rate limited, skip 193s
+2026-10-23 19:12:41   llm groq-20b: rate limited, skip 17s
+2026-10-23 19:13:28 indexed 1018 markets
+2026-10-23 19:15:05   drop[kind] NYSNA nurses demand reinstatement of suspended Kings County Hospital union nurse (Brooklyn Paper) :: other
+2026-10-23 19:17:24   drop[1-source] Falcons injury report: RB Brian Robinson, LB Divine Deablo ruled out vs. 49ers (Atlanta Falcons) :: Atlanta Falcons, wait 2nd source
+2026-10-23 19:18:58   llm groq-120b: rate limited, skip 132s
+2026-10-23 19:18:59   drop[no-pick] Brian Robinson Jr. (RB, Atlanta Falcons) ruled out: Questionable -> Out [NFL] (ESPN) :: no outcome should rise
+2026-10-23 19:19:53   llm groq-20b: rate limited, skip 11s
+2026-10-23 19:23:32 indexed 1019 markets
+2026-10-23 19:23:34   llm groq-120b: rate limited, skip 621s
+2026-10-23 19:23:35   drop[side] Antoine Winfield Jr. (S, Tampa Bay Buccaneers) ruled out: Questionable -> Out [NFL] (ESPN) :: Buccaneers vs. Panthers -> Buccaneers vs fact ruled_out: Antoine Winfield Jr. (Tampa Bay Buccaneers, nfl), bad for Tampa
+2026-10-23 19:23:35   drop[not-key] Luke Goedeke (OT, Tampa Bay Buccaneers) ruled out: Questionable -> Out [NFL] (ESPN) :: Luke Goedeke: injury
+2026-10-23 19:26:18   llm groq-20b: rate limited, skip 250s
+2026-10-23 19:26:18 [pengwin] INTER-FIORENTINA: no Polymarket event (try 3)
+2026-10-23 19:26:21 [pengwin] ATALANTA-FROSINONE: no LLM answer (try 3)
+2026-10-23 19:26:23 [pengwin] GENOA-VENEZIA: no LLM answer (try 3)
+2026-10-23 19:26:26 [pengwin] LECCE-JUVENTUS: no LLM answer (try 3)
+2026-10-23 19:26:29 [pengwin] UDINESE-MILAN: no LLM answer (try 3)
+2026-10-23 19:26:48 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 10)
+2026-10-23 19:26:50 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 10)
+2026-10-23 19:27:11 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 9)
+2026-10-23 19:27:13 [pengwin] Siviglia-Osasuna: no Polymarket event (try 9)

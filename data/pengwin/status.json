@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-23T18:57:36",
+ "updated": "2026-10-23T19:27:41",
  "start": 100.0,
  "cash": 0.0,
- "equity": 124.21,
+ "equity": 124.35,
  "open": [
   {
    "market_id": "5597100",
@@ -92,7 +92,7 @@
    "reason": "pengwin approx: represents home team scoring at least 1 goal, closest to Multigol 1-3 casa",
    "conf": 1.0,
    "end": "2026-10-25T15:15:00+00:00",
-   "last_bid": 0.7,
+   "last_bid": 0.71,
    "book_err": false
   },
   {
