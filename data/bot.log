@@ -17676,3 +17676,20 @@
 2026-10-23 09:50:25   drop[kind] 50m yuan set for quake relief as injury toll mounts (RTHK News) :: other
 2026-10-23 09:52:39 indexed 989 markets
 2026-10-23 09:55:17   drop[1-source] Derby County man returns to training ahead of Sheffield United clash (The72) :: Derby County, wait 2nd source
+2026-10-23 09:57:24   drop[kind] Roscommon Injury Unit providing 'enormous support' to other hospitals - Minister (Shannonside.ie) :: other
+2026-10-23 09:59:43   drop[1-source] Rajasthan High Court lets convict with suspended sentence seek passport renewal, impleads  (The PinkCity Post) :: Union of India, wait 2nd source
+2026-10-23 09:59:43   llm groq-120b: rate limited, skip 135s
+2026-10-23 09:59:43   drop[1-source] Baleshwar Minor Girl Rape and Murder: Nampo Outpost OIC Suspended, Jaleswar IIC Transferre (Pragativadi) :: Nampo Outpost, wait 2nd source
+2026-10-23 10:02:40 indexed 989 markets
+2026-10-23 10:04:32   drop[not-key] Barcelona continue keeping tabs on Eli Junior Kroupi, who is back from injury (Barca Blaugranes) :: Eli Junior Kroupi: player is back from injury
+2026-10-23 10:06:35   llm groq-120b: rate limited, skip 9s
+2026-10-23 10:06:36   drop[unconfirmed] Dani Olmo's Tests Confirm Him To Be Out For Four Weeks After Sustaining Abductor Tear Agai (Sportscape Magazine) :: abductor tear
+2026-10-23 10:06:36   drop[not-key] Man Utd next manager: Wilcox reaches decision on Carrick replacement as top pair ruled out (Football365) :: Wilcox: Decision on Carrick replacement reached
+2026-10-23 10:08:55   drop[1-source] Saudi Arabia Postpones UN World Data Forum to 2027 as Houthi Strikes Mount (The Eastern Herald) :: Saudi Arabia, wait 2nd source
+2026-10-23 10:08:55   llm groq-120b: rate limited, skip 151s
+2026-10-23 10:08:55   drop[team-not-named] Ayush Mhatre undergoes surgery for hamstring injury (Mid-Day) :: Mumbai City FC
+2026-10-23 10:11:13   drop[1-source] Chelsea Injury News vs Tottenham: Martinez and James Out, Chavarria a Doubt as Gusto Retur (chelseafconline.com) :: Gusto, wait 2nd source
+2026-10-23 10:12:43 indexed 987 markets
+2026-10-23 10:16:49   drop[kind] Volvo Cars plunges 29% as CEO says China sales slump came 'faster than we thought' (CNBC) :: other
+2026-10-23 10:22:41 indexed 980 markets
+2026-10-23 10:24:58 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
