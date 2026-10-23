@@ -18163,3 +18163,23 @@
 2026-10-23 20:57:40 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 13)
 2026-10-23 20:57:42 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 13)
 2026-10-23 20:58:03 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 12)
+2026-10-23 20:58:05 [pengwin] Siviglia-Osasuna: no Polymarket event (try 12)
+2026-10-23 21:01:55   llm groq-120b: rate limited, skip 218s
+2026-10-23 21:01:56   drop[kind] Driver escapes serious injury in collision with train (River Country News Channel Nebraska) :: other
+2026-10-23 21:03:58 indexed 1001 markets
+2026-10-23 21:04:03   llm groq-20b: rate limited, skip 172s
+2026-10-23 21:06:20   drop[1-source] Top Edmonton Oilers goalie Devon Levi now out with injury (Edmonton Journal) :: Devon Levi, wait 2nd source
+2026-10-23 21:11:08   drop[kind] Rams WR Puka Nacua questionable vs. Raiders with calf injury (Orange County Register) :: other
+2026-10-23 21:13:13   drop[kind] Lamar Jackson Explains What’s Going on With His Ankle Injury (Baltimore Ravens) :: other
+2026-10-23 21:13:13   llm groq-120b: rate limited, skip 190s
+2026-10-23 21:13:14   drop[unconfirmed] Vikings RB "Technically Questionable" for Week 7 (Minnesota Sports Fan) :: questionable
+2026-10-23 21:13:59 indexed 985 markets
+2026-10-23 21:15:36   drop[1-source] Ravens sack leader Tavius Robinson ruled out for season with injury (Capital Gazette) :: Tavius Robinson, wait 2nd source
+2026-10-23 21:16:02   llm groq-20b: rate limited, skip 35s
+2026-10-23 21:16:02 NEWS [ESPN 13m] Devon Levi (G, Edmonton Oilers) ruled out: healthy -> Out [NHL]
+2026-10-23 21:16:02   skip Maple Leafs :: Maple Leafs vs. Oilers (rules fallback, LLM down (not traded))
+2026-10-23 21:20:29   llm groq-120b: rate limited, skip 491s
+2026-10-23 21:20:29   drop[not-key] Falcons RB Brian Robinson ruled out vs. 49ers; AJ Terrell questionable (The Falcoholic) :: Brian Robinson: injury
+2026-10-23 21:20:29   llm groq-20b: rate limited, skip 84s
+2026-10-23 21:23:59 indexed 981 markets
+2026-10-23 21:24:04   drop[team-not-named] Mike Evans Injury: Not spotted at practice Friday (RotoWire) :: Tampa Bay Buccaneers
