@@ -18138,3 +18138,28 @@
 2026-10-23 20:26:48 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 12)
 2026-10-23 20:27:08 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 11)
 2026-10-23 20:27:11 [pengwin] Siviglia-Osasuna: no Polymarket event (try 11)
+2026-10-23 20:33:55 indexed 998 markets
+2026-10-23 20:34:15   drop[kind] Potential Injury Inactives for Colorado Buffaloes vs. Oklahoma State (Sports Illustrated) :: other
+2026-10-23 20:34:15   drop[not-key] Baker Mayfield set to start for Bucs' Week 7 game vs. Panthers; WR Emeka Egbuka ruled out  (Yahoo Sports) :: Emeka Egbuka: concussion
+2026-10-23 20:36:17   drop[team-not-named] Ben Johnson shares heartbreaking news on Cole Kmet injury (Sporting News) :: Chicago Bears
+2026-10-23 20:38:37   drop[1-source] Chicago Bears TE Cole Kmet will miss the rest of season with a knee injury: ‘It stinks. I  (Daily Herald) :: Cole Kmet, wait 2nd source
+2026-10-23 20:40:05   drop[not-key] Nate Landman (LB, Los Angeles Rams) ruled out: Questionable -> Out [NFL] (ESPN) :: Nate Landman: injury
+2026-10-23 20:40:54   drop[1-source] Olympic and world champion Peres Jepchirchir of Kenya suspended for doping (Athletics Illustrated) :: Peres Jepchirchir, wait 2nd source
+2026-10-23 20:43:59 indexed 1001 markets
+2026-10-23 20:45:36   drop[kind] Local hospitals hoping Jalen Hurts’ injury raises awareness of blood clot risks (The Citizens' Voice) :: other
+2026-10-23 20:45:37   drop[1-source] Buccaneers | Emeka Egbuka ruled out for Sunday after Bowles called him ‘doubtful but leani (Fantasy Guru) :: Emeka Egbuka, wait 2nd source
+2026-10-23 20:47:52   drop[team-not-named] Puka Nacua, Trent McDuffie questionable, Nate Landman ruled out for Week 7 (NBC Sports) :: New York Giants
+2026-10-23 20:50:10   llm groq-120b: rate limited, skip 26s
+2026-10-23 20:50:11   drop[unconfirmed] Bears tight end Cole Kmet will miss the remainder of the season with a serious knee injury (Audacy) :: serious knee injury
+2026-10-23 20:52:39   drop[not-key] Jaydn Ott gets unexpected Chiefs opportunity after Brashard Smith injury (Arrowhead Addict) :: Brashard Smith: Smith injured, making him unavailable
+2026-10-23 20:53:57 indexed 996 markets
+2026-10-23 20:54:47   llm groq-120b: rate limited, skip 58s
+2026-10-23 20:54:48 NEWS [Yahoo Sports 5m] Arsenal star returns to training ahead of Everton clash
+2026-10-23 20:54:48   skip Yes :: Will Arsenal FC win on 2026-10-24? (low conf 0.6)
+2026-10-23 20:57:05   llm groq-120b: rate limited, skip 207s
+2026-10-23 20:57:05   drop[no-pick] Chicago Bears TE Cole Kmet out for season after injury against New England Patriots, coach (ABC7 Chicago) :: short
+2026-10-23 20:57:05   llm groq-20b: rate limited, skip 86s
+2026-10-23 20:57:21 [pengwin] INTER-FIORENTINA: no Polymarket event (try 6)
+2026-10-23 20:57:40 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 13)
+2026-10-23 20:57:42 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 13)
+2026-10-23 20:58:03 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 12)
