@@ -17601,3 +17601,18 @@
 2026-10-23 04:05:34   drop[kind] Star player hoping for good news 'after I couldn't do a push-up' with injury (The Border Mail) :: other
 2026-10-23 04:07:48 indexed 998 markets
 2026-10-23 04:10:57   drop[not-key] Igor Chernyshov (LW, San Jose Sharks) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Igor Chernyshov: injury
+2026-10-23 04:12:50 [pengwin]   book error AS Monaco FC vs. Lille OSC: O/U 2.5: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-23 04:17:47 indexed 1000 markets
+2026-10-23 04:21:52 NEWS [Boston 25 News 4m] Two Massachusetts State Troopers suspended in connection with Oak Bluffs incident
+2026-10-23 04:21:52   skip Yes :: Will the Democratic Party candidate win the 2026 Massachusetts Senate  (low conf 0.6)
+2026-10-23 04:21:52   llm groq-120b: rate limited, skip 22s
+2026-10-23 04:21:52   drop[1-source] Lakers vs. Clippers Injury Report: 7 Players Ruled Out For LA Showdown (Fadeaway World) :: Los Angeles Lakers, wait 2nd source
+2026-10-23 04:24:00   drop[1-source] Jordan Love upgraded to full participant in Packers' Thursday injury report (Lions Wire) :: Jordan Love, wait 2nd source
+2026-10-23 04:27:48 indexed 993 markets
+2026-10-23 04:33:20   drop[kind] Gravesend RNLI Rescues Sailor With Severe Head Injury (UKNIP) :: other
+2026-10-23 04:37:48 indexed 992 markets
+2026-10-23 04:39:18 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-23 04:39:27   drop[kind] Hundreds of flights cancelled across East Asia as Typhoon Champi roars toward Taiwan (BBC) :: other
+2026-10-23 04:40:25   drop[kind] Another Multi-Crore Tender Fraud Case Registered Against Suspended IAS Officer Abhishek Ch (TRIPURAINFO) :: other
+2026-10-23 04:40:25   llm groq-120b: rate limited, skip 193s
+2026-10-23 04:40:26   drop[1-source] Blues Face Tough Roster Decisions as Defensemen Return from Injury (SSBCrack) :: St. Louis Blues, wait 2nd source
