@@ -1,5 +1,5 @@
 {
- "cash": 57.387956899849144,
+ "cash": 47.387956899849144,
  "positions": [
   {
    "market_id": "5597100",
@@ -107,7 +107,8 @@
    "reason": "pengwin approx: replicates GOAL leg of combo",
    "conf": 1.0,
    "end": "2026-10-24T16:30:00+00:00",
-   "last_bid": null
+   "last_bid": 0.63,
+   "book_err": false
   },
   {
    "market_id": "5540216",
@@ -124,6 +125,24 @@
    "reason": "pengwin approx: home team over 0.5 approximates Multigol 1-3 casa",
    "conf": 1.0,
    "end": "2026-10-24T14:15:00+00:00",
+   "last_bid": 0.8,
+   "book_err": false
+  },
+  {
+   "market_id": "5537142",
+   "question": "FC Augsburg vs. 1. FC Union Berlin: O/U 1.5",
+   "slug": "bun-aug-uni-2026-10-24-total-1pt5",
+   "outcome": "Over",
+   "token": "42344172169893864495884793134204496090209988363446712650007416688338510236432",
+   "shares": 11.764705882352942,
+   "entry": 0.85,
+   "cost": 10.0,
+   "opened": 1792757454.9307513,
+   "opened_iso": "2026-10-23T12:10:54+00:00",
+   "news": "AUGSBURG-UNION BERLINO: OVER 1.5 (approssimato)",
+   "reason": "pengwin approx: replicates Over 1.5 leg",
+   "conf": 1.0,
+   "end": "2026-10-24T13:30:00+00:00",
    "last_bid": null
   }
  ],

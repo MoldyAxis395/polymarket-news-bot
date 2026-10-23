@@ -17817,3 +17817,45 @@
 2026-10-23 13:41:55 [pengwin] Real Sociedad-Levante: no LLM answer (try 2)
 2026-10-23 13:41:58 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 1)
 2026-10-23 13:42:01 [pengwin] Siviglia-Osasuna: no Polymarket event (try 1)
+2026-10-23 13:42:38   drop[team-not-named] Peres Jepchirchir, Olympic and world marathon champ, provisionally suspended in doping cas (NBC Sports) :: Kenya national athletics team
+2026-10-23 13:45:06   drop[team-not-named] Athletics-Olympic champion Jepchirchir provisionally suspended by AIU over EPO finding (WKZO) :: Kenya national athletics team
+2026-10-23 13:45:07   drop[team-not-named] Olympic champion Jepchirchir provisionally suspended over EPO finding (Irish Independent) :: Kenya
+2026-10-23 13:45:08   drop[kind] Cody Rhodes Opens Up About Lingering Effects Of WrestleMania Injury (PWMania) :: other
+2026-10-23 13:47:14   drop[team-not-named] World marathon champion Peres Jepchirchir suspended for doping: AIU (Yahoo) :: Kenya
+2026-10-23 13:47:53 indexed 974 markets
+2026-10-23 13:57:56 indexed 970 markets
+2026-10-23 13:59:33   drop[kind] Volvo Cars plunges 26% as CEO says China sales slump came 'faster than we thought' (CNBC) :: other
+2026-10-23 14:01:07   drop[team-not-named] Kenyan Marathon Champion Peres Jepchirchir Provisionaly Suspended for Doping Violation (SSBCrack) :: Kenya
+2026-10-23 14:03:38   drop[1-source] Bears Lose Key Skill-Position Players to Injury in Costly Win Over Patriots (Sports Illustrated) :: Chicago Bears, wait 2nd source
+2026-10-23 14:03:38   drop[1-source] Eagles’ DeVonta Smith Problem Returns Before Cowboys Game (heavy.com) :: DeVonta Smith, wait 2nd source
+2026-10-23 14:03:39   drop[kind] Steelers' T.J. Watt dealing with surprise injury before Week 7 Paris game vs. Saints | See (Facebook) :: other
+2026-10-23 14:03:39   drop[team-not-named] Peres Jepchirchir: Women's world marathon provisionally suspended for doping (BBC) :: Kenya
+2026-10-23 14:03:40   llm groq-120b: rate limited, skip 178s
+2026-10-23 14:03:41   drop[team-not-named] World marathon champion Peres Jepchirchir suspended for doping (Citizen Digital) :: Kenya national athletics team
+2026-10-23 14:07:57 indexed 1097 markets
+2026-10-23 14:08:02   drop[kind] Ebrima Tunkara called up to Barcelona training ahead of El Clasico after Dani Olmo injury (Barca Blaugranes) :: other
+2026-10-23 14:10:16   llm groq-120b: rate limited, skip 766s
+2026-10-23 14:10:19   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-23 14:10:19 [pengwin] ARSENAL-EVERTON: no LLM answer (try 3)
+2026-10-23 14:10:20   drop[kind] Steelers don’t expect T.J. Watt’s calf injury to affect Sunday availability (NBC Sports) :: other
+2026-10-23 14:10:21   drop[1-source] Injury strikes down Venom guard (WNBL Australia) :: Venom, wait 2nd source
+2026-10-23 14:10:22 [pengwin] skip HULL CITY-BRENTFORD [Casa Over 1.5 Cartellini]: no matching market
+2026-10-23 14:10:26 [pengwin] skip LIVERPOOL-BRIGHTON [GOAL]: no matching market
+2026-10-23 14:10:29   llm groq-20b: rate limited, skip 2s
+2026-10-23 14:10:29 [pengwin] MANCHESTER UNITED-BOURNEMOUTH: no Polymarket event (try 3)
+2026-10-23 14:10:32   llm groq-20b: rate limited, skip 11s
+2026-10-23 14:10:32 [pengwin] SUNDERLAND-LEEDS UNITED: no LLM answer (try 3)
+2026-10-23 14:10:54 [pengwin]   BUY Over @ 0.850 x11.8 ($10.00) :: FC Augsburg vs. 1. FC Union Berlin: O/U 1.5
+2026-10-23 14:11:08 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 3)
+2026-10-23 14:11:11   llm groq-20b: rate limited, skip 7s
+2026-10-23 14:11:11 [pengwin] LIPSIA-ELVERSBERG: no LLM answer (try 3)
+2026-10-23 14:11:14 [pengwin] HOFFENHEIM-BAYER LEVERKUSEN: no LLM answer (try 3)
+2026-10-23 14:11:34 [pengwin] skip FRIBURGO-BAYERN MONACO [X2 + GOAL]: no single Polymarket market covers both the X2 (draw or away win) and the GOAL (both teams to score) legs
+2026-10-23 14:11:39 [pengwin] skip Vallecano-Elche [1X]: double chance mapped to YES: Will Rayo Vallecano de Madrid win on 2026-10-24?
+2026-10-23 14:11:42   llm groq-20b: rate limited, skip 734s
+2026-10-23 14:11:42 [pengwin] Valencia-Villarreal: no LLM answer (try 3)
+2026-10-23 14:11:45 [pengwin] Atletico Madrid-Deportivo: no LLM answer (try 3)
+2026-10-23 14:11:47 [pengwin] Athletic Bilbao-Getafe: no LLM answer (try 3)
+2026-10-23 14:11:50 [pengwin] Real Sociedad-Levante: no LLM answer (try 3)
+2026-10-23 14:11:52 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 2)
+2026-10-23 14:11:54 [pengwin] Siviglia-Osasuna: no Polymarket event (try 2)
