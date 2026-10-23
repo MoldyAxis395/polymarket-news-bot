@@ -71,3 +71,7 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-23T11:41:44+00:00,BUY,Real Racing Club vs. RCD Espanyol de Barcelona: Real Racing Club O/U 0.5,Over,12.35,0.8100,10.00,,Racing-Espanyol: HOME O/U 0.5 OVER (approssimato) | pengwin approx: home team over 0.5 approximates Multigol 1-3 casa
 2026-10-23T12:10:54+00:00,BUY,FC Augsburg vs. 1. FC Union Berlin: O/U 1.5,Over,11.76,0.8500,10.00,,AUGSBURG-UNION BERLINO: OVER 1.5 (approssimato) | pengwin approx: replicates Over 1.5 leg
 2026-10-23T12:41:16+00:00,BUY,Will Arsenal FC win on 2026-10-24?,Yes,14.49,0.6900,10.00,,ARSENAL-EVERTON: 1 (approssimato) | pengwin approx: home win leg of 1X
+2026-10-23T16:25:44+00:00,BUY,Torino FC vs. AC Monza: AC Monza O/U 1.5,Over,28.71,0.3483,10.00,,TORINO-MONZA: MULTIGOL 1-3 OSPITE @1.40 (approssimato) | pengwin approx: Monza to score ≥1 goal approximated by AC Monza O/U 0.5 Over
+2026-10-23T16:25:52+00:00,BUY,Will Como 1907 win on 2026-10-24?,Yes,15.15,0.6600,10.00,,COMO-SASSUOLO: 1 (esatto) | pengwin exact: direct home win
+2026-10-23T16:25:57+00:00,BUY,SSC Napoli vs. AS Roma: 1st Half O/U 1.5,Under,14.93,0.6700,10.00,,NAPOLI-ROMA: 1st Half O/U 1.5 Under (esatto) | pengwin exact: replicates base pick
+2026-10-23T16:26:02+00:00,BUY,Will SS Lazio win on 2026-10-24?,Yes,10.55,0.7000,7.39,,LAZIO-PARMA: HOME WIN (approssimato) | pengwin approx: closest available bet to home win with opponent zero goals

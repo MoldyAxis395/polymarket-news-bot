@@ -2053,49 +2053,103 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/torino-monza-statistiche-quote-e-pronostico-2026": {
 "first": 1792672614.7208815,
-"status": "pending",
+"status": "traded",
 "pick": "Si affrontano due squadre che hanno ritrovato fiducia nelle ultime settimane. L'incontro giocato in Coppa Italia (0-1 in favore del Monza) mette in guardia il Torino, che difficilmente uscirà sconfitto dal match. Simeone e Varela, i centravanti delle due formazioni, stanno attraversando un periodo di forma e potrebbero trovare la via della rete. Penso che entrambe le compagini segneranno (l'esito gol quota 1.65): occhio alla combo 1X + gol, a moltiplicatore 2.20. Come pronostico base, invece, sono convinto che il Monza realizzerà almeno un gol e dunque mi affido all'esito multigol ospite 1-3, quotato a 1.40.",
 "match": "TORINO-MONZA",
 "picked_at": 1792760960.940439,
 "tries": 3,
 "llm_fails": 3,
-"why": "no LLM answer"
+"why": "no LLM answer",
+"market": "Torino FC vs. AC Monza: AC Monza O/U 1.5",
+"outcome": "Over",
+"map": "approx"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/cagliari-bologna-statistiche-quote-e-pronostico-2026": {
 "first": 1792672614.7208815,
-"status": "pending"
+"status": "skipped",
+"pick": "Il Cagliari è reduce da un brutto stop maturato a Monza e vuole reagire prontamente, mentre il Bologna è apparso in crescita, nonostante il ko interno con l'Inter. Penso che i sardi proveranno a sfruttare la spinta sulle corsie esterne e in caso di svantaggio nel corso dell'incontro potrebbero accumulare una serie di calci d'angolo. Come pronostico base mi affido all'esito over 3.5 corner casa, quotato a 1.50. Attenzione all'opzione Mendy marcatore, a moltiplicatore alto (3.30).",
+"match": "CAGLIARI-BOLOGNA",
+"picked_at": 1792772571.5288744,
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/como-sassuolo-statistiche-quote-e-pronostico-2026": {
 "first": 1792672614.7208815,
-"status": "pending"
+"status": "traded",
+"pick": "Il Como ha brillato in Champions League, schiantando tra le mura amiche il Manchester United. I lariani hanno ritrovato le sensazioni positive di inizio stagione e sono chiamati a recuperare i punti persi nelle scorse settimane. Il Sassuolo non offre garanzie, soprattutto sul piano difensivo e potrebbe soffrire la qualità di Nico Paz e compagni. Pertanto, mi affido al segno 1, quotato a 1.50, a mio avviso di grande valore.",
+"match": "COMO-SASSUOLO",
+"picked_at": 1792772571.5288744,
+"market": "Will Como 1907 win on 2026-10-24?",
+"outcome": "Yes",
+"map": "exact"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/napoli-roma-statistiche-quote-e-pronostico-2026": {
 "first": 1792672614.7208815,
-"status": "pending"
+"status": "traded",
+"pick": "Il big match del Maradona mette a confronto due formazioni reduci dall'impegno in Champions League. Soprattutto nella prima frazione, prevedo un ritmo non troppo elevato, con una fase di studio e di gestione: la tattica potrebbe prevalere, la posta in palio è alta sia per Allegri sia per Gasperini. Come risultati esatti mi aspetto 1-1/0-1/1-0, mentre la proposta base è rappresentata dall'esito under 1.5 primo tempo, quotato a 1.45.",
+"match": "NAPOLI-ROMA",
+"picked_at": 1792772571.5288744,
+"market": "SSC Napoli vs. AS Roma: 1st Half O/U 1.5",
+"outcome": "Under",
+"map": "exact"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/lazio-parma-statistiche-quote-e-pronostico-2026": {
 "first": 1792672614.7208815,
-"status": "pending"
+"status": "traded",
+"pick": "La Lazio ha impressionato in questo avvio di campionato, soprattutto nell'ultimo turno contro la Juventus. Tuttavia, credo che i biancocelesti abbiano raccolto più di quanto prodotto complessivamente e la sfida con il Parma non è così agevole come sembra: nonostante il doppio ko con Gilardino in panchina, gli emiliani hanno mostrato una leggera crescita, che potrebbe essere confermata all'Olimpico. Come pronostico base mi affido all'esito casa vince a zero NO, a quota 1.70. Come singolo calciatore occhio a Romero: un suo tiro in porta (o del sostituto) è dato a 1.50, di valore",
+"match": "LAZIO-PARMA",
+"picked_at": 1792772571.5288744,
+"market": "Will SS Lazio win on 2026-10-24?",
+"outcome": "Yes",
+"map": "approx"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/inter-fiorentina-statistiche-quote-e-pronostico-2026": {
 "first": 1792672614.7208815,
-"status": "pending"
+"status": "pending",
+"pick": "La Beneamata è reduce dall'ostico impegno infrasettimanale contro lo Shakhtar Donetsk, in cui è emersa chiaramente la volontà di Chivu di gestire le energie. Le sfide tra l'Inter e la Fiorentina storicamente sono sempre intense, ricche di contrasti e di grinta. Arbitra l'incontro Mariani, che vanta una media di quasi quattro cartellini a partita: dunque, mi affido alla combo casa over 0.5 + over 2.5 cartellini, a moltiplicatore 1.45.",
+"match": "INTER-FIORENTINA",
+"picked_at": 1792772571.5288744,
+"tries": 1,
+"why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/atalanta-frosinone-statistiche-quote-e-pronostico-2026": {
 "first": 1792672614.7208815,
-"status": "pending"
+"status": "pending",
+"pick": "Mi aspetto una gara aperta e divertente tra Atalanta e Frosinone: la Dea ha bisogno di una svolta e di conquistare il bottino pieno, mentre i ciociari non cambieranno la propria strategia, offrendo la consueta proposta di gioco offensiva. Pertanto, sono convinto che assisteremo ad almeno una rete in entrambi i tempi: punto sulla combo over 0.5 primo tempo + over 0.5 secondo tempo, a moltiplicatore 1.40. Riflettori puntati su Charles De Ketelaere, determinato a caricarsi la squadra sulle spalle: l'esito gol o assist del belga quota 1.85, a mio avviso di grande valore (in caso di titolarità dell'ex Milan).",
+"match": "ATALANTA-FROSINONE",
+"picked_at": 1792772571.5288744,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/genoa-venezia-statistiche-quote-e-pronostico-2026": {
 "first": 1792672614.7208815,
-"status": "pending"
+"status": "pending",
+"pick": "A Marassi va in scena un confronto fondamentale per entrambe le formazioni. Davanti ai propri sostenitori, il Genoa è chiamato a gestire le chiavi della partita, mentre il Venezia probabilmente agirà di rimessa: infatti, la sostituzione di Stroppa con Nicola ha cambiato anche l'atteggiamento della squadra, apparsa più pragmatica e raccolta. Dunque, come pronostico base preferisco affidarmi all'esito 1 tiri totali, che a moltiplicatore 1.60 credo sia di grande valore (influenzato dalle statistiche registrate dai veneti con l'ex tecnico Stroppa).",
+"match": "GENOA-VENEZIA",
+"picked_at": 1792772571.5288744,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/lecce-juventus-statistiche-quote-e-pronostico-2026": {
 "first": 1792672614.7208815,
-"status": "pending"
+"status": "pending",
+"pick": "La Juventus sta attraversando un periodo complesso, come dimostrano i risultati delle ultime settimane. Le fatiche europee si fanno sentire e potrebbero influenzare l'incontro del Via del mare, al pari delle numerose assenze bianconere. La maggioranza dei recenti precedenti in Salento mostrano gare tirate, con scarto minimo tra le due squadre. Pertanto, decido di puntare sull'1 handicap (1:0), a quota 1.60: ciò significa che il Lecce può vincere, pareggiare o perdere al massimo con un gol di scarto. Occhio anche al segno under 2.5, dopo i numerosi over 2.5 registrati dal Lecce in questo campionato.",
+"match": "LECCE-JUVENTUS",
+"picked_at": 1792772571.5288744,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/udinese-milan-statistiche-quote-e-pronostico-2026": {
 "first": 1792672614.7208815,
-"status": "pending"
+"status": "pending",
+"pick": "Il Milan si presenta a Udine con poca brillantezza, in seguito alla dispendiosa e complessa trasferta giocata a Bournemouth, in Europa League. I friulani, invece, hanno bisogno assoluto di una reazione per interrompere il filotto negativo: non sarei sorpreso nel vedere un risultato favorevole ai bianconeri, con un eventuale ritorno al gol di Davis. Come pronostico base, decido di affidarmi all'esito casa over 0.5, a quota 1.60, quasi lo stesso moltiplicatore della vittoria rossonera (a mio avviso meno probabile).",
+"match": "UDINESE-MILAN",
+"picked_at": 1792772571.5288744,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-b/arezzo-benevento-statistiche-quote-e-pronostico-2026": {
 "first": 1792676238.130249,
@@ -2196,7 +2250,7 @@
 "pick": "Questa è una partita nella quale preferisco dare fiducia alla doppia chance ospite. Il Paderborn può sfruttare il fattore campo, ma l’Amburgo ha le qualità per giocarsela e portare a casa un altro risultato positivo, ed è reduce da tre vittorie consecutive. Esito: X2",
 "match": "PADERBORN-AMBURGO",
 "picked_at": 1792753629.296608,
-"tries": 7,
+"tries": 8,
 "why": "no Polymarket event",
 "llm_fails": 1
 },
@@ -2206,7 +2260,7 @@
 "pick": "Il Lipsia in casa ha iniziato la stagione nel migliore dei modi: tre vittorie su tre, 14 gol segnati e nessuno subito. Numeri che raccontano una squadra capace di creare tantissimo e, allo stesso tempo, di concedere pochissimo davanti al proprio pubblico. L’Elversberg, invece, ha mostrato qualche fragilità difensiva e potrebbe soffrire parecchio la pressione dei padroni di casa. Anche gli ospiti hanno dimostrato di poter essere pericolosi, ma quando si affronta una squadra con questa produzione offensiva il rischio di subire più reti aumenta. Mi aspetto una partita vivace, con il Lipsia in grado di fare la differenza e un totale di gol che può salire rapidamente. Esito: Multigol 2-5 casa",
 "match": "LIPSIA-ELVERSBERG",
 "picked_at": 1792753629.296608,
-"tries": 7,
+"tries": 8,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2361,7 +2415,7 @@
 "pick": "Siamo arrivati alla partita delle partite, il big match della 10° giornata che potrebbe decidere già parte del campionato. Il Barcellona è uno schiacciasassi quasi infermabile, ma, la trasferta con il PSG in Champions, ha evidenziato problemi di tenuta difensiva davanti a squadre di pari livello. Occasione importante quindi per il Real che, nonostante diverse vittorie basate sui colpi dei campioni, non ha quasi mai convinto del tutto. Sinceramente, vedo il Barcellona favorito ma sarà comunque possibilmente equlibrata, guai a sottovalutare il Real. Prendiamoci quindi un minimo di copertura e aggiungiamoci il fatto che, probabilmente, segneranno entrambe: 1X+Gol dal valore di 1.60.",
 "match": "Barcellona-Real Madrid",
 "picked_at": 1792755452.405072,
-"tries": 6,
+"tries": 7,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/siviglia-osasuna-statistiche-quote-e-pronostico-2026": {
@@ -2370,7 +2424,7 @@
 "pick": "Il cambio in panchina ha beneficiato e non poco per l'Osasuna che, con un colpo d'orgoglio, è tornato alla vittoria nello scorso turno con secco 2-0. Ottimo inizio, ma questo potrebbe non bastare con il Siviglia in trasferta. I biancorossi di Luis Garcia Plaza vengono da una brutta sconfitta al Bernabeu e cercano il riscatto. Mi aspetto un risultato positivo da parte degli andalusi, con un minimo di copertura. Vado con l'1X+Multigol 1-4 casa a 1.45, visto che l'Osasuna in trasferta soffre parecchio in difesa.",
 "match": "Siviglia-Osasuna",
 "picked_at": 1792755452.405072,
-"tries": 6,
+"tries": 7,
 "why": "no Polymarket event",
 "llm_fails": 1
 },

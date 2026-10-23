@@ -17972,3 +17972,38 @@
 2026-10-23 16:38:34 indexed 1035 markets
 2026-10-23 16:38:49   drop[unconfirmed] Wide-Open NFC East Adding Urgency to Saquon Barkley's Injury Return (Sports Illustrated) :: his return strengthens the Giants in the NFC East
 2026-10-23 16:40:58   drop[team-not-named] Kenyan world marathon champion Jepchirchir provisionally suspended over doping (Anadolu Ajansı) :: Kenya
+2026-10-23 18:22:51 === start mode=paper pid=2108 ===
+2026-10-23 18:22:51 brain=llm cash=84.02 open=0
+2026-10-23 18:22:51 resuming with 8952 known news items
+2026-10-23 18:23:25 indexed 1030 markets
+2026-10-23 18:23:42   drop[no-pick] Zaire Franklin (LB, Green Bay Packers) ruled out: Questionable -> Out [NFL] (ESPN) :: No relevant market for the NFL injury fact
+2026-10-23 18:23:43   drop[no-pick] Joseph Ossai (DE, New York Jets) ruled out: Doubtful -> Out [NFL] (ESPN) :: No relevant market among the given options
+2026-10-23 18:23:44   drop[not-key] Kiko Mauigoa (LB, New York Jets) ruled out: Doubtful -> Out [NFL] (ESPN) :: Kiko Mauigoa: injury
+2026-10-23 18:23:45   drop[no-pick] Max Mitchell (OT, New York Jets) ruled out: Questionable -> Out [NFL] (ESPN) :: No relevant market for NFL Jets fact
+2026-10-23 18:23:45   drop[not-key] Nick Blankenburg (D, Toronto Maple Leafs) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: Nick Blankenburg: injury
+2026-10-23 18:23:46   drop[not-key] Vincent Desharnais (D, Washington Capitals) ruled out: healthy -> Out [NHL] (ESPN) :: Vincent Desharnais: injury will keep him out until mid-to-late November
+2026-10-23 18:23:47   drop[kind] 🫂✨ Cristiano Ronaldo wanted Al Hamdan to get the Man of the Match Award after Al Nassr win (Fabrizio Romano) :: other
+2026-10-23 18:23:47   drop[kind] Ship attacks in Strait of Hormuz hit record high in October reut.rs/4z5EjDb (Reuters) :: other
+2026-10-23 18:23:49   llm groq-120b: rate limited, skip 1s
+2026-10-23 18:23:49   drop[verify] BREAKING: DOJ is suing Alaska to block certification of election results if Republican Sen (Politico) :: not a sports player
+2026-10-23 18:23:50   drop[kind] Melania Trump says she secured ‘localized’ ceasefire in one Ukrainian city politi.co/4ihei (Politico) :: other
+2026-10-23 18:23:50   drop[not-key] Dolphins’ Caleb Douglas cleared to return from ankle injury against Jets (Orlando Sentinel) :: Caleb Douglas: cleared to play against Jets
+2026-10-23 18:23:50   llm groq-120b: rate limited, skip 5s
+2026-10-23 18:23:51   drop[not-key] Zaire Franklin out for Week 7 with shin injury suffered in practice (NBC Sports) :: Zaire Franklin: shin injury
+2026-10-23 18:25:44 [pengwin]   BUY Over @ 0.348 x28.7 ($10.00) :: Torino FC vs. AC Monza: AC Monza O/U 1.5
+2026-10-23 18:25:47   llm groq-120b: rate limited, skip 582s
+2026-10-23 18:25:48 [pengwin] skip CAGLIARI-BOLOGNA [over 3.5 corners casa]: no matching market
+2026-10-23 18:25:52 [pengwin]   BUY Yes @ 0.660 x15.2 ($10.00) :: Will Como 1907 win on 2026-10-24?
+2026-10-23 18:25:57 [pengwin]   BUY Under @ 0.670 x14.9 ($10.00) :: SSC Napoli vs. AS Roma: 1st Half O/U 1.5
+2026-10-23 18:26:02 [pengwin]   BUY Yes @ 0.700 x10.6 ($7.39) :: Will SS Lazio win on 2026-10-24?
+2026-10-23 18:26:05   llm groq-20b: rate limited, skip 3s
+2026-10-23 18:26:05 [pengwin] INTER-FIORENTINA: no Polymarket event (try 1)
+2026-10-23 18:26:08 [pengwin] ATALANTA-FROSINONE: no LLM answer (try 1)
+2026-10-23 18:26:10   llm groq-20b: rate limited, skip 84s
+2026-10-23 18:26:10 [pengwin] GENOA-VENEZIA: no LLM answer (try 1)
+2026-10-23 18:26:13 [pengwin] LECCE-JUVENTUS: no LLM answer (try 1)
+2026-10-23 18:26:16 [pengwin] UDINESE-MILAN: no LLM answer (try 1)
+2026-10-23 18:26:34 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 8)
+2026-10-23 18:26:37 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 8)
+2026-10-23 18:26:57 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 7)
+2026-10-23 18:27:00 [pengwin] Siviglia-Osasuna: no Polymarket event (try 7)
