@@ -17902,3 +17902,31 @@
 2026-10-23 15:11:55 [pengwin] MANCHESTER UNITED-BOURNEMOUTH: no LLM answer (try 5)
 2026-10-23 15:11:57   llm groq-20b: rate limited, skip 327s
 2026-10-23 15:11:57 [pengwin] TORINO-MONZA: no LLM answer (try 1)
+2026-10-23 15:12:27 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 5)
+2026-10-23 15:12:29 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 5)
+2026-10-23 15:12:47 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 4)
+2026-10-23 15:12:50   llm groq-120b: rate limited, skip 704s
+2026-10-23 15:12:50 [pengwin] Siviglia-Osasuna: no LLM answer (try 4)
+2026-10-23 15:17:48   drop[kind] Passengers 'in the dark' over suspended Mersey ferry (BBC) :: other
+2026-10-23 15:17:49   drop[team-not-named] Olympic Marathon Champion Jepchirchir Suspended Over Failed Drug Test (LEADERSHIP Newspapers) :: Kenya national athletics team
+2026-10-23 15:18:21 indexed 1076 markets
+2026-10-23 15:19:59   llm groq-20b: rate limited, skip 73s
+2026-10-23 15:19:59   drop[no-pick] Bukayo Saka injury ‘not good’ as Arsenal face nervous wait (Yahoo Sports) :: None
+2026-10-23 15:24:36   drop[no-market] Peres Jepchirchir provisionally suspended for EPO doping after a positive test conducted i (Informat.ro) :: Kenya
+2026-10-23 15:27:04   drop[1-source] Jockey Irad Ortiz Jr. sidelined for Breeders' Cup, per report (The Courier-Journal) :: Irad Ortiz Jr., wait 2nd source
+2026-10-23 15:27:05   drop[unconfirmed] Bears Not Optimistic About TE Cole Kmet’s Non-Contact Knee Injury (NFLTradeRumors.co) :: non-contact knee injury concerns
+2026-10-23 15:27:05   llm groq-120b: rate limited, skip 250s
+2026-10-23 15:27:06   drop[kind] Saints’ Week 7 Friday Injury Report: Two Starters Questionable (Steelers Depot) :: other
+2026-10-23 15:27:06   llm groq-20b: rate limited, skip 1s
+2026-10-23 15:28:22 indexed 1071 markets
+2026-10-23 15:31:31   drop[team-not-named] Popular SWFC defender ruled out of Rovers clash - but better news than expected (The Star) :: Sheffield Wednesday Football Club
+2026-10-23 15:33:49   llm groq-120b: rate limited, skip 202s
+2026-10-23 15:33:49   drop[kind] Report: Puka Nacua’s calf injury not believed to be serious, but Week 7 status unclear (NBC Sports) :: other
+2026-10-23 15:37:27   llm groq-120b: rate limited, skip 245s
+2026-10-23 15:37:29   drop[verify] US first lady Melania Trump secured a ceasefire between Russia and Ukraine in the Russian- (Reuters) :: point 1 fails: Melania Trump is not a player in a team
+2026-10-23 15:38:20 indexed 1059 markets
+2026-10-23 15:38:24   llm groq-20b: rate limited, skip 257s
+2026-10-23 15:41:14 [pengwin] page ague/univ-craiova-getafe-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-23 15:42:13   llm groq-120b: rate limited, skip 667s
+2026-10-23 15:42:13 [pengwin] MANCHESTER UNITED-BOURNEMOUTH: no LLM answer (try 6)
+2026-10-23 15:42:16 [pengwin] TORINO-MONZA: no LLM answer (try 2)
