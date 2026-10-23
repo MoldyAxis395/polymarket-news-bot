@@ -18320,3 +18320,14 @@
 2026-10-24 01:12:20 [pengwin]   BUY Yes @ 0.770 x13.0 ($10.00) :: FC Barcelona vs. Real Madrid CF: Both Teams to Score
 2026-10-24 01:12:23   llm groq-120b: rate limited, skip 185s
 2026-10-24 01:12:26 [pengwin] skip Siviglia-Osasuna [1X]: double chance mapped to YES: Will Sevilla FC win on 2026-10-26?
+2026-10-24 01:13:41   drop[kind] 76ers Injury Report: LeBron James Listed As Questionable For Matchup vs. Bucks (Fadeaway World) :: other
+2026-10-24 01:16:00   llm groq-120b: rate limited, skip 29s
+2026-10-24 01:16:01   drop[unconfirmed] Giants linebacker Tremaine Edmunds out for remainder of 2026 season with shoulder injury (Yahoo) :: shoulder injury
+2026-10-24 01:16:01   drop[kind] Tapeworm Protein Dampens Immune Alarm to Limit Heart Reperfusion Injury in Mice (Bioengineer.org) :: other
+2026-10-24 01:18:18   drop[1-source] St. John Parish judge suspended again as he seeks re-election (WWLTV.com) :: St. John Parish, wait 2nd source
+2026-10-24 01:18:18   llm groq-120b: rate limited, skip 205s
+2026-10-24 01:18:18   drop[team-not-named] Marini ruled out of Australian GP (www.motogp.com) :: Red Bull KTM Factory Racing
+2026-10-24 01:18:56 indexed 976 markets
+2026-10-24 01:25:19   drop[not-key] Spencer Jones (F, Denver Nuggets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Spencer Jones: ruled out for upcoming game
+2026-10-24 01:28:58 indexed 976 markets
+2026-10-24 01:38:57 indexed 980 markets
