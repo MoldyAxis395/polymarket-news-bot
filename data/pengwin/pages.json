@@ -1984,8 +1984,8 @@
 "pick": "I Gunners arrivano a questo appuntamento con una grandissima determinazione e il chiaro obiettivo di far valere la legge del proprio fortino casalingo, dove storicamente impongono ritmi asfissianti e un possesso palla difficile da contenere per chiunque. Davanti al proprio pubblico, la squadra di Mikel Arteta subisce pochissimo e sa come gestire le sfide delicate. Di contro, l' Everton è una squadra quadrata che proverà a chiudersi ed erigere un muro difensivo, ma la superiorità tecnica ed emotiva dei londinesi tra le mura amiche rende una loro sconfitta interna altamente improbabile. Allo stesso tempo, la prudenza tattica degli ospiti e la gestione delle energie dei padroni di casa dovrebbero scongiurare il rischio di assistere a una goleada fuori da ogni logica. Tutto fa pensare a un match saldamente nelle mani dei biancorossi, ma dai binari ben precisi. Per questo motivo, la giocata più solida, intelligente e protetta da inserire in schedina è la combo 1X+MULTIGOL 1-4 , proposta alla quota di 1.30 .",
 "match": "ARSENAL-EVERTON",
 "picked_at": 1792753629.296608,
-"tries": 2,
-"llm_fails": 2,
+"tries": 3,
+"llm_fails": 3,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/chelsea-tottenham-statistiche-quote-e-pronostico-2026-2": {
@@ -2010,23 +2010,23 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/hull-city-brentford-statistiche-quote-e-pronostico-2026": {
 "first": 1792659200.8502333,
-"status": "pending",
+"status": "skipped",
 "pick": "Davanti al proprio pubblico i Tigers si giocano molto, e l'approccio alla gara sarà inevitabilmente improntato sulla massima aggressività agonistica. Quando la tensione si alza, l' Hull City tende infatti a mettere molta fisicità nei duelli individuali per spezzare le trame di gioco avversarie, una caratteristica che spesso costringe i propri difensori e centrocampisti a spendere falli tattici pesanti. Contro la velocità nelle transizioni offensive del Brentford , i padroni di casa saranno obbligati a ricorrere alle maniere forti per non farsi sorprendere scoperti. Con una posta in gioco così alta, l'agonismo salirà alle stelle fin dai primi minuti, rendendo l'aspetto disciplinare la scelta più logica del match. Occhio, dunque, alla giocata CASA OVER 1,5 CARTELLINI, data a quota 1.40 .",
 "match": "HULL CITY-BRENTFORD",
 "picked_at": 1792753629.296608,
 "tries": 2,
 "llm_fails": 2,
-"why": "no LLM answer"
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/liverpool-brighton-statistiche-quote-e-pronostico-2026": {
 "first": 1792659200.8502333,
-"status": "pending",
+"status": "skipped",
 "pick": "I padroni di casa sanno bene che contro i Seagulls non è mai una passeggiata. Il Brighton si presenta a questa trasferta con un biglietto da visita spaventoso, forte di una striscia offensiva micidiale che li ha visti mettere a segno ben nove gol complessivi nelle ultime due partite di campionato: una produzione esagerata che mette i brividi a qualsiasi retroguardia. Dall'altra parte, però, i Reds davanti al proprio pubblico non restano certo a guardare: la spinta di Anfield trasforma regolarmente la squadra in una macchina da gol. Considerando lo stato di forma strepitoso degli attacchi e la tendenza di entrambe le formazioni a concedere sempre qualcosa a causa di una filosofia di gioco spiccatamente propositiva, ci sono tutti i presupposti per novanta minuti ricchi di fiammate ed emozioni. L'esito più logico e naturale non può che essere il GOAL , un'opzione data a quota 1.50 .",
 "match": "LIVERPOOL-BRIGHTON",
 "picked_at": 1792753629.296608,
 "tries": 2,
 "llm_fails": 2,
-"why": "no LLM answer"
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/manchester-united-bournemouth-statistiche-quote-e-pronostico-2026": {
 "first": 1792659200.8502333,
@@ -2034,8 +2034,8 @@
 "pick": "I Red Devils hanno l'obbligo di ritrovare continuità e risalire la china in classifica. Davanti ai propri tifosi, con il proprio manager sempre più in bilico, la squadra mancuniana ha dimostrato di saper alzare i ritmi, e difficilmente si lascerà scappare i tre punti o uscirà sconfitta contro un avversario sulla carta inferiore. Dall'altra parte arriva però un Bournemouth che è un cliente sempre imprevedibile e ostico, capace di pungere in contropiede ma che storicamente fatica a mantenere la porta inviolata in trasferte di questo calibro. Ci si aspetta una gara saldamente indirizzata a favore dei padroni di casa, ma comunque aperta ed estremamente dinamica. La forbice dei gol complessivi difficilmente uscirà dai binari classici, escludendo sia un clamoroso e noioso 0 a 0, sia una goleada fantascientifica oltre le sei reti. Per questo motivo, la combo 1X+MULTIGOL 1-5 è una bella intuizione proposta a 1.50 .",
 "match": "MANCHESTER UNITED-BOURNEMOUTH",
 "picked_at": 1792753629.296608,
-"tries": 2,
-"why": "no LLM answer",
+"tries": 3,
+"why": "no Polymarket event",
 "llm_fails": 1
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/sunderland-leeds-united-statistiche-quote-e-pronostico-2026": {
@@ -2044,8 +2044,8 @@
 "pick": "I padroni di casa si trovano in fondo alla classifica inglese e sanno che, per strappare punti a un Leeds molto più solido, dovranno fare una partita di contenimento, intasando le corsie laterali per impedire agli ospiti di arrivare facilmente sul fondo. Le statistiche ci dicono che entrambe le formazioni, quando si affrontano in match così delicati e bloccati a livello tattico, faticano a produrre costantemente ampi volumi di tiri dalla bandierina. La tendenza recente mostra che i loro incontri tendono a rimanere saldamente sotto le medie stagionali di corner della Premier League , con difese molto attente a concedere la rimessa dal fondo piuttosto che il piazzato. Ci aspetta un match ruvido a centrocampo, con poche discese profonde e molta densità in mezzo all'area. Questo scenario tattico rende la quota dell' UNDER 10,5 CORNER a 1.40 un'ottima idea per la nostra giocata.",
 "match": "SUNDERLAND-LEEDS UNITED",
 "picked_at": 1792753629.296608,
-"tries": 2,
-"llm_fails": 2,
+"tries": 3,
+"llm_fails": 3,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/torino-monza-statistiche-quote-e-pronostico-2026": {
@@ -2130,13 +2130,16 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/augsburg-union-berlino-statistiche-quote-e-pronostico": {
 "first": 1792678043.2877548,
-"status": "pending",
+"status": "traded",
 "pick": "L’Augsburg può contare su un rendimento casalingo molto interessante: dal ritorno di Baum ha perso soltanto una delle ultime 14 partite interne. Un dato che dà fiducia ai padroni di casa e che, unito al fattore campo, rende la doppia chance particolarmente interessante. L’Union Berlino, al contrario, ha mostrato grosse difficoltà lontano da casa, senza vittorie e senza gol nelle trasferte considerate. Se queste difficoltà dovessero confermarsi, l’Augsburg avrebbe buone possibilità di controllare la partita e portare a casa almeno un punto. Per non esporsi troppo con il segno 1 secco, preferisco aggiungere l’Over 1.5, che richiede almeno due reti complessive. Esito: 1X + Over 1.5 — Quota 1.45",
 "match": "AUGSBURG-UNION BERLINO",
 "picked_at": 1792753629.296608,
 "tries": 2,
 "llm_fails": 2,
-"why": "no LLM answer"
+"why": "no LLM answer",
+"market": "FC Augsburg vs. 1. FC Union Berlin: O/U 1.5",
+"outcome": "Over",
+"map": "approx"
 },
 "https://www.mondopengwin.it/pronostici/calcio/eredivisie/g-a-eagles-telstar-statistiche-quote-e-pronostico-2026-2": {
 "first": 1792678043.2877548,
@@ -2184,7 +2187,7 @@
 "pick": "Questa è una partita nella quale preferisco dare fiducia alla doppia chance ospite. Il Paderborn può sfruttare il fattore campo, ma l’Amburgo ha le qualità per giocarsela e portare a casa un altro risultato positivo, ed è reduce da tre vittorie consecutive. Esito: X2",
 "match": "PADERBORN-AMBURGO",
 "picked_at": 1792753629.296608,
-"tries": 2,
+"tries": 3,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/lipsia-elversberg-statistiche-quote-e-pronostico-2026": {
@@ -2193,8 +2196,8 @@
 "pick": "Il Lipsia in casa ha iniziato la stagione nel migliore dei modi: tre vittorie su tre, 14 gol segnati e nessuno subito. Numeri che raccontano una squadra capace di creare tantissimo e, allo stesso tempo, di concedere pochissimo davanti al proprio pubblico. L’Elversberg, invece, ha mostrato qualche fragilità difensiva e potrebbe soffrire parecchio la pressione dei padroni di casa. Anche gli ospiti hanno dimostrato di poter essere pericolosi, ma quando si affronta una squadra con questa produzione offensiva il rischio di subire più reti aumenta. Mi aspetto una partita vivace, con il Lipsia in grado di fare la differenza e un totale di gol che può salire rapidamente. Esito: Multigol 2-5 casa",
 "match": "LIPSIA-ELVERSBERG",
 "picked_at": 1792753629.296608,
-"tries": 2,
-"llm_fails": 2,
+"tries": 3,
+"llm_fails": 3,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/hoffenheim-leverkusen-statistiche-quote-e-pronostico": {
@@ -2203,8 +2206,8 @@
 "pick": "Questa sfida mette di fronte due squadre che possono proporre un calcio offensivo e creare occasioni in entrambe le frazioni. Piuttosto che scegliere un vincitore, preferisco concentrarmi sulla possibilità di vedere almeno una rete nel primo tempo e almeno una nel secondo, e il numero di gol segnati fin qui dal Leverkusen è confortevole. Esito: Over 0.5 gol 1° tempo + Over 0.5 gol 2° tempo",
 "match": "HOFFENHEIM-BAYER LEVERKUSEN",
 "picked_at": 1792753629.296608,
-"tries": 2,
-"llm_fails": 2,
+"tries": 3,
+"llm_fails": 3,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/ligue-1/brest-nizza-statistiche-quote-e-pronostico-2026": {
@@ -2253,13 +2256,13 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/friburgo-bayern-monaco-statistiche-quote-e-pronostico": {
 "first": 1792681736.5984652,
-"status": "pending",
+"status": "skipped",
 "pick": "Il Bayern resta una squadra con un potenziale offensivo enorme, ma il Friburgo in casa può essere un avversario scomodo, mai come quest'anno. Per questo preferisco evitare di puntare semplicemente sulla vittoria dei bavaresi (non brillantissimi anche a causa dei vari impegni) e cercare una soluzione che tenga conto anche della possibilità di una gara combattuta. Esito: X2 + GOAL — Quota 1.60",
 "match": "FRIBURGO-BAYERN MONACO",
 "picked_at": 1792753629.296608,
 "tries": 2,
 "llm_fails": 2,
-"why": "no LLM answer"
+"why": "no single Polymarket market covers both the X2 (draw or away win) and the GOAL (both teams to score) legs"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/alaves-malaga-statistiche-quote-e-pronostico-2026": {
 "first": 1792691479.1720636,
@@ -2271,13 +2274,13 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/vallecano-elche-statistiche-quote-e-pronostico-2026-2": {
 "first": 1792691479.1720636,
-"status": "pending",
+"status": "skipped",
 "pick": "L'Elche viene da due buoni risultati, due 0-0 consecutivi che hanno permesso di smuovere leggermente la classifica. Non è tutto oro quel che luccica, la retroguardia Franjiverde è fragile e il Rayo Vallecano potrebbe approfittarne. Vedo la squadra di Benat San Josè favoirita e in grado di segnare più di una rete. Il pronostico di base, con copertura, è 1X al quale aggiungo un Over 1.5: pronostico finale 1X+Over 1.5 dal valore 1.53.",
 "match": "Vallecano-Elche",
 "picked_at": 1792753629.296608,
 "tries": 2,
 "llm_fails": 2,
-"why": "no LLM answer"
+"why": "double chance mapped to YES: Will Rayo Vallecano de Madrid win on 2026-10-24?"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/racing-espanyol-statistiche-quote-e-pronostico-2026": {
 "first": 1792691479.1720636,
@@ -2298,8 +2301,8 @@
 "pick": "L'arrivo di Aguirre sulla panchina del Valencia per il post Corberan ha solo attenuato i problemi del club del Mestalla, le difficoltà sono ancora evidente. Vero, il Villarreal non viene dalla sua miglior settimana tra campionato e Champions League ma la differenza di valori in campo rimane tangibile. Mi prendo una piccola copertura anche se vedo il Sottomarino Giallo favorito nei pronostici. La quota che consiglio è la seguente: X2+Multigol 1-5 dal valore di 1.51.",
 "match": "Valencia-Villarreal",
 "picked_at": 1792753629.296608,
-"tries": 2,
-"llm_fails": 2,
+"tries": 3,
+"llm_fails": 3,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/atletico-madrid-deportivo-statistiche-quote-e-pronostico-2026": {
@@ -2308,8 +2311,8 @@
 "pick": "Vedendo le forze in campo, il risultato appare davvero scontato. L'Atletico Madrid è nettamente favorito sulla carta e anche nei valori effettivi, inoltre è in una forma stellare. Vedo davvero poche chance per il \"piccolo\" Deportivo la Coruna che, con enorme probabilità, capitolerà al Metropolitano. Non ha senso prendere il segno 1, è troppo basso di valore e inutilmente rischioso. Vado con il Multigol 2-5 casa a 1.40. Nota a margine, attenzione a non considerare Alvarez come marcatore, si è finalmente sbloccato e potrebbe confermarsi.",
 "match": "Atletico Madrid-Deportivo",
 "picked_at": 1792753629.296608,
-"tries": 2,
-"llm_fails": 2,
+"tries": 3,
+"llm_fails": 3,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/athletic-bilbao-getafe-statistiche-quote-e-pronostico-2026": {
@@ -2318,8 +2321,8 @@
 "pick": "Il Bilbao di Terzic è reduce da una ripassata clamorosa sul campo del Levante nel recupero della 6° giornata e deve assolutamente rialzare la testa dopo una batosta del genere. Mi piace pensare che il Bilbao possa vincere, ma il Getafe è un avversario ostico che rende la vita difficile a praticamente chiunque. Mi prendo un risultato positivo dei baschi, ma mi sento di aggiungere una copertura. Vado con l'1X al quale aggiungo l'Under 4.5, difficile immaginare una goleada col Getafe. 1X+Under 4.5 dal valore di 1.31.",
 "match": "Athletic Bilbao-Getafe",
 "picked_at": 1792753629.296608,
-"tries": 2,
-"llm_fails": 2,
+"tries": 3,
+"llm_fails": 3,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/celta-vigo-betis-statistiche-quote-e-pronostico-2026": {
@@ -2338,8 +2341,8 @@
 "pick": "In una partita tra squadre molto aperte e divertenti da vedere, mi aspetto tante conclusioni e occasioni create. Non me la sento di prendere un risultato secco, entrambe le squadre possono vantare un roster offensivo importante: Oyarzabal, Barrenetxea, Brugue e Romero saranno in campo. Di solito, inoltre, la Sociedad è una squadra che batte diversi calci d'angolo ed è su questo che mi concentrerei. Vado con l'1 corner dal valore di 1.36.",
 "match": "Real Sociedad-Levante",
 "picked_at": 1792753629.296608,
-"tries": 2,
-"llm_fails": 2,
+"tries": 3,
+"llm_fails": 3,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/barcellona-real-madrid-statistiche-quote-e-pronostico-2026-2": {
@@ -2348,7 +2351,7 @@
 "pick": "Siamo arrivati alla partita delle partite, il big match della 10° giornata che potrebbe decidere già parte del campionato. Il Barcellona è uno schiacciasassi quasi infermabile, ma, la trasferta con il PSG in Champions, ha evidenziato problemi di tenuta difensiva davanti a squadre di pari livello. Occasione importante quindi per il Real che, nonostante diverse vittorie basate sui colpi dei campioni, non ha quasi mai convinto del tutto. Sinceramente, vedo il Barcellona favorito ma sarà comunque possibilmente equlibrata, guai a sottovalutare il Real. Prendiamoci quindi un minimo di copertura e aggiungiamoci il fatto che, probabilmente, segneranno entrambe: 1X+Gol dal valore di 1.60.",
 "match": "Barcellona-Real Madrid",
 "picked_at": 1792755452.405072,
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/siviglia-osasuna-statistiche-quote-e-pronostico-2026": {
@@ -2357,7 +2360,7 @@
 "pick": "Il cambio in panchina ha beneficiato e non poco per l'Osasuna che, con un colpo d'orgoglio, è tornato alla vittoria nello scorso turno con secco 2-0. Ottimo inizio, ma questo potrebbe non bastare con il Siviglia in trasferta. I biancorossi di Luis Garcia Plaza vengono da una brutta sconfitta al Bernabeu e cercano il riscatto. Mi aspetto un risultato positivo da parte degli andalusi, con un minimo di copertura. Vado con l'1X+Multigol 1-4 casa a 1.45, visto che l'Osasuna in trasferta soffre parecchio in difesa.",
 "match": "Siviglia-Osasuna",
 "picked_at": 1792755452.405072,
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/europa-league/statistiche-quote-e-pronostico-2026-46": {

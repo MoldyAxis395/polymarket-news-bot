@@ -17859,3 +17859,22 @@
 2026-10-23 14:11:50 [pengwin] Real Sociedad-Levante: no LLM answer (try 3)
 2026-10-23 14:11:52 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 2)
 2026-10-23 14:11:54 [pengwin] Siviglia-Osasuna: no Polymarket event (try 2)
+2026-10-23 14:17:58 indexed 1096 markets
+2026-10-23 14:24:09   drop[1-source] Injured Arsenal player returns to full training pre-Everton clash (Daily Cannon) :: Gabriel Jesus, wait 2nd source
+2026-10-23 14:26:28   drop[kind] MOTORCYCLE CRASH OUTSIDE ODESSA RESULTS IN SERIOUS INJURY (KMMO) :: other
+2026-10-23 14:27:58 indexed 1098 markets
+2026-10-23 14:33:31   drop[kind] Chinese Neurosurgical Journal Study on Agitation Management After Traumatic Brain Injury | (Newswise) :: other
+2026-10-23 14:33:31   drop[team-not-named] World and Olympic marathon champion Jepchirchir suspended after positive doping test (The Guardian) :: Kenya
+2026-10-23 14:33:32   drop[team-not-named] World Champion Peres Jepchirchir Suspended Over EPO Test (Marathon Handbook) :: Kenya
+2026-10-23 14:35:50   llm groq-120b: rate limited, skip 7s
+2026-10-23 14:35:50   drop[kind] Steelers vs. Saints Injury Report: Only two who traveled to France listed as Questionable (Steel Curtain Network) :: other
+2026-10-23 14:38:00 indexed 1081 markets
+2026-10-23 14:40:39   drop[1-source] Utah Football Player Suspended After Allegedly R@ping Woman, Recording A$$ault & Sharing V (theJasmineBRAND) :: University of Utah, wait 2nd source
+2026-10-23 14:41:14   llm groq-120b: rate limited, skip 677s
+2026-10-23 14:41:16 [pengwin]   BUY Yes @ 0.690 x14.5 ($10.00) :: Will Arsenal FC win on 2026-10-24?
+2026-10-23 14:41:20   llm groq-20b: rate limited, skip 670s
+2026-10-23 14:41:20 [pengwin] MANCHESTER UNITED-BOURNEMOUTH: no LLM answer (try 4)
+2026-10-23 14:41:22 [pengwin] SUNDERLAND-LEEDS UNITED: no LLM answer (try 4)
+2026-10-23 14:41:52 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 4)
+2026-10-23 14:41:54 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 4)
+2026-10-23 14:41:57 [pengwin] HOFFENHEIM-BAYER LEVERKUSEN: no LLM answer (try 4)
