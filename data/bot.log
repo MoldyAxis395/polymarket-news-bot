@@ -18183,3 +18183,35 @@
 2026-10-23 21:20:29   llm groq-20b: rate limited, skip 84s
 2026-10-23 21:23:59 indexed 981 markets
 2026-10-23 21:24:04   drop[team-not-named] Mike Evans Injury: Not spotted at practice Friday (RotoWire) :: Tampa Bay Buccaneers
+2026-10-23 21:28:15   llm groq-20b: rate limited, skip 467s
+2026-10-23 21:28:15 [pengwin] INTER-FIORENTINA: no LLM answer (try 7)
+2026-10-23 21:28:33 [pengwin] PADERBORN-AMBURGO: no Polymarket event (try 14)
+2026-10-23 21:28:36 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 14)
+2026-10-23 21:28:56   llm groq-120b: rate limited, skip 115s
+2026-10-23 21:28:56 [pengwin] Barcellona-Real Madrid: no LLM answer (try 13)
+2026-10-23 21:28:59 [pengwin] Siviglia-Osasuna: no Polymarket event (try 13)
+2026-10-23 21:30:56   drop[kind] Raiders injury news: Mike Washington is questionable to play Sunday against Rams (Silver And Black Pride) :: other
+2026-10-23 21:32:18   drop[not-key] Anthony Gould (WR, Indianapolis Colts) ruled out: Questionable -> Out [NFL] (ESPN) :: Anthony Gould: concussion protocol
+2026-10-23 21:33:15   llm groq-120b: rate limited, skip 479s
+2026-10-23 21:34:01 indexed 972 markets
+2026-10-23 21:36:20   drop[no-pick] Sauce Gardner (CB, Indianapolis Colts) ruled out: Doubtful -> Out [NFL] (ESPN) :: No outcome in the candidate market is expected to rise by 5+ points due to the fact.
+2026-10-23 21:37:57   drop[team-not-named] Bengals-Ravens Showdown Takes Major Turn After Season-Ending Injury (heavy.com) :: Cincinnati Bengals
+2026-10-23 21:40:14   llm groq-20b: rate limited, skip 328s
+2026-10-23 21:40:24 NEWS [ESPN 8m] Brashard Smith (RB, Kansas City Chiefs) ruled out: Questionable -> Out [NFL]
+2026-10-23 21:40:24   skip No :: Will Kansas City Current win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-23 21:40:24   skip Seahawks :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-23 21:40:24 NEWS [ESPN 8m] Jaylon Moore (OT, Kansas City Chiefs) ruled out: Questionable -> Out [NFL]
+2026-10-23 21:40:24   skip No :: Will Kansas City Current win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-23 21:40:24   skip Seahawks :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-23 21:42:26 NEWS [ESPN 0m] Jaylinn Hawkins (S, Baltimore Ravens) ruled out: Questionable -> Out [NFL]
+2026-10-23 21:42:26   skip Bengals :: Bengals vs. Ravens (low conf 0.6)
+2026-10-23 21:42:32   drop[team-not-named] Kelce (ankle) cleared off Week 7 injury report (NBC Sports) :: Kansas City Chiefs
+2026-10-23 21:44:01 indexed 974 markets
+2026-10-23 21:51:47   drop[no-pick] Chicago Bears face a dilemma as Cole Kmet injury opens door for struggling rookie (ChiCitySports) :: short
+2026-10-23 21:54:06 indexed 964 markets
+2026-10-23 21:54:23   drop[kind] Browns list Denzel Ward as questionable with a hand injury (NBC Sports) :: other
+2026-10-23 21:54:24   drop[1-source] Raiders Announce That Key Starter Will Return From Injury vs. Rams (heavy.com) :: Las Vegas Raiders, wait 2nd source
+2026-10-23 21:54:24   llm groq-120b: rate limited, skip 73s
+2026-10-23 21:54:24   drop[kind] Lamar Jackson Injury: Potential game-time decision (RotoWire) :: other
+2026-10-23 21:57:10   llm groq-120b: rate limited, skip 98s
+2026-10-23 21:57:11   drop[not-key] Charles Bassey (C, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Charles Bassey: right patellar tendinopathy

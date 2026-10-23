@@ -2108,9 +2108,9 @@
 "pick": "La Beneamata è reduce dall'ostico impegno infrasettimanale contro lo Shakhtar Donetsk, in cui è emersa chiaramente la volontà di Chivu di gestire le energie. Le sfide tra l'Inter e la Fiorentina storicamente sono sempre intense, ricche di contrasti e di grinta. Arbitra l'incontro Mariani, che vanta una media di quasi quattro cartellini a partita: dunque, mi affido alla combo casa over 0.5 + over 2.5 cartellini, a moltiplicatore 1.45.",
 "match": "INTER-FIORENTINA",
 "picked_at": 1792772571.5288744,
-"tries": 6,
-"why": "no Polymarket event",
-"llm_fails": 2
+"tries": 7,
+"why": "no LLM answer",
+"llm_fails": 3
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/atalanta-frosinone-statistiche-quote-e-pronostico-2026": {
 "first": 1792672614.7208815,
@@ -2251,7 +2251,7 @@
 "pick": "Questa è una partita nella quale preferisco dare fiducia alla doppia chance ospite. Il Paderborn può sfruttare il fattore campo, ma l’Amburgo ha le qualità per giocarsela e portare a casa un altro risultato positivo, ed è reduce da tre vittorie consecutive. Esito: X2",
 "match": "PADERBORN-AMBURGO",
 "picked_at": 1792753629.296608,
-"tries": 13,
+"tries": 14,
 "why": "no Polymarket event",
 "llm_fails": 1
 },
@@ -2261,7 +2261,7 @@
 "pick": "Il Lipsia in casa ha iniziato la stagione nel migliore dei modi: tre vittorie su tre, 14 gol segnati e nessuno subito. Numeri che raccontano una squadra capace di creare tantissimo e, allo stesso tempo, di concedere pochissimo davanti al proprio pubblico. L’Elversberg, invece, ha mostrato qualche fragilità difensiva e potrebbe soffrire parecchio la pressione dei padroni di casa. Anche gli ospiti hanno dimostrato di poter essere pericolosi, ma quando si affronta una squadra con questa produzione offensiva il rischio di subire più reti aumenta. Mi aspetto una partita vivace, con il Lipsia in grado di fare la differenza e un totale di gol che può salire rapidamente. Esito: Multigol 2-5 casa",
 "match": "LIPSIA-ELVERSBERG",
 "picked_at": 1792753629.296608,
-"tries": 13,
+"tries": 14,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2416,9 +2416,9 @@
 "pick": "Siamo arrivati alla partita delle partite, il big match della 10° giornata che potrebbe decidere già parte del campionato. Il Barcellona è uno schiacciasassi quasi infermabile, ma, la trasferta con il PSG in Champions, ha evidenziato problemi di tenuta difensiva davanti a squadre di pari livello. Occasione importante quindi per il Real che, nonostante diverse vittorie basate sui colpi dei campioni, non ha quasi mai convinto del tutto. Sinceramente, vedo il Barcellona favorito ma sarà comunque possibilmente equlibrata, guai a sottovalutare il Real. Prendiamoci quindi un minimo di copertura e aggiungiamoci il fatto che, probabilmente, segneranno entrambe: 1X+Gol dal valore di 1.60.",
 "match": "Barcellona-Real Madrid",
 "picked_at": 1792755452.405072,
-"tries": 12,
-"why": "no Polymarket event",
-"llm_fails": 1
+"tries": 13,
+"why": "no LLM answer",
+"llm_fails": 2
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/siviglia-osasuna-statistiche-quote-e-pronostico-2026": {
 "first": 1792693332.2736418,
@@ -2426,7 +2426,7 @@
 "pick": "Il cambio in panchina ha beneficiato e non poco per l'Osasuna che, con un colpo d'orgoglio, è tornato alla vittoria nello scorso turno con secco 2-0. Ottimo inizio, ma questo potrebbe non bastare con il Siviglia in trasferta. I biancorossi di Luis Garcia Plaza vengono da una brutta sconfitta al Bernabeu e cercano il riscatto. Mi aspetto un risultato positivo da parte degli andalusi, con un minimo di copertura. Vado con l'1X+Multigol 1-4 casa a 1.45, visto che l'Osasuna in trasferta soffre parecchio in difesa.",
 "match": "Siviglia-Osasuna",
 "picked_at": 1792755452.405072,
-"tries": 12,
+"tries": 13,
 "why": "no Polymarket event",
 "llm_fails": 1
 },
