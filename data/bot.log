@@ -17930,3 +17930,24 @@
 2026-10-23 15:42:13   llm groq-120b: rate limited, skip 667s
 2026-10-23 15:42:13 [pengwin] MANCHESTER UNITED-BOURNEMOUTH: no LLM answer (try 6)
 2026-10-23 15:42:16 [pengwin] TORINO-MONZA: no LLM answer (try 2)
+2026-10-23 15:42:46   llm groq-20b: rate limited, skip 743s
+2026-10-23 15:42:46 [pengwin] PADERBORN-AMBURGO: no LLM answer (try 6)
+2026-10-23 15:42:48 [pengwin] LIPSIA-ELVERSBERG: no Polymarket event (try 6)
+2026-10-23 15:42:57 [pengwin] page o/ligue-1/angers-lorient-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-23 15:43:01 [pengwin] page e/nec-nijmegen-groningen-statistiche-quote-e-pronostico-2026: Response ended prematurely
+2026-10-23 15:43:04 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 5)
+2026-10-23 15:43:06 [pengwin] Siviglia-Osasuna: no Polymarket event (try 5)
+2026-10-23 15:48:23 indexed 1064 markets
+2026-10-23 15:58:25 indexed 1053 markets
+2026-10-23 15:59:18   drop[not-key] Every word Mikel Arteta said on Bukayo Saka injury, Arsenal vs Everton and Martin Zubimend (Football London) :: Mikel Arteta: Saka is injured and will miss the upcoming Arsenal vs Everton match
+2026-10-23 16:01:56   drop[team-not-named] Kenyan World Marathon Champion Peres Jepchirchir Suspended For Doping (Channels Television) :: Kenya
+2026-10-23 16:01:57   drop[kind] The Dmytruk Case: Investigation Suspended Due to Suspect Being on the Run – Prosecutor’s O (LIGA.net) :: other
+2026-10-23 16:03:11   drop[kind] Six shot dead by gunmen at church funeral in Jordan, officials say (BBC) :: other
+2026-10-23 16:03:58   drop[kind] Anthropic Pledge 5% Vs 146 Dollar Musk Plan: Access Wins (TronWeekly) :: other
+2026-10-23 16:03:59   llm groq-120b: rate limited, skip 288s
+2026-10-23 16:03:59   drop[kind] Steelers RB Questionable vs. Saints With Knee Injury (Sports Illustrated) :: other
+2026-10-23 16:04:00   drop[kind] Lucid stock faces major risks, but a short squeeze can’t be ruled out (Invezz) :: other
+2026-10-23 16:04:00   drop[kind] Volvo Cars plunges 22% as CEO says China sales slump came 'faster than we thought' (CNBC) :: other
+2026-10-23 16:08:31 indexed 1050 markets
+2026-10-23 16:08:38   drop[1-source] Cop whose pal is accused of raping Irishwoman in Boston suspended from duty (Sunday World) :: Boston Police Department, wait 2nd source
+2026-10-23 16:11:09   drop[1-source] Jaguars LT Anton Harrison reportedly to miss rest of season with ACL injury (The Florida Times-Union) :: Anton Harrison, wait 2nd source

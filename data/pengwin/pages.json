@@ -2033,13 +2033,13 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/manchester-united-bournemouth-statistiche-quote-e-pronostico-2026": {
 "first": 1792659200.8502333,
-"status": "pending",
+"status": "skipped",
 "pick": "I Red Devils hanno l'obbligo di ritrovare continuità e risalire la china in classifica. Davanti ai propri tifosi, con il proprio manager sempre più in bilico, la squadra mancuniana ha dimostrato di saper alzare i ritmi, e difficilmente si lascerà scappare i tre punti o uscirà sconfitta contro un avversario sulla carta inferiore. Dall'altra parte arriva però un Bournemouth che è un cliente sempre imprevedibile e ostico, capace di pungere in contropiede ma che storicamente fatica a mantenere la porta inviolata in trasferte di questo calibro. Ci si aspetta una gara saldamente indirizzata a favore dei padroni di casa, ma comunque aperta ed estremamente dinamica. La forbice dei gol complessivi difficilmente uscirà dai binari classici, escludendo sia un clamoroso e noioso 0 a 0, sia una goleada fantascientifica oltre le sei reti. Per questo motivo, la combo 1X+MULTIGOL 1-5 è una bella intuizione proposta a 1.50 .",
 "match": "MANCHESTER UNITED-BOURNEMOUTH",
 "picked_at": 1792753629.296608,
-"tries": 5,
+"tries": 6,
 "why": "no LLM answer",
-"llm_fails": 3
+"llm_fails": 4
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/sunderland-leeds-united-statistiche-quote-e-pronostico-2026": {
 "first": 1792659200.8502333,
@@ -2057,8 +2057,8 @@
 "pick": "Si affrontano due squadre che hanno ritrovato fiducia nelle ultime settimane. L'incontro giocato in Coppa Italia (0-1 in favore del Monza) mette in guardia il Torino, che difficilmente uscirà sconfitto dal match. Simeone e Varela, i centravanti delle due formazioni, stanno attraversando un periodo di forma e potrebbero trovare la via della rete. Penso che entrambe le compagini segneranno (l'esito gol quota 1.65): occhio alla combo 1X + gol, a moltiplicatore 2.20. Come pronostico base, invece, sono convinto che il Monza realizzerà almeno un gol e dunque mi affido all'esito multigol ospite 1-3, quotato a 1.40.",
 "match": "TORINO-MONZA",
 "picked_at": 1792760960.940439,
-"tries": 1,
-"llm_fails": 1,
+"tries": 2,
+"llm_fails": 2,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/cagliari-bologna-statistiche-quote-e-pronostico-2026": {
@@ -2196,8 +2196,9 @@
 "pick": "Questa è una partita nella quale preferisco dare fiducia alla doppia chance ospite. Il Paderborn può sfruttare il fattore campo, ma l’Amburgo ha le qualità per giocarsela e portare a casa un altro risultato positivo, ed è reduce da tre vittorie consecutive. Esito: X2",
 "match": "PADERBORN-AMBURGO",
 "picked_at": 1792753629.296608,
-"tries": 5,
-"why": "no Polymarket event"
+"tries": 6,
+"why": "no LLM answer",
+"llm_fails": 1
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/lipsia-elversberg-statistiche-quote-e-pronostico-2026": {
 "first": 1792679889.5097034,
@@ -2205,7 +2206,7 @@
 "pick": "Il Lipsia in casa ha iniziato la stagione nel migliore dei modi: tre vittorie su tre, 14 gol segnati e nessuno subito. Numeri che raccontano una squadra capace di creare tantissimo e, allo stesso tempo, di concedere pochissimo davanti al proprio pubblico. L’Elversberg, invece, ha mostrato qualche fragilità difensiva e potrebbe soffrire parecchio la pressione dei padroni di casa. Anche gli ospiti hanno dimostrato di poter essere pericolosi, ma quando si affronta una squadra con questa produzione offensiva il rischio di subire più reti aumenta. Mi aspetto una partita vivace, con il Lipsia in grado di fare la differenza e un totale di gol che può salire rapidamente. Esito: Multigol 2-5 casa",
 "match": "LIPSIA-ELVERSBERG",
 "picked_at": 1792753629.296608,
-"tries": 5,
+"tries": 6,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2360,7 +2361,7 @@
 "pick": "Siamo arrivati alla partita delle partite, il big match della 10° giornata che potrebbe decidere già parte del campionato. Il Barcellona è uno schiacciasassi quasi infermabile, ma, la trasferta con il PSG in Champions, ha evidenziato problemi di tenuta difensiva davanti a squadre di pari livello. Occasione importante quindi per il Real che, nonostante diverse vittorie basate sui colpi dei campioni, non ha quasi mai convinto del tutto. Sinceramente, vedo il Barcellona favorito ma sarà comunque possibilmente equlibrata, guai a sottovalutare il Real. Prendiamoci quindi un minimo di copertura e aggiungiamoci il fatto che, probabilmente, segneranno entrambe: 1X+Gol dal valore di 1.60.",
 "match": "Barcellona-Real Madrid",
 "picked_at": 1792755452.405072,
-"tries": 4,
+"tries": 5,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/siviglia-osasuna-statistiche-quote-e-pronostico-2026": {
@@ -2369,8 +2370,8 @@
 "pick": "Il cambio in panchina ha beneficiato e non poco per l'Osasuna che, con un colpo d'orgoglio, è tornato alla vittoria nello scorso turno con secco 2-0. Ottimo inizio, ma questo potrebbe non bastare con il Siviglia in trasferta. I biancorossi di Luis Garcia Plaza vengono da una brutta sconfitta al Bernabeu e cercano il riscatto. Mi aspetto un risultato positivo da parte degli andalusi, con un minimo di copertura. Vado con l'1X+Multigol 1-4 casa a 1.45, visto che l'Osasuna in trasferta soffre parecchio in difesa.",
 "match": "Siviglia-Osasuna",
 "picked_at": 1792755452.405072,
-"tries": 4,
-"why": "no LLM answer",
+"tries": 5,
+"why": "no Polymarket event",
 "llm_fails": 1
 },
 "https://www.mondopengwin.it/pronostici/calcio/europa-league/statistiche-quote-e-pronostico-2026-46": {
