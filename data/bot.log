@@ -17616,59 +17616,9 @@
 2026-10-23 04:40:25   drop[kind] Another Multi-Crore Tender Fraud Case Registered Against Suspended IAS Officer Abhishek Ch (TRIPURAINFO) :: other
 2026-10-23 04:40:25   llm groq-120b: rate limited, skip 193s
 2026-10-23 04:40:26   drop[1-source] Blues Face Tough Roster Decisions as Defensemen Return from Injury (SSBCrack) :: St. Louis Blues, wait 2nd source
-2026-10-23 04:43:46 [pengwin]   book error AS Monaco FC vs. Lille OSC: O/U 2.5: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
-2026-10-23 04:44:50   drop[kind] Maple Leafs Confirm Discouraging Injury News After Dramatic Win (heavy.com) :: other
-2026-10-23 04:47:50 indexed 997 markets
-2026-10-23 04:51:47   drop[kind] Bears DB Malik Muhammad doubtful to return with toe injury (NBC Sports) :: other
-2026-10-23 04:54:06   drop[team-not-named] Jason Behrendorff has been ruled out of the entire BBL with a shoulder injury Getty Images (Cricinfo) :: Perth Scorchers
-2026-10-23 04:57:50 indexed 994 markets
-2026-10-23 05:01:02   drop[not-key] Sharks’ Igor Chernyshov Out “A While” With Upper-Body Injury (Pro Hockey Rumors) :: Igor Chernyshov: upper-body injury
-2026-10-23 05:01:02   llm groq-120b: rate limited, skip 110s
-2026-10-23 05:01:03   drop[kind] Hallucinated fumble, missed injury highlight Al Michaels' flubs during Bears vs. Patriots  (Sporting News) :: other
-2026-10-23 05:07:53 indexed 992 markets
-2026-10-23 05:10:14 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-23 05:12:37   drop[no-market] Bears TE Cole Kmet carted off with a knee injury (NBC Sports) :: Chicago Bears
-2026-10-23 05:17:27   drop[no-market] Bears TE Cole Kmet carted off with right knee injury (Chicago Sun-Times) :: Chicago Bears
-2026-10-23 05:17:28   drop[not-key] Leafs’ Marshall Rifai placed on IR, week-to-week with lower-body injury (Daily Faceoff) :: Marshall Rifai: lower-body injury
-2026-10-23 05:17:55 indexed 1004 markets
-2026-10-23 05:19:34   drop[1-source] Luis Diaz set for lengthy Bayern absence after muscle injury proves worse than expected (Business Upturn) :: Luis Diaz, wait 2nd source
-2026-10-23 05:21:53   drop[1-source] Cam Johnson Injury: Denver Nuggets Announce Playing Status During Thunder Game (heavy.com) :: Cam Johnson, wait 2nd source
-2026-10-23 05:27:04   drop[no-market] Cole Kmet (TE, Chicago Bears) ruled out: Active -> Out [NFL] (ESPN) :: Chicago Bears
-2026-10-23 05:27:57 indexed 1001 markets
-2026-10-23 05:35:52   drop[kind] Southern Nazarene football coach remembers Tyler Ulrich after fatal game injury (News On 6) :: other
-2026-10-23 05:37:58 indexed 1002 markets
-2026-10-23 05:40:53 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-23 05:47:59 indexed 1000 markets
-2026-10-23 05:54:28   drop[team-not-named] Cole Kmet Done for night with knee injury (Fantasy Footballers Podcast) :: Chicago Bears
-2026-10-23 05:54:29   drop[kind] Benefit held for Park Rapids man recovering from spinal cord injury (InForum) :: other
-2026-10-23 05:58:00 indexed 1002 markets
-2026-10-23 06:00:44 NEWS [Reuters 0m] New Zealand's top military officer resigns over 'inappropriate relationship' reut.rs/4eta9Bj
-2026-10-23 06:00:44   skip Yes :: Will National Party win the most seats in the New Zealand House of Rep (low conf 0.6)
-2026-10-23 06:08:01 indexed 985 markets
-2026-10-23 06:10:25   drop[no-market] ‘Prayers Up for Cole Kmet,’ ‘Brutal’ — Robert Griffin III, NFL World Deeply Worried as Bea (Pro Football Network) :: Chicago Bears
-2026-10-23 06:12:56   drop[not-key] Sharks Locker Room: In Awe of Askarov, Chernyshov Will Be Out For "A Little Bit" With Inju (San Jose Hockey Now) :: Dmitri Chernyshov: injury will keep him out briefly
-2026-10-23 06:15:02   drop[team-not-named] Cole Kmet Carted Off the Field After Injury in Game Against Patriots (SSBCrack) :: Chicago Bears
-2026-10-23 06:17:19   drop[unconfirmed] Ishan Kishan's injury opens door for Vaibhav Sooryavanshi's comeback to India XI vs New Ze (Cricket Addictor) :: Kishan's injury creates opportunity for Sooryavanshi to be selected
-2026-10-23 06:18:00 indexed 984 markets
-2026-10-23 06:20:11   drop[no-market] Nugent-Hopkins (and Levi) win it for Oilers in shootout Tremendous hockey (Elliotte Friedman) :: Edmonton Oilers
-2026-10-23 06:28:02 indexed 988 markets
-2026-10-23 06:28:54   drop[not-key] Cameron Johnson Injury: Fails to return Thursday (RotoWire) :: Cameron Johnson: will miss Thursday game
-2026-10-23 06:38:03 indexed 991 markets
-2026-10-23 06:38:08   drop[1-source] Nuggets news: Cam Johnson suffers ankle injury in opening loss to Thunder (ClutchPoints) :: Cam Johnson, wait 2nd source
-2026-10-23 06:41:05   drop[no-market] Mattias Ekholm (D, Edmonton Oilers) ruled out: healthy -> Out [NHL] (ESPN) :: Edmonton Oilers
-2026-10-23 06:45:04   drop[kind] Carlos Alcaraz commits to Queen’s Club Championships for 2027 after injury setback (Tennis Tonic) :: other
-2026-10-23 06:47:19   drop[1-source] Colorado football loses leading rusher Micah Welch to hand injury (SuperWest Sports) :: Micah Welch, wait 2nd source
-2026-10-23 06:48:05 indexed 989 markets
-2026-10-23 06:49:54   drop[1-source] Endurance World Champion Steven Odendaal (BMW) reveals serious injury (SPEEDWEEK.com) :: Steven Odendaal, wait 2nd source
-2026-10-23 06:52:00   drop[team-not-named] Ishan Kishan Ruled Out Of 2nd T20I Against New Zealand, Door Opens For Vaibhav Sooryavansh (NDTV Sports) :: India men's cricket team
-2026-10-23 06:54:21   llm groq-120b: rate limited, skip 18s
-2026-10-23 06:54:22   drop[1-source] Injury blow for India ahead of second T20I with New Zealand (ICC) :: Rohit Sharma, wait 2nd source
-2026-10-23 06:54:22   drop[kind] New Milton man attacked pizza shop owner over failed attempt to buy business (Advertiser and Times) :: other
-2026-10-23 06:58:08 indexed 992 markets
-2026-10-23 06:59:11   drop[not-key] Ricky Sosa Sidelined With Severe Back Injury Following Ladder Match (wrestlingworld.co) :: Ricky Sosa: Sosa will miss future matches due to a severe back injury
-2026-10-23 07:02:12   drop[no-market] Polymarket has reportedly fired its marketing chief, also a close friend of the CEO (CoinDesk) :: Polymarket
-2026-10-23 07:05:50   drop[team-not-named] Former MCSD secretary, girls soccer coach gets suspended prison sentence (Times Republican) :: 
-2026-10-23 07:08:07 indexed 986 markets
-2026-10-23 07:12:49   drop[team-not-named] Ind vs NZ | Ishan Kishan ruled out of 2nd T20; batting coach hints at Vaibhav Sooryavanshi (Dailyhunt) :: India national cricket team
-2026-10-23 07:18:09 indexed 986 markets
-2026-10-23 07:21:40 shift over, state saved
+2026-10-23 07:21:54 === start mode=paper pid=2344 ===
+2026-10-23 07:21:54 brain=llm cash=84.02 open=0
+2026-10-23 07:21:54 resuming with 8494 known news items
+2026-10-23 07:22:21 indexed 984 markets
+2026-10-23 07:22:37   drop[no-market] Mattias Ekholm (D, Edmonton Oilers) ruled out: healthy -> Out [NHL] (ESPN) :: Edmonton Oilers
+2026-10-23 07:22:38   drop[no-market] Nugent-Hopkins (and Levi) win it for Oilers in shootout Tremendous hockey (Elliotte Friedman) :: Edmonton Oilers
