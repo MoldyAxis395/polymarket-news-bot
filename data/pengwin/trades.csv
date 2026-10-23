@@ -78,3 +78,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-23T22:11:56+00:00,SELL,Ipswich Town FC vs. Nottingham Forest FC: Nottingham Forest FC O/U 0.5,Over,12.35,1.0000,12.35,+2.35,resolved
 2026-10-23T22:11:57+00:00,SELL,Will VfB Stuttgart win on 2026-10-23?,Yes,13.89,0.0000,0.00,-10.00,resolved
 2026-10-23T22:11:58+00:00,SELL,Torino FC vs. AC Monza: AC Monza O/U 1.5,Over,28.71,1.0000,28.71,+18.71,resolved
+2026-10-23T22:41:31+00:00,BUY,Will SC Paderborn 07 win on 2026-10-24?,No,16.95,0.5900,10.00,,PADERBORN-AMBURGO: X2 (esatto) | pengwin exact: replicates X2 as not home win

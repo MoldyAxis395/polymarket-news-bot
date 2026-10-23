@@ -18293,3 +18293,20 @@
 2026-10-24 00:11:57 [pengwin]   SELL Yes @ 0.000 (resolved) pnl -10.00 :: Will VfB Stuttgart win on 2026-10-23?
 2026-10-24 00:11:58 [pengwin]   book error Torino FC vs. AC Monza: AC Monza O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=63689108341580754959444559842498056235540870602790644997669253860596505775271
 2026-10-24 00:11:58 [pengwin]   SELL Over @ 1.000 (resolved) pnl +18.71 :: Torino FC vs. AC Monza: AC Monza O/U 1.5
+2026-10-24 00:13:44   drop[kind] Allisha Gray plays through a hand injury as the Dream lead the WNBA Finals 2-1 (Medicine Hat News) :: other
+2026-10-24 00:18:44 indexed 960 markets
+2026-10-24 00:19:03   llm groq-120b: rate limited, skip 18s
+2026-10-24 00:25:47   drop[1-source] Reports: Giants LB Edmunds lost for season with shoulder injury (Newsday) :: Devin Edmunds, wait 2nd source
+2026-10-24 00:28:16   drop[kind] Jonah Coleman, Pat Surtain II both questionable vs. Cardinals (Mile High Report) :: other
+2026-10-24 00:28:16   llm groq-120b: rate limited, skip 2s
+2026-10-24 00:28:16   drop[not-key] Syracuse QB Steve Angeli finally returns from injury for North Carolina bout (ClutchPoints) :: Steve Angeli: injury return
+2026-10-24 00:28:48 indexed 957 markets
+2026-10-24 00:35:03   drop[kind] Arsenal teenager Dowman set for minutes amid Saka injury (Soccer News) :: other
+2026-10-24 00:38:48 indexed 950 markets
+2026-10-24 00:39:41   drop[not-key] Mason Graham due back after ‘bump in the road’ injury (BrownsZone with Scott Petrak -) :: Mason Graham: back after injury
+2026-10-24 00:41:30   llm groq-120b: rate limited, skip 567s
+2026-10-24 00:41:31 [pengwin]   BUY No @ 0.590 x16.9 ($10.00) :: Will SC Paderborn 07 win on 2026-10-24?
+2026-10-24 00:41:34   llm groq-20b: rate limited, skip 662s
+2026-10-24 00:41:34 [pengwin] LIPSIA-ELVERSBERG: no LLM answer (try 17)
+2026-10-24 00:41:57 [pengwin] Barcellona-Real Madrid: no Polymarket event (try 16)
+2026-10-24 00:41:59 [pengwin] Siviglia-Osasuna: no Polymarket event (try 16)
