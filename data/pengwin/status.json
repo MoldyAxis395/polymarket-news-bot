@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T18:32:50",
+ "updated": "2026-10-24T19:03:00",
  "start": 100.0,
- "cash": 47.98,
- "equity": 143.73,
+ "cash": 62.68,
+ "equity": 147.68,
  "open": [
   {
    "market_id": "5597100",
@@ -22,24 +22,6 @@
    "last_bid": 0.52,
    "book_err": false,
    "settle_retry": 1792722170.9616868
-  },
-  {
-   "market_id": "5536957",
-   "question": "Coventry City FC vs. Fulham FC: O/U 3.5",
-   "slug": "epl-cov-ful-2026-10-24-total-3pt5",
-   "outcome": "Under",
-   "token": "92397335641896705423604206604240894495011434073706731030027754377994033372331",
-   "shares": 14.705882352941176,
-   "entry": 0.68,
-   "cost": 10.0,
-   "opened": 1792753792.1984873,
-   "opened_iso": "2026-10-23T11:09:52+00:00",
-   "news": "COVENTRY CITY-FULHAM: MULTIGOL 1-3 OSPITE (approssimato)",
-   "reason": "pengwin approx: O/U 3.5 Under approximates 1-3",
-   "conf": 1.0,
-   "end": "2026-10-24T14:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false
   },
   {
    "market_id": "5599839",
@@ -74,7 +56,7 @@
    "reason": "pengwin approx: replicates GOAL leg of combo",
    "conf": 1.0,
    "end": "2026-10-24T16:30:00+00:00",
-   "last_bid": 0.6,
+   "last_bid": 0.44,
    "book_err": false
   },
   {
@@ -111,7 +93,8 @@
    "conf": 1.0,
    "end": "2026-10-24T14:00:00+00:00",
    "last_bid": 0.999,
-   "book_err": false
+   "book_err": true,
+   "settle_retry": 1792861919.0298617
   },
   {
    "market_id": "5536950",
@@ -128,7 +111,7 @@
    "reason": "pengwin exact: replicates base pick",
    "conf": 1.0,
    "end": "2026-10-24T16:00:00+00:00",
-   "last_bid": 0.57,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -168,8 +151,8 @@
    "book_err": false
   }
  ],
- "closed_count": 37,
- "realized_pnl": 35.36,
+ "closed_count": 38,
+ "realized_pnl": 40.07,
  "pages": {
   "pending": 128,
   "picked": 1,
