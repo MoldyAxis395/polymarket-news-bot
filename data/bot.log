@@ -19023,3 +19023,24 @@
 2026-10-25 01:03:58 indexed 963 markets
 2026-10-25 01:07:07   drop[kind] Aaron Rodgers not surprised by NFL’s handling of Jalen Hurts injury (Awful Announcing) :: other
 2026-10-25 01:13:59 indexed 961 markets
+2026-10-25 01:20:27   drop[verify] Marcus Smart (G, Houston Rockets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Uncertain roster/impact
+2026-10-25 01:20:29 NEWS [ESPN 2m] Trey Alexander (G, Utah Jazz) ruled out: Day-To-Day -> Out [NBA]
+2026-10-25 01:20:29   skip Lakers :: Lakers vs. Jazz (low conf 0.6)
+2026-10-25 01:20:56   llm groq-120b: rate limited, skip 159s
+2026-10-25 01:20:57   drop[kind] Machine learning reveals hidden subtypes of intestinal injury in preterm infants (Bioengineer.org) :: other
+2026-10-25 01:22:27   drop[unconfirmed] Adou Thiero (F, Los Angeles Lakers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: day-to-day
+2026-10-25 01:22:28   drop[no-pick] Cameron Carr (G, Los Angeles Lakers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: no suitable outcome to rise
+2026-10-25 01:24:01 indexed 959 markets
+2026-10-25 01:34:02 indexed 986 markets
+2026-10-25 01:37:12   drop[not-key] NFL: Roster Moves Charbonnet ruled out for Seahawks; other status on other teams (www.west42sports.com) :: J. Charbonnet: injury
+2026-10-25 01:38:57   drop[not-key] Houston Dynamo FC confirmed lineup vs Minnesota United FC: Agustín Resch, Diadie Samasseko (ESPN) :: Agustín Resch: ruled out of starting XI
+2026-10-25 01:38:58 NEWS [ESPN 0m] Minnesota United FC confirmed lineup vs Houston Dynamo FC: Wil Trapp ruled out of starting XI [usa.1]
+2026-10-25 01:38:58   skip Yes :: Will Houston Dynamo win on 2026-10-24? (low conf 0.62)
+2026-10-25 01:44:03 indexed 996 markets
+2026-10-25 01:44:53 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-25 01:46:27   llm groq-120b: rate limited, skip 15s
+2026-10-25 01:46:27   drop[1-source] Eagles short-handed vs Dallas as DeVonta Smith sits again with a hamstring injury (Medicine Hat News) :: DeVonta Smith, wait 2nd source
+2026-10-25 01:47:07   llm groq-120b: rate limited, skip 110s
+2026-10-25 01:47:08   drop[side] FC Dallas confirmed lineup vs San Jose Earthquakes: Nolan Norris, Christian Cappis, Patric (ESPN) :: Will FC Dallas win on 2026-10-24? -> Yes vs fact ruled_out: - (FC Dallas, soccer), bad for FC Dallas. Nolan Norris, Chri
+2026-10-25 01:47:08 NEWS [ESPN 0m] San Jose Earthquakes confirmed lineup vs FC Dallas: Preston Judd ruled out of starting XI [usa.1]
+2026-10-25 01:47:08   skip Yes :: Will FC Dallas win on 2026-10-24? (low conf 0.6)
