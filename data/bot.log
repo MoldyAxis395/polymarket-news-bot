@@ -18670,3 +18670,18 @@
 2026-10-24 16:34:01 indexed 965 markets
 2026-10-24 16:34:54   drop[kind] Jannik Sinner's injury situation takes a new turn after latest medical reports (Tennis World USA) :: other
 2026-10-24 16:44:02 indexed 963 markets
+2026-10-24 16:48:44   drop[team-not-named] Dallas Mavericks Coach Makes Concerning Cooper Flagg Injury Announcement (Heavy.com) :: Boston Celtics
+2026-10-24 16:50:19 NEWS [ESPN 15m] DeShon Elliott (S, Pittsburgh Steelers) cleared to play: Injured Reserve -> Active [NFL]
+2026-10-24 16:50:19   skip Steelers :: Steelers vs. Saints (low conf 0.55)
+2026-10-24 16:51:16   drop[not-key] Goodrem 'grateful' ahead of Strictly return from injury - British Soap News (Howl.Link) :: Delta Goodrem: goodrem will return from injury
+2026-10-24 16:54:03 indexed 962 markets
+2026-10-24 17:04:03 indexed 957 markets
+2026-10-24 17:08:42   drop[no-pick] Six-try Ireland beat South Africa in Cape Town (BBC) :: short
+2026-10-24 17:11:45   drop[1-source] Star RB 1 of 5 Cincinnati players ruled out for Texas Tech bout (ClutchPoints) :: University of Cincinnati Bearcats, wait 2nd source
+2026-10-24 17:12:14 [pengwin]   book error Will Como 1907 win on 2026-10-24?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=104733468497931276954672902441587750411075214791181820294654797492456184699860
+2026-10-24 17:14:06 indexed 961 markets
+2026-10-24 17:14:12   drop[kind] Suncroft's Sam Prendergast In Doubt For Ireland Opener Following Wrist Injury With Leinste (www.kfmradio.com) :: other
+2026-10-24 17:16:09   llm groq-120b: rate limited, skip 286s
+2026-10-24 17:16:09 NEWS [ESPN 0m] Napoli confirmed lineup vs AS Roma: Amir Rrahmani, Leonardo Spinazzola ruled out of starting XI [ita.1]
+2026-10-24 17:16:09   skip No :: Will SSC Napoli win on 2026-10-24? (low conf 0.6)
+2026-10-24 17:16:10   drop[side] AS Roma confirmed lineup vs Napoli: Leonardo Balerdi, Daniele Ghilardi, Nahuel Molina, Rod (ESPN) :: Will AS Roma win on 2026-10-24? -> Yes vs fact ruled_out: Lorenzo Pellegrini (AS Roma, soccer), bad for AS Roma. injury
