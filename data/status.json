@@ -1,14 +1,33 @@
 {
- "updated": "2026-10-24T19:02:56",
+ "updated": "2026-10-24T19:33:05",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 327,
- "markets_indexed": 965,
- "news_processed": 68,
- "cash": 84.02,
- "equity": 84.02,
+ "llm_calls_today": 370,
+ "markets_indexed": 964,
+ "news_processed": 113,
+ "cash": 74.02,
+ "equity": 83.75,
  "start": 100.0,
- "open": [],
+ "open": [
+  {
+   "market_id": "5035384",
+   "question": "Kings vs. Devils",
+   "slug": "nhl-lak-nj-2026-10-24",
+   "outcome": "Kings",
+   "token": "113129453360689563122930269351077598322975690891378086817887187603497330776576",
+   "shares": 27.027027027027028,
+   "entry": 0.37,
+   "cost": 10.0,
+   "opened": 1792861612.028905,
+   "opened_iso": "2026-10-24T17:06:52+00:00",
+   "news": "Connor Hellebuyck (G, New Jersey Devils) ruled out: Day-To-Day -> Out [NHL]",
+   "reason": "llm[groq-20b] trusted: Devils goalie ruled out, likely reduces Devils win probability, causing Kings win odds to rise.",
+   "conf": 0.65,
+   "end": "2026-10-24T19:30:00+00:00",
+   "last_bid": 0.36,
+   "book_err": false
+  }
+ ],
  "closed_count": 90,
  "llm": {
   "backends": [
@@ -16,22 +35,24 @@
    "groq-20b"
   ],
   "fallbacks": 3,
-  "errors": {},
+  "errors": {
+   "groq-120b": "rate limited, skip 146s"
+  },
   "rejects": {
-   "verify": 2,
-   "not-key": 2,
-   "side": 2,
-   "fluff": 16,
-   "unconfirmed": 3,
-   "no-market": 1,
-   "kind": 6,
-   "team-not-named": 5,
-   "1-source": 1,
-   "no-pick": 1
+   "verify": 3,
+   "not-key": 7,
+   "side": 4,
+   "fluff": 26,
+   "unconfirmed": 11,
+   "no-market": 2,
+   "kind": 8,
+   "team-not-named": 6,
+   "1-source": 4,
+   "no-pick": 3
   },
   "calls": {
-   "groq-120b": 219,
-   "groq-20b": 108
+   "groq-120b": 235,
+   "groq-20b": 135
   }
  },
  "realized_pnl": -15.98

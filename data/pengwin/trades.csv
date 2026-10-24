@@ -84,3 +84,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-24T16:01:39+00:00,SELL,Will Como 1907 win on 2026-10-24?,Yes,15.15,1.0000,15.15,+5.15,resolved
 2026-10-24T16:01:39+00:00,SELL,Will SC Paderborn 07 win on 2026-10-24?,No,16.95,0.0000,0.00,-10.00,resolved
 2026-10-24T16:33:50+00:00,SELL,Coventry City FC vs. Fulham FC: O/U 3.5,Under,14.71,1.0000,14.71,+4.71,resolved
+2026-10-24T17:10:07+00:00,SELL,Real Racing Club vs. RCD Espanyol de Barcelona: Real Racing Club O/U 0.5,Over,12.35,1.0000,12.35,+2.35,resolved
+2026-10-24T17:12:10+00:00,SELL,Will Arsenal FC win on 2026-10-24?,Yes,14.49,1.0000,14.49,+4.49,resolved
