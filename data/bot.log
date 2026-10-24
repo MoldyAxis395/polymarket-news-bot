@@ -18521,3 +18521,10 @@
 2026-10-24 11:37:01   llm groq-120b: rate limited, skip 23s
 2026-10-24 11:37:02   drop[1-source] Celik and Nico Gonzalez Injury: Juventus Blow Before Lecce (Juvefc.com) :: Celik, wait 2nd source
 2026-10-24 11:38:32 shift over, state saved
+2026-10-24 12:12:42 === start mode=paper pid=2079 ===
+2026-10-24 12:12:42 brain=llm cash=84.02 open=0
+2026-10-24 12:12:42 resuming with 8789 known news items
+2026-10-24 12:13:10 indexed 957 markets
+2026-10-24 12:13:28   drop[no-pick] India's Kotak Bank Q2 profit rises 29%, beats estimates reut.rs/4yIUWnc (Reuters) :: short
+2026-10-24 12:15:53   drop[not-key] Damien’s Tonga Tuifua suffers head injury in game against ‘Iolani (Honolulu Star-Advertiser) :: Tonga Tuifua: suffered head injury in game
+2026-10-24 12:15:53   drop[team-not-named] Dogs dealt big injury blow as star injures ankle (afl.com.au) :: Western Bulldogs
