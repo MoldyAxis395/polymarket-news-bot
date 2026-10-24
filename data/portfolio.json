@@ -17,7 +17,8 @@
    "conf": 0.8,
    "end": "2026-10-25T17:00:00+00:00",
    "last_bid": 0.58,
-   "book_err": false
+   "book_err": false,
+   "settle_retry": 1792882876.3528666
   }
  ],
  "closed": [

@@ -19008,3 +19008,18 @@
 2026-10-25 00:43:59   drop[kind] Alonso responds to fears Spurs players KNEW about Joao Pedro injury (The Irish Sun) :: other
 2026-10-25 00:46:02   llm groq-120b: rate limited, skip 97s
 2026-10-25 00:46:02   llm groq-20b: rate limited, skip 44s
+2026-10-25 00:48:33   drop[kind] Kaysville Fire, other agencies rescue teen with leg injury (Gephardt Daily) :: other
+2026-10-25 00:48:33   llm groq-120b: rate limited, skip 375s
+2026-10-25 00:48:33   llm groq-20b: rate limited, skip 25s
+2026-10-25 00:50:51   drop[kind] UMLAUF Sculpture Garden + Museum presents "David Everett: Drawn to Carve" and "Suspended:  (CultureMap Austin) :: other
+2026-10-25 00:51:16   book error Bengals vs. Ravens: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-25 00:52:05 NEWS [ESPN 0m] Philadelphia Union confirmed lineup vs New England Revolution: Cavan Sullivan ruled out of starting XI [usa.1]
+2026-10-25 00:52:05   skip No :: Will Philadelphia Union win on 2026-10-24? (low conf 0.6)
+2026-10-25 00:52:05   llm groq-20b: rate limited, skip 429s
+2026-10-25 00:53:56 indexed 956 markets
+2026-10-25 00:54:24 NEWS [ESPN 10m] Justin Danforth (RW, Buffalo Sabres) ruled out: Day-To-Day -> Out [NHL]
+2026-10-25 00:54:24   skip Capitals :: Sabres vs. Capitals (rules fallback, LLM down (not traded))
+2026-10-25 01:00:07   drop[not-key] Freshman Jake Fette Enters Game Vs. Kansas State, Cutter Boley Benched Again Following Mik (Sports Illustrated) :: Cutter Boley: Benched for the game after Mikey Keene's injury
+2026-10-25 01:03:58 indexed 963 markets
+2026-10-25 01:07:07   drop[kind] Aaron Rodgers not surprised by NFL’s handling of Jalen Hurts injury (Awful Announcing) :: other
+2026-10-25 01:13:59 indexed 961 markets
