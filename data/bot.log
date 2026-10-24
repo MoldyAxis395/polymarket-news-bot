@@ -18510,3 +18510,14 @@
 2026-10-24 11:24:35 indexed 979 markets
 2026-10-24 11:25:28   llm groq-120b: rate limited, skip 97s
 2026-10-24 11:25:29   drop[team-not-named] One of them is surprising: Kvaratskhelia's injury puts Luis Enrique on three paths (Goal.com) :: FC Barcelona
+2026-10-24 11:30:26   llm groq-120b: rate limited, skip 53s
+2026-10-24 11:30:26   drop[side] Pelicans center Yves Missi helped off court vs. Jazz with knee injury (ESPN) :: Pelicans vs. Nuggets -> Pelicans vs fact ruled_out: Yves Missi (New Orleans Pelicans, nba), bad for New Orleans Pelicans
+2026-10-24 11:32:23   llm groq-120b: rate limited, skip 95s
+2026-10-24 11:32:24   drop[kind] Rams' Puka Nacua questionable against Raiders with calf injury, Sean McVay says decision w (The Sporting Tribune) :: other
+2026-10-24 11:34:36 indexed 981 markets
+2026-10-24 11:34:44   drop[kind] More suspended time for N.Va Man (Shore Daily News) :: other
+2026-10-24 11:35:07   llm groq-120b: rate limited, skip 19s
+2026-10-24 11:35:08   drop[no-market] Rugby Fiji avenge Pacific Nations loss in thrilling 34-28 win over Japan reut.rs/47EEI3e (Reuters) :: Fiji national rugby team
+2026-10-24 11:37:01   llm groq-120b: rate limited, skip 23s
+2026-10-24 11:37:02   drop[1-source] Celik and Nico Gonzalez Injury: Juventus Blow Before Lecce (Juvefc.com) :: Celik, wait 2nd source
+2026-10-24 11:38:32 shift over, state saved
