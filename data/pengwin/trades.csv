@@ -81,3 +81,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-23T22:41:31+00:00,BUY,Will SC Paderborn 07 win on 2026-10-24?,No,16.95,0.5900,10.00,,PADERBORN-AMBURGO: X2 (esatto) | pengwin exact: replicates X2 as not home win
 2026-10-23T23:12:20+00:00,BUY,FC Barcelona vs. Real Madrid CF: Both Teams to Score,Yes,12.99,0.7700,10.00,,Barcellona-Real Madrid: GG (esatto) | pengwin exact: Both Teams to Score leg of the 1X+Gol combo
 2026-10-24T15:21:52+00:00,SELL,Will Como 1907 win on 2026-10-24?,Yes,15.15,1.0000,15.15,+5.15,resolved
+2026-10-24T15:50:52+00:00,SELL,FC Augsburg vs. 1. FC Union Berlin: O/U 1.5,Over,11.76,1.0000,11.76,+1.76,resolved
