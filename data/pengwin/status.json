@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T17:57:01",
+ "updated": "2026-10-24T18:02:41",
  "start": 100.0,
  "cash": 47.98,
- "equity": 155.13,
+ "equity": 145.23,
  "open": [
   {
    "market_id": "5597100",
@@ -146,27 +146,8 @@
    "reason": "pengwin approx: closest available bet to home win with opponent zero goals",
    "conf": 1.0,
    "end": "2026-10-24T18:45:00+00:00",
-   "last_bid": 0.65,
+   "last_bid": 0.66,
    "book_err": false
-  },
-  {
-   "market_id": "5534111",
-   "question": "Will SC Paderborn 07 win on 2026-10-24?",
-   "slug": "bun-scp-hsv-2026-10-24-scp",
-   "outcome": "No",
-   "token": "94646940641383786083280826631900481102372044163057258872918925528566577151064",
-   "shares": 16.949152542372882,
-   "entry": 0.59,
-   "cost": 10.0,
-   "opened": 1792795291.5743854,
-   "opened_iso": "2026-10-23T22:41:31+00:00",
-   "news": "PADERBORN-AMBURGO: X2 (esatto)",
-   "reason": "pengwin exact: replicates X2 as not home win",
-   "conf": 1.0,
-   "end": "2026-10-24T13:30:00+00:00",
-   "last_bid": null,
-   "book_err": true,
-   "settle_retry": 1792858021.042116
   },
   {
    "market_id": "5599710",
@@ -187,8 +168,8 @@
    "book_err": false
   }
  ],
- "closed_count": 36,
- "realized_pnl": 45.36,
+ "closed_count": 37,
+ "realized_pnl": 35.36,
  "pages": {
   "pending": 128,
   "picked": 1,

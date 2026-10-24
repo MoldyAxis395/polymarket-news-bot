@@ -18685,42 +18685,25 @@
 2026-10-24 17:16:09 NEWS [ESPN 0m] Napoli confirmed lineup vs AS Roma: Amir Rrahmani, Leonardo Spinazzola ruled out of starting XI [ita.1]
 2026-10-24 17:16:09   skip No :: Will SSC Napoli win on 2026-10-24? (low conf 0.6)
 2026-10-24 17:16:10   drop[side] AS Roma confirmed lineup vs Napoli: Leonardo Balerdi, Daniele Ghilardi, Nahuel Molina, Rod (ESPN) :: Will AS Roma win on 2026-10-24? -> Yes vs fact ruled_out: Lorenzo Pellegrini (AS Roma, soccer), bad for AS Roma. injury
-2026-10-24 17:21:52 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +5.15 :: Will Como 1907 win on 2026-10-24?
-2026-10-24 17:22:38   drop[kind] Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat (BBC) :: other
-2026-10-24 17:23:25   llm groq-120b: rate limited, skip 108s
-2026-10-24 17:23:25   drop[kind] Warriors Get Double Injury Blow After Stephen Curry’s Stunning Admission (heavy.com) :: other
-2026-10-24 17:23:26   drop[1-source] Chelsea hit with huge injury blow as Joao Pedro misses Tottenham clash (Yahoo) :: Joao Pedro, wait 2nd source
-2026-10-24 17:23:27   drop[side] Chelsea XI vs Tottenham: No Joao Pedro - starting lineup, confirmed team news and injury l (London Evening Standard) :: Will Chelsea FC win on 2026-10-24? -> Yes vs fact ruled_out: Joao Pedro (Chelsea, soccer), bad for Chelsea. injury
-2026-10-24 17:23:28   drop[unconfirmed] Serie A: Chukwueze to miss two months with hip injury (Daily Post Nigeria) :: hip injury
-2026-10-24 17:23:28   drop[unconfirmed] Chelsea vs. Tottenham lineups confirmed as Joao Pedro, Dominic Solanke, Geovany Quenda dec (Sports Mole) :: lineup confirmed
-2026-10-24 17:23:29   drop[team-not-named] Chukwueze Faces Two-Month Layoff With Hip Injury (Complete Sports) :: Philadelphia Eagles
-2026-10-24 17:24:07 indexed 952 markets
-2026-10-24 17:30:21   drop[kind] Chelsea XI vs Tottenham: Starting lineup and confirmed team news (London Evening Standard) :: other
-2026-10-24 17:32:29   llm groq-120b: rate limited, skip 280s
-2026-10-24 17:32:29 NEWS [ESPN 0m] Chelsea confirmed lineup vs Tottenham Hotspur: Emiliano Martínez, João Pedro ruled out of starting XI [eng.1]
-2026-10-24 17:32:29   skip Yes :: Will Tottenham Hotspur FC win on 2026-10-24? (low conf 0.6)
-2026-10-24 17:32:30   drop[side] Tottenham Hotspur confirmed lineup vs Chelsea: Tosin Adarabioyo, Dominic Solanke ruled out (ESPN) :: Will Tottenham Hotspur FC win on 2026-10-24? -> Yes vs fact ruled_out: Tosin Adarabioyo (Tottenham Hotspur, soccer), bad
-2026-10-24 17:32:42   drop[1-source] AC Milan lose Rabiot and Moreira to injury (French Football Weekly) :: Rabiot, wait 2nd source
-2026-10-24 17:34:08 indexed 948 markets
-2026-10-24 17:37:38   drop[1-source] Free State principal suspended for denying pupil to write exams over unpaid fees (The Citizen) :: Free State Department of Education, wait 2nd source
-2026-10-24 17:37:38   llm groq-120b: rate limited, skip 183s
-2026-10-24 17:37:39   drop[kind] NBA injury report for Saturday, October 24: LeBron James questionable (TalkBasket.net) :: other
-2026-10-24 17:38:49   drop[not-key] Logan Thompson (G, Washington Capitals) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Logan Thompson: day‑to‑day injury
-2026-10-24 17:39:39   drop[team-not-named] Evgeni Malkin Injury: Not playing Saturday (RotoWire) :: Pittsburgh Penguins
-2026-10-24 17:39:40   drop[no-pick] Market Rasen bar's licence suspended after cocaine discoveries (BBC) :: short
-2026-10-24 17:40:18 [pengwin]   book error FC Augsburg vs. 1. FC Union Berlin: O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=42344172169893864495884793134204496090209988363446712650007416688338510236432
-2026-10-24 17:42:45   llm groq-120b: rate limited, skip 237s
-2026-10-24 17:42:46 NEWS [Fabrizio Romano 0m] 🚨⚠️ Chelsea confirm João Pedro has suffered an injury and he’s being assessed. Not available against Spurs today. ❌🇧🇷
-2026-10-24 17:42:46   skip No :: Will Chelsea FC win on 2026-10-24? (low conf 0.6)
-2026-10-24 17:44:10 indexed 942 markets
-2026-10-24 17:44:13   drop[side] Evgeni Malkin (C, Pittsburgh Penguins) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Predators vs. Penguins -> Penguins vs fact ruled_out: Evgeni Malkin (Pittsburgh Penguins, nhl), bad for Pittsburgh Pengu
-2026-10-24 17:44:42   drop[side] Borussia Dortmund confirmed lineup vs Eintracht Frankfurt: Carney Chukwuemeka ruled out of (ESPN) :: Will BV Borussia 09 Dortmund win on 2026-10-24? -> Yes vs fact ruled_out: Carney Chukwuemeka (Borussia Dortmund, soccer)
-2026-10-24 17:44:43   drop[side] Eintracht Frankfurt confirmed lineup vs Borussia Dortmund: Keita Kosugi, Mario Götze ruled (ESPN) :: Will Eintracht Frankfurt win on 2026-10-24? -> Yes vs fact ruled_out: Keita Kosugi (Eintracht Frankfurt, soccer), bad fo
-2026-10-24 17:46:57   llm groq-120b: rate limited, skip 171s
-2026-10-24 17:46:57   drop[side] Valencia confirmed lineup vs Villarreal: Dani Raba, Hugo Duro ruled out of starting XI [es (ESPN) :: Will Valencia CF win on 2026-10-24? -> Yes vs fact ruled_out: - (Valencia CF, soccer), bad for Valencia CF. Dani Raba an
-2026-10-24 17:46:59   drop[side] Villarreal confirmed lineup vs Valencia: Sergi Cardona, Pau Navarro, Alberto Moleiro, Nath (ESPN) :: Will Villarreal CF win on 2026-10-24? -> Yes vs fact ruled_out: Georges Mikautadze (Villarreal CF, soccer), bad for Vill
-2026-10-24 17:48:53   drop[kind] Jake Evans Delivers Huge Performance For Montreal Canadiens After Nick Suzuki Injury Blow (NDTV Sports) :: other
-2026-10-24 17:50:52 [pengwin]   SELL Over @ 1.000 (resolved) pnl +1.76 :: FC Augsburg vs. 1. FC Union Berlin: O/U 1.5
-2026-10-24 17:54:10 indexed 932 markets
-2026-10-24 17:57:01 [pengwin]   book error Will SC Paderborn 07 win on 2026-10-24?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=94646940641383786083280826631900481102372044163057258872918925528566577151064
-2026-10-24 17:57:43 shift over, state saved
+2026-10-24 17:58:00 === start mode=paper pid=2180 ===
+2026-10-24 17:58:00 brain=llm cash=84.02 open=0
+2026-10-24 17:58:00 resuming with 8744 known news items
+2026-10-24 17:58:26 indexed 939 markets
+2026-10-24 17:58:48   drop[verify] Evgeni Malkin (C, Pittsburgh Penguins) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: player may no longer be on Penguins
+2026-10-24 17:58:48   llm groq-120b: rate limited, skip 339s
+2026-10-24 17:58:48   drop[not-key] Logan Thompson (G, Washington Capitals) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Logan Thompson: day‑to‑day injury
+2026-10-24 17:58:49 NEWS [ESPN 0m] Chelsea confirmed lineup vs Tottenham Hotspur: Emiliano Martínez, João Pedro ruled out of starting XI [eng.1]
+2026-10-24 17:58:49   skip No :: Will Chelsea FC win on 2026-10-24? (low conf 0.6)
+2026-10-24 17:58:51 NEWS [ESPN 0m] Tottenham Hotspur confirmed lineup vs Chelsea: Tosin Adarabioyo, Dominic Solanke ruled out of starting XI [eng.1]
+2026-10-24 17:58:51   skip Yes :: Will Chelsea FC win on 2026-10-24? (low conf 0.6)
+2026-10-24 17:58:52 NEWS [ESPN 0m] Valencia confirmed lineup vs Villarreal: Dani Raba, Hugo Duro ruled out of starting XI [esp.1]
+2026-10-24 17:58:52   skip No :: Will Valencia CF win on 2026-10-24? (low conf 0.6)
+2026-10-24 17:58:53   drop[side] Villarreal confirmed lineup vs Valencia: Sergi Cardona, Pau Navarro, Alberto Moleiro, Nath (ESPN) :: Will Villarreal CF win on 2026-10-24? -> Yes vs fact ruled_out: Georges Mikautadze (Villarreal CF, soccer), bad for Vill
+2026-10-24 17:58:54   drop[side] Borussia Dortmund confirmed lineup vs Eintracht Frankfurt: Carney Chukwuemeka ruled out of (ESPN) :: Will BV Borussia 09 Dortmund win on 2026-10-24? -> Yes vs fact ruled_out: Carney Chukwuemeka (Borussia Dortmund, soccer)
+2026-10-24 17:58:54   llm groq-20b: rate limited, skip 1s
+2026-10-24 18:01:14   drop[unconfirmed] Cole Kmet Likely Out For Season With Right Knee Injury (Artvoice) :: right knee injury
+2026-10-24 18:01:38 [pengwin]   book error FC Augsburg vs. 1. FC Union Berlin: O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=42344172169893864495884793134204496090209988363446712650007416688338510236432
+2026-10-24 18:01:38 [pengwin]   SELL Over @ 1.000 (resolved) pnl +1.76 :: FC Augsburg vs. 1. FC Union Berlin: O/U 1.5
+2026-10-24 18:01:39 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +5.15 :: Will Como 1907 win on 2026-10-24?
+2026-10-24 18:01:39 [pengwin]   book error Will SC Paderborn 07 win on 2026-10-24?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=94646940641383786083280826631900481102372044163057258872918925528566577151064
+2026-10-24 18:01:39 [pengwin]   SELL No @ 0.000 (resolved) pnl -10.00 :: Will SC Paderborn 07 win on 2026-10-24?
