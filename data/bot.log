@@ -18707,3 +18707,18 @@
 2026-10-24 18:01:39 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +5.15 :: Will Como 1907 win on 2026-10-24?
 2026-10-24 18:01:39 [pengwin]   book error Will SC Paderborn 07 win on 2026-10-24?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=94646940641383786083280826631900481102372044163057258872918925528566577151064
 2026-10-24 18:01:39 [pengwin]   SELL No @ 0.000 (resolved) pnl -10.00 :: Will SC Paderborn 07 win on 2026-10-24?
+2026-10-24 18:08:29 indexed 975 markets
+2026-10-24 18:09:49   drop[no-market] CJ Allen (LB, Indianapolis Colts) ruled out: Questionable -> Out [NFL] (ESPN) :: Indianapolis Colts
+2026-10-24 18:13:10   drop[kind] Bulls dealt injury scare over Bok star after Ulster win (Rugby365) :: other
+2026-10-24 18:13:39   llm groq-120b: rate limited, skip 79s
+2026-10-24 18:13:39   drop[kind] Obama endorses progressive insurgent Angie Nixon for Senate in Florida politi.co/4ifgkdw (Politico) :: other
+2026-10-24 18:17:59   drop[team-not-named] ‘I was told not to play at all’: Bublik reveals knee injury behind Almaty retirement (www.tennismajors.com) :: Kazakhstan
+2026-10-24 18:17:59   llm groq-120b: rate limited, skip 128s
+2026-10-24 18:18:00   drop[team-not-named] Anrich Nortje Ruled Out of Third Test Against Australia Due to Groin Injury (Business Upturn) :: South Africa
+2026-10-24 18:18:28 indexed 985 markets
+2026-10-24 18:20:06   drop[1-source] Real Madrid name Clásico squad as four ruled out, Vinícius Júnior suspended (OneFootball) :: Vinícius Júnior, wait 2nd source
+2026-10-24 18:22:35   drop[not-key] Jiri Kulich (C, Buffalo Sabres) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Jiri Kulich: injury
+2026-10-24 18:28:31 indexed 986 markets
+2026-10-24 18:29:22   drop[unconfirmed] Dontayvion Wicks Injury: Not spotted at Saturday's practice (RotoWire) :: not seen at practice, suggesting injury
+2026-10-24 18:29:41   llm groq-120b: rate limited, skip 49s
+2026-10-24 18:29:42   drop[unconfirmed] Egor Chinakhov (RW, Pittsburgh Penguins) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: injury
