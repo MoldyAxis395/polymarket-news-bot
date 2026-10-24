@@ -18995,3 +18995,11 @@
 2026-10-24 23:20:18   drop[not-key] Thunder waive rookie after season-ending injury (Hoops Wire) :: Jalen McDaniels: season-ending injury
 2026-10-24 23:26:58   drop[kind] Bexar County deputy fire marshal arrested on DWI charge, suspended from duty (kens5.com) :: other
 2026-10-24 23:29:13 indexed 958 markets
+2026-10-24 23:33:54   drop[1-source] UCLA quarterback Ty Dieffenbach goes down with injury before halftime (New York Post) :: Ty Dieffenbach, wait 2nd source
+2026-10-24 23:33:56 NEWS [Sky Sports 1m] Jadon Sancho offered shock deal by La Liga side Getafe; Riccardo Calafiori adds to Arsenal injury woes - Paper Talk
+2026-10-24 23:33:56   skip Yes :: Will Getafe CF win on 2026-10-25? (low conf 0.6)
+2026-10-24 23:36:13   llm groq-120b: rate limited, skip 105s
+2026-10-24 23:36:14   drop[no-market] UCLA football news: Ty Dieffenbach exits Michigan State with leg injury (ClutchPoints) :: UCLA
+2026-10-24 23:37:27 [pengwin]   book error Will SS Lazio win on 2026-10-24?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=114302319125356498168042722601423360581272169505293747228980514379239188421194
+2026-10-24 23:39:15 indexed 956 markets
+2026-10-24 23:43:02 shift over, state saved
