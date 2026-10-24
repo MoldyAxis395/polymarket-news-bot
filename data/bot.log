@@ -18960,3 +18960,28 @@
 2026-10-24 22:29:13   skip Eagles :: Cowboys vs. Eagles (rules fallback, LLM down (not traded))
 2026-10-24 22:30:17   drop[not-key] Cade Mays (C, Detroit Lions) cleared to play: Injured Reserve -> Active [NFL] (ESPN) :: Cade Mays: activated from injured reserve
 2026-10-24 22:31:31   llm groq-120b: rate limited, skip 183s
+2026-10-24 22:34:04   drop[team-not-named] DeVonta Smith is out, while Saquon Barkley is questionable but expected to play. (Ian Rapoport) :: Philadelphia Eagles
+2026-10-24 22:38:25   drop[kind] Ausar Thompson avoids major injury, questionable for Pistons vs Sixers (Detroit Free Press) :: other
+2026-10-24 22:39:08 indexed 970 markets
+2026-10-24 22:40:45   drop[1-source] Pelicans center Yves Missi avoids major knee injury, ruled out against Nuggets (Crescent City Sports) :: Yves Missi, wait 2nd source
+2026-10-24 22:41:32   llm groq-120b: rate limited, skip 176s
+2026-10-24 22:41:33   drop[not-key] Dee Winters (LB, Dallas Cowboys) ruled out: Doubtful -> Out [NFL] (ESPN) :: Dee Winters: injury
+2026-10-24 22:41:33   drop[not-key] Drew Shelton (OT, Dallas Cowboys) ruled out: Questionable -> Out [NFL] (ESPN) :: Drew Shelton: injury
+2026-10-24 22:41:33   llm groq-20b: rate limited, skip 201s
+2026-10-24 22:41:33 NEWS [ESPN 6m] KaVontae Turpin (WR, Dallas Cowboys) ruled out: Questionable -> Out [NFL]
+2026-10-24 22:41:33   skip Eagles :: Cowboys vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-24 22:47:23   llm groq-120b: rate limited, skip 176s
+2026-10-24 22:47:23   drop[side] Red Bull New York confirmed lineup vs Inter Miami CF: Justin Che, Cameron Harper ruled out (ESPN) :: Will New York Red Bulls win on 2026-10-24? -> Yes vs fact ruled_out: Justin Che (Red Bull New York, soccer), bad for Red
+2026-10-24 22:47:23   llm groq-20b: rate limited, skip 254s
+2026-10-24 22:49:10 indexed 970 markets
+2026-10-24 22:51:43   llm groq-120b: rate limited, skip 128s
+2026-10-24 22:51:43 NEWS [ESPN 6m] Christian Kirk (WR, San Francisco 49ers) cleared to play: Injured Reserve -> Active [NFL]
+2026-10-24 22:51:43   skip 49ers :: 49ers vs. Falcons (low conf 0.6)
+2026-10-24 22:56:57   drop[unconfirmed] Giants linebacker Tremaine Edmunds lost for season with shoulder injury, reports say (Newsday) :: season-ending shoulder injury
+2026-10-24 22:56:57   llm groq-120b: rate limited, skip 137s
+2026-10-24 22:56:58   drop[kind] Top Personal Injury Lawyers in Vancouver, WA (finchannel) :: other
+2026-10-24 22:59:10 indexed 960 markets
+2026-10-24 23:00:15   drop[not-key] — The Broncos activated RB Jonah Coleman from IR and OLB Jonathon Cooper from the exempt l (Ian Rapoport) :: Jonah Coleman: activated from IR
+2026-10-24 23:00:15   llm groq-120b: rate limited, skip 266s
+2026-10-24 23:00:15   drop[not-key] Significant transactions: — The Packers have activated RB Josh Jacobs to the active roster (Ian Rapoport) :: Josh Jacobs: Roster spot
+2026-10-24 23:01:52   llm groq-20b: rate limited, skip 127s
