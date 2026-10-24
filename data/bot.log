@@ -18572,3 +18572,45 @@
 2026-10-24 14:04:30   drop[1-source] Ex-principal at center of new Utah lawsuit had teaching license suspended after relationsh (The Salt Lake Tribune) :: Utah education system, wait 2nd source
 2026-10-24 14:04:31   drop[kind] “Regretting This Move”: Seahawks Put On Blast for Letting Kenneth Walker III Join Chiefs a (EssentiallySports) :: other
 2026-10-24 14:13:37 indexed 1051 markets
+2026-10-24 14:17:55 NEWS [ESPN 0m] Cagliari confirmed lineup vs Bologna: Yerry Mina, M'Bala Nzola ruled out of starting XI [ita.1]
+2026-10-24 14:17:55   skip No :: Will Cagliari Calcio win on 2026-10-24? (low conf 0.6)
+2026-10-24 14:17:55   llm groq-120b: rate limited, skip 39s
+2026-10-24 14:17:56 NEWS [ESPN 0m] Bologna confirmed lineup vs Cagliari: Massimo Pessina, Torbjørn Heggem, Riccardo Orsolini, Roberto Piccoli ruled out of starting XI [ita.1]
+2026-10-24 14:17:56   skip No :: Will Bologna FC 1909 win on 2026-10-24? (low conf 0.6)
+2026-10-24 14:17:56   drop[team-not-named] Como confirmed lineup vs Sassuolo: Jacobo Ramón, Álex Valle, Nico Paz, Luis Milla ruled ou (ESPN) :: Inter Milan
+2026-10-24 14:17:57   drop[side] Sassuolo confirmed lineup vs Como: Arijanet Muric, Josh Doig, Cas Odenthal, Kristian Thors (ESPN) :: Will US Sassuolo Calcio win on 2026-10-24? -> Yes vs fact ruled_out: Armand Laurienté (Sassuolo, soccer), bad for Sassuo
+2026-10-24 14:20:40   drop[unconfirmed] Jake Hager May Need More Surgeries After Power Slap Eye Injury (PWMania) :: eye injury may require additional surgeries
+2026-10-24 14:23:00   llm groq-120b: rate limited, skip 185s
+2026-10-24 14:23:00   drop[no-pick] Utah football player suspended amid rape investigation (thecomeback.com) :: short
+2026-10-24 14:23:37 indexed 1037 markets
+2026-10-24 14:25:16   drop[kind] Corinthians defender recalls injury frustration and earning Emily Lima’s trust (OneFootball) :: other
+2026-10-24 14:25:17   drop[unconfirmed] Delta Goodrem ‘grateful’ ahead of Strictly Come Dancing return from injury (East Lothian Courier) :: grateful
+2026-10-24 14:29:52   drop[kind] Hughesville Man Gets 10-Year Suspended Sentence, 60 Days to Serve in Domestic Assault Case (Southern Maryland News Net) :: other
+2026-10-24 14:29:52   llm groq-120b: rate limited, skip 202s
+2026-10-24 14:29:52   drop[1-source] Jhon Durán ‘to miss’ five Benfica matches with right knee injury (OneFootball) :: Jhon Durán, wait 2nd source
+2026-10-24 14:29:53   drop[1-source] The Maharashtra Food and Drug Administration (FDA) suspended Blinkit’s food business licen (Instagram) :: Blinkit, wait 2nd source
+2026-10-24 14:29:54   drop[kind] Garda being treated in ICU after head injury during Bohemians match (Extra.ie) :: other
+2026-10-24 14:32:03   drop[side] Mainz confirmed lineup vs Werder Bremen: Fabio Gruber, Eric Martel ruled out of starting X (ESPN) :: Will 1. FSV Mainz 05 win on 2026-10-24? -> Yes vs fact ruled_out: Fabio Gruber (Mainz 05, soccer), bad for Mainz 05. rul
+2026-10-24 14:32:04 NEWS [ESPN 0m] Werder Bremen confirmed lineup vs Mainz: Eren Dinkci ruled out of starting XI [ger.1]
+2026-10-24 14:32:04   skip No :: Will SV Werder Bremen win on 2026-10-24? (low conf 0.6)
+2026-10-24 14:32:12   drop[team-not-named] Airport vaccinations for Saudi-bound passengers suspended (samaa tv) :: Saudi Arabia
+2026-10-24 14:33:40 indexed 1043 markets
+2026-10-24 14:34:19   llm groq-120b: rate limited, skip 168s
+2026-10-24 14:34:20 NEWS [ESPN 0m] SC Paderborn 07 confirmed lineup vs Hamburg SV: Marvin Pieringer ruled out of starting XI [ger.1]
+2026-10-24 14:34:20   skip No :: Will SC Paderborn 07 win on 2026-10-24? (low conf 0.6)
+2026-10-24 14:34:20   drop[no-market] Hamburg SV confirmed lineup vs SC Paderborn 07: Louis Lemke, Nicolai Remberg, Albert Sambi (ESPN) :: Hamburg SV
+2026-10-24 14:40:23   llm groq-120b: rate limited, skip 184s
+2026-10-24 14:40:24 NEWS [ESPN 0m] FC Augsburg confirmed lineup vs 1. FC Union Berlin: Seol Young-Woo, Rodrigo Ribeiro, Robin Fellhauer ruled out of starting XI [ger.1]
+2026-10-24 14:40:24   skip No :: Will FC Augsburg win on 2026-10-24? (low conf 0.6)
+2026-10-24 14:40:24   drop[side] 1. FC Union Berlin confirmed lineup vs FC Augsburg: Kastriot Imeri ruled out of starting X (ESPN) :: Will FC Augsburg vs. 1. FC Union Berlin end in a draw? -> Yes vs fact ruled_out: Kastriot Imeri (1. FC Union Berlin, soc
+2026-10-24 14:40:26   drop[verify] RB Leipzig confirmed lineup vs SV Elversberg: Maarten Vandevoordt, David Raum, Ridle Baku, (ESPN) :: Rômulo not on RB Leipzig roster
+2026-10-24 14:40:29   drop[verify] SV Elversberg confirmed lineup vs RB Leipzig: Luca Sirch, Noah Darvich, Tom Zimmerschied,  (ESPN) :: Player not on team or not key enough
+2026-10-24 14:41:28   drop[1-source] "Unique Situation" - 49ers Dealt With Major Blow as at Least 6 Players Ruled Out Ahead of  (EssentiallySports) :: San Francisco 49ers, wait 2nd source
+2026-10-24 14:43:46 indexed 1043 markets
+2026-10-24 14:43:51   drop[team-not-named] Toprak Razgatlioglu Bids Farewell to the 2026 MotoGP Season Due to Injury (RideApart.com) :: Red Bull KTM Factory Racing
+2026-10-24 14:46:24 feed cnbc error x1: HTTPSConnectionPool(host='www.cnbc.com', port=443): Read timed out. (read timeout=15)
+2026-10-24 14:46:42   llm groq-120b: rate limited, skip 94s
+2026-10-24 14:46:43   drop[kind] Indian Army Soldier Overcomes Injury to Become Medal-Winning Para-Rowing Athlete (SSBCrack) :: other
+2026-10-24 14:46:47   drop[not-key] FC Cologne confirmed lineup vs Schalke 04: Joel Schmied ruled out of starting XI [ger.1] (ESPN) :: Joel Schmied: injury
+2026-10-24 14:46:48 NEWS [ESPN 0m] Schalke 04 confirmed lineup vs FC Cologne: Maximilian Wöber, Adrian Gantenbein, Kenan Karaman, Moussa Sylla ruled out of starting XI [ger.1]
+2026-10-24 14:46:48   skip No :: Will FC Schalke 04 win on 2026-10-24? (low conf 0.6)
