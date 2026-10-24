@@ -18633,3 +18633,10 @@
 2026-10-24 15:09:23   drop[team-not-named] Flick Press Conference: Kounde and Olmo Ruled Out of El Clasico (thefalse9.com) :: Real Madrid
 2026-10-24 15:13:50 indexed 1012 markets
 2026-10-24 15:15:01   drop[team-not-named] 🔵🔴 Hansi Flick: “Jules Koundé will miss El Clásico. We don’t want to take any risks with h (Fabrizio Romano) :: FC Barcelona
+2026-10-24 15:23:51 indexed 997 markets
+2026-10-24 15:27:16 NEWS [ESPN 0m] Racing Santander confirmed lineup vs Espanyol: André Almeida ruled out of starting XI [esp.1]
+2026-10-24 15:27:16   skip No :: Will Real Racing Club win on 2026-10-24? (low conf 0.6)
+2026-10-24 15:27:16   llm groq-120b: rate limited, skip 219s
+2026-10-24 15:27:17   drop[side] Espanyol confirmed lineup vs Racing Santander: Roger Hinojo, Clemens Riedel ruled out of s (ESPN) :: Will RCD Espanyol de Barcelona win on 2026-10-24? -> Yes vs fact ruled_out: Roger Hinojo (Espanyol, soccer), bad for Esp
+2026-10-24 15:33:54 indexed 1001 markets
+2026-10-24 15:43:55 indexed 980 markets
