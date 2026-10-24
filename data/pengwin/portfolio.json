@@ -143,7 +143,7 @@
    "reason": "pengwin exact: direct home win",
    "conf": 1.0,
    "end": "2026-10-24T13:00:00+00:00",
-   "last_bid": 0.66,
+   "last_bid": 0.65,
    "book_err": false
   },
   {
@@ -179,7 +179,7 @@
    "reason": "pengwin approx: closest available bet to home win with opponent zero goals",
    "conf": 1.0,
    "end": "2026-10-24T18:45:00+00:00",
-   "last_bid": 0.66,
+   "last_bid": 0.65,
    "book_err": false
   },
   {

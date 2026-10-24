@@ -18543,3 +18543,17 @@
 2026-10-24 12:35:37   drop[1-source] NZ vs IND: Ishan Kishan set to miss 3rd T20I to add to India's No.3 woes (India Today) :: Ishan Kishan, wait 2nd source
 2026-10-24 12:35:37   drop[team-not-named] Jillaroos Star Julia Robinson Sidelined for Remainder of 2026 World Cup Due to Injury (SSBCrack) :: Australia women's national soccer team
 2026-10-24 12:43:17 indexed 959 markets
+2026-10-24 12:51:58   drop[team-not-named] Patriots’ A.J. Brown Gets Injury Verdict Amid Return Struggles (heavy.com) :: Philadelphia Eagles
+2026-10-24 12:53:19 indexed 960 markets
+2026-10-24 12:54:11   drop[1-source] Arsenal dealt major blow as Bukayo Saka faces long weeks injury (Blueprint Newspapers) :: Bukayo Saka, wait 2nd source
+2026-10-24 13:02:15   drop[verify] Rayo Vallecano confirmed lineup vs Elche: Isi Palazón ruled out of starting XI [esp.1] (ESPN) :: player impact uncertain for 5+ points
+2026-10-24 13:02:15   llm groq-120b: rate limited, skip 56s
+2026-10-24 13:02:17 NEWS [ESPN 0m] Elche confirmed lineup vs Rayo Vallecano: Rubén Sánchez, Marc Aguado, José Antonio Morente ruled out of starting XI [esp.1]
+2026-10-24 13:02:17   skip No :: Will Elche CF win on 2026-10-24? (low conf 0.6)
+2026-10-24 13:03:20 indexed 950 markets
+2026-10-24 13:03:25   drop[kind] Injury-marred Rams don't want your sympathy. They're out to prove they can save their seas (Los Angeles Times) :: other
+2026-10-24 13:08:00   drop[1-source] Liverpool News: Key injury ahead of big game (Live4Liverpool.com) :: Liverpool, wait 2nd source
+2026-10-24 13:13:22 indexed 954 markets
+2026-10-24 13:15:46   drop[1-source] Jillaroos star’s World Cup over after awful injury sight (Nine.com.au) :: Kezie Apps, wait 2nd source
+2026-10-24 13:16:44   llm groq-120b: rate limited, skip 105s
+2026-10-24 13:16:44   drop[no-market] Ferguson's first game as Glentoran boss postponed (BBC) :: Glentoran

@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T12:47:17",
+ "updated": "2026-10-24T13:17:20",
  "start": 100.0,
  "cash": 21.06,
- "equity": 136.43,
+ "equity": 136.17,
  "open": [
   {
    "market_id": "5597100",
@@ -146,7 +146,7 @@
    "reason": "pengwin exact: direct home win",
    "conf": 1.0,
    "end": "2026-10-24T13:00:00+00:00",
-   "last_bid": 0.66,
+   "last_bid": 0.65,
    "book_err": false
   },
   {
@@ -182,7 +182,7 @@
    "reason": "pengwin approx: closest available bet to home win with opponent zero goals",
    "conf": 1.0,
    "end": "2026-10-24T18:45:00+00:00",
-   "last_bid": 0.66,
+   "last_bid": 0.65,
    "book_err": false
   },
   {
