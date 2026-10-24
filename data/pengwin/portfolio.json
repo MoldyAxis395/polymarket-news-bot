@@ -35,27 +35,8 @@
    "reason": "pengwin approx: represents home team scoring at least 1 goal, closest to Multigol 1-3 casa",
    "conf": 1.0,
    "end": "2026-10-25T15:15:00+00:00",
-   "last_bid": 0.73,
+   "last_bid": 0.72,
    "book_err": false
-  },
-  {
-   "market_id": "5536710",
-   "question": "BV Borussia 09 Dortmund vs. Eintracht Frankfurt: Both Teams to Score",
-   "slug": "bun-dor-ein-2026-10-24-btts",
-   "outcome": "Yes",
-   "token": "25185211779760821744645218698392356738657965693912043707872113101566082611903",
-   "shares": 15.384615384615383,
-   "entry": 0.65,
-   "cost": 10.0,
-   "opened": 1792755667.9212182,
-   "opened_iso": "2026-10-23T11:41:07+00:00",
-   "news": "BORUSSIA DORTMUND-FRANCOFORTE: GOAL @0.64 (approssimato)",
-   "reason": "pengwin approx: replicates GOAL leg of combo",
-   "conf": 1.0,
-   "end": "2026-10-24T16:30:00+00:00",
-   "last_bid": 0.001,
-   "book_err": false,
-   "settle_retry": 1792866751.7881184
   },
   {
    "market_id": "5526290",
@@ -72,7 +53,7 @@
    "reason": "pengwin approx: closest available bet to home win with opponent zero goals",
    "conf": 1.0,
    "end": "2026-10-24T18:45:00+00:00",
-   "last_bid": 0.66,
+   "last_bid": 0.63,
    "book_err": false
   },
   {
@@ -1037,6 +1018,29 @@
    "pnl": 4.925373134328357,
    "why": "resolved",
    "closed_iso": "2026-10-24T18:27:36+00:00"
+  },
+  {
+   "market_id": "5536710",
+   "question": "BV Borussia 09 Dortmund vs. Eintracht Frankfurt: Both Teams to Score",
+   "slug": "bun-dor-ein-2026-10-24-btts",
+   "outcome": "Yes",
+   "token": "25185211779760821744645218698392356738657965693912043707872113101566082611903",
+   "shares": 15.384615384615383,
+   "entry": 0.65,
+   "cost": 10.0,
+   "opened": 1792755667.9212182,
+   "opened_iso": "2026-10-23T11:41:07+00:00",
+   "news": "BORUSSIA DORTMUND-FRANCOFORTE: GOAL @0.64 (approssimato)",
+   "reason": "pengwin approx: replicates GOAL leg of combo",
+   "conf": 1.0,
+   "end": "2026-10-24T16:30:00+00:00",
+   "last_bid": null,
+   "book_err": true,
+   "settle_retry": 1792868849.8212583,
+   "exit": 0.0,
+   "pnl": -10.0,
+   "why": "resolved",
+   "closed_iso": "2026-10-24T18:57:30+00:00"
   }
  ],
  "cooldown": {
@@ -1080,6 +1084,7 @@
   "5536957": 1792870431.391569,
   "5540216": 1792872608.2566147,
   "5534122": 1792872730.7844586,
-  "5536950": 1792877256.5443037
+  "5536950": 1792877256.5443037,
+  "5536710": 1792879050.486209
  }
 }

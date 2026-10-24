@@ -18850,3 +18850,31 @@
 2026-10-24 20:32:09   drop[1-source] Mavericks Face Double Injury Blow as Kyrie Irving Joins Cooper Flagg on Injury Report (heavy.com) :: Kyrie Irving, wait 2nd source
 2026-10-24 20:32:09   llm groq-120b: rate limited, skip 226s
 2026-10-24 20:32:09   drop[kind] Dani Olmo injury scare as Barcelona await crucial test results (Six Sports) :: other
+2026-10-24 20:37:02   llm groq-120b: rate limited, skip 239s
+2026-10-24 20:37:04   drop[verify] Alabama DB suspended ahead of Saturday’s game vs. Texas A&M (Touchdown Alabama) :: uncertain on player, newness, impact
+2026-10-24 20:37:05   drop[1-source] Lazio Dealt Late Blow as Pinamonti Ruled Out of Parma Game (LiveScore) :: Matteo Pinamonti, wait 2nd source
+2026-10-24 20:38:59 indexed 953 markets
+2026-10-24 20:39:07   drop[1-source] Tears and shock: horrific injury to Valencia star (Goal.com) :: Pablo Sarabia, wait 2nd source
+2026-10-24 20:40:22   drop[not-key] Jett Howard (G, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Jett Howard: day‑to‑day
+2026-10-24 20:40:22   drop[unconfirmed] Tobias Harris (F, San Antonio Spurs) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: injury
+2026-10-24 20:41:25   llm groq-120b: rate limited, skip 42s
+2026-10-24 20:41:26 NEWS [Sports Illustrated 2m] Alabama Defensive Back Suspended for Second Time in as Many Seasons
+2026-10-24 20:41:26   skip Texas A&M :: Texas A&M vs. Alabama (low conf 0.6)
+2026-10-24 20:41:26   drop[not-key] Chiefs Injury Roundup: Brashard Smith Placed on IR, Latest on L'Jarius Sneed (Sports Illustrated) :: Brashard Smith: injury
+2026-10-24 20:41:27   drop[kind] Tears and shock: horrific injury for Valencia star (Goal.com) :: other
+2026-10-24 20:42:08   llm groq-120b: rate limited, skip 86s
+2026-10-24 20:42:11   drop[verify] Columbus Crew confirmed lineup vs Toronto FC: Josef Martínez, Brais Méndez ruled out of st (ESPN) :: Josef Martínez is not on Columbus Crew
+2026-10-24 20:42:12 NEWS [ESPN 0m] Toronto FC confirmed lineup vs Columbus Crew: Nickseon Gomis, Kobe Franklin ruled out of starting XI [usa.1]
+2026-10-24 20:42:12   skip Yes :: Will Columbus Crew win on 2026-10-24? (low conf 0.6)
+2026-10-24 20:46:20   drop[kind] Clusterin shields lung cells from sepsis damage by blocking Bax-driven mitochondrial injur (Bioengineer.org) :: other
+2026-10-24 20:48:59 indexed 969 markets
+2026-10-24 20:50:40   drop[kind] NBA Fans Want Aaron Nesmith Suspended For ‘Dirty’ Foul On Cooper Flagg (The Spun) :: other
+2026-10-24 20:52:58   drop[1-source] Tottenham press conference LIVE - De Zerbi on Fernandes, Tel and Maddison injury (Football London) :: Tottenham Hotspur, wait 2nd source
+2026-10-24 20:53:27 [pengwin]   book error BV Borussia 09 Dortmund vs. Eintracht Frankfurt: B: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=25185211779760821744645218698392356738657965693912043707872113101566082611903
+2026-10-24 20:57:30 [pengwin]   SELL Yes @ 0.000 (resolved) pnl -10.00 :: BV Borussia 09 Dortmund vs. Eintracht Frankfurt: Both Teams to Score
+2026-10-24 20:57:36   llm groq-120b: rate limited, skip 95s
+2026-10-24 20:57:36   drop[team-not-named] Fraternity suspended until 2030 after hazing investigation (WWNY) :: 
+2026-10-24 20:59:02 indexed 976 markets
+2026-10-24 21:02:14   drop[no-market] Arsenal beat Everton to go level on points with leaders Man City (BBC) :: Arsenal
+2026-10-24 21:02:14   llm groq-120b: rate limited, skip 106s
+2026-10-24 21:02:15   drop[no-market] Bobb's late strike secures Fulham win at Coventry (BBC) :: Fulham
