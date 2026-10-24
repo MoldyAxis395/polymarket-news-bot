@@ -18965,3 +18965,18 @@
 2026-10-24 23:46:28 [pengwin]   book error Will SS Lazio win on 2026-10-24?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=114302319125356498168042722601423360581272169505293747228980514379239188421194
 2026-10-24 23:46:28 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +3.17 :: Will SS Lazio win on 2026-10-24?
 2026-10-24 23:48:04   drop[team-not-named] Smith retains title with split-decision win over Puello (BBC) :: United Kingdom (British boxer)
+2026-10-24 23:53:53 indexed 952 markets
+2026-10-24 23:54:09   drop[not-key] Arkansas freshman Jordan Smith Jr. leaves Gonzaga exhibition with injury (Southwest Times Record) :: Jordan Smith Jr.: He left the Gonzaga exhibition game due to injury, ruling him out for upcoming play
+2026-10-24 23:54:12   llm groq-120b: rate limited, skip 150s
+2026-10-24 23:54:12   drop[not-key] Mark Jankowski (C, Carolina Hurricanes) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Mark Jankowski: day-to-day
+2026-10-24 23:58:32   drop[1-source] Eagles | Dallas Goedert off injury report after full practice Saturday (Fantasy Guru) :: Dallas Goedert, wait 2nd source
+2026-10-25 00:03:23   drop[not-key] Suns Downgrade Oso Ighodaro Injury Before Warriors Battle (Sports Illustrated) :: Oso Ighodaro: injury downgraded, making him more likely to play
+2026-10-25 00:03:23   llm groq-120b: rate limited, skip 201s
+2026-10-25 00:03:24   drop[1-source] Alabama OL ruled out after suffering injury in Texas A&M game (On3) :: Alabama Crimson Tide, wait 2nd source
+2026-10-25 00:03:55 indexed 960 markets
+2026-10-25 00:07:49   drop[kind] Knicks Injury Tracker: Jose Alvarado questionable against Magic with sprained ankle (SNY) :: other
+2026-10-25 00:07:49   llm groq-120b: rate limited, skip 229s
+2026-10-25 00:07:50   drop[unconfirmed] Becky Lynch Tells Stephanie Vaquer She'll Be Injured Again Within Three Weeks of WWE Retur (Ringside News) :: injury risk
+2026-10-25 00:10:06   drop[1-source] Eagles missing top two WRs as Smith, Wicks ruled out vs. Cowboys (ESPN La Crosse 105.5) :: Jalen Smith, wait 2nd source
+2026-10-25 00:13:54 indexed 958 markets
+2026-10-25 00:14:44   drop[1-source] Tennessee loses OL Donovan Haslam to injury against South Carolina (Sports Illustrated) :: Donovan Haslam, wait 2nd source
