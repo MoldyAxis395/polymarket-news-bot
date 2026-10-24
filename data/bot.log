@@ -18614,3 +18614,22 @@
 2026-10-24 14:46:47   drop[not-key] FC Cologne confirmed lineup vs Schalke 04: Joel Schmied ruled out of starting XI [ger.1] (ESPN) :: Joel Schmied: injury
 2026-10-24 14:46:48 NEWS [ESPN 0m] Schalke 04 confirmed lineup vs FC Cologne: Maximilian Wöber, Adrian Gantenbein, Kenan Karaman, Moussa Sylla ruled out of starting XI [ger.1]
 2026-10-24 14:46:48   skip No :: Will FC Schalke 04 win on 2026-10-24? (low conf 0.6)
+2026-10-24 14:48:29   drop[1-source] Stoke City injury blow confirmed as Mark Robins names team vs Bristol City (The Sentinel) :: Stoke City, wait 2nd source
+2026-10-24 14:53:16   llm groq-120b: rate limited, skip 64s
+2026-10-24 14:53:16   drop[kind] Arsenal XI vs Everton: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-10-24 14:53:48 indexed 1028 markets
+2026-10-24 14:57:44   drop[1-source] AC Milan suffer triple injury blow ahead of Udinese clash as Rabiot, Moreira and Gila rule (Milanreports.com) :: Adrien Rabiot, wait 2nd source
+2026-10-24 15:02:39   drop[team-not-named] WR Mike Evans ruled out for the San Francisco 49ers game vs. Falcons (Touchdown Wire) :: Tampa Bay Buccaneers
+2026-10-24 15:02:39   llm groq-120b: rate limited, skip 107s
+2026-10-24 15:02:40   drop[kind] Two crashes, one injury, 10 charges (Gympie Today) :: other
+2026-10-24 15:02:53   drop[side] Arsenal confirmed lineup vs Everton: Riccardo Calafiori, Jurriën Timber, Bruno Guimarães,  (ESPN) :: Will Arsenal FC win on 2026-10-24? -> Yes vs fact ruled_out: Bukayo Saka (Arsenal, soccer), bad for Arsenal. ruled out
+2026-10-24 15:02:54 NEWS [ESPN 0m] Everton confirmed lineup vs Arsenal: Ainsley Maitland-Niles, Jarrad Branthwaite, Jack Grealish ruled out of starting XI [eng.1]
+2026-10-24 15:02:54   skip Yes :: Will Arsenal FC win on 2026-10-24? (low conf 0.6)
+2026-10-24 15:02:55   drop[side] Fulham confirmed lineup vs Coventry City: Ryan Sessegnon, Kenny Tete, Sander Berge ruled o (ESPN) :: Will Fulham FC win on 2026-10-24? -> Yes vs fact ruled_out: Sander Berge (Fulham, soccer), bad for Fulham. injury
+2026-10-24 15:03:48 indexed 1024 markets
+2026-10-24 15:04:43   drop[kind] Cowboys Matched With Titans For Potential Trade to Add to Injury-Plagued Position (Sports Illustrated) :: other
+2026-10-24 15:09:22   drop[1-source] NFL Under Fire for Decision on Suspended Bills Safety (Heavy.com) :: Jordan Poyer, wait 2nd source
+2026-10-24 15:09:22   llm groq-120b: rate limited, skip 274s
+2026-10-24 15:09:23   drop[team-not-named] Flick Press Conference: Kounde and Olmo Ruled Out of El Clasico (thefalse9.com) :: Real Madrid
+2026-10-24 15:13:50 indexed 1012 markets
+2026-10-24 15:15:01   drop[team-not-named] 🔵🔴 Hansi Flick: “Jules Koundé will miss El Clásico. We don’t want to take any risks with h (Fabrizio Romano) :: FC Barcelona
