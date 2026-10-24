@@ -1,25 +1,6 @@
 {
- "cash": 74.02313778107738,
- "positions": [
-  {
-   "market_id": "5035384",
-   "question": "Kings vs. Devils",
-   "slug": "nhl-lak-nj-2026-10-24",
-   "outcome": "Kings",
-   "token": "113129453360689563122930269351077598322975690891378086817887187603497330776576",
-   "shares": 27.027027027027028,
-   "entry": 0.37,
-   "cost": 10.0,
-   "opened": 1792861612.028905,
-   "opened_iso": "2026-10-24T17:06:52+00:00",
-   "news": "Connor Hellebuyck (G, New Jersey Devils) ruled out: Day-To-Day -> Out [NHL]",
-   "reason": "llm[groq-20b] trusted: Devils goalie ruled out, likely reduces Devils win probability, causing Kings win odds to rise.",
-   "conf": 0.65,
-   "end": "2026-10-24T19:30:00+00:00",
-   "last_bid": 0.36,
-   "book_err": false
-  }
- ],
+ "cash": 84.02313778107738,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -1953,6 +1934,28 @@
    "pnl": -0.1923076923076934,
    "why": "max hold",
    "closed_iso": "2026-10-17T05:37:33+00:00"
+  },
+  {
+   "market_id": "5035384",
+   "question": "Kings vs. Devils",
+   "slug": "nhl-lak-nj-2026-10-24",
+   "outcome": "Kings",
+   "token": "113129453360689563122930269351077598322975690891378086817887187603497330776576",
+   "shares": 27.027027027027028,
+   "entry": 0.37,
+   "cost": 10.0,
+   "opened": 1792861612.028905,
+   "opened_iso": "2026-10-24T17:06:52+00:00",
+   "news": "Connor Hellebuyck (G, New Jersey Devils) ruled out: Day-To-Day -> Out [NHL]",
+   "reason": "llm[groq-20b] trusted: Devils goalie ruled out, likely reduces Devils win probability, causing Kings win odds to rise.",
+   "conf": 0.65,
+   "end": "2026-10-24T19:30:00+00:00",
+   "last_bid": 0.37,
+   "book_err": false,
+   "exit": 0.37,
+   "pnl": 0.0,
+   "why": "market closing",
+   "closed_iso": "2026-10-24T19:25:18+00:00"
   }
  ],
  "cooldown": {
@@ -2012,6 +2015,7 @@
   "4024677": 1791760822.2038703,
   "4640805": 1791976899.3379605,
   "4329883": 1792206433.6232815,
-  "4329893": 1792226253.1906776
+  "4329893": 1792226253.1906776,
+  "5035384": 1792880718.6792643
  }
 }

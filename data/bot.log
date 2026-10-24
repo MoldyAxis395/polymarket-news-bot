@@ -18878,3 +18878,24 @@
 2026-10-24 21:02:14   drop[no-market] Arsenal beat Everton to go level on points with leaders Man City (BBC) :: Arsenal
 2026-10-24 21:02:14   llm groq-120b: rate limited, skip 106s
 2026-10-24 21:02:15   drop[no-market] Bobb's late strike secures Fulham win at Coventry (BBC) :: Fulham
+2026-10-24 21:03:46   drop[unconfirmed] Mississippi State QB Kamario Taylor finally returns from injury for crucial Oklahoma bout (ClutchPoints) :: injury return
+2026-10-24 21:09:01 indexed 963 markets
+2026-10-24 21:10:19   llm groq-120b: rate limited, skip 54s
+2026-10-24 21:10:21   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-24 21:10:21   drop[verify] Yves Missi (C, New Orleans Pelicans) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: no answer
+2026-10-24 21:13:00   drop[1-source] Gonzaga suffers injury setback as Davis Fogle is ruled out against Arkansas (Sports Illustrated) :: Davis Fogle, wait 2nd source
+2026-10-24 21:13:00   llm groq-120b: rate limited, skip 255s
+2026-10-24 21:13:01   drop[team-not-named] LeBron James injured, ruled out ahead of matchup vs. Bucks (The Big Lead) :: Los Angeles Lakers
+2026-10-24 21:13:01   drop[not-key] Sam Girard Injury: Penguins Place Defenseman on IR (www.ginohard.com) :: Sam Girard: injury
+2026-10-24 21:15:18   drop[unconfirmed] Lee Kang-in Returns to Atlético Lineup After Four-Day Injury (조선일보) :: injury recovery
+2026-10-24 21:15:18   drop[kind] Kyrie Irving’s Mavericks status for Spurs game up in air amid Cooper Flagg injury (ClutchPoints) :: other
+2026-10-24 21:15:19   drop[unconfirmed] 'Best performance since I arrived' - De Zerbi praises Spurs after win (BBC) :: 2-0 victory
+2026-10-24 21:19:04 indexed 966 markets
+2026-10-24 21:20:30   llm groq-120b: rate limited, skip 8s
+2026-10-24 21:20:33   drop[verify] Quinton Byfield (RW, Los Angeles Kings) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: not star
+2026-10-24 21:24:30   drop[1-source] Pacers guard to miss time with knee injury (Sports Illustrated) :: Tyrese Haliburton, wait 2nd source
+2026-10-24 21:24:30   llm groq-120b: rate limited, skip 184s
+2026-10-24 21:24:30   drop[team-not-named] NDC elections: Sorting, counting suspended after violence at Odododiodioo (Adomonline.com) :: National Democratic Congress
+2026-10-24 21:25:15   drop[no-market] Leinster fight back to beat Munster in URC derby (BBC) :: Leinster Rugby
+2026-10-24 21:25:18   SELL Kings @ 0.370 (market closing) pnl +0.00 :: Kings vs. Devils
+2026-10-24 21:29:05 indexed 975 markets

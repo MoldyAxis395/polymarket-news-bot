@@ -185,3 +185,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-17T16:03:47+00:00,BUY,Senators vs. Flyers,Flyers,24.39,0.4100,10.00,,"Jake Sanderson (D, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL] | llm[groq-120b] trusted: Jake Sanderson's injury hurts Ottawa, lowering their win probability and boosting the Flyers' chance"
 2026-10-22T22:52:11+00:00,BUY,Patriots vs. Bears,Patriots,24.39,0.4100,10.00,,"T.J. Edwards (LB, Chicago Bears) ruled out: Doubtful -> Out [NFL] | llm[groq-20b] trusted: Bears lose, Patriots win price rises"
 2026-10-24T17:06:52+00:00,BUY,Kings vs. Devils,Kings,27.03,0.3700,10.00,,"Connor Hellebuyck (G, New Jersey Devils) ruled out: Day-To-Day -> Out [NHL] | llm[groq-20b] trusted: Devils goalie ruled out, likely reduces Devils win probability, causing Kings win odds to rise."
+2026-10-24T19:25:18+00:00,SELL,Kings vs. Devils,Kings,27.03,0.3700,10.00,+0.00,market closing
