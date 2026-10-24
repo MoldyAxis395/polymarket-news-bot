@@ -1,5 +1,5 @@
 {
- "cash": 104.44587388330311,
+ "cash": 115.00009802594474,
  "positions": [
   {
    "market_id": "5597100",
@@ -37,25 +37,6 @@
    "end": "2026-10-25T15:15:00+00:00",
    "last_bid": 0.72,
    "book_err": false
-  },
-  {
-   "market_id": "5526290",
-   "question": "Will SS Lazio win on 2026-10-24?",
-   "slug": "sea-laz-par-2026-10-24-laz",
-   "outcome": "Yes",
-   "token": "114302319125356498168042722601423360581272169505293747228980514379239188421194",
-   "shares": 10.554224142641635,
-   "entry": 0.7,
-   "cost": 7.387956899849144,
-   "opened": 1792772762.795058,
-   "opened_iso": "2026-10-23T16:26:02+00:00",
-   "news": "LAZIO-PARMA: HOME WIN (approssimato)",
-   "reason": "pengwin approx: closest available bet to home win with opponent zero goals",
-   "conf": 1.0,
-   "end": "2026-10-24T18:45:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1792878447.7288742
   },
   {
    "market_id": "5599710",
@@ -1042,6 +1023,29 @@
    "pnl": -10.0,
    "why": "resolved",
    "closed_iso": "2026-10-24T18:57:30+00:00"
+  },
+  {
+   "market_id": "5526290",
+   "question": "Will SS Lazio win on 2026-10-24?",
+   "slug": "sea-laz-par-2026-10-24-laz",
+   "outcome": "Yes",
+   "token": "114302319125356498168042722601423360581272169505293747228980514379239188421194",
+   "shares": 10.554224142641635,
+   "entry": 0.7,
+   "cost": 7.387956899849144,
+   "opened": 1792772762.795058,
+   "opened_iso": "2026-10-23T16:26:02+00:00",
+   "news": "LAZIO-PARMA: HOME WIN (approssimato)",
+   "reason": "pengwin approx: closest available bet to home win with opponent zero goals",
+   "conf": 1.0,
+   "end": "2026-10-24T18:45:00+00:00",
+   "last_bid": 0.84,
+   "book_err": true,
+   "settle_retry": 1792878988.2332203,
+   "exit": 1.0,
+   "pnl": 3.1662672427924914,
+   "why": "resolved",
+   "closed_iso": "2026-10-24T21:46:28+00:00"
   }
  ],
  "cooldown": {
@@ -1086,6 +1090,7 @@
   "5540216": 1792872608.2566147,
   "5534122": 1792872730.7844586,
   "5536950": 1792877256.5443037,
-  "5536710": 1792879050.486209
+  "5536710": 1792879050.486209,
+  "5526290": 1792889188.8312726
  }
 }

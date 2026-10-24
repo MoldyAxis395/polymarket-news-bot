@@ -18918,88 +18918,50 @@
 2026-10-24 21:59:07   drop[not-key] Dontayvion Wicks (WR, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: Dontayvion Wicks: Wicks ruled out, will miss upcoming game
 2026-10-24 21:59:10   llm groq-120b: rate limited, skip 166s
 2026-10-24 21:59:11   drop[team-not-named] DeVonta Smith Injury: Ruled out for Monday Night Football (RotoWire) :: Philadelphia Eagles
-2026-10-24 22:03:49   llm groq-120b: rate limited, skip 183s
-2026-10-24 22:03:51   drop[verify] Eagles list Saquon Barkley as questionable; DeVonta Smith, Dontayvion Wicks ruled out (NBC Sports) :: uncertain about newness
-2026-10-24 22:03:52   drop[kind] Rockets-Hawks injury report features multiple questionable players (ClutchPoints) :: other
-2026-10-24 22:06:25   drop[unconfirmed] DeVonta Smith (WR, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: hamstring injury
-2026-10-24 22:08:27   drop[team-not-named] Lamar Jackson ruled out again for Week 7 game vs. Bengals (WBFF) :: Baltimore Ravens
-2026-10-24 22:08:27   llm groq-120b: rate limited, skip 277s
-2026-10-24 22:08:27   drop[not-key] Dontayvion Wicks Injury: Ruled out for Monday's game (RotoWire) :: Dontayvion Wicks: injury
-2026-10-24 22:08:28   drop[kind] Matt Hardy Says Jeff Hardy May Take Time Off For Neck Injury (SEScoops) :: other
-2026-10-24 22:09:07 indexed 968 markets
-2026-10-24 22:10:33   drop[unconfirmed] Jalen Duren (C, Detroit Pistons) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: day-to-day
-2026-10-24 22:10:34   drop[side] Stephen Curry (G, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Warriors vs. Suns -> Warriors vs fact ruled_out: Stephen Curry (Golden State Warriors, nba), bad for Golden State Warrio
-2026-10-24 22:10:45   drop[side] Lamar Jackson is ruled out for the Ravens' game vs. the Bengals (Newsday) :: Bengals vs. Ravens -> Ravens vs fact ruled_out: Lamar Jackson (Baltimore Ravens, nfl), bad for Baltimore Ravens. injury
-2026-10-24 22:13:03   drop[1-source] Jalen Duren injury rules him out for Detroit Pistons game vs 76ers (Detroit Free Press) :: Jalen Duren, wait 2nd source
-2026-10-24 22:13:03   drop[not-key] Jalen Duren Injury: Ruled out for Sunday (RotoWire) :: Jalen Duren: injury
-2026-10-24 22:15:36   drop[team-not-named] When Tom Curran Was Suspended For Bizarre Run-Up Incident In Big Bash League 2023-24 | Wat (The Sunday Guardian) :: Sydney Sixers
-2026-10-24 22:17:40   drop[1-source] One Pistons starter ruled out, another questionable vs. 76ers (MLive.com) :: Jaden Ivey, wait 2nd source
-2026-10-24 22:17:43   llm groq-120b: rate limited, skip 369s
-2026-10-24 22:17:44   drop[unconfirmed] A.J. Terrell Jr. (CB, Atlanta Falcons) cleared to play: Injured Reserve -> Active [NFL] (ESPN) :: return from IR
-2026-10-24 22:19:07 indexed 974 markets
-2026-10-24 22:19:59   drop[team-not-named] All Blacks Frizell, Lomax and Taukei'aho ruled out of UK tour with injuries (ODT) :: New Zealand national rugby union team
-2026-10-24 22:21:11   drop[not-key] Nicolas Roy (C, Colorado Avalanche) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Nicolas Roy: day-to-day
-2026-10-24 22:22:10   drop[not-key] Nolan Smith Jr. (LB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: Nolan Smith Jr.: injury
-2026-10-24 22:22:10   drop[not-key] Michael Carter II (CB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: Michael Carter II: injury
-2026-10-24 22:22:18   drop[kind] Draymond Green Injury: Doubtful to play Saturday (RotoWire) :: other
-2026-10-24 22:22:19   drop[kind] Pacers commentator Quinn Buckner ripped for his comments about Cooper Flagg’s injury (Larry Brown Sports) :: other
-2026-10-24 22:22:19   drop[1-source] Delta Goodrem scores series’ first 10 on Strictly return from injury (London Evening Standard) :: Delta Goodrem, wait 2nd source
-2026-10-24 22:24:47   drop[team-not-named] Couple Badgers starters on injury report, while USC has 6 players out, 3 questionable (Bucky's 5th Quarter) :: University of Southern California Trojans
-2026-10-24 22:25:13   llm groq-120b: rate limited, skip 243s
-2026-10-24 22:25:15 NEWS [ESPN 5m] Al Horford (C, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA]
-2026-10-24 22:25:15   skip Suns :: Warriors vs. Suns (low conf 0.6)
-2026-10-24 22:25:15   llm groq-20b: rate limited, skip 427s
-2026-10-24 22:25:15 NEWS [ESPN 10m] Oso Ighodaro (F, Phoenix Suns) ruled out: Day-To-Day -> Out [NBA]
-2026-10-24 22:25:15   skip Warriors :: Warriors vs. Suns (rules fallback, LLM down (not traded))
-2026-10-24 22:26:14 NEWS [ESPN 13m] Bam Martin-Scott (LB, Carolina Panthers) cleared to play: Injured Reserve -> Active [NFL]
-2026-10-24 22:26:14   skip Panthers :: Buccaneers vs. Panthers (rules fallback, LLM down (not traded))
-2026-10-24 22:26:14 NEWS [ESPN 0m] Brian Branch (S, Detroit Lions) cleared to play: Out -> Active [NFL]
-2026-10-24 22:26:14   skip Lions :: Packers vs. Lions (rules fallback, LLM down (not traded))
-2026-10-24 22:29:09 indexed 979 markets
-2026-10-24 22:29:13 NEWS [NBC Sports 3m] KaVontae Turpin ruled out for Week 7 vs. Eagles
-2026-10-24 22:29:13   skip Eagles :: Cowboys vs. Eagles (rules fallback, LLM down (not traded))
-2026-10-24 22:30:17   drop[not-key] Cade Mays (C, Detroit Lions) cleared to play: Injured Reserve -> Active [NFL] (ESPN) :: Cade Mays: activated from injured reserve
-2026-10-24 22:31:31   llm groq-120b: rate limited, skip 183s
-2026-10-24 22:34:04   drop[team-not-named] DeVonta Smith is out, while Saquon Barkley is questionable but expected to play. (Ian Rapoport) :: Philadelphia Eagles
-2026-10-24 22:38:25   drop[kind] Ausar Thompson avoids major injury, questionable for Pistons vs Sixers (Detroit Free Press) :: other
-2026-10-24 22:39:08 indexed 970 markets
-2026-10-24 22:40:45   drop[1-source] Pelicans center Yves Missi avoids major knee injury, ruled out against Nuggets (Crescent City Sports) :: Yves Missi, wait 2nd source
-2026-10-24 22:41:32   llm groq-120b: rate limited, skip 176s
-2026-10-24 22:41:33   drop[not-key] Dee Winters (LB, Dallas Cowboys) ruled out: Doubtful -> Out [NFL] (ESPN) :: Dee Winters: injury
-2026-10-24 22:41:33   drop[not-key] Drew Shelton (OT, Dallas Cowboys) ruled out: Questionable -> Out [NFL] (ESPN) :: Drew Shelton: injury
-2026-10-24 22:41:33   llm groq-20b: rate limited, skip 201s
-2026-10-24 22:41:33 NEWS [ESPN 6m] KaVontae Turpin (WR, Dallas Cowboys) ruled out: Questionable -> Out [NFL]
-2026-10-24 22:41:33   skip Eagles :: Cowboys vs. Eagles (rules fallback, LLM down (not traded))
-2026-10-24 22:47:23   llm groq-120b: rate limited, skip 176s
-2026-10-24 22:47:23   drop[side] Red Bull New York confirmed lineup vs Inter Miami CF: Justin Che, Cameron Harper ruled out (ESPN) :: Will New York Red Bulls win on 2026-10-24? -> Yes vs fact ruled_out: Justin Che (Red Bull New York, soccer), bad for Red
-2026-10-24 22:47:23   llm groq-20b: rate limited, skip 254s
-2026-10-24 22:49:10 indexed 970 markets
-2026-10-24 22:51:43   llm groq-120b: rate limited, skip 128s
-2026-10-24 22:51:43 NEWS [ESPN 6m] Christian Kirk (WR, San Francisco 49ers) cleared to play: Injured Reserve -> Active [NFL]
-2026-10-24 22:51:43   skip 49ers :: 49ers vs. Falcons (low conf 0.6)
-2026-10-24 22:56:57   drop[unconfirmed] Giants linebacker Tremaine Edmunds lost for season with shoulder injury, reports say (Newsday) :: season-ending shoulder injury
-2026-10-24 22:56:57   llm groq-120b: rate limited, skip 137s
-2026-10-24 22:56:58   drop[kind] Top Personal Injury Lawyers in Vancouver, WA (finchannel) :: other
-2026-10-24 22:59:10 indexed 960 markets
-2026-10-24 23:00:15   drop[not-key] — The Broncos activated RB Jonah Coleman from IR and OLB Jonathon Cooper from the exempt l (Ian Rapoport) :: Jonah Coleman: activated from IR
-2026-10-24 23:00:15   llm groq-120b: rate limited, skip 266s
-2026-10-24 23:00:15   drop[not-key] Significant transactions: — The Packers have activated RB Josh Jacobs to the active roster (Ian Rapoport) :: Josh Jacobs: Roster spot
-2026-10-24 23:01:52   llm groq-20b: rate limited, skip 127s
-2026-10-24 23:09:12 indexed 957 markets
-2026-10-24 23:10:21   drop[not-key] T.J. McConnell (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: T.J. McConnell: ruled out for upcoming game due to hamstring strain
-2026-10-24 23:15:27   drop[1-source] Mississippi State’s Kamario Taylor exits Oklahoma game after injury scare (ClutchPoints) :: Kamario Taylor, wait 2nd source
-2026-10-24 23:15:27   drop[not-key] Stephanie Vaquer Cleared for WWE In-Ring Return After Ankle Injury (Ringside News) :: Stephanie Vaquer: cleared to wrestle after ankle injury
-2026-10-24 23:17:45   llm groq-120b: rate limited, skip 175s
-2026-10-24 23:17:46   drop[team-not-named] Lamar Jackson Ruled OUT (Draft Sharks) :: Baltimore Ravens
-2026-10-24 23:19:11 indexed 961 markets
-2026-10-24 23:20:18   drop[not-key] Thunder waive rookie after season-ending injury (Hoops Wire) :: Jalen McDaniels: season-ending injury
-2026-10-24 23:26:58   drop[kind] Bexar County deputy fire marshal arrested on DWI charge, suspended from duty (kens5.com) :: other
-2026-10-24 23:29:13 indexed 958 markets
-2026-10-24 23:33:54   drop[1-source] UCLA quarterback Ty Dieffenbach goes down with injury before halftime (New York Post) :: Ty Dieffenbach, wait 2nd source
-2026-10-24 23:33:56 NEWS [Sky Sports 1m] Jadon Sancho offered shock deal by La Liga side Getafe; Riccardo Calafiori adds to Arsenal injury woes - Paper Talk
-2026-10-24 23:33:56   skip Yes :: Will Getafe CF win on 2026-10-25? (low conf 0.6)
-2026-10-24 23:36:13   llm groq-120b: rate limited, skip 105s
-2026-10-24 23:36:14   drop[no-market] UCLA football news: Ty Dieffenbach exits Michigan State with leg injury (ClutchPoints) :: UCLA
-2026-10-24 23:37:27 [pengwin]   book error Will SS Lazio win on 2026-10-24?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=114302319125356498168042722601423360581272169505293747228980514379239188421194
-2026-10-24 23:39:15 indexed 956 markets
-2026-10-24 23:43:02 shift over, state saved
+2026-10-24 23:43:24 === start mode=paper pid=2199 ===
+2026-10-24 23:43:24 brain=llm cash=74.02 open=1
+2026-10-24 23:43:24 resuming with 8506 known news items
+2026-10-24 23:43:52 indexed 950 markets
+2026-10-24 23:44:08 NEWS [ESPN 0m] A.J. Terrell Jr. (CB, Atlanta Falcons) cleared to play: Injured Reserve -> Active [NFL]
+2026-10-24 23:44:08   skip Falcons :: 49ers vs. Falcons (low conf 0.62)
+2026-10-24 23:44:08   llm groq-120b: rate limited, skip 149s
+2026-10-24 23:44:08   drop[not-key] Bam Martin-Scott (LB, Carolina Panthers) cleared to play: Injured Reserve -> Active [NFL] (ESPN) :: Bam Martin-Scott: return
+2026-10-24 23:44:09   drop[not-key] Dee Winters (LB, Dallas Cowboys) ruled out: Doubtful -> Out [NFL] (ESPN) :: Dee Winters: injury
+2026-10-24 23:44:09   drop[not-key] Drew Shelton (OT, Dallas Cowboys) ruled out: Questionable -> Out [NFL] (ESPN) :: Drew Shelton: injury
+2026-10-24 23:44:09   drop[not-key] KaVontae Turpin (WR, Dallas Cowboys) ruled out: Questionable -> Out [NFL] (ESPN) :: KaVontae Turpin: injury
+2026-10-24 23:44:10   llm groq-20b: rate limited, skip 45s
+2026-10-24 23:44:10   drop[verify] Brian Branch (S, Detroit Lions) cleared to play: Out -> Active [NFL] (ESPN) :: no answer
+2026-10-24 23:44:10 NEWS [ESPN 0m] Cade Mays (C, Detroit Lions) cleared to play: Injured Reserve -> Active [NFL]
+2026-10-24 23:44:10   skip Lions :: Packers vs. Lions (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10 NEWS [ESPN 0m] Tank Dell (WR, Houston Texans) cleared to play: Injured Reserve -> Active [NFL]
+2026-10-24 23:44:10   skip Texans :: Giants vs. Texans (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10 NEWS [ESPN 0m] Nolan Smith Jr. (LB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL]
+2026-10-24 23:44:10   skip Cowboys :: Cowboys vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10 NEWS [ESPN 0m] Michael Carter II (CB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL]
+2026-10-24 23:44:10   skip Cowboys :: Cowboys vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10 NEWS [ESPN 0m] DeVonta Smith (WR, Philadelphia Eagles) ruled out: Questionable -> Out [NFL]
+2026-10-24 23:44:10   skip Cowboys :: Cowboys vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10 NEWS [ESPN 39m] Anthony Bradford (G, Seattle Seahawks) cleared to play: Injured Reserve -> Active [NFL]
+2026-10-24 23:44:10   skip Seahawks :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10 NEWS [ESPN 0m] Jalen Duren (C, Detroit Pistons) ruled out: Day-To-Day -> Out [NBA]
+2026-10-24 23:44:10   skip 76ers :: Pistons vs. 76ers (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10 NEWS [ESPN 0m] Al Horford (C, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA]
+2026-10-24 23:44:10   skip No :: Will Golden State Valkyries win the 2026 WNBA Finals? (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10   skip Nuggets :: Warriors vs. Nuggets (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10   skip Suns :: Warriors vs. Suns: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10 NEWS [ESPN 0m] Stephen Curry (G, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA]
+2026-10-24 23:44:10   skip No :: Will Golden State Valkyries win the 2026 WNBA Finals? (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10   skip Nuggets :: Warriors vs. Nuggets (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10   skip Suns :: Warriors vs. Suns: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10 NEWS [ESPN 41m] T.J. McConnell (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA]
+2026-10-24 23:44:10   skip Nets :: Pacers vs. Nets (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10 NEWS [ESPN 0m] Oso Ighodaro (F, Phoenix Suns) ruled out: Day-To-Day -> Out [NBA]
+2026-10-24 23:44:10   skip Warriors :: Warriors vs. Suns: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10   skip Warriors :: Warriors vs. Suns (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10 NEWS [Ian Rapoport 44m] Significant transactions: — The Packers have activated RB Josh Jacobs to the active roster from the exempt list. — The Texans have activated WR Tank Dell, who makes his season debut. — The Falcons have activated CB AJ Terrell off IR.
+2026-10-24 23:44:10   skip Texans :: Giants vs. Texans (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10   skip Packers :: Packers vs. Lions (rules fallback, LLM down (not traded))
+2026-10-24 23:44:10   skip Falcons :: 49ers vs. Falcons (rules fallback, LLM down (not traded))
+2026-10-24 23:46:28 [pengwin]   book error Will SS Lazio win on 2026-10-24?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=114302319125356498168042722601423360581272169505293747228980514379239188421194
+2026-10-24 23:46:28 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +3.17 :: Will SS Lazio win on 2026-10-24?
+2026-10-24 23:48:04   drop[team-not-named] Smith retains title with split-decision win over Puello (BBC) :: United Kingdom (British boxer)

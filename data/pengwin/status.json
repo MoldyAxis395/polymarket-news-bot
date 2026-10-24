@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T23:42:30",
+ "updated": "2026-10-24T23:47:29",
  "start": 100.0,
- "cash": 104.45,
- "equity": 144.59,
+ "cash": 115.0,
+ "equity": 144.41,
  "open": [
   {
    "market_id": "5597100",
@@ -42,25 +42,6 @@
    "book_err": false
   },
   {
-   "market_id": "5526290",
-   "question": "Will SS Lazio win on 2026-10-24?",
-   "slug": "sea-laz-par-2026-10-24-laz",
-   "outcome": "Yes",
-   "token": "114302319125356498168042722601423360581272169505293747228980514379239188421194",
-   "shares": 10.554224142641635,
-   "entry": 0.7,
-   "cost": 7.387956899849144,
-   "opened": 1792772762.795058,
-   "opened_iso": "2026-10-23T16:26:02+00:00",
-   "news": "LAZIO-PARMA: HOME WIN (approssimato)",
-   "reason": "pengwin approx: closest available bet to home win with opponent zero goals",
-   "conf": 1.0,
-   "end": "2026-10-24T18:45:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1792878447.7288742
-  },
-  {
    "market_id": "5599710",
    "question": "FC Barcelona vs. Real Madrid CF: Both Teams to Score",
    "slug": "lal-bar-rea-2026-10-25-btts",
@@ -79,8 +60,8 @@
    "book_err": false
   }
  ],
- "closed_count": 42,
- "realized_pnl": 41.83,
+ "closed_count": 43,
+ "realized_pnl": 45.0,
  "pages": {
   "pending": 128,
   "picked": 1,
