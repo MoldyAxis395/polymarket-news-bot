@@ -18393,26 +18393,14 @@
 2026-10-24 04:29:26 indexed 998 markets
 2026-10-24 04:32:38   drop[not-key] 5 thoughts from Mavericks-Pacers: Flagg injured, Irving takes over in May's first NBA win (Dallas News) :: Jaden Flagg: Flagg is reported injured and will miss upcoming games
 2026-10-24 04:39:28 indexed 1004 markets
-2026-10-24 04:46:28   drop[kind] Typhoon Champi sweeps past Taiwan, one dead and 500 injured (Bilyonaryo Business) :: other
-2026-10-24 04:48:48   drop[kind] Warriors’ Brandin Podziemski gives injury scare less than 4 minutes into season debut (New York Post) :: other
-2026-10-24 04:49:27 indexed 1010 markets
-2026-10-24 04:59:30 indexed 1007 markets
-2026-10-24 05:09:34 indexed 999 markets
-2026-10-24 05:10:39   drop[kind] Magnitude 7.2 earthquake strikes waters near Vanuatu, USGS says reut.rs/4z9FVfd (Reuters) :: other
-2026-10-24 05:12:11   drop[1-source] Illinois basketball loses 3 players to injuries in loss to Baylor (Alton Telegraph) :: University of Illinois men's basketball, wait 2nd source
-2026-10-24 05:14:53   drop[not-key] 🔵🫵🏼 Xabi Alonso on Chelsea’s great home record against Tottenham: “Last week you told me a (Fabrizio Romano) :: Xabi Alonso: Chelsea won their recent home match against Tottenham
-2026-10-24 05:16:32   drop[kind] Smyrna Police investigating serious-injury crash involving pedestrian (11Alive.com) :: other
-2026-10-24 05:19:34 indexed 1003 markets
-2026-10-24 05:25:53   drop[1-source] All Blacks forwards Frizell, Lomax and Taukei'aho ruled out of UK tour with injuries (RNZ) :: New Zealand All Blacks, wait 2nd source
-2026-10-24 05:25:54   drop[1-source] Magic’s Paolo Banchero sufferers ankle injury vs. Timberwolves, per Sean Sweeney (ClutchPoints) :: Paolo Banchero, wait 2nd source
-2026-10-24 05:28:30 NEWS [Jeff Passan 1m] FINAL: Brewers 3, Rays 2 Milwaukee wins Game 1 of the World Series following a wild ninth inning in which Tampa Bay loaded the bases, a game-ending double play was overturned on replay review and Trevor Megill closed it out. Hell of a first game. These are two very good teams.
-2026-10-24 05:28:30   skip Milwaukee Brewers :: Tampa Bay Rays vs. Milwaukee Brewers (low conf 0.6)
-2026-10-24 05:29:35 indexed 998 markets
-2026-10-24 05:30:45   drop[kind] Gas supply to be suspended in parts of Dhaka for 4 hours today (Banglanews24) :: other
-2026-10-24 05:32:49   drop[kind] Mavericks HC Dusty May gives initial Cooper Flagg injury diagnosis after hard fall on shou (ClutchPoints) :: other
-2026-10-24 05:39:38 indexed 990 markets
-2026-10-24 05:39:54   drop[no-market] Three All Blacks ruled out of Northern Series (Sport Nation) :: New Zealand All Blacks
-2026-10-24 05:40:43   drop[kind] Suspect arrested as fire engulfs Nazi guest house 'Eagle's Nest', German police say reut.r (Reuters) :: other
-2026-10-24 05:46:41   drop[kind] Ray Nicholson Needed Knee Surgery After an On-Set Injury While Filming 'The Mosquito Bowl' (Just Jared) :: other
-2026-10-24 05:49:41 indexed 999 markets
-2026-10-24 05:53:13 shift over, state saved
+2026-10-24 05:53:32 === start mode=paper pid=2072 ===
+2026-10-24 05:53:32 brain=llm cash=84.02 open=0
+2026-10-24 05:53:32 resuming with 8682 known news items
+2026-10-24 05:54:01 indexed 1002 markets
+2026-10-24 05:54:23 NEWS [Jeff Passan 27m] FINAL: Brewers 3, Rays 2 Milwaukee wins Game 1 of the World Series following a wild ninth inning in which Tampa Bay loaded the bases, a game-ending double play was overturned on replay review and Trevor Megill closed it out. Hell of a first game. These are two very good teams.
+2026-10-24 05:54:23   skip Milwaukee Brewers :: Tampa Bay Rays vs. Milwaukee Brewers (low conf 0.6)
+2026-10-24 05:54:23   llm groq-120b: rate limited, skip 132s
+2026-10-24 05:54:23   drop[unconfirmed] 🔵🫵🏼 Xabi Alonso on Chelsea’s great home record against Tottenham: “Last week you told me a (Fabrizio Romano) :: Chelsea won at home against Tottenham, extending their home record
+2026-10-24 05:54:24   drop[kind] Suspect arrested as fire engulfs Nazi guest house 'Eagle's Nest', German police say reut.r (Reuters) :: other
+2026-10-24 05:54:24   drop[kind] Magnitude 7.2 earthquake strikes waters near Vanuatu, USGS says reut.rs/4z9FVfd (Reuters) :: other
+2026-10-24 05:56:47   drop[1-source] Blinkit Bhiwandi Warehouse Licence Suspended by FDA (Urban Acres) :: Blinkit Bhiwandi Warehouse, wait 2nd source
