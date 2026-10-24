@@ -18785,3 +18785,38 @@
 2026-10-24 19:30:38   drop[no-pick] Coby White (G, Charlotte Hornets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: no outcome should rise
 2026-10-24 19:30:38   drop[unconfirmed] Jonathan Isaac (F, Orlando Magic) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: knee injury
 2026-10-24 19:31:59   drop[side] LeBron James Out for 76ers vs. Bucks with Sciatica, Back Injury Management (Bleacher Report) :: Bucks vs. 76ers -> 76ers vs fact ruled_out: LeBron James (Philadelphia 76ers, nba), bad for Philadelphia 76ers. sciatica
+2026-10-24 19:33:41   llm groq-120b: rate limited, skip 90s
+2026-10-24 19:33:42 NEWS [ESPN 9m] Mitch Marner (RW, Vegas Golden Knights) ruled out: Day-To-Day -> Out [NHL]
+2026-10-24 19:33:42   skip Blue Jackets :: Golden Knights vs. Blue Jackets (low conf 0.6)
+2026-10-24 19:34:03   drop[kind] Josh Simmons’ Injury Raises Concerns for His Future with the Chiefs (Chiefs Crowd) :: other
+2026-10-24 19:36:21   drop[team-not-named] LeBron James ruled out as Sixers face Bucks on Saturday night (Metro Philadelphia) :: Los Angeles Lakers
+2026-10-24 19:36:21   llm groq-120b: rate limited, skip 241s
+2026-10-24 19:36:21   drop[team-not-named] A heavy blow and severe bleeding: horrific injury for Morocco star (Goal.com) :: Inter Milan
+2026-10-24 19:38:34 indexed 966 markets
+2026-10-24 19:38:38   drop[unconfirmed] Chukwueze Set For Two Months Out With Hip Injury (Football In Nigeria) :: hip injury
+2026-10-24 19:43:16   drop[no-market] Tottenham hit with new James Maddison injury blow against Chelsea (London Evening Standard) :: Tottenham Hotspur
+2026-10-24 19:45:34   llm groq-120b: rate limited, skip 28s
+2026-10-24 19:45:35   drop[kind] Valérie Grenier Undergoes ACL Reconstruction and Meniscus Repair After Sölden Injury (Ski Racing Media) :: other
+2026-10-24 19:46:35   llm groq-20b: unreachable (ReadTimeout), skip 5 min
+2026-10-24 19:48:36 indexed 958 markets
+2026-10-24 19:48:38   drop[1-source] Michigan State starting RB Jaziun Patterson ruled out for UCLA game (247Sports) :: Jaziun Patterson, wait 2nd source
+2026-10-24 19:48:39   llm groq-120b: rate limited, skip 88s
+2026-10-24 19:49:44 NEWS [ESPN 2m] Jared McCann (LW, Seattle Kraken) ruled out: healthy -> Out [NHL]
+2026-10-24 19:49:44   skip Wild :: Wild vs. Kraken (rules fallback, LLM down (not traded))
+2026-10-24 19:51:18   drop[team-not-named] LeBron James ruled out for Sixers' game against Bucks, the first in a back-to-back (Yahoo Sports) :: Los Angeles Lakers
+2026-10-24 19:51:18   llm groq-120b: rate limited, skip 259s
+2026-10-24 19:53:45   drop[1-source] Kansas State QB Avery Johnson ruled out for game at Arizona State (The Topeka Capital-Journal) :: Avery Johnson, wait 2nd source
+2026-10-24 19:53:45   drop[no-market] James Maddison suffers another heartbreaking injury setback for Tottenham in London derby (The Independent) :: Tottenham Hotspur
+2026-10-24 19:53:46   drop[no-market] Hayen sacked by Burnley after just 14 games (BBC) :: Burnley
+2026-10-24 19:55:50   drop[1-source] Samsung Lions Closer Kim Jae-yoon Ruled Out of Playoffs Due to Injury (조선일보) :: Kim Jae-yoon, wait 2nd source
+2026-10-24 19:57:26   llm groq-120b: rate limited, skip 112s
+2026-10-24 19:57:27 NEWS [ESPN 0m] Lens confirmed lineup vs Paris FC: Junior Kadile, Michal Skoras, Thorgan Hazard ruled out of starting XI [fra.1]
+2026-10-24 19:57:27   skip Yes :: Will Paris FC win on 2026-10-24? (low conf 0.6)
+2026-10-24 19:57:28   drop[side] Paris FC confirmed lineup vs Lens: Kevin Trapp, Samir Chergui, Hamari Traoré ruled out of  (ESPN) :: Will Paris FC win on 2026-10-24? -> Yes vs fact ruled_out: Kevin Trapp (Paris FC, soccer), bad for Paris FC. ruled out
+2026-10-24 19:57:56   drop[not-key] AJ Dybantsa (F, Washington Wizards) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: AJ Dybantsa: left ankle sprain
+2026-10-24 19:58:35 indexed 948 markets
+2026-10-24 20:01:14   drop[1-source] Chelsea confirm injury blow for star forward days before Liverpool clash (DaveOCKOP) :: Christian Pulisic, wait 2nd source
+2026-10-24 20:01:27   llm groq-120b: rate limited, skip 270s
+2026-10-24 20:01:28 NEWS [ESPN 0m] Parma confirmed lineup vs Lazio: Giovanni Fabbian, Adrián Bernabé, Sascha Britschgi ruled out of starting XI [ita.1]
+2026-10-24 20:01:28   skip No :: Will Parma Calcio 1913 win on 2026-10-24? (low conf 0.6)
+2026-10-24 20:03:03   drop[side] John Marino (D, Utah Mammoth) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Lightning vs. Utah -> Utah vs fact ruled_out: John Marino (Utah Mammoth, nhl), bad for Utah Mammoth. day-to-day injury
