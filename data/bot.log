@@ -18899,3 +18899,22 @@
 2026-10-24 21:25:15   drop[no-market] Leinster fight back to beat Munster in URC derby (BBC) :: Leinster Rugby
 2026-10-24 21:25:18   SELL Kings @ 0.370 (market closing) pnl +0.00 :: Kings vs. Devils
 2026-10-24 21:29:05 indexed 975 markets
+2026-10-24 21:34:51 NEWS [Ian Rapoport 0m] Ravens QB Lamar Jackson (ankle) has been downgraded to out for tomorrow’s game vs. the Bengals.
+2026-10-24 21:34:51   BUY Bengals @ 0.580 x17.2 ($10.00) :: Bengals vs. Ravens
+2026-10-24 21:36:06   llm groq-120b: rate limited, skip 185s
+2026-10-24 21:36:07   drop[1-source] RB Smothers ruled out as injuries mount for Longhorns (ESPN La Crosse 105.5) :: Robert Smothers, wait 2nd source
+2026-10-24 21:36:07   drop[kind] Nick Sirianni addresses DeVonta Smith’s lingering hamstring injury (Eagles Wire) :: other
+2026-10-24 21:36:12   drop[not-key] Bowen Byram (D, Chicago Blackhawks) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Bowen Byram: day-to-day injury
+2026-10-24 21:37:14   drop[side] Lamar Jackson (QB, Baltimore Ravens) ruled out: Questionable -> Out [NFL] (ESPN) :: Bengals vs. Ravens -> Ravens vs fact ruled_out: Lamar Jackson (Baltimore Ravens, nfl), bad for Baltimore Ravens. injury
+2026-10-24 21:39:05 indexed 989 markets
+2026-10-24 21:43:01   llm groq-120b: rate limited, skip 70s
+2026-10-24 21:43:01   drop[no-pick] Lamar Jackson injury: Ravens star out for Week 7 vs. Bengals (SB Nation) :: short
+2026-10-24 21:43:02   drop[no-pick] Ravens news: Lamar Jackson ruled out for Bengals game (ClutchPoints) :: no outcome should rise
+2026-10-24 21:45:19   llm groq-120b: rate limited, skip 8s
+2026-10-24 21:45:19   drop[kind] Northbound highway 75 closed in Jenks due to injury crash (www.fox23.com) :: other
+2026-10-24 21:49:03 indexed 990 markets
+2026-10-24 21:54:33   drop[verify] Lamar Jackson Ruled Out vs. Bengals (Baltimore Ravens) :: cannot verify player status, headline authenticity, or market relevance
+2026-10-24 21:59:05 indexed 980 markets
+2026-10-24 21:59:07   drop[not-key] Dontayvion Wicks (WR, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: Dontayvion Wicks: Wicks ruled out, will miss upcoming game
+2026-10-24 21:59:10   llm groq-120b: rate limited, skip 166s
+2026-10-24 21:59:11   drop[team-not-named] DeVonta Smith Injury: Ruled out for Monday Night Football (RotoWire) :: Philadelphia Eagles
