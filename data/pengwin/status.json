@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T08:57:53",
+ "updated": "2026-10-24T09:27:46",
  "start": 100.0,
  "cash": 21.06,
- "equity": 135.83,
+ "equity": 136.15,
  "open": [
   {
    "market_id": "5597100",
@@ -146,7 +146,7 @@
    "reason": "pengwin exact: direct home win",
    "conf": 1.0,
    "end": "2026-10-24T13:00:00+00:00",
-   "last_bid": 0.65,
+   "last_bid": 0.66,
    "book_err": false
   },
   {
@@ -200,7 +200,7 @@
    "reason": "pengwin exact: replicates X2 as not home win",
    "conf": 1.0,
    "end": "2026-10-24T13:30:00+00:00",
-   "last_bid": 0.58,
+   "last_bid": 0.59,
    "book_err": false
   },
   {
