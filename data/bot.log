@@ -18980,3 +18980,31 @@
 2026-10-25 00:10:06   drop[1-source] Eagles missing top two WRs as Smith, Wicks ruled out vs. Cowboys (ESPN La Crosse 105.5) :: Jalen Smith, wait 2nd source
 2026-10-25 00:13:54 indexed 958 markets
 2026-10-25 00:14:44   drop[1-source] Tennessee loses OL Donovan Haslam to injury against South Carolina (Sports Illustrated) :: Donovan Haslam, wait 2nd source
+2026-10-25 00:18:48   drop[kind] Antonelli takes US pole on weekend he can win title (BBC) :: other
+2026-10-25 00:19:21   llm groq-120b: rate limited, skip 122s
+2026-10-25 00:19:21   drop[1-source] FINAL Ole Miss vs. Texas Injury Report: Brycen Sanders Cleared, Terez Davis a Game-Time De (The Rebel Walk) :: Brycen Sanders, wait 2nd source
+2026-10-25 00:19:21   drop[kind] Twenty kids aged 5 or below suspended from UK schools over sexual misconduct (The Sun) :: other
+2026-10-25 00:23:53 indexed 953 markets
+2026-10-25 00:23:57   drop[1-source] Browns Defensive Leader Cleared To Play Sunday vs. Titans, Team Gets Big Injury Boost (Sports Illustrated) :: Myles Garrett, wait 2nd source
+2026-10-25 00:25:29   llm groq-120b: rate limited, skip 289s
+2026-10-25 00:25:29   drop[no-pick] Symonds scores screamer as Brighton beat West Ham (BBC) :: short
+2026-10-25 00:30:41   llm groq-120b: rate limited, skip 85s
+2026-10-25 00:30:41   drop[no-pick] North Korea's Kim Jong Un returns from China after war memorial visit, state media says re (Reuters) :: short
+2026-10-25 00:31:25 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-25 00:33:13   llm groq-120b: rate limited, skip 188s
+2026-10-25 00:33:13   drop[no-pick] Volkanovski stops Evloev for record ninth title win (BBC) :: short
+2026-10-25 00:33:56 indexed 967 markets
+2026-10-25 00:34:59   drop[not-key] Patrick Williams (F, Chicago Bulls) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Patrick Williams: Day‑to‑day injury ruling
+2026-10-25 00:34:59   llm groq-20b: rate limited, skip 147s
+2026-10-25 00:34:59 NEWS [ESPN 15m] Noa Essengue (F, Chicago Bulls) ruled out: Day-To-Day -> Out [NBA]
+2026-10-25 00:34:59   skip Wizards :: Wizards vs. Bulls (rules fallback, LLM down (not traded))
+2026-10-25 00:36:00 NEWS [ESPN 16m] Kyrie Irving (G, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA]
+2026-10-25 00:36:00   skip Spurs :: Spurs vs. Mavericks (rules fallback, LLM down (not traded))
+2026-10-25 00:42:02   drop[not-key] Atlanta United FC confirmed lineup vs Chicago Fire FC: Tristan Muyumba ruled out of starti (ESPN) :: Tristan Muyumba: ruled out of starting XI for upcoming match
+2026-10-25 00:42:02   llm groq-120b: rate limited, skip 10s
+2026-10-25 00:42:02   llm groq-20b: rate limited, skip 197s
+2026-10-25 00:42:02   drop[no-pick] Chicago Fire FC confirmed lineup vs Atlanta United FC: Leonardo Barroso, Andrew Gutman rul (ESPN) :: None
+2026-10-25 00:43:55 indexed 958 markets
+2026-10-25 00:43:59   drop[kind] Alonso responds to fears Spurs players KNEW about Joao Pedro injury (The Irish Sun) :: other
+2026-10-25 00:46:02   llm groq-120b: rate limited, skip 97s
+2026-10-25 00:46:02   llm groq-20b: rate limited, skip 44s
