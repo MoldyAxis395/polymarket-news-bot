@@ -107,7 +107,7 @@
    "reason": "pengwin approx: replicates Over 1.5 leg",
    "conf": 1.0,
    "end": "2026-10-24T13:30:00+00:00",
-   "last_bid": 0.84,
+   "last_bid": 0.85,
    "book_err": false
   },
   {
@@ -161,7 +161,7 @@
    "reason": "pengwin exact: replicates base pick",
    "conf": 1.0,
    "end": "2026-10-24T16:00:00+00:00",
-   "last_bid": 0.65,
+   "last_bid": 0.66,
    "book_err": false
   },
   {
@@ -179,7 +179,7 @@
    "reason": "pengwin approx: closest available bet to home win with opponent zero goals",
    "conf": 1.0,
    "end": "2026-10-24T18:45:00+00:00",
-   "last_bid": 0.65,
+   "last_bid": 0.66,
    "book_err": false
   },
   {
