@@ -18820,3 +18820,33 @@
 2026-10-24 20:01:28 NEWS [ESPN 0m] Parma confirmed lineup vs Lazio: Giovanni Fabbian, Adrián Bernabé, Sascha Britschgi ruled out of starting XI [ita.1]
 2026-10-24 20:01:28   skip No :: Will Parma Calcio 1913 win on 2026-10-24? (low conf 0.6)
 2026-10-24 20:03:03   drop[side] John Marino (D, Utah Mammoth) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Lightning vs. Utah -> Utah vs fact ruled_out: John Marino (Utah Mammoth, nhl), bad for Utah Mammoth. day-to-day injury
+2026-10-24 20:03:30   drop[side] Atlético Madrid confirmed lineup vs Deportivo: Giuliano Simeone, Jonathan David ruled out  (ESPN) :: Will Club Atlético de Madrid win on 2026-10-24? -> Yes vs fact ruled_out: Jonathan David (Atlético Madrid, soccer), bad 
+2026-10-24 20:03:31 NEWS [ESPN 0m] Deportivo confirmed lineup vs Atlético Madrid: Ximo Navarro, Bright Ede, Luismi Cruz, Riki Rodríguez ruled out of starting XI [esp.1]
+2026-10-24 20:03:31   skip No :: Will RC Deportivo A Coruña win on 2026-10-24? (low conf 0.6)
+2026-10-24 20:03:34   drop[kind] Michigan State football's injury luck has not gotten any better. See link below ⬇️ 📸 Nick  (Facebook) :: other
+2026-10-24 20:03:35   drop[team-not-named] Dallas Goedert Injury: Optimistic about knee injury (RotoWire) :: Philadelphia Eagles
+2026-10-24 20:03:35   drop[1-source] 6 players and a coach: injury tsunami for Bayern Munich against Freiburg (LiveScore) :: Bayern Munich, wait 2nd source
+2026-10-24 20:08:39 indexed 952 markets
+2026-10-24 20:11:18   drop[1-source] Magic have already lost key player to significant injury (Larry Brown Sports) :: Franz Wagner, wait 2nd source
+2026-10-24 20:15:53   drop[kind] Dallas Goedert Optimistic about knee injury (Fantasy Footballers Podcast) :: other
+2026-10-24 20:15:54   drop[1-source] South Carolina center Carter Miller cleared to play vs Tennessee football (Knoxville News Sentinel) :: Carter Miller, wait 2nd source
+2026-10-24 20:15:54   llm groq-120b: rate limited, skip 283s
+2026-10-24 20:15:55   drop[1-source] Surprise Alabama defender ruled out for Texas A&M game, plus 4 starters (AL.com) :: Alabama Crimson Tide, wait 2nd source
+2026-10-24 20:17:27 [pengwin]   book error SSC Napoli vs. AS Roma: 1st Half O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=75693396734848939323727154763178338583847944731252426731375164429990709169723
+2026-10-24 20:18:55 indexed 954 markets
+2026-10-24 20:20:58   llm groq-120b: rate limited, skip 6s
+2026-10-24 20:20:59   drop[no-pick] Mikael Backlund (C, Calgary Flames) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: no outcome should rise
+2026-10-24 20:22:53   drop[not-key] Mavericks’ Cooper Flagg will miss game vs. Spurs with left shoulder sprain (AP News) :: Cooper Flagg: will miss upcoming game vs. Spurs due to left shoulder sprain
+2026-10-24 20:22:59   llm groq-120b: rate limited, skip 156s
+2026-10-24 20:23:00   drop[not-key] Sam Steel (C, Dallas Stars) ruled out: healthy -> Out [NHL] (ESPN) :: Sam Steel: injury
+2026-10-24 20:25:01   drop[unconfirmed] Caleb Martin (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: thumb injury
+2026-10-24 20:25:01   drop[unconfirmed] Tarik Biberovic (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: right heel bursitis
+2026-10-24 20:25:02   drop[unconfirmed] Santi Aldama (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: day‑to‑day
+2026-10-24 20:27:36 [pengwin]   SELL Under @ 1.000 (resolved) pnl +4.93 :: SSC Napoli vs. AS Roma: 1st Half O/U 1.5
+2026-10-24 20:28:57 indexed 951 markets
+2026-10-24 20:29:49   drop[1-source] Giants' Theo Johnson, Jevon Holland ruled out for Week 7 vs. Texans (SNY) :: New York Giants, wait 2nd source
+2026-10-24 20:29:49   llm groq-120b: rate limited, skip 29s
+2026-10-24 20:29:49   drop[1-source] Tears and shock: a horrific injury for Valencia star (Goal.com) :: Valencia CF, wait 2nd source
+2026-10-24 20:32:09   drop[1-source] Mavericks Face Double Injury Blow as Kyrie Irving Joins Cooper Flagg on Injury Report (heavy.com) :: Kyrie Irving, wait 2nd source
+2026-10-24 20:32:09   llm groq-120b: rate limited, skip 226s
+2026-10-24 20:32:09   drop[kind] Dani Olmo injury scare as Barcelona await crucial test results (Six Sports) :: other
