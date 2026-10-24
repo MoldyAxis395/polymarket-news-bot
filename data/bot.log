@@ -18640,3 +18640,18 @@
 2026-10-24 15:27:17   drop[side] Espanyol confirmed lineup vs Racing Santander: Roger Hinojo, Clemens Riedel ruled out of s (ESPN) :: Will RCD Espanyol de Barcelona win on 2026-10-24? -> Yes vs fact ruled_out: Roger Hinojo (Espanyol, soccer), bad for Esp
 2026-10-24 15:33:54 indexed 1001 markets
 2026-10-24 15:43:55 indexed 980 markets
+2026-10-24 15:53:56 indexed 988 markets
+2026-10-24 15:54:17   drop[not-key] Brandin Podziemski (G, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Brandin Podziemski: ruled out with injury
+2026-10-24 15:55:37   drop[1-source] Jinja District Council Paralysed as Two Suspended Councilors Refuse to Budge (Uganda Radionetwork) :: Jinja District Council, wait 2nd source
+2026-10-24 15:55:37   drop[kind] CRPF Constable Found Dead With Bullet Injury At HMT Srinagar; Suicide Suspected (The Kashmir Horizon) :: other
+2026-10-24 16:02:29   drop[unconfirmed] Matt Hardy says Jeff Hardy may take time off due to neck injury (F4W/WON) :: possible neck injury could sideline him
+2026-10-24 16:03:56 indexed 972 markets
+2026-10-24 16:04:51   drop[team-not-named] Vinales reveals doctor’s bleak verdict of injury after admitting he's 'in pain' (www.motogpnews.com) :: Ducati Lenovo Team
+2026-10-24 16:07:19   drop[kind] Ukrainian drone reaches Russia’s Omsk industrial hub as long-range strikes target energy i (Business Upturn) :: other
+2026-10-24 16:07:20   drop[1-source] Oilers news: Edmonton makes disappointing Devon Levi injury move (ClutchPoints) :: Devon Levi, wait 2nd source
+2026-10-24 16:13:58 indexed 963 markets
+2026-10-24 16:14:01 NEWS [ESPN 10m] Samuel Girard (D, Pittsburgh Penguins) ruled out: Day-To-Day -> Injured Reserve [NHL]
+2026-10-24 16:14:01   skip Predators :: Predators vs. Penguins (low conf 0.6)
+2026-10-24 16:14:05   drop[team-not-named] Oregon High School Football Player Ejected For Controversial Targeting Will Miss Final Gam (BroBible) :: 
+2026-10-24 16:14:05   llm groq-120b: rate limited, skip 199s
+2026-10-24 16:14:06   drop[team-not-named] Suspended councillor submits funding for asylum seekers question as 'member of the public' (Nation.Cymru) :: Carmarthenshire County Council
