@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T12:17:09",
+ "updated": "2026-10-24T12:47:17",
  "start": 100.0,
  "cash": 21.06,
- "equity": 136.27,
+ "equity": 136.43,
  "open": [
   {
    "market_id": "5597100",
@@ -74,7 +74,7 @@
    "reason": "pengwin approx: replicates GOAL leg of combo",
    "conf": 1.0,
    "end": "2026-10-24T16:30:00+00:00",
-   "last_bid": 0.63,
+   "last_bid": 0.64,
    "book_err": false
   },
   {
