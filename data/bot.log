@@ -19322,3 +19322,17 @@
 2026-10-25 14:18:03   llm groq-120b: rate limited, skip 154s
 2026-10-25 14:18:04 NEWS [ESPN 0m] Genoa confirmed lineup vs Venezia: Alessandro Marcandalli, Morten Frendrup, David Puczka ruled out of starting XI [ita.1]
 2026-10-25 14:18:04   skip No :: Will Genoa CFC win on 2026-10-25? (low conf 0.6)
+2026-10-25 14:22:05   llm groq-120b: rate limited, skip 12s
+2026-10-25 14:22:06   drop[side] Atalanta confirmed lineup vs Frosinone: Giorgio Scalvini, Franck Kessié ruled out of start (ESPN) :: Will Atalanta BC win on 2026-10-25? -> Yes vs fact ruled_out: Giorgio Scalvini (Atalanta, soccer), bad for Atalanta. rul
+2026-10-25 14:22:06   drop[not-key] Frosinone confirmed lineup vs Atalanta: Ilario Monterisi ruled out of starting XI [ita.1] (ESPN) :: Ilario Monterisi: injury
+2026-10-25 14:24:45   llm groq-120b: rate limited, skip 171s
+2026-10-25 14:24:46   drop[no-pick] Fresh injury blow compounds Swansea City's nightmare weekend (Yahoo) :: no relevant market
+2026-10-25 14:25:22 indexed 1027 markets
+2026-10-25 14:26:59   drop[unconfirmed] Rangers' Tuur Rommens ready to return after injury layoff (Glasgow Times) :: injury recovery
+2026-10-25 14:29:17   drop[1-source] Ohio State’s QB Decision Point Arrives After Sayin Injury for Fahey, St. Clair (heavy.com) :: Sayin, wait 2nd source
+2026-10-25 14:34:06   drop[1-source] Rams | Rams ‘feel good’ about Puka Nacua playing Sunday through calf injury (Fantasy Guru) :: Puka Nacua, wait 2nd source
+2026-10-25 14:35:23 indexed 1031 markets
+2026-10-25 14:38:32   drop[kind] Lamar Jackson ROASTS Ian Rapoport for reporting, REVEALS TRUE Baltimore Ravens diagnosis o (newscentermaine.com) :: other
+2026-10-25 14:40:49   llm groq-120b: rate limited, skip 99s
+2026-10-25 14:40:49   drop[1-source] Alistair Johnston Celtic injury fear as returning defender subbed off vs Hibs (The National Scot) :: Alistair Johnston, wait 2nd source
+2026-10-25 14:45:21 indexed 1027 markets
