@@ -19345,3 +19345,35 @@
 2026-10-25 16:04:21   drop[1-source] 49ers wide receiver depth chart with Mike Evans and Deebo Samuel ruled out (FanSided) :: Mike Evans, wait 2nd source
 2026-10-25 16:04:22   drop[1-source] Stephan on QPR win, Kone, Kemper injury and more (West London Sport) :: Kone, wait 2nd source
 2026-10-25 16:04:22   drop[team-not-named] Suspended sentence handed down at Kilkenny court for assault (Kilkenny Live) :: 
+2026-10-25 16:06:51   drop[unconfirmed] Detroit Pistons center Jalen Duren to be re-evaluated in 2 weeks after injury (Detroit Free Press) :: injury
+2026-10-25 16:08:57   drop[1-source] Pistons' All-Star Jalen Duren out for two weeks with hamstring strain (The Detroit News) :: Jalen Duren, wait 2nd source
+2026-10-25 16:09:51 indexed 1026 markets
+2026-10-25 16:11:27   llm groq-120b: rate limited, skip 26s
+2026-10-25 16:11:28   drop[1-source] Satyagraha Campaign Demanding Gnanasara Thero’s Release Suspended (Newsfirst) :: Gnanasara Thero, wait 2nd source
+2026-10-25 16:11:29   drop[kind] Chilika Boat Services Suspended Till Oct 29 Ahead Of Cyclone (Ommcom News) :: other
+2026-10-25 16:16:25   llm groq-120b: rate limited, skip 33s
+2026-10-25 16:16:26   drop[verify] Angers confirmed lineup vs Lorient: Emmanuel Biumla, Louis Mouton, Jim Allevinah, Maël Ger (ESPN) :: players not on Angers in 2026
+2026-10-25 16:16:27 NEWS [ESPN 0m] Lorient confirmed lineup vs Angers: Isak Jensen, Alec Georgen, Mamadou Koné ruled out of starting XI [fra.1]
+2026-10-25 16:16:27   skip No :: Will FC Lorient win on 2026-10-25? (low conf 0.6)
+2026-10-25 16:19:50 indexed 1020 markets
+2026-10-25 16:20:28   llm groq-120b: rate limited, skip 132s
+2026-10-25 16:20:28 NEWS [ESPN 0m] Stade Rennais confirmed lineup vs Strasbourg: Bryan Reynolds, Adrien Thomasson ruled out of starting XI [fra.1]
+2026-10-25 16:20:28   skip No :: Will Stade Rennais FC 1901 win on 2026-10-25? (low conf 0.6)
+2026-10-25 16:20:29   drop[side] Strasbourg confirmed lineup vs Stade Rennais: Samuel Amo-Ameyaw ruled out of starting XI [ (ESPN) :: Will RC Strasbourg Alsace win on 2026-10-25? -> Yes vs fact ruled_out: Samuel Amo-Ameyaw (Strasbourg, soccer), bad for S
+2026-10-25 16:20:45   drop[1-source] Bexar County fire marshal deputy suspended after drunken driving arrest (San Antonio Express-News) :: Bexar County Fire Marshal, wait 2nd source
+2026-10-25 16:26:34   llm groq-120b: rate limited, skip 106s
+2026-10-25 16:26:35 NEWS [ESPN 0m] Troyes confirmed lineup vs Toulouse: Patrick Beach ruled out of starting XI [fra.1]
+2026-10-25 16:26:35   skip Yes :: Will Toulouse FC win on 2026-10-24? (low conf 0.6)
+2026-10-25 16:27:37   drop[1-source] Real Madrid star definitively ruled out of El Clasico vs Barcelona after failing to recove (Madrid Universal) :: Karim Benzema, wait 2nd source
+2026-10-25 16:27:38   drop[team-not-named] Jarman wins historic second Worlds silver in vault final (BBC) :: Great Britain
+2026-10-25 16:29:52 indexed 1021 markets
+2026-10-25 16:29:57   llm groq-120b: rate limited, skip 124s
+2026-10-25 16:29:57   drop[side] Pistons’ Jalen Duren not only out vs. 76ers, but hamstring injury will force him out weeks (ClutchPoints) :: Pistons vs. 76ers -> Pistons vs fact ruled_out: Jalen Duren (Detroit Pistons, nba), bad for Detroit Pistons. hamstring i
+2026-10-25 16:30:38   drop[side] AJ Auxerre confirmed lineup vs Le Mans: Mamadou Diop, Arthur Piedfort ruled out of startin (ESPN) :: Will AJ Auxerre win on 2026-10-25? -> Yes vs fact ruled_out: Mamadou Diop (AJ Auxerre, soccer), bad for AJ Auxerre. rule
+2026-10-25 16:30:39 NEWS [ESPN 0m] Le Mans confirmed lineup vs AJ Auxerre: Harold Voyer, Jean Vercruysse, Daouda Traoré, Yasser Larouci, Dame Guèye ruled out of starting XI [fra.1]
+2026-10-25 16:30:39   skip No :: Will Le Mans FC win on 2026-10-25? (low conf 0.6)
+2026-10-25 16:32:14   llm groq-120b: rate limited, skip 75s
+2026-10-25 16:32:15   drop[kind] Denzel Ward, Quincy Williams will play for Browns against Titans (Canton Repository) :: other
+2026-10-25 16:32:16   drop[1-source] Atalanta Faces Another Injury Setback in Match Against Frosinone (SSBCrack) :: Federico Chiesa, wait 2nd source
+2026-10-25 16:32:40   drop[side] Sunderland confirmed lineup vs Leeds United: Kevin Danso, Dayann Methalie, Jules Ahoka, Ma (ESPN) :: Will Sunderland AFC win on 2026-10-25? -> Yes vs fact ruled_out: Kevin Danso (Sunderland, soccer), bad for Sunderland. r
+2026-10-25 16:32:41   drop[side] Leeds United confirmed lineup vs Sunderland: Nico Elvedi, Anton Stach, Noah Okafor ruled o (ESPN) :: Will Leeds United FC win on 2026-10-25? -> Yes vs fact ruled_out: Nico Elvedi (Leeds United, soccer), bad for Leeds Unit
