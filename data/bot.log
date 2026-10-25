@@ -19716,3 +19716,151 @@
 2026-10-25 17:33:35   llm groq-20b: rate limited, skip 191s
 2026-10-25 17:33:35 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
 2026-10-25 17:33:35   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:34:35 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:34:35   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:34:35 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:34:35   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:35:37 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:35:37   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:35:37 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:35:37   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:36:38   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 17:36:38   llm groq-120b: rate limited, skip 245s
+2026-10-25 17:36:38 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:36:38   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:37:40   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 17:37:40   llm groq-20b: rate limited, skip 373s
+2026-10-25 17:37:40 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:37:40   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:37:46 [pengwin]   SELL Over @ 0.000 (resolved) pnl -10.00 :: AS Monaco FC vs. Lille OSC: O/U 2.5
+2026-10-25 17:38:40 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:38:40   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:38:40 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:38:40   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:39:58 indexed 1020 markets
+2026-10-25 17:40:00 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:40:00   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:40:00 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:40:00   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:40:59   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 17:40:59   llm groq-120b: rate limited, skip 248s
+2026-10-25 17:40:59 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:40:59   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:42:00 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:42:00   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:42:00 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:42:00   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:43:01 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:43:01   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:43:01 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:43:01   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:44:02   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 17:44:02   llm groq-20b: rate limited, skip 179s
+2026-10-25 17:44:02 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:44:02   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:45:03 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:45:03   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:45:03 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:45:03   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:46:05   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 17:46:05   llm groq-120b: rate limited, skip 189s
+2026-10-25 17:46:05 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:46:05   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:47:07   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 17:47:07   llm groq-20b: rate limited, skip 173s
+2026-10-25 17:47:07 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:47:07   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:48:06 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:48:06   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:48:06 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:48:06   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:49:08 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:49:08   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:49:08 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:49:08   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:49:59 indexed 1027 markets
+2026-10-25 17:50:10   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 17:50:10   llm groq-120b: rate limited, skip 191s
+2026-10-25 17:50:10   llm groq-20b: rate limited, skip 214s
+2026-10-25 17:50:10 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:50:10   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:51:10 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:51:10   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:51:10 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:51:10   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:52:10 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:52:10   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:52:10 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:52:10   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:53:11 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:53:11   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:53:11 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:53:11   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:54:13   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 17:54:13   llm groq-120b: rate limited, skip 213s
+2026-10-25 17:54:13   llm groq-20b: rate limited, skip 42s
+2026-10-25 17:54:13   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-10-25 17:55:02   SELL Browns @ 0.540 (market closing) pnl -0.18 :: Browns vs. Titans
+2026-10-25 17:55:03   SELL Jets @ 0.640 (market closing) pnl -0.30 :: Dolphins vs. Jets
+2026-10-25 17:55:13   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 17:55:13   llm groq-20b: rate limited, skip 419s
+2026-10-25 17:55:13 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:55:13   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:56:15 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:56:15   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:56:15 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:56:15   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:57:15 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:57:15   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:57:15 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:57:15   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:57:57   drop[1-source] Injury Recap: Steelers Have Good News On Health Front After Saints Win (Steelers Depot) :: T. J. Watt, wait 2nd source
+2026-10-25 17:57:57   llm groq-120b: rate limited, skip 261s
+2026-10-25 17:58:16 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:58:16   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:58:16 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:58:16   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:59:18 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:59:18   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:59:18 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:59:18   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 18:00:02 indexed 1025 markets
+2026-10-25 18:00:18 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 18:00:18   skip No :: Justin Jefferson: Anytime Touchdown (rules fallback, LLM down (not traded))
+2026-10-25 18:00:18   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 18:00:18   skip Titans :: Browns vs. Titans: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-25 18:00:18 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 18:00:18   skip Yes :: Justin Jefferson: Anytime Touchdown (rules fallback, LLM down (not traded))
+2026-10-25 18:00:18   skip Vikings :: Colts vs. Vikings: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-25 18:00:18   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 18:01:11 NEWS [Reuters 1m] Venezuela opposition leader Maria Corina Machado returns to Venezuela reut.rs/4z0lFvH
+2026-10-25 18:01:11   skip Yes :: Will María Corina Machado enter Venezuela by October 31? (rules fallback, LLM down (not traded))
+2026-10-25 18:01:20 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 18:01:20   skip No :: Justin Jefferson: Anytime Touchdown (rules fallback, LLM down (not traded))
+2026-10-25 18:01:20   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 18:01:20   skip Titans :: Browns vs. Titans: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-25 18:01:20 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 18:01:20   skip Yes :: Justin Jefferson: Anytime Touchdown (rules fallback, LLM down (not traded))
+2026-10-25 18:01:20   skip Vikings :: Colts vs. Vikings: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-25 18:01:20   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 18:02:20   llm groq-120b: rate limited, skip 33s
+2026-10-25 18:02:21   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 18:02:21   llm groq-20b: rate limited, skip 354s
+2026-10-25 18:02:21 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 18:02:21   skip Yes :: Justin Jefferson: Anytime Touchdown (rules fallback, LLM down (not traded))
+2026-10-25 18:02:21   skip Vikings :: Colts vs. Vikings: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-25 18:02:21   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 18:03:21   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 18:03:21   llm groq-120b: rate limited, skip 286s
+2026-10-25 18:03:21 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 18:03:21   skip Yes :: Justin Jefferson: Anytime Touchdown (rules fallback, LLM down (not traded))
+2026-10-25 18:03:21   skip Vikings :: Colts vs. Vikings: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-25 18:03:21   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 18:04:22 NEWS [ESPN 0m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 18:04:22   skip No :: Justin Jefferson: Anytime Touchdown (rules fallback, LLM down (not traded))
+2026-10-25 18:04:22   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 18:04:22   skip Titans :: Browns vs. Titans: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-25 18:04:22 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 18:04:22   skip Yes :: Justin Jefferson: Anytime Touchdown (rules fallback, LLM down (not traded))
+2026-10-25 18:04:22   skip Vikings :: Colts vs. Vikings: 1H Moneyline (rules fallback, LLM down (not traded))
+2026-10-25 18:04:22   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))

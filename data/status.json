@@ -1,78 +1,41 @@
 {
- "updated": "2026-10-25T17:34:12",
+ "updated": "2026-10-25T18:04:18",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 401,
- "markets_indexed": 1027,
- "news_processed": 284,
- "cash": 64.02,
+ "llm_calls_today": 429,
+ "markets_indexed": 1025,
+ "news_processed": 369,
+ "cash": 83.54,
  "equity": 83.54,
  "start": 100.0,
- "open": [
-  {
-   "market_id": "4551285",
-   "question": "Browns vs. Titans",
-   "slug": "nfl-cle-ten-2026-10-25",
-   "outcome": "Browns",
-   "token": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
-   "shares": 18.18181818181818,
-   "entry": 0.55,
-   "cost": 10.0,
-   "opened": 1792940419.537599,
-   "opened_iso": "2026-10-25T15:00:19+00:00",
-   "news": "Browns S Grant Delpit cleared the NFL\u2019s concussion protocol and will play today. Meanwhile, CB Denzel Ward will warm up and see if he can go. Ward is questionable with a hand injury.",
-   "reason": "llm[groq-20b] trusted: Delpit cleared, boosts Browns' chances",
-   "conf": 0.7,
-   "end": "2026-10-25T17:00:00+00:00",
-   "last_bid": 0.54,
-   "book_err": false
-  },
-  {
-   "market_id": "4551284",
-   "question": "Dolphins vs. Jets",
-   "slug": "nfl-mia-nyj-2026-10-25",
-   "outcome": "Jets",
-   "token": "26308412986171077383906006203876027703641964141555613293088155238275700441642",
-   "shares": 15.15151515151515,
-   "entry": 0.66,
-   "cost": 10.0,
-   "opened": 1792943242.060774,
-   "opened_iso": "2026-10-25T15:47:22+00:00",
-   "news": "Willie Gay Jr. (LB, Miami Dolphins) ruled out: Questionable -> Out [NFL]",
-   "reason": "llm[groq-20b] trusted: Willie Gay Jr. out hurts Dolphins, so Jets side should rise",
-   "conf": 0.7,
-   "end": "2026-10-25T17:00:00+00:00",
-   "last_bid": 0.64,
-   "book_err": false
-  }
- ],
- "closed_count": 92,
+ "open": [],
+ "closed_count": 94,
  "llm": {
   "backends": [
    "groq-120b",
    "groq-20b"
   ],
-  "fallbacks": 102,
+  "fallbacks": 157,
   "errors": {
-   "groq-120b": "rate limited, skip 286s",
-   "groq-20b": "rate limited, skip 191s"
+   "groq-20b": "rate limited, skip 354s",
+   "groq-120b": "rate limited, skip 286s"
   },
   "rejects": {
    "not-key": 18,
    "kind": 16,
-   "fluff": 31,
+   "fluff": 40,
    "unconfirmed": 10,
-   "team-not-named": 23,
-   "1-source": 10,
+   "team-not-named": 34,
+   "1-source": 11,
    "verify": 5,
    "side": 7,
    "no-market": 1,
-   "no-pick": 4
+   "no-pick": 5
   },
   "calls": {
-   "groq-120b": 202,
-   "groq-20b": 199
+   "groq-120b": 217,
+   "groq-20b": 212
   }
  },
- "realized_pnl": -15.98
+ "realized_pnl": -16.46
 }

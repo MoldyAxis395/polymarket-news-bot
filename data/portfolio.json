@@ -1,43 +1,6 @@
 {
- "cash": 64.02313778107738,
- "positions": [
-  {
-   "market_id": "4551285",
-   "question": "Browns vs. Titans",
-   "slug": "nfl-cle-ten-2026-10-25",
-   "outcome": "Browns",
-   "token": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
-   "shares": 18.18181818181818,
-   "entry": 0.55,
-   "cost": 10.0,
-   "opened": 1792940419.537599,
-   "opened_iso": "2026-10-25T15:00:19+00:00",
-   "news": "Browns S Grant Delpit cleared the NFL\u2019s concussion protocol and will play today. Meanwhile, CB Denzel Ward will warm up and see if he can go. Ward is questionable with a hand injury.",
-   "reason": "llm[groq-20b] trusted: Delpit cleared, boosts Browns' chances",
-   "conf": 0.7,
-   "end": "2026-10-25T17:00:00+00:00",
-   "last_bid": 0.54,
-   "book_err": false
-  },
-  {
-   "market_id": "4551284",
-   "question": "Dolphins vs. Jets",
-   "slug": "nfl-mia-nyj-2026-10-25",
-   "outcome": "Jets",
-   "token": "26308412986171077383906006203876027703641964141555613293088155238275700441642",
-   "shares": 15.15151515151515,
-   "entry": 0.66,
-   "cost": 10.0,
-   "opened": 1792943242.060774,
-   "opened_iso": "2026-10-25T15:47:22+00:00",
-   "news": "Willie Gay Jr. (LB, Miami Dolphins) ruled out: Questionable -> Out [NFL]",
-   "reason": "llm[groq-20b] trusted: Willie Gay Jr. out hurts Dolphins, so Jets side should rise",
-   "conf": 0.7,
-   "end": "2026-10-25T17:00:00+00:00",
-   "last_bid": 0.64,
-   "book_err": false
-  }
- ],
+ "cash": 83.5382892962289,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -2016,6 +1979,50 @@
    "pnl": 0.0,
    "why": "max hold",
    "closed_iso": "2026-10-25T01:34:53+00:00"
+  },
+  {
+   "market_id": "4551285",
+   "question": "Browns vs. Titans",
+   "slug": "nfl-cle-ten-2026-10-25",
+   "outcome": "Browns",
+   "token": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+   "shares": 18.18181818181818,
+   "entry": 0.55,
+   "cost": 10.0,
+   "opened": 1792940419.537599,
+   "opened_iso": "2026-10-25T15:00:19+00:00",
+   "news": "Browns S Grant Delpit cleared the NFL\u2019s concussion protocol and will play today. Meanwhile, CB Denzel Ward will warm up and see if he can go. Ward is questionable with a hand injury.",
+   "reason": "llm[groq-20b] trusted: Delpit cleared, boosts Browns' chances",
+   "conf": 0.7,
+   "end": "2026-10-25T17:00:00+00:00",
+   "last_bid": 0.54,
+   "book_err": false,
+   "exit": 0.54,
+   "pnl": -0.18181818181818166,
+   "why": "market closing",
+   "closed_iso": "2026-10-25T16:55:03+00:00"
+  },
+  {
+   "market_id": "4551284",
+   "question": "Dolphins vs. Jets",
+   "slug": "nfl-mia-nyj-2026-10-25",
+   "outcome": "Jets",
+   "token": "26308412986171077383906006203876027703641964141555613293088155238275700441642",
+   "shares": 15.15151515151515,
+   "entry": 0.66,
+   "cost": 10.0,
+   "opened": 1792943242.060774,
+   "opened_iso": "2026-10-25T15:47:22+00:00",
+   "news": "Willie Gay Jr. (LB, Miami Dolphins) ruled out: Questionable -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: Willie Gay Jr. out hurts Dolphins, so Jets side should rise",
+   "conf": 0.7,
+   "end": "2026-10-25T17:00:00+00:00",
+   "last_bid": 0.64,
+   "book_err": false,
+   "exit": 0.64,
+   "pnl": -0.30303030303030276,
+   "why": "market closing",
+   "closed_iso": "2026-10-25T16:55:03+00:00"
   }
  ],
  "cooldown": {
@@ -2077,6 +2084,8 @@
   "4329883": 1792206433.6232815,
   "4329893": 1792226253.1906776,
   "5035384": 1792880718.6792643,
-  "4551273": 1792902893.3305793
+  "4551273": 1792902893.3305793,
+  "4551285": 1792958103.1436505,
+  "4551284": 1792958103.7324388
  }
 }
