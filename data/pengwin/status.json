@@ -1,31 +1,11 @@
 {
- "updated": "2026-10-25T23:19:43",
+ "updated": "2026-10-25T23:49:24",
  "start": 100.0,
- "cash": 115.0,
- "equity": 127.97,
- "open": [
-  {
-   "market_id": "5599710",
-   "question": "FC Barcelona vs. Real Madrid CF: Both Teams to Score",
-   "slug": "lal-bar-rea-2026-10-25-btts",
-   "outcome": "Yes",
-   "token": "14633004144628019192847572287535288387870491300577615177247300157521948970891",
-   "shares": 12.987012987012987,
-   "entry": 0.77,
-   "cost": 10.0,
-   "opened": 1792797140.8184488,
-   "opened_iso": "2026-10-23T23:12:20+00:00",
-   "news": "Barcellona-Real Madrid: GG (esatto)",
-   "reason": "pengwin exact: Both Teams to Score leg of the 1X+Gol combo",
-   "conf": 1.0,
-   "end": "2026-10-25T20:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1792967323.6932266
-  }
- ],
- "closed_count": 45,
- "realized_pnl": 25.0,
+ "cash": 127.99,
+ "equity": 127.99,
+ "open": [],
+ "closed_count": 46,
+ "realized_pnl": 27.99,
  "pages": {
   "pending": 101,
   "picked": 1,

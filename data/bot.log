@@ -20070,3 +20070,38 @@
 2026-10-25 23:18:43 [pengwin]   book error FC Barcelona vs. Real Madrid CF: Both Teams to Sco: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=14633004144628019192847572287535288387870491300577615177247300157521948970891
 2026-10-25 23:18:49   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-10-25 23:18:49   llm groq-20b: rate limited, skip 239s
+2026-10-25 23:19:49 NEWS [ESPN 17m] Kawhi Leonard (F, Toronto Raptors) ruled out: Day-To-Day -> Out [NBA]
+2026-10-25 23:19:49   skip Timberwolves :: Raptors vs. Timberwolves (rules fallback, LLM down (not traded))
+2026-10-25 23:22:49   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:22:50   llm groq-120b: rate limited, skip 247s
+2026-10-25 23:22:50   llm groq-20b: rate limited, skip 6s
+2026-10-25 23:23:51   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-10-25 23:23:51   llm groq-20b: rate limited, skip 395s
+2026-10-25 23:25:25 indexed 997 markets
+2026-10-25 23:27:01   llm groq-120b: rate limited, skip 8s
+2026-10-25 23:27:56   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:27:56   llm groq-120b: rate limited, skip 257s
+2026-10-25 23:28:44 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +2.99 :: FC Barcelona vs. Real Madrid CF: Both Teams to Score
+2026-10-25 23:30:57   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-10-25 23:30:57   llm groq-20b: rate limited, skip 274s
+2026-10-25 23:33:01   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:33:01   llm groq-120b: rate limited, skip 240s
+2026-10-25 23:35:29 indexed 994 markets
+2026-10-25 23:36:19   drop[not-key] Texas Loses Trevor Goosby For Season In Major Blow To Arch Manning (roundtable.io) :: Trevor Goosby: season-ending injury
+2026-10-25 23:36:19   llm groq-20b: rate limited, skip 279s
+2026-10-25 23:37:32   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:37:32   llm groq-120b: rate limited, skip 263s
+2026-10-25 23:38:31 NEWS [ESPN 3m] Spencer Jones (F, Denver Nuggets) ruled out: Day-To-Day -> Out [NBA]
+2026-10-25 23:38:31   skip Warriors :: Warriors vs. Nuggets (rules fallback, LLM down (not traded))
+2026-10-25 23:39:39 NEWS [Fabrizio Romano 1m] 🚨 José Mourinho: “In my view, Real Madrid do not play to win at the Camp Nou… Real Madrid play to win La Liga”. “This must be the mentality. We need to continue like this and don’t go over the moon after this win”.
+2026-10-25 23:39:39   skip Yes :: Will Real Madrid CF win on 2026-11-01? (rules fallback, LLM down (not traded))
+2026-10-25 23:39:39   skip Real Madrid :: Forca Lleida CE vs. Real Madrid (rules fallback, LLM down (not traded))
+2026-10-25 23:41:16   drop[kind] Exclusive | Rams receiver opens up about Davante Adams injury, stepping into spotlight (New York Post) :: other
+2026-10-25 23:41:16   llm groq-20b: rate limited, skip 346s
+2026-10-25 23:42:35   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:42:35   llm groq-120b: rate limited, skip 254s
+2026-10-25 23:45:30 indexed 993 markets
+2026-10-25 23:47:19   drop[team-not-named] Smith holds on to beat Schindler in Euros final (BBC) :: England
+2026-10-25 23:47:41   llm groq-120b: rate limited, skip 190s
+2026-10-25 23:47:41   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:47:41   llm groq-20b: rate limited, skip 360s

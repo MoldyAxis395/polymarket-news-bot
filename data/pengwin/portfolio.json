@@ -1,26 +1,6 @@
 {
- "cash": 115.00009802594474,
- "positions": [
-  {
-   "market_id": "5599710",
-   "question": "FC Barcelona vs. Real Madrid CF: Both Teams to Score",
-   "slug": "lal-bar-rea-2026-10-25-btts",
-   "outcome": "Yes",
-   "token": "14633004144628019192847572287535288387870491300577615177247300157521948970891",
-   "shares": 12.987012987012987,
-   "entry": 0.77,
-   "cost": 10.0,
-   "opened": 1792797140.8184488,
-   "opened_iso": "2026-10-23T23:12:20+00:00",
-   "news": "Barcellona-Real Madrid: GG (esatto)",
-   "reason": "pengwin exact: Both Teams to Score leg of the 1X+Gol combo",
-   "conf": 1.0,
-   "end": "2026-10-25T20:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1792967323.6932266
-  }
- ],
+ "cash": 127.98711101295773,
+ "positions": [],
  "closed": [
   {
    "market_id": "5009005",
@@ -1056,6 +1036,29 @@
    "pnl": -10.0,
    "why": "resolved",
    "closed_iso": "2026-10-25T20:47:22+00:00"
+  },
+  {
+   "market_id": "5599710",
+   "question": "FC Barcelona vs. Real Madrid CF: Both Teams to Score",
+   "slug": "lal-bar-rea-2026-10-25-btts",
+   "outcome": "Yes",
+   "token": "14633004144628019192847572287535288387870491300577615177247300157521948970891",
+   "shares": 12.987012987012987,
+   "entry": 0.77,
+   "cost": 10.0,
+   "opened": 1792797140.8184488,
+   "opened_iso": "2026-10-23T23:12:20+00:00",
+   "news": "Barcellona-Real Madrid: GG (esatto)",
+   "reason": "pengwin exact: Both Teams to Score leg of the 1X+Gol combo",
+   "conf": 1.0,
+   "end": "2026-10-25T20:00:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1792967924.6889148,
+   "exit": 1.0,
+   "pnl": 2.987012987012987,
+   "why": "resolved",
+   "closed_iso": "2026-10-25T22:28:45+00:00"
   }
  ],
  "cooldown": {
@@ -1103,6 +1106,7 @@
   "5536710": 1792879050.486209,
   "5526290": 1792889188.8312726,
   "5597100": 1792957067.2065055,
-  "5599839": 1792972042.59777
+  "5599839": 1792972042.59777,
+  "5599710": 1792978125.1953144
  }
 }
