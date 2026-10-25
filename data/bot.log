@@ -19139,17 +19139,8 @@
 2026-10-25 03:41:44 bluesky error x1: HTTPSConnectionPool(host='public.api.bsky.app', port=443): Read timed out. (read timeout=15)
 2026-10-25 03:44:36 indexed 1005 markets
 2026-10-25 03:46:51 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-25 03:54:36 indexed 1007 markets
-2026-10-25 03:56:24   drop[1-source] Samsung Lions Turn to Collective Closing Amid Kim Jae-yoon Injury (조선일보) :: Kim Jae-yoon, wait 2nd source
-2026-10-25 03:58:29   drop[1-source] Mini Vikingo Reveals He Needs Surgery After Injury on WWE NXT (Ringside News) :: Mini Vikingo, wait 2nd source
-2026-10-25 04:00:50   drop[kind] Earthquake of magnitude 6.16 strikes Vanuatu islands, GFZ says reut.rs/4yMkq2V (Reuters) :: other
-2026-10-25 04:04:42 indexed 1010 markets
-2026-10-25 04:14:40 indexed 996 markets
-2026-10-25 04:14:56   drop[kind] Pilot, passenger escape injury after small plane crashes into concrete pole in Stark Count (Jordan Miller News) :: other
-2026-10-25 04:17:03   drop[1-source] Rutgers QB Longeran leaves with injury in blowout loss to No. 24 Northwestern (Trentonian) :: Longeran, wait 2nd source
-2026-10-25 04:17:03   drop[1-source] Mississippi State's Offensive Problems May Run Deeper Than Kamario Taylor's Injury (Sports Illustrated) :: Kamario Taylor, wait 2nd source
-2026-10-25 04:17:31 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-25 04:21:39   drop[1-source] Boeing’s 777F Production Suspended For 2 Months (Dj's Aviation) :: Boeing, wait 2nd source
-2026-10-25 04:21:40   drop[kind] Khaman Maluach Earns Starting Center Position for Suns Amid Injury to Mark Williams (SSBCrack) :: other
-2026-10-25 04:24:43 indexed 995 markets
-2026-10-25 04:28:25 shift over, state saved
+2026-10-25 04:28:47 === start mode=paper pid=2304 ===
+2026-10-25 04:28:47 brain=llm cash=84.02 open=0
+2026-10-25 04:28:47 resuming with 8217 known news items
+2026-10-25 04:29:11 indexed 997 markets
+2026-10-25 04:29:27   drop[kind] Earthquake of magnitude 6.16 strikes Vanuatu islands, GFZ says reut.rs/4yMkq2V (Reuters) :: other
