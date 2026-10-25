@@ -19995,3 +19995,63 @@
 2026-10-25 19:31:51 feed politico error x1: 404 Client Error: Not Found for url: https://rss.politico.com/politics-news.xml
 2026-10-25 19:33:43   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-10-25 19:33:43   llm groq-20b: rate limited, skip 177s
+2026-10-25 19:34:44   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 19:34:44   llm groq-120b: rate limited, skip 92s
+2026-10-25 19:36:46   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 19:36:46   llm groq-120b: rate limited, skip 305s
+2026-10-25 19:36:46   llm groq-20b: rate limited, skip 239s
+2026-10-25 19:36:46   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-10-25 19:38:46 feed politico error x10: 404 Client Error: Not Found for url: https://rss.politico.com/politics-news.xml
+2026-10-25 19:40:15 indexed 1054 markets
+2026-10-25 19:41:18   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-10-25 19:41:18   llm groq-20b: rate limited, skip 292s
+2026-10-25 19:41:53   llm groq-120b: rate limited, skip 12s
+2026-10-25 19:42:18   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 19:42:19   llm groq-120b: rate limited, skip 284s
+2026-10-25 19:46:20   llm groq-20b: rate limited, skip 70s
+2026-10-25 19:46:20 NEWS [ESPN 0m] Pat Surtain II (CB, Denver Broncos) ruled out: Questionable -> Out [NFL]
+2026-10-25 19:46:20   skip Cardinals :: Broncos vs. Cardinals (rules fallback, LLM down (not traded))
+2026-10-25 19:47:22   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 19:47:22   llm groq-120b: rate limited, skip 230s
+2026-10-25 19:47:22 NEWS [ESPN 3m] Tyler Onyedim (DT, Denver Broncos) ruled out: Active -> Out [NFL]
+2026-10-25 19:47:22   skip Cardinals :: Broncos vs. Cardinals (rules fallback, LLM down (not traded))
+2026-10-25 19:47:22 NEWS [ESPN 3m] Jordan Jackson (DT, Denver Broncos) ruled out: Active -> Out [NFL]
+2026-10-25 19:47:22   skip Cardinals :: Broncos vs. Cardinals (rules fallback, LLM down (not traded))
+2026-10-25 19:47:22 NEWS [ESPN 3m] Dallen Bentley (TE, Denver Broncos) ruled out: Active -> Out [NFL]
+2026-10-25 19:47:22   skip Cardinals :: Broncos vs. Cardinals (rules fallback, LLM down (not traded))
+2026-10-25 19:47:22 NEWS [ESPN 3m] Kage Casey (OT, Denver Broncos) ruled out: Active -> Out [NFL]
+2026-10-25 19:47:22   skip Cardinals :: Broncos vs. Cardinals (rules fallback, LLM down (not traded))
+2026-10-25 19:47:22 NEWS [ESPN 3m] Sam Ehlinger (QB, Denver Broncos) ruled out: Active -> Out [NFL]
+2026-10-25 19:47:22   skip Cardinals :: Broncos vs. Cardinals (rules fallback, LLM down (not traded))
+2026-10-25 19:48:06   llm groq-20b: rate limited, skip 375s
+2026-10-25 19:48:06   drop[no-pick] 🚨 OFFICIAL: Barcelona starting XI. Joan García; Xavi Espart, Cubarsí, Gerard Martin, Cance (Fabrizio Romano) :: None
+2026-10-25 19:48:23 NEWS [ESPN 4m] Carson Beck (QB, Arizona Cardinals) ruled out: Questionable -> Out [NFL]
+2026-10-25 19:48:23   skip Broncos :: Broncos vs. Cardinals (rules fallback, LLM down (not traded))
+2026-10-25 19:48:23 NEWS [ESPN 6m] Albert Reese IV (OT, Arizona Cardinals) ruled out: Active -> Out [NFL]
+2026-10-25 19:48:23   skip Broncos :: Broncos vs. Cardinals (rules fallback, LLM down (not traded))
+2026-10-25 19:48:23 NEWS [ESPN 6m] Max Melton (CB, Arizona Cardinals) ruled out: Questionable -> Out [NFL]
+2026-10-25 19:48:23   skip Broncos :: Broncos vs. Cardinals (rules fallback, LLM down (not traded))
+2026-10-25 19:50:15 indexed 1052 markets
+2026-10-25 19:51:26   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 19:51:26   llm groq-120b: rate limited, skip 299s
+2026-10-25 19:54:28   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 19:54:28   llm groq-20b: rate limited, skip 356s
+2026-10-25 19:56:31   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 19:56:31   llm groq-120b: rate limited, skip 283s
+2026-10-25 20:00:17 indexed 1055 markets
+2026-10-25 20:00:35   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 20:00:35   llm groq-20b: rate limited, skip 148s
+2026-10-25 20:01:36   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 20:01:36   llm groq-120b: rate limited, skip 247s
+2026-10-25 20:02:36 NEWS [ESPN 4m] Mekhi Wingo (DT, Detroit Lions) ruled out: Active -> Out [NFL]
+2026-10-25 20:02:36   skip Packers :: Packers vs. Lions (rules fallback, LLM down (not traded))
+2026-10-25 20:02:36 NEWS [ESPN 4m] Seth McLaughlin (C, Detroit Lions) ruled out: healthy -> Out [NFL]
+2026-10-25 20:02:36   skip Packers :: Packers vs. Lions (rules fallback, LLM down (not traded))
+2026-10-25 20:02:36 NEWS [ESPN 4m] Jackson Meeks (WR, Detroit Lions) ruled out: Active -> Out [NFL]
+2026-10-25 20:02:36   skip Packers :: Packers vs. Lions (rules fallback, LLM down (not traded))
+2026-10-25 20:02:36 NEWS [ESPN 4m] Ahmed Hassanein (DE, Detroit Lions) ruled out: Active -> Out [NFL]
+2026-10-25 20:02:36   skip Packers :: Packers vs. Lions (rules fallback, LLM down (not traded))
+2026-10-25 20:02:36 NEWS [ESPN 4m] Bishop Fitzgerald (S, Detroit Lions) ruled out: Active -> Out [NFL]
+2026-10-25 20:02:36   skip Packers :: Packers vs. Lions (rules fallback, LLM down (not traded))
+2026-10-25 20:03:37   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 20:03:37   llm groq-20b: rate limited, skip 77s
