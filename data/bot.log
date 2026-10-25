@@ -19255,3 +19255,25 @@
 2026-10-25 12:43:06   drop[team-not-named] Courtois ruled out of tonight's El Classico (The Daily Star) :: Real Madrid
 2026-10-25 12:45:04 indexed 932 markets
 2026-10-25 12:47:31   drop[not-key] Svilar eyes return from injury vs Manchester United (RomaPress) :: Mattia Svilar: Svilar will be available after injury for the Manchester United match
+2026-10-25 12:52:18   drop[1-source] Shardul Thakur ruled out of Mumbai's Ranji Trophy third-round clash against Haryana (Dailyhunt) :: Shardul Thakur, wait 2nd source
+2026-10-25 12:55:07 indexed 937 markets
+2026-10-25 13:03:40   drop[kind] Conduit Law’s 30-Day Checklist After a Car Crash Injury: Medical Care, Records, Insurance  (Eye On Annapolis) :: other
+2026-10-25 13:05:08 indexed 1049 markets
+2026-10-25 13:05:59   drop[1-source] Shrewsbury Town striker George Lloyd 'discharged from hospital' after neck injury (Shropshire Star) :: George Lloyd, wait 2nd source
+2026-10-25 13:10:57   drop[1-source] INEOS hit by further concerns as defender suffers ankle injury (centredevils.co.uk) :: INEOS Grenadiers, wait 2nd source
+2026-10-25 13:11:13 NEWS [ESPN 0m] Athletic Club confirmed lineup vs Getafe: Aymeric Laporte, Johaneko Louis Jean, Robert Navarro, Beñat Gerenabarrena ruled out of starting XI [esp.1]
+2026-10-25 13:11:13   skip No :: Will Athletic Club win on 2026-10-25? (low conf 0.6)
+2026-10-25 13:11:14 NEWS [ESPN 0m] Getafe confirmed lineup vs Athletic Club: Djené, Enes Ünal ruled out of starting XI [esp.1]
+2026-10-25 13:11:14   skip Yes :: Will Athletic Club win on 2026-10-25? (low conf 0.6)
+2026-10-25 13:12:19   drop[verify] Tyree Wilson (DE, New Orleans Saints) ruled out: Active -> Out [NFL] (ESPN) :: Tyree Wilson is not on the Saints
+2026-10-25 13:12:22   drop[verify] Zach Wilson (QB, New Orleans Saints) ruled out: Active -> Out [NFL] (ESPN) :: Zach Wilson isn’t a current Saints player, so the premise fails
+2026-10-25 13:12:23 NEWS [ESPN 8m] Mike Reid (CB, New Orleans Saints) ruled out: Active -> Out [NFL]
+2026-10-25 13:12:23   skip Steelers :: Steelers vs. Saints (low conf 0.62)
+2026-10-25 13:12:23   drop[not-key] John Ridgeway III (DT, New Orleans Saints) ruled out: Active -> Out [NFL] (ESPN) :: John Ridgeway III: injury
+2026-10-25 13:12:26   drop[verify] Cesar Ruiz (G, New Orleans Saints) ruled out: Questionable -> Out [NFL] (ESPN) :: player impact insufficient and roster status uncertain
+2026-10-25 13:12:28   drop[verify] Nathan Shepherd (DT, New Orleans Saints) ruled out: Questionable -> Out [NFL] (ESPN) :: player not on Saints roster
+2026-10-25 13:12:28   llm groq-120b: rate limited, skip 2s
+2026-10-25 13:12:28   drop[not-key] Treyton Welch (TE, New Orleans Saints) ruled out: healthy -> Out [NFL] (ESPN) :: Treyton Welch: injury
+2026-10-25 13:12:51   drop[kind] Anan Chiropractic Review: An Accident Injury Medical Office in the Bronx, Not Just a Chiro (Yonkers Times) :: other
+2026-10-25 13:15:11 indexed 1041 markets
+2026-10-25 13:17:32   drop[not-key] Rico Dowdle Injury: Available to play in Paris (RotoWire) :: Rico Dowdle: Dowdle cleared to play in upcoming Paris game

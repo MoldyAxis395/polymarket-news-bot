@@ -16,7 +16,7 @@
    "reason": "pengwin exact: total goals >2.5",
    "conf": 1.0,
    "end": "2026-10-25T14:00:00+00:00",
-   "last_bid": 0.53,
+   "last_bid": 0.54,
    "book_err": false,
    "settle_retry": 1792722170.9616868
   },
@@ -53,7 +53,7 @@
    "reason": "pengwin exact: Both Teams to Score leg of the 1X+Gol combo",
    "conf": 1.0,
    "end": "2026-10-25T20:00:00+00:00",
-   "last_bid": 0.74,
+   "last_bid": 0.75,
    "book_err": false
   }
  ],
