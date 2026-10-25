@@ -19234,3 +19234,15 @@
 2026-10-25 11:44:58   drop[1-source] Rival watch: Real Madrid superstar ruled out of Barcelona clash in last-minute blow (Barca Universal) :: Vinícius Júnior, wait 2nd source
 2026-10-25 11:44:58   drop[team-not-named] Courtois Ruled Out Of El Clásico Against Barcelona (TVC News) :: Real Madrid
 2026-10-25 11:46:22 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-25 11:50:33 NEWS [ESPN 0m] Internazionale confirmed lineup vs Fiorentina: Josep Martínez, Djed Spence, Federico Dimarco, Petar Sucic, Ange-Yoan Bonny ruled out of starting XI [ita.1]
+2026-10-25 11:50:33   skip Yes :: Will ACF Fiorentina win on 2026-10-25? (low conf 0.6)
+2026-10-25 11:50:34   drop[not-key] Fiorentina confirmed lineup vs Internazionale: Luca Ranieri, Christ Inao Oulaï, Beto, Wilf (ESPN) :: Luca Ranieri: ruled out of starting XI
+2026-10-25 11:51:50   drop[1-source] Huge Leeds United injury boost confirmed pre-Sunderland (LeedsAllOver) :: Leeds United, wait 2nd source
+2026-10-25 11:54:56 indexed 931 markets
+2026-10-25 11:56:44   drop[unconfirmed] Leeds United star drops hint of Sunderland involvement amid injury doubt (Yorkshire Evening Post) :: injury doubt
+2026-10-25 11:58:49   drop[1-source] Sydney Sixers’ Maddy Darke Ruled Out of WBBL 12; Grace Lyons Named Replacement (Female Cricket) :: Maddy Darke, wait 2nd source
+2026-10-25 12:03:25   drop[team-not-named] Alexander Bublik suggests if he'll play again this season after retiring with injury vs Da (Tennishead) :: Kazakhstan
+2026-10-25 12:04:59 indexed 927 markets
+2026-10-25 12:06:02   drop[kind] Cooper Flagg Avoids Serious Injury, Will Be Evaluated Again Next Week (SLAM Online) :: other
+2026-10-25 12:15:01 indexed 931 markets
+2026-10-25 12:17:23   drop[team-not-named] Cameron Green cleared for final Test against South Africa after injury (The News Mill) :: Australia national cricket team
