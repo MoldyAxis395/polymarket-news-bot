@@ -16,9 +16,9 @@
    "reason": "llm[groq-120b] trusted: Lamar Jackson's ankle injury significantly weakens the Ravens, increasing the Bengals' chances of winning the upcoming game.",
    "conf": 0.8,
    "end": "2026-10-25T17:00:00+00:00",
-   "last_bid": 0.58,
+   "last_bid": 0.59,
    "book_err": false,
-   "settle_retry": 1792882876.3528666
+   "settle_retry": 1792888227.509093
   }
  ],
  "closed": [

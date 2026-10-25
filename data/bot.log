@@ -19060,3 +19060,24 @@
 2026-10-25 02:14:15   drop[kind] Nitrous Oxide-Associated Rhabdomyolysis With Acute Kidney Injury Requiring Hemodialysis (Cureus) :: other
 2026-10-25 02:15:18   drop[not-key] Alpha Diallo (F, Denver Nuggets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Alpha Diallo: wrist injury
 2026-10-25 02:16:32   drop[1-source] Running back Evan Hampton leaves Vanderbilt football vs Kentucky with injury (The Tennessean) :: Evan Hampton, wait 2nd source
+2026-10-25 02:20:27   book error Bengals vs. Ravens: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-25 02:20:31   drop[team-not-named] Zach Edey (C, Memphis Grizzlies) ruled out: healthy -> Out [NBA] (ESPN) :: Purdue Boilermakers
+2026-10-25 02:23:34   drop[1-source] What's next for Alabama football offensive line with William Sanders injury (The Tuscaloosa News) :: William Sanders, wait 2nd source
+2026-10-25 02:24:09 indexed 998 markets
+2026-10-25 02:32:49   drop[1-source] Texas football loses top offensive lineman to injury vs. Ole Miss (Austin American-Statesman) :: Texas Longhorns, wait 2nd source
+2026-10-25 02:34:12 indexed 1006 markets
+2026-10-25 02:35:09   drop[no-market] Alabama OL Sanders out multiple weeks with lower body injury (ESPN) :: Alabama Crimson Tide
+2026-10-25 02:36:16   llm groq-120b: rate limited, skip 46s
+2026-10-25 02:36:16   drop[unconfirmed] Draymond Green (F, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: day-to-day
+2026-10-25 02:36:39   drop[side] St. Louis CITY SC confirmed lineup vs Real Salt Lake: Miguel Perez, Roman Bürki, Tomas Tot (ESPN) :: Will St. Louis City SC win on 2026-10-24? -> Yes vs fact ruled_out: Jeong Sang-Bin (St. Louis City SC, soccer), bad for 
+2026-10-25 02:43:21 NEWS [ESPN 10m] Victor Hedman (D, Tampa Bay Lightning) ruled out: Day-To-Day -> Out [NHL]
+2026-10-25 02:43:21   skip Utah :: Lightning vs. Utah (low conf 0.6)
+2026-10-25 02:44:22 indexed 1000 markets
+2026-10-25 02:44:26   llm groq-120b: rate limited, skip 106s
+2026-10-25 02:44:26   drop[kind] WWE legend Jeff Hardy to step away from wrestling due to career-threatening injury (Sportskeeda) :: other
+2026-10-25 02:46:57   drop[team-not-named] NFL Week 7 Injury Report: DeVonta Smith, Dontayvion Wicks ruled out, Jonah Coleman returns (NBC Sports) :: Philadelphia Eagles
+2026-10-25 02:47:00   llm groq-120b: rate limited, skip 204s
+2026-10-25 02:47:01 NEWS [ESPN 0m] Colorado Rapids confirmed lineup vs Vancouver Whitecaps: Loic Williams, Donavan Phillip, Darren Yapi ruled out of starting XI [usa.1]
+2026-10-25 02:47:01   skip Yes :: Will Vancouver Whitecaps FC win on 2026-10-24? (low conf 0.6)
+2026-10-25 02:47:02 NEWS [ESPN 0m] Vancouver Whitecaps confirmed lineup vs Colorado Rapids: Mathías Laborda, Aleksa Cvetković, Bruno Caicedo ruled out of starting XI [usa.1]
+2026-10-25 02:47:02   skip No :: Will Vancouver Whitecaps FC win on 2026-10-24? (low conf 0.6)

@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-25T02:18:29",
+ "updated": "2026-10-25T02:48:21",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 10,
- "markets_indexed": 1007,
- "news_processed": 134,
+ "llm_calls_today": 28,
+ "markets_indexed": 1000,
+ "news_processed": 155,
  "cash": 74.02,
- "equity": 84.02,
+ "equity": 84.2,
  "start": 100.0,
  "open": [
   {
@@ -24,9 +24,9 @@
    "reason": "llm[groq-120b] trusted: Lamar Jackson's ankle injury significantly weakens the Ravens, increasing the Bengals' chances of winning the upcoming game.",
    "conf": 0.8,
    "end": "2026-10-25T17:00:00+00:00",
-   "last_bid": 0.58,
+   "last_bid": 0.59,
    "book_err": false,
-   "settle_retry": 1792882876.3528666
+   "settle_retry": 1792888227.509093
   }
  ],
  "closed_count": 91,
@@ -37,22 +37,23 @@
   ],
   "fallbacks": 29,
   "errors": {
-   "groq-20b": "rate limited, skip 258s"
+   "groq-120b": "rate limited, skip 204s"
   },
   "rejects": {
    "not-key": 13,
    "verify": 2,
-   "fluff": 27,
-   "team-not-named": 1,
-   "1-source": 8,
-   "kind": 9,
-   "unconfirmed": 2,
+   "fluff": 32,
+   "team-not-named": 3,
+   "1-source": 10,
+   "kind": 10,
+   "unconfirmed": 3,
    "no-pick": 7,
-   "side": 1
+   "side": 2,
+   "no-market": 1
   },
   "calls": {
-   "groq-120b": 5,
-   "groq-20b": 5
+   "groq-120b": 15,
+   "groq-20b": 13
   }
  },
  "realized_pnl": -15.98
