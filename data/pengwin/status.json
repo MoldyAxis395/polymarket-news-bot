@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-25T22:19:29",
+ "updated": "2026-10-25T22:49:37",
  "start": 100.0,
  "cash": 115.0,
- "equity": 124.74,
+ "equity": 127.97,
  "open": [
   {
    "market_id": "5599710",
@@ -19,7 +19,7 @@
    "reason": "pengwin exact: Both Teams to Score leg of the 1X+Gol combo",
    "conf": 1.0,
    "end": "2026-10-25T20:00:00+00:00",
-   "last_bid": 0.75,
+   "last_bid": 0.999,
    "book_err": false
   }
  ],
