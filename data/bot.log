@@ -19359,3 +19359,13 @@
 2026-10-25 15:17:26 NEWS [ESPN 0m] Celta Vigo confirmed lineup vs Real Betis: Sebastián Cáceres, Hugo Burcio, Sergio Carreira, Iago Aspas, Ferran Jutglà ruled out of starting XI [esp.1]
 2026-10-25 15:17:26   skip Yes :: Will Real Betis Balompié win on 2026-10-25? (low conf 0.6)
 2026-10-25 15:17:27   drop[not-key] Real Betis confirmed lineup vs Celta Vigo: Fran García, Marc Bartra, Héctor Bellerín, Pabl (ESPN) :: Troy Parrott: ruled out of starting XI
+2026-10-25 15:22:26   drop[kind] Raiders Get Late Injury Scare with Key Defensive Starter Before Rams Game (roundtable.io) :: other
+2026-10-25 15:22:26   llm groq-120b: rate limited, skip 108s
+2026-10-25 15:22:28   drop[unconfirmed] Texas’ Steve Sarkisian Sounds Alarm on Cam Coleman’s Injury After Ole Miss Game (Athlon Sports) :: injury
+2026-10-25 15:25:25 indexed 1023 markets
+2026-10-25 15:29:30   drop[unconfirmed] Sunderland vs Leeds United team news, Dominic Calvert-Lewin injury doubt and weather state (OneFootball) :: Calvert-Lewin is listed as doubtful with an injury for the upcoming match
+2026-10-25 15:35:26 indexed 1023 markets
+2026-10-25 15:40:56   drop[kind] Waterbury man 'stable' after injury to neck caused by 'edged weapon,' police say (CT Insider) :: other
+2026-10-25 15:43:12   drop[team-not-named] Jhon Durán injury opens door for Marco Silva to use 18-year-old Anísio Cabral (OneFootball) :: FC Barcelona
+2026-10-25 15:45:26 indexed 1027 markets
+2026-10-25 15:46:33   drop[not-key] Before he was placed on IR, Chiefs LT Josh Simmons was told to leave a team meeting by coa (Ian Rapoport) :: Josh Simmons: Placed on IR after being told to leave a team meeting
