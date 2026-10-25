@@ -19205,3 +19205,10 @@
 2026-10-25 09:19:54 indexed 938 markets
 2026-10-25 09:25:22   drop[1-source] Kim Min-jae's Injury Absence Affects Bayern Munich, South Korea National Team (조선일보) :: Kim Min-jae, wait 2nd source
 2026-10-25 09:29:54 indexed 928 markets
+2026-10-25 09:35:45 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-25 09:39:08   drop[not-key] Yves Missi sidelined indefinitely with knee injury (TalkBasket.net) :: Yves Missi: knee injury sidelines him indefinitely
+2026-10-25 09:39:57 indexed 937 markets
+2026-10-25 09:42:17 feed politico error x1: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-25 09:43:50   drop[team-not-named] ITTF Africa Championship: Nigerian Star Crashes Out After Injury (bsnsports.com.ng) :: Nigeria
+2026-10-25 09:49:59 indexed 936 markets
+2026-10-25 10:00:04 indexed 938 markets
