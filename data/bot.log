@@ -19081,3 +19081,14 @@
 2026-10-25 02:47:01   skip Yes :: Will Vancouver Whitecaps FC win on 2026-10-24? (low conf 0.6)
 2026-10-25 02:47:02 NEWS [ESPN 0m] Vancouver Whitecaps confirmed lineup vs Colorado Rapids: Mathías Laborda, Aleksa Cvetković, Bruno Caicedo ruled out of starting XI [usa.1]
 2026-10-25 02:47:02   skip No :: Will Vancouver Whitecaps FC win on 2026-10-24? (low conf 0.6)
+2026-10-25 02:53:39   drop[not-key] Ric Flair suffers head injury after fall in Tampa (WUSA9) :: Ric Flair: suffered head injury after fall
+2026-10-25 02:54:24 indexed 1003 markets
+2026-10-25 02:55:45   book error Bengals vs. Ravens: HTTPSConnectionPool(host='clob.polymarket.com', port=443): Read timed out. (read timeout=15)
+2026-10-25 02:00:37   llm groq-120b: rate limited, skip 193s
+2026-10-25 02:00:38   drop[verify] Lightning’s Victor Herman out day-to-day with lower-body injury (Daily Faceoff) :: reading too strong, player depth
+2026-10-25 02:00:39   drop[1-source] Nuggets Announce New Starting Lineup vs. Pelicans Due to Injury (Sports Illustrated) :: Jamal Murray, wait 2nd source
+2026-10-25 02:00:39   drop[1-source] Danjuma: Tinubu reinstates suspended perm sec after ICPC probe (The Sun Nigeria) :: Bola Tinubu, wait 2nd source
+2026-10-25 02:02:53   llm groq-20b: rate limited, skip 29s
+2026-10-25 02:04:22 indexed 1022 markets
+2026-10-25 02:05:26   drop[1-source] Gotham lose top stars to injury with NWSL Shield still on the line (New York Post) :: NJ/NY Gotham FC, wait 2nd source
+2026-10-25 02:14:24 indexed 1001 markets
