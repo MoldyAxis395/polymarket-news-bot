@@ -16,7 +16,7 @@
    "reason": "llm[groq-20b] trusted: Delpit cleared, boosts Browns' chances",
    "conf": 0.7,
    "end": "2026-10-25T17:00:00+00:00",
-   "last_bid": 0.55,
+   "last_bid": 0.54,
    "book_err": false
   },
   {
@@ -34,7 +34,7 @@
    "reason": "llm[groq-20b] trusted: Willie Gay Jr. out hurts Dolphins, so Jets side should rise",
    "conf": 0.7,
    "end": "2026-10-25T17:00:00+00:00",
-   "last_bid": 0.65,
+   "last_bid": 0.64,
    "book_err": false
   }
  ],

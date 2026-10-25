@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-25T17:04:25",
+ "updated": "2026-10-25T17:34:12",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 375,
- "markets_indexed": 1012,
- "news_processed": 198,
+ "llm_calls_today": 401,
+ "markets_indexed": 1027,
+ "news_processed": 284,
  "cash": 64.02,
- "equity": 83.87,
+ "equity": 83.54,
  "start": 100.0,
  "open": [
   {
@@ -24,7 +24,7 @@
    "reason": "llm[groq-20b] trusted: Delpit cleared, boosts Browns' chances",
    "conf": 0.7,
    "end": "2026-10-25T17:00:00+00:00",
-   "last_bid": 0.55,
+   "last_bid": 0.54,
    "book_err": false
   },
   {
@@ -42,7 +42,7 @@
    "reason": "llm[groq-20b] trusted: Willie Gay Jr. out hurts Dolphins, so Jets side should rise",
    "conf": 0.7,
    "end": "2026-10-25T17:00:00+00:00",
-   "last_bid": 0.65,
+   "last_bid": 0.64,
    "book_err": false
   }
  ],
@@ -52,17 +52,17 @@
    "groq-120b",
    "groq-20b"
   ],
-  "fallbacks": 47,
+  "fallbacks": 102,
   "errors": {
-   "groq-20b": "rate limited, skip 126s",
-   "groq-120b": "rate limited, skip 330s"
+   "groq-120b": "rate limited, skip 286s",
+   "groq-20b": "rate limited, skip 191s"
   },
   "rejects": {
-   "not-key": 17,
-   "kind": 15,
-   "fluff": 20,
-   "unconfirmed": 8,
-   "team-not-named": 15,
+   "not-key": 18,
+   "kind": 16,
+   "fluff": 31,
+   "unconfirmed": 10,
+   "team-not-named": 23,
    "1-source": 10,
    "verify": 5,
    "side": 7,
@@ -70,8 +70,8 @@
    "no-pick": 4
   },
   "calls": {
-   "groq-120b": 190,
-   "groq-20b": 185
+   "groq-120b": 202,
+   "groq-20b": 199
   }
  },
  "realized_pnl": -15.98
