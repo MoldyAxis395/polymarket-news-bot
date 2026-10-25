@@ -19214,3 +19214,13 @@
 2026-10-25 10:44:53   drop[kind] Declan Rice appears to suffer worrying injury against Everton (now.arsenal) :: other
 2026-10-25 10:45:05 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-25 10:47:11   drop[1-source] Nottingham tram services suspended between The Forest and Old Market Square (West Bridgford Wire) :: Nottingham tram services (Nottingham Express Transit), wait 2nd source
+2026-10-25 10:54:50 indexed 918 markets
+2026-10-25 10:58:44   drop[kind] France protests: nearly 1,000 arrested in new clashes (Kursiv Media Узбекистан) :: other
+2026-10-25 10:58:45   drop[1-source] Mikel Arteta reveals Gabriel Magalhaes injury scare before defender's heroics in Arsenal w (Goal.com) :: Gabriel Magalhaes, wait 2nd source
+2026-10-25 11:00:48   drop[kind] Jordan church attack survivor says her cousin died before her eyes reut.rs/4igEXGF (Reuters) :: other
+2026-10-25 11:01:29 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x7f7bec0bf530>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
+2026-10-25 11:03:19   drop[kind] Trabzonspor Boss Delivers Huge Paul Onuachu Boost to Super Eagles Ahead of AFCON 2027 Qual (Pulse Sports Nigeria) :: other
+2026-10-25 11:04:50 indexed 913 markets
+2026-10-25 11:10:33   drop[1-source] Shock! Real Madrid leader ruled out of El Clásico (Dailysports) :: Luka Modrić, wait 2nd source
+2026-10-25 11:12:32   drop[1-source] What Kewan Lacy shoulder injury that won't go away means for Ole Miss after Texas loss (The Clarion-Ledger) :: Kewan Lacy, wait 2nd source
+2026-10-25 11:14:53 indexed 915 markets
