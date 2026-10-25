@@ -187,3 +187,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-24T17:06:52+00:00,BUY,Kings vs. Devils,Kings,27.03,0.3700,10.00,,"Connor Hellebuyck (G, New Jersey Devils) ruled out: Day-To-Day -> Out [NHL] | llm[groq-20b] trusted: Devils goalie ruled out, likely reduces Devils win probability, causing Kings win odds to rise."
 2026-10-24T19:25:18+00:00,SELL,Kings vs. Devils,Kings,27.03,0.3700,10.00,+0.00,market closing
 2026-10-24T19:34:51+00:00,BUY,Bengals vs. Ravens,Bengals,17.24,0.5800,10.00,,"Ravens QB Lamar Jackson (ankle) has been downgraded to out for tomorrow’s game vs. the Bengals. | llm[groq-120b] trusted: Lamar Jackson's ankle injury significantly weakens the Ravens, increasing the Bengals' chances of winning the upcoming game."
+2026-10-25T01:34:52+00:00,SELL,Bengals vs. Ravens,Bengals,17.24,0.5800,10.00,+0.00,max hold

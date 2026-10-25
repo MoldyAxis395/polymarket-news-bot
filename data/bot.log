@@ -19092,3 +19092,24 @@
 2026-10-25 02:04:22 indexed 1022 markets
 2026-10-25 02:05:26   drop[1-source] Gotham lose top stars to injury with NWSL Shield still on the line (New York Post) :: NJ/NY Gotham FC, wait 2nd source
 2026-10-25 02:14:24 indexed 1001 markets
+2026-10-25 02:21:25   drop[1-source] Duke Basketball: Cooper Flagg's MRI results reveal more about injury (roundtable.io) :: Cooper Flagg, wait 2nd source
+2026-10-25 02:22:56   drop[team-not-named] Briton Palmowski wins F1 Academy title (BBC) :: ART Grand Prix
+2026-10-25 02:23:59   drop[team-not-named] Jeff Lebby confirms Kamario Taylor aggravated foot injury vs. Oklahoma (On3) :: Texas Longhorns
+2026-10-25 02:24:28 indexed 987 markets
+2026-10-25 02:26:06   drop[kind] Ben Roberts' injury looms large for Michigan State's defense (The Detroit News) :: other
+2026-10-25 02:28:23   llm groq-120b: rate limited, skip 940s
+2026-10-25 02:28:23   drop[team-not-named] The Real Reason For Connor Hellebuyck's Suspension Revealed. (HockeyFeed) :: Winnipeg Jets
+2026-10-25 02:33:13   drop[unconfirmed] Key Colts players have been ruled out for Week 7 against the Vikings (Vikings Wire) :: injury
+2026-10-25 02:34:28 indexed 983 markets
+2026-10-25 02:34:52   SELL Bengals @ 0.580 (max hold) pnl +0.00 :: Bengals vs. Ravens
+2026-10-25 02:38:38 NEWS [ESPN 0m] Portland Timbers confirmed lineup vs Charlotte FC: Diego Chará, Omir Fernández ruled out of starting XI [usa.1]
+2026-10-25 02:38:38   skip No :: Will Portland Timbers win on 2026-10-24? (low conf 0.6)
+2026-10-25 02:38:39 NEWS [ESPN 0m] Charlotte FC confirmed lineup vs Portland Timbers: Allan Saint-Maximin ruled out of starting XI [usa.1]
+2026-10-25 02:38:39   skip No :: Will Charlotte FC win on 2026-10-24? (low conf 0.6)
+2026-10-25 02:39:45   drop[not-key] Daniil Tarasov (G, Detroit Red Wings) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Daniil Tarasov: day-to-day
+2026-10-25 02:44:32 indexed 982 markets
+2026-10-25 02:44:41 NEWS [ESPN 0m] San Diego FC confirmed lineup vs Seattle Sounders FC: Elias Achouri ruled out of starting XI [usa.1]
+2026-10-25 02:44:41   skip No :: Will San Diego FC win on 2026-10-24? (low conf 0.62)
+2026-10-25 02:44:43 NEWS [ESPN 0m] Seattle Sounders FC confirmed lineup vs San Diego FC: Caden Clark, Yeimar Gómez, Ryan Sailor ruled out of starting XI [usa.1]
+2026-10-25 02:44:43   skip Yes :: Will San Diego FC win on 2026-10-24? (low conf 0.62)
+2026-10-25 02:46:55   drop[1-source] Iowa State football's Makai Sat exits Arizona game with injury (The Des Moines Register) :: Makai Sat, wait 2nd source

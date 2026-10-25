@@ -1,26 +1,6 @@
 {
- "cash": 74.02313778107738,
- "positions": [
-  {
-   "market_id": "4551273",
-   "question": "Bengals vs. Ravens",
-   "slug": "nfl-cin-bal-2026-10-25",
-   "outcome": "Bengals",
-   "token": "95766531878097112964815622175314367311075025714777309355430576358605571695751",
-   "shares": 17.24137931034483,
-   "entry": 0.58,
-   "cost": 10.0,
-   "opened": 1792870491.4767432,
-   "opened_iso": "2026-10-24T19:34:51+00:00",
-   "news": "Ravens QB Lamar Jackson (ankle) has been downgraded to out for tomorrow\u2019s game vs. the Bengals.",
-   "reason": "llm[groq-120b] trusted: Lamar Jackson's ankle injury significantly weakens the Ravens, increasing the Bengals' chances of winning the upcoming game.",
-   "conf": 0.8,
-   "end": "2026-10-25T17:00:00+00:00",
-   "last_bid": 0.59,
-   "book_err": false,
-   "settle_retry": 1792890345.0179002
-  }
- ],
+ "cash": 84.02313778107738,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -1976,6 +1956,29 @@
    "pnl": 0.0,
    "why": "market closing",
    "closed_iso": "2026-10-24T19:25:18+00:00"
+  },
+  {
+   "market_id": "4551273",
+   "question": "Bengals vs. Ravens",
+   "slug": "nfl-cin-bal-2026-10-25",
+   "outcome": "Bengals",
+   "token": "95766531878097112964815622175314367311075025714777309355430576358605571695751",
+   "shares": 17.24137931034483,
+   "entry": 0.58,
+   "cost": 10.0,
+   "opened": 1792870491.4767432,
+   "opened_iso": "2026-10-24T19:34:51+00:00",
+   "news": "Ravens QB Lamar Jackson (ankle) has been downgraded to out for tomorrow\u2019s game vs. the Bengals.",
+   "reason": "llm[groq-120b] trusted: Lamar Jackson's ankle injury significantly weakens the Ravens, increasing the Bengals' chances of winning the upcoming game.",
+   "conf": 0.8,
+   "end": "2026-10-25T17:00:00+00:00",
+   "last_bid": 0.58,
+   "book_err": false,
+   "settle_retry": 1792890345.0179002,
+   "exit": 0.58,
+   "pnl": 0.0,
+   "why": "max hold",
+   "closed_iso": "2026-10-25T01:34:53+00:00"
   }
  ],
  "cooldown": {
@@ -2036,6 +2039,7 @@
   "4640805": 1791976899.3379605,
   "4329883": 1792206433.6232815,
   "4329893": 1792226253.1906776,
-  "5035384": 1792880718.6792643
+  "5035384": 1792880718.6792643,
+  "4551273": 1792902893.3305793
  }
 }

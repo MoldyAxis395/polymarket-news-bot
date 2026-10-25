@@ -1,59 +1,37 @@
 {
- "updated": "2026-10-25T02:18:29",
+ "updated": "2026-10-25T02:48:39",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 37,
- "markets_indexed": 1001,
- "news_processed": 170,
- "cash": 74.02,
- "equity": 84.2,
+ "llm_calls_today": 54,
+ "markets_indexed": 982,
+ "news_processed": 184,
+ "cash": 84.02,
+ "equity": 84.02,
  "start": 100.0,
- "open": [
-  {
-   "market_id": "4551273",
-   "question": "Bengals vs. Ravens",
-   "slug": "nfl-cin-bal-2026-10-25",
-   "outcome": "Bengals",
-   "token": "95766531878097112964815622175314367311075025714777309355430576358605571695751",
-   "shares": 17.24137931034483,
-   "entry": 0.58,
-   "cost": 10.0,
-   "opened": 1792870491.4767432,
-   "opened_iso": "2026-10-24T19:34:51+00:00",
-   "news": "Ravens QB Lamar Jackson (ankle) has been downgraded to out for tomorrow\u2019s game vs. the Bengals.",
-   "reason": "llm[groq-120b] trusted: Lamar Jackson's ankle injury significantly weakens the Ravens, increasing the Bengals' chances of winning the upcoming game.",
-   "conf": 0.8,
-   "end": "2026-10-25T17:00:00+00:00",
-   "last_bid": 0.59,
-   "book_err": false,
-   "settle_retry": 1792890345.0179002
-  }
- ],
- "closed_count": 91,
+ "open": [],
+ "closed_count": 92,
  "llm": {
   "backends": [
    "groq-120b",
    "groq-20b"
   ],
   "fallbacks": 30,
-  "errors": {
-   "groq-20b": "rate limited, skip 29s"
-  },
+  "errors": {},
   "rejects": {
-   "not-key": 14,
+   "not-key": 15,
    "verify": 3,
    "fluff": 40,
-   "team-not-named": 3,
-   "1-source": 13,
-   "kind": 10,
-   "unconfirmed": 3,
+   "team-not-named": 6,
+   "1-source": 15,
+   "kind": 11,
+   "unconfirmed": 4,
    "no-pick": 7,
    "side": 2,
    "no-market": 1
   },
   "calls": {
-   "groq-120b": 20,
-   "groq-20b": 17
+   "groq-120b": 30,
+   "groq-20b": 24
   }
  },
  "realized_pnl": -15.98
