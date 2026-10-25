@@ -20105,3 +20105,55 @@
 2026-10-25 23:47:41   llm groq-120b: rate limited, skip 190s
 2026-10-25 23:47:41   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-10-25 23:47:41   llm groq-20b: rate limited, skip 360s
+2026-10-25 23:51:47   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:51:47   llm groq-120b: rate limited, skip 239s
+2026-10-25 23:53:49   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:53:50   llm groq-20b: rate limited, skip 289s
+2026-10-25 23:55:29 indexed 990 markets
+2026-10-25 23:55:51   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:55:52   llm groq-120b: rate limited, skip 215s
+2026-10-25 23:58:53   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:58:53   llm groq-20b: rate limited, skip 385s
+2026-10-25 23:59:40   llm groq-120b: rate limited, skip 8s
+2026-10-25 23:59:54   llm groq-120b: rate limited, skip 7s
+2026-10-26 00:00:55   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 00:00:55   llm groq-120b: rate limited, skip 230s
+2026-10-26 00:03:57 NEWS [ESPN 12m] Beau Stephens (G, Seattle Seahawks) ruled out: Active -> Out [NFL]
+2026-10-26 00:03:57   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-26 00:03:57 NEWS [ESPN 12m] Drew Lock (QB, Seattle Seahawks) ruled out: Questionable -> Out [NFL]
+2026-10-26 00:03:57   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-26 00:03:57 NEWS [ESPN 12m] Connor O'Toole (LB, Seattle Seahawks) ruled out: Questionable -> Out [NFL]
+2026-10-26 00:03:57   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-26 00:03:57 NEWS [ESPN 12m] Robert Henry Jr. (RB, Seattle Seahawks) ruled out: Active -> Out [NFL]
+2026-10-26 00:03:57   skip Chiefs :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-26 00:04:58   llm groq-120b: rate limited, skip 26s
+2026-10-26 00:05:30 indexed 1019 markets
+2026-10-26 00:06:01   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 00:06:01   llm groq-120b: rate limited, skip 279s
+2026-10-26 00:06:02   llm groq-20b: rate limited, skip 223s
+2026-10-26 00:06:02   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-10-26 00:08:04 NEWS [ESPN 3m] Keegan Murray (F, Sacramento Kings) ruled out: Day-To-Day -> Out [NBA]
+2026-10-26 00:08:04   skip Grizzlies :: Grizzlies vs. Kings (rules fallback, LLM down (not traded))
+2026-10-26 00:10:08   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 00:10:08   llm groq-20b: rate limited, skip 211s
+2026-10-26 00:11:10   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 00:11:10   llm groq-120b: rate limited, skip 128s
+2026-10-26 00:14:14   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 00:14:14   llm groq-120b: rate limited, skip 182s
+2026-10-26 00:14:14   llm groq-20b: rate limited, skip 254s
+2026-10-26 00:14:14   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-10-26 00:15:30 indexed 1022 markets
+2026-10-26 00:17:32   llm groq-120b: rate limited, skip 26s
+2026-10-26 00:18:06   drop[unconfirmed] Waddle exits Week 7 with apparent shoulder injury (NBC Sports) :: shoulder injury forces him to miss Week 7
+2026-10-26 00:18:06   llm groq-120b: rate limited, skip 201s
+2026-10-26 00:18:34   llm groq-20b: rate limited, skip 1s
+2026-10-26 00:19:36   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 00:19:36   llm groq-20b: rate limited, skip 279s
+2026-10-26 00:19:36 NEWS [ESPN 10m] Garrett Nussmeier (QB, Kansas City Chiefs) ruled out: Active -> Out [NFL]
+2026-10-26 00:19:36   skip Seahawks :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-26 00:19:36 NEWS [ESPN 16m] Jack Pyburn (LB, Kansas City Chiefs) ruled out: Active -> Out [NFL]
+2026-10-26 00:19:36   skip Seahawks :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-26 00:19:36 NEWS [ESPN 16m] Ben VanSumeren (FB, Kansas City Chiefs) ruled out: healthy -> Out [NFL]
+2026-10-26 00:19:36   skip Seahawks :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
+2026-10-26 00:19:36 NEWS [ESPN 16m] Jadon Canady (CB, Kansas City Chiefs) ruled out: Active -> Out [NFL]
+2026-10-26 00:19:36   skip Seahawks :: Chiefs vs. Seahawks (rules fallback, LLM down (not traded))
