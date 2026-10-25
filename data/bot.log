@@ -20055,3 +20055,82 @@
 2026-10-25 20:02:36   skip Packers :: Packers vs. Lions (rules fallback, LLM down (not traded))
 2026-10-25 20:03:37   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-10-25 20:03:37   llm groq-20b: rate limited, skip 77s
+2026-10-25 20:04:56   llm groq-20b: rate limited, skip 74s
+2026-10-25 20:04:56 NEWS [USA Today 1m] Real Madrid confirmed lineup vs. Barcelona: Starting XI, team news
+2026-10-25 20:04:56   skip Yes :: Exact Score: FC Barcelona 2 - 3 Real Madrid CF? (rules fallback, LLM down (not traded))
+2026-10-25 20:04:56   skip Yes :: Will Real Madrid CF win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-25 20:04:56   skip Yes :: Will FC Barcelona win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-25 20:06:40   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 20:06:40   llm groq-120b: rate limited, skip 204s
+2026-10-25 20:06:41   llm groq-20b: rate limited, skip 220s
+2026-10-25 20:06:41   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-10-25 20:10:18 indexed 1042 markets
+2026-10-25 20:10:45   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 20:10:45   llm groq-120b: rate limited, skip 265s
+2026-10-25 20:10:45   llm groq-20b: rate limited, skip 54s
+2026-10-25 20:11:46   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-10-25 20:11:46   llm groq-20b: rate limited, skip 252s
+2026-10-25 20:13:48 NEWS [ESPN 8m] Benjamin St-Juste (CB, Green Bay Packers) ruled out: Questionable -> Out [NFL]
+2026-10-25 20:13:48   skip Lions :: Packers vs. Lions (rules fallback, LLM down (not traded))
+2026-10-25 20:13:48 NEWS [ESPN 16m] Kevin Zeitler (G, Green Bay Packers) ruled out: Active -> Out [NFL]
+2026-10-25 20:13:48   skip Lions :: Packers vs. Lions (rules fallback, LLM down (not traded))
+2026-10-25 20:13:48 NEWS [ESPN 16m] Kaleb Johnson (RB, Green Bay Packers) ruled out: Active -> Out [NFL]
+2026-10-25 20:13:48   skip Lions :: Packers vs. Lions (rules fallback, LLM down (not traded))
+2026-10-25 20:13:48 NEWS [ESPN 16m] Donovan Jennings (G, Green Bay Packers) ruled out: Active -> Out [NFL]
+2026-10-25 20:13:48   skip Lions :: Packers vs. Lions (rules fallback, LLM down (not traded))
+2026-10-25 20:13:48 NEWS [ESPN 16m] Jager Burton (C, Green Bay Packers) ruled out: Active -> Out [NFL]
+2026-10-25 20:13:48   skip Lions :: Packers vs. Lions (rules fallback, LLM down (not traded))
+2026-10-25 20:15:51   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 20:15:51   llm groq-120b: rate limited, skip 234s
+2026-10-25 20:16:50   llm groq-20b: rate limited, skip 39s
+2026-10-25 20:16:50 NEWS [USA Today 2m] Barcelona confirmed lineup vs. Real Madrid: Starting XI, team news
+2026-10-25 20:16:50   skip Yes :: Exact Score: FC Barcelona 1 - 1 Real Madrid CF? (rules fallback, LLM down (not traded))
+2026-10-25 20:16:50   skip Yes :: Will Real Madrid CF win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-25 20:16:50   skip Yes :: Will FC Barcelona win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 20:17:55   llm groq-20b: rate limited, skip 340s
+2026-10-25 20:17:55 NEWS [ESPN 13m] Aidan O'Connell (QB, Las Vegas Raiders) ruled out: Active -> Out [NFL]
+2026-10-25 20:17:55   skip Rams :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55 NEWS [ESPN 13m] Cian Slone (DE, Las Vegas Raiders) ruled out: Active -> Out [NFL]
+2026-10-25 20:17:55   skip Rams :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55 NEWS [ESPN 13m] Dalton Johnson (S, Las Vegas Raiders) ruled out: Active -> Out [NFL]
+2026-10-25 20:17:55   skip Rams :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55 NEWS [ESPN 13m] Jonah Laulu (DT, Las Vegas Raiders) ruled out: Active -> Out [NFL]
+2026-10-25 20:17:55   skip Rams :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55 NEWS [ESPN 13m] Tristin McCollum (S, Las Vegas Raiders) ruled out: Active -> Out [NFL]
+2026-10-25 20:17:55   skip Rams :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55 NEWS [ESPN 13m] Thomas Booker IV (DT, Las Vegas Raiders) ruled out: healthy -> Out [NFL]
+2026-10-25 20:17:55   skip Rams :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55 NEWS [ESPN 13m] Bryce Cabeldue (G, Las Vegas Raiders) ruled out: Active -> Out [NFL]
+2026-10-25 20:17:55   skip Rams :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55 NEWS [ESPN 13m] Keagen Trost (OT, Los Angeles Rams) ruled out: Active -> Out [NFL]
+2026-10-25 20:17:55   skip No :: Will Los Angeles FC win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55   skip Raiders :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55 NEWS [ESPN 13m] Bill Murray (G, Los Angeles Rams) ruled out: Active -> Out [NFL]
+2026-10-25 20:17:55   skip No :: Will Los Angeles FC win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55   skip Raiders :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55 NEWS [ESPN 13m] Ty Simpson (QB, Los Angeles Rams) ruled out: Active -> Out [NFL]
+2026-10-25 20:17:55   skip No :: Will Los Angeles FC win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55   skip Raiders :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55 NEWS [ESPN 13m] Max Klare (TE, Los Angeles Rams) ruled out: Active -> Out [NFL]
+2026-10-25 20:17:55   skip No :: Will Los Angeles FC win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55   skip Raiders :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55 NEWS [ESPN 13m] Trent McDuffie (CB, Los Angeles Rams) ruled out: Questionable -> Out [NFL]
+2026-10-25 20:17:55   skip No :: Will Los Angeles FC win on 2026-10-25? (rules fallback, LLM down (not traded))
+2026-10-25 20:17:55   skip Raiders :: Rams vs. Raiders (rules fallback, LLM down (not traded))
+2026-10-25 20:20:16 indexed 1041 markets
+2026-10-25 20:20:18   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 20:20:19   llm groq-120b: rate limited, skip 198s
+2026-10-25 20:24:20   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 20:24:20   llm groq-120b: rate limited, skip 268s
+2026-10-25 20:24:21   llm groq-20b: rate limited, skip 270s
+2026-10-25 20:24:21   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-10-25 20:29:25   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 20:29:25   llm groq-120b: rate limited, skip 201s
+2026-10-25 20:29:26   llm groq-20b: rate limited, skip 194s
+2026-10-25 20:29:26   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-10-25 20:30:19 indexed 1038 markets
+2026-10-25 20:33:30   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 20:33:30   llm groq-120b: rate limited, skip 191s
+2026-10-25 20:33:30   llm groq-20b: rate limited, skip 236s
+2026-10-25 20:33:30   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
