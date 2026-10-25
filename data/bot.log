@@ -19322,53 +19322,26 @@
 2026-10-25 14:18:03   llm groq-120b: rate limited, skip 154s
 2026-10-25 14:18:04 NEWS [ESPN 0m] Genoa confirmed lineup vs Venezia: Alessandro Marcandalli, Morten Frendrup, David Puczka ruled out of starting XI [ita.1]
 2026-10-25 14:18:04   skip No :: Will Genoa CFC win on 2026-10-25? (low conf 0.6)
-2026-10-25 14:22:05   llm groq-120b: rate limited, skip 12s
-2026-10-25 14:22:06   drop[side] Atalanta confirmed lineup vs Frosinone: Giorgio Scalvini, Franck Kessié ruled out of start (ESPN) :: Will Atalanta BC win on 2026-10-25? -> Yes vs fact ruled_out: Giorgio Scalvini (Atalanta, soccer), bad for Atalanta. rul
-2026-10-25 14:22:06   drop[not-key] Frosinone confirmed lineup vs Atalanta: Ilario Monterisi ruled out of starting XI [ita.1] (ESPN) :: Ilario Monterisi: injury
-2026-10-25 14:24:45   llm groq-120b: rate limited, skip 171s
-2026-10-25 14:24:46   drop[no-pick] Fresh injury blow compounds Swansea City's nightmare weekend (Yahoo) :: no relevant market
-2026-10-25 14:25:22 indexed 1027 markets
-2026-10-25 14:26:59   drop[unconfirmed] Rangers' Tuur Rommens ready to return after injury layoff (Glasgow Times) :: injury recovery
-2026-10-25 14:29:17   drop[1-source] Ohio State’s QB Decision Point Arrives After Sayin Injury for Fahey, St. Clair (heavy.com) :: Sayin, wait 2nd source
-2026-10-25 14:34:06   drop[1-source] Rams | Rams ‘feel good’ about Puka Nacua playing Sunday through calf injury (Fantasy Guru) :: Puka Nacua, wait 2nd source
-2026-10-25 14:35:23 indexed 1031 markets
-2026-10-25 14:38:32   drop[kind] Lamar Jackson ROASTS Ian Rapoport for reporting, REVEALS TRUE Baltimore Ravens diagnosis o (newscentermaine.com) :: other
-2026-10-25 14:40:49   llm groq-120b: rate limited, skip 99s
-2026-10-25 14:40:49   drop[1-source] Alistair Johnston Celtic injury fear as returning defender subbed off vs Hibs (The National Scot) :: Alistair Johnston, wait 2nd source
-2026-10-25 14:45:21 indexed 1027 markets
-2026-10-25 14:50:02 NEWS [Barca Universal 1m] Official: Barcelona confirm injury to 19-year-old forward; out for eight weeks
-2026-10-25 14:50:02   skip No :: Will FC Barcelona win on 2026-10-25? (low conf 0.62)
-2026-10-25 14:50:32   llm groq-120b: rate limited, skip 200s
-2026-10-25 14:50:32 NEWS [ESPN 0m] TSG Hoffenheim confirmed lineup vs Bayer Leverkusen: Robin Hranác, Andrej Kramaric, Bambasé Conté, Tim Lemperle ruled out of starting XI [ger.1]
-2026-10-25 14:50:32   skip No :: Will TSG 1899 Hoffenheim win on 2026-10-25? (low conf 0.6)
-2026-10-25 14:50:33   drop[side] Bayer Leverkusen confirmed lineup vs TSG Hoffenheim: Janis Blaswich, Loïc Badé, Lucas Vázq (ESPN) :: Will Bayer 04 Leverkusen win on 2026-10-25? -> Yes vs fact ruled_out: Jonas Hofmann (Bayer Leverkusen, soccer), bad for 
-2026-10-25 14:52:16   drop[kind] Falcons DE Za’Darius Smith (neck) and DT Gervon Dexter Sr. (hamstring) are listed as quest (Ian Rapoport) :: other
-2026-10-25 14:52:46   drop[kind] Cardinals S Budda Baker (groin/illness) is listed as questionable and expected to play aga (Ian Rapoport) :: other
-2026-10-25 14:53:49   drop[unconfirmed] Jets star RB Breece Hall, attempting to return from a quad strain after missing three game (Ian Rapoport) :: injury
-2026-10-25 14:54:51   drop[unconfirmed] Broncos star CB Pat Surtain II, who has missed the last two games with an ankle injury, is (Ian Rapoport) :: unlikely to play today due to ankle injury
-2026-10-25 14:54:51   llm groq-120b: rate limited, skip 310s
-2026-10-25 14:54:54 NEWS [Ian Rapoport 1m] Browns S Grant Delpit cleared the NFL’s concussion protocol and will play today. Meanwhile, CB Denzel Ward will warm up and see if he can go. Ward is questionable with a hand injury.
-2026-10-25 14:54:54   BUY Browns @ 0.550 x18.2 ($10.00) :: Browns vs. Titans
-2026-10-25 14:55:23 indexed 1031 markets
-2026-10-25 14:55:25   drop[kind] Seahawks defenders LB Uchenna Nwosu (hip) and S Nick Emmanwori (hip) are both listed as qu (Ian Rapoport) :: other
-2026-10-25 14:57:02   drop[kind] Alabama’s Kalen DeBoer Announces Brutal Injury News After Texas A&M Win (heavy.com) :: other
-2026-10-25 14:59:19   drop[1-source] Patriots’ $42 Million Starter Will Lose at Least $1 Million Due to Injury Blow (heavy.com) :: New England Patriots, wait 2nd source
-2026-10-25 15:05:22 indexed 1021 markets
-2026-10-25 15:06:14   drop[kind] Injury-hit Michigan State football went for boost with 4th QB of 2026 (Detroit Free Press) :: other
-2026-10-25 15:15:24 indexed 1026 markets
-2026-10-25 15:17:26 NEWS [ESPN 0m] Celta Vigo confirmed lineup vs Real Betis: Sebastián Cáceres, Hugo Burcio, Sergio Carreira, Iago Aspas, Ferran Jutglà ruled out of starting XI [esp.1]
-2026-10-25 15:17:26   skip Yes :: Will Real Betis Balompié win on 2026-10-25? (low conf 0.6)
-2026-10-25 15:17:27   drop[not-key] Real Betis confirmed lineup vs Celta Vigo: Fran García, Marc Bartra, Héctor Bellerín, Pabl (ESPN) :: Troy Parrott: ruled out of starting XI
-2026-10-25 15:22:26   drop[kind] Raiders Get Late Injury Scare with Key Defensive Starter Before Rams Game (roundtable.io) :: other
-2026-10-25 15:22:26   llm groq-120b: rate limited, skip 108s
-2026-10-25 15:22:28   drop[unconfirmed] Texas’ Steve Sarkisian Sounds Alarm on Cam Coleman’s Injury After Ole Miss Game (Athlon Sports) :: injury
-2026-10-25 15:25:25 indexed 1023 markets
-2026-10-25 15:29:30   drop[unconfirmed] Sunderland vs Leeds United team news, Dominic Calvert-Lewin injury doubt and weather state (OneFootball) :: Calvert-Lewin is listed as doubtful with an injury for the upcoming match
-2026-10-25 15:35:26 indexed 1023 markets
-2026-10-25 15:40:56   drop[kind] Waterbury man 'stable' after injury to neck caused by 'edged weapon,' police say (CT Insider) :: other
-2026-10-25 15:43:12   drop[team-not-named] Jhon Durán injury opens door for Marco Silva to use 18-year-old Anísio Cabral (OneFootball) :: FC Barcelona
-2026-10-25 15:45:26 indexed 1027 markets
-2026-10-25 15:46:33   drop[not-key] Before he was placed on IR, Chiefs LT Josh Simmons was told to leave a team meeting by coa (Ian Rapoport) :: Josh Simmons: Placed on IR after being told to leave a team meeting
-2026-10-25 15:49:59 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-25 15:55:28 indexed 1036 markets
-2026-10-25 15:59:11 shift over, state saved
+2026-10-25 15:59:24 === start mode=paper pid=2297 ===
+2026-10-25 15:59:24 brain=llm cash=84.02 open=0
+2026-10-25 15:59:24 resuming with 7807 known news items
+2026-10-25 15:59:51 indexed 1037 markets
+2026-10-25 16:00:09 NEWS [ESPN 0m] Celta Vigo confirmed lineup vs Real Betis: Sebastián Cáceres, Hugo Burcio, Sergio Carreira, Iago Aspas, Ferran Jutglà ruled out of starting XI [esp.1]
+2026-10-25 16:00:09   skip Yes :: Will Real Betis Balompié win on 2026-10-25? (low conf 0.6)
+2026-10-25 16:00:10   drop[not-key] Real Betis confirmed lineup vs Celta Vigo: Fran García, Marc Bartra, Héctor Bellerín, Pabl (ESPN) :: Troy Parrott: ruled out of starting XI
+2026-10-25 16:00:10   llm groq-120b: rate limited, skip 171s
+2026-10-25 16:00:12   drop[kind] Before he was placed on IR, Chiefs LT Josh Simmons was told to leave a team meeting by coa (Ian Rapoport) :: other
+2026-10-25 16:00:14   drop[kind] Seahawks defenders LB Uchenna Nwosu (hip) and S Nick Emmanwori (hip) are both listed as qu (Ian Rapoport) :: other
+2026-10-25 16:00:14   drop[unconfirmed] Broncos star CB Pat Surtain II, who has missed the last two games with an ankle injury, is (Ian Rapoport) :: injury
+2026-10-25 16:00:19 NEWS [Ian Rapoport 66m] Browns S Grant Delpit cleared the NFL’s concussion protocol and will play today. Meanwhile, CB Denzel Ward will warm up and see if he can go. Ward is questionable with a hand injury.
+2026-10-25 16:00:19   BUY Browns @ 0.550 x18.2 ($10.00) :: Browns vs. Titans
+2026-10-25 16:00:20   drop[unconfirmed] Jets star RB Breece Hall, attempting to return from a quad strain after missing three game (Ian Rapoport) :: injury
+2026-10-25 16:00:21   drop[kind] Cardinals S Budda Baker (groin/illness) is listed as questionable and expected to play aga (Ian Rapoport) :: other
+2026-10-25 16:00:22   drop[kind] Falcons DE Za’Darius Smith (neck) and DT Gervon Dexter Sr. (hamstring) are listed as quest (Ian Rapoport) :: other
+2026-10-25 16:02:00   drop[kind] Barcelona midfielder Gavi sends heartfelt message to PSG superstar after long-term injury: (Barca Universal) :: other
+2026-10-25 16:02:00   drop[kind] Wodonga ace Hudson Garoni outlined the extent of his mid-year shoulder injury (The Border Mail) :: other
+2026-10-25 16:04:20   drop[team-not-named] Coach suspended for intimate relationship can still train kids, club says (The Detroit News) :: 
+2026-10-25 16:04:20   llm groq-120b: rate limited, skip 217s
+2026-10-25 16:04:21   drop[1-source] 49ers wide receiver depth chart with Mike Evans and Deebo Samuel ruled out (FanSided) :: Mike Evans, wait 2nd source
+2026-10-25 16:04:22   drop[1-source] Stephan on QPR win, Kone, Kemper injury and more (West London Sport) :: Kone, wait 2nd source
+2026-10-25 16:04:22   drop[team-not-named] Suspended sentence handed down at Kilkenny court for assault (Kilkenny Live) :: 
