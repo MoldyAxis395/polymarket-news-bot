@@ -90,4 +90,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-24T18:57:30+00:00,SELL,BV Borussia 09 Dortmund vs. Eintracht Frankfurt: Both Teams to Score,Yes,15.38,0.0000,0.00,-10.00,resolved
 2026-10-24T21:46:28+00:00,SELL,Will SS Lazio win on 2026-10-24?,Yes,10.55,1.0000,10.55,+3.17,resolved
 2026-10-25T16:37:46+00:00,SELL,AS Monaco FC vs. Lille OSC: O/U 2.5,Over,18.87,0.0000,0.00,-10.00,resolved
-2026-10-25T17:37:24+00:00,SELL,RC Celta de Vigo vs. Real Betis Balompié: RC Celta de Vigo O/U 0.5,Over,13.33,0.0000,0.00,-10.00,resolved
+2026-10-25T20:47:22+00:00,SELL,RC Celta de Vigo vs. Real Betis Balompié: RC Celta de Vigo O/U 0.5,Over,13.33,0.0000,0.00,-10.00,resolved
