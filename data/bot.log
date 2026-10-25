@@ -19198,25 +19198,10 @@
 2026-10-25 08:49:49 indexed 941 markets
 2026-10-25 08:59:50 indexed 941 markets
 2026-10-25 09:02:12   drop[1-source] Karnali Yaks Replace Shubha Kansakar with Shivam Tiwari Due to Injury (Ratopati) :: Shubha Kansakar, wait 2nd source
-2026-10-25 09:04:45   drop[team-not-named] Rivola makes bleak admission about Martin's injury after Australian GP crash (www.motogpnews.com) :: Red Bull KTM Ajo
-2026-10-25 09:04:46   drop[1-source] “A bloody mess”: Labour candidate suspended after under-fire Reform UK councillor turns th (The Lancashire Lead) :: Labour Party, wait 2nd source
-2026-10-25 09:04:57 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-25 09:09:51 indexed 936 markets
-2026-10-25 09:19:54 indexed 938 markets
-2026-10-25 09:25:22   drop[1-source] Kim Min-jae's Injury Absence Affects Bayern Munich, South Korea National Team (조선일보) :: Kim Min-jae, wait 2nd source
-2026-10-25 09:29:54 indexed 928 markets
-2026-10-25 09:35:45 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-25 09:39:08   drop[not-key] Yves Missi sidelined indefinitely with knee injury (TalkBasket.net) :: Yves Missi: knee injury sidelines him indefinitely
-2026-10-25 09:39:57 indexed 937 markets
-2026-10-25 09:42:17 feed politico error x1: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-25 09:43:50   drop[team-not-named] ITTF Africa Championship: Nigerian Star Crashes Out After Injury (bsnsports.com.ng) :: Nigeria
-2026-10-25 09:49:59 indexed 936 markets
-2026-10-25 10:00:04 indexed 938 markets
-2026-10-25 10:04:44   drop[1-source] Plea for inquiry into controversial North Berwick parking charges ruled out (East Lothian Courier) :: East Lothian Council, wait 2nd source
-2026-10-25 10:04:45   drop[team-not-named] 'Fantastic' - Striker ready to be unleashed in Palace v NUFC after two-month injury (Shields Gazette) :: Newcastle United
-2026-10-25 10:05:14   drop[no-market] World Series rematch, Indian edition: Yankees beat Dodgers in Mumbai event reut.rs/4k9c0yU (Reuters) :: New York Yankees
-2026-10-25 10:06:34 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
-2026-10-25 10:09:35   drop[team-not-named] Kim Min-jae Injured, Misses Freiburg Match (조선일보) :: Bayern Munich
-2026-10-25 10:10:04 indexed 920 markets
-2026-10-25 10:11:40   drop[kind] Bye week hits at vital time in Michigan State football injury epidemic (Detroit Free Press) :: other
-2026-10-25 10:13:48 shift over, state saved
+2026-10-25 10:14:10 === start mode=paper pid=2314 ===
+2026-10-25 10:14:10 brain=llm cash=84.02 open=0
+2026-10-25 10:14:10 resuming with 8097 known news items
+2026-10-25 10:14:37 indexed 920 markets
+2026-10-25 10:14:52   drop[no-market] World Series rematch, Indian edition: Yankees beat Dodgers in Mumbai event reut.rs/4k9c0yU (Reuters) :: New York Yankees
+2026-10-25 10:14:52   drop[kind] Bye week hits at vital time in Michigan State football injury epidemic (Detroit Free Press) :: other
+2026-10-25 10:14:53   drop[1-source] PROGRESS Wrestling Announces Injury To Rhio (Fightful) :: Rhio, wait 2nd source
