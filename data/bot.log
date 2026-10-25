@@ -19292,3 +19292,33 @@
 2026-10-25 13:45:11 indexed 1037 markets
 2026-10-25 13:45:16   drop[kind] Liverpool XI vs Brighton: Starting lineup and confirmed team news (London Evening Standard) :: other
 2026-10-25 13:48:24 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-25 13:49:50   drop[1-source] Real Madrid goalkeeper Courtois ruled out of Clasico with illness (United News of Bangladesh) :: Thibaut Courtois, wait 2nd source
+2026-10-25 13:49:51   drop[1-source] Steelers news: Final Rico Dowdle, DeShon Elliott Week 7 injury statuses vs. Saints in Pari (ClutchPoints) :: Rico Dowdle, wait 2nd source
+2026-10-25 13:52:09   drop[team-not-named] Courtois ruled out of El Clasico over illness (Chronicle NG) :: Real Madrid
+2026-10-25 13:55:15 indexed 1046 markets
+2026-10-25 13:57:04   drop[1-source] Blow for Barcelona! Four players ruled out of El Clásico (Dailysports) :: FC Barcelona, wait 2nd source
+2026-10-25 13:59:11   drop[1-source] Train services between Rambukkana, Peradeniya and Gampola suspended until further notice (Newswire) :: Sri Lanka Railways (train services between Rambukkana, Peradeniya and Gampola), wait 2nd source
+2026-10-25 14:01:28   drop[team-not-named] Former Tory candidate suspended over contract killer claims was adviser in Kemi Badenoch’s (The Guardian) :: Conservative Party (UK)
+2026-10-25 14:01:58 NEWS [ESPN 0m] Newcastle United confirmed lineup vs Crystal Palace: Sven Botman, Malick Thiaw, Lewis Miley, Yoane Wissa, Matias Fernandez-Pardo ruled out of starting XI [eng.1]
+2026-10-25 14:01:58   skip Yes :: Will Crystal Palace FC win on 2026-10-25? (low conf 0.62)
+2026-10-25 14:01:59 NEWS [ESPN 0m] Hull City confirmed lineup vs Brentford: Nobel Mendy, Matt Crooks, Sorba Thomas, Joe Gelhardt ruled out of starting XI [eng.1]
+2026-10-25 14:01:59   skip Yes :: Will Brentford FC win on 2026-10-25? (low conf 0.62)
+2026-10-25 14:02:00 NEWS [ESPN 0m] Brentford confirmed lineup vs Hull City: Jannik Schuster, El Hadji Malick Diouf, Vitaly Janelt, Yehor Yarmoliuk, Jaidon Anthony ruled out of starting XI [eng.1]
+2026-10-25 14:02:00   skip Yes :: Will Hull City AFC win on 2026-10-25? (low conf 0.6)
+2026-10-25 14:02:01   llm groq-120b: rate limited, skip 290s
+2026-10-25 14:02:02   drop[no-pick] Liverpool confirmed lineup vs Brighton & Hove Albion: Kostas Tsimikas, Ronald Araújo, Trey (ESPN) :: short
+2026-10-25 14:02:04   drop[side] Manchester United confirmed lineup vs AFC Bournemouth: Noussair Mazraoui, Matthijs de Ligt (ESPN) :: Will Manchester United FC win on 2026-10-25? -> Yes vs fact ruled_out: Noussair Mazraoui (Manchester United, soccer), ba
+2026-10-25 14:02:04   drop[not-key] AFC Bournemouth confirmed lineup vs Manchester United: Michele Di Gregorio, Bafodé Diakité (ESPN) :: Ben Gannon-Doak: ruled out
+2026-10-25 14:03:46   drop[team-not-named] Satyagraha launched demanding release of Gnanasara Thero temporarily suspended (Ada Derana) :: Sri Lanka Buddhist Monastic Order
+2026-10-25 14:05:17 indexed 1041 markets
+2026-10-25 14:13:04   drop[1-source] Protest at Viharamahadevi Park temporarily suspended after intervention by Chief Prelates (Newswire) :: Viharamahadevi Park, wait 2nd source
+2026-10-25 14:13:04   llm groq-120b: rate limited, skip 189s
+2026-10-25 14:13:06   drop[verify] Courtois Ruled Out Of Real Madrid’s El Clásico Clash Against Barcelona (Naija News) :: Courtois no longer at Real Madrid
+2026-10-25 14:15:18 indexed 1041 markets
+2026-10-25 14:16:04 NEWS [ESPN 0m] AS Monaco confirmed lineup vs Lille: Eric Dier, Mathys Detourbet, Edan Diop, Matthis Abline ruled out of starting XI [fra.1]
+2026-10-25 14:16:04   skip No :: Will AS Monaco FC win on 2026-10-25? (low conf 0.6)
+2026-10-25 14:16:05 NEWS [ESPN 0m] Lille confirmed lineup vs AS Monaco: Calvin Verdonk, Maxima Goffi, Dilane Bakwa ruled out of starting XI [fra.1]
+2026-10-25 14:16:05   skip Yes :: Will AS Monaco FC win on 2026-10-25? (low conf 0.6)
+2026-10-25 14:18:03   llm groq-120b: rate limited, skip 154s
+2026-10-25 14:18:04 NEWS [ESPN 0m] Genoa confirmed lineup vs Venezia: Alessandro Marcandalli, Morten Frendrup, David Puczka ruled out of starting XI [ita.1]
+2026-10-25 14:18:04   skip No :: Will Genoa CFC win on 2026-10-25? (low conf 0.6)
