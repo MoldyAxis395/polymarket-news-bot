@@ -19113,3 +19113,14 @@
 2026-10-25 02:44:43 NEWS [ESPN 0m] Seattle Sounders FC confirmed lineup vs San Diego FC: Caden Clark, Yeimar Gómez, Ryan Sailor ruled out of starting XI [usa.1]
 2026-10-25 02:44:43   skip Yes :: Will San Diego FC win on 2026-10-24? (low conf 0.62)
 2026-10-25 02:46:55   drop[1-source] Iowa State football's Makai Sat exits Arizona game with injury (The Des Moines Register) :: Makai Sat, wait 2nd source
+2026-10-25 02:54:30 indexed 988 markets
+2026-10-25 02:56:05   drop[kind] Becky Lynch Takes Dig at Stephanie Vaquer’s Recent Injury Record (411MANIA) :: other
+2026-10-25 02:56:05   llm groq-120b: rate limited, skip 607s
+2026-10-25 02:56:05   drop[not-key] AJ Dybantsa to Miss Wizards Season Opener Due to Ankle Injury (SSBCrack) :: AJ Dybantsa: ankle injury
+2026-10-25 03:01:02   drop[not-key] Texas WR Cam Coleman leaves game vs. Ole Miss with apparent upper body injury (On3) :: Cam Coleman: upper body injury
+2026-10-25 03:04:32 indexed 990 markets
+2026-10-25 03:07:43   drop[not-key] Detroit Pistons: Duren Ruled Out, Thompson Questionable To Play Vs. 76ers (roundtable.io) :: Jaden Duren: ruled out for game vs 76ers
+2026-10-25 03:12:18   drop[not-key] Michigan State's injury woes continue as Ben Roberts goes down at UCLA: 'We're going to fi (On3) :: Ben Roberts: Roberts was injured during the UCLA game and will miss upcoming play
+2026-10-25 03:14:33 indexed 991 markets
+2026-10-25 03:14:37   drop[1-source] Tension in Nkwanta North as Deputy Women’s Organiser election is suspended (GhanaWeb) :: Nkwanta North, wait 2nd source
+2026-10-25 03:16:54   drop[1-source] Texas loses star wide receiver to apparent shoulder injury (Austin American-Statesman) :: Xavier Worth, wait 2nd source
