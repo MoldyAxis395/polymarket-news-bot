@@ -20161,3 +20161,35 @@
 2026-10-25 21:02:03   drop[no-pick] Liverpool earn first league win at Anfield with victory over Brighton (BBC) :: None
 2026-10-25 21:03:06   drop[1-source] Vikings news: Aaron Jones leaves Colts game with injury after already playing with spraine (ClutchPoints) :: Aaron Jones, wait 2nd source
 2026-10-25 21:03:28   llm groq-120b: rate limited, skip 188s
+2026-10-25 21:05:07   llm groq-20b: rate limited, skip 64s
+2026-10-25 21:06:33   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:06:33   llm groq-20b: rate limited, skip 119s
+2026-10-25 21:07:34   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:07:34   llm groq-120b: rate limited, skip 163s
+2026-10-25 21:08:34   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:08:34   llm groq-20b: rate limited, skip 328s
+2026-10-25 21:10:23 indexed 1022 markets
+2026-10-25 21:10:35   llm groq-120b: rate limited, skip 25s
+2026-10-25 21:11:37   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:11:37   llm groq-120b: rate limited, skip 154s
+2026-10-25 21:14:40   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:14:41   llm groq-120b: rate limited, skip 293s
+2026-10-25 21:14:41   llm groq-20b: rate limited, skip 34s
+2026-10-25 21:15:42   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:15:42   llm groq-20b: rate limited, skip 340s
+2026-10-25 21:19:45   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:19:45   llm groq-120b: rate limited, skip 277s
+2026-10-25 21:20:25 indexed 1018 markets
+2026-10-25 21:21:47   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:21:47   llm groq-20b: rate limited, skip 362s
+2026-10-25 21:24:50   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:24:50   llm groq-120b: rate limited, skip 184s
+2026-10-25 21:27:54   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:27:54   llm groq-20b: rate limited, skip 378s
+2026-10-25 21:28:54   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:28:54   llm groq-120b: rate limited, skip 266s
+2026-10-25 21:30:26 indexed 1030 markets
+2026-10-25 21:31:56 NEWS [ESPN 7m] Naji Marshall (F, Dallas Mavericks) ruled out: healthy -> Out [NBA]
+2026-10-25 21:31:56   skip Heat :: Mavericks vs. Heat (rules fallback, LLM down (not traded))
+2026-10-25 21:34:00   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:34:00   llm groq-120b: rate limited, skip 207s
