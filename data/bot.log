@@ -20030,3 +20030,43 @@
 2026-10-25 22:46:00   llm groq-20b: rate limited, skip 3s
 2026-10-25 22:47:01   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
 2026-10-25 22:47:01   llm groq-20b: rate limited, skip 334s
+2026-10-25 22:50:05   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 22:50:05   llm groq-120b: rate limited, skip 162s
+2026-10-25 22:53:06   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 22:53:06   llm groq-120b: rate limited, skip 260s
+2026-10-25 22:53:06   llm groq-20b: rate limited, skip 172s
+2026-10-25 22:53:06   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-10-25 22:55:24 indexed 1022 markets
+2026-10-25 22:56:30   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 22:56:30   llm groq-20b: rate limited, skip 296s
+2026-10-25 22:57:27   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 22:57:27   llm groq-120b: rate limited, skip 285s
+2026-10-25 23:01:32   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-10-25 23:01:32   llm groq-20b: rate limited, skip 380s
+2026-10-25 23:02:33   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:02:33   llm groq-120b: rate limited, skip 284s
+2026-10-25 23:03:52 NEWS [Fabrizio Romano 0m] ⚪️💥 OFFICIAL: Kylian Mbappé wins Man of the Match for El Clásico against Barcelona. 2 goals tonight. 8 goals in 7 Clásicos. 14 goals in 11 games against Barça.
+2026-10-25 23:03:52   skip Yes :: Will Kylian Mbappé win the 2026 Ballon d'Or? (rules fallback, LLM down (not traded))
+2026-10-25 23:05:25 indexed 1032 markets
+2026-10-25 23:07:38   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:07:38   llm groq-120b: rate limited, skip 63s
+2026-10-25 23:08:35   drop[team-not-named] Kawhi Leonard (knee) ruled out Sunday vs. MIN (NBC Sports) :: Los Angeles Clippers
+2026-10-25 23:08:35   llm groq-20b: rate limited, skip 182s
+2026-10-25 23:09:39   llm groq-120b: rate limited, skip 20s
+2026-10-25 23:10:40   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:10:40   llm groq-120b: rate limited, skip 216s
+2026-10-25 23:11:39   llm groq-20b: rate limited, skip 14s
+2026-10-25 23:12:41   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:12:42   llm groq-20b: rate limited, skip 357s
+2026-10-25 23:14:44   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:14:44   llm groq-120b: rate limited, skip 101s
+2026-10-25 23:15:26 indexed 1013 markets
+2026-10-25 23:16:05 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-25 23:16:46   llm groq-120b: rate limited, skip 11s
+2026-10-25 23:17:48   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:17:48   llm groq-120b: rate limited, skip 289s
+2026-10-25 23:17:48 NEWS [ESPN 11m] Ausar Thompson (G, Detroit Pistons) ruled out: Day-To-Day -> Out [NBA]
+2026-10-25 23:17:48   skip 76ers :: Pistons vs. 76ers (rules fallback, LLM down (not traded))
+2026-10-25 23:18:43 [pengwin]   book error FC Barcelona vs. Real Madrid CF: Both Teams to Sco: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=14633004144628019192847572287535288387870491300577615177247300157521948970891
+2026-10-25 23:18:49   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 23:18:49   llm groq-20b: rate limited, skip 239s
