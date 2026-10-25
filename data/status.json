@@ -1,14 +1,33 @@
 {
- "updated": "2026-10-25T14:48:57",
+ "updated": "2026-10-25T15:19:21",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 214,
- "markets_indexed": 1027,
- "news_processed": 208,
- "cash": 84.02,
- "equity": 84.02,
+ "llm_calls_today": 236,
+ "markets_indexed": 1026,
+ "news_processed": 235,
+ "cash": 74.02,
+ "equity": 83.84,
  "start": 100.0,
- "open": [],
+ "open": [
+  {
+   "market_id": "4551285",
+   "question": "Browns vs. Titans",
+   "slug": "nfl-cle-ten-2026-10-25",
+   "outcome": "Browns",
+   "token": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+   "shares": 18.18181818181818,
+   "entry": 0.55,
+   "cost": 10.0,
+   "opened": 1792936494.8126283,
+   "opened_iso": "2026-10-25T13:54:54+00:00",
+   "news": "Browns S Grant Delpit cleared the NFL\u2019s concussion protocol and will play today. Meanwhile, CB Denzel Ward will warm up and see if he can go. Ward is questionable with a hand injury.",
+   "reason": "llm[groq-20b] trusted: Delpit cleared, boosts Browns' chances",
+   "conf": 0.7,
+   "end": "2026-10-25T17:00:00+00:00",
+   "last_bid": 0.54,
+   "book_err": false
+  }
+ ],
  "closed_count": 92,
  "llm": {
   "backends": [
@@ -16,24 +35,22 @@
    "groq-20b"
   ],
   "fallbacks": 0,
-  "errors": {
-   "groq-120b": "rate limited, skip 99s"
-  },
+  "errors": {},
   "rejects": {
-   "fluff": 81,
+   "fluff": 91,
    "no-market": 1,
-   "kind": 15,
-   "1-source": 27,
+   "kind": 20,
+   "1-source": 28,
    "team-not-named": 9,
-   "not-key": 12,
-   "unconfirmed": 2,
+   "not-key": 13,
+   "unconfirmed": 4,
    "verify": 6,
    "no-pick": 2,
-   "side": 2
+   "side": 3
   },
   "calls": {
-   "groq-120b": 165,
-   "groq-20b": 49
+   "groq-120b": 174,
+   "groq-20b": 62
   }
  },
  "realized_pnl": -15.98
