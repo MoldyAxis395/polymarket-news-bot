@@ -19044,3 +19044,19 @@
 2026-10-25 01:47:08   drop[side] FC Dallas confirmed lineup vs San Jose Earthquakes: Nolan Norris, Christian Cappis, Patric (ESPN) :: Will FC Dallas win on 2026-10-24? -> Yes vs fact ruled_out: - (FC Dallas, soccer), bad for FC Dallas. Nolan Norris, Chri
 2026-10-25 01:47:08 NEWS [ESPN 0m] San Jose Earthquakes confirmed lineup vs FC Dallas: Preston Judd ruled out of starting XI [usa.1]
 2026-10-25 01:47:08   skip Yes :: Will FC Dallas win on 2026-10-24? (low conf 0.6)
+2026-10-25 01:53:22   llm groq-120b: rate limited, skip 159s
+2026-10-25 01:53:24 NEWS [Sportsnet.ca 4m] Eagles rule Devonta Smith out against Cowboys with hamstring injury
+2026-10-25 01:53:24   skip Cowboys :: Cowboys vs. Eagles (rss sport (measure only))
+2026-10-25 01:54:02 indexed 998 markets
+2026-10-25 02:00:47 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-25 02:00:47   llm groq-120b: rate limited, skip 167s
+2026-10-25 02:00:47   drop[no-pick] Mack scores 4 TDs, Arizona State shakes off QB injury to beat Kansas State 28-17 (The Washington Post) :: short
+2026-10-25 02:01:29 NEWS [ESPN 0m] Sporting Kansas City confirmed lineup vs Austin FC: Jacob Bartlett, Calvin Harris ruled out of starting XI [usa.1]
+2026-10-25 02:01:29   skip No :: Will Sporting Kansas City win on 2026-10-24? (low conf 0.6)
+2026-10-25 02:01:29   llm groq-20b: rate limited, skip 258s
+2026-10-25 02:01:29   drop[no-pick] Austin FC confirmed lineup vs Sporting Kansas City: Brad Stuver, Oleksandr Svatok, Jon Bel (ESPN) :: None
+2026-10-25 02:04:07 indexed 1008 markets
+2026-10-25 02:14:10 indexed 1007 markets
+2026-10-25 02:14:15   drop[kind] Nitrous Oxide-Associated Rhabdomyolysis With Acute Kidney Injury Requiring Hemodialysis (Cureus) :: other
+2026-10-25 02:15:18   drop[not-key] Alpha Diallo (F, Denver Nuggets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Alpha Diallo: wrist injury
+2026-10-25 02:16:32   drop[1-source] Running back Evan Hampton leaves Vanderbilt football vs Kentucky with injury (The Tennessean) :: Evan Hampton, wait 2nd source
