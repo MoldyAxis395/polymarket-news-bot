@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-25T15:48:34",
+ "updated": "2026-10-25T15:58:39",
  "start": 100.0,
  "cash": 115.0,
- "equity": 143.53,
+ "equity": 143.72,
  "open": [
   {
    "market_id": "5597100",
@@ -19,7 +19,7 @@
    "reason": "pengwin exact: total goals >2.5",
    "conf": 1.0,
    "end": "2026-10-25T14:00:00+00:00",
-   "last_bid": 0.48,
+   "last_bid": 0.49,
    "book_err": false,
    "settle_retry": 1792722170.9616868
   },
@@ -63,10 +63,10 @@
  "closed_count": 43,
  "realized_pnl": 45.0,
  "pages": {
-  "pending": 117,
+  "pending": 101,
   "picked": 1,
   "traded": 46,
   "skipped": 137,
-  "expired": 67
+  "expired": 83
  }
 }
