@@ -19377,3 +19377,218 @@
 2026-10-25 16:32:16   drop[1-source] Atalanta Faces Another Injury Setback in Match Against Frosinone (SSBCrack) :: Federico Chiesa, wait 2nd source
 2026-10-25 16:32:40   drop[side] Sunderland confirmed lineup vs Leeds United: Kevin Danso, Dayann Methalie, Jules Ahoka, Ma (ESPN) :: Will Sunderland AFC win on 2026-10-25? -> Yes vs fact ruled_out: Kevin Danso (Sunderland, soccer), bad for Sunderland. r
 2026-10-25 16:32:41   drop[side] Leeds United confirmed lineup vs Sunderland: Nico Elvedi, Anton Stach, Noah Okafor ruled o (ESPN) :: Will Leeds United FC win on 2026-10-25? -> Yes vs fact ruled_out: Nico Elvedi (Leeds United, soccer), bad for Leeds Unit
+2026-10-25 16:34:46   drop[kind] 76ers Get Major Boost After Concerning Pistons Injury News (heavy.com) :: other
+2026-10-25 16:34:46   llm groq-120b: rate limited, skip 250s
+2026-10-25 16:34:47   drop[kind] Celtic injury fears heightened as scans booked for ace and troubled summer signing handed  (The Scotsman) :: other
+2026-10-25 16:38:07   drop[no-market] CJ Donaldson (RB, New Orleans Saints) ruled out: Questionable -> Out [NFL] (ESPN) :: New Orleans Saints
+2026-10-25 16:39:12   drop[kind] 49ers Injury Report: Kyle Shanahan says San Francisco may not have 48 available players ag (شبكة تواصل الإخبارية) :: other
+2026-10-25 16:39:12   llm groq-120b: rate limited, skip 285s
+2026-10-25 16:39:13   drop[1-source] O’Neill concerned by Johnston injury after Celtic’s ‘best win of the season’ (www.soccernews.com) :: John Johnston, wait 2nd source
+2026-10-25 16:39:55 indexed 1026 markets
+2026-10-25 16:41:04   drop[verify] Marseille confirmed lineup vs Le Havre AC: Ulisses Garcia, Bamo Meïté, Kelyann Bezahaf, No (ESPN) :: Keyliane Abdallah is not a key starter; impact too small.
+2026-10-25 16:41:07   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-25 16:41:07   drop[verify] Le Havre AC confirmed lineup vs Marseille: Mouhamed N'Diaye, Josh Maja, Sota Nakamura rule (ESPN) :: no answer
+2026-10-25 16:43:13   drop[no-pick] Taylen Green (QB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: no outcome should rise
+2026-10-25 16:43:15 NEWS [ESPN 11m] Noah Igbinoghene (CB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 16:43:15   skip Titans :: Browns vs. Titans (already in market)
+2026-10-25 16:43:15   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: roster mismatch
+2026-10-25 16:43:16   drop[not-key] Parker Brailsford (C, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Parker Brailsford: injury
+2026-10-25 16:43:16   drop[not-key] Audric Estime (RB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Audric Estime: injury
+2026-10-25 16:43:17 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:43:17   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 16:44:13   llm groq-120b: rate limited, skip 48s
+2026-10-25 16:44:14   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-10-25 16:44:15 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:44:15   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 16:45:15   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 16:45:15   llm groq-120b: rate limited, skip 250s
+2026-10-25 16:45:16 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:45:16   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 16:46:17   drop[verify] Jack Strand (QB, Atlanta Falcons) ruled out: Active -> Out [NFL] (ESPN) :: Jack Strand not on Falcons
+2026-10-25 16:46:17   drop[not-key] Andy Dalton (QB, Atlanta Falcons) ruled out: Active -> Out [NFL] (ESPN) :: Andy Dalton: injury
+2026-10-25 16:46:18   drop[side] Olamide Zaccheaus (WR, Atlanta Falcons) ruled out: Questionable -> Out [NFL] (ESPN) :: 49ers vs. Falcons -> Falcons vs fact ruled_out: Olamide Zaccheaus (Atlanta Falcons, nfl), bad for Atlanta Falcons. shoul
+2026-10-25 16:46:18   drop[not-key] Ja'Tavion Sanders (TE, Carolina Panthers) ruled out: Active -> Out [NFL] (ESPN) :: Ja'Tavion Sanders: injury
+2026-10-25 16:46:19   drop[no-pick] Haynes King (QB, Carolina Panthers) ruled out: Active -> Out [NFL] (ESPN) :: no relevant market
+2026-10-25 16:46:19   drop[not-key] Stone Forsythe (OT, Carolina Panthers) ruled out: healthy -> Out [NFL] (ESPN) :: Stone Forsythe: injury
+2026-10-25 16:46:20   drop[not-key] Sam Hecht (C, Carolina Panthers) ruled out: healthy -> Out [NFL] (ESPN) :: Sam Hecht: healthy -> out
+2026-10-25 16:46:20   drop[no-pick] AJ Dillon (RB, Carolina Panthers) ruled out: Active -> Out [NFL] (ESPN) :: no relevant market
+2026-10-25 16:46:21   llm groq-20b: rate limited, skip 1s
+2026-10-25 16:46:21 NEWS [ESPN 9m] TeRah Edwards (DT, Carolina Panthers) ruled out: Active -> Out [NFL]
+2026-10-25 16:46:21   skip Buccaneers :: Buccaneers vs. Panthers (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 4m] Shemar Stewart (DE, Cincinnati Bengals) ruled out: healthy -> Out [NFL]
+2026-10-25 16:46:21   skip Ravens :: Bengals vs. Ravens (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21   skip Titans :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 12m] Russ Yeast (S, Cincinnati Bengals) ruled out: healthy -> Out [NFL]
+2026-10-25 16:46:21   skip Ravens :: Bengals vs. Ravens (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21   skip Titans :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 12m] Landon Robinson (DT, Cincinnati Bengals) ruled out: Active -> Out [NFL]
+2026-10-25 16:46:21   skip Ravens :: Bengals vs. Ravens (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21   skip Titans :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 12m] Connor Lew (C, Cincinnati Bengals) ruled out: Active -> Out [NFL]
+2026-10-25 16:46:21   skip Ravens :: Bengals vs. Ravens (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21   skip Titans :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 12m] Myles Hinton (OT, Cincinnati Bengals) ruled out: Active -> Out [NFL]
+2026-10-25 16:46:21   skip Ravens :: Bengals vs. Ravens (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21   skip Titans :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 14m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 16:46:21   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 3m] Bryce Boettcher (LB, Indianapolis Colts) ruled out: Questionable -> Out [NFL]
+2026-10-25 16:46:21   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 5m] Riley Leonard (QB, Indianapolis Colts) ruled out: Active -> Out [NFL]
+2026-10-25 16:46:21   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 8m] Dalton Tucker (G, Indianapolis Colts) ruled out: Active -> Out [NFL]
+2026-10-25 16:46:21   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:46:21   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 12m] Nikko Reed (CB, New York Giants) ruled out: Active -> Out [NFL]
+2026-10-25 16:46:21   skip Texans :: Giants vs. Texans (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 12m] Josh Sills (G, New York Giants) ruled out: healthy -> Out [NFL]
+2026-10-25 16:46:21   skip Texans :: Giants vs. Texans (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 12m] Marcus Mbow (OT, New York Giants) ruled out: Questionable -> Out [NFL]
+2026-10-25 16:46:21   skip Texans :: Giants vs. Texans (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 12m] Jake Haener (QB, New York Giants) ruled out: Active -> Out [NFL]
+2026-10-25 16:46:21   skip Texans :: Giants vs. Texans (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 0m] Breece Hall (RB, New York Jets) ruled out: Questionable -> Out [NFL]
+2026-10-25 16:46:21   skip Dolphins :: Dolphins vs. Jets (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 8m] Calvin Ridley (WR, Tennessee Titans) ruled out: Questionable -> Out [NFL]
+2026-10-25 16:46:21   skip Browns :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21   skip Bengals :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 10m] Tyjae Spears (RB, Tennessee Titans) ruled out: Questionable -> Out [NFL]
+2026-10-25 16:46:21   skip Browns :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21   skip Bengals :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 14m] Nicholas Singleton (RB, Tennessee Titans) ruled out: Active -> Out [NFL]
+2026-10-25 16:46:21   skip Browns :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21   skip Bengals :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 14m] Jaylon Jones (CB, Tennessee Titans) ruled out: Active -> Out [NFL]
+2026-10-25 16:46:21   skip Browns :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21   skip Bengals :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 14m] Jackie Marshall (DT, Tennessee Titans) ruled out: Active -> Out [NFL]
+2026-10-25 16:46:21   skip Browns :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21   skip Bengals :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 14m] Kylen Granson (TE, Tennessee Titans) ruled out: Active -> Out [NFL]
+2026-10-25 16:46:21   skip Browns :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21   skip Bengals :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21 NEWS [ESPN 14m] Brandon Crenshaw-Dickson (OT, Tennessee Titans) ruled out: Active -> Out [NFL]
+2026-10-25 16:46:21   skip Browns :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 16:46:21   skip Bengals :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-25 16:47:17   drop[unconfirmed] Broderick Washington Jr. (DT, Baltimore Ravens) ruled out: Questionable -> Out [NFL] (ESPN) :: ankle injury
+2026-10-25 16:47:17   drop[unconfirmed] Elijah Sarratt (WR, Baltimore Ravens) ruled out: Active -> Out [NFL] (ESPN) :: injury
+2026-10-25 16:47:17   drop[not-key] Andrew Vorhees (G, Baltimore Ravens) ruled out: Active -> Out [NFL] (ESPN) :: Andrew Vorhees: injury
+2026-10-25 16:47:18   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 16:47:18   drop[not-key] Nate Thomas (OT, Houston Texans) ruled out: Active -> Out [NFL] (ESPN) :: Nate Thomas: injury
+2026-10-25 16:47:19   drop[not-key] Marlin Klein (TE, Houston Texans) ruled out: Active -> Out [NFL] (ESPN) :: Marlin Klein: injury
+2026-10-25 16:47:19   drop[not-key] Febechi Nwaiwu (G, Houston Texans) ruled out: Active -> Out [NFL] (ESPN) :: Febechi Nwaiwu: injury
+2026-10-25 16:47:19   drop[not-key] Jalen Tolbert (WR, Miami Dolphins) ruled out: healthy -> Out [NFL] (ESPN) :: Jalen Tolbert: injury
+2026-10-25 16:47:21 NEWS [ESPN 13m] Willie Gay Jr. (LB, Miami Dolphins) ruled out: Questionable -> Out [NFL]
+2026-10-25 16:47:22   BUY Jets @ 0.660 x15.2 ($10.00) :: Dolphins vs. Jets
+2026-10-25 16:47:22   drop[not-key] Chukwuebuka Godrick (OT, Miami Dolphins) ruled out: Active -> Out [NFL] (ESPN) :: Chukwuebuka Godrick: injury
+2026-10-25 16:47:22   llm groq-20b: rate limited, skip 1s
+2026-10-25 16:47:22 NEWS [ESPN 13m] Robert Beal Jr. (DE, Miami Dolphins) ruled out: Doubtful -> Out [NFL]
+2026-10-25 16:47:22   skip Jets :: Dolphins vs. Jets (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 13m] DJ Campbell (G, Miami Dolphins) ruled out: Active -> Out [NFL]
+2026-10-25 16:47:22   skip Jets :: Dolphins vs. Jets (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 13m] Marcellas Dial Jr. (CB, Miami Dolphins) ruled out: Active -> Out [NFL]
+2026-10-25 16:47:22   skip Jets :: Dolphins vs. Jets (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 9m] Max Brosmer (QB, Minnesota Vikings) ruled out: Active -> Out [NFL]
+2026-10-25 16:47:22   skip Colts :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 10m] Demond Claiborne (RB, Minnesota Vikings) ruled out: Active -> Out [NFL]
+2026-10-25 16:47:22   skip Colts :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 13m] Elijah Williams (DE, Minnesota Vikings) ruled out: Active -> Out [NFL]
+2026-10-25 16:47:22   skip Colts :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 13m] Jakobe Thomas (S, Minnesota Vikings) ruled out: Active -> Out [NFL]
+2026-10-25 16:47:22   skip Colts :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 13m] Caleb Tiernan (OT, Minnesota Vikings) ruled out: healthy -> Out [NFL]
+2026-10-25 16:47:22   skip Colts :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 13m] Charles Demmings (CB, Minnesota Vikings) ruled out: Active -> Out [NFL]
+2026-10-25 16:47:22   skip Colts :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:47:22   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 14m] Kene Nwangwu (RB, New York Jets) ruled out: Questionable -> Out [NFL]
+2026-10-25 16:47:22   skip Dolphins :: Dolphins vs. Jets (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 14m] Dylan Parham (G, New York Jets) ruled out: Questionable -> Out [NFL]
+2026-10-25 16:47:22   skip Dolphins :: Dolphins vs. Jets (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 14m] Jack Heflin (DT, New York Jets) ruled out: Active -> Out [NFL]
+2026-10-25 16:47:22   skip Dolphins :: Dolphins vs. Jets (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 14m] Jarvis Brownlee Jr. (CB, New York Jets) ruled out: Active -> Out [NFL]
+2026-10-25 16:47:22   skip Dolphins :: Dolphins vs. Jets (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 13m] Billy Schrauth (G, Tampa Bay Buccaneers) ruled out: Active -> Out [NFL]
+2026-10-25 16:47:22   skip No :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22   skip Panthers :: Buccaneers vs. Panthers (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 13m] Ayden Garnes (CB, Tampa Bay Buccaneers) ruled out: Active -> Out [NFL]
+2026-10-25 16:47:22   skip No :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22   skip Panthers :: Buccaneers vs. Panthers (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22 NEWS [ESPN 13m] DeMonte Capehart (DT, Tampa Bay Buccaneers) ruled out: Active -> Out [NFL]
+2026-10-25 16:47:22   skip No :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-25 16:47:22   skip Panthers :: Buccaneers vs. Panthers (rules fallback, LLM down (not traded))
+2026-10-25 16:48:19   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 16:48:19 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:48:19   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 16:48:27   drop[1-source] Texans vs. Giants Inactives: Full List of Players Ruled Out for Week 7 (Sports Illustrated) :: Brandin Cooks, wait 2nd source
+2026-10-25 16:49:20   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: roster mismatch
+2026-10-25 16:49:21 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:49:21   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 16:49:52 indexed 1027 markets
+2026-10-25 16:50:22   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 16:50:22   llm groq-120b: rate limited, skip 206s
+2026-10-25 16:50:23 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:50:23   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 16:50:45   drop[not-key] Panthers Get Injury Announcement On Bucs’ Emeka Egbuka (Heavy.com) :: Emeka Egbuka: injury announcement
+2026-10-25 16:50:46   drop[no-pick] Pistons Get Troubling News on $155 Million Star After Jalen Duren Injury (Heavy.com) :: no suitable outcome that should rise
+2026-10-25 16:51:12 NEWS [ESPN 0m] SC Freiburg confirmed lineup vs Bayern Munich: Yannick Engelhardt, Igor Matanovic ruled out of starting XI [ger.1]
+2026-10-25 16:51:12   skip Yes :: FC Bayern München leading at halftime? (low conf 0.6)
+2026-10-25 16:51:13   drop[side] Bayern Munich confirmed lineup vs SC Freiburg: Manuel Neuer, Kim Min-Jae, Ismael Saibari,  (ESPN) :: Will FC Bayern München win on 2026-10-25? -> Yes vs fact ruled_out: Alphonso Davies (Bayern Munich, soccer), bad for Bay
+2026-10-25 16:51:22   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 16:51:23 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:51:23   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 16:52:23   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 16:52:24 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:52:24   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 16:53:18   drop[verify] Dolphins vs. Jets inactives: Willie Gay Jr. out with continued illness; Breece Hall out fo (The Phinsider) :: not new, not star
+2026-10-25 16:53:18   drop[not-key] Ausar Thompson Injury: Not active at shootaround (RotoWire) :: Ausar Thompson: injury
+2026-10-25 16:53:23   drop[not-key] Avieon Terrell (CB, Atlanta Falcons) ruled out: Questionable -> Out [NFL] (ESPN) :: Avieon Terrell: illness and back injury
+2026-10-25 16:53:24   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-10-25 16:53:25 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:53:25   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 16:54:24   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 16:54:24   llm groq-120b: rate limited, skip 300s
+2026-10-25 16:54:25 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:54:25   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 16:54:33   drop[unconfirmed] Australia survive scare to beat Fiji and reach World Cup semi-finals (BBC) :: victory secures semi-final spot
+2026-10-25 16:55:26   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 16:55:26 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:55:26   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 16:56:27   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 16:56:28 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:56:28   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 16:57:28   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-10-25 16:57:29 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:57:29   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 16:57:38   drop[team-not-named] Tory suspended over 'contract killer' sting worked in Kemi Badenoch's office (The National Scot) :: Conservative Party
+2026-10-25 16:58:30   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 16:58:30 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 16:58:30   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 16:58:31   drop[not-key] Kurtis Rourke (QB, San Francisco 49ers) ruled out: Active -> Out [NFL] (ESPN) :: Kurtis Rourke: injury
+2026-10-25 16:59:57 indexed 1012 markets
+2026-10-25 16:59:59   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 16:59:59   llm groq-120b: rate limited, skip 149s
+2026-10-25 17:00:00 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:00:00   skip Vikings :: Colts vs. Vikings (low conf 0.35)
+2026-10-25 17:01:00   llm groq-20b: rate limited, skip 45s
+2026-10-25 17:01:00 NEWS [ESPN 29m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:01:00   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:01:00 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:01:00   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:02:00   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-10-25 17:02:00   llm groq-20b: rate limited, skip 126s
+2026-10-25 17:02:00 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:02:00   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:02:37   drop[1-source] Seahawks Get Double Injury Boost Ahead of Chiefs Game (heavy.com) :: Kansas City Chiefs, wait 2nd source
+2026-10-25 17:03:00   llm groq-120b: rate limited, skip 330s
+2026-10-25 17:03:00 NEWS [ESPN 31m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:03:00   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:03:00 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:03:00   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))
+2026-10-25 17:04:02 NEWS [ESPN 32m] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL]
+2026-10-25 17:04:02   skip Titans :: Browns vs. Titans (rules fallback, LLM down (not traded))
+2026-10-25 17:04:02 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-25 17:04:02   skip Vikings :: Colts vs. Vikings (rules fallback, LLM down (not traded))

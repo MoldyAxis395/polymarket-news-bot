@@ -1,5 +1,5 @@
 {
- "cash": 74.02313778107738,
+ "cash": 64.02313778107738,
  "positions": [
   {
    "market_id": "4551285",
@@ -16,7 +16,25 @@
    "reason": "llm[groq-20b] trusted: Delpit cleared, boosts Browns' chances",
    "conf": 0.7,
    "end": "2026-10-25T17:00:00+00:00",
-   "last_bid": 0.54,
+   "last_bid": 0.55,
+   "book_err": false
+  },
+  {
+   "market_id": "4551284",
+   "question": "Dolphins vs. Jets",
+   "slug": "nfl-mia-nyj-2026-10-25",
+   "outcome": "Jets",
+   "token": "26308412986171077383906006203876027703641964141555613293088155238275700441642",
+   "shares": 15.15151515151515,
+   "entry": 0.66,
+   "cost": 10.0,
+   "opened": 1792943242.060774,
+   "opened_iso": "2026-10-25T15:47:22+00:00",
+   "news": "Willie Gay Jr. (LB, Miami Dolphins) ruled out: Questionable -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: Willie Gay Jr. out hurts Dolphins, so Jets side should rise",
+   "conf": 0.7,
+   "end": "2026-10-25T17:00:00+00:00",
+   "last_bid": 0.65,
    "book_err": false
   }
  ],

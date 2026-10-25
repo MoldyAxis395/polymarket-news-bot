@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-25T16:34:12",
+ "updated": "2026-10-25T17:04:25",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 257,
- "markets_indexed": 1021,
- "news_processed": 58,
- "cash": 74.02,
- "equity": 83.84,
+ "llm_calls_today": 375,
+ "markets_indexed": 1012,
+ "news_processed": 198,
+ "cash": 64.02,
+ "equity": 83.87,
  "start": 100.0,
  "open": [
   {
@@ -24,7 +24,25 @@
    "reason": "llm[groq-20b] trusted: Delpit cleared, boosts Browns' chances",
    "conf": 0.7,
    "end": "2026-10-25T17:00:00+00:00",
-   "last_bid": 0.54,
+   "last_bid": 0.55,
+   "book_err": false
+  },
+  {
+   "market_id": "4551284",
+   "question": "Dolphins vs. Jets",
+   "slug": "nfl-mia-nyj-2026-10-25",
+   "outcome": "Jets",
+   "token": "26308412986171077383906006203876027703641964141555613293088155238275700441642",
+   "shares": 15.15151515151515,
+   "entry": 0.66,
+   "cost": 10.0,
+   "opened": 1792943242.060774,
+   "opened_iso": "2026-10-25T15:47:22+00:00",
+   "news": "Willie Gay Jr. (LB, Miami Dolphins) ruled out: Questionable -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: Willie Gay Jr. out hurts Dolphins, so Jets side should rise",
+   "conf": 0.7,
+   "end": "2026-10-25T17:00:00+00:00",
+   "last_bid": 0.65,
    "book_err": false
   }
  ],
@@ -34,23 +52,26 @@
    "groq-120b",
    "groq-20b"
   ],
-  "fallbacks": 0,
+  "fallbacks": 47,
   "errors": {
-   "groq-120b": "rate limited, skip 75s"
+   "groq-20b": "rate limited, skip 126s",
+   "groq-120b": "rate limited, skip 330s"
   },
   "rejects": {
-   "not-key": 1,
-   "kind": 8,
-   "fluff": 13,
-   "unconfirmed": 3,
-   "team-not-named": 3,
-   "1-source": 7,
-   "verify": 1,
-   "side": 5
+   "not-key": 17,
+   "kind": 15,
+   "fluff": 20,
+   "unconfirmed": 8,
+   "team-not-named": 15,
+   "1-source": 10,
+   "verify": 5,
+   "side": 7,
+   "no-market": 1,
+   "no-pick": 4
   },
   "calls": {
-   "groq-120b": 175,
-   "groq-20b": 82
+   "groq-120b": 190,
+   "groq-20b": 185
   }
  },
  "realized_pnl": -15.98
