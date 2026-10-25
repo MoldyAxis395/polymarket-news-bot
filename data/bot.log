@@ -19124,3 +19124,18 @@
 2026-10-25 03:14:33 indexed 991 markets
 2026-10-25 03:14:37   drop[1-source] Tension in Nkwanta North as Deputy Women’s Organiser election is suspended (GhanaWeb) :: Nkwanta North, wait 2nd source
 2026-10-25 03:16:54   drop[1-source] Texas loses star wide receiver to apparent shoulder injury (Austin American-Statesman) :: Xavier Worth, wait 2nd source
+2026-10-25 03:23:46   drop[1-source] Ole Miss RB Kewan Lacy Exits With Injury in Second Half vs. Texas (Sports Illustrated) :: Kewan Lacy, wait 2nd source
+2026-10-25 03:24:32 indexed 1004 markets
+2026-10-25 03:28:37   drop[1-source] Texas’ Cam Coleman exits Ole Miss clash with concerning shoulder injury (ClutchPoints) :: Cam Coleman, wait 2nd source
+2026-10-25 03:30:00   drop[not-key] Mikel Brown Jr. (G, Brooklyn Nets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Mikel Brown Jr.: ruled out with injury
+2026-10-25 03:30:42   llm groq-120b: rate limited, skip 121s
+2026-10-25 03:30:42   drop[not-key] Texas WR Cam Coleman leaves Saturday's game against Ole Miss with a shoulder injury (247Sports) :: Cam Coleman: shoulder injury
+2026-10-25 03:33:02   drop[1-source] Iowa State football's Makai Sat exits Arizona game with injury, returns (The Des Moines Register) :: Makai Sat, wait 2nd source
+2026-10-25 03:34:33 indexed 1008 markets
+2026-10-25 03:35:23   llm groq-120b: rate limited, skip 395s
+2026-10-25 03:35:24   drop[team-not-named] Alexander Bublik Heads to Hospital After Injury Forces Almaty Retirement (EssentiallySports) :: Kazakhstan
+2026-10-25 03:39:15   drop[unconfirmed] Great event tonight as the Canadiens alumni defeated Jets alumni 7-4 Big ovation for Dusti (Elliotte Friedman) :: alumni win
+2026-10-25 03:39:59   drop[team-not-named] Paolo Banchero injury opens door wider for Warriors-Magic trade (Blue Man Hoop) :: Orlando Magic
+2026-10-25 03:41:44 bluesky error x1: HTTPSConnectionPool(host='public.api.bsky.app', port=443): Read timed out. (read timeout=15)
+2026-10-25 03:44:36 indexed 1005 markets
+2026-10-25 03:46:51 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
