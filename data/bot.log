@@ -20193,3 +20193,14 @@
 2026-10-25 21:31:56   skip Heat :: Mavericks vs. Heat (rules fallback, LLM down (not traded))
 2026-10-25 21:34:00   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-10-25 21:34:00   llm groq-120b: rate limited, skip 207s
+2026-10-25 21:35:02   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:35:02   llm groq-20b: rate limited, skip 237s
+2026-10-25 21:38:05   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:38:05   llm groq-120b: rate limited, skip 248s
+2026-10-25 21:39:06   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: roster mismatch
+2026-10-25 21:39:06   llm groq-20b: rate limited, skip 364s
+2026-10-25 21:40:30 indexed 1030 markets
+2026-10-25 21:42:34   llm groq-120b: rate limited, skip 48s
+2026-10-25 21:43:36   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-25 21:43:36   llm groq-120b: rate limited, skip 157s
+2026-10-25 21:44:27 shift over, state saved
