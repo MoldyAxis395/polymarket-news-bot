@@ -20183,3 +20183,49 @@
 2026-10-26 04:32:42   llm groq-120b: rate limited, skip 289s
 2026-10-26 04:33:42   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-10-26 04:33:42   llm groq-20b: rate limited, skip 271s
+2026-10-26 04:37:46   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 04:37:46   llm groq-120b: rate limited, skip 32s
+2026-10-26 04:38:46   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 04:38:46   llm groq-120b: rate limited, skip 252s
+2026-10-26 04:38:46   llm groq-20b: rate limited, skip 195s
+2026-10-26 04:38:46   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-10-26 04:40:42 indexed 1025 markets
+2026-10-26 04:42:53   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 04:42:53   llm groq-20b: rate limited, skip 276s
+2026-10-26 04:43:54   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 04:43:54   llm groq-120b: rate limited, skip 162s
+2026-10-26 04:46:55   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 04:46:55   llm groq-120b: rate limited, skip 175s
+2026-10-26 04:47:55   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 04:47:55   llm groq-20b: rate limited, skip 110s
+2026-10-26 04:48:33 NEWS [Reuters 0m] Brazil's electoral court said President Luiz Inacio Lula da Silva won an unprecedented fourth term in the October 25 runoff. reut.rs/4sqU0SS
+2026-10-26 04:48:33   skip Yes :: Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazil (rules fallback, LLM down (not traded))
+2026-10-26 04:48:33   skip Yes :: Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazil (rules fallback, LLM down (not traded))
+2026-10-26 04:48:33   skip Yes :: Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazil (rules fallback, LLM down (not traded))
+2026-10-26 04:49:57   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 04:49:57   llm groq-120b: rate limited, skip 190s
+2026-10-26 04:49:58   llm groq-20b: rate limited, skip 48s
+2026-10-26 04:50:40 indexed 1028 markets
+2026-10-26 04:50:59   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 04:50:59   llm groq-20b: rate limited, skip 333s
+2026-10-26 04:54:04   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 04:54:04   llm groq-120b: rate limited, skip 294s
+2026-10-26 04:56:57   llm groq-20b: rate limited, skip 53s
+2026-10-26 04:58:09   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 04:58:09   llm groq-20b: rate limited, skip 290s
+2026-10-26 04:59:10   llm groq-120b: rate limited, skip 15s
+2026-10-26 05:00:13   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 05:00:13   llm groq-120b: rate limited, skip 126s
+2026-10-26 05:00:41 indexed 985 markets
+2026-10-26 05:01:16 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-26 05:01:16   skip Vikings :: Vikings vs. Lions (rules fallback, LLM down (not traded))
+2026-10-26 05:02:19 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-26 05:02:19   skip Vikings :: Vikings vs. Lions (rules fallback, LLM down (not traded))
+2026-10-26 05:03:20   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 05:03:20   llm groq-120b: rate limited, skip 184s
+2026-10-26 05:03:21   llm groq-20b: rate limited, skip 41s
+2026-10-26 05:03:21   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-10-26 05:04:22   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 05:04:22   llm groq-20b: rate limited, skip 384s
+2026-10-26 05:04:22 NEWS [ESPN 0m] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-26 05:04:22   skip Vikings :: Vikings vs. Lions (rules fallback, LLM down (not traded))
