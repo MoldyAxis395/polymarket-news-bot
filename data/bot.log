@@ -20256,3 +20256,35 @@
 2026-10-26 01:47:54   llm groq-20b: rate limited, skip 196s
 2026-10-26 01:48:22 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-26 01:49:55   llm groq-120b: rate limited, skip 9s
+2026-10-26 01:50:38   drop[kind] Brissett plays through left hand injury in Week 7 (NBC Sports) :: other
+2026-10-26 01:50:56   llm groq-120b: rate limited, skip 287s
+2026-10-26 01:51:57   llm groq-20b: rate limited, skip 30s
+2026-10-26 01:52:58   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:52:58   llm groq-20b: rate limited, skip 277s
+2026-10-26 01:55:42 indexed 1029 markets
+2026-10-26 01:56:01   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:56:01   llm groq-120b: rate limited, skip 267s
+2026-10-26 01:58:03   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:58:03   llm groq-20b: rate limited, skip 267s
+2026-10-26 02:01:08   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:01:08   llm groq-120b: rate limited, skip 251s
+2026-10-26 02:03:10   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:03:10   llm groq-20b: rate limited, skip 240s
+2026-10-26 02:05:44 indexed 1035 markets
+2026-10-26 02:06:12   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:06:12   llm groq-120b: rate limited, skip 219s
+2026-10-26 02:07:12   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:07:12   llm groq-20b: rate limited, skip 320s
+2026-10-26 02:10:15   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:10:15   llm groq-120b: rate limited, skip 223s
+2026-10-26 02:13:18   llm groq-20b: rate limited, skip 43s
+2026-10-26 02:14:19   llm groq-120b: rate limited, skip 19s
+2026-10-26 02:14:20   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:14:20   llm groq-20b: rate limited, skip 200s
+2026-10-26 02:15:21   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:15:21   llm groq-120b: rate limited, skip 235s
+2026-10-26 02:15:47 indexed 1037 markets
+2026-10-26 02:18:23   drop[team-not-named] Isaiah Joe has been ruled OUT for the remainder of … (HoopsHype) :: New York Knicks
+2026-10-26 02:18:27   llm groq-20b: rate limited, skip 191s
+2026-10-26 02:19:28   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:19:28   llm groq-120b: rate limited, skip 257s
