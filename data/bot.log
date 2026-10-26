@@ -20354,3 +20354,16 @@
 2026-10-26 03:19:18   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-10-26 03:19:18   llm groq-20b: rate limited, skip 179s
 2026-10-26 03:19:39 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-26 03:20:19   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 03:20:19   llm groq-120b: rate limited, skip 231s
+2026-10-26 03:22:21   llm groq-20b: rate limited, skip 5s
+2026-10-26 03:23:22   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 03:23:22   llm groq-20b: rate limited, skip 245s
+2026-10-26 03:24:22   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 03:24:22   llm groq-120b: rate limited, skip 138s
+2026-10-26 03:25:54 indexed 1016 markets
+2026-10-26 03:27:25   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 03:27:25   llm groq-120b: rate limited, skip 130s
+2026-10-26 03:27:32   drop[not-key] Thunder lose Jalen Williams to serious lower leg injury late in win over Clippers (News4JAX) :: Jalen Williams: injury
+2026-10-26 03:28:26   llm groq-20b: rate limited, skip 125s
+2026-10-26 03:29:43 shift over, state saved
