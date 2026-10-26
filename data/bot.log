@@ -20997,3 +20997,20 @@
 2026-10-26 20:30:30   drop[not-key] Trump administration illegally fired James Comey's daughter, judge rules (BBC) :: Maurene Comey: judge ruled the firing was illegal
 2026-10-26 20:32:02 indexed 1004 markets
 2026-10-26 20:32:07   drop[team-not-named] Chet Holmgren must define offensive ceiling in wake of Jalen Williams injury (Thunderous Intentions) :: Detroit Pistons
+2026-10-26 20:37:07   llm groq-120b: rate limited, skip 12s
+2026-10-26 20:37:10 NEWS [ESPN 16m] Jaylon Jones (CB, Tennessee Titans) cleared to play: Out -> Active [NFL]
+2026-10-26 20:37:10   skip Titans :: Titans vs. Bengals (ask 0.19 out of range)
+2026-10-26 20:37:10   llm groq-20b: rate limited, skip 356s
+2026-10-26 20:37:10 NEWS [ESPN 16m] Kylen Granson (TE, Tennessee Titans) cleared to play: Out -> Active [NFL]
+2026-10-26 20:37:10   skip Titans :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-26 20:37:10 NEWS [ESPN 16m] Jackie Marshall (DT, Tennessee Titans) cleared to play: Out -> Active [NFL]
+2026-10-26 20:37:10   skip Titans :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-26 20:37:10 NEWS [ESPN 16m] Nicholas Singleton (RB, Tennessee Titans) cleared to play: Out -> Active [NFL]
+2026-10-26 20:37:10   skip Titans :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-26 20:37:10 NEWS [ESPN 16m] Brandon Crenshaw-Dickson (OT, Tennessee Titans) cleared to play: Out -> Active [NFL]
+2026-10-26 20:37:10   skip Titans :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-26 20:39:02   drop[not-key] Landen Hatchett Out for Season With Different Injury (Sports Illustrated) :: Landen Hatchett: season-ending injury
+2026-10-26 20:41:20   llm groq-120b: rate limited, skip 158s
+2026-10-26 20:42:01 indexed 999 markets
+2026-10-26 20:43:48   drop[not-key] Injury Report: OKC Thunder List 5 Players Total Following Jalen Williams Injury (Sports Illustrated) :: Jalen Williams: injury
+2026-10-26 20:45:36 shift over, state saved
