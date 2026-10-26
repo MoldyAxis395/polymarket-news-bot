@@ -20883,3 +20883,46 @@
 2026-10-26 19:04:16   llm groq-20b: rate limited, skip 3s
 2026-10-26 19:04:23   drop[not-key] Nick McCloud (CB, Chicago Bears) cleared to play: Out -> Active [NFL] (ESPN) :: Nick McCloud: cleared to play
 2026-10-26 19:04:23   llm groq-20b: rate limited, skip 177s
+2026-10-26 19:08:27 NEWS [ESPN 13m] Connor Lew (C, Cincinnati Bengals) cleared to play: Out -> Active [NFL]
+2026-10-26 19:08:27   skip Bengals :: Titans vs. Bengals (low conf 0.6)
+2026-10-26 19:08:27   llm groq-120b: rate limited, skip 192s
+2026-10-26 19:08:27   llm groq-20b: rate limited, skip 30s
+2026-10-26 19:08:27 NEWS [ESPN 13m] Landon Robinson (DT, Cincinnati Bengals) cleared to play: Out -> Active [NFL]
+2026-10-26 19:08:27   skip Bengals :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-26 19:08:27 NEWS [ESPN 13m] Shemar Stewart (DE, Cincinnati Bengals) cleared to play: Out -> Active [NFL]
+2026-10-26 19:08:27   skip Bengals :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-26 19:08:27 NEWS [ESPN 13m] Myles Hinton (OT, Cincinnati Bengals) cleared to play: Out -> Active [NFL]
+2026-10-26 19:08:27   skip Bengals :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-26 19:08:27 NEWS [ESPN 13m] Russ Yeast (S, Cincinnati Bengals) cleared to play: Out -> Active [NFL]
+2026-10-26 19:08:27   skip Bengals :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-26 19:10:30   drop[kind] Russian missile strikes on Ukraine's Kharkiv kill two, injure four, mayor says reut.rs/4ii (Reuters) :: other
+2026-10-26 19:11:24   llm groq-20b: rate limited, skip 113s
+2026-10-26 19:11:50 indexed 1038 markets
+2026-10-26 19:12:23   drop[team-not-named] Cleared (Elliotte Friedman) :: Edmonton Oilers
+2026-10-26 19:13:29   llm groq-120b: rate limited, skip 169s
+2026-10-26 19:13:29   llm groq-20b: rate limited, skip 39s
+2026-10-26 19:15:46   drop[unconfirmed] Rasmus Ristolainen to Miss Two Weeks with Upper-Body Injury After Just One Game Back (Philly Sports Reports) :: upper-body injury
+2026-10-26 19:15:46   llm groq-20b: rate limited, skip 178s
+2026-10-26 19:18:06   drop[kind] Vikings RB Jones avoids serious knee injury, day-to-day (ESPN) :: other
+2026-10-26 19:18:06   llm groq-120b: rate limited, skip 196s
+2026-10-26 19:21:54 indexed 1036 markets
+2026-10-26 19:23:01   llm groq-120b: rate limited, skip 213s
+2026-10-26 19:23:03   drop[verify] Ivica Zubac (C, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Zubac not on Pacers
+2026-10-26 19:24:01   llm groq-20b: rate limited, skip 393s
+2026-10-26 19:26:05 NEWS [ESPN 2m] Cason Wallace (G, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]
+2026-10-26 19:26:05   skip Suns :: Suns vs. Thunder (rules fallback, LLM down (not traded))
+2026-10-26 19:26:05 NEWS [ESPN 4m] Chet Holmgren (C, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]
+2026-10-26 19:26:05   skip Suns :: Suns vs. Thunder (rules fallback, LLM down (not traded))
+2026-10-26 19:27:24   drop[team-not-named] Cason Wallace Injury: Out with sore shoulder (RotoWire) :: Boston Celtics
+2026-10-26 19:29:56   llm groq-120b: rate limited, skip 87s
+2026-10-26 19:31:55 indexed 1039 markets
+2026-10-26 19:32:03   llm groq-120b: rate limited, skip 19s
+2026-10-26 19:32:03   drop[1-source] Thunder Lose Two More Key Players After Devastating Jalen Williams Injury (Heavy.com) :: Jalen Williams, wait 2nd source
+2026-10-26 19:33:16   drop[not-key] Kaleb Johnson (RB, Green Bay Packers) cleared to play: Out -> Active [NFL] (ESPN) :: Kaleb Johnson: cleared to play after being inactive
+2026-10-26 19:34:17   llm groq-120b: rate limited, skip 119s
+2026-10-26 19:34:18   drop[not-key] Jager Burton (C, Green Bay Packers) cleared to play: Out -> Active [NFL] (ESPN) :: Jager Burton: return
+2026-10-26 19:34:18   llm groq-20b: rate limited, skip 236s
+2026-10-26 19:34:18 NEWS [ESPN 6m] Donovan Jennings (G, Green Bay Packers) cleared to play: Out -> Active [NFL]
+2026-10-26 19:34:18   skip Packers :: Panthers vs. Packers (rules fallback, LLM down (not traded))
+2026-10-26 19:34:18 NEWS [ESPN 6m] Kevin Zeitler (G, Green Bay Packers) cleared to play: Out -> Active [NFL]
+2026-10-26 19:34:18   skip Packers :: Panthers vs. Packers (rules fallback, LLM down (not traded))
