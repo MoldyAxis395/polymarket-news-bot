@@ -20562,3 +20562,15 @@
 2026-10-26 21:45:52   drop[not-key] Taylor Moton (OT, Carolina Panthers) ruled out: Doubtful -> Injured Reserve [NFL] (ESPN) :: Taylor Moton: injury
 2026-10-26 21:46:41 indexed 983 markets
 2026-10-26 21:49:04   llm groq-20b: rate limited, skip 477s
+2026-10-26 21:56:43 indexed 979 markets
+2026-10-26 21:58:20 NEWS [Sports Illustrated 4m] Final Week 7 Injury Report Gives Desperate Eagles Offense a Huge Boost Hours Before MNF
+2026-10-26 21:58:20   skip Eagles :: Cowboys vs. Eagles (low conf 0.62)
+2026-10-26 21:58:20   llm groq-120b: rate limited, skip 626s
+2026-10-26 21:58:21   drop[not-key] Panthers Announce Taylor Moton Roster Move After Crushing Injury (Heavy.com) :: Taylor Moton: crushing injury
+2026-10-26 22:01:06   drop[no-pick] Jose Alvarado (G, New York Knicks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: no suitable outcome to rise
+2026-10-26 22:06:48 indexed 986 markets
+2026-10-26 22:07:38   drop[unconfirmed] Michael Fasusi opens up about his journey back from injury (Sooners Wire) :: player returning from injury
+2026-10-26 22:10:09   drop[team-not-named] Memphis Depay suffers a new injury and is given a painful nickname (Goal.com) :: Atlético Madrid
+2026-10-26 22:12:15 NEWS [Thunderous Intentions 4m] Thunder's history says they will keep winning after horrific Jalen Williams injury
+2026-10-26 22:12:15   skip Suns :: Suns vs. Thunder (low conf 0.62)
+2026-10-26 22:16:46 indexed 984 markets
