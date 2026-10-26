@@ -20539,3 +20539,26 @@
 2026-10-26 21:14:58   skip Eagles :: Cowboys vs. Eagles (rules fallback, LLM down (not traded))
 2026-10-26 21:16:40 indexed 992 markets
 2026-10-26 21:19:04   drop[kind] Mobile mayor: 1 fired, 2 suspended over $14.7 million scam loss (AL.com) :: other
+2026-10-26 21:23:47   drop[not-key] Chris Brown gets suspended prison sentence in case over London nightclub bottle attack (Los Angeles Times) :: Chris Brown: suspended prison sentence
+2026-10-26 21:23:48 NEWS [News 9 4m] OKC Thunder fans share support for Jalen Williams after injury
+2026-10-26 21:23:48   skip Suns :: Suns vs. Thunder (low conf 0.6)
+2026-10-26 21:23:49   drop[1-source] Eagles activate three players from injured reserve (PhillyVoice) :: Philadelphia Eagles, wait 2nd source
+2026-10-26 21:25:56   drop[kind] CROSSVILLE PEDESTRIAN SUSTAINS SERIOUS INJURY IN RESIDENTIAL DRIVEWAY ACCIDENT (3B Media News) :: other
+2026-10-26 21:26:38 indexed 995 markets
+2026-10-26 21:28:16   drop[1-source] Maiden HS Football Coach Self-Reports DWI, Resigns From Coaching Position & Suspended As T (WHKY) :: Maiden High School Football, wait 2nd source
+2026-10-26 21:28:16   llm groq-120b: rate limited, skip 108s
+2026-10-26 21:28:17   drop[unconfirmed] Four games, no wins - Ulster aim for URC turnaround (BBC) :: winless start
+2026-10-26 21:30:10   llm groq-120b: rate limited, skip 96s
+2026-10-26 21:30:10   drop[not-key] Jacob Monk (C, Green Bay Packers) ruled out: Doubtful -> Injured Reserve [NFL] (ESPN) :: Jacob Monk: injury
+2026-10-26 21:30:32   drop[not-key] Chris Brown Receives Suspended Jail Sentence for 2023 London Nightclub Assault (Rolling Stone Australia) :: Chris Brown: suspended jail sentence
+2026-10-26 21:31:13   drop[not-key] Jack Bech (WR, Las Vegas Raiders) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Jack Bech: injury
+2026-10-26 21:36:40 indexed 987 markets
+2026-10-26 21:37:31   drop[team-not-named] Rasmus Ristolainen out another two weeks after aggravating hand injury (Broad Street Buzz) :: Buffalo Sabres
+2026-10-26 21:42:20   drop[kind] Graph neural network maps hand-injury risk across Hunan manufacturing regions (Bioengineer.org) :: other
+2026-10-26 21:42:21   drop[kind] NBA players horrified after witnessing Jalen Williams' injury (Daily Mail) :: other
+2026-10-26 21:44:28   llm groq-120b: rate limited, skip 765s
+2026-10-26 21:44:29   drop[kind] Northwest Arkansas man accused of holding someone captive for three days, causing 'serious (5newsonline.com) :: other
+2026-10-26 21:44:50   drop[not-key] Dillon Gabriel (QB, Cleveland Browns) cleared to play: Injured Reserve -> Active [NFL] (ESPN) :: Dillon Gabriel: return
+2026-10-26 21:45:52   drop[not-key] Taylor Moton (OT, Carolina Panthers) ruled out: Doubtful -> Injured Reserve [NFL] (ESPN) :: Taylor Moton: injury
+2026-10-26 21:46:41 indexed 983 markets
+2026-10-26 21:49:04   llm groq-20b: rate limited, skip 477s
