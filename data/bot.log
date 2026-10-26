@@ -20975,3 +20975,25 @@
 2026-10-26 20:02:04   drop[no-pick] Sevilla confirmed lineup vs Osasuna: Peque, Rubén Vargas, Robbie Ure ruled out of starting (ESPN) :: None
 2026-10-26 20:04:27   drop[kind] Aaron Jones Avoids Devastating Injury: Expect More Jordan Mason Going Forward (Sports Illustrated) :: other
 2026-10-26 20:05:13   llm groq-120b: rate limited, skip 37s
+2026-10-26 20:09:03   drop[1-source] Texas OT Goosby sustains season-ending knee injury (MajorWager) :: Jared Goosby, wait 2nd source
+2026-10-26 20:11:19   llm groq-120b: rate limited, skip 52s
+2026-10-26 20:11:20   drop[kind] Organoids and organ-on-a-chip models reshape radiation injury research (Bioengineer.org) :: other
+2026-10-26 20:11:57 indexed 1021 markets
+2026-10-26 20:13:24   drop[not-key] Alpha Diallo (F, Denver Nuggets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Alpha Diallo: ruled out due to injury precaution
+2026-10-26 20:19:30   drop[team-not-named] Kurtis Rourke (QB, San Francisco 49ers) cleared to play: Out -> Active [NFL] (ESPN) :: Michigan State Spartans
+2026-10-26 20:22:00 indexed 1013 markets
+2026-10-26 20:22:52   llm groq-120b: rate limited, skip 26s
+2026-10-26 20:22:52   drop[kind] Small RNA shields the blood–brain barrier by silencing DDX58 after injury (Bioengineer.org) :: other
+2026-10-26 20:24:36   drop[not-key] Beau Stephens (G, Seattle Seahawks) cleared to play: Out -> Active [NFL] (ESPN) :: Beau Stephens: cleared from injured list and re‑added to active roster
+2026-10-26 20:24:38   llm groq-120b: rate limited, skip 234s
+2026-10-26 20:24:38   drop[not-key] Robert Henry Jr. (RB, Seattle Seahawks) cleared to play: Out -> Active [NFL] (ESPN) :: Robert Henry Jr.: cleared to play
+2026-10-26 20:24:38   drop[not-key] Billy Schrauth (G, Tampa Bay Buccaneers) cleared to play: Out -> Active [NFL] (ESPN) :: Billy Schrauth: cleared to play
+2026-10-26 20:24:39   drop[not-key] DeMonte Capehart (DT, Tampa Bay Buccaneers) cleared to play: Out -> Active [NFL] (ESPN) :: DeMonte Capehart: cleared to play
+2026-10-26 20:24:39   llm groq-20b: rate limited, skip 293s
+2026-10-26 20:24:39 NEWS [ESPN 11m] Ayden Garnes (CB, Tampa Bay Buccaneers) cleared to play: Out -> Active [NFL]
+2026-10-26 20:24:39   skip Yes :: Will the Tampa Bay Rays win the 2026 World Series? (rules fallback, LLM down (not traded))
+2026-10-26 20:27:38 NEWS [ESPN 0m] Kyle Dugger (S, Cincinnati Bengals) ruled out: Questionable -> Out [NFL]
+2026-10-26 20:27:38   skip Titans :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-26 20:30:30   drop[not-key] Trump administration illegally fired James Comey's daughter, judge rules (BBC) :: Maurene Comey: judge ruled the firing was illegal
+2026-10-26 20:32:02 indexed 1004 markets
+2026-10-26 20:32:07   drop[team-not-named] Chet Holmgren must define offensive ceiling in wake of Jalen Williams injury (Thunderous Intentions) :: Detroit Pistons
