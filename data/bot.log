@@ -20631,3 +20631,20 @@
 2026-10-26 23:45:04   drop[verify] Andrew Nembhard (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Nembhard not impact >5pts
 2026-10-26 23:46:58 indexed 986 markets
 2026-10-26 23:47:03   drop[1-source] Dolphins Running Back Suffers Injury in Win Over Jets (heavy.com) :: Miami Dolphins, wait 2nd source
+2026-10-26 23:51:50   llm groq-120b: rate limited, skip 131s
+2026-10-26 23:51:51   drop[unconfirmed] Victor Hedman Day to Day With Lower-Body Injury (The Hockey News) :: lower-body injury
+2026-10-26 23:57:00 indexed 977 markets
+2026-10-27 00:01:20 NEWS [ESPN 11m] Jake Majors (C, Philadelphia Eagles) ruled out: healthy -> Out [NFL]
+2026-10-27 00:01:20   skip Cowboys :: Cowboys vs. Eagles (low conf 0.62)
+2026-10-27 00:01:20   llm groq-120b: rate limited, skip 302s
+2026-10-27 00:01:21   drop[side] Cole Payton (QB, Philadelphia Eagles) ruled out: Active -> Out [NFL] (ESPN) :: Cowboys vs. Eagles -> Eagles vs fact ruled_out: Cole Payton (Philadelphia Eagles, nfl), bad for Philadelphia Eagles. inj
+2026-10-27 00:03:12   drop[unconfirmed] Christian McCaffrey Has Hamstring Injury, Expected To Be Ready After Bye (Draft Sharks) :: hamstring injury
+2026-10-27 00:03:12   drop[kind] OKC Thunder GM Sam Presti speaks on Cason Wallace, Jalen Williams injury (The Oklahoman) :: other
+2026-10-27 00:03:13   drop[team-not-named] Kings Place Mats Zuccarello On Injured Reserve (Pro Hockey Rumors) :: New York Rangers
+2026-10-27 00:05:31   drop[team-not-named] Eagles-Cowboys inactives: Saquon Barkley will play (Bleeding Green Nation) :: Philadelphia Eagles
+2026-10-27 00:07:01 indexed 987 markets
+2026-10-27 00:09:26   drop[not-key] Emari Demercado (RB, Dallas Cowboys) ruled out: Active -> Out [NFL] (ESPN) :: Emari Demercado: ruled out with injury
+2026-10-27 00:09:27   llm groq-120b: rate limited, skip 178s
+2026-10-27 00:09:28 NEWS [ESPN 16m] Tyrus Wheat (LB, Dallas Cowboys) ruled out: healthy -> Out [NFL]
+2026-10-27 00:09:28   skip Eagles :: Cowboys vs. Eagles (low conf 0.6)
+2026-10-27 00:17:00 indexed 990 markets
