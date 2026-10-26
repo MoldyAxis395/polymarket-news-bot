@@ -20574,3 +20574,25 @@
 2026-10-26 22:12:15 NEWS [Thunderous Intentions 4m] Thunder's history says they will keep winning after horrific Jalen Williams injury
 2026-10-26 22:12:15   skip Suns :: Suns vs. Thunder (low conf 0.62)
 2026-10-26 22:16:46 indexed 984 markets
+2026-10-26 22:23:44   llm groq-120b: rate limited, skip 189s
+2026-10-26 22:23:44   drop[kind] Ravens’ Jesse Minter declines to discuss report about Lamar Jackson injury (Capital Gazette) :: other
+2026-10-26 22:26:04   drop[kind] NFA North student hospitalized after being injured by 'sharp object' during bathroom alter (News12 | Hudson Valley) :: other
+2026-10-26 22:26:05   drop[no-market] All Blacks bolstered by key injury returns for northern tour (ESPN) :: New Zealand All Blacks
+2026-10-26 22:26:47 indexed 993 markets
+2026-10-26 22:28:34   drop[1-source] IIO closes investigation into injury during arrest by Victoria Police officers (CHEK News) :: Victoria Police, wait 2nd source
+2026-10-26 22:28:35   drop[1-source] Lauofo suspended for 24 hours (Samoa Observer) :: Lauofo, wait 2nd source
+2026-10-26 22:30:42   drop[1-source] Khusein Askhabov Disqualified, Suspended After DMMAF Overturns Win (MiddleEasy) :: Khusein Askhabov, wait 2nd source
+2026-10-26 22:32:58   drop[1-source] Vikings Announce Plans at RB Amid Aaron Jones’ Injury (heavy.com) :: Aaron Jones, wait 2nd source
+2026-10-26 22:35:54   drop[kind] Ex-FBI chief James Comey charged again by Trump administration's DOJ reut.rs/3UhSJkc (Reuters) :: other
+2026-10-26 22:36:48 indexed 995 markets
+2026-10-26 22:37:48   llm groq-120b: rate limited, skip 136s
+2026-10-26 22:37:50   drop[verify] Sam Presti, OKC Thunder depth will be tested by Jalen Williams' injury | Carlson (The Oklahoman) :: Jalen Williams is depth, not a starter/star; his injury unlikely to move the Suns vs. Thunder market 5+ points.
+2026-10-26 22:37:50   drop[team-not-named] Patrick Williams (groin) ruled out vs. Boston (NBC Sports) :: Chicago Bulls
+2026-10-26 22:37:51   drop[team-not-named] Patrick Williams Injury: Out again Monday (RotoWire) :: Chicago Bulls
+2026-10-26 22:39:54   drop[1-source] NYSE moves to delist Eve Holding public warrants, trading suspended By Investing.com (Investing.com India) :: Eve Holding, wait 2nd source
+2026-10-26 22:42:13   llm groq-120b: rate limited, skip 70s
+2026-10-26 22:42:13   llm groq-20b: rate limited, skip 116s
+2026-10-26 22:46:16   drop[not-key] Patrick Williams (F, Chicago Bulls) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Patrick Williams: right groin/adductor soreness
+2026-10-26 22:46:46 indexed 992 markets
+2026-10-26 22:47:04   llm groq-120b: rate limited, skip 181s
+2026-10-26 22:47:05   drop[kind] Timberlake Officer Narrowly Escapes Serious Injury as Suspected Drunk Driver Totals Cruise (Hoodline) :: other
