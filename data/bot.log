@@ -20288,3 +20288,36 @@
 2026-10-26 02:18:27   llm groq-20b: rate limited, skip 191s
 2026-10-26 02:19:28   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-10-26 02:19:28   llm groq-120b: rate limited, skip 257s
+2026-10-26 02:22:36   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:22:36   llm groq-20b: rate limited, skip 189s
+2026-10-26 02:24:37   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:24:37   llm groq-120b: rate limited, skip 264s
+2026-10-26 02:25:47 indexed 1023 markets
+2026-10-26 02:25:49   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:25:49   llm groq-20b: rate limited, skip 274s
+2026-10-26 02:29:43   drop[1-source] OKC Thunder Star Jalen Williams Exits Clippers’ Game with Apparent Leg Injury (Sports Illustrated) :: Jalen Williams, wait 2nd source
+2026-10-26 02:29:43   llm groq-120b: rate limited, skip 77s
+2026-10-26 02:30:58   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:30:58   llm groq-20b: rate limited, skip 288s
+2026-10-26 02:31:59   llm groq-120b: rate limited, skip 39s
+2026-10-26 02:33:01   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:33:01   llm groq-120b: rate limited, skip 179s
+2026-10-26 02:35:49 indexed 1022 markets
+2026-10-26 02:36:03   llm groq-120b: rate limited, skip 54s
+2026-10-26 02:36:03   llm groq-20b: rate limited, skip 44s
+2026-10-26 02:36:51   llm groq-20b: rate limited, skip 3s
+2026-10-26 02:37:04   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:37:04   llm groq-120b: rate limited, skip 310s
+2026-10-26 02:37:05   llm groq-20b: rate limited, skip 192s
+2026-10-26 02:37:05   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-10-26 02:40:32   llm groq-20b: rate limited, skip 21s
+2026-10-26 02:41:09   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:41:09   llm groq-20b: rate limited, skip 319s
+2026-10-26 02:43:10   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:43:10   llm groq-120b: rate limited, skip 221s
+2026-10-26 02:45:50 indexed 1026 markets
+2026-10-26 02:46:53   drop[team-not-named] Lula wins reelection in historic runoff, setting up tense political battle politi.co/4idXs (Politico) :: Brazilian Workers' Party (PT)
+2026-10-26 02:47:14   llm groq-120b: rate limited, skip 210s
+2026-10-26 02:47:15   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 02:47:15   llm groq-20b: rate limited, skip 130s
+2026-10-26 02:49:27 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
