@@ -20220,3 +20220,39 @@
 2026-10-26 01:18:04 NEWS [ESPN 2m] Karim Lopez (F, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA]
 2026-10-26 01:18:04   skip Jazz :: Grizzlies vs. Jazz (rules fallback, LLM down (not traded))
 2026-10-26 01:18:04   skip Kings :: Grizzlies vs. Kings (rules fallback, LLM down (not traded))
+2026-10-26 01:21:09   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:21:09   llm groq-120b: rate limited, skip 270s
+2026-10-26 01:23:09   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:23:09   llm groq-20b: rate limited, skip 264s
+2026-10-26 01:25:39 indexed 1023 markets
+2026-10-26 01:26:13   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:26:13   llm groq-120b: rate limited, skip 129s
+2026-10-26 01:28:13   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:28:13   llm groq-20b: rate limited, skip 233s
+2026-10-26 01:29:14   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:29:14   llm groq-120b: rate limited, skip 224s
+2026-10-26 01:32:18   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:32:18   llm groq-20b: rate limited, skip 313s
+2026-10-26 01:33:20   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:33:20   llm groq-120b: rate limited, skip 260s
+2026-10-26 01:35:42 indexed 1017 markets
+2026-10-26 01:35:44 NEWS [ESPN 13m] Jaylin Williams (F, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]
+2026-10-26 01:35:44   skip Suns :: Suns vs. Thunder (rules fallback, LLM down (not traded))
+2026-10-26 01:37:45   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:37:45   llm groq-120b: rate limited, skip 69s
+2026-10-26 01:37:45   llm groq-20b: rate limited, skip 220s
+2026-10-26 01:37:45   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-10-26 01:39:47   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:39:47   llm groq-120b: rate limited, skip 196s
+2026-10-26 01:41:48   llm groq-20b: rate limited, skip 10s
+2026-10-26 01:42:49   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:42:49   llm groq-20b: rate limited, skip 279s
+2026-10-26 01:43:50   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:43:50   llm groq-120b: rate limited, skip 97s
+2026-10-26 01:45:42 indexed 1020 markets
+2026-10-26 01:45:52   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:45:52   llm groq-120b: rate limited, skip 242s
+2026-10-26 01:47:54   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:47:54   llm groq-20b: rate limited, skip 196s
+2026-10-26 01:48:22 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-26 01:49:55   llm groq-120b: rate limited, skip 9s
