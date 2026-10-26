@@ -20117,3 +20117,34 @@
 2026-10-26 03:30:51   skip Jazz :: Grizzlies vs. Jazz (rules fallback, LLM down (not traded))
 2026-10-26 03:32:30   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-10-26 03:32:30   llm groq-20b: rate limited, skip 286s
+2026-10-26 03:35:33   llm groq-120b: rate limited, skip 63s
+2026-10-26 03:37:35   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 03:37:36   llm groq-120b: rate limited, skip 238s
+2026-10-26 03:37:36   llm groq-20b: rate limited, skip 158s
+2026-10-26 03:37:36   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-10-26 03:40:30 indexed 1022 markets
+2026-10-26 03:40:55   drop[not-key] Jalen Williams suffers gruesome leg injury, stretchered off court in Thunder's victory ove (Yahoo Sports) :: Jalen Williams: injury
+2026-10-26 03:40:57   llm groq-20b: rate limited, skip 244s
+2026-10-26 03:41:59   llm groq-120b: rate limited, skip 7s
+2026-10-26 03:43:01   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 03:43:01   llm groq-120b: rate limited, skip 179s
+2026-10-26 03:45:03   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 03:45:03   llm groq-20b: rate limited, skip 406s
+2026-10-26 03:46:04   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 03:46:04   llm groq-120b: rate limited, skip 167s
+2026-10-26 03:49:07   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 03:49:07   llm groq-120b: rate limited, skip 254s
+2026-10-26 03:50:33 indexed 1026 markets
+2026-10-26 03:52:12   drop[1-source] J.J. McCarthy’s impressive first start gives Giants back what was crushed by Jaxson Dart i (New York Post) :: J.J. McCarthy, wait 2nd source
+2026-10-26 03:52:35   llm groq-20b: rate limited, skip 332s
+2026-10-26 03:53:36   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 03:53:37   llm groq-120b: rate limited, skip 175s
+2026-10-26 03:56:39   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 03:56:39   llm groq-120b: rate limited, skip 349s
+2026-10-26 03:58:42   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 03:58:42   llm groq-20b: rate limited, skip 216s
+2026-10-26 04:00:34 indexed 1025 markets
+2026-10-26 04:02:45   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 04:02:46   llm groq-120b: rate limited, skip 254s
+2026-10-26 04:02:46   llm groq-20b: rate limited, skip 149s
+2026-10-26 04:02:46   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
