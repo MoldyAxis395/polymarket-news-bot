@@ -20521,3 +20521,21 @@
 2026-10-26 20:46:42   skip Thunder :: Suns vs. Thunder (rules fallback, LLM down (not traded))
 2026-10-26 20:46:42 NEWS [ESPN 0m] Mark Jankowski (C, Carolina Hurricanes) ruled out: Day-To-Day -> Out [NHL]
 2026-10-26 20:46:42   skip Bruins :: Bruins vs. Hurricanes (rules fallback, LLM down (not traded))
+2026-10-26 20:53:37   drop[kind] Jordan strikes southern Syria after linking church attackers to 'terrorist groups' (Latest news from Azerbaijan) :: other
+2026-10-26 20:56:06   drop[kind] Bills Face Lamar Jackson Injury Question Ahead of Week 8 Ravens Showdown (heavy.com) :: other
+2026-10-26 20:56:39 indexed 989 markets
+2026-10-26 21:02:51   llm groq-120b: rate limited, skip 912s
+2026-10-26 21:02:52   drop[1-source] Louisville family court judge suspended for 30 days after 'numerous complaints' (The Courier-Journal) :: Louisville family court, wait 2nd source
+2026-10-26 21:02:53   drop[kind] Ben Shelton addresses injury absences of Carlos Alcaraz and Jannik Sinner (Tennis Tonic) :: other
+2026-10-26 21:05:23   drop[team-not-named] Suspended Pretoria chief magistrate pleads not guilty in Bosasa-linked corruption trial (News24) :: Bosasa
+2026-10-26 21:06:41 indexed 1007 markets
+2026-10-26 21:12:09   drop[kind] Derrick Jones Jr. now a no-brainer trade target in wake of Jalen Williams injury (Thunderous Intentions) :: other
+2026-10-26 21:12:09   llm groq-20b: rate limited, skip 545s
+2026-10-26 21:14:58 NEWS [ESPN 10m] Landon Dickerson (G, Philadelphia Eagles) cleared to play: Injured Reserve -> Active [NFL]
+2026-10-26 21:14:58   skip Eagles :: Cowboys vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-26 21:14:58 NEWS [ESPN 11m] Eli Stowers (TE, Philadelphia Eagles) cleared to play: Injured Reserve -> Active [NFL]
+2026-10-26 21:14:58   skip Eagles :: Cowboys vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-26 21:14:58 NEWS [ESPN 11m] Grant Calcaterra (TE, Philadelphia Eagles) cleared to play: Injured Reserve -> Active [NFL]
+2026-10-26 21:14:58   skip Eagles :: Cowboys vs. Eagles (rules fallback, LLM down (not traded))
+2026-10-26 21:16:40 indexed 992 markets
+2026-10-26 21:19:04   drop[kind] Mobile mayor: 1 fired, 2 suspended over $14.7 million scam loss (AL.com) :: other
