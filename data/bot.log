@@ -20926,3 +20926,52 @@
 2026-10-26 19:34:18   skip Packers :: Panthers vs. Packers (rules fallback, LLM down (not traded))
 2026-10-26 19:34:18 NEWS [ESPN 6m] Kevin Zeitler (G, Green Bay Packers) cleared to play: Out -> Active [NFL]
 2026-10-26 19:34:18   skip Packers :: Panthers vs. Packers (rules fallback, LLM down (not traded))
+2026-10-26 19:37:24   llm groq-120b: rate limited, skip 29s
+2026-10-26 19:37:24 NEWS [ESPN 7m] Oso Ighodaro (F, Phoenix Suns) ruled out: Day-To-Day -> Out [NBA]
+2026-10-26 19:37:24   skip Thunder :: Suns vs. Thunder (rules fallback, LLM down (not traded))
+2026-10-26 19:38:25   drop[not-key] Jackson Meeks (WR, Detroit Lions) cleared to play: Out -> Active [NFL] (ESPN) :: Jackson Meeks: cleared to play
+2026-10-26 19:38:25   llm groq-120b: rate limited, skip 185s
+2026-10-26 19:38:26   drop[not-key] Bishop Fitzgerald (S, Detroit Lions) cleared to play: Out -> Active [NFL] (ESPN) :: Bishop Fitzgerald: cleared to play
+2026-10-26 19:38:26   llm groq-20b: rate limited, skip 261s
+2026-10-26 19:38:26 NEWS [ESPN 12m] Ahmed Hassanein (DE, Detroit Lions) cleared to play: Out -> Active [NFL]
+2026-10-26 19:38:26   skip Lions :: Vikings vs. Lions (rules fallback, LLM down (not traded))
+2026-10-26 19:38:26 NEWS [ESPN 12m] Mekhi Wingo (DT, Detroit Lions) cleared to play: Out -> Active [NFL]
+2026-10-26 19:38:26   skip Lions :: Vikings vs. Lions (rules fallback, LLM down (not traded))
+2026-10-26 19:38:26 NEWS [ESPN 12m] Seth McLaughlin (C, Detroit Lions) cleared to play: Out -> Active [NFL]
+2026-10-26 19:38:26   skip Lions :: Vikings vs. Lions (rules fallback, LLM down (not traded))
+2026-10-26 19:41:52 indexed 1038 markets
+2026-10-26 19:43:34   drop[kind] Sam Presti to hold emergency press conference following Jalen Williams' injury (OKC Thunder Wire) :: other
+2026-10-26 19:45:52   llm groq-120b: rate limited, skip 54s
+2026-10-26 19:45:53   drop[unconfirmed] Seahawks Get Good News on 2-Time Pro Bowler Following Injury Scare (Heavy.com) :: cleared after injury scare
+2026-10-26 19:45:53   llm groq-20b: rate limited, skip 268s
+2026-10-26 19:47:31   llm groq-120b: rate limited, skip 304s
+2026-10-26 19:47:31   drop[no-pick] Paris Saint-Germain confirmed lineup vs Lyon: Lucas Hernández, Marquinhos, Ousmane Dembélé (ESPN) :: None
+2026-10-26 19:50:31   drop[unconfirmed] Magic news: Jalen Suggs avoids significant knee injury but will miss at least 2 weeks (ClutchPoints) :: will miss at least 2 weeks
+2026-10-26 19:51:56 indexed 1031 markets
+2026-10-26 19:52:01   llm groq-20b: rate limited, skip 189s
+2026-10-26 19:54:05   drop[not-key] DJ Campbell (G, Miami Dolphins) cleared to play: Out -> Active [NFL] (ESPN) :: DJ Campbell: cleared to play, moved from out to active
+2026-10-26 19:54:05   llm groq-120b: rate limited, skip 152s
+2026-10-26 19:55:04 NEWS [ESPN 16m] Elijah Williams (DE, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-26 19:55:04   skip Vikings :: Vikings vs. Lions (rules fallback, LLM down (not traded))
+2026-10-26 19:55:04 NEWS [ESPN 16m] Demond Claiborne (RB, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-26 19:55:04   skip Vikings :: Vikings vs. Lions (rules fallback, LLM down (not traded))
+2026-10-26 19:55:04 NEWS [ESPN 16m] Caleb Tiernan (OT, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-26 19:55:04   skip Vikings :: Vikings vs. Lions (rules fallback, LLM down (not traded))
+2026-10-26 19:55:04 NEWS [ESPN 16m] Charles Demmings (CB, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-26 19:55:04   skip Vikings :: Vikings vs. Lions (rules fallback, LLM down (not traded))
+2026-10-26 19:55:04 NEWS [ESPN 16m] Jakobe Thomas (S, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-26 19:55:04   skip Vikings :: Vikings vs. Lions (rules fallback, LLM down (not traded))
+2026-10-26 19:55:04 NEWS [ESPN 16m] Max Brosmer (QB, Minnesota Vikings) cleared to play: Out -> Active [NFL]
+2026-10-26 19:55:04   skip Vikings :: Vikings vs. Lions (rules fallback, LLM down (not traded))
+2026-10-26 19:57:40   drop[team-not-named] Jalen Suggs out at least two weeks with knee injury (HoopsHype) :: Orlando Magic
+2026-10-26 19:57:40   llm groq-120b: rate limited, skip 234s
+2026-10-26 19:57:41   drop[team-not-named] Suspended chief magistrate Desmond Nair pleads not guilty in R200,000 Bosasa corruption ca (IOL) :: South African judiciary
+2026-10-26 19:59:07   llm groq-20b: rate limited, skip 167s
+2026-10-26 19:59:07 NEWS [ESPN 15m] Jalen Suggs (G, Orlando Magic) ruled out: Day-To-Day -> Out [NBA]
+2026-10-26 19:59:07   skip BIG :: Counter-Strike: magic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs (rules fallback, LLM down (not traded))
+2026-10-26 20:01:58 indexed 1031 markets
+2026-10-26 20:02:03   llm groq-120b: rate limited, skip 10s
+2026-10-26 20:02:04   llm groq-20b: rate limited, skip 299s
+2026-10-26 20:02:04   drop[no-pick] Sevilla confirmed lineup vs Osasuna: Peque, Rubén Vargas, Robbie Ure ruled out of starting (ESPN) :: None
+2026-10-26 20:04:27   drop[kind] Aaron Jones Avoids Devastating Injury: Expect More Jordan Mason Going Forward (Sports Illustrated) :: other
+2026-10-26 20:05:13   llm groq-120b: rate limited, skip 37s
