@@ -20186,3 +20186,37 @@
 2026-10-26 00:45:03   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
 2026-10-26 00:45:34 indexed 1028 markets
 2026-10-26 00:47:29 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-26 00:50:06   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 00:50:06   llm groq-120b: rate limited, skip 176s
+2026-10-26 00:50:06   llm groq-20b: rate limited, skip 6s
+2026-10-26 00:50:19   drop[1-source] Wayne County kids soccer coach suspended over alleged relationship with minor player (ClickOnDetroit | WDIV Local 4) :: Wayne County youth soccer team, wait 2nd source
+2026-10-26 00:51:07   llm groq-20b: rate limited, skip 96s
+2026-10-26 00:53:09   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 00:53:10   llm groq-120b: rate limited, skip 342s
+2026-10-26 00:53:10   llm groq-20b: rate limited, skip 104s
+2026-10-26 00:55:35 indexed 1034 markets
+2026-10-26 00:55:42   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 00:55:42   llm groq-20b: rate limited, skip 348s
+2026-10-26 00:59:34   drop[kind] Steelers Rival Suffers Yet Another Critical Injury Blow (Steelers Now) :: other
+2026-10-26 00:59:40   llm groq-120b: rate limited, skip 189s
+2026-10-26 01:01:42   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:01:42   llm groq-20b: rate limited, skip 265s
+2026-10-26 01:03:44   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:03:44   llm groq-120b: rate limited, skip 238s
+2026-10-26 01:05:34 indexed 1015 markets
+2026-10-26 01:06:26   drop[1-source] Spain Accelerates Consular Operations Over Weekend to Deliver List of Nationalized Spaniar (CubaHeadlines) :: Supreme Court of Spain, wait 2nd source
+2026-10-26 01:06:45   llm groq-20b: rate limited, skip 286s
+2026-10-26 01:07:46   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:07:46   llm groq-120b: rate limited, skip 270s
+2026-10-26 01:11:56   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:11:56   llm groq-20b: rate limited, skip 288s
+2026-10-26 01:12:56   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:12:56   llm groq-120b: rate limited, skip 182s
+2026-10-26 01:15:39 indexed 1013 markets
+2026-10-26 01:16:00   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:16:00   llm groq-120b: rate limited, skip 287s
+2026-10-26 01:17:02   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-10-26 01:17:02   llm groq-20b: rate limited, skip 331s
+2026-10-26 01:18:04 NEWS [ESPN 2m] Karim Lopez (F, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA]
+2026-10-26 01:18:04   skip Jazz :: Grizzlies vs. Jazz (rules fallback, LLM down (not traded))
+2026-10-26 01:18:04   skip Kings :: Grizzlies vs. Kings (rules fallback, LLM down (not traded))
