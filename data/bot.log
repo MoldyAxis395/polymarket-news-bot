@@ -20616,3 +20616,18 @@
 2026-10-26 23:17:56   drop[verify] 'We’re not doing great': What Jalen Williams' injury means for Thunder (Yahoo Sports) :: Roster unclear and player impact likely insufficient
 2026-10-26 23:21:00   llm groq-120b: rate limited, skip 98s
 2026-10-26 23:21:01   drop[1-source] Pacers win in Brooklyn, but lose Ivica Zubac to ankle injury (www.fieldhousefiles.com) :: Ivica Zubac, wait 2nd source
+2026-10-26 23:26:55 indexed 989 markets
+2026-10-26 23:27:47   drop[kind] PEDESTRIAN SUSTAINS SERIOUS INJURY IN CROSSVILLE DRIVEWAY ACCIDENT (3B Media News) :: other
+2026-10-26 23:30:28   llm groq-120b: rate limited, skip 586s
+2026-10-26 23:30:28   drop[not-key] De'Zhaun Stribling (WR, San Francisco 49ers) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: De'Zhaun Stribling: injured
+2026-10-26 23:30:50   drop[not-key] NFL news: Cardinals WR suffered season-ending injury vs. Broncos (Broncos Wire) :: Jalen Reagor: season-ending injury
+2026-10-26 23:30:51   llm groq-20b: rate limited, skip 31s
+2026-10-26 23:31:30   drop[not-key] Tip Reiman (TE, Arizona Cardinals) ruled out: healthy -> Out [NFL] (ESPN) :: Tip Reiman: injury
+2026-10-26 23:31:37   drop[kind] Rams say they still don’t know when Myles Garrett will return from knee injury (Yahoo Sports) :: other
+2026-10-26 23:36:23   llm groq-20b: rate limited, skip 70s
+2026-10-26 23:36:58 indexed 980 markets
+2026-10-26 23:42:56 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-26 23:43:59   drop[team-not-named] Chris Brown Nightclub Video Emerges After Eight-Month Suspended Sentence in London (International Business Times UK) :: Fulham FC
+2026-10-26 23:45:04   drop[verify] Andrew Nembhard (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Nembhard not impact >5pts
+2026-10-26 23:46:58 indexed 986 markets
+2026-10-26 23:47:03   drop[1-source] Dolphins Running Back Suffers Injury in Win Over Jets (heavy.com) :: Miami Dolphins, wait 2nd source
