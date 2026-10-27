@@ -21139,3 +21139,20 @@
 2026-10-27 21:48:17   drop[1-source] Lakers news: LA makes roster decision on rookie guard amid injury (ClutchPoints) :: Los Angeles Lakers, wait 2nd source
 2026-10-27 21:50:34   llm groq-120b: rate limited, skip 88s
 2026-10-27 21:50:35   drop[team-not-named] Tyronn Lue called Rui Hachimura’s injury a … (HoopsHype) :: Washington Wizards
+2026-10-27 21:53:32 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 5)
+2026-10-27 21:53:34 [pengwin] TORINO-COMO: no Polymarket event (try 5)
+2026-10-27 21:53:37   llm groq-120b: rate limited, skip 719s
+2026-10-27 21:53:37   llm groq-20b: rate limited, skip 689s
+2026-10-27 21:53:37 [pengwin] VENEZIA-INTER: no LLM answer (try 5)
+2026-10-27 21:58:11 indexed 1029 markets
+2026-10-27 22:02:35 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-27 22:03:16 NEWS [ESPN 13m] Justin Champagnie (F, Washington Wizards) ruled out: Day-To-Day -> Out [NBA]
+2026-10-27 22:03:16   skip Cavaliers :: Wizards vs. Cavaliers (rules fallback, LLM down (not traded))
+2026-10-27 22:08:19 indexed 1026 markets
+2026-10-27 22:13:58   drop[1-source] Kamario Taylor, Mississippi State quarterback with season-ending injury in 2026 (The Clarion-Ledger) :: Kamario Taylor, wait 2nd source
+2026-10-27 22:14:34   drop[verify] Ivica Zubac (C, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Ivica Zubac does not play for the Pacers
+2026-10-27 22:14:35   drop[not-key] Jabari Walker (F, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Jabari Walker: left knee soreness
+2026-10-27 22:18:20 indexed 1025 markets
+2026-10-27 22:20:45   drop[kind] Two police officers out, three suspended after response to AI elementary school threat (KABB) :: other
+2026-10-27 22:20:46   llm groq-120b: rate limited, skip 140s
+2026-10-27 22:20:46   drop[not-key] Washington Wizards Make Major AJ Dybantsa Injury Announcement Before Cavaliers Game (Heavy.com) :: AJ Dybantsa: injury
