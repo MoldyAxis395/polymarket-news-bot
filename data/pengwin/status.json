@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T19:46:53",
+ "updated": "2026-10-27T19:52:14",
  "start": 100.0,
- "cash": 97.99,
- "equity": 133.53,
+ "cash": 117.99,
+ "equity": 134.1,
  "open": [
   {
    "market_id": "5679331",
@@ -20,42 +20,6 @@
    "conf": 1.0,
    "end": "2026-10-27T17:30:00+00:00",
    "last_bid": 0.999,
-   "book_err": false
-  },
-  {
-   "market_id": "5674369",
-   "question": "Will AS Roma win on 2026-10-27?",
-   "slug": "sea-rom-cag-2026-10-27-rom",
-   "outcome": "Yes",
-   "token": "4812301876744106260304617318991840959916402912257803987551795222423030783476",
-   "shares": 13.157894736842104,
-   "entry": 0.76,
-   "cost": 10.0,
-   "opened": 1793120987.976666,
-   "opened_iso": "2026-10-27T17:09:47+00:00",
-   "news": "ROMA-CAGLIARI: 1 (esatto)",
-   "reason": "pengwin exact: replicates home win",
-   "conf": 1.0,
-   "end": "2026-10-27T19:45:00+00:00",
-   "last_bid": 0.73,
-   "book_err": false
-  },
-  {
-   "market_id": "5674420",
-   "question": "Will Como 1907 win on 2026-10-27?",
-   "slug": "sea-tor-com-2026-10-27-com",
-   "outcome": "Yes",
-   "token": "110539360057064476058330374981837519066530491344630988553267659446014679607454",
-   "shares": 17.857142857142854,
-   "entry": 0.56,
-   "cost": 10.0,
-   "opened": 1793120992.2490222,
-   "opened_iso": "2026-10-27T17:09:52+00:00",
-   "news": "TORINO-COMO: 2 (esatto)",
-   "reason": "pengwin exact: base pick",
-   "conf": 1.0,
-   "end": "2026-10-27T19:45:00+00:00",
-   "last_bid": 0.55,
    "book_err": false
   }
  ],
