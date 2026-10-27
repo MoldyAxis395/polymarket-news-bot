@@ -21078,3 +21078,16 @@
 2026-10-27 19:33:32   drop[team-not-named] Maja Chwalińska Exits 2026 Pan Pacific Open with Thigh Injury (Just Women's Sports) :: Poland
 2026-10-27 19:35:51   llm groq-120b: rate limited, skip 25s
 2026-10-27 19:35:51   drop[kind] US energy firms to produce record natgas in 2026 as global demand soars reut.rs/4BslMSS (Reuters) :: other
+2026-10-27 19:40:15   drop[1-source] Rabiot Out for Bologna as Milan Injuries Mount Before Derby (The False 9) :: Adrien Rabiot, wait 2nd source
+2026-10-27 19:41:38   llm groq-120b: rate limited, skip 671s
+2026-10-27 19:41:39   llm groq-20b: rate limited, skip 486s
+2026-10-27 19:41:39 [pengwin] PARMA-UDINESE: no LLM answer (try 3)
+2026-10-27 19:41:41 [pengwin] VENEZIA-INTER: no Polymarket event (try 3)
+2026-10-27 19:41:43 [pengwin] GENOA-JUVENTUS: no LLM answer (try 3)
+2026-10-27 19:41:46 [pengwin] MONZA-NAPOLI: no LLM answer (try 3)
+2026-10-27 19:41:48 [pengwin] FROSINONE-LECCE: no LLM answer (try 3)
+2026-10-27 19:41:51 [pengwin] FIORENTINA-ATALANTA: no LLM answer (try 3)
+2026-10-27 19:43:15 indexed 1066 markets
+2026-10-27 19:45:28 NEWS [ESPN 12m] Erick All Jr. (TE, Cincinnati Bengals) ruled out: Questionable -> Injured Reserve [NFL]
+2026-10-27 19:45:28   skip Titans :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-27 19:47:00 shift over, state saved
