@@ -21021,3 +21021,29 @@
 2026-10-27 18:33:07 indexed 1076 markets
 2026-10-27 18:33:13   drop[kind] Aleksib receives suspended sentence for aggravated tax fraud (Skin.Club Community) :: other
 2026-10-27 18:35:31   drop[1-source] Women’s Hockey Coach Philippe Bérubé Fired by Hockey Sherbrooke, Suspended by Hockey Québe (The Hockey News) :: Philippe Bérubé, wait 2nd source
+2026-10-27 18:39:45   llm groq-120b: rate limited, skip 633s
+2026-10-27 18:39:46 [pengwin] skip MILAN-BOLOGNA [Under 10.5 corners]: no matching market
+2026-10-27 18:39:49   llm groq-20b: rate limited, skip 150s
+2026-10-27 18:39:49 [pengwin] PARMA-UDINESE: no LLM answer (try 1)
+2026-10-27 18:39:51 [pengwin] VENEZIA-INTER: no Polymarket event (try 1)
+2026-10-27 18:39:53 [pengwin] GENOA-JUVENTUS: no LLM answer (try 1)
+2026-10-27 18:39:56 [pengwin] MONZA-NAPOLI: no LLM answer (try 1)
+2026-10-27 18:39:59 [pengwin] FROSINONE-LECCE: no LLM answer (try 1)
+2026-10-27 18:40:01 [pengwin] FIORENTINA-ATALANTA: no LLM answer (try 1)
+2026-10-27 18:42:31   drop[no-pick] Mississippi State QB Kamario Taylor out: Heisman candidate to miss season, per report (Austin American-Statesman) :: short
+2026-10-27 18:42:32   drop[1-source] Fiorentina, Pongracic has an injury: the medical report (Goal.com) :: Pongracic, wait 2nd source
+2026-10-27 18:43:08 indexed 1072 markets
+2026-10-27 18:44:51   llm groq-20b: rate limited, skip 69s
+2026-10-27 18:47:21   drop[not-key] 76ers apply for disabled player exception after Ariel Hukporti injury (TalkBasket.net) :: Ariel Hukporti: injury
+2026-10-27 18:49:26   llm groq-20b: rate limited, skip 116s
+2026-10-27 18:51:46   drop[kind] High-speed chase results in injury crash in Louisville that ejected passenger, police say (WHAS11) :: other
+2026-10-27 18:53:08 indexed 1066 markets
+2026-10-27 18:54:05   drop[1-source] Bengals Hit With Crushing Erick All Jr. Injury News After Ravens Win (Heavy.com) :: Erick All Jr, wait 2nd source
+2026-10-27 18:54:06   drop[kind] Saints waiting for scan results after Smith suffers injury (Northamptonshire Telegraph) :: other
+2026-10-27 18:54:06   llm groq-120b: rate limited, skip 133s
+2026-10-27 18:54:06   drop[1-source] XLOV’s Hyun to Sit Out Comeback Showcase Due to Leg Injury (OtakuKart) :: Hyun, wait 2nd source
+2026-10-27 18:58:40   drop[1-source] Deon Fourie injury adds to Springbok concerns (Talking Rugby Union) :: Deon Fourie, wait 2nd source
+2026-10-27 19:03:10 indexed 1051 markets
+2026-10-27 19:03:16   drop[1-source] Benhard Janse van Rensburg stood down from rugby as England sweat over Fin Smith injury (Yahoo) :: Benhard Janse van Rensburg, wait 2nd source
+2026-10-27 19:03:16   llm groq-120b: rate limited, skip 204s
+2026-10-27 19:03:17   drop[1-source] Joy Behar Returns to 'The View' After Month-Long Absence, Says On-Set Injury Was 'Worse Th (OK Magazine) :: Joy Behar, wait 2nd source

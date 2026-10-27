@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T18:36:14",
+ "updated": "2026-10-27T19:07:12",
  "start": 100.0,
  "cash": 97.99,
- "equity": 129.45,
+ "equity": 133.79,
  "open": [
   {
    "market_id": "5679331",
@@ -19,7 +19,7 @@
    "reason": "pengwin exact: replicates base pick",
    "conf": 1.0,
    "end": "2026-10-27T17:30:00+00:00",
-   "last_bid": 0.73,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -62,10 +62,10 @@
  "closed_count": 46,
  "realized_pnl": 27.99,
  "pages": {
-  "pending": 100,
+  "pending": 99,
   "picked": 1,
   "traded": 49,
-  "skipped": 137,
+  "skipped": 138,
   "expired": 101
  }
 }
