@@ -21241,3 +21241,34 @@
 2026-10-28 00:18:35 indexed 989 markets
 2026-10-28 00:21:01 feed politico error x1: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 2026-10-28 00:21:02   drop[team-not-named] Brandon Woodruff on returning from injury for Game 3 (MLB.com) :: Milwaukee Brewers
+2026-10-28 00:23:35   drop[1-source] Theryn Hallock back from injury with new perspective for MSU women's basketball (Lansing State Journal) :: Theryn Hallock, wait 2nd source
+2026-10-28 00:23:35   llm groq-120b: rate limited, skip 92s
+2026-10-28 00:23:35   drop[kind] 1 in 5 workers suffering a mental health injury (Independent Education Union) :: other
+2026-10-28 00:25:38   drop[not-key] Isaiah Joe Injury: Ruled out Tuesday (RotoWire) :: Isaiah Joe: injury
+2026-10-28 00:26:35   llm groq-120b: rate limited, skip 23s
+2026-10-28 00:26:35 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 9)
+2026-10-28 00:26:37 [pengwin] TORINO-COMO: no Polymarket event (try 10)
+2026-10-28 00:27:55   llm groq-120b: rate limited, skip 77s
+2026-10-28 00:27:55   drop[team-not-named] Anthony Edwards injury takes major sting out of Warriors-Timberwolves matchup (Blue Man Hoop) :: Minnesota Timberwolves
+2026-10-28 00:27:56   drop[1-source] Utah Jazz Make Lauri Markkanen Injury Announcement Before Spurs Game (Heavy.com) :: Lauri Markkanen, wait 2nd source
+2026-10-28 00:28:38 indexed 974 markets
+2026-10-28 00:29:40   llm groq-120b: rate limited, skip 26s
+2026-10-28 00:29:40   llm groq-20b: rate limited, skip 21s
+2026-10-28 00:29:40 NEWS [ESPN 9m] Isaiah Joe (G, Detroit Pistons) ruled out: Day-To-Day -> Out [NBA]
+2026-10-28 00:29:40   skip Knicks :: Pistons vs. Knicks (rules fallback, LLM down (not traded))
+2026-10-28 00:29:40   skip Nets :: Pistons vs. Nets (rules fallback, LLM down (not traded))
+2026-10-28 00:29:40   skip Hornets :: Hornets vs. Pistons (rules fallback, LLM down (not traded))
+2026-10-28 00:30:16   drop[1-source] Mikel Arteta Reveals Triple Arsenal Injury Blow after Cup Exit (roundtable.io) :: Arsenal FC, wait 2nd source
+2026-10-28 00:34:53   drop[kind] Breakout Bills WR Drops Cryptic Hint About Return After Injury (Heavy.com) :: other
+2026-10-28 00:37:09   llm groq-120b: rate limited, skip 145s
+2026-10-28 00:37:10   drop[no-market] Suspended Durham constable accused of child luring, sexual exploitation (Toronto Sun) :: Durham Police Service
+2026-10-28 00:38:40 indexed 974 markets
+2026-10-28 00:39:31   drop[kind] SK Hynix third-quarter profit sharply beats estimates on AI memory boost (CNBC) :: other
+2026-10-28 00:42:00   drop[kind] 28-year-old man with famous outlaw’s name arrested in Antioch for battery with serious bod (Antioch Herald) :: other
+2026-10-28 00:46:27   drop[1-source] Two huge British stars ‘ruled out as James Bond’s mystery fourth actor in the running’ as  (The Irish Sun) :: James Bond film casting, wait 2nd source
+2026-10-28 00:48:39 indexed 975 markets
+2026-10-28 00:48:44   llm groq-120b: rate limited, skip 58s
+2026-10-28 00:48:44   drop[team-not-named] Taylor Hall Injury: Not playing Tuesday (RotoWire) :: Edmonton Oilers
+2026-10-28 00:51:16   llm groq-120b: rate limited, skip 134s
+2026-10-28 00:51:19   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-28 00:51:19   drop[verify] Timberwolves' Anthony Edwards facing lengthy layoff after knee injury (Yardbarker) :: no answer
