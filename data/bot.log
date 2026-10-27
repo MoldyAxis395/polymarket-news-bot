@@ -21204,3 +21204,15 @@
 2026-10-27 23:15:00   drop[unconfirmed] Sergio de Larrea (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: knee strain
 2026-10-27 23:18:28 indexed 989 markets
 2026-10-27 23:18:45   drop[team-not-named] Joao Pedro ruled out for weeks with thigh injury, Emmanuel Emegha available for Carabao Cu (SSBCrack) :: Wolverhampton Wanderers
+2026-10-27 23:23:14   drop[1-source] Matt Able ruled out for UNC basketball's preseason finale against Charlotte (Keeping It Heel) :: Matt Able, wait 2nd source
+2026-10-27 23:25:21 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 7)
+2026-10-27 23:25:23 [pengwin] TORINO-COMO: no Polymarket event (try 8)
+2026-10-27 23:25:25   llm groq-120b: rate limited, skip 83s
+2026-10-27 23:25:26 [pengwin] skip VENEZIA-INTER [over 1.5 cards casa]: no matching market
+2026-10-27 23:28:32 indexed 994 markets
+2026-10-27 23:36:50   drop[not-key] Alpha Diallo (F, Denver Nuggets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Alpha Diallo: ruled out due to injury precaution
+2026-10-27 23:38:33 indexed 983 markets
+2026-10-27 23:44:04   drop[kind] Maple Leafs Get Hopeful Kirill Marchenko Injury Assessment (heavy.com) :: other
+2026-10-27 23:48:34 indexed 988 markets
+2026-10-27 23:49:06 bluesky error x1: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=rapsheet.bsky.social&limit=10&filter=posts_no_
+2026-10-27 23:50:58   drop[team-not-named] Kawhi Leonard to miss Raptors games due to knee injury (CBC) :: Los Angeles Clippers

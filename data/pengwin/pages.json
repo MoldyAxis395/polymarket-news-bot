@@ -2556,7 +2556,7 @@
 "pick": "I capitolini sono decisamente favoriti nella sfida casalinga con il Cagliari e penso che riusciranno a conquistare i tre punti davanti ai propri tifosi: pertanto, come pronostico base mi affido al segno 1, quotato a 1.30. Attenzione alla proposta Malen marcatore DUO a quota 1.75: il centravanti olandese non segna da tre partite e vuole assolutamente ritrovare la via del gol. Per chi non si accontenta del segno 1, propongo la combo 1 + 1 corner, a moltiplicatore 1.50.",
 "match": "ROMA-CAGLIARI",
 "picked_at": 1793126841.9154024,
-"tries": 6,
+"tries": 7,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2566,7 +2566,7 @@
 "pick": "Il Como ha ritrovato ottime sensazioni nelle ultime settimane e giunge alla trasferta di Torino in grande fiducia. La compagine lombarda ha tutte le carte in regola per centrare il bottino pieno ed espugnare il campo dei granata. Dunque, punto sul segno 2, a moltiplicatore 1.80. Per chi volesse osare meno, consiglio l'esito 2 draw no bet, a quota 1.32 (in caso di pareggio la giocata viene rimborsata).",
 "match": "TORINO-COMO",
 "picked_at": 1793126841.9154024,
-"tries": 7,
+"tries": 8,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2592,12 +2592,12 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/venezia-inter-statistiche-quote-e-pronostico-2026": {
 "first": 1793047591.1460824,
-"status": "pending",
+"status": "skipped",
 "pick": "I campioni d'Italia dovrebbero affidarsi al turnover nella trasferta veneta, quindi occhio a possibili sorprese: il segno 2 è troppo schiacciato in favore dei nerazzurri e non ha valore. Il Venezia è la formazione che ha ottenuto il maggior numero di cartellini in questo campionato: dunque, punto sull'esito over 1.5 cartellini casa, a moltiplicatore 1.50.",
 "match": "VENEZIA-INTER",
 "picked_at": 1793126841.9154024,
 "tries": 7,
-"why": "no LLM answer",
+"why": "no matching market",
 "llm_fails": 3
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/genoa-juventus-statistiche-quote-e-pronostico-2026": {
