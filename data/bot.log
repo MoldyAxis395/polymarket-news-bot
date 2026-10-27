@@ -20834,3 +20834,8 @@
 2026-10-27 13:47:45 indexed 1123 markets
 2026-10-27 13:50:08   drop[kind] Fatal crashes are down on Alexandria's city streets. Severe injury crashes are up. (The Alexandria Brief) :: other
 2026-10-27 13:50:09   drop[1-source] URC: Deon Fourie Suffers Fresh Injury Setback Before Springboks’ November Tour (Ruggas) :: Deon Fourie, wait 2nd source
+2026-10-27 13:54:44   drop[1-source] Tamil Nadu Jailbreak: 13 Of 17 Fugitives Caught As Police Launch Manhunt, 9 Prison Officia (Free Press Journal) :: Tamil Nadu Prison Department, wait 2nd source
+2026-10-27 13:57:45 indexed 1112 markets
+2026-10-27 13:57:52 espn_injuries error x1: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-27 13:59:21   drop[1-source] HC halts BFI meeting called by suspended Secretary General; World Boxing stresses complian (IANS LIVE) :: Boxing Federation of India (BFI), wait 2nd source
+2026-10-27 14:01:39 shift over, state saved
