@@ -20596,112 +20596,26 @@
 2026-10-26 22:46:46 indexed 992 markets
 2026-10-26 22:47:04   llm groq-120b: rate limited, skip 181s
 2026-10-26 22:47:05   drop[kind] Timberlake Officer Narrowly Escapes Serious Injury as Suspected Drunk Driver Totals Cruise (Hoodline) :: other
-2026-10-26 22:53:49   llm groq-120b: rate limited, skip 352s
-2026-10-26 22:53:49   drop[1-source] Swim Sport Fitness online timetable temporarily suspended (2ST) :: Swim Sport Fitness, wait 2nd source
-2026-10-26 22:56:19   drop[unconfirmed] Edwards- Right Knee Injury Maintenance (HoopsHype) :: right knee injury
-2026-10-26 22:56:20   llm groq-20b: rate limited, skip 421s
-2026-10-26 22:56:53 indexed 990 markets
-2026-10-26 22:59:56   llm groq-120b: rate limited, skip 29s
-2026-10-26 22:59:56   drop[no-pick] Keegan Murray (F, Sacramento Kings) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: None
-2026-10-26 23:00:49   drop[no-market] Ole Miss top rusher Kewan Lacy ruled out against Auburn this week with shoulder injury (AP News) :: Ole Miss Rebels
-2026-10-26 23:00:50   drop[1-source] Selective antifungal outperformed amphotericin B in mice without kidney injury (Bioengineer.org) :: Bioengineer.org, wait 2nd source
-2026-10-26 23:00:57   llm groq-120b: rate limited, skip 566s
-2026-10-26 23:00:57   drop[no-pick] Benjamin St-Juste (CB, Green Bay Packers) cleared to play: Out -> Active [NFL] (ESPN) :: None
-2026-10-26 23:06:56 indexed 995 markets
-2026-10-26 23:07:02   drop[kind] Alabama Offensive Lineman Undergoes Surgery After Injury Against Aggies (Tuscaloosa Thread) :: other
-2026-10-26 23:08:42   llm groq-20b: rate limited, skip 4s
-2026-10-26 23:12:21   llm groq-120b: rate limited, skip 108s
-2026-10-26 23:12:21   llm groq-20b: rate limited, skip 307s
-2026-10-26 23:16:52 indexed 997 markets
-2026-10-26 23:17:56   drop[verify] 'We’re not doing great': What Jalen Williams' injury means for Thunder (Yahoo Sports) :: Roster unclear and player impact likely insufficient
-2026-10-26 23:21:00   llm groq-120b: rate limited, skip 98s
-2026-10-26 23:21:01   drop[1-source] Pacers win in Brooklyn, but lose Ivica Zubac to ankle injury (www.fieldhousefiles.com) :: Ivica Zubac, wait 2nd source
-2026-10-26 23:26:55 indexed 989 markets
-2026-10-26 23:27:47   drop[kind] PEDESTRIAN SUSTAINS SERIOUS INJURY IN CROSSVILLE DRIVEWAY ACCIDENT (3B Media News) :: other
-2026-10-26 23:30:28   llm groq-120b: rate limited, skip 586s
-2026-10-26 23:30:28   drop[not-key] De'Zhaun Stribling (WR, San Francisco 49ers) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: De'Zhaun Stribling: injured
-2026-10-26 23:30:50   drop[not-key] NFL news: Cardinals WR suffered season-ending injury vs. Broncos (Broncos Wire) :: Jalen Reagor: season-ending injury
-2026-10-26 23:30:51   llm groq-20b: rate limited, skip 31s
-2026-10-26 23:31:30   drop[not-key] Tip Reiman (TE, Arizona Cardinals) ruled out: healthy -> Out [NFL] (ESPN) :: Tip Reiman: injury
-2026-10-26 23:31:37   drop[kind] Rams say they still don’t know when Myles Garrett will return from knee injury (Yahoo Sports) :: other
-2026-10-26 23:36:23   llm groq-20b: rate limited, skip 70s
-2026-10-26 23:36:58 indexed 980 markets
-2026-10-26 23:42:56 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
-2026-10-26 23:43:59   drop[team-not-named] Chris Brown Nightclub Video Emerges After Eight-Month Suspended Sentence in London (International Business Times UK) :: Fulham FC
-2026-10-26 23:45:04   drop[verify] Andrew Nembhard (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Nembhard not impact >5pts
-2026-10-26 23:46:58 indexed 986 markets
-2026-10-26 23:47:03   drop[1-source] Dolphins Running Back Suffers Injury in Win Over Jets (heavy.com) :: Miami Dolphins, wait 2nd source
-2026-10-26 23:51:50   llm groq-120b: rate limited, skip 131s
-2026-10-26 23:51:51   drop[unconfirmed] Victor Hedman Day to Day With Lower-Body Injury (The Hockey News) :: lower-body injury
-2026-10-26 23:57:00 indexed 977 markets
-2026-10-27 00:01:20 NEWS [ESPN 11m] Jake Majors (C, Philadelphia Eagles) ruled out: healthy -> Out [NFL]
-2026-10-27 00:01:20   skip Cowboys :: Cowboys vs. Eagles (low conf 0.62)
-2026-10-27 00:01:20   llm groq-120b: rate limited, skip 302s
-2026-10-27 00:01:21   drop[side] Cole Payton (QB, Philadelphia Eagles) ruled out: Active -> Out [NFL] (ESPN) :: Cowboys vs. Eagles -> Eagles vs fact ruled_out: Cole Payton (Philadelphia Eagles, nfl), bad for Philadelphia Eagles. inj
-2026-10-27 00:03:12   drop[unconfirmed] Christian McCaffrey Has Hamstring Injury, Expected To Be Ready After Bye (Draft Sharks) :: hamstring injury
-2026-10-27 00:03:12   drop[kind] OKC Thunder GM Sam Presti speaks on Cason Wallace, Jalen Williams injury (The Oklahoman) :: other
-2026-10-27 00:03:13   drop[team-not-named] Kings Place Mats Zuccarello On Injured Reserve (Pro Hockey Rumors) :: New York Rangers
-2026-10-27 00:05:31   drop[team-not-named] Eagles-Cowboys inactives: Saquon Barkley will play (Bleeding Green Nation) :: Philadelphia Eagles
-2026-10-27 00:07:01 indexed 987 markets
-2026-10-27 00:09:26   drop[not-key] Emari Demercado (RB, Dallas Cowboys) ruled out: Active -> Out [NFL] (ESPN) :: Emari Demercado: ruled out with injury
-2026-10-27 00:09:27   llm groq-120b: rate limited, skip 178s
-2026-10-27 00:09:28 NEWS [ESPN 16m] Tyrus Wheat (LB, Dallas Cowboys) ruled out: healthy -> Out [NFL]
-2026-10-27 00:09:28   skip Eagles :: Cowboys vs. Eagles (low conf 0.6)
-2026-10-27 00:17:00 indexed 990 markets
-2026-10-27 00:21:39   drop[1-source] Memphis ruled out of Corinthians v Mirassol, return may wait until after FIFA dates (OneFootball) :: Sport Club Corinthians Paulista, wait 2nd source
-2026-10-27 00:23:56   drop[1-source] Chi Phi fraternity suspended from UNF for five years after hazing investigation (firstcoastnews.com) :: University of North Florida (UNF), wait 2nd source
-2026-10-27 00:27:03 indexed 979 markets
-2026-10-27 00:30:58   drop[1-source] Thunder's All-Star set for surgery after serious injury (The Advocate | Burnie, TAS) :: Shai Gilgeous-Alexander, wait 2nd source
-2026-10-27 00:35:34   drop[no-pick] Trump administration loses push to block California votes from alleged noncitizens (NBC News) :: short
-2026-10-27 00:37:04 indexed 988 markets
-2026-10-27 00:38:05   drop[1-source] Two Thunder starters to have surgery after Williams ankle injury, Wallace shoulder tear (KOKH) :: Jalen Williams, wait 2nd source
-2026-10-27 00:43:50   drop[team-not-named] 😙🌕 Harry Kane, the first English player to win the Ballon d’Or since Michael Owen in 2001  (Fabrizio Romano) :: Bayern Munich
-2026-10-27 00:47:03 indexed 986 markets
-2026-10-27 00:47:20   drop[1-source] Patriots get good news on injury front, especially across offensive line (Boston.com) :: New England Patriots, wait 2nd source
-2026-10-27 00:51:42   llm groq-120b: rate limited, skip 377s
-2026-10-27 00:51:43   drop[kind] Chemical Mouth Injury and Bacterial Infection Triggered Erythema Multiforme in an 11-Year- (Bioengineer.org) :: other
-2026-10-27 00:56:28   drop[1-source] Sam Greene Injury: Kentucky Football gets good news on star edge rusher (A Sea Of Blue) :: Sam Greene, wait 2nd source
-2026-10-27 00:57:03 indexed 977 markets
-2026-10-27 01:00:57   drop[1-source] 49ers appear to dodge a bullet with Christian McCaffrey injury (Larry Brown Sports) :: Christian McCaffrey, wait 2nd source
-2026-10-27 01:03:15   drop[team-not-named] JuJu Watkins Turns Heads in Official Injury Return Before Anticipated Season (Sports Illustrated) :: Chicago Sky
-2026-10-27 01:05:51   drop[1-source] Injury comeback sparks exciting new coaching chapter for Pigeons' pair (The Border Mail) :: Pigeons, wait 2nd source
-2026-10-27 01:07:07 indexed 1017 markets
-2026-10-27 01:11:20   drop[not-key] Chris Youngblood (G, Portland Trail Blazers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Chris Youngblood: left ankle soreness
-2026-10-27 01:12:33   drop[team-not-named] Putellas Wins Third Ballon d’Or After Injury Comeback (조선일보) :: FC Barcelona Women
-2026-10-27 01:12:33   llm groq-120b: rate limited, skip 600s
-2026-10-27 01:12:34   drop[no-market] Thunder and Suns Face Major Injury Challenges Impacting Rosters (SSBCrack) :: Oklahoma City Thunder
-2026-10-27 01:17:06 indexed 1032 markets
-2026-10-27 01:17:10   drop[1-source] Panthers lose veteran tackle Taylor Moton indefinitely to leg injury (WSOC TV) :: Taylor Moton, wait 2nd source
-2026-10-27 01:17:11   drop[1-source] Corinthians forward Jhonson undergoes shoulder surgery after Libertadores injury (OneFootball) :: Jhonson, wait 2nd source
-2026-10-27 01:17:24   drop[unconfirmed] Jaxson Hayes (C, Utah Jazz) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: right shoulder soreness
-2026-10-27 01:26:21   drop[kind] One in Five Died: Nigerian Cohort Tracks 13 Years of Traumatic Brain Injury (Bioengineer.org) :: other
-2026-10-27 01:26:21   llm groq-120b: rate limited, skip 288s
-2026-10-27 01:26:21   drop[1-source] OKC Thunder vs Phoenix Suns in first game since Cason Wallace, J-Dub injury: See photos (The Oklahoman) :: Cason Wallace, wait 2nd source
-2026-10-27 01:27:09 indexed 1022 markets
-2026-10-27 01:31:02   drop[kind] First Placebo-Controlled Trial Will Test Prednisone for Drug-Induced Liver Injury (Bioengineer.org) :: other
-2026-10-27 01:37:07 indexed 1031 markets
-2026-10-27 01:37:57   drop[no-market] Jalen Brooks' Season-Ending Injury Creates Another Challenge For Cardinals (Arizona Cardinals) :: Arizona Cardinals
-2026-10-27 01:40:14   drop[not-key] Oklahoma City Waives Otega Oweh, Cason Wallace Suffers Injury (Nation of Blue) :: Otega Oweh: waived from roster
-2026-10-27 01:44:50   drop[kind] Man Suffers Traumatic Injury In Machine Accident: CT News (Patch) :: other
-2026-10-27 01:47:10 indexed 1022 markets
-2026-10-27 01:47:15   drop[team-not-named] Kim Min-jae Returns to Training After Injury Absence (조선일보) :: SSC Napoli
-2026-10-27 01:47:15   llm groq-120b: rate limited, skip 747s
-2026-10-27 01:47:16   drop[unconfirmed] Pete Golding Delivers Tough News on Ole Miss Star’s Availability After Shoulder Injury (EssentiallySports) :: shoulder injury
-2026-10-27 01:57:09 indexed 1015 markets
-2026-10-27 01:58:45   drop[team-not-named] Kanjhawala Cow Shelter Demolition: MCD Engineer Suspended (urbanacres.in) :: Municipal Corporation of Delhi
-2026-10-27 02:01:25   drop[kind] Research report: Dichloroacetate attenuates experimental acute liver injury and reduces he (Bioengineer.org) :: other
-2026-10-27 02:01:33   drop[not-key] Britain Covey (WR, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: Britain Covey: knee injury on opening kickoff
-2026-10-27 02:07:10 indexed 1022 markets
-2026-10-27 02:08:00   drop[kind] TGSRTC Conductor Injury After Passenger Pushes Her From Bus (urbanacres.in) :: other
-2026-10-27 02:12:36   drop[not-key] Alex Caruso Injury: Exits to locker room (RotoWire) :: Alex Caruso: injured and left game
-2026-10-27 02:12:37   drop[1-source] Eagles news: Britain Covey ruled out for the rest of MNF with knee injury (ClutchPoints) :: Britain Covey, wait 2nd source
-2026-10-27 02:14:55   drop[1-source] SCB Elevated Corridor: Hyderabad Official Suspended (urbanacres.in) :: SCB Elevated Corridor, wait 2nd source
-2026-10-27 02:15:45 NEWS [ESPN 3m] Cameron Johnson (F, Denver Nuggets) ruled out: Day-To-Day -> Out [NBA]
-2026-10-27 02:15:45   skip Warriors :: Warriors vs. Nuggets (low conf 0.6)
-2026-10-27 02:17:11 indexed 1026 markets
-2026-10-27 02:19:44   drop[kind] Child Injury Prevention Research Maps Risk, Equity and Paths to Safety (Bioengineer.org) :: other
-2026-10-27 02:25:19   llm groq-120b: rate limited, skip 184s
-2026-10-27 02:25:19   drop[not-key] Daniil Tarasov (G, Detroit Red Wings) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Daniil Tarasov: day-to-day
-2026-10-27 02:26:29   drop[kind] Gruesome Injury (Manila Standard) :: other
-2026-10-27 02:27:14 indexed 1018 markets
-2026-10-27 02:30:55 shift over, state saved
+2026-10-27 02:31:18 === start mode=paper pid=2093 ===
+2026-10-27 02:31:18 brain=llm cash=83.54 open=0
+2026-10-27 02:31:18 resuming with 4940 known news items
+2026-10-27 02:31:47 indexed 1019 markets
+2026-10-27 02:32:04   drop[not-key] Tip Reiman (TE, Arizona Cardinals) ruled out: healthy -> Out [NFL] (ESPN) :: Tip Reiman: ruled out for upcoming game
+2026-10-27 02:32:05   drop[not-key] Emari Demercado (RB, Dallas Cowboys) ruled out: Active -> Out [NFL] (ESPN) :: Emari Demercado: ruled out with injury
+2026-10-27 02:32:06   drop[no-market] Tyrus Wheat (LB, Dallas Cowboys) ruled out: healthy -> Out [NFL] (ESPN) :: Dallas Cowboys
+2026-10-27 02:32:06   llm groq-120b: rate limited, skip 586s
+2026-10-27 02:32:06   drop[not-key] Benjamin St-Juste (CB, Green Bay Packers) cleared to play: Out -> Active [NFL] (ESPN) :: Benjamin St-Juste: return
+2026-10-27 02:32:07   drop[not-key] Britain Covey (WR, Philadelphia Eagles) ruled out: healthy -> Out [NFL] (ESPN) :: Britain Covey: knee injury
+2026-10-27 02:32:07   drop[no-pick] Cole Payton (QB, Philadelphia Eagles) ruled out: Active -> Out [NFL] (ESPN) :: no matching market
+2026-10-27 02:32:08   drop[not-key] Jake Majors (C, Philadelphia Eagles) ruled out: healthy -> Out [NFL] (ESPN) :: Jake Majors: injury
+2026-10-27 02:32:08   drop[not-key] De'Zhaun Stribling (WR, San Francisco 49ers) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: De'Zhaun Stribling: injury
+2026-10-27 02:32:10   drop[unconfirmed] Cameron Johnson (F, Denver Nuggets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: right ankle sprain
+2026-10-27 02:32:10   drop[not-key] Andrew Nembhard (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Andrew Nembhard: neck injury
+2026-10-27 02:32:10   drop[unconfirmed] Chris Youngblood (G, Portland Trail Blazers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: injury
+2026-10-27 02:32:11   drop[unconfirmed] Keegan Murray (F, Sacramento Kings) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: left ankle capsulitis
+2026-10-27 02:32:12   drop[unconfirmed] Jaxson Hayes (C, Utah Jazz) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: right shoulder soreness
+2026-10-27 02:32:12   drop[not-key] Daniil Tarasov (G, Detroit Red Wings) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Daniil Tarasov: day‑to‑day injury
+2026-10-27 02:32:13   drop[not-key] BREAKING: Oklahoma City's Jalen Williams has a dislocated left ankle and fractured fibula; (Shams Charania) :: Jalen Williams: injury
+2026-10-27 02:32:13   drop[kind] 😙🌕 Harry Kane, the first English player to win the Ballon d’Or since Michael Owen in 2001  (Fabrizio Romano) :: other
+2026-10-27 02:32:13   llm groq-20b: rate limited, skip 5s
+2026-10-27 02:34:35   drop[team-not-named] Lauri Markkanen Injury: Goes to locker room (RotoWire) :: Milwaukee Bucks
