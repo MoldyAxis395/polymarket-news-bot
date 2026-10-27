@@ -21019,3 +21019,33 @@
 2026-10-27 19:50:13 [pengwin] FIORENTINA-ATALANTA: no LLM answer (try 1)
 2026-10-27 19:52:16   drop[kind] Suspended sentences for pair in drugs bust (Matangi Tonga) :: other
 2026-10-27 19:52:17   drop[team-not-named] 2028 NFL Draft Picture Uncertain as Projected No. 1 QB Suffers Season-Ending Injury (EssentiallySports) :: 
+2026-10-27 19:54:44   llm groq-120b: rate limited, skip 159s
+2026-10-27 19:54:44   llm groq-20b: rate limited, skip 107s
+2026-10-27 19:56:56   drop[kind] Giants Sign 1,300-Yard Running Back After Tyrone Tracy Injury (Heavy.com) :: other
+2026-10-27 19:56:56   llm groq-20b: rate limited, skip 365s
+2026-10-27 19:57:51 indexed 1063 markets
+2026-10-27 20:04:13 NEWS [ESPN 0m] Torino confirmed lineup vs Como: Rolando Mandragora ruled out of starting XI [ita.1]
+2026-10-27 20:04:13   skip No :: Will Torino FC win on 2026-10-27? (low conf 0.6)
+2026-10-27 20:04:13   llm groq-120b: rate limited, skip 334s
+2026-10-27 20:04:14   llm groq-20b: rate limited, skip 334s
+2026-10-27 20:04:14   drop[no-pick] Como confirmed lineup vs Torino: Samuele Ricci, Jean Butez, Martin Baturina, Kaiki, Willy  (ESPN) :: None
+2026-10-27 20:08:00 indexed 1062 markets
+2026-10-27 20:11:13   drop[kind] Bears have a few early injury situations to watch going into Monday's game against the Sea (A to Z Sports) :: other
+2026-10-27 20:15:47   drop[team-not-named] Suspended 19 months, worker quits - but Commission says she chose to (www.hcamag.com) :: hcamag.com
+2026-10-27 20:15:53   llm groq-120b: rate limited, skip 156s
+2026-10-27 20:15:53   drop[kind] 🚨 Lamine Yamal: “It’ll come. Good things take time, and I trust the path I’m building. The (Fabrizio Romano) :: other
+2026-10-27 20:17:59 indexed 1061 markets
+2026-10-27 20:18:06   drop[1-source] Mayke treating knee injury at Palmeiras after terminating Santos deal (OneFootball) :: Mayke, wait 2nd source
+2026-10-27 20:20:37   llm groq-120b: rate limited, skip 180s
+2026-10-27 20:20:38   llm groq-20b: rate limited, skip 1s
+2026-10-27 20:20:38   drop[verify] Utah Jazz star Jaren Jackson Jr. has sustained a torn MCL in his right knee and will be si (Shams Charania) :: no answer
+2026-10-27 20:20:49   llm groq-20b: rate limited, skip 761s
+2026-10-27 20:20:49 [pengwin] ROMA-CAGLIARI: no LLM answer (try 2)
+2026-10-27 20:20:51 [pengwin] TORINO-COMO: no LLM answer (try 2)
+2026-10-27 20:20:53 [pengwin] MILAN-BOLOGNA: no LLM answer (try 2)
+2026-10-27 20:20:55 [pengwin] PARMA-UDINESE: no LLM answer (try 2)
+2026-10-27 20:20:57 [pengwin] VENEZIA-INTER: no Polymarket event (try 2)
+2026-10-27 20:20:59 [pengwin] GENOA-JUVENTUS: no LLM answer (try 2)
+2026-10-27 20:21:02 [pengwin] MONZA-NAPOLI: no LLM answer (try 2)
+2026-10-27 20:21:04 [pengwin] FROSINONE-LECCE: no LLM answer (try 2)
+2026-10-27 20:21:07 [pengwin] FIORENTINA-ATALANTA: no LLM answer (try 2)
