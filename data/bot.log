@@ -21047,3 +21047,34 @@
 2026-10-27 19:03:16   drop[1-source] Benhard Janse van Rensburg stood down from rugby as England sweat over Fin Smith injury (Yahoo) :: Benhard Janse van Rensburg, wait 2nd source
 2026-10-27 19:03:16   llm groq-120b: rate limited, skip 204s
 2026-10-27 19:03:17   drop[1-source] Joy Behar Returns to 'The View' After Month-Long Absence, Says On-Set Injury Was 'Worse Th (OK Magazine) :: Joy Behar, wait 2nd source
+2026-10-27 19:07:52   drop[1-source] Injury-riddled Thunder beat Suns 125-114 to stay unbeaten (News 9) :: Oklahoma City Thunder, wait 2nd source
+2026-10-27 19:07:52   llm groq-120b: rate limited, skip 229s
+2026-10-27 19:07:53   drop[not-key] Giants share bad news on Tyrone Tracy Jr. amid serious hamstring injury (Sporting News) :: Tyrone Tracy Jr.: serious hamstring injury
+2026-10-27 19:09:58 [pengwin] page gue-1/marsiglia-le-havre-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-27 19:10:10   drop[not-key] Suspended Alabama DB Kirkpatrick allegedly threatened officer from ’25 arrest (ESPN La Crosse 105.5) :: Kirkpatrick: suspension
+2026-10-27 19:10:47   llm groq-20b: rate limited, skip 599s
+2026-10-27 19:10:47 [pengwin] PARMA-UDINESE: no LLM answer (try 2)
+2026-10-27 19:10:49 [pengwin] VENEZIA-INTER: no Polymarket event (try 2)
+2026-10-27 19:10:51 [pengwin] GENOA-JUVENTUS: no LLM answer (try 2)
+2026-10-27 19:10:53 [pengwin] MONZA-NAPOLI: no LLM answer (try 2)
+2026-10-27 19:10:55 [pengwin] FROSINONE-LECCE: no LLM answer (try 2)
+2026-10-27 19:10:58 [pengwin] FIORENTINA-ATALANTA: no LLM answer (try 2)
+2026-10-27 19:12:27   drop[team-not-named] Dickey cleared from injury, to return against No. 22 Arizona (The Daily Toreador) :: Texas Tech Red Raiders
+2026-10-27 19:12:27   llm groq-120b: rate limited, skip 219s
+2026-10-27 19:13:10 indexed 1067 markets
+2026-10-27 19:17:08   drop[team-not-named] Xavi Espart after the long injury: I'm thinking of only one thing! (Goal.com) :: Girona FC
+2026-10-27 19:19:31   llm groq-120b: rate limited, skip 142s
+2026-10-27 19:23:12 indexed 1066 markets
+2026-10-27 19:24:19   drop[team-not-named] Tyrone Tracy headed to IR with hamstring injury (NBC Sports) :: New York Giants
+2026-10-27 19:26:25   llm groq-120b: rate limited, skip 24s
+2026-10-27 19:26:26   drop[kind] Quarterback situation up in the air for injury-plagued Wildcats (themercury.com) :: other
+2026-10-27 19:26:27   drop[kind] Finger injury isn’t thought to be long-term for Walker Eget (On3) :: other
+2026-10-27 19:28:45   drop[unconfirmed] Hurricanes news: Carolina expecting key injury reinforcement vs. Bruins (ClutchPoints) :: expected to return from injury for game vs Bruins
+2026-10-27 19:28:50   llm groq-120b: rate limited, skip 215s
+2026-10-27 19:28:51   drop[side] Bowen Byram (D, Chicago Blackhawks) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Kings vs. Blackhawks -> Blackhawks vs fact ruled_out: Bowen Byram (Chicago Blackhawks, nhl), bad for Chicago Blackhawks.
+2026-10-27 19:30:54   drop[not-key] Josh Kattus (TE, Cincinnati Bengals) ruled out: Active -> Out [NFL] (ESPN) :: Josh Kattus: injury
+2026-10-27 19:31:01   llm groq-20b: rate limited, skip 210s
+2026-10-27 19:33:14 indexed 1057 markets
+2026-10-27 19:33:32   drop[team-not-named] Maja Chwalińska Exits 2026 Pan Pacific Open with Thigh Injury (Just Women's Sports) :: Poland
+2026-10-27 19:35:51   llm groq-120b: rate limited, skip 25s
+2026-10-27 19:35:51   drop[kind] US energy firms to produce record natgas in 2026 as global demand soars reut.rs/4BslMSS (Reuters) :: other
