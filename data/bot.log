@@ -21108,3 +21108,34 @@
 2026-10-27 21:18:27   drop[verify] Jazz All-Star Jaren Jackson Jr. out at least 6 weeks with knee injury (Marco Eagle) :: Jaren Jackson Jr. no longer on Jazz
 2026-10-27 21:21:37 [pengwin] page ivisie/willem-ii-cambuur-statistiche-quote-e-pronostico-2026: Response ended prematurely
 2026-10-27 21:21:44 [pengwin] page io/ligue-1/tolosa-troyes-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-27 21:22:39 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 4)
+2026-10-27 21:22:41 [pengwin] TORINO-COMO: no Polymarket event (try 4)
+2026-10-27 21:22:43   llm groq-120b: rate limited, skip 664s
+2026-10-27 21:22:43   llm groq-20b: rate limited, skip 702s
+2026-10-27 21:22:43 [pengwin] MILAN-BOLOGNA: no LLM answer (try 4)
+2026-10-27 21:22:46 [pengwin] PARMA-UDINESE: no LLM answer (try 4)
+2026-10-27 21:22:48 [pengwin] VENEZIA-INTER: no Polymarket event (try 4)
+2026-10-27 21:22:50 [pengwin] GENOA-JUVENTUS: no LLM answer (try 4)
+2026-10-27 21:22:53 [pengwin] MONZA-NAPOLI: no LLM answer (try 4)
+2026-10-27 21:22:55 [pengwin] FROSINONE-LECCE: no LLM answer (try 4)
+2026-10-27 21:22:58 [pengwin] FIORENTINA-ATALANTA: no LLM answer (try 4)
+2026-10-27 21:28:07 indexed 1029 markets
+2026-10-27 21:29:20 NEWS [ESPN 10m] Alperen Sengun (C, Houston Rockets) ruled out: Day-To-Day -> Out [NBA]
+2026-10-27 21:29:20   skip Bucks :: Rockets vs. Bucks (rules fallback, LLM down (not traded))
+2026-10-27 21:34:24   drop[1-source] Blue Bombers QB Zach Collaros misses practice after injury (CityNews Winnipeg) :: Zach Collaros, wait 2nd source
+2026-10-27 21:34:25   drop[kind] Man allegedly made fake injury claim over Bondi attack (Yahoo News Australia) :: other
+2026-10-27 21:36:53   drop[1-source] Rockets Make Alperen Sengun Injury Announcement After Concerning Incident (Heavy.com) :: Alperen Sengun, wait 2nd source
+2026-10-27 21:38:07 indexed 1017 markets
+2026-10-27 21:40:44   drop[kind] India's SBI Life posts profit rise on high-margin retail product boost reut.rs/4sr47XE (Reuters) :: other
+2026-10-27 21:41:18   llm groq-120b: rate limited, skip 84s
+2026-10-27 21:41:19   drop[unconfirmed] Jaren Jackson Jr. injured against former Grizzlies team, out six weeks (The Commercial Appeal) :: injury
+2026-10-27 21:41:19   drop[kind] Halloween Safety: Simple Steps to Keep the Holiday Fun, Injury-Free (SCVNews.com) :: other
+2026-10-27 21:41:20   drop[team-not-named] Motikiai Murray suspended for four matches following dangerous tackle (Fijivillage) :: Fiji national rugby union team
+2026-10-27 21:43:36   drop[team-not-named] Pablo Lopez Injury: Targets mound work in November (RotoWire) :: Chicago White Sox
+2026-10-27 21:43:36   llm groq-120b: rate limited, skip 253s
+2026-10-27 21:43:37   drop[team-not-named] Nick Sirianni defended decision to play Saquon Barkley after RB suffered another injury (USA Today) :: Philadelphia Eagles
+2026-10-27 21:46:05   drop[unconfirmed] An Se-young's Korea Open Participation in Doubt Amid Injury (조선일보) :: injury
+2026-10-27 21:48:11 indexed 1023 markets
+2026-10-27 21:48:17   drop[1-source] Lakers news: LA makes roster decision on rookie guard amid injury (ClutchPoints) :: Los Angeles Lakers, wait 2nd source
+2026-10-27 21:50:34   llm groq-120b: rate limited, skip 88s
+2026-10-27 21:50:35   drop[team-not-named] Tyronn Lue called Rui Hachimura’s injury a … (HoopsHype) :: Washington Wizards
