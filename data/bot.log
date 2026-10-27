@@ -21185,3 +21185,22 @@
 2026-10-27 22:48:38   llm groq-20b: rate limited, skip 224s
 2026-10-27 22:48:38 NEWS [ESPN 14m] Alex Caruso (G, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]
 2026-10-27 22:48:38   skip Mavericks :: Thunder vs. Mavericks (rules fallback, LLM down (not traded))
+2026-10-27 22:53:10   drop[team-not-named] OU basketball center Duke Brennan 'super sad' to see Jalen Williams' injury (The Oklahoman) :: Detroit Pistons
+2026-10-27 22:54:42   llm groq-120b: rate limited, skip 114s
+2026-10-27 22:54:42 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 6)
+2026-10-27 22:54:44 [pengwin] TORINO-COMO: no Polymarket event (try 7)
+2026-10-27 22:54:47   llm groq-20b: rate limited, skip 616s
+2026-10-27 22:54:47 [pengwin] VENEZIA-INTER: no LLM answer (try 7)
+2026-10-27 22:58:26 indexed 993 markets
+2026-10-27 23:00:26   drop[kind] Yaxel Lendeborg's Foot Injury Has Status in Doubt for Warriors-Timberwolves Game (Sports Illustrated) :: other
+2026-10-27 23:00:27   llm groq-120b: rate limited, skip 179s
+2026-10-27 23:00:50   SELL Mavericks @ 0.240 (stop loss) pnl -2.50 :: Thunder vs. Mavericks
+2026-10-27 23:08:28 indexed 992 markets
+2026-10-27 23:11:03 NEWS [Fabrizio Romano 1m] 🚨 BREAKING: Arsenal have been eliminated from the Carabao Cup by League Two side Fleetwood Town. Fleetwood Town currently sit 18th in League Two.
+2026-10-27 23:11:03   skip No :: Will Arsenal FC win on 2026-11-01? (low conf 0.6)
+2026-10-27 23:13:54   drop[kind] Suspect fleeing Louisville police results in injury crash (WHAS11) :: other
+2026-10-27 23:13:55   llm groq-120b: rate limited, skip 224s
+2026-10-27 23:13:55   drop[kind] Santi Aldama Injury: Doubtful for Wednesday (RotoWire) :: other
+2026-10-27 23:15:00   drop[unconfirmed] Sergio de Larrea (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: knee strain
+2026-10-27 23:18:28 indexed 989 markets
+2026-10-27 23:18:45   drop[team-not-named] Joao Pedro ruled out for weeks with thigh injury, Emmanuel Emegha available for Carabao Cu (SSBCrack) :: Wolverhampton Wanderers

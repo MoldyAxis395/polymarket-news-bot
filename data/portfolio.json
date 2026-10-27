@@ -1,25 +1,6 @@
 {
- "cash": 73.5382892962289,
- "positions": [
-  {
-   "market_id": "6037142",
-   "question": "Thunder vs. Mavericks",
-   "slug": "nba-okc-dal-2026-10-28",
-   "outcome": "Mavericks",
-   "token": "33565980366170242965510720771768873559146153779020999207012338059026390225512",
-   "shares": 31.25,
-   "entry": 0.32,
-   "cost": 10.0,
-   "opened": 1793137718.0356889,
-   "opened_iso": "2026-10-27T21:48:38+00:00",
-   "news": "Chet Holmgren (C, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]",
-   "reason": "llm[groq-20b] trusted: Holmgren out hurts Thunder, so Mavericks win odds should rise",
-   "conf": 0.75,
-   "end": "2026-10-29T01:30:00+00:00",
-   "last_bid": 0.3,
-   "book_err": false
-  }
- ],
+ "cash": 81.0382892962289,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -2042,6 +2023,28 @@
    "pnl": -0.30303030303030276,
    "why": "market closing",
    "closed_iso": "2026-10-25T16:55:03+00:00"
+  },
+  {
+   "market_id": "6037142",
+   "question": "Thunder vs. Mavericks",
+   "slug": "nba-okc-dal-2026-10-28",
+   "outcome": "Mavericks",
+   "token": "33565980366170242965510720771768873559146153779020999207012338059026390225512",
+   "shares": 31.25,
+   "entry": 0.32,
+   "cost": 10.0,
+   "opened": 1793137718.0356889,
+   "opened_iso": "2026-10-27T21:48:38+00:00",
+   "news": "Chet Holmgren (C, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]",
+   "reason": "llm[groq-20b] trusted: Holmgren out hurts Thunder, so Mavericks win odds should rise",
+   "conf": 0.75,
+   "end": "2026-10-29T01:30:00+00:00",
+   "last_bid": 0.24,
+   "book_err": false,
+   "exit": 0.24,
+   "pnl": -2.5,
+   "why": "stop loss",
+   "closed_iso": "2026-10-27T22:00:51+00:00"
   }
  ],
  "cooldown": {
@@ -2105,6 +2108,7 @@
   "5035384": 1792880718.6792643,
   "4551273": 1792902893.3305793,
   "4551285": 1792958103.1436505,
-  "4551284": 1792958103.7324388
+  "4551284": 1792958103.7324388,
+  "6037142": 1793149251.1862304
  }
 }

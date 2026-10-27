@@ -1,59 +1,37 @@
 {
- "updated": "2026-10-27T22:52:30",
+ "updated": "2026-10-27T23:22:34",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 459,
- "markets_indexed": 990,
- "news_processed": 244,
- "cash": 73.54,
- "equity": 82.91,
+ "llm_calls_today": 473,
+ "markets_indexed": 989,
+ "news_processed": 263,
+ "cash": 81.04,
+ "equity": 81.04,
  "start": 100.0,
- "open": [
-  {
-   "market_id": "6037142",
-   "question": "Thunder vs. Mavericks",
-   "slug": "nba-okc-dal-2026-10-28",
-   "outcome": "Mavericks",
-   "token": "33565980366170242965510720771768873559146153779020999207012338059026390225512",
-   "shares": 31.25,
-   "entry": 0.32,
-   "cost": 10.0,
-   "opened": 1793137718.0356889,
-   "opened_iso": "2026-10-27T21:48:38+00:00",
-   "news": "Chet Holmgren (C, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]",
-   "reason": "llm[groq-20b] trusted: Holmgren out hurts Thunder, so Mavericks win odds should rise",
-   "conf": 0.75,
-   "end": "2026-10-29T01:30:00+00:00",
-   "last_bid": 0.3,
-   "book_err": false
-  }
- ],
- "closed_count": 94,
+ "open": [],
+ "closed_count": 95,
  "llm": {
   "backends": [
    "groq-120b",
    "groq-20b"
   ],
-  "fallbacks": 37,
-  "errors": {
-   "groq-120b": "rate limited, skip 132s",
-   "groq-20b": "rate limited, skip 224s"
-  },
+  "fallbacks": 39,
+  "errors": {},
   "rejects": {
    "not-key": 9,
-   "unconfirmed": 7,
+   "unconfirmed": 8,
    "no-pick": 3,
-   "fluff": 55,
-   "kind": 14,
-   "team-not-named": 13,
+   "fluff": 61,
+   "kind": 17,
+   "team-not-named": 15,
    "1-source": 11,
    "verify": 4,
    "no-market": 3
   },
   "calls": {
-   "groq-120b": 250,
-   "groq-20b": 209
+   "groq-120b": 259,
+   "groq-20b": 214
   }
  },
- "realized_pnl": -16.46
+ "realized_pnl": -18.96
 }
