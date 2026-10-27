@@ -20700,3 +20700,8 @@
 2026-10-27 02:15:45   skip Warriors :: Warriors vs. Nuggets (low conf 0.6)
 2026-10-27 02:17:11 indexed 1026 markets
 2026-10-27 02:19:44   drop[kind] Child Injury Prevention Research Maps Risk, Equity and Paths to Safety (Bioengineer.org) :: other
+2026-10-27 02:25:19   llm groq-120b: rate limited, skip 184s
+2026-10-27 02:25:19   drop[not-key] Daniil Tarasov (G, Detroit Red Wings) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Daniil Tarasov: day-to-day
+2026-10-27 02:26:29   drop[kind] Gruesome Injury (Manila Standard) :: other
+2026-10-27 02:27:14 indexed 1018 markets
+2026-10-27 02:30:55 shift over, state saved
