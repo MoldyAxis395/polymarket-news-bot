@@ -20951,3 +20951,20 @@
 2026-10-27 16:56:16   drop[kind] Clinical Trial Tests Epidural Stimulation for Low Blood Pressure After Spinal Cord Injury (University of Miami) :: other
 2026-10-27 17:00:39   drop[1-source] Joy Behar Returns to ‘The View’ After Weeks-Long Absence, Comments on ‘Bad’ Injury (Just Jared) :: Joy Behar, wait 2nd source
 2026-10-27 17:02:51 indexed 1126 markets
+2026-10-27 17:07:37   drop[1-source] Karter Sarff Suspended, Fined For Failing Tire Test (World of Outlaws) :: Karter Sarff, wait 2nd source
+2026-10-27 17:07:38   drop[1-source] Kings’ $1 Million Gamble Hit With Another Injury Setback (The Hockey News) :: Milan Lucic, wait 2nd source
+2026-10-27 17:07:38   llm groq-120b: rate limited, skip 305s
+2026-10-27 17:07:38   drop[1-source] Kirill Marchenko’s Exit Adds Injury to Insult for Maple Leafs As Win Streak Snapped (Sportsnaut) :: Kirill Marchenko, wait 2nd source
+2026-10-27 17:12:53 indexed 1114 markets
+2026-10-27 17:16:05   drop[kind] Lula’s election win leaves Brazil facing a fiscal tightrope (CNBC) :: other
+2026-10-27 17:19:09   llm groq-120b: rate limited, skip 219s
+2026-10-27 17:19:11 NEWS [Citi Sports Online 3m] Joao Pedro ruled out of Chelsea midweek clash against Liverpool in Carabao Cup
+2026-10-27 17:19:11   skip Yes :: Will Liverpool FC win on 2026-10-28? (low conf 0.6)
+2026-10-27 17:21:27   drop[kind] Monday Night Collision in Kenton Results in Minor Injury (95.3 WKTN) :: other
+2026-10-27 17:22:56 indexed 1104 markets
+2026-10-27 17:28:25   llm groq-120b: rate limited, skip 54s
+2026-10-27 17:28:26   drop[verify] Raptors Get Bad News on Kawhi Leonard Knee Injury (Sports Illustrated) :: uncertain newness
+2026-10-27 17:30:42   llm groq-120b: rate limited, skip 47s
+2026-10-27 17:30:43   drop[1-source] Edmonton Oilers’ Zach Hyman Expected To Miss At Least A Week After Head Injury (NDTV Sports) :: Zach Hyman, wait 2nd source
+2026-10-27 17:32:56 indexed 1091 markets
+2026-10-27 17:35:17   drop[not-key] Jeff Hoffman (RP, Minnesota Twins) ruled out: 15-Day-IL -> Out [MLB] (ESPN) :: Jeff Hoffman: 15-Day IL
