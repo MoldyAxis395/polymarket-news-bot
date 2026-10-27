@@ -21049,3 +21049,37 @@
 2026-10-27 20:21:02 [pengwin] MONZA-NAPOLI: no LLM answer (try 2)
 2026-10-27 20:21:04 [pengwin] FROSINONE-LECCE: no LLM answer (try 2)
 2026-10-27 20:21:07 [pengwin] FIORENTINA-ATALANTA: no LLM answer (try 2)
+2026-10-27 20:25:01   drop[not-key] Penguins forward Elmer Soderblom sidelined by undisclosed injury (TribLIVE.com) :: Elmer Soderblom: sidelined by undisclosed injury
+2026-10-27 20:25:01   llm groq-120b: rate limited, skip 260s
+2026-10-27 20:25:01 NEWS [USA Today 1m] Arsenal confirmed lineup vs. Fleetwood Town, team news
+2026-10-27 20:25:01   skip Yes :: Will Arsenal FC win on 2026-10-27? (rules fallback, LLM down (not traded))
+2026-10-27 20:25:01   skip Yes :: Will Fleetwood Town FC win on 2026-10-27? (rules fallback, LLM down (not traded))
+2026-10-27 20:25:01   skip Yes :: Exact Score: Fleetwood Town FC 0 - 3 Arsenal FC? (rules fallback, LLM down (not traded))
+2026-10-27 20:28:04 indexed 1071 markets
+2026-10-27 20:29:27   llm groq-120b: rate limited, skip 104s
+2026-10-27 20:29:27   drop[no-pick] Jaren Jackson Jr. (F, Utah Jazz) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: None
+2026-10-27 20:32:16   llm groq-120b: rate limited, skip 101s
+2026-10-27 20:34:20   drop[team-not-named] Jaren Jackson Jr. To Miss 6-8 Weeks Due To Torn MCL (Hoops Rumors) :: Memphis Grizzlies
+2026-10-27 20:34:20   llm groq-120b: rate limited, skip 176s
+2026-10-27 20:34:20   drop[kind] Injury Issues Mean Panthers’ Biggest Roster Holes are Obvious Heading into Week 8 (Athlon Sports) :: other
+2026-10-27 20:36:39   drop[kind] Alleged spy firm won ad auctions for Starlink users in 105 countries (PPC Land) :: other
+2026-10-27 20:36:39   drop[not-key] Giants place RB Tyrone Tracy Jr. on IR with hamstring injury (ESPN) :: Tyrone Tracy Jr.: hamstring injury
+2026-10-27 20:38:01 indexed 1060 markets
+2026-10-27 20:38:56   llm groq-120b: rate limited, skip 23s
+2026-10-27 20:38:57   drop[team-not-named] Reports: Jaren Jackson Jr. injury will have him miss time (KSL Sports) :: Memphis Grizzlies
+2026-10-27 20:43:10 [pengwin]   book error US Sassuolo Calcio vs. SS Lazio: Both Teams to Sco: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=57924985323644742574483486586370770857930019803215042605492391994591480668240
+2026-10-27 20:44:40   drop[no-market] Cam Taylor-Britt (CB, Indianapolis Colts) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Indianapolis Colts
+2026-10-27 20:45:50   drop[not-key] Kamario Taylor Makes 2027 Plans ‘Clear’ As He’s Ruled Out For The Season (The Spun) :: Kamario Taylor: ruled out for the season
+2026-10-27 20:48:03 indexed 1042 markets
+2026-10-27 20:51:45   llm groq-120b: rate limited, skip 416s
+2026-10-27 20:51:45   llm groq-20b: rate limited, skip 61s
+2026-10-27 20:51:45 [pengwin] ROMA-CAGLIARI: no LLM answer (try 3)
+2026-10-27 20:51:47 [pengwin] TORINO-COMO: no LLM answer (try 3)
+2026-10-27 20:51:49 [pengwin] MILAN-BOLOGNA: no LLM answer (try 3)
+2026-10-27 20:51:52 [pengwin] PARMA-UDINESE: no LLM answer (try 3)
+2026-10-27 20:51:54 [pengwin] VENEZIA-INTER: no Polymarket event (try 3)
+2026-10-27 20:51:56 [pengwin] GENOA-JUVENTUS: no LLM answer (try 3)
+2026-10-27 20:51:59 [pengwin] MONZA-NAPOLI: no LLM answer (try 3)
+2026-10-27 20:52:01 [pengwin] FROSINONE-LECCE: no LLM answer (try 3)
+2026-10-27 20:52:04 [pengwin] FIORENTINA-ATALANTA: no LLM answer (try 3)
+2026-10-27 20:52:15 feed bbc_sport error x1: HTTPSConnectionPool(host='feeds.bbci.co.uk', port=443): Read timed out. (read timeout=15)
