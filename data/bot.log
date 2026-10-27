@@ -20997,3 +20997,27 @@
 2026-10-27 18:03:13   drop[1-source] Malaysia Employment Suspended Due to Manpower Company Selection Dispute (Ratopati) :: Malaysia Employment, wait 2nd source
 2026-10-27 18:05:27   drop[kind] ROSEBURG POLICE JAIL WOMAN FOR DRIVING WHILE SUSPENDED (KQEN News Radio) :: other
 2026-10-27 18:05:28   drop[1-source] Macs Page called into Wales squad after Rio Dyer ruled out (Nation.Cymru) :: Rio Dyer, wait 2nd source
+2026-10-27 18:07:43   drop[kind] ROSEBURG POLICE JAIL WOMAN FOR DRIVING WHILE SUSPENDED ON MONDAY (KQEN News Radio) :: other
+2026-10-27 18:07:43   llm groq-120b: rate limited, skip 169s
+2026-10-27 18:07:44   drop[team-not-named] Kawhi Leonard to Miss Multiple Weeks With Knee Injury Stream of National Basketball Associ (CBS Sports) :: Los Angeles Clippers
+2026-10-27 18:09:47 [pengwin]   BUY Yes @ 0.760 x13.2 ($10.00) :: Will AS Roma win on 2026-10-27?
+2026-10-27 18:09:52 [pengwin]   BUY Yes @ 0.560 x17.9 ($10.00) :: Will Como 1907 win on 2026-10-27?
+2026-10-27 18:10:12   drop[1-source] Russian oil refineries boost output by 25% as drone attacks halt following US-brokered dea (Latest news from Azerbaijan) :: Russian oil refineries, wait 2nd source
+2026-10-27 18:12:21   llm groq-120b: rate limited, skip 134s
+2026-10-27 18:12:21 NEWS [OneFootball 1m] Chelsea suffer Joao Pedro thigh injury blow before Liverpool tie
+2026-10-27 18:12:21   skip No :: Will Chelsea FC win on 2026-10-28? (low conf 0.6)
+2026-10-27 18:13:03 indexed 1083 markets
+2026-10-27 18:13:37   drop[team-not-named] Ceasefire begins in Ukrainian city of Oleshky, Melania Trump announces politi.co/4jJB8MA (Politico) :: Ukraine
+2026-10-27 18:14:42   llm groq-120b: rate limited, skip 17s
+2026-10-27 18:14:42   drop[not-key] Kamario Taylor ruled out for remainder of season with a toe injury (reflector-online.com) :: Kamario Taylor: toe injury
+2026-10-27 18:19:31   llm groq-120b: rate limited, skip 51s
+2026-10-27 18:19:32   drop[no-pick] Mississippi State QB Kamario Taylor out for the season with a foot injury that requires su (AP News) :: short
+2026-10-27 18:19:32   drop[team-not-named] Kawhi Leonard’s Raptors return already derailed by another injury (New York Post) :: Los Angeles Clippers
+2026-10-27 18:19:33   drop[team-not-named] Reports: Blue Bombers QB Zach Collaros misses practice after injury (Sportsnet.ca) :: Edmonton Elks
+2026-10-27 18:23:05 indexed 1079 markets
+2026-10-27 18:23:58   drop[team-not-named] NBA rookie first impressions & early injury fallout with Tom Haberstroh (Yahoo) :: Detroit Pistons
+2026-10-27 18:25:58 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-27 18:28:40   drop[1-source] Cargo Operations At Kakinada Port Suspended: Uppada Coast Turns Turbulent (Deccan Chronicle) :: Kakinada Port, wait 2nd source
+2026-10-27 18:33:07 indexed 1076 markets
+2026-10-27 18:33:13   drop[kind] Aleksib receives suspended sentence for aggravated tax fraud (Skin.Club Community) :: other
+2026-10-27 18:35:31   drop[1-source] Women’s Hockey Coach Philippe Bérubé Fired by Hockey Sherbrooke, Suspended by Hockey Québe (The Hockey News) :: Philippe Bérubé, wait 2nd source
