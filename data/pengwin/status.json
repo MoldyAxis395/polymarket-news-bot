@@ -1,15 +1,34 @@
 {
- "updated": "2026-10-27T17:34:46",
+ "updated": "2026-10-27T18:05:40",
  "start": 100.0,
- "cash": 127.99,
- "equity": 127.99,
- "open": [],
+ "cash": 117.99,
+ "equity": 127.83,
+ "open": [
+  {
+   "market_id": "5679331",
+   "question": "US Sassuolo Calcio vs. SS Lazio: Both Teams to Score",
+   "slug": "sea-sas-laz-2026-10-27-btts",
+   "outcome": "Yes",
+   "token": "57924985323644742574483486586370770857930019803215042605492391994591480668240",
+   "shares": 16.129032258064516,
+   "entry": 0.62,
+   "cost": 10.0,
+   "opened": 1793119102.9195364,
+   "opened_iso": "2026-10-27T16:38:22+00:00",
+   "news": "SASSUOLO-LAZIO: GG (esatto)",
+   "reason": "pengwin exact: replicates base pick",
+   "conf": 1.0,
+   "end": "2026-10-27T17:30:00+00:00",
+   "last_bid": 0.61,
+   "book_err": false
+  }
+ ],
  "closed_count": 46,
  "realized_pnl": 27.99,
  "pages": {
-  "pending": 103,
+  "pending": 102,
   "picked": 1,
-  "traded": 46,
+  "traded": 47,
   "skipped": 137,
   "expired": 101
  }

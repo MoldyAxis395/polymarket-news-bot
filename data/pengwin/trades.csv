@@ -92,3 +92,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-25T16:37:46+00:00,SELL,AS Monaco FC vs. Lille OSC: O/U 2.5,Over,18.87,0.0000,0.00,-10.00,resolved
 2026-10-25T20:47:22+00:00,SELL,RC Celta de Vigo vs. Real Betis Balompié: RC Celta de Vigo O/U 0.5,Over,13.33,0.0000,0.00,-10.00,resolved
 2026-10-25T22:28:44+00:00,SELL,FC Barcelona vs. Real Madrid CF: Both Teams to Score,Yes,12.99,1.0000,12.99,+2.99,resolved
+2026-10-27T16:38:22+00:00,BUY,US Sassuolo Calcio vs. SS Lazio: Both Teams to Score,Yes,16.13,0.6200,10.00,,SASSUOLO-LAZIO: GG (esatto) | pengwin exact: replicates base pick
