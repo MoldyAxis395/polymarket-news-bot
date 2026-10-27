@@ -21216,3 +21216,28 @@
 2026-10-27 23:48:34 indexed 988 markets
 2026-10-27 23:49:06 bluesky error x1: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=rapsheet.bsky.social&limit=10&filter=posts_no_
 2026-10-27 23:50:58   drop[team-not-named] Kawhi Leonard to miss Raptors games due to knee injury (CBC) :: Los Angeles Clippers
+2026-10-27 23:53:47 bluesky error x10: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=rapsheet.bsky.social&limit=10&filter=posts_no_
+2026-10-27 23:55:48   drop[1-source] Dallas Mavericks Make Kyrie Irving Injury Announcement Before Thunder Game (heavy.com) :: Kyrie Irving, wait 2nd source
+2026-10-27 23:55:59 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 8)
+2026-10-27 23:56:01 [pengwin] TORINO-COMO: no Polymarket event (try 9)
+2026-10-27 23:58:34 indexed 995 markets
+2026-10-27 23:59:38   drop[verify] Anthony Edwards (G, Minnesota Timberwolves) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: uncertain if injury news is new
+2026-10-28 00:00:10   llm groq-120b: rate limited, skip 465s
+2026-10-28 00:00:11   drop[kind] Tire Additives Dominate River Pollution Through Suspended Particles (Bioengineer.org) :: other
+2026-10-28 00:02:29   drop[not-key] Yves Missi's Injury Comes With a Silver Lining for Pelicans at Center (Sports Illustrated) :: Yves Missi: backup center injury gives starting center a boost
+2026-10-28 00:02:29   drop[unconfirmed] Anthony Edwards injury: Wolves star to miss 2 months after knee surgery (SB Nation) :: knee surgery
+2026-10-28 00:05:15   drop[unconfirmed] Cathedral volleyball seniors reflect on injury-riddled season, run to semistate (IndyStar) :: run to semistate
+2026-10-28 00:05:15   drop[unconfirmed] Anthony Edwards out up to 2 months with ailing knee injury (5 EYEWITNESS NEWS) :: knee injury
+2026-10-28 00:05:15   drop[unconfirmed] Texas Tech RB Cam Dickey Expected to Return from Injury vs. Arizona (roundtable.io) :: injury update
+2026-10-28 00:05:16   drop[unconfirmed] Anthony Edwards to miss up to two months with knee injury (Basketball Network) :: knee injury
+2026-10-28 00:05:16   drop[team-not-named] Anthony Edwards Injury: Wolves Star Needs Knee Surgery (Baller Alert) :: Minnesota Timberwolves
+2026-10-28 00:05:17   drop[kind] Kawhi Leonard Releases Bizarre Statement After Latest Injury Setback (Fadeaway World) :: other
+2026-10-28 00:07:05   drop[1-source] Cheranelloor Crash: 4 Cops Suspended in Kochi Case (urbanacres.in) :: Kochi Police Department, wait 2nd source
+2026-10-28 00:08:37 indexed 986 markets
+2026-10-28 00:09:26   llm groq-120b: rate limited, skip 24s
+2026-10-28 00:09:27   llm groq-20b: rate limited, skip 241s
+2026-10-28 00:09:27   drop[verify] Timberwolves Starting Lineup And Depth Chart After Anthony Edwards Injury (Heavy.com) :: no answer
+2026-10-28 00:11:47   drop[team-not-named] US Ambassador Mike Waltz displays Rolex photos, U.N. meeting suspended (NewsBytes) :: United Nations
+2026-10-28 00:18:35 indexed 989 markets
+2026-10-28 00:21:01 feed politico error x1: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-28 00:21:02   drop[team-not-named] Brandon Woodruff on returning from injury for Game 3 (MLB.com) :: Milwaukee Brewers
