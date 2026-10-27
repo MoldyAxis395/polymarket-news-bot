@@ -21083,3 +21083,28 @@
 2026-10-27 20:52:01 [pengwin] FROSINONE-LECCE: no LLM answer (try 3)
 2026-10-27 20:52:04 [pengwin] FIORENTINA-ATALANTA: no LLM answer (try 3)
 2026-10-27 20:52:15 feed bbc_sport error x1: HTTPSConnectionPool(host='feeds.bbci.co.uk', port=443): Read timed out. (read timeout=15)
+2026-10-27 20:52:48   drop[team-not-named] Rui Hachimura Injury: Ruled out for Wednesday (RotoWire) :: Washington Wizards
+2026-10-27 20:52:48   drop[team-not-named] 19 false BAS lodgements: Chartered accountant opts to stay suspended following $11k order (Accountants Daily) :: 
+2026-10-27 20:54:04 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +6.13 :: US Sassuolo Calcio vs. SS Lazio: Both Teams to Score
+2026-10-27 20:58:03 indexed 1041 markets
+2026-10-27 20:59:27   drop[verify] Rui Hachimura (F, LA Clippers) ruled out: healthy -> Out [NBA] (ESPN) :: player roster uncertain and impact likely insufficient
+2026-10-27 21:02:05   drop[kind] Cyclone Arnab: Flights Suspended At 3 Andhra Airports (GreatAndhra) :: other
+2026-10-27 21:04:21   llm groq-120b: rate limited, skip 176s
+2026-10-27 21:04:22   drop[1-source] Victorian director suspended over 6-year trust account failures (Real Estate Business) :: Real Estate Business, wait 2nd source
+2026-10-27 21:04:22   drop[1-source] Joao Pedro’s injury gives Danny Welbeck chance to build on tally against Man Utd (United In Focus) :: Joao Pedro, wait 2nd source
+2026-10-27 21:08:07 indexed 1023 markets
+2026-10-27 21:09:09   drop[unconfirmed] Pelle Larsson Injury: Probable for Wednesday (RotoWire) :: probable to play Wednesday after injury
+2026-10-27 21:09:09   llm groq-120b: rate limited, skip 197s
+2026-10-27 21:09:10   drop[1-source] Fleetwood vs Arsenal suspended after just two minutes due to DRONE (The Sun) :: Fleetwood Town, wait 2nd source
+2026-10-27 21:12:49   drop[kind] JetBlue stock surges as company outlook calms investors (CNBC) :: other
+2026-10-27 21:13:35   llm groq-120b: rate limited, skip 197s
+2026-10-27 21:13:36   drop[team-not-named] DSNY collections suspended for Election Day (Brooklyn Eagle) :: New York City Department of Sanitation
+2026-10-27 21:13:36   drop[kind] Watch TODAY - Season 2026 - Man charged after claiming injury in Bondi terror attack; Sexi (9Now) :: other
+2026-10-27 21:15:43   llm groq-20b: rate limited, skip 105s
+2026-10-27 21:15:43 NEWS [ESPN 8m] Dont'e Thornton Jr. (WR, Las Vegas Raiders) cleared to play: Injured Reserve -> Active [NFL]
+2026-10-27 21:15:43   skip Raiders :: Raiders vs. Jets (rules fallback, LLM down (not traded))
+2026-10-27 21:18:06 indexed 1037 markets
+2026-10-27 21:18:25   llm groq-120b: rate limited, skip 109s
+2026-10-27 21:18:27   drop[verify] Jazz All-Star Jaren Jackson Jr. out at least 6 weeks with knee injury (Marco Eagle) :: Jaren Jackson Jr. no longer on Jazz
+2026-10-27 21:21:37 [pengwin] page ivisie/willem-ii-cambuur-statistiche-quote-e-pronostico-2026: Response ended prematurely
+2026-10-27 21:21:44 [pengwin] page io/ligue-1/tolosa-troyes-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))

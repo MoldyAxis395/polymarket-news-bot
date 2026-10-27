@@ -1,26 +1,6 @@
 {
- "cash": 117.98711101295773,
- "positions": [
-  {
-   "market_id": "5679331",
-   "question": "US Sassuolo Calcio vs. SS Lazio: Both Teams to Score",
-   "slug": "sea-sas-laz-2026-10-27-btts",
-   "outcome": "Yes",
-   "token": "57924985323644742574483486586370770857930019803215042605492391994591480668240",
-   "shares": 16.129032258064516,
-   "entry": 0.62,
-   "cost": 10.0,
-   "opened": 1793119102.9195364,
-   "opened_iso": "2026-10-27T16:38:22+00:00",
-   "news": "SASSUOLO-LAZIO: GG (esatto)",
-   "reason": "pengwin exact: replicates base pick",
-   "conf": 1.0,
-   "end": "2026-10-27T17:30:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1793130790.3447835
-  }
- ],
+ "cash": 134.11614327102225,
+ "positions": [],
  "closed": [
   {
    "market_id": "5009005",
@@ -1079,6 +1059,29 @@
    "pnl": 2.987012987012987,
    "why": "resolved",
    "closed_iso": "2026-10-25T22:28:45+00:00"
+  },
+  {
+   "market_id": "5679331",
+   "question": "US Sassuolo Calcio vs. SS Lazio: Both Teams to Score",
+   "slug": "sea-sas-laz-2026-10-27-btts",
+   "outcome": "Yes",
+   "token": "57924985323644742574483486586370770857930019803215042605492391994591480668240",
+   "shares": 16.129032258064516,
+   "entry": 0.62,
+   "cost": 10.0,
+   "opened": 1793119102.9195364,
+   "opened_iso": "2026-10-27T16:38:22+00:00",
+   "news": "SASSUOLO-LAZIO: GG (esatto)",
+   "reason": "pengwin exact: replicates base pick",
+   "conf": 1.0,
+   "end": "2026-10-27T17:30:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1793131444.5235522,
+   "exit": 1.0,
+   "pnl": 6.129032258064516,
+   "why": "resolved",
+   "closed_iso": "2026-10-27T19:54:04+00:00"
   }
  ],
  "cooldown": {
@@ -1127,6 +1130,7 @@
   "5526290": 1792889188.8312726,
   "5597100": 1792957067.2065055,
   "5599839": 1792972042.59777,
-  "5599710": 1792978125.1953144
+  "5599710": 1792978125.1953144,
+  "5679331": 1793141644.9568841
  }
 }
