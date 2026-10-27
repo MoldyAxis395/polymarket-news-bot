@@ -21156,3 +21156,32 @@
 2026-10-27 22:20:45   drop[kind] Two police officers out, three suspended after response to AI elementary school threat (KABB) :: other
 2026-10-27 22:20:46   llm groq-120b: rate limited, skip 140s
 2026-10-27 22:20:46   drop[not-key] Washington Wizards Make Major AJ Dybantsa Injury Announcement Before Cavaliers Game (Heavy.com) :: AJ Dybantsa: injury
+2026-10-27 22:23:15   llm groq-120b: rate limited, skip 33s
+2026-10-27 22:23:15   drop[unconfirmed] 'The View' – Joy Behar returns after shoulder injury, month absence (USA Today) :: return after shoulder injury
+2026-10-27 22:23:15   drop[unconfirmed] Tyrese Haliburton Injury: Iffy for Wednesday (RotoWire) :: injury
+2026-10-27 22:23:16   drop[unconfirmed] Memphis under strain as fresh injury delays return for struggling Corinthians (OneFootball) :: injury delay
+2026-10-27 22:24:05 [pengwin] page io/serie-a/roma-cagliari-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-27 22:24:07 [pengwin] TORINO-COMO: no Polymarket event (try 6)
+2026-10-27 22:24:10   llm groq-120b: rate limited, skip 591s
+2026-10-27 22:24:11   llm groq-20b: rate limited, skip 30s
+2026-10-27 22:24:11 [pengwin] VENEZIA-INTER: no LLM answer (try 6)
+2026-10-27 22:25:25   drop[1-source] Deli Hub Catering Suspended After 51 Pupils & 2 Staff Develop Gastroenteritis Symptoms at  (Goody Feed) :: Deli Hub Catering, wait 2nd source
+2026-10-27 22:25:36   drop[no-market] Cooper Companies CEO White steps down; board member Rosebrough named executive chair reut. (Reuters) :: Cooper Companies
+2026-10-27 22:27:44   drop[1-source] State trooper assigned to the Alamo suspended after DWI arrest in New Braunfels, Texas DPS (kens5.com) :: Texas Department of Public Safety, wait 2nd source
+2026-10-27 22:28:23 indexed 1012 markets
+2026-10-27 22:30:01   drop[team-not-named] Keegan Murray Ankle Injury Is Becoming a $140 Million Question (Heavy.com) :: Denver Nuggets
+2026-10-27 22:35:49   drop[no-market] Jordan, Syria to form security committee after deadly strikes on Islamic State sites reut. (Reuters) :: Jordan and Syria
+2026-10-27 22:36:56   drop[not-key] Alex Caruso (ankle) ruled out Wednesday vs. Dallas (NBC Sports) :: Alex Caruso: ankle injury
+2026-10-27 22:38:23 indexed 1002 markets
+2026-10-27 22:39:14   drop[kind] Grundy County High School student suspended Tuesday after reported mass violence threat (WTVC) :: other
+2026-10-27 22:41:46   drop[team-not-named] Jake Hager Undergoes Second Eye Surgery After Power Slap Injury (411MANIA) :: All Elite Wrestling (AEW)
+2026-10-27 22:43:52   llm groq-120b: rate limited, skip 20s
+2026-10-27 22:43:52   drop[1-source] Rockets star Alperen Sengun ruled out for Wednesday's game vs. Milwaukee (Rockets Wire) :: Alperen Sengun, wait 2nd source
+2026-10-27 22:43:53   drop[not-key] Hawkeyes RB Kamari Moulton is out for the season. Xavier Williams will start against Wisco (The Washington Post) :: Kamari Moulton: season-ending injury
+2026-10-27 22:48:27 indexed 990 markets
+2026-10-27 22:48:36   llm groq-120b: rate limited, skip 132s
+2026-10-27 22:48:37 NEWS [ESPN 8m] Chet Holmgren (C, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]
+2026-10-27 22:48:38   BUY Mavericks @ 0.320 x31.2 ($10.00) :: Thunder vs. Mavericks
+2026-10-27 22:48:38   llm groq-20b: rate limited, skip 224s
+2026-10-27 22:48:38 NEWS [ESPN 14m] Alex Caruso (G, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]
+2026-10-27 22:48:38   skip Mavericks :: Thunder vs. Mavericks (rules fallback, LLM down (not traded))

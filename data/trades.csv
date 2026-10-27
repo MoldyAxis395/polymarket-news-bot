@@ -192,3 +192,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-25T15:47:22+00:00,BUY,Dolphins vs. Jets,Jets,15.15,0.6600,10.00,,"Willie Gay Jr. (LB, Miami Dolphins) ruled out: Questionable -> Out [NFL] | llm[groq-20b] trusted: Willie Gay Jr. out hurts Dolphins, so Jets side should rise"
 2026-10-25T16:55:02+00:00,SELL,Browns vs. Titans,Browns,18.18,0.5400,9.82,-0.18,market closing
 2026-10-25T16:55:03+00:00,SELL,Dolphins vs. Jets,Jets,15.15,0.6400,9.70,-0.30,market closing
+2026-10-27T21:48:38+00:00,BUY,Thunder vs. Mavericks,Mavericks,31.25,0.3200,10.00,,"Chet Holmgren (C, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA] | llm[groq-20b] trusted: Holmgren out hurts Thunder, so Mavericks win odds should rise"
