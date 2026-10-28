@@ -21285,3 +21285,20 @@
 2026-10-28 07:18:49   drop[1-source] Arsenal’s £65m midfielder suffers injury blow after just 10 minutes on pitch (Lente Desportiva) :: Bukayo Saka, wait 2nd source
 2026-10-28 07:20:52 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 12)
 2026-10-28 07:20:54 [pengwin] TORINO-COMO: no Polymarket event (try 12)
+2026-10-28 07:28:32 indexed 923 markets
+2026-10-28 07:32:29 feed gnews_top error x1: 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en
+2026-10-28 07:32:35 feed gnews_sport error x1: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en
+2026-10-28 07:32:40 feed gnews_world error x1: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en
+2026-10-28 07:32:49 feed gnews_business error x1: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en
+2026-10-28 07:32:56 feed gnews_reuters error x1: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=when:1h+source:reuters&hl=en-US&gl=US&ceid=US:en
+2026-10-28 07:33:03 feed gnews_injury error x1: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=when:1h+(injury+OR+%22ruled+out%22+OR+suspended)&hl=en-US&gl=US&ceid=US:en
+2026-10-28 07:38:33 indexed 924 markets
+2026-10-28 07:40:37 feed gnews_top error x10: 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en
+2026-10-28 07:40:46 feed gnews_sport error x10: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en
+2026-10-28 07:40:55 feed gnews_world error x10: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en
+2026-10-28 07:41:03 feed gnews_business error x10: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en
+2026-10-28 07:41:12 feed gnews_reuters error x10: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=when:1h+source:reuters&hl=en-US&gl=US&ceid=US:en
+2026-10-28 07:41:20 feed gnews_injury error x10: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=when:1h+(injury+OR+%22ruled+out%22+OR+suspended)&hl=en-US&gl=US&ceid=US:en
+2026-10-28 07:48:53 indexed 940 markets
+2026-10-28 07:51:31 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 13)
+2026-10-28 07:51:34 [pengwin] TORINO-COMO: no Polymarket event (try 13)

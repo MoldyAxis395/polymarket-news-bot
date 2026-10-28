@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-28T07:22:49",
+ "updated": "2026-10-28T07:51:29",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 84,
- "markets_indexed": 929,
- "news_processed": 21,
+ "markets_indexed": 940,
+ "news_processed": 30,
  "cash": 83.54,
  "equity": 83.54,
  "start": 100.0,
@@ -20,7 +20,7 @@
    "groq-120b": "rate limited, skip 385s"
   },
   "rejects": {
-   "fluff": 5,
+   "fluff": 6,
    "1-source": 2
   },
   "calls": {

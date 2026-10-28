@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:22:54",
+ "updated": "2026-10-28T07:52:34",
  "start": 100.0,
  "cash": 134.12,
  "equity": 134.12,
@@ -7,10 +7,10 @@
  "closed_count": 47,
  "realized_pnl": 34.12,
  "pages": {
-  "pending": 95,
+  "pending": 86,
   "picked": 1,
   "traded": 47,
   "skipped": 144,
-  "expired": 101
+  "expired": 110
  }
 }
