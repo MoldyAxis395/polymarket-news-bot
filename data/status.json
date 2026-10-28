@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-28T12:53:12",
+ "updated": "2026-10-28T13:03:05",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 108,
- "markets_indexed": 941,
- "news_processed": 136,
+ "llm_calls_today": 110,
+ "markets_indexed": 943,
+ "news_processed": 141,
  "cash": 83.54,
  "equity": 83.54,
  "start": 100.0,
@@ -25,7 +25,7 @@
    "no-market": 1
   },
   "calls": {
-   "groq-120b": 77,
+   "groq-120b": 79,
    "groq-20b": 31
   }
  },
