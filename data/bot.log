@@ -21736,3 +21736,24 @@
 2026-10-28 23:03:07 indexed 925 markets
 2026-10-28 23:05:30 [pengwin] league coppa-italia: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 2026-10-28 23:07:43 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 39)
+2026-10-28 23:07:46 [pengwin] TORINO-COMO: no Polymarket event (try 39)
+2026-10-28 23:07:52   drop[kind] Research report: Help-seeking patterns for non-suicidal self-injury across (Bioengineer.org) :: other
+2026-10-28 23:12:41   drop[kind] Girl seriously injured in wolf attack at German wildlife park (BBC) :: other
+2026-10-28 23:13:15 indexed 917 markets
+2026-10-28 23:14:51   drop[1-source] Nothing kills the vibe in Baltimore quite like an injury to Lamar Jackson. This year is no (Your Valley) :: Lamar Jackson, wait 2nd source
+2026-10-28 23:19:29   drop[team-not-named] Aaron Jones out of practice with a knee injury (NBC Sports) :: Green Bay Packers
+2026-10-28 23:21:55   llm groq-120b: rate limited, skip 133s
+2026-10-28 23:21:55   drop[kind] Matt Lloyd, Timberwolves GM on ANT injury, hot start, Lamelo and more! (Audacy) :: other
+2026-10-28 23:21:56   drop[1-source] Another Texans receiver goes down to injury (KHOU) :: Jalen Reagor, wait 2nd source
+2026-10-28 23:22:31 NEWS [BBC 3m] Russo scores hat-trick as Arsenal beat Benfica
+2026-10-28 23:22:31   skip Yes :: Will Arsenal FC win on 2026-11-01? (low conf 0.6)
+2026-10-28 23:23:15 indexed 909 markets
+2026-10-28 23:24:06   drop[kind] NBA coach on injury wave: ‘We as coaches are asking a lot about it’ (Fear The Sword) :: other
+2026-10-28 23:24:07   drop[team-not-named] Patrick Williams has been ruled out against Knicks (NBC Sports) :: Chicago Bulls
+2026-10-28 23:27:34   drop[not-key] Tre Johnson (G, Washington Wizards) ruled out: healthy -> Out [NBA] (ESPN) :: Tre Johnson: Johnson ruled out despite recent 20-point game
+2026-10-28 23:28:42   drop[kind] Bengals WR Ja’Marr Chase misses Wednesday practice amid ankle injury (Yahoo Sports) :: other
+2026-10-28 23:31:14   llm groq-120b: rate limited, skip 140s
+2026-10-28 23:31:15   drop[not-key] Texans WR Jaylin Noel will miss rest of the season with turf toe injury (Yahoo Sports) :: Jaylin Noel: injury
+2026-10-28 23:31:38   drop[not-key] Tobe Awaka (F, Chicago Bulls) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Tobe Awaka: injury
+2026-10-28 23:31:39   drop[unconfirmed] Patrick Williams (F, Chicago Bulls) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: day-to-day
+2026-10-28 23:33:15 indexed 901 markets
