@@ -21288,3 +21288,18 @@
 2026-10-28 05:00:56 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x7f0e12956300>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
 2026-10-28 05:03:32 indexed 962 markets
 2026-10-28 05:03:49   drop[kind] Lakers rookie takes major step toward debut after frustrating injury setback (New York Post) :: other
+2026-10-28 05:08:13   drop[1-source] Ausar Thompson 'felt great' after return from ankle injury vs Knicks (Detroit Free Press) :: Ausar Thompson, wait 2nd source
+2026-10-28 05:08:13   llm groq-120b: rate limited, skip 157s
+2026-10-28 05:08:14   drop[kind] John Kavanagh Backs Conor McGregor’s Explanation for UFC 329 Knee Injury - "We Hadn’t Trai (MMA Sucka) :: other
+2026-10-28 05:09:12 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 13)
+2026-10-28 05:09:15 [pengwin] TORINO-COMO: no Polymarket event (try 13)
+2026-10-28 05:13:32 indexed 946 markets
+2026-10-28 05:19:47   drop[kind] Celtics superstar Jayson Tatum relishes ‘hell of a feeling’ recording 1st buzzer-beater si (ClutchPoints) :: other
+2026-10-28 05:22:16   drop[no-market] Bangladesh bat first in Mirpur Test as Mushfiqur misses out with finger injury (United News of Bangladesh) :: Bangladesh national cricket team
+2026-10-28 05:23:32 indexed 945 markets
+2026-10-28 05:24:23   drop[team-not-named] Mushfiqur out with 'contusion injury', expected to be fit for second Test against West Ind (Cricinfo) :: Bangladesh national cricket team
+2026-10-28 05:24:23   llm groq-120b: rate limited, skip 38s
+2026-10-28 05:24:24   drop[unconfirmed] Thunder Guard Projected To Be All-Star This Season Due To Jalen Williams Injury (Heavy.com) :: injury
+2026-10-28 05:29:09   drop[kind] Train stopped in Fresno as police respond to possible injury call (kmph.com) :: other
+2026-10-28 05:33:34 indexed 951 markets
+2026-10-28 05:35:56   drop[1-source] Wednesday briefing: LaLiga apologises to Chinese fans as broadcasts are suspended (Football Finance Data) :: LaLiga, wait 2nd source
