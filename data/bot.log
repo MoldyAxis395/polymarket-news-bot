@@ -21757,3 +21757,36 @@
 2026-10-28 23:31:38   drop[not-key] Tobe Awaka (F, Chicago Bulls) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Tobe Awaka: injury
 2026-10-28 23:31:39   drop[unconfirmed] Patrick Williams (F, Chicago Bulls) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: day-to-day
 2026-10-28 23:33:15 indexed 901 markets
+2026-10-28 23:38:17 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 40)
+2026-10-28 23:38:20 [pengwin] TORINO-COMO: no Polymarket event (try 40)
+2026-10-28 23:38:24   llm groq-120b: rate limited, skip 192s
+2026-10-28 23:38:26   drop[verify] Charlotte FC confirmed lineup vs CF Montréal: Liel Abada, David Schnegg ruled out of start (ESPN) :: Abada not key starter, insufficient impact
+2026-10-28 23:38:27   drop[verify] CF Montréal confirmed lineup vs Charlotte FC: Viktor Radojevic, Olger Escobar, Dani Pereir (ESPN) :: Player not on team, not star, not market-moving
+2026-10-28 23:38:28   drop[side] New England Revolution confirmed lineup vs Red Bull New York: Peyton Miller, Matt Polster  (ESPN) :: Will New England Revolution win on 2026-10-28? -> Yes vs fact ruled_out: Peyton Miller (New England Revolution, soccer),
+2026-10-28 23:38:29 NEWS [ESPN 0m] Red Bull New York confirmed lineup vs New England Revolution: Justin Che, Julián Bazán, Cameron Harper ruled out of starting XI [usa.1]
+2026-10-28 23:38:29   skip Yes :: Will New England Revolution win on 2026-10-28? (low conf 0.6)
+2026-10-28 23:38:30   drop[no-pick] Atlanta United FC confirmed lineup vs New York City FC: Elías Baez, Jay Fortune ruled out  (ESPN) :: no matching market
+2026-10-28 23:40:28   drop[1-source] Key Browns Player Is Dealing With An Injury (Browns Nation) :: J.K. Dobbins, wait 2nd source
+2026-10-28 23:42:33   llm groq-120b: rate limited, skip 15s
+2026-10-28 23:42:34   drop[no-pick] Toronto FC confirmed lineup vs D.C. United: Zane Monlouis, Lewis Morgan ruled out of start (ESPN) :: short
+2026-10-28 23:42:34   drop[not-key] D.C. United confirmed lineup vs Toronto FC: Jackson Hopkins, Tai Baribo, Brandon Servania  (ESPN) :: Jackson Hopkins: injury
+2026-10-28 23:43:16 indexed 898 markets
+2026-10-28 23:44:54   llm groq-120b: rate limited, skip 275s
+2026-10-28 23:44:54   drop[no-pick] The Impact Of Kamari Moulton's Season-Ending Injury On Iowa RB Room | SwarmCast Stream of  (CBS Sports) :: short
+2026-10-28 23:46:41 NEWS [ESPN 0m] FC Cincinnati confirmed lineup vs Inter Miami CF: Kyle Smith, Pavel Bucha, Tom Barlow ruled out of starting XI [usa.1]
+2026-10-28 23:46:41   skip No :: Will FC Cincinnati win on 2026-10-28? (low conf 0.6)
+2026-10-28 23:47:11   drop[1-source] Detroit Lions Reveal Surprise Jahmyr Gibbs Injury (Sports Illustrated) :: Jahmyr Gibbs, wait 2nd source
+2026-10-28 23:47:12   drop[kind] What Glen Johnson noticed about Maxence Lacroix off camera after injury against Liverpool (The Chelsea Chronicle) :: other
+2026-10-28 23:49:41   drop[kind] Anthony Edwards' Injury Leaving Fans Wondering What's Next (cbs19.tv) :: other
+2026-10-28 23:49:41   llm groq-120b: rate limited, skip 186s
+2026-10-28 23:49:41   drop[kind] Dallas Man Found Dead With Chest Injury, Police Investigate (Hoodline) :: other
+2026-10-28 23:51:48   drop[1-source] Haliburton's injury changes everything for the Pacers (Sports Illustrated) :: Jordan Haliburton, wait 2nd source
+2026-10-28 23:53:17 indexed 892 markets
+2026-10-28 23:54:07   drop[kind] The Denver Broncos get a mixed bag on the injury front as they begin preparing for the Kan (DNVR) :: other
+2026-10-29 00:00:34   drop[not-key] Gui Santos (F, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Gui Santos: ruled out
+2026-10-29 00:01:03   llm groq-120b: rate limited, skip 114s
+2026-10-29 00:01:04   drop[kind] Ryan Lambert’s ‘just rip it’ approach has him refinding what had him close to helping Mets (New York Post) :: other
+2026-10-29 00:03:18 indexed 935 markets
+2026-10-29 00:03:24   drop[kind] Brandon Valenzuela was called up as an injury replacement for Alejandro Kirk and stuck aro (Blue Jays Nation) :: other
+2026-10-29 00:05:42   llm groq-120b: rate limited, skip 51s
+2026-10-29 00:05:43   drop[1-source] New Zealand lose two key bowlers to injury for India T20Is (ICC) :: Lockie Ferguson, wait 2nd source
