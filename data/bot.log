@@ -21179,3 +21179,19 @@
 2026-10-28 01:35:12 [pengwin] TORINO-COMO: no Polymarket event (try 6)
 2026-10-28 01:35:15   llm groq-120b: rate limited, skip 655s
 2026-10-28 01:35:15 [pengwin] VENEZIA-INTER: no LLM answer (try 6)
+2026-10-28 01:38:11   llm groq-20b: rate limited, skip 137s
+2026-10-28 01:40:32   drop[kind] Adolescents With Self-Injury Linger Longer on NSSI-Related Social Media Posts, Eye-Trackin (Bioengineer.org) :: other
+2026-10-28 01:43:08 indexed 984 markets
+2026-10-28 01:43:23   drop[kind] Ameliorating effects and mechanisms of therapeutic electrical stimulation on the recurrent (Nature) :: other
+2026-10-28 01:43:23   llm groq-20b: rate limited, skip 118s
+2026-10-28 01:45:32   llm groq-20b: rate limited, skip 7s
+2026-10-28 01:47:53   drop[team-not-named] NBA Superstar To Miss Good Portion Of Season After Suffering Injury: REPORT (The Daily Caller) :: 
+2026-10-28 01:53:10 indexed 985 markets
+2026-10-28 02:01:54   drop[unconfirmed] NBA Icon Raises Alarm on Anthony Edwards’ Unexpected Injury That Will Sideline Him for 2 M (www.basketballnews.com) :: expected 2‑month absence
+2026-10-28 02:03:11 indexed 986 markets
+2026-10-28 02:04:03   drop[1-source] ‘They can’t handle us’ - Barcelona’s Xavi Espart sends upbeat message after injury setback (Barca Blaugranes) :: Xavi Espart, wait 2nd source
+2026-10-28 02:04:42 [pengwin] page /calcio/europa-league/statistiche-quote-e-pronostico-2026-58: ('Connection broken: IncompleteRead(2042 bytes read, 4021 more expected)', IncompleteRead(2042 bytes read, 4021 more expected))
+2026-10-28 02:05:10 [pengwin] page b/virtus-entella-mantova-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-28 02:06:26 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 7)
+2026-10-28 02:06:29 [pengwin] TORINO-COMO: no Polymarket event (try 7)
+2026-10-28 02:06:32 [pengwin] skip VENEZIA-INTER [OVER 1.5 CARTELLI CASA]: Base pick is over 1.5 home cards, but no card market exists in Polymarket
