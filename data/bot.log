@@ -21502,3 +21502,20 @@
 2026-10-28 16:32:29   drop[1-source] Bristol Bears injury latest on Benhard Janse van Rensburg, Steven Luatua, Gabriel Oghre, G (Bristol Live) :: Benhard Janse van Rensburg, wait 2nd source
 2026-10-28 16:34:31 indexed 1022 markets
 2026-10-28 16:36:59   drop[1-source] BY HOOK OR BY CROOK - Mbonambi to return from injury for Stormers on bench v Ulster (Daily Voice) :: Jaco Mbonambi, wait 2nd source
+2026-10-28 16:39:22 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 30)
+2026-10-28 16:39:25   llm groq-120b: rate limited, skip 79s
+2026-10-28 16:39:25 [pengwin] TORINO-COMO: no Polymarket event (try 30)
+2026-10-28 16:41:45   llm groq-120b: rate limited, skip 29s
+2026-10-28 16:41:47   drop[no-market] Oak Ridge Officer Suspended Over Flock Camera Misuse (Hoodline) :: Oak Ridge Police Department
+2026-10-28 16:43:51   drop[kind] Lamar Contract Cloud Looms Over Potential Return from Injury Stream of National Football L (CBS Sports) :: other
+2026-10-28 16:44:32 indexed 1021 markets
+2026-10-28 16:51:04   drop[team-not-named] Severity of Steve Smith’s neck injury revealed after late withdrawal (Nine.com.au) :: Australia national cricket team
+2026-10-28 16:54:35 indexed 1023 markets
+2026-10-28 16:55:27   drop[team-not-named] NBA Week 2 Injury Report: Anthony Edwards, Jaren Jackson Jr. set to miss multiple months (NBC Sports) :: Minnesota Timberwolves and Memphis Grizzlies
+2026-10-28 16:57:46   drop[1-source] Meta Faces Election Interference Questions After Angie Nixon's Latino Instagram Is Suspend (International Business Times UK) :: Angie Nixon, wait 2nd source
+2026-10-28 17:04:38 indexed 1041 markets
+2026-10-28 17:04:45   drop[not-key] Cobblers team news for Accrington Stanley - Hogg provides injury latest (Northampton Chronicle and Echo) :: Sam Hogg: injury update rules him out for upcoming match
+2026-10-28 17:04:45   llm groq-120b: rate limited, skip 175s
+2026-10-28 17:04:46   drop[1-source] Newcastle United make Everton decision after long-term injury blow (Shields Gazette) :: Newcastle United, wait 2nd source
+2026-10-28 17:05:59   drop[side] Zach Hyman (LW, Edmonton Oilers) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: Flames vs. Oilers -> Oilers vs fact ruled_out: Zach Hyman (Edmonton Oilers, nhl), bad for Edmonton Oilers. injured
+2026-10-28 17:07:03   drop[unconfirmed] SPORTS SCOPE: Kawhi Leonard’s latest NBA injury raises more questions (SaskToday.ca) :: injury
