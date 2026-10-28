@@ -21292,3 +21292,14 @@
 2026-10-28 01:13:01   llm groq-120b: rate limited, skip 96s
 2026-10-28 01:13:01   llm groq-20b: rate limited, skip 126s
 2026-10-28 01:18:42 indexed 992 markets
+2026-10-28 01:23:24   drop[kind] Josh Jacobs says Packers running backs must help out their injury-riddled offensive line (WTOP News) :: other
+2026-10-28 01:23:25   drop[1-source] Sheboygan County clerk suspended over data breach (Wisconsin Law Journal) :: Sheboygan County Clerk's Office, wait 2nd source
+2026-10-28 01:25:37 [pengwin] page -league/kups-trabzonspor-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-28 01:27:13 [pengwin] page nce-league/getafe-lugano-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-28 01:27:40 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 11)
+2026-10-28 01:27:42 [pengwin] TORINO-COMO: no Polymarket event (try 12)
+2026-10-28 01:28:44 indexed 990 markets
+2026-10-28 01:30:23   llm groq-120b: rate limited, skip 240s
+2026-10-28 01:30:24 NEWS [TribLIVE.com 4m] Timberwolves’ Anthony Edwards will miss up to 2 months with knee injury
+2026-10-28 01:30:24   skip Warriors :: Warriors vs. Timberwolves (rss sport (measure only))
+2026-10-28 01:32:22 shift over, state saved
