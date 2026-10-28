@@ -21315,3 +21315,12 @@
 2026-10-28 08:51:28 indexed 931 markets
 2026-10-28 08:52:51 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 15)
 2026-10-28 08:52:54 [pengwin] TORINO-COMO: no Polymarket event (try 15)
+2026-10-28 09:01:35 indexed 935 markets
+2026-10-28 09:02:53 feed gnews_top error x100: 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en
+2026-10-28 09:03:02 feed gnews_sport error x100: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en
+2026-10-28 09:03:10 feed gnews_world error x100: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en
+2026-10-28 09:03:16 feed gnews_business error x100: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en
+2026-10-28 09:03:22 feed gnews_reuters error x100: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=when:1h+source:reuters&hl=en-US&gl=US&ceid=US:en
+2026-10-28 09:03:30 feed gnews_injury error x100: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=when:1h+(injury+OR+%22ruled+out%22+OR+suspended)&hl=en-US&gl=US&ceid=US:en
+2026-10-28 09:11:50 indexed 936 markets
+2026-10-28 09:21:59 indexed 931 markets
