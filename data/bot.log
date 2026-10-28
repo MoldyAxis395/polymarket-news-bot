@@ -21718,3 +21718,21 @@
 2026-10-28 22:35:43   drop[kind] Edwards' Two-Month Injury Risks MVP, All-NBA (조선일보) :: other
 2026-10-28 22:37:14 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 38)
 2026-10-28 22:37:16 [pengwin] TORINO-COMO: no Polymarket event (try 38)
+2026-10-28 22:40:07   llm groq-120b: rate limited, skip 194s
+2026-10-28 22:40:08   drop[side] Lobotka injury: Napoli star stretchered off in tears (Yahoo Sports) :: Will SSC Napoli win on 2026-11-01? -> Yes vs fact ruled_out: Lorenzo Lobotka (SSC Napoli, soccer), bad for SSC Napoli. i
+2026-10-28 22:40:08   drop[not-key] Eagles Put Dameon Pierce on IR But Maintain Injury Mystery (Draft Sharks) :: Dameon Pierce: injury
+2026-10-28 22:43:05 indexed 929 markets
+2026-10-28 22:44:55   drop[1-source] Bills Get Good News on Key Wide Receiver After Season-Ending Injury (Heavy.com) :: Micheal Gallup, wait 2nd source
+2026-10-28 22:44:55   llm groq-120b: rate limited, skip 360s
+2026-10-28 22:44:56   drop[unconfirmed] Ravens QB Lamar Jackson takes major step toward return from ankle injury (WBAL News Radio) :: ankle injury recovery
+2026-10-28 22:47:04   drop[kind] Halton officer charged in connection with 2025 vehicle chase injury: SIU (Global News) :: other
+2026-10-28 22:49:22   drop[kind] A.J. Brown not making excuses as he works back from injury (Pats Pulpit) :: other
+2026-10-28 22:53:06 indexed 915 markets
+2026-10-28 22:56:18   drop[1-source] Injury Report: Pat Surtain II improves to full participant, 3 Broncos do not practice ahea (Denver Broncos) :: Pat Surtain II, wait 2nd source
+2026-10-28 22:56:18   drop[not-key] Texans put WR Jaylin Noel on IR with expected season-ending turf toe injury (ESPN) :: Jaylin Noel: season-ending turf toe injury
+2026-10-28 22:56:19   llm groq-120b: rate limited, skip 220s
+2026-10-28 22:56:19   drop[kind] Driver cited after striking road worker, causing critical injury, near Ferris (Herald-Whig) :: other
+2026-10-28 23:00:36 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-28 23:03:07 indexed 925 markets
+2026-10-28 23:05:30 [pengwin] league coppa-italia: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-28 23:07:43 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 39)
