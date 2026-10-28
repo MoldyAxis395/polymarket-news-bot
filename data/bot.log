@@ -21272,3 +21272,23 @@
 2026-10-28 00:51:16   llm groq-120b: rate limited, skip 134s
 2026-10-28 00:51:19   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
 2026-10-28 00:51:19   drop[verify] Timberwolves' Anthony Edwards facing lengthy layoff after knee injury (Yardbarker) :: no answer
+2026-10-28 00:55:37   llm groq-120b: rate limited, skip 125s
+2026-10-28 00:55:37   drop[no-pick] Anthony Edwards injury puts Timberwolves in a tough spot after strong start to season (Dunking with Wolves) :: no suitable outcome to rise
+2026-10-28 00:56:48 [pengwin] page gue/kauno-zalgiris-brann-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-28 00:57:08 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 10)
+2026-10-28 00:57:10 [pengwin] TORINO-COMO: no Polymarket event (try 11)
+2026-10-28 00:58:40 indexed 965 markets
+2026-10-28 00:58:42   llm groq-120b: rate limited, skip 27s
+2026-10-28 00:58:42   llm groq-20b: rate limited, skip 17s
+2026-10-28 00:58:42   drop[no-pick] Drew Doughty (D, Los Angeles Kings) ruled out: healthy -> Out [NHL] (ESPN) :: None
+2026-10-28 01:02:39   drop[1-source] Massive blow for Bath as Carreras ruled out for rest of season (Bath Echo) :: Michele Carreras, wait 2nd source
+2026-10-28 01:07:16   drop[kind] Jaren Jackson will not need surgery for MCL injury (HoopsHype) :: other
+2026-10-28 01:08:40 indexed 997 markets
+2026-10-28 01:09:48   llm groq-120b: rate limited, skip 6s
+2026-10-28 01:09:49   drop[kind] Chris Bey Reflects On Two-Year Anniversary Of Injury & His Journey Since (411MANIA) :: other
+2026-10-28 01:09:55   llm groq-120b: rate limited, skip 17s
+2026-10-28 01:09:56   drop[side] Carter Hart (G, Vegas Golden Knights) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Senators vs. Golden Knights -> Golden Knights vs fact ruled_out: Carter Hart (Vegas Golden Knights, nhl), bad for Vegas 
+2026-10-28 01:11:55   drop[1-source] Iowa football news: Hawkeyes lose star running back to brutal season-ending injury (ClutchPoints) :: Iowa Hawkeyes, wait 2nd source
+2026-10-28 01:13:01   llm groq-120b: rate limited, skip 96s
+2026-10-28 01:13:01   llm groq-20b: rate limited, skip 126s
+2026-10-28 01:18:42 indexed 992 markets

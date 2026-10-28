@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-28T00:52:42",
+ "updated": "2026-10-28T01:22:30",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 527,
- "markets_indexed": 975,
- "news_processed": 357,
+ "llm_calls_today": 10,
+ "markets_indexed": 992,
+ "news_processed": 376,
  "cash": 81.04,
  "equity": 81.04,
  "start": 100.0,
@@ -15,25 +15,26 @@
    "groq-120b",
    "groq-20b"
   ],
-  "fallbacks": 40,
+  "fallbacks": 42,
   "errors": {
-   "groq-120b": "rate limited, skip 134s",
-   "groq-20b": "HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions"
+   "groq-120b": "rate limited, skip 96s",
+   "groq-20b": "rate limited, skip 126s"
   },
   "rejects": {
    "not-key": 12,
    "unconfirmed": 13,
-   "no-pick": 3,
-   "fluff": 93,
-   "kind": 24,
+   "no-pick": 5,
+   "fluff": 100,
+   "kind": 26,
    "team-not-named": 21,
-   "1-source": 18,
+   "1-source": 20,
    "verify": 7,
-   "no-market": 4
+   "no-market": 4,
+   "side": 1
   },
   "calls": {
-   "groq-120b": 289,
-   "groq-20b": 238
+   "groq-120b": 6,
+   "groq-20b": 4
   }
  },
  "realized_pnl": -18.96
