@@ -21195,3 +21195,16 @@
 2026-10-28 02:06:26 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 7)
 2026-10-28 02:06:29 [pengwin] TORINO-COMO: no Polymarket event (try 7)
 2026-10-28 02:06:32 [pengwin] skip VENEZIA-INTER [OVER 1.5 CARTELLI CASA]: Base pick is over 1.5 home cards, but no card market exists in Polymarket
+2026-10-28 02:09:27   llm groq-120b: rate limited, skip 188s
+2026-10-28 02:09:27   drop[no-market] SK Hynix announces over $25 billion in dividends and buyback as third-quarter profit beats (CNBC) :: SK Hynix
+2026-10-28 02:11:10   drop[team-not-named] Lower Leg Injury Sidelines CJ Kirst for Global Lacrosse Games, Start of NLL Season (Inside Lacrosse) :: Rochester Knighthawks
+2026-10-28 02:13:12 indexed 984 markets
+2026-10-28 02:15:36   drop[not-key] Nets news: Egor Demin ruled out for rest of Celtics game with concerning injury (ClutchPoints) :: Egor Demin: ruled out for remainder of Celtics game due to injury
+2026-10-28 02:23:13 indexed 985 markets
+2026-10-28 02:26:54 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-28 02:29:37   drop[1-source] “We Never Went Down Like This”: NBA Icon Calls Anthony Edwards Injury an ‘Epidemic’ as Tim (EssentiallySports) :: Anthony Edwards, wait 2nd source
+2026-10-28 02:33:16 indexed 989 markets
+2026-10-28 02:34:00 [pengwin] page -league/kups-trabzonspor-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-28 02:35:54   drop[1-source] Sharks Prospect Resumes Skating After Unfortunate Injury (Sharks Hockey Digest) :: San Jose Sharks, wait 2nd source
+2026-10-28 02:36:06 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 8)
+2026-10-28 02:36:08 [pengwin] TORINO-COMO: no Polymarket event (try 8)
