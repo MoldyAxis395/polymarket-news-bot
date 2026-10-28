@@ -21614,3 +21614,34 @@
 2026-10-28 18:44:07   drop[1-source] UCF Defensive Back Ruled Out vs. Baylor: Injury Report Breakdown (Sports Illustrated) :: UCF Knights, wait 2nd source
 2026-10-28 18:44:48 indexed 989 markets
 2026-10-28 18:48:32 shift over, state saved
+2026-10-28 21:02:28 === start mode=paper pid=2566 ===
+2026-10-28 21:02:28 brain=llm cash=83.54 open=0
+2026-10-28 21:02:28 resuming with 5622 known news items
+2026-10-28 21:02:56 indexed 943 markets
+2026-10-28 21:03:22   drop[verify] Jaelan Phillips (LB, Carolina Panthers) ruled out: Questionable -> Out [NFL] (ESPN) :: Jaelan Phillips not a market‑moving starter
+2026-10-28 21:03:22   drop[not-key] Torricelli Simpkins III (G, Carolina Panthers) ruled out: Questionable -> Out [NFL] (ESPN) :: Torricelli Simpkins III: injury
+2026-10-28 21:03:23   drop[not-key] Damien Lewis (G, Carolina Panthers) ruled out: Questionable -> Out [NFL] (ESPN) :: Damien Lewis: ruled out
+2026-10-28 21:03:23   drop[not-key] Akayleb Evans (CB, Carolina Panthers) ruled out: Questionable -> Out [NFL] (ESPN) :: Akayleb Evans: injury
+2026-10-28 21:03:24 NEWS [ESPN 59m] Zaire Franklin (LB, Green Bay Packers) ruled out: Doubtful -> Out [NFL]
+2026-10-28 21:03:24   skip Panthers :: Panthers vs. Packers (low conf 0.6)
+2026-10-28 21:03:25   drop[not-key] Travis Glover (OT, Green Bay Packers) ruled out: Questionable -> Out [NFL] (ESPN) :: Travis Glover: injury
+2026-10-28 21:03:27   drop[verify] Marcus Smart (G, Houston Rockets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Uncertain if Smart is still on Rockets and his impact likely insufficient to swing market >5 points
+2026-10-28 21:03:29   drop[verify] Tyrese Haliburton (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Uncertain if Haliburton still plays for Pacers in 2026
+2026-10-28 21:03:29   llm groq-120b: rate limited, skip 7s
+2026-10-28 21:03:33   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-28 21:03:33   drop[verify] Jose Alvarado (G, New York Knicks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: no answer
+2026-10-28 21:03:35   drop[not-key] Elmer Soderblom (LW, Pittsburgh Penguins) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: Elmer Soderblom: injury
+2026-10-28 21:03:38   drop[verify] Zemgus Girgensons (C, Tampa Bay Lightning) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: depth player, not enough impact
+2026-10-28 21:03:38   drop[not-key] Kirill Marchenko (RW, Toronto Maple Leafs) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Kirill Marchenko: injury
+2026-10-28 21:03:38   llm groq-120b: rate limited, skip 2s
+2026-10-28 21:03:39   drop[unconfirmed] 🚨 Benjamin Šreško will be out until at least January due to shin injury, confirmed. Manche (Fabrizio Romano) :: shin injury
+2026-10-28 21:03:39   drop[kind] Spanish town rallies to help victims of deadly train crash reut.rs/4stkymp (Reuters) :: other
+2026-10-28 21:03:40   drop[1-source] What the Justin Champagnie Injury Means for Wizards Rotation (Sports Illustrated) :: Justin Champagnie, wait 2nd source
+2026-10-28 21:03:40   drop[kind] Thunder Face $70 Million Dilemma After Devastating Injury Blow (heavy.com) :: other
+2026-10-28 21:03:55 [pengwin] page o/ligue-1/monaco-lille-statistiche-quote-e-pronostico-2026-2: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-28 21:05:05 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 35)
+2026-10-28 21:05:09 [pengwin] TORINO-COMO: no Polymarket event (try 35)
+2026-10-28 21:05:17   drop[no-market] Germany opens door to offshore wind returns as sector pressures grow reut.rs/4z9Y508 (Reuters) :: Germany
+2026-10-28 21:05:18   drop[kind] Matthew Golden and Devonte Wyatt are Questionable for TNF vs. Panthers (97.3 KKRC) :: other
+2026-10-28 21:05:19 NEWS [CNBC 1m] Microsoft stock jumps 5% as cloud growth drives earnings and revenue beat
+2026-10-28 21:05:19   skip Yes :: Will Microsoft be the third-largest company in the world by market cap (low conf 0.6)
