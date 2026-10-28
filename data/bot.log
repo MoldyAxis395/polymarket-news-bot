@@ -21156,150 +21156,26 @@
 2026-10-27 22:20:45   drop[kind] Two police officers out, three suspended after response to AI elementary school threat (KABB) :: other
 2026-10-27 22:20:46   llm groq-120b: rate limited, skip 140s
 2026-10-27 22:20:46   drop[not-key] Washington Wizards Make Major AJ Dybantsa Injury Announcement Before Cavaliers Game (Heavy.com) :: AJ Dybantsa: injury
-2026-10-27 22:23:15   llm groq-120b: rate limited, skip 33s
-2026-10-27 22:23:15   drop[unconfirmed] 'The View' – Joy Behar returns after shoulder injury, month absence (USA Today) :: return after shoulder injury
-2026-10-27 22:23:15   drop[unconfirmed] Tyrese Haliburton Injury: Iffy for Wednesday (RotoWire) :: injury
-2026-10-27 22:23:16   drop[unconfirmed] Memphis under strain as fresh injury delays return for struggling Corinthians (OneFootball) :: injury delay
-2026-10-27 22:24:05 [pengwin] page io/serie-a/roma-cagliari-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-27 22:24:07 [pengwin] TORINO-COMO: no Polymarket event (try 6)
-2026-10-27 22:24:10   llm groq-120b: rate limited, skip 591s
-2026-10-27 22:24:11   llm groq-20b: rate limited, skip 30s
-2026-10-27 22:24:11 [pengwin] VENEZIA-INTER: no LLM answer (try 6)
-2026-10-27 22:25:25   drop[1-source] Deli Hub Catering Suspended After 51 Pupils & 2 Staff Develop Gastroenteritis Symptoms at  (Goody Feed) :: Deli Hub Catering, wait 2nd source
-2026-10-27 22:25:36   drop[no-market] Cooper Companies CEO White steps down; board member Rosebrough named executive chair reut. (Reuters) :: Cooper Companies
-2026-10-27 22:27:44   drop[1-source] State trooper assigned to the Alamo suspended after DWI arrest in New Braunfels, Texas DPS (kens5.com) :: Texas Department of Public Safety, wait 2nd source
-2026-10-27 22:28:23 indexed 1012 markets
-2026-10-27 22:30:01   drop[team-not-named] Keegan Murray Ankle Injury Is Becoming a $140 Million Question (Heavy.com) :: Denver Nuggets
-2026-10-27 22:35:49   drop[no-market] Jordan, Syria to form security committee after deadly strikes on Islamic State sites reut. (Reuters) :: Jordan and Syria
-2026-10-27 22:36:56   drop[not-key] Alex Caruso (ankle) ruled out Wednesday vs. Dallas (NBC Sports) :: Alex Caruso: ankle injury
-2026-10-27 22:38:23 indexed 1002 markets
-2026-10-27 22:39:14   drop[kind] Grundy County High School student suspended Tuesday after reported mass violence threat (WTVC) :: other
-2026-10-27 22:41:46   drop[team-not-named] Jake Hager Undergoes Second Eye Surgery After Power Slap Injury (411MANIA) :: All Elite Wrestling (AEW)
-2026-10-27 22:43:52   llm groq-120b: rate limited, skip 20s
-2026-10-27 22:43:52   drop[1-source] Rockets star Alperen Sengun ruled out for Wednesday's game vs. Milwaukee (Rockets Wire) :: Alperen Sengun, wait 2nd source
-2026-10-27 22:43:53   drop[not-key] Hawkeyes RB Kamari Moulton is out for the season. Xavier Williams will start against Wisco (The Washington Post) :: Kamari Moulton: season-ending injury
-2026-10-27 22:48:27 indexed 990 markets
-2026-10-27 22:48:36   llm groq-120b: rate limited, skip 132s
-2026-10-27 22:48:37 NEWS [ESPN 8m] Chet Holmgren (C, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]
-2026-10-27 22:48:38   BUY Mavericks @ 0.320 x31.2 ($10.00) :: Thunder vs. Mavericks
-2026-10-27 22:48:38   llm groq-20b: rate limited, skip 224s
-2026-10-27 22:48:38 NEWS [ESPN 14m] Alex Caruso (G, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]
-2026-10-27 22:48:38   skip Mavericks :: Thunder vs. Mavericks (rules fallback, LLM down (not traded))
-2026-10-27 22:53:10   drop[team-not-named] OU basketball center Duke Brennan 'super sad' to see Jalen Williams' injury (The Oklahoman) :: Detroit Pistons
-2026-10-27 22:54:42   llm groq-120b: rate limited, skip 114s
-2026-10-27 22:54:42 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 6)
-2026-10-27 22:54:44 [pengwin] TORINO-COMO: no Polymarket event (try 7)
-2026-10-27 22:54:47   llm groq-20b: rate limited, skip 616s
-2026-10-27 22:54:47 [pengwin] VENEZIA-INTER: no LLM answer (try 7)
-2026-10-27 22:58:26 indexed 993 markets
-2026-10-27 23:00:26   drop[kind] Yaxel Lendeborg's Foot Injury Has Status in Doubt for Warriors-Timberwolves Game (Sports Illustrated) :: other
-2026-10-27 23:00:27   llm groq-120b: rate limited, skip 179s
-2026-10-27 23:00:50   SELL Mavericks @ 0.240 (stop loss) pnl -2.50 :: Thunder vs. Mavericks
-2026-10-27 23:08:28 indexed 992 markets
-2026-10-27 23:11:03 NEWS [Fabrizio Romano 1m] 🚨 BREAKING: Arsenal have been eliminated from the Carabao Cup by League Two side Fleetwood Town. Fleetwood Town currently sit 18th in League Two.
-2026-10-27 23:11:03   skip No :: Will Arsenal FC win on 2026-11-01? (low conf 0.6)
-2026-10-27 23:13:54   drop[kind] Suspect fleeing Louisville police results in injury crash (WHAS11) :: other
-2026-10-27 23:13:55   llm groq-120b: rate limited, skip 224s
-2026-10-27 23:13:55   drop[kind] Santi Aldama Injury: Doubtful for Wednesday (RotoWire) :: other
-2026-10-27 23:15:00   drop[unconfirmed] Sergio de Larrea (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: knee strain
-2026-10-27 23:18:28 indexed 989 markets
-2026-10-27 23:18:45   drop[team-not-named] Joao Pedro ruled out for weeks with thigh injury, Emmanuel Emegha available for Carabao Cu (SSBCrack) :: Wolverhampton Wanderers
-2026-10-27 23:23:14   drop[1-source] Matt Able ruled out for UNC basketball's preseason finale against Charlotte (Keeping It Heel) :: Matt Able, wait 2nd source
-2026-10-27 23:25:21 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 7)
-2026-10-27 23:25:23 [pengwin] TORINO-COMO: no Polymarket event (try 8)
-2026-10-27 23:25:25   llm groq-120b: rate limited, skip 83s
-2026-10-27 23:25:26 [pengwin] skip VENEZIA-INTER [over 1.5 cards casa]: no matching market
-2026-10-27 23:28:32 indexed 994 markets
-2026-10-27 23:36:50   drop[not-key] Alpha Diallo (F, Denver Nuggets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Alpha Diallo: ruled out due to injury precaution
-2026-10-27 23:38:33 indexed 983 markets
-2026-10-27 23:44:04   drop[kind] Maple Leafs Get Hopeful Kirill Marchenko Injury Assessment (heavy.com) :: other
-2026-10-27 23:48:34 indexed 988 markets
-2026-10-27 23:49:06 bluesky error x1: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=rapsheet.bsky.social&limit=10&filter=posts_no_
-2026-10-27 23:50:58   drop[team-not-named] Kawhi Leonard to miss Raptors games due to knee injury (CBC) :: Los Angeles Clippers
-2026-10-27 23:53:47 bluesky error x10: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=rapsheet.bsky.social&limit=10&filter=posts_no_
-2026-10-27 23:55:48   drop[1-source] Dallas Mavericks Make Kyrie Irving Injury Announcement Before Thunder Game (heavy.com) :: Kyrie Irving, wait 2nd source
-2026-10-27 23:55:59 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 8)
-2026-10-27 23:56:01 [pengwin] TORINO-COMO: no Polymarket event (try 9)
-2026-10-27 23:58:34 indexed 995 markets
-2026-10-27 23:59:38   drop[verify] Anthony Edwards (G, Minnesota Timberwolves) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: uncertain if injury news is new
-2026-10-28 00:00:10   llm groq-120b: rate limited, skip 465s
-2026-10-28 00:00:11   drop[kind] Tire Additives Dominate River Pollution Through Suspended Particles (Bioengineer.org) :: other
-2026-10-28 00:02:29   drop[not-key] Yves Missi's Injury Comes With a Silver Lining for Pelicans at Center (Sports Illustrated) :: Yves Missi: backup center injury gives starting center a boost
-2026-10-28 00:02:29   drop[unconfirmed] Anthony Edwards injury: Wolves star to miss 2 months after knee surgery (SB Nation) :: knee surgery
-2026-10-28 00:05:15   drop[unconfirmed] Cathedral volleyball seniors reflect on injury-riddled season, run to semistate (IndyStar) :: run to semistate
-2026-10-28 00:05:15   drop[unconfirmed] Anthony Edwards out up to 2 months with ailing knee injury (5 EYEWITNESS NEWS) :: knee injury
-2026-10-28 00:05:15   drop[unconfirmed] Texas Tech RB Cam Dickey Expected to Return from Injury vs. Arizona (roundtable.io) :: injury update
-2026-10-28 00:05:16   drop[unconfirmed] Anthony Edwards to miss up to two months with knee injury (Basketball Network) :: knee injury
-2026-10-28 00:05:16   drop[team-not-named] Anthony Edwards Injury: Wolves Star Needs Knee Surgery (Baller Alert) :: Minnesota Timberwolves
-2026-10-28 00:05:17   drop[kind] Kawhi Leonard Releases Bizarre Statement After Latest Injury Setback (Fadeaway World) :: other
-2026-10-28 00:07:05   drop[1-source] Cheranelloor Crash: 4 Cops Suspended in Kochi Case (urbanacres.in) :: Kochi Police Department, wait 2nd source
-2026-10-28 00:08:37 indexed 986 markets
-2026-10-28 00:09:26   llm groq-120b: rate limited, skip 24s
-2026-10-28 00:09:27   llm groq-20b: rate limited, skip 241s
-2026-10-28 00:09:27   drop[verify] Timberwolves Starting Lineup And Depth Chart After Anthony Edwards Injury (Heavy.com) :: no answer
-2026-10-28 00:11:47   drop[team-not-named] US Ambassador Mike Waltz displays Rolex photos, U.N. meeting suspended (NewsBytes) :: United Nations
-2026-10-28 00:18:35 indexed 989 markets
-2026-10-28 00:21:01 feed politico error x1: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-28 00:21:02   drop[team-not-named] Brandon Woodruff on returning from injury for Game 3 (MLB.com) :: Milwaukee Brewers
-2026-10-28 00:23:35   drop[1-source] Theryn Hallock back from injury with new perspective for MSU women's basketball (Lansing State Journal) :: Theryn Hallock, wait 2nd source
-2026-10-28 00:23:35   llm groq-120b: rate limited, skip 92s
-2026-10-28 00:23:35   drop[kind] 1 in 5 workers suffering a mental health injury (Independent Education Union) :: other
-2026-10-28 00:25:38   drop[not-key] Isaiah Joe Injury: Ruled out Tuesday (RotoWire) :: Isaiah Joe: injury
-2026-10-28 00:26:35   llm groq-120b: rate limited, skip 23s
-2026-10-28 00:26:35 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 9)
-2026-10-28 00:26:37 [pengwin] TORINO-COMO: no Polymarket event (try 10)
-2026-10-28 00:27:55   llm groq-120b: rate limited, skip 77s
-2026-10-28 00:27:55   drop[team-not-named] Anthony Edwards injury takes major sting out of Warriors-Timberwolves matchup (Blue Man Hoop) :: Minnesota Timberwolves
-2026-10-28 00:27:56   drop[1-source] Utah Jazz Make Lauri Markkanen Injury Announcement Before Spurs Game (Heavy.com) :: Lauri Markkanen, wait 2nd source
-2026-10-28 00:28:38 indexed 974 markets
-2026-10-28 00:29:40   llm groq-120b: rate limited, skip 26s
-2026-10-28 00:29:40   llm groq-20b: rate limited, skip 21s
-2026-10-28 00:29:40 NEWS [ESPN 9m] Isaiah Joe (G, Detroit Pistons) ruled out: Day-To-Day -> Out [NBA]
-2026-10-28 00:29:40   skip Knicks :: Pistons vs. Knicks (rules fallback, LLM down (not traded))
-2026-10-28 00:29:40   skip Nets :: Pistons vs. Nets (rules fallback, LLM down (not traded))
-2026-10-28 00:29:40   skip Hornets :: Hornets vs. Pistons (rules fallback, LLM down (not traded))
-2026-10-28 00:30:16   drop[1-source] Mikel Arteta Reveals Triple Arsenal Injury Blow after Cup Exit (roundtable.io) :: Arsenal FC, wait 2nd source
-2026-10-28 00:34:53   drop[kind] Breakout Bills WR Drops Cryptic Hint About Return After Injury (Heavy.com) :: other
-2026-10-28 00:37:09   llm groq-120b: rate limited, skip 145s
-2026-10-28 00:37:10   drop[no-market] Suspended Durham constable accused of child luring, sexual exploitation (Toronto Sun) :: Durham Police Service
-2026-10-28 00:38:40 indexed 974 markets
-2026-10-28 00:39:31   drop[kind] SK Hynix third-quarter profit sharply beats estimates on AI memory boost (CNBC) :: other
-2026-10-28 00:42:00   drop[kind] 28-year-old man with famous outlaw’s name arrested in Antioch for battery with serious bod (Antioch Herald) :: other
-2026-10-28 00:46:27   drop[1-source] Two huge British stars ‘ruled out as James Bond’s mystery fourth actor in the running’ as  (The Irish Sun) :: James Bond film casting, wait 2nd source
-2026-10-28 00:48:39 indexed 975 markets
-2026-10-28 00:48:44   llm groq-120b: rate limited, skip 58s
-2026-10-28 00:48:44   drop[team-not-named] Taylor Hall Injury: Not playing Tuesday (RotoWire) :: Edmonton Oilers
-2026-10-28 00:51:16   llm groq-120b: rate limited, skip 134s
-2026-10-28 00:51:19   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
-2026-10-28 00:51:19   drop[verify] Timberwolves' Anthony Edwards facing lengthy layoff after knee injury (Yardbarker) :: no answer
-2026-10-28 00:55:37   llm groq-120b: rate limited, skip 125s
-2026-10-28 00:55:37   drop[no-pick] Anthony Edwards injury puts Timberwolves in a tough spot after strong start to season (Dunking with Wolves) :: no suitable outcome to rise
-2026-10-28 00:56:48 [pengwin] page gue/kauno-zalgiris-brann-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-28 00:57:08 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 10)
-2026-10-28 00:57:10 [pengwin] TORINO-COMO: no Polymarket event (try 11)
-2026-10-28 00:58:40 indexed 965 markets
-2026-10-28 00:58:42   llm groq-120b: rate limited, skip 27s
-2026-10-28 00:58:42   llm groq-20b: rate limited, skip 17s
-2026-10-28 00:58:42   drop[no-pick] Drew Doughty (D, Los Angeles Kings) ruled out: healthy -> Out [NHL] (ESPN) :: None
-2026-10-28 01:02:39   drop[1-source] Massive blow for Bath as Carreras ruled out for rest of season (Bath Echo) :: Michele Carreras, wait 2nd source
-2026-10-28 01:07:16   drop[kind] Jaren Jackson will not need surgery for MCL injury (HoopsHype) :: other
-2026-10-28 01:08:40 indexed 997 markets
-2026-10-28 01:09:48   llm groq-120b: rate limited, skip 6s
-2026-10-28 01:09:49   drop[kind] Chris Bey Reflects On Two-Year Anniversary Of Injury & His Journey Since (411MANIA) :: other
-2026-10-28 01:09:55   llm groq-120b: rate limited, skip 17s
-2026-10-28 01:09:56   drop[side] Carter Hart (G, Vegas Golden Knights) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Senators vs. Golden Knights -> Golden Knights vs fact ruled_out: Carter Hart (Vegas Golden Knights, nhl), bad for Vegas 
-2026-10-28 01:11:55   drop[1-source] Iowa football news: Hawkeyes lose star running back to brutal season-ending injury (ClutchPoints) :: Iowa Hawkeyes, wait 2nd source
-2026-10-28 01:13:01   llm groq-120b: rate limited, skip 96s
-2026-10-28 01:13:01   llm groq-20b: rate limited, skip 126s
-2026-10-28 01:18:42 indexed 992 markets
-2026-10-28 01:23:24   drop[kind] Josh Jacobs says Packers running backs must help out their injury-riddled offensive line (WTOP News) :: other
-2026-10-28 01:23:25   drop[1-source] Sheboygan County clerk suspended over data breach (Wisconsin Law Journal) :: Sheboygan County Clerk's Office, wait 2nd source
-2026-10-28 01:25:37 [pengwin] page -league/kups-trabzonspor-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-28 01:27:13 [pengwin] page nce-league/getafe-lugano-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-10-28 01:27:40 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 11)
-2026-10-28 01:27:42 [pengwin] TORINO-COMO: no Polymarket event (try 12)
-2026-10-28 01:28:44 indexed 990 markets
-2026-10-28 01:30:23   llm groq-120b: rate limited, skip 240s
-2026-10-28 01:30:24 NEWS [TribLIVE.com 4m] Timberwolves’ Anthony Edwards will miss up to 2 months with knee injury
-2026-10-28 01:30:24   skip Warriors :: Warriors vs. Timberwolves (rss sport (measure only))
-2026-10-28 01:32:22 shift over, state saved
+2026-10-28 01:32:41 === start mode=paper pid=2119 ===
+2026-10-28 01:32:41 brain=llm cash=83.54 open=0
+2026-10-28 01:32:41 resuming with 4897 known news items
+2026-10-28 01:33:09 indexed 984 markets
+2026-10-28 01:33:14 [pengwin] page erie-b/benevento-vicenza-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-28 01:33:26   llm groq-120b: rate limited, skip 66s
+2026-10-28 01:33:26   drop[unconfirmed] Sergio de Larrea (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: knee sprain
+2026-10-28 01:33:27   drop[unconfirmed] Alpha Diallo (F, Denver Nuggets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: personal matter
+2026-10-28 01:33:27   drop[unconfirmed] Isaiah Joe (G, Detroit Pistons) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: right hip contusion
+2026-10-28 01:33:27   llm groq-20b: rate limited, skip 225s
+2026-10-28 01:33:27 NEWS [ESPN 0m] Anthony Edwards (G, Minnesota Timberwolves) ruled out: Day-To-Day -> Out [NBA]
+2026-10-28 01:33:27   skip Warriors :: Warriors vs. Timberwolves (rules fallback, LLM down (not traded))
+2026-10-28 01:33:27 NEWS [ESPN 0m] Chet Holmgren (C, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]
+2026-10-28 01:33:27   skip Mavericks :: Thunder vs. Mavericks (rules fallback, LLM down (not traded))
+2026-10-28 01:33:27 NEWS [ESPN 0m] Alex Caruso (G, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA]
+2026-10-28 01:33:27   skip Mavericks :: Thunder vs. Mavericks (rules fallback, LLM down (not traded))
+2026-10-28 01:33:27 NEWS [ESPN 30m] Carter Hart (G, Vegas Golden Knights) ruled out: Day-To-Day -> Out [NHL]
+2026-10-28 01:33:27   skip Senators :: Senators vs. Golden Knights (rules fallback, LLM down (not traded))
+2026-10-28 01:34:08 [pengwin] page ivisie/willem-ii-cambuur-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-28 01:35:10 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 6)
+2026-10-28 01:35:12 [pengwin] TORINO-COMO: no Polymarket event (try 6)
+2026-10-28 01:35:15   llm groq-120b: rate limited, skip 655s
+2026-10-28 01:35:15 [pengwin] VENEZIA-INTER: no LLM answer (try 6)
