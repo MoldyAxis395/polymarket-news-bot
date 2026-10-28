@@ -21276,3 +21276,15 @@
 2026-10-28 04:36:05   llm groq-120b: rate limited, skip 209s
 2026-10-28 04:36:07   drop[verify] Latest for @SportsCenter on Minnesota's Anthony Edwards now sidelined for the next two mon (Shams Charania) :: uncertain new injury
 2026-10-28 04:36:37   drop[unconfirmed] Have to go back and watch, but it looks like Matthew Schaefer became the first to play all (Elliotte Friedman) :: played all 5 minutes of OT in win
+2026-10-28 04:38:10   drop[1-source] NC State fraternity Sigma Nu Beta Tau suspended amid hazing allegations (ABC11 News) :: Sigma Nu Beta Tau, wait 2nd source
+2026-10-28 04:38:35 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 12)
+2026-10-28 04:38:37 [pengwin] TORINO-COMO: no Polymarket event (try 12)
+2026-10-28 04:40:27   drop[1-source] Bangladesh Elect to Bat Against West Indies, Mushfiqur Ruled Out (https://www.businesstimes-bd.com/) :: Mushfiqur Rahim, wait 2nd source
+2026-10-28 04:43:29 indexed 994 markets
+2026-10-28 04:45:22   drop[kind] R-CALF USA Challenges Australian and New Zealand Arguments in lamb injury case (Tri-State Livestock News) :: other
+2026-10-28 04:53:30 indexed 990 markets
+2026-10-28 04:56:36   drop[team-not-named] The captain, injured in an ankle injury, is expected to be back for Sunday. Gaspardo may t (Quotidiano Sportivo) :: 
+2026-10-28 04:58:55   drop[1-source] Deli Hub Catering suspended after 53 people fall ill at two Singapore MOE kindergartens, i (The Online Citizen) :: Deli Hub Catering, wait 2nd source
+2026-10-28 05:00:56 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x7f0e12956300>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
+2026-10-28 05:03:32 indexed 962 markets
+2026-10-28 05:03:49   drop[kind] Lakers rookie takes major step toward debut after frustrating injury setback (New York Post) :: other
