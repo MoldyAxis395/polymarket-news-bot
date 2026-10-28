@@ -21224,3 +21224,22 @@
 2026-10-28 03:06:28   drop[no-pick] A UN General Assembly session debating the US embargo of Cuba was suspended after US Ambas (Reuters) :: short
 2026-10-28 03:06:45 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 9)
 2026-10-28 03:06:47 [pengwin] TORINO-COMO: no Polymarket event (try 9)
+2026-10-28 03:10:23   drop[1-source] Iowa RB Kamari Moulton done for season due to upper-body injury (KQSM-FM) :: Kamari Moulton, wait 2nd source
+2026-10-28 03:12:51   llm groq-120b: rate limited, skip 42s
+2026-10-28 03:12:51   drop[1-source] The Bureau of Internal Revenue suspended the October 31 deadline for the mandatory online  (Facebook) :: Bureau of Internal Revenue, wait 2nd source
+2026-10-28 03:13:21 indexed 973 markets
+2026-10-28 03:19:38   drop[team-not-named] RandBall: Anthony Edwards’ injury will reveal whether Wolves have a Big Three (Star Tribune) :: Minnesota Timberwolves
+2026-10-28 03:23:21 indexed 971 markets
+2026-10-28 03:24:13   drop[kind] Stephanie Vaquer’s Medical Issue Believed To Be Illness-Related, Not An Injury (Wrestling News Co) :: other
+2026-10-28 03:26:32   drop[1-source] Sarangani Province suspended face-to-face classes at all levels and work in government off (Facebook) :: Sarangani Province, wait 2nd source
+2026-10-28 03:28:49   llm groq-120b: rate limited, skip 33s
+2026-10-28 03:28:50   drop[side] Timberwolves hit with major Anthony Edwards injury blow early in NBA season (The Big Lead) :: Warriors vs. Timberwolves -> Timberwolves vs fact ruled_out: Anthony Edwards (Minnesota Timberwolves, nba), bad for Minn
+2026-10-28 03:29:54   llm groq-120b: rate limited, skip 174s
+2026-10-28 03:29:55 NEWS [ESPN 13m] Justin Danforth (RW, Buffalo Sabres) ruled out: Day-To-Day -> Out [NHL]
+2026-10-28 03:29:55   skip Sharks :: Sabres vs. Sharks (low conf 0.6)
+2026-10-28 03:31:30   drop[team-not-named] Dylan Harper (knee) has early injury scare, scores 13 (NBC Sports) :: Dallas Cowboys
+2026-10-28 03:33:25 indexed 981 markets
+2026-10-28 03:33:31   llm groq-120b: rate limited, skip 26s
+2026-10-28 03:33:31   drop[1-source] Stars defenseman Kyle Capobianco exits vs. Devils with apparent lower-body injury (Dallas News) :: Kyle Capobianco, wait 2nd source
+2026-10-28 03:37:24 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 10)
+2026-10-28 03:37:26 [pengwin] TORINO-COMO: no Polymarket event (try 10)
