@@ -21276,73 +21276,12 @@
 2026-10-28 04:36:05   llm groq-120b: rate limited, skip 209s
 2026-10-28 04:36:07   drop[verify] Latest for @SportsCenter on Minnesota's Anthony Edwards now sidelined for the next two mon (Shams Charania) :: uncertain new injury
 2026-10-28 04:36:37   drop[unconfirmed] Have to go back and watch, but it looks like Matthew Schaefer became the first to play all (Elliotte Friedman) :: played all 5 minutes of OT in win
-2026-10-28 04:38:10   drop[1-source] NC State fraternity Sigma Nu Beta Tau suspended amid hazing allegations (ABC11 News) :: Sigma Nu Beta Tau, wait 2nd source
-2026-10-28 04:38:35 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 12)
-2026-10-28 04:38:37 [pengwin] TORINO-COMO: no Polymarket event (try 12)
-2026-10-28 04:40:27   drop[1-source] Bangladesh Elect to Bat Against West Indies, Mushfiqur Ruled Out (https://www.businesstimes-bd.com/) :: Mushfiqur Rahim, wait 2nd source
-2026-10-28 04:43:29 indexed 994 markets
-2026-10-28 04:45:22   drop[kind] R-CALF USA Challenges Australian and New Zealand Arguments in lamb injury case (Tri-State Livestock News) :: other
-2026-10-28 04:53:30 indexed 990 markets
-2026-10-28 04:56:36   drop[team-not-named] The captain, injured in an ankle injury, is expected to be back for Sunday. Gaspardo may t (Quotidiano Sportivo) :: 
-2026-10-28 04:58:55   drop[1-source] Deli Hub Catering suspended after 53 people fall ill at two Singapore MOE kindergartens, i (The Online Citizen) :: Deli Hub Catering, wait 2nd source
-2026-10-28 05:00:56 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x7f0e12956300>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
-2026-10-28 05:03:32 indexed 962 markets
-2026-10-28 05:03:49   drop[kind] Lakers rookie takes major step toward debut after frustrating injury setback (New York Post) :: other
-2026-10-28 05:08:13   drop[1-source] Ausar Thompson 'felt great' after return from ankle injury vs Knicks (Detroit Free Press) :: Ausar Thompson, wait 2nd source
-2026-10-28 05:08:13   llm groq-120b: rate limited, skip 157s
-2026-10-28 05:08:14   drop[kind] John Kavanagh Backs Conor McGregor’s Explanation for UFC 329 Knee Injury - "We Hadn’t Trai (MMA Sucka) :: other
-2026-10-28 05:09:12 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 13)
-2026-10-28 05:09:15 [pengwin] TORINO-COMO: no Polymarket event (try 13)
-2026-10-28 05:13:32 indexed 946 markets
-2026-10-28 05:19:47   drop[kind] Celtics superstar Jayson Tatum relishes ‘hell of a feeling’ recording 1st buzzer-beater si (ClutchPoints) :: other
-2026-10-28 05:22:16   drop[no-market] Bangladesh bat first in Mirpur Test as Mushfiqur misses out with finger injury (United News of Bangladesh) :: Bangladesh national cricket team
-2026-10-28 05:23:32 indexed 945 markets
-2026-10-28 05:24:23   drop[team-not-named] Mushfiqur out with 'contusion injury', expected to be fit for second Test against West Ind (Cricinfo) :: Bangladesh national cricket team
-2026-10-28 05:24:23   llm groq-120b: rate limited, skip 38s
-2026-10-28 05:24:24   drop[unconfirmed] Thunder Guard Projected To Be All-Star This Season Due To Jalen Williams Injury (Heavy.com) :: injury
-2026-10-28 05:29:09   drop[kind] Train stopped in Fresno as police respond to possible injury call (kmph.com) :: other
-2026-10-28 05:33:34 indexed 951 markets
-2026-10-28 05:35:56   drop[1-source] Wednesday briefing: LaLiga apologises to Chinese fans as broadcasts are suspended (Football Finance Data) :: LaLiga, wait 2nd source
-2026-10-28 05:38:14   drop[1-source] Timberwolves Learn The Truth About Anthony Edwards' Sudden Knee Injury Following 47-Point  (Heavy.com) :: Anthony Edwards, wait 2nd source
-2026-10-28 05:39:49 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 14)
-2026-10-28 05:39:51 [pengwin] TORINO-COMO: no Polymarket event (try 14)
-2026-10-28 05:43:35 indexed 946 markets
-2026-10-28 05:53:20 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
-2026-10-28 05:53:49 indexed 949 markets
-2026-10-28 06:03:51 indexed 947 markets
-2026-10-28 06:03:56   drop[kind] Yastika Bhatia joins Brisbane Heat for WBBL 12 after Jess Jonassen injury setback (Sports Tiger) :: other
-2026-10-28 06:06:14   drop[1-source] House seeks probe into suspended BIR online seller seal badge policy (DZRH) :: Bureau of Internal Revenue (BIR), wait 2nd source
-2026-10-28 06:10:25 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 15)
-2026-10-28 06:10:27 [pengwin] TORINO-COMO: no Polymarket event (try 15)
-2026-10-28 06:13:52 indexed 941 markets
-2026-10-28 06:22:24   drop[1-source] Visa-free travel for Chinese to CNMI suspended (KUAM) :: Commonwealth of the Northern Mariana Islands (CNMI), wait 2nd source
-2026-10-28 06:23:53 indexed 936 markets
-2026-10-28 06:29:22   drop[kind] UK: Chris Brown sentenced to eight months suspended prison term (Bénin Web TV) :: other
-2026-10-28 06:29:23   drop[kind] Chelsea suffer fresh injury blow ahead of Liverpool clash (Blueprint Newspapers) :: other
-2026-10-28 06:30:24   drop[kind] Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC (CoinDesk) :: other
-2026-10-28 06:33:55 indexed 942 markets
-2026-10-28 06:36:36   drop[1-source] Arsenal sent hands off warning as another January forward transfer ruled out (Football London) :: Arsenal, wait 2nd source
-2026-10-28 06:38:38   drop[1-source] XLOV Member Hyun Absent from Showcase Due to Injury (조선일보) :: Hyun, wait 2nd source
-2026-10-28 06:41:02 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 16)
-2026-10-28 06:41:05 [pengwin] TORINO-COMO: no Polymarket event (try 16)
-2026-10-28 06:43:52 indexed 939 markets
-2026-10-28 06:45:46   drop[not-key] Liverpool vs Chelsea TV Channel: ITV1 and Sky Sports at 8pm, Palmer Banned (The False 9) :: Palmer: Palmer has been banned
-2026-10-28 06:50:11   drop[kind] Chris Bey Reflects On Two Years Since Career-Threatening Injury (eWrestlingNews.com) :: other
-2026-10-28 06:53:54 indexed 942 markets
-2026-10-28 06:54:58   drop[kind] Bandari midfielder targeting Harambee Stars recall after overcoming two-year injury (Mozzart Sport Kenya) :: other
-2026-10-28 06:54:59   drop[kind] SK Hynix shares soar over 10 % as profit beats, chipmaker to return $25 billion to investo (CNBC) :: other
-2026-10-28 07:01:25 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
-2026-10-28 07:01:42   drop[1-source] Senators Suffer Yet Another Injury In Tight 4-1 Loss In Vegas (The Hockey News) :: Ottawa Senators, wait 2nd source
-2026-10-28 07:03:56 indexed 929 markets
-2026-10-28 07:04:17   drop[team-not-named] UK to provide GBP 20.4 billion boost to state-backed lenders for business and infrastructu (Prop News Time) :: United Kingdom government
-2026-10-28 07:04:18   drop[kind] Woman (28) to face trial accused of causing grievous injury to another woman through dange (NorthernIrelandWorld) :: other
-2026-10-28 07:04:18   drop[not-key] Stan Straw Injured During Latest Loan Outing (Bescot Banter) :: Stan Straw: injured during loan outing
-2026-10-28 07:04:18   llm groq-120b: rate limited, skip 196s
-2026-10-28 07:04:19   drop[1-source] Bristol Rovers disciplinary latest as two key players suspended for Saturday (Bristol Live) :: Bristol Rovers, wait 2nd source
-2026-10-28 07:06:20   drop[kind] Cyclone Arnab Disrupts Flight Operations in Andhra Pradesh; 19 Air India Group Flights Can (Telugu360) :: other
-2026-10-28 07:08:38   drop[team-not-named] Mushfiqur Rahim ruled out of first Test against West Indies with finger injury (Sports Tiger) :: Bangladesh national cricket team
-2026-10-28 07:11:40 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 17)
-2026-10-28 07:11:42 [pengwin] TORINO-COMO: no Polymarket event (try 17)
-2026-10-28 07:13:32   drop[team-not-named] Mikel Arteta confirms Noni Madueke was sidelined for Fleetwood loss with ankle injury (ArsenalNews.co.uk) :: Arsenal Football Club
-2026-10-28 07:14:00 indexed 927 markets
-2026-10-28 07:17:43 shift over, state saved
+2026-10-28 07:18:01 === start mode=paper pid=2127 ===
+2026-10-28 07:18:01 brain=llm cash=83.54 open=0
+2026-10-28 07:18:01 resuming with 4973 known news items
+2026-10-28 07:18:31 indexed 929 markets
+2026-10-28 07:18:48   llm groq-120b: rate limited, skip 385s
+2026-10-28 07:18:48   drop[1-source] Declan Rice OUT as Arteta reveals triple Arsenal injury blow after Fleetwood tie (The Sun) :: Declan Rice, wait 2nd source
+2026-10-28 07:18:49   drop[1-source] Arsenal’s £65m midfielder suffers injury blow after just 10 minutes on pitch (Lente Desportiva) :: Bukayo Saka, wait 2nd source
+2026-10-28 07:20:52 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 12)
+2026-10-28 07:20:54 [pengwin] TORINO-COMO: no Polymarket event (try 12)
