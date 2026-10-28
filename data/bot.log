@@ -21370,7 +21370,11 @@
 2026-10-28 12:45:31   drop[kind] Midwest Dems face their do or die moment to win back Trump districts before 2028 politi.co (Politico) :: other
 2026-10-28 12:49:32 indexed 941 markets
 2026-10-28 12:53:12 feed politico error x1: HTTPSConnectionPool(host='rss.politico.com', port=443): Read timed out.
-2026-10-28 12:58:12 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 23)
-2026-10-28 12:58:14 [pengwin] TORINO-COMO: no Polymarket event (try 23)
-2026-10-28 12:59:40 indexed 943 markets
-2026-10-28 13:03:07 shift over, state saved
+2026-10-28 13:03:31 === start mode=paper pid=2397 ===
+2026-10-28 13:03:31 brain=llm cash=83.54 open=0
+2026-10-28 13:03:31 resuming with 5029 known news items
+2026-10-28 13:03:59 indexed 1061 markets
+2026-10-28 13:04:19   drop[1-source] Breaking: King's Cup matches suspended, Real Madrid and Barcelona declare mourning (Goal.com) :: King's Cup, wait 2nd source
+2026-10-28 13:04:20   drop[kind] ‘As Of Now’ – Boss Eases Injury Fears On Leeds United Loanee After Blow (Inside Futbol) :: other
+2026-10-28 13:06:02 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 23)
+2026-10-28 13:06:05 [pengwin] TORINO-COMO: no Polymarket event (try 23)
