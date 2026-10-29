@@ -21815,3 +21815,41 @@
 2026-10-29 00:33:26 indexed 929 markets
 2026-10-29 00:34:33   drop[no-market] Jer'Zhan Newton (DT, Washington Commanders) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Washington Commanders
 2026-10-29 00:36:02   drop[no-market] Cricket: Lockie Ferguson ruled out of India T20 series with calf tear (RNZ) :: New Zealand national cricket team
+2026-10-29 00:39:19 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 42)
+2026-10-29 00:39:22   llm groq-120b: rate limited, skip 72s
+2026-10-29 00:39:22 [pengwin] TORINO-COMO: no Polymarket event (try 42)
+2026-10-29 00:40:24   drop[1-source] Chargers Star Suffers Injury Setback Amid Challenging Season (LA Sports Report) :: Justin Herbert, wait 2nd source
+2026-10-29 00:41:51   llm groq-120b: rate limited, skip 76s
+2026-10-29 00:41:51   drop[side] Austin FC confirmed lineup vs Real Salt Lake: Ervin Torres ruled out of starting XI [usa.1 (ESPN) :: Will Austin FC win on 2026-10-28? -> Yes vs fact ruled_out: Ervin Torres (Austin FC, soccer), bad for Austin FC. injury
+2026-10-29 00:41:52 NEWS [ESPN 0m] Chicago Fire FC confirmed lineup vs Orlando City SC: Mbekezeli Mbokazi, Noah Allen, Jonathan Dean, D'Avilla Dje Tah, Jonathan Bamba ruled out of starting XI [usa.1]
+2026-10-29 00:41:52   skip Yes :: Will Orlando City SC win on 2026-10-28? (low conf 0.6)
+2026-10-29 00:41:53   drop[side] Orlando City SC confirmed lineup vs Chicago Fire FC: Wilder Cartagena, Eduard Atuesta rule (ESPN) :: Will Orlando City SC win on 2026-10-28? -> Yes vs fact ruled_out: Wilder Cartagena (Orlando City SC, soccer), bad for Or
+2026-10-29 00:41:54 NEWS [ESPN 0m] FC Dallas confirmed lineup vs Columbus Crew: Sebastien Ibeagha, Kaick, Herman Johansson, Daniel Job, Joaquín Valiente ruled out of starting XI [usa.1]
+2026-10-29 00:41:54   skip No :: Will FC Dallas win on 2026-10-28? (low conf 0.6)
+2026-10-29 00:41:55 NEWS [ESPN 0m] Columbus Crew confirmed lineup vs FC Dallas: Sékou Tidiany Bangoura ruled out of starting XI [usa.1]
+2026-10-29 00:41:55   skip No :: FC Dallas vs. Columbus Crew: Both Teams to Score (low conf 0.6)
+2026-10-29 00:43:24 indexed 919 markets
+2026-10-29 00:45:15   drop[kind] 'Power Rangers' Actor Has Surgery Following Brain Injury (Wide Open Country) :: other
+2026-10-29 00:45:53   llm groq-120b: rate limited, skip 11s
+2026-10-29 00:45:54   drop[side] Nashville SC confirmed lineup vs Philadelphia Union: Andy Nájar, Hany Mukhtar, Matthew Cor (ESPN) :: Will Nashville SC vs. Philadelphia Union end in a draw? -> Yes vs fact ruled_out: Elias Saad (Nashville SC, soccer), bad
+2026-10-29 00:45:55   drop[side] Philadelphia Union confirmed lineup vs Nashville SC: Frankie Westfield, Bruno Damiani, Mil (ESPN) :: Will Philadelphia Union win on 2026-10-28? -> Yes vs fact ruled_out: Milan Iloski (Philadelphia Union, soccer), bad for 
+2026-10-29 00:47:55   llm groq-120b: rate limited, skip 350s
+2026-10-29 00:47:56   drop[verify] Sporting Kansas City confirmed lineup vs Minnesota United FC: Zorhan Bassong ruled out of  (ESPN) :: player not on team
+2026-10-29 00:49:35   drop[team-not-named] ‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma politi.co/4sCZ0E4 (Politico) :: United States Senate
+2026-10-29 00:49:58 NEWS [ESPN 0m] St. Louis CITY SC confirmed lineup vs Portland Timbers: Fallou Fall, Jaziel Orozco, Rafael Santos, Tomas Ostrak, Charles-Emile Brunet, Simon Becher ruled out of starting XI [usa.1]
+2026-10-29 00:49:58   skip No :: Will St. Louis City SC win on 2026-10-28? (low conf 0.6)
+2026-10-29 00:50:00   drop[verify] Portland Timbers confirmed lineup vs St. Louis CITY SC: Eric Izoita, José Caicedo, Vincent (ESPN) :: Player not key enough
+2026-10-29 00:50:48   drop[unconfirmed] Tyrell Shavers (WR, Buffalo Bills) ruled out: healthy -> Out [NFL] (ESPN) :: injury
+2026-10-29 00:53:26 indexed 910 markets
+2026-10-29 00:58:56   drop[kind] Sex shapes radiation lung injury and drug response in rat study (Bioengineer.org) :: other
+2026-10-29 00:58:57   drop[kind] Hundreds stranded in Cambodia after cruise suspended (The Canberra Times) :: other
+2026-10-29 01:01:13   drop[1-source] UTSA head men’s basketball coach arrested on DWI suspicion, suspended from team, school sa (KSAT) :: Steve Henson, wait 2nd source
+2026-10-29 01:02:02   drop[not-key] Naji Marshall (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Naji Marshall: ruled out and will miss the next game
+2026-10-29 01:03:27 indexed 950 markets
+2026-10-29 01:03:45   llm groq-120b: rate limited, skip 129s
+2026-10-29 01:03:46   drop[kind] Car-pedestrian crash results in serious injury (LimaOhio.com) :: other
+2026-10-29 01:03:46   drop[not-key] Ravens Week 7 Rookie Report: Vega Ioane Left Early With Injury (Sports Illustrated) :: Vega Ioane: injury
+2026-10-29 01:04:28   drop[not-key] Akayleb Evans (CB, Carolina Panthers) cleared to play: Out -> Active [NFL] (ESPN) :: Akayleb Evans: cleared to play
+2026-10-29 01:04:29   drop[unconfirmed] Coby Bryant (S, Chicago Bears) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: injury
+2026-10-29 01:05:50   drop[unconfirmed] Initial Injury Report: 5 Michigan Players 'Questionable' vs. Rutgers, Defense Catches Brea (Sports Illustrated) :: 5 players listed as questionable for upcoming game
+2026-10-29 01:07:47 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
