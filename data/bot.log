@@ -22297,3 +22297,24 @@
 2026-10-29 20:29:14   drop[kind] Supplements and Liver Injury; New Skyrizi Approval in Crohn's; Preventing C. Diff (MedPage Today) :: other
 2026-10-29 20:29:14   drop[1-source] Conor McGregor’s coach doubles down on dry ice theory causing horror ACL injury at UFC 329 (talkSPORT) :: Conor McGregor, wait 2nd source
 2026-10-29 20:31:20   drop[1-source] Orange Cassidy on Him Wrestling In Denim, Breaking His Orbital Bone Being Worst Injury Suf (TPWW.net) :: Orange Cassidy, wait 2nd source
+2026-10-29 20:34:39   llm groq-120b: rate limited, skip 121s
+2026-10-29 20:34:39   drop[no-pick] 'Contrary to law': Judge strikes down Trump admin's definition of 'medically frail' in Med (Politico) :: short
+2026-10-29 20:35:57   drop[team-not-named] Preexisting injury reportedly behind A.J. Brown’s practice absence (98.5 The Sports Hub) :: Tennessee Titans
+2026-10-29 20:38:25   drop[1-source] UCLA quarterback Nico Iamaleava releases statement after season-ending injury (The Big Lead) :: Nico Iamaleava, wait 2nd source
+2026-10-29 20:38:58 indexed 861 markets
+2026-10-29 20:40:35   drop[team-not-named] A.J. Brown's injury situation takes a discouraging turn (Audacy) :: Tennessee Titans
+2026-10-29 20:47:47   drop[kind] Ibuprofen-Releasing Nanofiber Membrane Curbs Scarring After Ureteral Injury in Rabbits (Bioengineer.org) :: other
+2026-10-29 20:49:01 indexed 854 markets
+2026-10-29 20:49:54   drop[kind] Rs 35 cr vanishes from PNB saving accounts; 12 suspended, CBI to step in (MillenniumPost) :: other
+2026-10-29 20:51:09 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x7f3637527cb0>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
+2026-10-29 20:52:24   drop[not-key] Blake Dunn (CF, Cincinnati Reds) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Blake Dunn: additional elbow surgery extends his absence
+2026-10-29 20:52:24   llm groq-120b: rate limited, skip 290s
+2026-10-29 20:52:25   drop[unconfirmed] Spencer Steer (1B, Cincinnati Reds) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
+2026-10-29 20:52:25   drop[unconfirmed] Hunter Greene (SP, Cincinnati Reds) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: elbow injury
+2026-10-29 20:54:31   drop[kind] After Brain Injury, Astrocytes Ship Mitochondria to Struggling Neurons (Bioengineer.org) :: other
+2026-10-29 20:57:00   drop[1-source] Patriots Get More Bad News on A.J. Brown's Injury, TreVeyon Henderson (Sports Illustrated) :: TreVeyon Henderson, wait 2nd source
+2026-10-29 20:59:03 indexed 874 markets
+2026-10-29 21:01:24   drop[team-not-named] Thursday's injury report. Jalen Ramsey (wrist) was a full participant after missing practi (DK Pittsburgh Sports) :: Miami Dolphins
+2026-10-29 21:01:25   llm groq-120b: rate limited, skip 17s
+2026-10-29 21:01:25   drop[not-key] Nico Iamaleava 'heartbroken' over season-ending injury in first comments (USA Today) :: Nico Iamaleava: season-ending injury
+2026-10-29 21:01:26   drop[team-not-named] Robert Williams III (L Knee Injury Management) is … (HoopsHype) :: Milwaukee Bucks
