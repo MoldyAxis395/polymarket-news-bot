@@ -22422,3 +22422,18 @@
 2026-10-29 23:24:57   drop[team-not-named] Dejounte Murray (personal) ruled out vs. Kings (NBC Sports) :: Dallas Mavericks
 2026-10-29 23:29:20 indexed 872 markets
 2026-10-29 23:31:42   drop[team-not-named] Jordan Poole (ankle) ruled out vs. Sacramento (NBC Sports) :: Golden State Warriors
+2026-10-29 23:38:37   drop[kind] Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance (CNBC) :: other
+2026-10-29 23:38:48   drop[not-key] Joey Wentz (RP, Atlanta Braves) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Joey Wentz: placed on 60‑day IL
+2026-10-29 23:39:19 indexed 861 markets
+2026-10-29 23:43:25   drop[1-source] UCLA QB Nico Iamaleava ‘heartbroken’ as injury ends his season (WTOP News) :: Nico Iamaleava, wait 2nd source
+2026-10-29 23:49:20 indexed 856 markets
+2026-10-29 23:50:10   drop[1-source] Ravens injury report: Vega Ioane returns, Lamar Jackson full again (Baltimore Beatdown) :: Vega Ioane, wait 2nd source
+2026-10-29 23:50:11   llm groq-120b: rate limited, skip 39s
+2026-10-29 23:50:11   drop[no-pick] Insider Trading: Dylan Larkin suspended by Detroit Red Wings after deciding not to play (TSN) :: short
+2026-10-29 23:56:29   llm groq-120b: rate limited, skip 319s
+2026-10-29 23:56:30 NEWS [ESPN 3m] Jonnu Smith (TE, Green Bay Packers) ruled out: Active -> Out [NFL]
+2026-10-29 23:56:30   skip Panthers :: Panthers vs. Packers (low conf 0.6)
+2026-10-29 23:56:30   drop[not-key] Donovan Jennings (G, Green Bay Packers) ruled out: Active -> Out [NFL] (ESPN) :: Donovan Jennings: injury
+2026-10-29 23:56:31   drop[not-key] Kaleb Johnson (RB, Green Bay Packers) ruled out: Active -> Out [NFL] (ESPN) :: Kaleb Johnson: injury
+2026-10-29 23:59:23 indexed 865 markets
+2026-10-30 00:02:06   drop[no-market] UCLA QB Iamaleava 'heartbroken' over season-ending injury (ESPN) :: UCLA Bruins
