@@ -21928,3 +21928,12 @@
 2026-10-29 04:20:20 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 46)
 2026-10-29 04:20:23 [pengwin] TORINO-COMO: no Polymarket event (try 46)
 2026-10-29 04:21:07 feed skysports error x1: HTTPSConnectionPool(host='www.skysports.com', port=443): Read timed out. (read timeout=15)
+2026-10-29 04:27:18 feed cnbc error x1: HTTPSConnectionPool(host='www.cnbc.com', port=443): Read timed out. (read timeout=15)
+2026-10-29 04:28:31 indexed 923 markets
+2026-10-29 04:37:13 NEWS [India Today 3m] New Zealand dealt double blow as pace duo ruled out of T20I series vs India
+2026-10-29 04:37:13   skip India :: India Tour of New Zealand T20s: New Zealand vs India (low conf 0.62)
+2026-10-29 04:38:32 indexed 919 markets
+2026-10-29 04:48:33 indexed 920 markets
+2026-10-29 04:50:19   drop[no-pick] Brewers beat Rays 4-1 for first World Series title reut.rs/4A33Mx6 (Reuters) :: The fact concerns the 2024 World Series result and does not impact the 2026 World Series market.
+2026-10-29 04:50:32 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 47)
+2026-10-29 04:50:34 [pengwin] TORINO-COMO: no Polymarket event (try 47)
