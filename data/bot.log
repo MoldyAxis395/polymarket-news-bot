@@ -22386,3 +22386,14 @@
 2026-10-29 22:24:39   drop[not-key] Kyle Monangai a nonparticipant on estimated injury report, leaving Chicago Bears RB’s Week (Chicago Tribune) :: Kyle Monangai: injury
 2026-10-29 22:29:11 indexed 849 markets
 2026-10-29 22:29:26   drop[kind] RECALL: Child swings pose fall hazard, injury reported in Canada (www.insauga.com) :: other
+2026-10-29 22:36:11   drop[kind] Southern Miss Injury Report: 3 Golden Eagles Upgraded to Probable vs. ULM (Sports Illustrated) :: other
+2026-10-29 22:36:20   drop[not-key] Jabari Walker (F, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Jabari Walker: left knee soreness
+2026-10-29 22:39:14 indexed 856 markets
+2026-10-29 22:43:10   drop[verify] Red Wings’ Dylan Larkin suspended without pay as he waits for trade (The New York Times) :: Uncertain if Larkin still on Red Wings
+2026-10-29 22:49:12 indexed 862 markets
+2026-10-29 22:52:22   llm groq-120b: rate limited, skip 60s
+2026-10-29 22:52:23   drop[1-source] Talented Denver Broncos Running Back Suffers Knee Injury (heavy.com) :: Javonte Williams, wait 2nd source
+2026-10-29 22:57:10   llm groq-120b: rate limited, skip 64s
+2026-10-29 22:57:11 NEWS [Audacy 2m] Larkin suspended without pay after refusal to play for Red Wings
+2026-10-29 22:57:11   skip Blackhawks :: Blackhawks vs. Red Wings (already in market)
+2026-10-29 22:59:16 indexed 865 markets
