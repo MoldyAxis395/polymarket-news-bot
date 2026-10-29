@@ -1,14 +1,33 @@
 {
- "updated": "2026-10-29T16:01:07",
+ "updated": "2026-10-29T19:03:04",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 298,
- "markets_indexed": 1009,
- "news_processed": 391,
- "cash": 83.54,
- "equity": 83.54,
+ "llm_calls_today": 319,
+ "markets_indexed": 949,
+ "news_processed": 41,
+ "cash": 73.54,
+ "equity": 83.3,
  "start": 100.0,
- "open": [],
+ "open": [
+  {
+   "market_id": "5406624",
+   "question": "Blackhawks vs. Red Wings",
+   "slug": "nhl-chi-det-2026-10-29",
+   "outcome": "Blackhawks",
+   "token": "72712430725285729597461133613701686258542856544725547385708040545205503402092",
+   "shares": 23.80952380952381,
+   "entry": 0.42,
+   "cost": 10.0,
+   "opened": 1793296746.1560216,
+   "opened_iso": "2026-10-29T17:59:06+00:00",
+   "news": "Dylan Larkin (C, Detroit Red Wings) ruled out: healthy -> Out [NHL]",
+   "reason": "llm[groq-120b] trusted: Larkin's absence weakens Detroit, likely boosting Blackhawks odds",
+   "conf": 0.7,
+   "end": "2026-10-29T23:30:00+00:00",
+   "last_bid": 0.41,
+   "book_err": false
+  }
+ ],
  "closed_count": 94,
  "llm": {
   "backends": [
@@ -16,21 +35,20 @@
    "groq-20b"
   ],
   "fallbacks": 0,
-  "errors": {},
+  "errors": {
+   "groq-120b": "rate limited, skip 5s"
+  },
   "rejects": {
-   "fluff": 102,
-   "1-source": 41,
-   "kind": 48,
-   "team-not-named": 8,
-   "no-pick": 2,
-   "not-key": 4,
-   "no-market": 5,
-   "verify": 1,
-   "unconfirmed": 3
+   "not-key": 2,
+   "verify": 2,
+   "kind": 5,
+   "fluff": 8,
+   "team-not-named": 2,
+   "no-pick": 1
   },
   "calls": {
-   "groq-120b": 212,
-   "groq-20b": 86
+   "groq-120b": 228,
+   "groq-20b": 91
   }
  },
  "realized_pnl": -16.46

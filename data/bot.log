@@ -22217,3 +22217,24 @@
 2026-10-29 15:59:41   drop[kind] Cefali & Cefali, APC Expands Attorney-Led, Trial-Ready Approach to Personal Injury Cases i (markets.businessinsider.com) :: other
 2026-10-29 15:59:42   drop[kind] Chiefs Sign Former Ravens Star Once Suspended For Sexual Misconduct (Gridiron Heroics) :: other
 2026-10-29 16:01:15 shift over, state saved
+2026-10-29 18:58:15 === start mode=paper pid=2140 ===
+2026-10-29 18:58:15 brain=llm cash=83.54 open=0
+2026-10-29 18:58:15 resuming with 6216 known news items
+2026-10-29 18:58:44 indexed 949 markets
+2026-10-29 18:58:59   drop[not-key] Egor Demin (G, Brooklyn Nets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Egor Demin: right leg bone bruise
+2026-10-29 18:58:59   drop[not-key] Te-Hina Paopao (G, Atlanta Dream) ruled out: Day-To-Day -> Out [WNBA] (ESPN) :: Te-Hina Paopao: ruled out for upcoming game
+2026-10-29 18:59:03   drop[verify] Bowen Byram (D, Chicago Blackhawks) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: player's team status uncertain and impact likely insufficient to shift market >5 points
+2026-10-29 18:59:05 NEWS [ESPN 54m] Dylan Larkin (C, Detroit Red Wings) ruled out: healthy -> Out [NHL]
+2026-10-29 18:59:06   BUY Blackhawks @ 0.420 x23.8 ($10.00) :: Blackhawks vs. Red Wings
+2026-10-29 18:59:09   drop[verify] Jared Spurgeon (D, Minnesota Wild) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Uncertain if Spurgeon still plays for Wild and his impact may not shift market >5 points
+2026-10-29 18:59:09   drop[kind] The Los Angeles Clippers are signing former Spurs and Trail Blazers guard Blake Wesley to  (Shams Charania) :: other
+2026-10-29 18:59:10   drop[kind] This is the current situation: Larkin will not play until a trade occurs. The Red Wings ar (Elliotte Friedman) :: other
+2026-10-29 18:59:11   drop[team-not-named] DET coach Todd McLellan just told reporters Dylan Larkin will not play tonight and GM Shaw (Elliotte Friedman) :: Detroit Red Wings
+2026-10-29 18:59:12   drop[kind] Hearing that trade talks have escalated on Larkin. Which doesn't mean it necessarily leads (Pierre LeBrun) :: other
+2026-10-29 18:59:12   llm groq-120b: rate limited, skip 5s
+2026-10-29 18:59:13   drop[kind] Italian military helicopter on EU mission in Bosnia crashes reut.rs/4yTi0PT (Reuters) :: other
+2026-10-29 18:59:13   drop[team-not-named] Senior US general fired, accused of leaking classified information reut.rs/4zfU0Ye (Reuters) :: United States Army
+2026-10-29 18:59:14   drop[no-pick] Judge strikes down Trump admin's definition of 'medically frail' in Medicaid work rules po (Politico) :: short
+2026-10-29 18:59:14   drop[kind] Badgers starter doubtful vs. Iowa on initial injury report (Bucky's 5th Quarter) :: other
+2026-10-29 19:03:10   drop[kind] Packers call Keisean Nixon questionable for Thursday night with a shoulder injury (NBC Sports) :: other
+2026-10-29 19:03:11   drop[1-source] UFC Fight Night Loses Main Event to Injury Less Than Two Weeks Before Las Vegas Card (Sports Illustrated) :: UFC Fight Night (Las Vegas), wait 2nd source

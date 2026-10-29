@@ -1,6 +1,25 @@
 {
- "cash": 83.5382892962289,
- "positions": [],
+ "cash": 73.5382892962289,
+ "positions": [
+  {
+   "market_id": "5406624",
+   "question": "Blackhawks vs. Red Wings",
+   "slug": "nhl-chi-det-2026-10-29",
+   "outcome": "Blackhawks",
+   "token": "72712430725285729597461133613701686258542856544725547385708040545205503402092",
+   "shares": 23.80952380952381,
+   "entry": 0.42,
+   "cost": 10.0,
+   "opened": 1793296746.1560216,
+   "opened_iso": "2026-10-29T17:59:06+00:00",
+   "news": "Dylan Larkin (C, Detroit Red Wings) ruled out: healthy -> Out [NHL]",
+   "reason": "llm[groq-120b] trusted: Larkin's absence weakens Detroit, likely boosting Blackhawks odds",
+   "conf": 0.7,
+   "end": "2026-10-29T23:30:00+00:00",
+   "last_bid": 0.41,
+   "book_err": false
+  }
+ ],
  "closed": [
   {
    "market_id": "3871412",

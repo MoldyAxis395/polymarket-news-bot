@@ -194,3 +194,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-25T16:55:03+00:00,SELL,Dolphins vs. Jets,Jets,15.15,0.6400,9.70,-0.30,market closing
 2026-10-27T21:48:38+00:00,BUY,Thunder vs. Mavericks,Mavericks,31.25,0.3200,10.00,,"Chet Holmgren (C, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA] | llm[groq-20b] trusted: Holmgren out hurts Thunder, so Mavericks win odds should rise"
 2026-10-27T22:00:50+00:00,SELL,Thunder vs. Mavericks,Mavericks,31.25,0.2400,7.50,-2.50,stop loss
+2026-10-29T17:59:06+00:00,BUY,Blackhawks vs. Red Wings,Blackhawks,23.81,0.4200,10.00,,"Dylan Larkin (C, Detroit Red Wings) ruled out: healthy -> Out [NHL] | llm[groq-120b] trusted: Larkin's absence weakens Detroit, likely boosting Blackhawks odds"
