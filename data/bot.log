@@ -22422,48 +22422,21 @@
 2026-10-29 23:24:57   drop[team-not-named] Dejounte Murray (personal) ruled out vs. Kings (NBC Sports) :: Dallas Mavericks
 2026-10-29 23:29:20 indexed 872 markets
 2026-10-29 23:31:42   drop[team-not-named] Jordan Poole (ankle) ruled out vs. Sacramento (NBC Sports) :: Golden State Warriors
-2026-10-29 23:38:37   drop[kind] Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance (CNBC) :: other
-2026-10-29 23:38:48   drop[not-key] Joey Wentz (RP, Atlanta Braves) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Joey Wentz: placed on 60‑day IL
-2026-10-29 23:39:19 indexed 861 markets
-2026-10-29 23:43:25   drop[1-source] UCLA QB Nico Iamaleava ‘heartbroken’ as injury ends his season (WTOP News) :: Nico Iamaleava, wait 2nd source
-2026-10-29 23:49:20 indexed 856 markets
-2026-10-29 23:50:10   drop[1-source] Ravens injury report: Vega Ioane returns, Lamar Jackson full again (Baltimore Beatdown) :: Vega Ioane, wait 2nd source
-2026-10-29 23:50:11   llm groq-120b: rate limited, skip 39s
-2026-10-29 23:50:11   drop[no-pick] Insider Trading: Dylan Larkin suspended by Detroit Red Wings after deciding not to play (TSN) :: short
-2026-10-29 23:56:29   llm groq-120b: rate limited, skip 319s
-2026-10-29 23:56:30 NEWS [ESPN 3m] Jonnu Smith (TE, Green Bay Packers) ruled out: Active -> Out [NFL]
-2026-10-29 23:56:30   skip Panthers :: Panthers vs. Packers (low conf 0.6)
-2026-10-29 23:56:30   drop[not-key] Donovan Jennings (G, Green Bay Packers) ruled out: Active -> Out [NFL] (ESPN) :: Donovan Jennings: injury
-2026-10-29 23:56:31   drop[not-key] Kaleb Johnson (RB, Green Bay Packers) ruled out: Active -> Out [NFL] (ESPN) :: Kaleb Johnson: injury
-2026-10-29 23:59:23 indexed 865 markets
-2026-10-30 00:02:06   drop[no-market] UCLA QB Iamaleava 'heartbroken' over season-ending injury (ESPN) :: UCLA Bruins
-2026-10-30 00:06:22   drop[kind] In ‘The Road Back,’ Cam Skattebo’s injury helped reignite his love of football (New York Post) :: other
-2026-10-30 00:09:23 indexed 856 markets
-2026-10-30 00:11:45   llm groq-120b: rate limited, skip 342s
-2026-10-30 00:11:46   drop[verify] Ja'Tavion Sanders (TE, Carolina Panthers) ruled out: Active -> Out [NFL] (ESPN) :: player not starter
-2026-10-30 00:11:49 NEWS [ESPN 14m] Haynes King (QB, Carolina Panthers) ruled out: Active -> Out [NFL]
-2026-10-30 00:11:49   BUY Packers @ 0.640 x15.6 ($10.00) :: Panthers vs. Packers
-2026-10-30 00:11:51 NEWS [ESPN 14m] Bobby Brown III (DT, Carolina Panthers) ruled out: Questionable -> Out [NFL]
-2026-10-30 00:11:51   skip Packers :: Panthers vs. Packers (already in market)
-2026-10-30 00:11:52   drop[no-pick] AJ Dillon (RB, Carolina Panthers) ruled out: Active -> Out [NFL] (ESPN) :: short
-2026-10-30 00:15:32 NEWS [New York Post 2m] Dylan Larkin suspended by Red Wings as trade drama erupts
-2026-10-30 00:15:32   skip Blackhawks :: Blackhawks vs. Red Wings (already in market)
-2026-10-30 00:17:52   drop[kind] Cavs injury report: Meleek Thomas, Jaylon Tyson questionable vs. Hawks (Cavaliers Nation) :: other
-2026-10-30 00:17:52   llm groq-120b: rate limited, skip 154s
-2026-10-30 00:17:52   drop[1-source] South Coast police officer suspended by Massachusetts POST after allegedly strangling, r*p (Fall River Reporter) :: Massachusetts POST, wait 2nd source
-2026-10-30 00:17:54   drop[unconfirmed] Nico Iamaleava plans to return to UCLA football after crushing ACL injury ended 2026 seaso (ClutchPoints) :: player returning
-2026-10-30 00:19:26 indexed 864 markets
-2026-10-30 00:24:54   drop[1-source] Üsküdar Mayor Sinem Dedetaş, who was suspended from duty, has been released! Here is her f (Haberler.com) :: Sinem Dedetaş, wait 2nd source
-2026-10-30 00:25:04   SELL Blackhawks @ 0.400 (market closing) pnl -0.48 :: Blackhawks vs. Red Wings
-2026-10-30 00:25:41   llm groq-120b: rate limited, skip 207s
-2026-10-30 00:25:42   drop[kind] Focus: Chinese EVs win over some in South Korea, but Japan is proving to be a rougher road (Reuters) :: other
-2026-10-30 00:27:11   drop[1-source] Anadarko football coach, AD Kent Jackson suspended pending assault investigation (The Oklahoman) :: Kent Jackson, wait 2nd source
-2026-10-30 00:29:26 indexed 868 markets
-2026-10-30 00:31:51   drop[not-key] Meleek Thomas (foot) ruled out vs. Atlanta (NBC Sports) :: Meleek Thomas: injury
-2026-10-30 00:32:28   drop[not-key] Meleek Thomas (G, Cleveland Cavaliers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Meleek Thomas: foot injury
-2026-10-30 00:38:34   llm groq-120b: rate limited, skip 151s
-2026-10-30 00:38:34   drop[not-key] Mike Matheson (D, Montreal Canadiens) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Mike Matheson: injury
-2026-10-30 00:38:56   drop[kind] Suspect in fake Bondi Beach injury claim detained in Australia — Jerusalem Post (UA.NEWS) :: other
-2026-10-30 00:39:28 indexed 859 markets
-2026-10-30 00:41:57 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
-2026-10-30 00:43:16 shift over, state saved
+2026-10-30 00:43:41 === start mode=paper pid=2263 ===
+2026-10-30 00:43:41 brain=llm cash=73.54 open=1
+2026-10-30 00:43:41 resuming with 6221 known news items
+2026-10-30 00:44:07 indexed 859 markets
+2026-10-30 00:44:20 NEWS [ESPN 22m] Bobby Brown III (DT, Carolina Panthers) ruled out: Questionable -> Out [NFL]
+2026-10-30 00:44:20   skip Packers :: Panthers vs. Packers (low conf 0.6)
+2026-10-30 00:44:21   drop[not-key] Haynes King (QB, Carolina Panthers) ruled out: Active -> Out [NFL] (ESPN) :: Haynes King: ruled out for upcoming game
+2026-10-30 00:44:21   llm groq-120b: rate limited, skip 133s
+2026-10-30 00:44:21   drop[unconfirmed] Ja'Tavion Sanders (TE, Carolina Panthers) ruled out: Active -> Out [NFL] (ESPN) :: healthy scratch
+2026-10-30 00:44:22   drop[unconfirmed] AJ Dillon (RB, Carolina Panthers) ruled out: Active -> Out [NFL] (ESPN) :: ruled out
+2026-10-30 00:44:22   drop[unconfirmed] Kaleb Johnson (RB, Green Bay Packers) ruled out: Active -> Out [NFL] (ESPN) :: ruled out
+2026-10-30 00:44:24   drop[verify] Jonnu Smith (TE, Green Bay Packers) ruled out: Active -> Out [NFL] (ESPN) :: Jonnu Smith not on Packers in 2026
+2026-10-30 00:44:24   drop[not-key] Donovan Jennings (G, Green Bay Packers) ruled out: Active -> Out [NFL] (ESPN) :: Donovan Jennings: injury
+2026-10-30 00:44:24   drop[unconfirmed] Meleek Thomas (G, Cleveland Cavaliers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: foot injury
+2026-10-30 00:44:25   drop[not-key] Mike Matheson (D, Montreal Canadiens) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Mike Matheson: injury
+2026-10-30 00:44:26   drop[no-pick] Joey Wentz (RP, Atlanta Braves) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: no matching market
+2026-10-30 00:44:26   drop[kind] Focus: Chinese EVs win over some in South Korea, but Japan is proving to be a rougher road (Reuters) :: other
+2026-10-30 00:44:26   SELL Blackhawks @ 0.390 (market closing) pnl -0.71 :: Blackhawks vs. Red Wings
