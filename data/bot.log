@@ -21853,3 +21853,31 @@
 2026-10-29 01:04:29   drop[unconfirmed] Coby Bryant (S, Chicago Bears) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: injury
 2026-10-29 01:05:50   drop[unconfirmed] Initial Injury Report: 5 Michigan Players 'Questionable' vs. Rutgers, Defense Catches Brea (Sports Illustrated) :: 5 players listed as questionable for upcoming game
 2026-10-29 01:07:47 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-29 01:10:05 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 43)
+2026-10-29 01:10:08 [pengwin] TORINO-COMO: no Polymarket event (try 43)
+2026-10-29 01:13:28 indexed 933 markets
+2026-10-29 01:15:05   drop[kind] Spa worker narrowly avoids injury after glass door suddenly shatters (cbs19.tv) :: other
+2026-10-29 01:15:06   drop[1-source] Carolina Panthers: Damien Lewis, Jaelan Phillips ruled out vs. Green Bay (roundtable.io) :: Damien Lewis, wait 2nd source
+2026-10-29 01:16:39   llm groq-120b: rate limited, skip 223s
+2026-10-29 01:16:40   drop[unconfirmed] Lauri Markkanen (F, Utah Jazz) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: day-to-week
+2026-10-29 01:17:25   drop[1-source] UTSA head men's basketball coach arrested on suspicion of DWI, suspended by university (kens5.com) :: Chris Hatcher, wait 2nd source
+2026-10-29 01:17:26   drop[team-not-named] Claunch suspended for DWI (The Paisano) :: New York Jets
+2026-10-29 01:17:26   drop[unconfirmed] Gators WR Vernell Brown III Nearing Return from Injury (Sports Illustrated) :: injury update
+2026-10-29 01:17:28   drop[1-source] Nebraska availability report: Mozee and Van Poppel probable; Conn ruled out (On3) :: Connor McNitt, wait 2nd source
+2026-10-29 01:17:29   drop[side] Australia takes control of South Africa Test as Steve Smith injury confirmed (The Daily Advertiser) :: Will Australia win? -> Yes vs fact ruled_out: Steve Smith (Australia, other), bad for Australia. injury
+2026-10-29 01:19:40   drop[not-key] Tyler Allgeier Injury: DNP on Wednesday (RotoWire) :: Tyler Allgeier: injury
+2026-10-29 01:22:09   drop[1-source] Ole Miss vs. Auburn Injury Report: Jalyn Crawford, Terez Davis Questionable; Kewan Lacy Ou (The Rebel Walk) :: Kewan Lacy, wait 2nd source
+2026-10-29 01:22:09   llm groq-120b: rate limited, skip 267s
+2026-10-29 01:22:09   drop[1-source] Jay Timmons and Brandon Inniss Questionable, Kenyatta Jackson Jr. and Austin Siereveld Cle (Eleven Warriors) :: Kenyatta Jackson Jr. and Austin Siereveld, wait 2nd source
+2026-10-29 01:23:30 indexed 927 markets
+2026-10-29 01:24:21   drop[no-market] UTSA basketball coach Austin Claunch suspended following DWI arrest (San Antonio Express-News) :: UTSA Roadrunners
+2026-10-29 01:24:22   drop[kind] Texas WR Cam Coleman probable, EDGE Colin Simmons questionable on Wednesday's SEC injury r (247Sports) :: other
+2026-10-29 01:26:39   llm groq-120b: rate limited, skip 35s
+2026-10-29 01:26:41   drop[no-pick] NFL Week 8 injury report: Lamar Jackson practices in full, Lions star Kerby Joseph returns (CBS Sports) :: no matching market for Detroit Lions
+2026-10-29 01:28:59   drop[kind] SEC Availability Report | Georgia's KJ Bolden listed as questionable for Florida (Online Athens) :: other
+2026-10-29 01:28:59   llm groq-120b: rate limited, skip 181s
+2026-10-29 01:29:00   drop[1-source] Ja'Marr Chase misses practice ahead of Bengals vs Titans in Week 8 (Cincinnati Enquirer) :: Ja'Marr Chase, wait 2nd source
+2026-10-29 01:29:00   drop[kind] Ole Miss football injury report vs Auburn: Terez Davis among Rebels questionable (bitacora.com.uy) :: other
+2026-10-29 01:31:40   drop[kind] The Acute Kidney Injury Market Is Projected to Reach $7.78 Billion by 2030 Driven by Robus (EIN News) :: other
+2026-10-29 01:31:41   drop[kind] The Acute Lung Injury Market is Expected to Grow Rapidly at a 4.2% CAGR Until 2030 (EIN News) :: other
+2026-10-29 01:33:32 indexed 920 markets
