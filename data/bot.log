@@ -22397,3 +22397,28 @@
 2026-10-29 22:57:11 NEWS [Audacy 2m] Larkin suspended without pay after refusal to play for Red Wings
 2026-10-29 22:57:11   skip Blackhawks :: Blackhawks vs. Red Wings (already in market)
 2026-10-29 22:59:16 indexed 865 markets
+2026-10-29 23:03:56   llm groq-120b: rate limited, skip 83s
+2026-10-29 23:03:57   drop[kind] Australia arrests Indian man over alleged fake Bondi Beach attack injury claim (The Jerusalem Post) :: other
+2026-10-29 23:06:27   llm groq-120b: rate limited, skip 434s
+2026-10-29 23:06:27   drop[side] Larkin suspended by Red Wings, won't play until traded (NHL.com) :: Blackhawks vs. Red Wings -> Red Wings vs fact suspended: Dylan Larkin (Detroit Red Wings, nhl), bad for Detroit Red Wing
+2026-10-29 23:06:27   drop[1-source] Breeders' Cup Classic: Magnitude scratched with left foreleg injury (Daily Racing Form) :: Magnitude, wait 2nd source
+2026-10-29 23:09:18 indexed 871 markets
+2026-10-29 23:17:50   drop[team-not-named] Aaron Jones on Injury vs. Colts, Collaboration with Kyler Murray & Love of the Game (Vikings.com) :: Minnesota Vikings
+2026-10-29 23:19:18 indexed 878 markets
+2026-10-29 23:20:11 NEWS [The Big Lead 1m] Red Wings star Dylan Larkin suspended without pay
+2026-10-29 23:20:11   skip Blackhawks :: Blackhawks vs. Red Wings (rss sport (measure only))
+2026-10-29 23:20:12   drop[1-source] Roughriders Injury Report: Safety Nelson Lokombo out, majority of starters available for W (SportsCage.com) :: Nelson Lokombo, wait 2nd source
+2026-10-29 23:20:29   llm groq-120b: rate limited, skip 51s
+2026-10-29 23:20:30 NEWS [ESPN 15m] Justin Danforth (RW, Buffalo Sabres) ruled out: Day-To-Day -> Injured Reserve [NHL]
+2026-10-29 23:20:30   skip Ducks :: Sabres vs. Ducks (low conf 0.6)
+2026-10-29 23:21:30   llm groq-120b: rate limited, skip 312s
+2026-10-29 23:21:31   drop[unconfirmed] Sergio de Larrea (F, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: knee sprain
+2026-10-29 23:21:31   drop[no-pick] Dejounte Murray (G, New Orleans Pelicans) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: no suitable market where price would rise by 5+ points
+2026-10-29 23:21:32   drop[side] Jordan Poole (G, New Orleans Pelicans) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Kings vs. Pelicans -> Pelicans vs fact ruled_out: Jordan Poole (New Orleans Pelicans, nba), bad for New Orleans Pelicans
+2026-10-29 23:21:51   drop[no-market] Ireland's Furlong cleared of groin grab by disciplinary committee (BBC) :: Leinster Rugby
+2026-10-29 23:23:32   drop[unconfirmed] Spencer Schwellenbach (SP, Atlanta Braves) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
+2026-10-29 23:23:32   drop[unconfirmed] Hurston Waldrep (SP, Atlanta Braves) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: season‑ending injury
+2026-10-29 23:23:33   drop[no-pick] Spencer Strider (SP, Atlanta Braves) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: short
+2026-10-29 23:24:57   drop[team-not-named] Dejounte Murray (personal) ruled out vs. Kings (NBC Sports) :: Dallas Mavericks
+2026-10-29 23:29:20 indexed 872 markets
+2026-10-29 23:31:42   drop[team-not-named] Jordan Poole (ankle) ruled out vs. Sacramento (NBC Sports) :: Golden State Warriors
