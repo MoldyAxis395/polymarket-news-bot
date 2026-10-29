@@ -22461,3 +22461,9 @@
 2026-10-30 00:29:26 indexed 868 markets
 2026-10-30 00:31:51   drop[not-key] Meleek Thomas (foot) ruled out vs. Atlanta (NBC Sports) :: Meleek Thomas: injury
 2026-10-30 00:32:28   drop[not-key] Meleek Thomas (G, Cleveland Cavaliers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Meleek Thomas: foot injury
+2026-10-30 00:38:34   llm groq-120b: rate limited, skip 151s
+2026-10-30 00:38:34   drop[not-key] Mike Matheson (D, Montreal Canadiens) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Mike Matheson: injury
+2026-10-30 00:38:56   drop[kind] Suspect in fake Bondi Beach injury claim detained in Australia — Jerusalem Post (UA.NEWS) :: other
+2026-10-30 00:39:28 indexed 859 markets
+2026-10-30 00:41:57 espn_injuries error x1: HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=20)
+2026-10-30 00:43:16 shift over, state saved
