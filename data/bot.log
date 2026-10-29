@@ -21873,3 +21873,29 @@
 2026-10-29 02:49:52 [pengwin] TORINO-COMO: no Polymarket event (try 43)
 2026-10-29 02:50:59   drop[not-key] Ramzak Fruean Ruled Out of Nebraska Game (Sports Illustrated) :: Ramzak Fruean: injury
 2026-10-29 02:50:59   drop[kind] INJURY OPENS OPPORTUNITY FOR PLAYERS TO DEBUT FOR KUMULS (emtv online) :: other
+2026-10-29 02:55:22   llm groq-120b: rate limited, skip 258s
+2026-10-29 02:55:22   drop[no-pick] Omarr Norman-Lott (DT, Kansas City Chiefs) ruled out: healthy -> Out [NFL] (ESPN) :: short
+2026-10-29 02:55:32   drop[1-source] School board member was suspended from charter job after ‘unwanted touching’ of co-worker  (Wirepoints) :: charter school board, wait 2nd source
+2026-10-29 02:58:12 indexed 915 markets
+2026-10-29 02:58:30   drop[1-source] Indiana football vs. Minnesota injury report: Josh Hoover probable, two Hoosiers ruled out (247Sports) :: Indiana Hoosiers, wait 2nd source
+2026-10-29 02:58:30   drop[1-source] Josh Manson Suffers Lower-Body Injury as Avalanche Trail Devils After First Period (The Hockey News) :: Josh Manson, wait 2nd source
+2026-10-29 02:58:30   drop[unconfirmed] Florida WR Vernell Brown III ‘expected’ to return from knee injury vs. Georgia (ClutchPoints) :: expected return
+2026-10-29 03:02:58   drop[1-source] Caulfield Cup place-getter ruled OUT of Melbourne Cup on vet's orders (Sporting News AU) :: Melbourne Cup entry (Caulfield Cup place‑getter), wait 2nd source
+2026-10-29 03:06:48   drop[not-key] Vancouver Whitecaps confirmed lineup vs San Diego FC: Ralph Priso-Mbongue, Andrés Cubas, E (ESPN) :: Ralph Priso-Mbongue: injury
+2026-10-29 03:06:48   llm groq-120b: rate limited, skip 140s
+2026-10-29 03:06:49 NEWS [ESPN 0m] San Diego FC confirmed lineup vs Vancouver Whitecaps: Alejandro Alvarado Jr. ruled out of starting XI [usa.1]
+2026-10-29 03:06:49   skip Yes :: Will Vancouver Whitecaps FC win on 2026-10-28? (low conf 0.6)
+2026-10-29 03:08:14 indexed 918 markets
+2026-10-29 03:09:53   drop[1-source] Kansas State QB Avery Johnson out, backup Jacob Knuth doubtful to play at Colorado (The Topeka Capital-Journal) :: Avery Johnson, wait 2nd source
+2026-10-29 03:09:54   llm groq-120b: rate limited, skip 274s
+2026-10-29 03:09:54   drop[1-source] Australia's Smith cleared of serious neck injury, set to play in first NZ test (The Straits Times) :: Will Smith, wait 2nd source
+2026-10-29 03:09:55   drop[unconfirmed] News | Xavi Espart focused on stronger Barcelona return after El Clasico injury (Vodacom Soccer) :: injury recovery
+2026-10-29 03:10:15   drop[not-key] Josh Hayes (CB, Tampa Bay Buccaneers) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Josh Hayes: knee injury
+2026-10-29 03:14:27   drop[kind] MRI Signal Reveals Meningeal Injury After Traumatic Brain Injury (Bioengineer.org) :: other
+2026-10-29 03:14:28   drop[1-source] Cowboys Delay Injury Decision on $33 Million Star (heavy.com) :: Dak Prescott, wait 2nd source
+2026-10-29 03:18:15 indexed 916 markets
+2026-10-29 03:20:01 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 44)
+2026-10-29 03:20:04 [pengwin] TORINO-COMO: no Polymarket event (try 44)
+2026-10-29 03:21:30   llm groq-120b: rate limited, skip 166s
+2026-10-29 03:21:31 NEWS [247Sports 3m] Kansas State QB Avery Johnson ruled out against Colorado
+2026-10-29 03:21:31   skip Colorado :: Kansas State vs. Colorado (rss sport (measure only))
