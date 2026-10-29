@@ -22131,3 +22131,18 @@
 2026-10-29 13:37:29 indexed 1024 markets
 2026-10-29 13:47:30 indexed 1021 markets
 2026-10-29 13:47:36   drop[kind] Calls for a final fix as fears of ‘serious injury’ on busy Portadown footbridge over winte (Armagh I) :: other
+2026-10-29 13:57:31 indexed 1025 markets
+2026-10-29 13:59:24   drop[kind] Low serum magnesium linked to early sepsis-related kidney injury risk (Bioengineer.org) :: other
+2026-10-29 14:06:08   drop[1-source] What Justin Champagnie's Injury Means for Washington Wizards (roundtable.io) :: Justin Champagnie, wait 2nd source
+2026-10-29 14:06:09   drop[1-source] Steelers cornerback misses practice with lingering hamstring injury (Steelers Wire) :: Cameron Sutton, wait 2nd source
+2026-10-29 14:06:09   drop[1-source] All signs point to Ravens QB Lamar Jackson making injury return vs. Bills (ClutchPoints) :: Lamar Jackson, wait 2nd source
+2026-10-29 14:07:32 indexed 1011 markets
+2026-10-29 14:08:38   drop[kind] Harkla Recalls Children’s Sensory Swings Due to Risk of Serious Injury from Fall Hazard (CPSC.gov) :: other
+2026-10-29 14:08:38   llm groq-120b: rate limited, skip 80s
+2026-10-29 14:08:38   drop[kind] PILLANI Recalls Nursing Pillows Due to Risk of Serious Injury or Death from Suffocation; V (CPSC.gov) :: other
+2026-10-29 14:10:46   drop[kind] Train Operations Suspended Across Quetta Division for One Day (TechJuice) :: other
+2026-10-29 14:13:04   llm groq-120b: rate limited, skip 79s
+2026-10-29 14:13:04   drop[unconfirmed] Hyundai Mobis Beats KCC 96-89 Behind Beazley’s Triple-Double (조선일보) :: win
+2026-10-29 14:17:34 indexed 1002 markets
+2026-10-29 14:18:11 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-10-29 14:20:00   drop[kind] Oklahoma City Woman's Hip Injury to Powerlifting Triumph (Hoodline) :: other
