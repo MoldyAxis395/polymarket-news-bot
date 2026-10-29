@@ -21912,3 +21912,19 @@
 2026-10-29 03:50:10 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 45)
 2026-10-29 03:50:12 [pengwin] TORINO-COMO: no Polymarket event (try 45)
 2026-10-29 03:51:07   drop[1-source] LJ Martin and Evan Johnson Officially Ruled Out for BYU Against ASU (Sports Illustrated) :: Brigham Young University (BYU) Football, wait 2nd source
+2026-10-29 03:58:24 indexed 920 markets
+2026-10-29 04:01:33   drop[kind] Big Caring launches IPO valuing Malaysian pharmacy chain at $2 billion reut.rs/4zk8qXw (Reuters) :: other
+2026-10-29 04:04:43   drop[team-not-named] UTSA coach Austin Claunch suspended after arrest on suspicion of DWI with season-opener le (CBS Sports) :: University of Texas at San Antonio Roadrunners
+2026-10-29 04:04:44   drop[kind] Numsa regional leaders who ‘suspended’ national officials ‘suspended’ (Sowetan) :: other
+2026-10-29 04:04:44   llm groq-120b: rate limited, skip 341s
+2026-10-29 04:04:44   drop[unconfirmed] 'It's been super hard': Bailey's long road back from injury to national stage (Newcastle Herald) :: return
+2026-10-29 04:07:03   drop[1-source] Football Notebook: WL Western freshman Easton Meek flashes talents after injury to startin (The Oakland Press) :: David Krall, wait 2nd source
+2026-10-29 04:08:24 indexed 920 markets
+2026-10-29 04:14:00   drop[kind] Neural Stem Cells May Rewire the Immune Response After Spinal Cord Injury (Bioengineer.org) :: other
+2026-10-29 04:16:19   drop[1-source] Warriors Struggle in Phoenix, Fall to Suns 131-122 Amidst Injury Woes (SSBCrack) :: Golden State Warriors, wait 2nd source
+2026-10-29 04:16:19   llm groq-120b: rate limited, skip 130s
+2026-10-29 04:16:19   drop[1-source] Mikel Arteta to make eight Arsenal changes vs Liverpool as double injury boost confirmed (ArsenalNews.co.uk) :: Mikel Arteta, wait 2nd source
+2026-10-29 04:18:26 indexed 919 markets
+2026-10-29 04:20:20 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 46)
+2026-10-29 04:20:23 [pengwin] TORINO-COMO: no Polymarket event (try 46)
+2026-10-29 04:21:07 feed skysports error x1: HTTPSConnectionPool(host='www.skysports.com', port=443): Read timed out. (read timeout=15)
