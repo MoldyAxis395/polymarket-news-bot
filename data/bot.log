@@ -22146,3 +22146,21 @@
 2026-10-29 14:17:34 indexed 1002 markets
 2026-10-29 14:18:11 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
 2026-10-29 14:20:00   drop[kind] Oklahoma City Woman's Hip Injury to Powerlifting Triumph (Hoodline) :: other
+2026-10-29 14:22:18   drop[kind] A.J. Brown: Sometimes I’m pushing through ankle injury, but no excuses (NBC Sports) :: other
+2026-10-29 14:22:18   llm groq-120b: rate limited, skip 99s
+2026-10-29 14:22:19   drop[kind] Arsenal, Man United probe Kroupi status after injury return (Daily Beirut) :: other
+2026-10-29 14:27:36 indexed 1020 markets
+2026-10-29 14:27:36 mlb_lineups error x1: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-29 14:29:15   drop[1-source] High School Football: Springboro’s Miller fueled by second chance after injury setback (Journal-News.com) :: Miller, wait 2nd source
+2026-10-29 14:29:15   llm groq-120b: rate limited, skip 3s
+2026-10-29 14:29:15   drop[1-source] Springbok Women reshuffle for Ireland rematch after Sanelisiwe Charlie injury (SABC Sport) :: Sanelisiwe Charlie, wait 2nd source
+2026-10-29 14:35:27   drop[kind] Finland launches criminal probe of suspected environmental damage at Google data centre si (Reuters) :: other
+2026-10-29 14:36:17   drop[kind] Diabetes Slows Nerve Regeneration After Traumatic Injury, Review Finds (Bioengineer.org) :: other
+2026-10-29 14:37:38 indexed 1011 markets
+2026-10-29 14:38:32   drop[kind] Consumer safety warnings issued for high chairs and pressure washers over injury risks (NBC Montana) :: other
+2026-10-29 14:43:09   drop[kind] Czech courier who killed a senior while reversing gets suspended term (Around Prague) :: other
+2026-10-29 14:45:39   llm groq-120b: rate limited, skip 161s
+2026-10-29 14:45:39   drop[no-market] Osaka knocked out in Tokyo by teenager Pohankova in second round reut.rs/4kgPHY8 (Reuters) :: Naomi Osaka
+2026-10-29 14:47:38 indexed 1006 markets
+2026-10-29 14:47:45   drop[not-key] Flames G Cooley says injury is ’a great opportunity to reset physically, mentally’ (TSN) :: G Cooley: injury
+2026-10-29 14:50:02   drop[not-key] Darius Bezely Records Season's First Triple-Double, Suffers Injury (조선일보) :: Darius Bezely: suffered injury after recording triple-double
