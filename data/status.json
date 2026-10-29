@@ -1,34 +1,34 @@
 {
- "updated": "2026-10-30T00:03:32",
+ "updated": "2026-10-30T00:33:33",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 501,
- "markets_indexed": 865,
- "news_processed": 430,
- "cash": 73.54,
- "equity": 83.06,
+ "llm_calls_today": 525,
+ "markets_indexed": 868,
+ "news_processed": 460,
+ "cash": 73.06,
+ "equity": 82.91,
  "start": 100.0,
  "open": [
   {
-   "market_id": "5406624",
-   "question": "Blackhawks vs. Red Wings",
-   "slug": "nhl-chi-det-2026-10-29",
-   "outcome": "Blackhawks",
-   "token": "72712430725285729597461133613701686258542856544725547385708040545205503402092",
-   "shares": 23.80952380952381,
-   "entry": 0.42,
+   "market_id": "5455706",
+   "question": "Panthers vs. Packers",
+   "slug": "nfl-car-gb-2026-10-30",
+   "outcome": "Packers",
+   "token": "14454103804194723330483648549716480987369769098696900994775497216980487558661",
+   "shares": 15.625,
+   "entry": 0.64,
    "cost": 10.0,
-   "opened": 1793296746.1560216,
-   "opened_iso": "2026-10-29T17:59:06+00:00",
-   "news": "Dylan Larkin (C, Detroit Red Wings) ruled out: healthy -> Out [NHL]",
-   "reason": "llm[groq-120b] trusted: Larkin's absence weakens Detroit, likely boosting Blackhawks odds",
+   "opened": 1793315509.5472782,
+   "opened_iso": "2026-10-29T23:11:49+00:00",
+   "news": "Haynes King (QB, Carolina Panthers) ruled out: Active -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: King out weakens Panthers, boosting Packers win odds",
    "conf": 0.7,
-   "end": "2026-10-29T23:30:00+00:00",
-   "last_bid": 0.4,
+   "end": "2026-10-30T00:15:00+00:00",
+   "last_bid": 0.63,
    "book_err": false
   }
  ],
- "closed_count": 94,
+ "closed_count": 95,
  "llm": {
   "backends": [
    "groq-120b",
@@ -37,21 +37,21 @@
   "fallbacks": 0,
   "errors": {},
   "rejects": {
-   "not-key": 20,
-   "verify": 4,
-   "kind": 50,
-   "fluff": 102,
+   "not-key": 22,
+   "verify": 5,
+   "kind": 53,
+   "fluff": 107,
    "team-not-named": 15,
-   "no-pick": 7,
-   "1-source": 27,
-   "unconfirmed": 17,
+   "no-pick": 8,
+   "1-source": 30,
+   "unconfirmed": 18,
    "no-market": 4,
    "side": 2
   },
   "calls": {
-   "groq-120b": 334,
-   "groq-20b": 167
+   "groq-120b": 344,
+   "groq-20b": 181
   }
  },
- "realized_pnl": -16.46
+ "realized_pnl": -16.94
 }

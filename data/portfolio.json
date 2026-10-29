@@ -1,22 +1,22 @@
 {
- "cash": 73.5382892962289,
+ "cash": 73.06209882003841,
  "positions": [
   {
-   "market_id": "5406624",
-   "question": "Blackhawks vs. Red Wings",
-   "slug": "nhl-chi-det-2026-10-29",
-   "outcome": "Blackhawks",
-   "token": "72712430725285729597461133613701686258542856544725547385708040545205503402092",
-   "shares": 23.80952380952381,
-   "entry": 0.42,
+   "market_id": "5455706",
+   "question": "Panthers vs. Packers",
+   "slug": "nfl-car-gb-2026-10-30",
+   "outcome": "Packers",
+   "token": "14454103804194723330483648549716480987369769098696900994775497216980487558661",
+   "shares": 15.625,
+   "entry": 0.64,
    "cost": 10.0,
-   "opened": 1793296746.1560216,
-   "opened_iso": "2026-10-29T17:59:06+00:00",
-   "news": "Dylan Larkin (C, Detroit Red Wings) ruled out: healthy -> Out [NHL]",
-   "reason": "llm[groq-120b] trusted: Larkin's absence weakens Detroit, likely boosting Blackhawks odds",
+   "opened": 1793315509.5472782,
+   "opened_iso": "2026-10-29T23:11:49+00:00",
+   "news": "Haynes King (QB, Carolina Panthers) ruled out: Active -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: King out weakens Panthers, boosting Packers win odds",
    "conf": 0.7,
-   "end": "2026-10-29T23:30:00+00:00",
-   "last_bid": 0.4,
+   "end": "2026-10-30T00:15:00+00:00",
+   "last_bid": 0.63,
    "book_err": false
   }
  ],
@@ -2042,6 +2042,28 @@
    "pnl": -0.30303030303030276,
    "why": "market closing",
    "closed_iso": "2026-10-25T16:55:03+00:00"
+  },
+  {
+   "market_id": "5406624",
+   "question": "Blackhawks vs. Red Wings",
+   "slug": "nhl-chi-det-2026-10-29",
+   "outcome": "Blackhawks",
+   "token": "72712430725285729597461133613701686258542856544725547385708040545205503402092",
+   "shares": 23.80952380952381,
+   "entry": 0.42,
+   "cost": 10.0,
+   "opened": 1793296746.1560216,
+   "opened_iso": "2026-10-29T17:59:06+00:00",
+   "news": "Dylan Larkin (C, Detroit Red Wings) ruled out: healthy -> Out [NHL]",
+   "reason": "llm[groq-120b] trusted: Larkin's absence weakens Detroit, likely boosting Blackhawks odds",
+   "conf": 0.7,
+   "end": "2026-10-29T23:30:00+00:00",
+   "last_bid": 0.4,
+   "book_err": false,
+   "exit": 0.39999999999999997,
+   "pnl": -0.4761904761904763,
+   "why": "market closing",
+   "closed_iso": "2026-10-29T23:25:05+00:00"
   }
  ],
  "cooldown": {
@@ -2105,6 +2127,7 @@
   "5035384": 1792880718.6792643,
   "4551273": 1792902893.3305793,
   "4551285": 1792958103.1436505,
-  "4551284": 1792958103.7324388
+  "4551284": 1792958103.7324388,
+  "5406624": 1793327105.4743662
  }
 }
