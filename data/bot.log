@@ -22040,3 +22040,11 @@
 2026-10-29 08:30:46   drop[unconfirmed] Trefelin attacker faces lengthy injury lay-off after surgery (Y Clwb Pêl-droed) :: surgery
 2026-10-29 08:30:47   drop[1-source] All fairs suspended at old trade fair ground in Dhaka (Banglanews24) :: Old Trade Fair Ground, Dhaka, wait 2nd source
 2026-10-29 08:32:47 shift over, state saved
+2026-10-29 10:16:15 === start mode=paper pid=2221 ===
+2026-10-29 10:16:15 brain=llm cash=83.54 open=0
+2026-10-29 10:16:15 resuming with 6212 known news items
+2026-10-29 10:16:42 indexed 903 markets
+2026-10-29 10:17:01   drop[1-source] Nagpur MLC poll: Head Constable suspended for switching off CCTV cameras at counting centr (Nagpur Today) :: Nagpur Police, wait 2nd source
+2026-10-29 10:19:24   drop[kind] Hospital Records Reveal Sector-Specific Injury Patterns Among Injured Workers in Türkiye (Bioengineer.org) :: other
+2026-10-29 10:19:59   llm groq-120b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-29 10:19:59   drop[kind] 🚨🇧🇷 Xabi Alonso on Estevão: “We know Premier League are very intense, you need to be up fo (Fabrizio Romano) :: other
