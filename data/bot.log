@@ -22522,3 +22522,14 @@
 2026-10-30 03:45:16   llm groq-120b: rate limited, skip 108s
 2026-10-30 03:45:16   drop[not-key] Packers' Watson goes to hospital with chest injury in 2nd quarter. Then he returns to the  (Medicine Hat News) :: Jared Watson: chest injury resolved
 2026-10-30 03:47:32   drop[1-source] NC State vs. California injury report: Jojo Trader upgraded to questionable, Daniel Cruz,  (247Sports) :: Daniel Cruz, wait 2nd source
+2026-10-30 03:50:02   llm groq-120b: rate limited, skip 106s
+2026-10-30 03:50:02   drop[team-not-named] NFL Doctor Shares His Take On Christian Watson Hospital Injury (TotalProSports) :: Green Bay Packers
+2026-10-30 03:54:29   drop[team-not-named] Defender Kim Tae-hyun Sustains Fracture, Misses Asian Cup (조선일보) :: South Korea national football team
+2026-10-30 03:54:29   llm groq-120b: rate limited, skip 165s
+2026-10-30 03:54:30   drop[unconfirmed] Packers WR Christian Watson Returns vs. Panthers After Injury Scare (Athlon Sports) :: return
+2026-10-30 03:55:09 indexed 881 markets
+2026-10-30 04:05:12 indexed 885 markets
+2026-10-30 04:06:02   drop[team-not-named] Josh Petty Ready to Step Up Following Long-Awaited Return From Injury (247Sports) :: Texas A&M Aggies
+2026-10-30 04:10:39   drop[kind] Early Vulnerability, Not Ventilation Alone, Drives Pneumonia After Brain Injury (Bioengineer.org) :: other
+2026-10-30 04:15:14 indexed 883 markets
+2026-10-30 04:15:19   drop[1-source] Vikings news: Aaron Jones returns to practice with knee injury before pivotal Lions clash (ClutchPoints) :: Aaron Jones, wait 2nd source
