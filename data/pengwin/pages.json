@@ -2556,7 +2556,7 @@
 "pick": "I capitolini sono decisamente favoriti nella sfida casalinga con il Cagliari e penso che riusciranno a conquistare i tre punti davanti ai propri tifosi: pertanto, come pronostico base mi affido al segno 1, quotato a 1.30. Attenzione alla proposta Malen marcatore DUO a quota 1.75: il centravanti olandese non segna da tre partite e vuole assolutamente ritrovare la via del gol. Per chi non si accontenta del segno 1, propongo la combo 1 + 1 corner, a moltiplicatore 1.50.",
 "match": "ROMA-CAGLIARI",
 "picked_at": 1793126841.9154024,
-"tries": 73,
+"tries": 74,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2566,7 +2566,7 @@
 "pick": "Il Como ha ritrovato ottime sensazioni nelle ultime settimane e giunge alla trasferta di Torino in grande fiducia. La compagine lombarda ha tutte le carte in regola per centrare il bottino pieno ed espugnare il campo dei granata. Dunque, punto sul segno 2, a moltiplicatore 1.80. Per chi volesse osare meno, consiglio l'esito 2 draw no bet, a quota 1.32 (in caso di pareggio la giocata viene rimborsata).",
 "match": "TORINO-COMO",
 "picked_at": 1793126841.9154024,
-"tries": 73,
+"tries": 74,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2680,43 +2680,76 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/bournemouth-leeds-united-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
-"status": "pending",
+"status": "skipped",
 "pick": "I padroni di casa si presentano a questo appuntamento con l'obiettivo di sfruttare al massimo il fattore campo per imporre il proprio ritmo e muovere una classifica cortissima. Tra le mura amiche, le Cherries si dimostrano una squadra quadrata, capace di aggredire alta e di concedere pochissimo spazio alle ripartenze avversarie. Dall'altra parte arriva un Leeds United che lontano dal proprio pubblico tende storicamente a perdere un po' di quella spavalderia tattica che lo contraddistingue, preferendo un assetto più prudente e di contenimento. Una sconfitta interna del Bournemouth appare alquanto improbabile visto lo spessore delle ultime prestazioni casalinghe, ma allo stesso tempo l'attenzione difensiva degli ospiti dovrebbe scongiurare il rischio di un match fuori controllo o di una goleada esagerata oltre le quattro reti complessive. Tutto fa pensare a una sfida saldamente indirizzata, ma confinata entro binari tattici ben precisi. La combo 1X+MULTIGOL 1-4 CASA , in questo senso, è molto interessante a quota 1.55 .",
 "match": "BOURNEMOUTH-LEEDS UNITED",
 "picked_at": 1793372795.950056,
 "tries": 1,
 "llm_fails": 1,
-"why": "no LLM answer"
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/manchester-city-brighton-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
-"status": "pending",
+"status": "traded",
 "pick": "Inutile girarci intorno: quando si affrontano queste due realtà il gol e lo spettacolo sono praticamente assicurati dal primo all'ultimo minuto. I padroni di casa, infatti, viaggiano a ritmi realizzativi impressionanti, soprattutto davanti al proprio pubblico, spinti da una qualità di palleggio che schiaccia regolarmente le difese avversarie nella propria trequarti. Dall'altra parte, però, arriva un Brighton che non ha la minima intenzione di snaturarsi o di fare una partita puramente difensiva. La filosofia spiccatamente offensiva e coraggiosa degli ospiti rappresenta una minaccia costante, capace di pungere in contropiede e di sfruttare le pochissime amnesie che la retroguardia di Maresca tende a concedere a causa del suo baricentro altissimo. Ci sono tutti i presupposti per assistere a novanta minuti vibranti, ricchi di capovolgimenti di fronte e di fiammate da una parte e dall'altra. L'esito più logico e naturale per questo scontro d'alta quota, dunque, non può che essere il GOAL , un'opzione caldissima proposta alla quota di 1.50 .",
 "match": "MANCHESTER CITY-BRIGHTON",
 "picked_at": 1793372795.950056,
 "tries": 1,
 "llm_fails": 1,
-"why": "no LLM answer"
+"why": "no LLM answer",
+"market": "Manchester City FC vs. Brighton & Hove Albion FC: Both Teams to Score",
+"outcome": "Yes",
+"map": "exact"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/brentford-nottingham-forest-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "traded",
+"pick": "I padroni di casa si presentano a questo appuntamento con la ferma intenzione di far valere la legge del proprio fortino casalingo, un campo dove storicamente riescono a esprimere un calcio dinamico, aggressivo e molto prolifico. Davanti al proprio pubblico, infatti, le Bees trovano la via della rete con grandissima continuità, trascinate dall'entusiasmo dei propri tifosi. Dall'altra parte, però, arriva un Nottingham Forest solido e quadrato, reduce da un ottimo rendimento difensivo e intenzionato a chiudere ogni linea di passaggio per pungere poi in contropiede. Non ci aspetta una partita totalmente bloccata, ma l'attenzione tattica degli ospiti dovrebbe comunque scongiurare il rischio di una goleada incontrollabile fuori da ogni logica. La squadra di casa ha tutte le carte in regola per graffiare, ma all'interno di un match equilibrato. Per questo motivo, la giocata più sensata e protetta da mettere in scheda è il mercato del CASA MULTIGOL 1-3 , un'opzione di grande statistica che si trova a quota 1.32 .",
+"match": "BRENTFORD-NOTTINGHAM FOREST",
+"picked_at": 1793374606.9932537,
+"market": "Brentford FC vs. Nottingham Forest FC: Brentford FC O/U 0.5",
+"outcome": "Over",
+"map": "approx"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/tottenham-crystal-palace-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "I dati statistici in vista di questo derby di Londra sono talmente netti da lasciar spazio a pochissime interpretazioni, delineando un vero e proprio scontro tra due mondi opposti. Gli Spurs si presentano alla sfida come una macchina da corner illegale: la squadra di De Zerbi , infatti, è la migliore del campionato per calci d'angolo prodotti, grazie a una spinta laterale asfissiante che costringe sistematicamente le difese avversarie a rifugiarsi sul fondo. Di contro, il Crystal Palace si attesta come la penultima peggiore della Premier per corner conquistati, evidenziando una cronica difficoltà a spingere sulle corsie esterne e a produrre minacce dalle bandierine. Soprattutto davanti al proprio pubblico, il Tottenham imporrà un monologo offensivo volto a sbloccare e indirizzare la gara fin dai primi minuti. Con un divario statistico così marcato sui piazzati e la netta superiorità tecnica dei padroni di casa, la combo 1 CORNER+CASA SEGNA offre una solidità granitica, proposta a quota di 1.45 .",
+"match": "TOTTENHAM-CRYSTAL PALACE",
+"picked_at": 1793374606.9932537,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/aston-villa-fulham-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "I Villans si presentano a questo appuntamento determinati a far valere la legge delle mura amiche, dove storicamente riescono a imporre un ritmo altissimo e a costruire azioni da gol a ripetizione. La squadra di Unai Emery viaggia con un'ottima solidità casalinga e difficilmente si lascerà scappare punti preziosi in ottica europea. Dall'altra parte arriva un Fulham che è un cliente sempre spigoloso e capace di pungere in ripartenza, ma che lontano dal proprio pubblico tende a concedere qualcosa di troppo nelle retrovie. Ci si aspetta una gara saldamente indirizzata a favore dei padroni di casa, ma condita da diverse occasioni da rete, escludendo quasi categoricamente un match bloccato o un pareggio a reti bianche. Per questo motivo, la combo 1X+OVER 1.5 , dara a 1.50 , è da tenere assolutamente in considerazione.",
+"match": "ASTON VILLA-FULHAM",
+"picked_at": 1793374606.9932537,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/liverpool-arsenal-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "Quando queste due superpotenze si incrociano l'intensità agonistica tocca vette altissime, e questa volta i presupposti per una vera e propria battaglia di nervi ci sono tutti. I Gunners arrivano a Liverpool con il coltello tra i denti, mentre i Reds sono pronti a far valere la spinta travolgente del proprio pubblico per difendere il fattore campo. La chiave statistica del match si sposta inevitabilmente sul piano disciplinare: per questa caldissima sfida è stato infatti designato l'arbitro Andy Madley, un fischietto esperto che torna a dirigere un big-six dopo due anni e mezzo e che storicamente non esita a mettere mano al taschino quando la tensione sale. In una partita dove i duelli individuali a centrocampo saranno infuocati e la posta in palio per la corsa al titolo pesa come un macigno, i falli tattici e gli interventi duri saranno all'ordine del giorno fin dai primi minuti. Ci aspetta un match ruvido, spezzettato e ad alta carica emotiva, motivo per cui l'opzione OVER 3.5 CARTELLINI COMPLESSIVI , proposta all'ottima quota di 1.50 , è una chiamata sensatissima e di assoluta affidabilità.",
+"match": "LIVERPOOL-ARSENAL",
+"picked_at": 1793374606.9932537,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/newcastle-everton-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "I Magpies , davanti al proprio pubblico, vorranno immediatamente vendicare la sconfitta per 3 a 1 incassata pochi giorni fa proprio contro i Toffees in EFL Cup. Se nel primo tempo l'attenzione tattica e la paura di scoprirsi potrebbero farla da padrone bloccando il risultato, nella ripresa la stanchezza e la necessità di sbilanciarsi spaccheranno inevitabilmente la partita. Il Newcastle ha una spiccata propensione a produrre il massimo sforzo offensivo nei secondi 45 minuti, supportato da una panchina profonda in grado di cambiare i ritmi a gara in corso. Di contro, l' Everton in trasferta fatica a mantenere la stessa solidità difensiva per tutta la durata del match e tende a concedere ampi spazi nella seconda frazione di gioco. Ci si aspetta una ripresa spumeggiante, con le squadre pronte a rispondersi colpo su colpo. Lo scenario statistico ideale ci porta dritti verso il MULTIGOL 1-3 SECONDO TEMPO , una giocata proposta all'ottima quota di 1.35 .",
+"match": "NEWCASTLE-EVERTON",
+"picked_at": 1793374606.9932537,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/villarreal-espanyol-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
@@ -2847,8 +2880,8 @@
 "pick": "Sfida interessante tra due squadre che hanno le qualità per rendersi pericolose in fase offensiva. Per questo preferisco evitare di puntare su un vincitore secco e affidarmi a una combo che copra sia la vittoria sia il pareggio del Leverkusen, aggiungendo la possibilità che anche lo Stoccarda riesca a trovare la rete. Esito: Leverkusen 1X + GOAL — Quota 1.70",
 "match": "BAYER LEVERKUSEN-STOCCARDA",
 "picked_at": 1793370936.6794083,
-"tries": 2,
-"why": "no LLM answer",
+"tries": 3,
+"why": "no Polymarket event",
 "llm_fails": 1
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/schalke-lipsia-statistiche-quote-e-pronostico": {
@@ -2857,18 +2890,21 @@
 "pick": "Per questa partita scelgo un mercato legato alla produzione offensiva dello Schalke. Il Multigol casa 1-2 permette di puntare su una squadra che può segnare almeno una rete, senza richiedere necessariamente una prestazione da più gol. La giocata resta interessante se i padroni di casa riusciranno a sfruttare le occasioni create, anche contro un avversario impegnativo come il Lipsia. Esito: Multigol 1-2 casa — Quota 1.55",
 "match": "SCHALKE-LIPSIA",
 "picked_at": 1793370936.6794083,
-"tries": 2,
+"tries": 3,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/bayern-monaco-borussia-dortmund-statistiche-quote-e-pronostico": {
 "first": 1793338136.3545802,
-"status": "pending",
+"status": "traded",
 "pick": "È una delle sfide più attese del turno e mi aspetto una partita intensa, nella quale il Bayern proverà a imporre il proprio potenziale offensivo. Invece di puntare direttamente sul segno 1, preferisco un mercato che consenta di coprire un intervallo di reti dei padroni di casa. Il Multigol 2-4 casa è una soluzione da valutare se il Bayern riuscirà a creare il consueto volume di occasioni. Esito: Multigol 2-4 casa — Quota 1.45",
 "match": "BAYERN MONACO-BORUSSIA DORTMUND",
 "picked_at": 1793370936.6794083,
 "tries": 2,
 "llm_fails": 2,
-"why": "no LLM answer"
+"why": "no LLM answer",
+"market": "FC Bayern München vs. BV Borussia 09 Dortmund: FC Bayern München O/U 2.5",
+"outcome": "Over",
+"map": "approx"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/werder-brema-hoffenheim-statistiche-quote-e-pronostico-2": {
 "first": 1793338136.3545802,
@@ -2876,8 +2912,8 @@
 "pick": "Il Werder ha trovato la rete in tutte e sette le partite considerate, confermando una buona continuità offensiva. Anche l’Hoffenheim ha mostrato una spiccata propensione per le gare ricche di gol, con l’Over 2.5 centrato in tutte e sette le occasioni. Mi aspetto quindi una partita in cui le occasioni non dovrebbero mancare, soprattutto con il passare dei minuti. Esito: Werder Brema segna nel 2° tempo — Quota 1.55",
 "match": "WERDER BREMA-HOFFENHEIM",
 "picked_at": 1793370936.6794083,
-"tries": 2,
-"llm_fails": 2,
+"tries": 3,
+"llm_fails": 3,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/monchengladbach-paderborn-statistiche-quote-e-pronostico-2026": {
@@ -2896,8 +2932,8 @@
 "pick": "In questa sfida mi concentro sul mercato disciplinare, puntando su una partita in cui possano esserci almeno due cartellini per l’Union Berlino. È una giocata che non dipende direttamente dal risultato finale, ma dall’intensità con cui la squadra affronterà i duelli e le situazioni di gioco. Esito: Union Berlino Over 1.5 cartellini",
 "match": "UNION BERLINO-COLONIA",
 "picked_at": 1793370936.6794083,
-"tries": 2,
-"why": "no LLM answer",
+"tries": 3,
+"why": "no Polymarket event",
 "llm_fails": 1
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/francoforte-amburgo-statistiche-quote-e-pronostico-2026": {
@@ -2906,7 +2942,7 @@
 "pick": "Per chiudere, scelgo una giocata legata al secondo tempo dell’Eintracht. Il Francoforte avrà l’opportunità di sfruttare la spinta del proprio pubblico e cercare il gol anche nella ripresa, una frazione in cui le partite possono aprirsi e lasciare più spazi. L’obiettivo è che i padroni di casa riescano a segnare almeno una rete dopo l’intervallo. Esito: Eintracht Francoforte segna nel 2° tempo — Quota 1.35",
 "match": "FRANCOFORTE-AMBURGO",
 "picked_at": 1793370936.6794083,
-"tries": 2,
+"tries": 3,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/ligue-1/le-havre-psg-statistiche-quote-e-pronostico-2026-2": {
@@ -3023,6 +3059,14 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-b/catanzaro-padova-statistiche-quote-e-pronostico-2026": {
 "first": 1793369077.3326383,
+"status": "pending"
+},
+"https://www.mondopengwin.it/pronostici/calcio/serie-b/sampdoria-virtus-entella-statistiche-quote-e-pronostico-2026-2": {
+"first": 1793374606.9932537,
+"status": "pending"
+},
+"https://www.mondopengwin.it/pronostici/calcio/serie-b/arezzo-ascoli-statistiche-quote-e-pronostico-2026": {
+"first": 1793374606.9932537,
 "status": "pending"
 }
 }

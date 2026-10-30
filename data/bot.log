@@ -22919,3 +22919,46 @@
 2026-10-30 16:36:27   llm groq-120b: rate limited, skip 22s
 2026-10-30 16:36:27   drop[unconfirmed] Ribbons returns from injury as Pirates target first away win of the season (Cornish times) :: player returns
 2026-10-30 16:38:30   drop[kind] Hull school teacher given suspended sentence over sexual messages to pupil (Rayo) :: other
+2026-10-30 16:38:54 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 74)
+2026-10-30 16:38:56   llm groq-120b: rate limited, skip 124s
+2026-10-30 16:38:57 [pengwin] TORINO-COMO: no Polymarket event (try 74)
+2026-10-30 16:39:06 [pengwin] skip BOURNEMOUTH-LEEDS UNITED [1X+MULTIGOL 1-4 CASA]: no matching market
+2026-10-30 16:39:10 [pengwin]   BUY Yes @ 0.660 x15.2 ($10.00) :: Manchester City FC vs. Brighton & Hove Albion FC: Both Teams to Score
+2026-10-30 16:39:14 [pengwin]   BUY Over @ 0.830 x12.0 ($10.00) :: Brentford FC vs. Nottingham Forest FC: Brentford FC O/U 0.5
+2026-10-30 16:39:18   llm groq-20b: rate limited, skip 11s
+2026-10-30 16:39:18 [pengwin] TOTTENHAM-CRYSTAL PALACE: no LLM answer (try 1)
+2026-10-30 16:39:20 [pengwin] ASTON VILLA-FULHAM: no LLM answer (try 1)
+2026-10-30 16:39:23 [pengwin] LIVERPOOL-ARSENAL: no LLM answer (try 1)
+2026-10-30 16:39:26 [pengwin] NEWCASTLE-EVERTON: no LLM answer (try 1)
+2026-10-30 16:39:28 [pengwin] BAYER LEVERKUSEN-STOCCARDA: no Polymarket event (try 3)
+2026-10-30 16:39:31 [pengwin] SCHALKE-LIPSIA: no Polymarket event (try 3)
+2026-10-30 16:39:35 [pengwin]   BUY Over @ 0.570 x17.5 ($10.00) :: FC Bayern München vs. BV Borussia 09 Dortmund: FC Bayern München O/U 2.5
+2026-10-30 16:39:38   llm groq-20b: rate limited, skip 10s
+2026-10-30 16:39:38 [pengwin] WERDER BREMA-HOFFENHEIM: no LLM answer (try 3)
+2026-10-30 16:39:41 [pengwin] UNION BERLINO-COLONIA: no Polymarket event (try 3)
+2026-10-30 16:39:43 [pengwin] FRANCOFORTE-AMBURGO: no Polymarket event (try 3)
+2026-10-30 16:44:36 indexed 982 markets
+2026-10-30 16:45:39   drop[kind] Rusev Says Injury Didn’t Kill His Momentum in WWE (Ringside News) :: other
+2026-10-30 16:45:42   llm groq-120b: rate limited, skip 162s
+2026-10-30 16:45:42   drop[no-market] Cameroon's Sonara signs fuel supply deal with Nigeria's Dangote reut.rs/4sDWqha (Reuters) :: Sonara
+2026-10-30 16:47:47   drop[kind] [Webinar] Understanding the Differences Between the Fed/OSHA General Duty Clause and the C (JD Supra) :: other
+2026-10-30 16:47:48   drop[kind] NFL Week 8 Injury Report: Carnell Tate Questionable for Titans, Lamar Jackson Probable for (Lineups) :: other
+2026-10-30 16:49:57   drop[not-key] Andrew Saalfrank (RP, Arizona Diamondbacks) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Andrew Saalfrank: shoulder surgery season‑ending
+2026-10-30 16:50:00   llm groq-120b: rate limited, skip 203s
+2026-10-30 16:50:01   drop[unconfirmed] Cam Skattebo says he feared amputation after gruesome injury that ended his 2025 season (CBS Sports) :: injury
+2026-10-30 16:52:19   drop[kind] Air-con repairman jailed for 7 days, suspended 18 months, for naked indecency outside a Sh (Dimsum Daily) :: other
+2026-10-30 16:53:04   drop[team-not-named] Trump rallies in Kansas and Iowa are back on after RNC said they were canceled: Source (CNBC) :: Republican National Committee
+2026-10-30 16:54:37 indexed 973 markets
+2026-10-30 16:54:57   drop[team-not-named] Elena Rybakina Withdraws from Tokyo Quarterfinal with Injury (Just Women's Sports) :: Kazakhstan
+2026-10-30 16:57:00   llm groq-120b: rate limited, skip 64s
+2026-10-30 16:57:00   drop[unconfirmed] Xabi Alonso confirms fresh injury blow ahead of December clash with Liverpool (DaveOCKOP) :: injury
+2026-10-30 17:01:04   llm groq-120b: rate limited, skip 201s
+2026-10-30 17:01:05 NEWS [Politico 1m] Democrats are still looking for a message, even if they win big on Tuesday
+2026-10-30 17:01:05   skip Yes :: Will the Democratic Party control the Senate after the 2026 Midterm el (low conf 0.6)
+2026-10-30 17:04:08   drop[kind] Sutter Health Offers Saturday Sports Injury Clinic for Students (Noozhawk) :: other
+2026-10-30 17:04:39 indexed 996 markets
+2026-10-30 17:04:41   llm groq-120b: rate limited, skip 132s
+2026-10-30 17:04:42   drop[verify] C.J. Gardner-Johnson (S, Buffalo Bills) cleared to play: Suspension -> Active [NFL] (ESPN) :: backup safety, not star, unlikely to move market 5+ points
+2026-10-30 17:06:49   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-30 17:07:14   llm groq-120b: rate limited, skip 38s
+2026-10-30 17:07:15   drop[team-not-named] Caleb Williams fined over wearing cleats designed to reduce injury. (usmfreepress.org) :: Los Angeles Rams
