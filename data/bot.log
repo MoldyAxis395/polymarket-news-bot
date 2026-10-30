@@ -22555,3 +22555,17 @@
 2026-10-30 05:06:11   drop[1-source] UCLA QB Nico Iamaleava makes a big decision on his future amid knee injury (Larry Brown Sports) :: Nico Iamaleava, wait 2nd source
 2026-10-30 05:15:18 indexed 862 markets
 2026-10-30 05:17:45   drop[1-source] Injury forces Rabbitohs forward into immediate retirement (Zero Tackle) :: James Roberts, wait 2nd source
+2026-10-30 05:20:02 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-30 05:20:04   drop[1-source] Syracuse suffers after Gabby Wisbeck’s injury in 2-1 loss to Miami (The Daily Orange) :: Gabby Wisbeck, wait 2nd source
+2026-10-30 05:22:31   drop[1-source] Trail Blazers' Ja Morant ruled out of game vs. Grizzlies with hamstring injury (Yahoo) :: Ja Morant, wait 2nd source
+2026-10-30 05:24:37   drop[1-source] India pacer ruled out of ODI series against New Zealand (ICC) :: Jasprit Bumrah, wait 2nd source
+2026-10-30 05:25:18 indexed 864 markets
+2026-10-30 05:33:49   drop[not-key] Prasidh Krishna ruled out of New Zealand ODI series; Mohammed Siraj, Nitish Reddy set for  (ANI News) :: Prasidh Krishna: injury
+2026-10-30 05:33:50   drop[1-source] NZ vs IND 2026: Prasidh Krishna ruled out of NZ ODIs; to join India A for third unofficial (Cricbuzz) :: Prasidh Krishna, wait 2nd source
+2026-10-30 05:35:19 indexed 866 markets
+2026-10-30 05:38:30   drop[no-market] Prasidh Krishna ruled out of NZ ODIs as Nitish Kumar Reddy, Mohammed Siraj get separate as (Cricket Addictor) :: India national cricket team
+2026-10-30 05:43:06   llm groq-120b: rate limited, skip 92s
+2026-10-30 05:43:07   drop[verify] Blazers' Ja Morant exits against former team with hamstring injury (Big News Network.com) :: unsure about new injury
+2026-10-30 05:45:21 indexed 866 markets
+2026-10-30 05:45:26   llm groq-120b: rate limited, skip 37s
+2026-10-30 05:45:26   drop[no-pick] Prasidh Krishna Ruled Out of India ODI Series Against New Zealand Team (Asianet Newsable) :: Fact concerns India ODI series, not the T20 series market
