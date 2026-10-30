@@ -23104,3 +23104,41 @@
 2026-10-30 18:47:59   llm groq-120b: rate limited, skip 6s
 2026-10-30 18:47:59   drop[unconfirmed] Ravens QB Lamar Jackson finally set to return from ankle injury in Week 8 vs. Bills (ClutchPoints) :: ankle injury cleared
 2026-10-30 18:48:19 shift over, state saved
+2026-10-30 20:49:54 === start mode=paper pid=2368 ===
+2026-10-30 20:49:54 brain=llm cash=82.82 open=0
+2026-10-30 20:49:54 resuming with 6869 known news items
+2026-10-30 20:50:25 indexed 925 markets
+2026-10-30 20:50:40   drop[no-pick] Walter Nolen III (DT, Arizona Cardinals) ruled out: Questionable -> Out [NFL] (ESPN) :: No relevant market
+2026-10-30 20:50:41   drop[not-key] Jon Gaines II (G, Arizona Cardinals) ruled out: Questionable -> Out [NFL] (ESPN) :: Jon Gaines II: ruled out
+2026-10-30 20:50:42   drop[unconfirmed] Olaivavega Ioane (G, Baltimore Ravens) ruled out: Questionable -> Out [NFL] (ESPN) :: sprained MCL
+2026-10-30 20:50:44   drop[verify] Jaylinn Hawkins (S, Baltimore Ravens) ruled out: Questionable -> Out [NFL] (ESPN) :: player status uncertain and not impactful
+2026-10-30 20:50:44   drop[not-key] Justin Walley (CB, Indianapolis Colts) ruled out: Questionable -> Out [NFL] (ESPN) :: Justin Walley: ruled out due to injury
+2026-10-30 20:50:45   drop[not-key] Anthony Gould (WR, Indianapolis Colts) ruled out: Questionable -> Out [NFL] (ESPN) :: Anthony Gould: ruled out with concussion for upcoming game
+2026-10-30 20:50:47   drop[verify] Antonio Johnson (S, Jacksonville Jaguars) ruled out: Questionable -> Out [NFL] (ESPN) :: player roster uncertain and not impactful enough
+2026-10-30 20:50:48 NEWS [ESPN 34m] T'Vondre Sweat (DT, New York Jets) ruled out: Doubtful -> Out [NFL]
+2026-10-30 20:50:48   skip Raiders :: Raiders vs. Jets (low conf 0.62)
+2026-10-30 20:50:48   llm groq-120b: rate limited, skip 3s
+2026-10-30 20:50:49   drop[not-key] Max Mitchell (OT, New York Jets) ruled out: Questionable -> Out [NFL] (ESPN) :: Max Mitchell: injury
+2026-10-30 20:50:50 NEWS [ESPN 34m] Joseph Ossai (DE, New York Jets) ruled out: Doubtful -> Out [NFL]
+2026-10-30 20:50:50   skip Raiders :: Raiders vs. Jets (low conf 0.6)
+2026-10-30 20:50:50   drop[not-key] Doneiko Slaughter (CB, Pittsburgh Steelers) ruled out: Questionable -> Out [NFL] (ESPN) :: Doneiko Slaughter: injury
+2026-10-30 20:50:52 NEWS [ESPN 0m] Brandin Echols (CB, Pittsburgh Steelers) ruled out: Questionable -> Out [NFL]
+2026-10-30 20:50:52   skip Browns :: Browns vs. Steelers (illiquid)
+2026-10-30 20:50:52   llm groq-120b: rate limited, skip 1s
+2026-10-30 20:50:53   drop[no-pick] Ja Morant (G, Portland Trail Blazers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: fact is false
+2026-10-30 20:50:53   drop[unconfirmed] Michael Arroyo (SS, Seattle Mariners) ruled out: healthy -> Out [MLB] (ESPN) :: injury
+2026-10-30 20:50:54   llm groq-120b: rate limited, skip 5s
+2026-10-30 20:50:54   drop[side] Villarreal confirmed lineup vs Espanyol: Alex Freeman, Juan Foyth, Ilias Akhomach, Pape Gu (ESPN) :: Will Villarreal CF win on 2026-10-30? -> Yes vs fact ruled_out: - (Villarreal CF, soccer), bad for Villarreal CF. Alex F
+2026-10-30 20:50:55   llm groq-20b: rate limited, skip 4s
+2026-10-30 20:50:55   drop[no-pick] Espanyol confirmed lineup vs Villarreal: Quilindschy Hartman, Pol Lozano, Cala ruled out o (ESPN) :: None
+2026-10-30 20:50:55 NEWS [Ian Rapoport 45m] Ravens QB Lamar Jackson will play this Sunday, coach Jesse Minter said. He was a full participant again.
+2026-10-30 20:50:55   skip Ravens :: Ravens vs. Bills (rules fallback, LLM down (not traded))
+2026-10-30 20:50:55 NEWS [Reuters 11m] White House hearing on Fed's Cook delayed to December, Hassett says reut.rs/4BFkDaY
+2026-10-30 20:50:55   skip Yes :: Lisa Cook out as Fed Governor by  October 31? (rules fallback, LLM down (not traded))
+2026-10-30 20:50:55 NEWS [NBC Sports 3m] Carnell Tate ruled out for Week 8 vs. Bengals
+2026-10-30 20:50:55   skip Bengals :: Titans vs. Bengals (rules fallback, LLM down (not traded))
+2026-10-30 20:51:29   drop[verify] Patrick Johnson (DE, Las Vegas Raiders) ruled out: Questionable -> Out [NFL] (ESPN) :: Patrick Johnson is a depth defensive end; his absence unlikely to swing the Raiders‑Jets game by 5+ points
+2026-10-30 20:51:30   drop[not-key] Carnell Tate (WR, Tennessee Titans) ruled out: Questionable -> Out [NFL] (ESPN) :: Carnell Tate: ruled out after missing practice
+2026-10-30 20:52:30   drop[team-not-named] Ja Morant Injury Forces Blazers to Rethink Offense After 3-0 Start (roundtable.io) :: Memphis Grizzlies
+2026-10-30 20:53:31   drop[verify] Tommy Townsend (P, Tennessee Titans) ruled out: Questionable -> Out [NFL] (ESPN) :: player not on Titans
+2026-10-30 20:54:47   drop[team-not-named] Polish president en route to Senegal turns back as top court chief suspended (TRT Afrika) :: Poland

@@ -88,7 +88,7 @@
    "reason": "pengwin exact: replicates the Over 1.5 leg of the combo",
    "conf": 1.0,
    "end": "2026-10-30T19:30:00+00:00",
-   "last_bid": 0.82,
+   "last_bid": 0.922,
    "book_err": false
   },
   {
@@ -178,7 +178,7 @@
    "reason": "pengwin approx: home team over 2.5 approximates 2-4",
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.55,
+   "last_bid": 0.54,
    "book_err": false
   },
   {
