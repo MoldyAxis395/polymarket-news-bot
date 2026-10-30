@@ -23329,3 +23329,19 @@
 2026-10-31 00:23:44 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-31 00:24:47   drop[kind] Kucherov doesn’t have a full no trade. It’s a modified no trade, 10-team list of approved  (Pierre LeBrun) :: other
 2026-10-31 00:25:13   SELL Knicks @ 0.580 (market closing) pnl +0.00 :: Knicks vs. 76ers
+2026-10-31 00:28:55   drop[not-key] Cowboys injury report: Turpin, Winters out vs. Cardinals; Pickens questionable (Dallas News) :: Tyler Turpin: Turpin ruled out for the game against the Cardinals
+2026-10-31 00:31:12 indexed 963 markets
+2026-10-31 00:31:16   llm groq-120b: rate limited, skip 2s
+2026-10-31 00:31:17   drop[1-source] Blue & Orange Ferry Routes Suspended (Bernews) :: Blue & Orange Ferry Routes, wait 2nd source
+2026-10-31 00:35:51 NEWS [Newsday 3m] Commanders defensive tackle Daron Payne suffers foot injury, AP source says
+2026-10-31 00:35:51   skip Eagles :: Eagles vs. Commanders (low conf 0.62)
+2026-10-31 00:35:52   llm groq-120b: rate limited, skip 181s
+2026-10-31 00:35:52   drop[no-pick] Commanders DT Daron Payne ruled out vs. Eagles with serious foot injury (Eagles Wire) :: short
+2026-10-31 00:38:08   drop[kind] Senators Call Up Two Forwards As Injury Problems Continue (The Hockey News) :: other
+2026-10-31 00:41:14 indexed 968 markets
+2026-10-31 00:49:42   drop[kind] North Texas high school football player airlifted after in-game injury (Yahoo Sports) :: other
+2026-10-31 00:51:14 indexed 969 markets
+2026-10-31 00:51:15   llm groq-120b: rate limited, skip 312s
+2026-10-31 00:51:16 NEWS [Ian Rapoport 1m] Commanders standout DT Daron Payne suffered a significant foot injury today in practice that will knock him out for the foreseeable future and likely land him IR, sources tell me and Mike Garafolo. Payne will undergo more evaluations tomorrow. But another tough blow for Washingto
+2026-10-31 00:51:16   skip Eagles :: Eagles vs. Commanders (low conf 0.6)
+2026-10-31 00:54:35 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)

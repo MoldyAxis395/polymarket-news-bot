@@ -1,56 +1,39 @@
 {
- "updated": "2026-10-31T00:24:51",
+ "updated": "2026-10-31T00:55:06",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 754,
- "markets_indexed": 939,
- "news_processed": 303,
- "cash": 72.82,
+ "llm_calls_today": 767,
+ "markets_indexed": 969,
+ "news_processed": 325,
+ "cash": 82.82,
  "equity": 82.82,
  "start": 100.0,
- "open": [
-  {
-   "market_id": "6101711",
-   "question": "Knicks vs. 76ers",
-   "slug": "nba-nyk-phi-2026-10-30",
-   "outcome": "Knicks",
-   "token": "70524022917994571938493534926761110728180258328880260474032281198955761522686",
-   "shares": 17.24137931034483,
-   "entry": 0.58,
-   "cost": 10.0,
-   "opened": 1793397562.76111,
-   "opened_iso": "2026-10-30T21:59:22+00:00",
-   "news": "Jaylen Brown (G, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA]",
-   "reason": "llm[groq-20b] trusted: Jaylen Brown ruled out weakens 76ers, boosting Knicks odds",
-   "conf": 0.65,
-   "end": "2026-10-30T23:30:00+00:00",
-   "last_bid": 0.58,
-   "book_err": false
-  }
- ],
- "closed_count": 95,
+ "open": [],
+ "closed_count": 96,
  "llm": {
   "backends": [
    "groq-120b",
    "groq-20b"
   ],
   "fallbacks": 12,
-  "errors": {},
+  "errors": {
+   "groq-120b": "rate limited, skip 312s"
+  },
   "rejects": {
-   "no-pick": 7,
-   "not-key": 35,
+   "no-pick": 8,
+   "not-key": 36,
    "unconfirmed": 14,
    "verify": 9,
    "side": 3,
-   "fluff": 43,
+   "fluff": 47,
    "team-not-named": 16,
-   "kind": 27,
-   "1-source": 17,
+   "kind": 29,
+   "1-source": 18,
    "no-market": 4
   },
   "calls": {
-   "groq-120b": 403,
-   "groq-20b": 351
+   "groq-120b": 411,
+   "groq-20b": 356
   }
  },
  "realized_pnl": -17.18
