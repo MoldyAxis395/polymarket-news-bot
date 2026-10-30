@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T22:24:55",
+ "updated": "2026-10-30T22:54:30",
  "start": 100.0,
- "cash": 0.0,
- "equity": 125.95,
+ "cash": 11.63,
+ "equity": 133.25,
  "open": [
   {
    "market_id": "5797216",
@@ -19,8 +19,9 @@
    "reason": "pengwin exact: home win",
    "conf": 1.0,
    "end": "2026-10-30T20:00:00+00:00",
-   "last_bid": 0.19,
-   "book_err": false
+   "last_bid": null,
+   "book_err": false,
+   "settle_retry": 1793397587.8228412
   },
   {
    "market_id": "5960431",
@@ -74,24 +75,6 @@
    "conf": 1.0,
    "end": "2026-11-01T17:30:00+00:00",
    "last_bid": 0.4,
-   "book_err": false
-  },
-  {
-   "market_id": "5796033",
-   "question": "SV 07 Elversberg vs. 1. FSV Mainz 05: O/U 1.5",
-   "slug": "bun-elv-mai-2026-10-30-total-1pt5",
-   "outcome": "Over",
-   "token": "36317628133422485551641221391263528604569428725770732884103031655872570077255",
-   "shares": 11.627906976744185,
-   "entry": 0.8600000000000001,
-   "cost": 10.0,
-   "opened": 1793371098.2857625,
-   "opened_iso": "2026-10-30T14:38:18+00:00",
-   "news": "ELVERSBERG-MAINZ: OVER 1.5 (esatto)",
-   "reason": "pengwin exact: replicates the Over 1.5 leg of the combo",
-   "conf": 1.0,
-   "end": "2026-10-30T19:30:00+00:00",
-   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -257,8 +240,8 @@
    "book_err": false
   }
  ],
- "closed_count": 47,
- "realized_pnl": 34.12,
+ "closed_count": 48,
+ "realized_pnl": 35.74,
  "pages": {
   "pending": 105,
   "picked": 1,

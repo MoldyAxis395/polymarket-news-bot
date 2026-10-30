@@ -23244,3 +23244,27 @@
 2026-10-30 22:23:09   llm groq-120b: rate limited, skip 204s
 2026-10-30 22:23:09   drop[kind] George Pickens Injury: Questionable for Sunday (RotoWire) :: other
 2026-10-30 22:23:10   drop[not-key] Report: Senators place forward Warren Foegele on IL with knee injury (Sportsnet.ca) :: Warren Foegele: knee injury
+2026-10-30 22:29:23   drop[no-market] Jordan Poole (G, New Orleans Pelicans) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: New Orleans Pelicans
+2026-10-30 22:30:14   llm groq-120b: rate limited, skip 70s
+2026-10-30 22:30:15   drop[1-source] Ja Morant Injury Will Test Trail Blazers' Backcourt Depth (The Rose Garden Report) :: Ja Morant, wait 2nd source
+2026-10-30 22:30:49 indexed 907 markets
+2026-10-30 22:32:25   drop[not-key] Warriors injury report: Gui Santos upgraded prior to matchup vs. Lakers (Warriors Wire) :: Gui Santos: status upgraded to active before Lakers game
+2026-10-30 22:37:05   drop[kind] Injury Report, Week 8 vs. Chargers: Joe Cardona doubtful; Trent McDuffie, Colby Parkinson  (Rams) :: other
+2026-10-30 22:37:05   llm groq-120b: rate limited, skip 291s
+2026-10-30 22:37:06   drop[kind] George Pickens Listed as Questionable on Cowboys' Week 8 Injury Report (Sports Illustrated) :: other
+2026-10-30 22:37:06   drop[not-key] Attorney Jeffrey Jackson Suspended, Reinstated by Georgia Supreme Court (ALABnews -) :: Jeffrey Jackson: court reinstatement
+2026-10-30 22:40:49 indexed 906 markets
+2026-10-30 22:41:30 [pengwin]   book error SV 07 Elversberg vs. 1. FSV Mainz 05: O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=36317628133422485551641221391263528604569428725770732884103031655872570077255
+2026-10-30 22:41:41   drop[1-source] Ex-Lady Vols Basketball Forward Lauren Hurst Ruled Out For Season With New Team, Won't Pla (Rocky Top Insider) :: Lauren Hurst, wait 2nd source
+2026-10-30 22:43:59   drop[not-key] Raiders-Jets Week 8 Injury Report: Patrick Johnson ruled out, Jackson Powers-Johnson and J (Raiders.com) :: Patrick Johnson: ruled out for Week 8
+2026-10-30 22:46:16   llm groq-120b: rate limited, skip 41s
+2026-10-30 22:46:17   drop[kind] Villarreal sweat on Gerard Moreno after injury scare four days before facing PSG (OneFootball) :: other
+2026-10-30 22:50:21   llm groq-120b: rate limited, skip 99s
+2026-10-30 22:50:22   drop[no-pick] North Korea says sanctions don't work to deny its status as nuclear weapons state reut.rs/ (Reuters) :: short
+2026-10-30 22:50:57 indexed 906 markets
+2026-10-30 22:51:01   drop[kind] Coroner: Southern Nazarene player died after suffering traumatic brain injury, brain bleed (Yahoo) :: other
+2026-10-30 22:53:19   drop[not-key] Knights goalie returns, but not starting against Devils (Las Vegas Review-Journal) :: Adin Hill: goalie returns from injury but will not start
+2026-10-30 22:53:20   drop[1-source] New York Attorney Kelly Lynn McCollum Suspended After Three Clients Say They Received No R (ALABnews -) :: Kelly Lynn McCollum, wait 2nd source
+2026-10-30 22:53:20   llm groq-120b: rate limited, skip 234s
+2026-10-30 22:53:20   drop[team-not-named] Jaylen Brown Injury: Downgraded to out (RotoWire) :: Boston Celtics
+2026-10-30 22:54:28 [pengwin]   SELL Over @ 1.000 (resolved) pnl +1.63 :: SV 07 Elversberg vs. 1. FSV Mainz 05: O/U 1.5
