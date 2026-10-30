@@ -96,3 +96,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-27T17:09:47+00:00,BUY,Will AS Roma win on 2026-10-27?,Yes,13.16,0.7600,10.00,,ROMA-CAGLIARI: 1 (esatto) | pengwin exact: replicates home win
 2026-10-27T17:09:52+00:00,BUY,Will Como 1907 win on 2026-10-27?,Yes,17.86,0.5600,10.00,,TORINO-COMO: 2 (esatto) | pengwin exact: base pick
 2026-10-27T19:54:04+00:00,SELL,US Sassuolo Calcio vs. SS Lazio: Both Teams to Score,Yes,16.13,1.0000,16.13,+6.13,resolved
+2026-10-30T13:37:10+00:00,BUY,Will Villarreal CF win on 2026-10-30?,Yes,14.29,0.7000,10.00,,Villarreal-Espanyol: 1 (esatto) | pengwin exact: home win
+2026-10-30T13:37:38+00:00,BUY,Will RC Deportivo A Coruña win on 2026-11-02?,Yes,22.22,0.4500,10.00,,Deportivo-Osasuna: 1 (approssimato) | pengwin approx: represents 1X double chance as home win

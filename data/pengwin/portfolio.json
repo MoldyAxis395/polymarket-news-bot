@@ -1,6 +1,41 @@
 {
- "cash": 134.11614327102225,
- "positions": [],
+ "cash": 114.11614327102225,
+ "positions": [
+  {
+   "market_id": "5797216",
+   "question": "Will Villarreal CF win on 2026-10-30?",
+   "slug": "lal-vil-esp-2026-10-30-vil",
+   "outcome": "Yes",
+   "token": "28414240241553615364297533383552268931981113938088293167329080021262131247770",
+   "shares": 14.285714285714286,
+   "entry": 0.7,
+   "cost": 10.0,
+   "opened": 1793367430.2767594,
+   "opened_iso": "2026-10-30T13:37:10+00:00",
+   "news": "Villarreal-Espanyol: 1 (esatto)",
+   "reason": "pengwin exact: home win",
+   "conf": 1.0,
+   "end": "2026-10-30T20:00:00+00:00",
+   "last_bid": null
+  },
+  {
+   "market_id": "5960431",
+   "question": "Will RC Deportivo A Coru\u00f1a win on 2026-11-02?",
+   "slug": "lal-dep-osa-2026-11-02-dep",
+   "outcome": "Yes",
+   "token": "49774902034672140677694476829790676777787864704921838291132682644257558316480",
+   "shares": 22.22222222222222,
+   "entry": 0.45,
+   "cost": 10.0,
+   "opened": 1793367458.2921891,
+   "opened_iso": "2026-10-30T13:37:38+00:00",
+   "news": "Deportivo-Osasuna: 1 (approssimato)",
+   "reason": "pengwin approx: represents 1X double chance as home win",
+   "conf": 1.0,
+   "end": "2026-11-02T20:00:00+00:00",
+   "last_bid": null
+  }
+ ],
  "closed": [
   {
    "market_id": "5009005",
