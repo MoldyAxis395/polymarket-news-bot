@@ -106,3 +106,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-30T15:39:10+00:00,BUY,Manchester City FC vs. Brighton & Hove Albion FC: Both Teams to Score,Yes,15.15,0.6600,10.00,,MANCHESTER CITY-BRIGHTON: GG (esatto) | pengwin exact: Both Teams to Score
 2026-10-30T15:39:14+00:00,BUY,Brentford FC vs. Nottingham Forest FC: Brentford FC O/U 0.5,Over,12.05,0.8300,10.00,,BRENTFORD-NOTTINGHAM FOREST: HOME O/U 0.5 OVER (approssimato) | pengwin approx: approximate lower bound of multigol 1-3
 2026-10-30T15:39:35+00:00,BUY,FC Bayern München vs. BV Borussia 09 Dortmund: FC Bayern München O/U 2.5,Over,17.54,0.5700,10.00,,BAYERN MONACO-BORUSSIA DORTMUND: MULTIGOL 2-4 CASA (approssimato) | pengwin approx: home team over 2.5 approximates 2-4
+2026-10-30T16:09:17+00:00,BUY,Will Tottenham Hotspur FC win on 2026-10-31?,Yes,16.39,0.6100,10.00,,TOTTENHAM-CRYSTAL PALACE: 1 (approssimato) | pengwin approx: home win leg of combo
+2026-10-30T16:09:22+00:00,BUY,Aston Villa FC vs. Fulham FC: O/U 1.5,Over,12.50,0.8000,10.00,,ASTON VILLA-FULHAM: OVER 1.5 (approssimato) | pengwin approx: replicates over 1.5 leg of combo
