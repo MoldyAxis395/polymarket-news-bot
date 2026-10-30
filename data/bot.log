@@ -22448,3 +22448,17 @@
 2026-10-30 01:14:22 indexed 879 markets
 2026-10-30 01:14:54 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-30 01:16:45   drop[1-source] Virginia injury report: Jekail Middlebrook ruled out against Wake Forest, two defensive ba (247Sports) :: Jekail Middlebrook, wait 2nd source
+2026-10-30 01:21:31   drop[1-source] 1 Georgia Bulldog ruled out for Florida game (247Sports) :: Georgia Bulldogs, wait 2nd source
+2026-10-30 01:21:32   drop[1-source] Rangers’ concerning slide has exposed problems that go beyond Igor Shesterkin’s injury (New York Post) :: Igor Shesterkin, wait 2nd source
+2026-10-30 01:23:41   llm groq-120b: rate limited, skip 110s
+2026-10-30 01:23:42   drop[verify] Georgia Football Injury Report: Another Bulldog ruled out for Florida (On3) :: player unknown
+2026-10-30 01:23:42   drop[1-source] Houston Officer Charged in Case Involving Father's Injury (Hoodline) :: Houston Police Department, wait 2nd source
+2026-10-30 01:24:22 indexed 882 markets
+2026-10-30 01:30:55   drop[no-market] Bayer wins US trial in which it was alleged that Roundup caused cancer in three women reut (Reuters) :: Bayer AG
+2026-10-30 01:34:23 indexed 888 markets
+2026-10-30 01:34:57   drop[team-not-named] 🚨🌍 OFFICIAL: AFCON will revert back to being every two years, decision confirmed. The next (Fabrizio Romano) :: Africa Cup of Nations (CAF)
+2026-10-30 01:44:23 bluesky error x1: HTTPSConnectionPool(host='public.api.bsky.app', port=443): Read timed out. (read timeout=15)
+2026-10-30 01:44:49 indexed 884 markets
+2026-10-30 01:45:09   drop[verify] Robert Williams III (C, Portland Trail Blazers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: player roster uncertain, impact likely insufficient
+2026-10-30 01:47:31   llm groq-120b: rate limited, skip 286s
+2026-10-30 01:47:32   drop[unconfirmed] Pirates Breakout Rookie Feels Healthy After End of Season Injury (roundtable.io) :: rookie healthy
