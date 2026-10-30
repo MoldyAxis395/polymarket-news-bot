@@ -1,28 +1,9 @@
 {
- "updated": "2026-10-30T22:54:30",
+ "updated": "2026-10-30T23:25:00",
  "start": 100.0,
  "cash": 11.63,
- "equity": 133.25,
+ "equity": 123.25,
  "open": [
-  {
-   "market_id": "5797216",
-   "question": "Will Villarreal CF win on 2026-10-30?",
-   "slug": "lal-vil-esp-2026-10-30-vil",
-   "outcome": "Yes",
-   "token": "28414240241553615364297533383552268931981113938088293167329080021262131247770",
-   "shares": 14.285714285714286,
-   "entry": 0.7,
-   "cost": 10.0,
-   "opened": 1793367430.2767594,
-   "opened_iso": "2026-10-30T13:37:10+00:00",
-   "news": "Villarreal-Espanyol: 1 (esatto)",
-   "reason": "pengwin exact: home win",
-   "conf": 1.0,
-   "end": "2026-10-30T20:00:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1793397587.8228412
-  },
   {
    "market_id": "5960431",
    "question": "Will RC Deportivo A Coru\u00f1a win on 2026-11-02?",
@@ -240,8 +221,8 @@
    "book_err": false
   }
  ],
- "closed_count": 48,
- "realized_pnl": 35.74,
+ "closed_count": 49,
+ "realized_pnl": 25.74,
  "pages": {
   "pending": 105,
   "picked": 1,

@@ -196,3 +196,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-27T22:00:50+00:00,SELL,Thunder vs. Mavericks,Mavericks,31.25,0.2400,7.50,-2.50,stop loss
 2026-10-29T17:59:06+00:00,BUY,Blackhawks vs. Red Wings,Blackhawks,23.81,0.4200,10.00,,"Dylan Larkin (C, Detroit Red Wings) ruled out: healthy -> Out [NHL] | llm[groq-120b] trusted: Larkin's absence weakens Detroit, likely boosting Blackhawks odds"
 2026-10-29T23:44:26+00:00,SELL,Blackhawks vs. Red Wings,Blackhawks,23.81,0.3900,9.29,-0.71,market closing
+2026-10-30T21:59:22+00:00,BUY,Knicks vs. 76ers,Knicks,17.24,0.5800,10.00,,"Jaylen Brown (G, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] | llm[groq-20b] trusted: Jaylen Brown ruled out weakens 76ers, boosting Knicks odds"
