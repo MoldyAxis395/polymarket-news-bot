@@ -1,5 +1,5 @@
 {
- "cash": 114.11614327102225,
+ "cash": 104.11614327102225,
  "positions": [
   {
    "market_id": "5797216",
@@ -16,7 +16,8 @@
    "reason": "pengwin exact: home win",
    "conf": 1.0,
    "end": "2026-10-30T20:00:00+00:00",
-   "last_bid": null
+   "last_bid": 0.69,
+   "book_err": false
   },
   {
    "market_id": "5960431",
@@ -33,7 +34,26 @@
    "reason": "pengwin approx: represents 1X double chance as home win",
    "conf": 1.0,
    "end": "2026-11-02T20:00:00+00:00",
-   "last_bid": null
+   "last_bid": 0.44,
+   "book_err": false
+  },
+  {
+   "market_id": "5862724",
+   "question": "Real Betis Balompi\u00e9 vs. M\u00e1laga CF: O/U 1.5",
+   "slug": "lal-bet-mala-2026-10-31-total-1pt5",
+   "outcome": "Over",
+   "token": "103886056229041775312862534592017004390354093847122952378551251197670427237816",
+   "shares": 11.627906976744185,
+   "entry": 0.8600000000000001,
+   "cost": 10.0,
+   "opened": 1793369233.2321844,
+   "opened_iso": "2026-10-30T14:07:13+00:00",
+   "news": "Betis-Malaga: REAL BETIS O/U 1.5 OVER (approssimato)",
+   "reason": "pengwin approx: Multigol 2-5 casa approximated to over 1.5",
+   "conf": 1.0,
+   "end": "2026-10-31T17:30:00+00:00",
+   "last_bid": 0.84,
+   "book_err": false
   }
  ],
  "closed": [

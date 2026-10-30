@@ -2556,7 +2556,7 @@
 "pick": "I capitolini sono decisamente favoriti nella sfida casalinga con il Cagliari e penso che riusciranno a conquistare i tre punti davanti ai propri tifosi: pertanto, come pronostico base mi affido al segno 1, quotato a 1.30. Attenzione alla proposta Malen marcatore DUO a quota 1.75: il centravanti olandese non segna da tre partite e vuole assolutamente ritrovare la via del gol. Per chi non si accontenta del segno 1, propongo la combo 1 + 1 corner, a moltiplicatore 1.50.",
 "match": "ROMA-CAGLIARI",
 "picked_at": 1793126841.9154024,
-"tries": 69,
+"tries": 71,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2566,7 +2566,7 @@
 "pick": "Il Como ha ritrovato ottime sensazioni nelle ultime settimane e giunge alla trasferta di Torino in grande fiducia. La compagine lombarda ha tutte le carte in regola per centrare il bottino pieno ed espugnare il campo dei granata. Dunque, punto sul segno 2, a moltiplicatore 1.80. Per chi volesse osare meno, consiglio l'esito 2 draw no bet, a quota 1.32 (in caso di pareggio la giocata viene rimborsata).",
 "match": "TORINO-COMO",
 "picked_at": 1793126841.9154024,
-"tries": 69,
+"tries": 71,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2694,43 +2694,100 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/villarreal-espanyol-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "traded",
+"pick": "L'Espanyol è scivolato in una crisi senza fine e, dopo l'eliminazione in Copa del Rey con una squadra di quarta divisione ha addirittura esonerato Manolo Gonzalez. Situazione disperata per i cugini del Barcellona che sembrano ora arrivare allo Stadio della Ceramica come vittima sacrificale. Sfida, per me, senza storia. Vedo il Villarreal nettamente avanti, per questo mi prendo il segno 1 fisso dal valore di 1.41.",
+"match": "Villarreal-Espanyol",
+"picked_at": 1793367274.3017788,
+"market": "Will Villarreal CF win on 2026-10-30?",
+"outcome": "Yes",
+"map": "exact"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/levante-atletico-madrid-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "skipped",
+"pick": "L'Atletico Madrid viene da un monento magico, 6 vittorie consecutive che hanno permesso ai Colchoneros di accorciare sulla vetta. Potrebbe essere la stagione giusta per il Cholo per permettere al suo pubblico di tornare a sognare. La sfida al Levante appare scontata ma attenzione, i rossoblu hanno perso solo 2 volte negli ultimi 7 scontri diretti. Per questo vado a prendermi il Multigol 1-3 ospite dal valore di 1.40.",
+"match": "Levante-Atletico Madrid",
+"picked_at": 1793367274.3017788,
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/rayo-vallecano-celta-vigo-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "skipped",
+"pick": "In generale, almeno negli ultimi scontri diretti, la sfida tra Rayo e Celta ha regalato partite tutto sommato divertenti e frizzanti. Il Celta è imprevedibile, a volte fa dei colpacci ma spesso e volentieri si accontenta dei pareggi per 1-1. Vedo il Rayo che deve riscattarsi dopo la batosta presa con l'Elche. Non si può sbagliare ancora a Vallecas, per tutto ciò che abbiamo detto vado a prendermi l'1X+Multigol 1-4 casa dal valore di 1.55.",
+"match": "Rayo Vallecano-Celta Vigo",
+"picked_at": 1793367274.3017788,
+"why": "double chance mapped to YES: Will Rayo Vallecano de Madrid win on 2026-10-31?"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/betis-malaga-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "traded",
+"pick": "E' in questa sfida che mi aspetto un clinic. Sulla carta, non c'è partita tra Betis e Malaga. Il Balompiè è una squadra da Champions League, una delle top 4 della Liga mentre i biancocelesti sono ancora alla ricerca della prima vittoria. Vero, il Betis solitamente si accontenta di vincere di misura ma non credo che sarà questo il caso. Vado a prendermi un deciso Multigol 2-5 casa dal valore di 1.41. In aggiunta, farei attenzione e non sottovaluterei lo scommettere su Parrott marcatore.",
+"match": "Betis-Malaga",
+"picked_at": 1793367274.3017788,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer",
+"market": "Real Betis Balompié vs. Málaga CF: O/U 1.5",
+"outcome": "Over",
+"map": "approx"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/barcellona-alaves-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "skipped",
+"pick": "Il Barcellona sta affrontando la prima \"mini crisi\" stagionale. Le due sconfitte, per 4-2 con il PSG e per 1-2 col Real Madrid, hanno riportato i Blaugrana sulla terra per la prima volta. I catalani sono umani, ma credo proprio che torneranno a vincere. Mi aspetto che la corazzata di Flick spinga da subito sul pedale dell'acceleratore per sbloccare, e magari archiviare, la pratica già nella prima frazione di gioco. Quota finale: 1 Primo Tempo a 1.31.",
+"match": "Barcellona-Alaves",
+"picked_at": 1793367274.3017788,
+"tries": 1,
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/getafe-siviglia-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "skipped",
+"pick": "Difficile stabilire cosa succederà. Il Getafe sta iniziando a crollare nelle ultime partite, 9 gol subiti in uscite tra campionato e coppa dimostrano la quasi fine dell'era Bordalas. Il Siviglia dovrebbe avere quindi vita facile visto che si trovano in zona Europa ma non sottovaluterei la difficoltà del Coliseum. Mi aspetto una partita molto cattiva, entrambe sono fallose e penso che ci saranno diversi cartellini. Mi vado a prendere l'Over 1.5 cartellini ospite dal valore di 1.40.",
+"match": "Getafe-Siviglia",
+"picked_at": 1793367274.3017788,
+"tries": 1,
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/racing-santander-real-madrid-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "skipped",
+"pick": "Il Real Madrid è risorto nel momento più difficile. Grazie alla vittoria nel Clasico, infatti, le Merengues hanno inflitto la prima sconfitta al Barcellona e si sono riportati a soli 3 punti dalla vetta. Mi aspetto che i Blancos daranno continuità al risultato del Camp Nou. La squadra di Josè Mourinho inizierà forte per poi archiviare la pratica nella ripresa. La quota finale è la seguente: Over 0,5 1° Tempo+Over 0,5 2° Tempo a 1.50.",
+"match": "Racing Santander-Real Madrid",
+"picked_at": 1793367274.3017788,
+"tries": 1,
+"llm_fails": 1,
+"why": "No Polymarket market matches the 0.5‑goal first‑half or second‑half over bet; only a 1.5‑goal first‑half market exists, which is a different line."
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/elche-valencia-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "L'Elche ha ricominciato a convincere nelle ultime settimane e la vittoria per 0-3 in casa del Rayo ha davvero cambiato le carte in tavola per il Franjiverde. La sfida al Valencia arriva quindi nel momento giusto. La squadra di Aguirre, infatti, non ha ancora appreso i dittami tattici del tecnico messicano ed è senza vittorie. Mi prendo un semplice Multigol 1-3 casa dal valore di 1.38.",
+"match": "Elche-Valencia",
+"picked_at": 1793367274.3017788,
+"tries": 2,
+"llm_fails": 2,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/athletic-bilbao-real-sociedad-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "La squadra di Terzic ha rialzato la testa dopo la batosta rimediata dal Levante nel recupero della 6° giornata grazie alla goleada sul Getafe. Il San Mames è un fortino, i baschi solitamente non deludono ma l'avversario di questa settimana, la Sociedad, è in un ottimo momento di forma. Matarazzo insegue la Champions mentre Terzic non può sbagliare se vuole accorciare in classifica. Vedo i locali avanti, mi prendo il segno 1X dal valore di 1.35.",
+"match": "Athletic Bilbao-Real Sociedad",
+"picked_at": 1793367274.3017788,
+"tries": 2,
+"why": "no LLM answer",
+"llm_fails": 1
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/deportivo-osasuna-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "traded",
+"pick": "Nonostante il buon esordio di Arrasate, l'Osasuna ha dimostrato nuovamente le sue inadeguatezze sul campo del Siviglia. Vero, il Deportivo manca al successo da agosto (anche per le assenze importanti), ma credo che in questa sfida del lunedì parta come favorito. Non mi sento di andare con un segno 1 fisso, troppo rischioso, piuttosto prendiamo una combo per alzare la quota. Vado con l'1X+Multigol 1-4 casa dal valore di 1.65.",
+"match": "Deportivo-Osasuna",
+"picked_at": 1793367274.3017788,
+"market": "Will RC Deportivo A Coruña win on 2026-11-02?",
+"outcome": "Yes",
+"map": "approx"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/elversberg-mainz-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
@@ -2874,6 +2931,14 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-b/modena-mantova-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793365440.6237967,
+"status": "pending"
+},
+"https://www.mondopengwin.it/pronostici/calcio/serie-b/sdtirol-cesena-statistiche-quote-e-pronostico-2026": {
+"first": 1793369077.3326383,
+"status": "pending"
+},
+"https://www.mondopengwin.it/pronostici/calcio/serie-b/catanzaro-padova-statistiche-quote-e-pronostico-2026": {
+"first": 1793369077.3326383,
 "status": "pending"
 }
 }

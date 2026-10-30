@@ -98,3 +98,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-27T19:54:04+00:00,SELL,US Sassuolo Calcio vs. SS Lazio: Both Teams to Score,Yes,16.13,1.0000,16.13,+6.13,resolved
 2026-10-30T13:37:10+00:00,BUY,Will Villarreal CF win on 2026-10-30?,Yes,14.29,0.7000,10.00,,Villarreal-Espanyol: 1 (esatto) | pengwin exact: home win
 2026-10-30T13:37:38+00:00,BUY,Will RC Deportivo A Coruña win on 2026-11-02?,Yes,22.22,0.4500,10.00,,Deportivo-Osasuna: 1 (approssimato) | pengwin approx: represents 1X double chance as home win
+2026-10-30T14:07:13+00:00,BUY,Real Betis Balompié vs. Málaga CF: O/U 1.5,Over,11.63,0.8600,10.00,,Betis-Malaga: REAL BETIS O/U 1.5 OVER (approssimato) | pengwin approx: Multigol 2-5 casa approximated to over 1.5
