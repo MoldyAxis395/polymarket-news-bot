@@ -108,3 +108,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-30T15:39:35+00:00,BUY,FC Bayern München vs. BV Borussia 09 Dortmund: FC Bayern München O/U 2.5,Over,17.54,0.5700,10.00,,BAYERN MONACO-BORUSSIA DORTMUND: MULTIGOL 2-4 CASA (approssimato) | pengwin approx: home team over 2.5 approximates 2-4
 2026-10-30T16:09:17+00:00,BUY,Will Tottenham Hotspur FC win on 2026-10-31?,Yes,16.39,0.6100,10.00,,TOTTENHAM-CRYSTAL PALACE: 1 (approssimato) | pengwin approx: home win leg of combo
 2026-10-30T16:09:22+00:00,BUY,Aston Villa FC vs. Fulham FC: O/U 1.5,Over,12.50,0.8000,10.00,,ASTON VILLA-FULHAM: OVER 1.5 (approssimato) | pengwin approx: replicates over 1.5 leg of combo
+2026-10-30T16:40:19+00:00,BUY,Will Juventus FC win on 2026-11-01?,No,17.24,0.5800,10.00,,JUVENTUS-NAPOLI: X2 (esatto) | pengwin exact: X2 = No on Juventus win

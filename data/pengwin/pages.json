@@ -2556,7 +2556,7 @@
 "pick": "I capitolini sono decisamente favoriti nella sfida casalinga con il Cagliari e penso che riusciranno a conquistare i tre punti davanti ai propri tifosi: pertanto, come pronostico base mi affido al segno 1, quotato a 1.30. Attenzione alla proposta Malen marcatore DUO a quota 1.75: il centravanti olandese non segna da tre partite e vuole assolutamente ritrovare la via del gol. Per chi non si accontenta del segno 1, propongo la combo 1 + 1 corner, a moltiplicatore 1.50.",
 "match": "ROMA-CAGLIARI",
 "picked_at": 1793126841.9154024,
-"tries": 75,
+"tries": 76,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2566,7 +2566,7 @@
 "pick": "Il Como ha ritrovato ottime sensazioni nelle ultime settimane e giunge alla trasferta di Torino in grande fiducia. La compagine lombarda ha tutte le carte in regola per centrare il bottino pieno ed espugnare il campo dei granata. Dunque, punto sul segno 2, a moltiplicatore 1.80. Per chi volesse osare meno, consiglio l'esito 2 draw no bet, a quota 1.32 (in caso di pareggio la giocata viene rimborsata).",
 "match": "TORINO-COMO",
 "picked_at": 1793126841.9154024,
-"tries": 75,
+"tries": 76,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2642,15 +2642,29 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/bologna-monza-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "skipped",
+"pick": "I rossoblù sono reduci da una buonissima prestazione contro il Milan, nel turno infrasettimanale, che è culminata nel successo felsineo a San Siro. La formazione emiliana sembra aver ritrovato la qualità del suo gioco dall’arrivo di Palladino, anche se non ha ancora vinto un match davanti al proprio pubblico. Al contrario, in trasferta, il Monza concede tanto: quattordici le reti subite in cinque partite per i brianzoli. È possibile, dunque, che la squadra di casa trovi finalmente i tre punti al Dall’Ara. Pertanto, mi affido all’esito Casa vince almeno un tempo, a quota 1.35 .",
+"match": "BOLOGNA-MONZA",
+"picked_at": 1793378226.21915,
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/udinese-roma-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "skipped",
+"pick": "Nonostante la vittoria sul Cagliari nel turno infrasettimanale, la Roma sembra iniziare ad accusare un po’ di stanchezza a causa dei tanti impegni ravvicinati. Dall’altro lato, però, i friulani stanno vivendo un periodo di crisi. Le grandi qualità offensive dei bianconeri non stanno venendo fuori in queste settimane. In ottica dell’impegno europeo della prossima settimana, Gasperini potrebbe cercare di gestire le energie in trasferta, soprattutto se dovesse passare in vantaggio. Per questo motivo, punto sull’esito 1-3 MG Ospite, quotato a 1.30 circa .",
+"match": "UDINESE-ROMA",
+"picked_at": 1793378226.21915,
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/milan-inter-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "I rossoneri cadono in casa contro il Bologna, ma questo non è per forza un segnale negativo. E nel Derby la squadra di Amorim potrebbe alzare il livello. L’Inter, però, quest’anno è riuscita quasi sempre a recuperare da situazioni di svantaggio. Le vittorie contro Bologna e Fiorentina, poi il successo sul Venezia nel turno infrasettimanale, riescono sicuramente a dare morale alla compagine nerazzurra, ma rischiano anche di togliere energie mentali e fisiche. La sensazione è che i ragazzi di Chivu abbiano raccolto più di quanto meritato in queste prime nove partite. Ma hanno anche dimostrato di riuscire a produrre un volume di gioco notevole, pur concedendo parecchio in difesa. Pertanto, punto sul pronostico Goal, quotato a 1.50 .",
+"match": "MILAN-INTER",
+"picked_at": 1793378226.21915,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/chelsea-manchester-united-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
@@ -2749,13 +2763,13 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/newcastle-everton-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
-"status": "pending",
+"status": "skipped",
 "pick": "I Magpies , davanti al proprio pubblico, vorranno immediatamente vendicare la sconfitta per 3 a 1 incassata pochi giorni fa proprio contro i Toffees in EFL Cup. Se nel primo tempo l'attenzione tattica e la paura di scoprirsi potrebbero farla da padrone bloccando il risultato, nella ripresa la stanchezza e la necessità di sbilanciarsi spaccheranno inevitabilmente la partita. Il Newcastle ha una spiccata propensione a produrre il massimo sforzo offensivo nei secondi 45 minuti, supportato da una panchina profonda in grado di cambiare i ritmi a gara in corso. Di contro, l' Everton in trasferta fatica a mantenere la stessa solidità difensiva per tutta la durata del match e tende a concedere ampi spazi nella seconda frazione di gioco. Ci si aspetta una ripresa spumeggiante, con le squadre pronte a rispondersi colpo su colpo. Lo scenario statistico ideale ci porta dritti verso il MULTIGOL 1-3 SECONDO TEMPO , una giocata proposta all'ottima quota di 1.35 .",
 "match": "NEWCASTLE-EVERTON",
 "picked_at": 1793374606.9932537,
 "tries": 2,
 "llm_fails": 2,
-"why": "no LLM answer"
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/villarreal-espanyol-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
@@ -2886,7 +2900,7 @@
 "pick": "Sfida interessante tra due squadre che hanno le qualità per rendersi pericolose in fase offensiva. Per questo preferisco evitare di puntare su un vincitore secco e affidarmi a una combo che copra sia la vittoria sia il pareggio del Leverkusen, aggiungendo la possibilità che anche lo Stoccarda riesca a trovare la rete. Esito: Leverkusen 1X + GOAL — Quota 1.70",
 "match": "BAYER LEVERKUSEN-STOCCARDA",
 "picked_at": 1793370936.6794083,
-"tries": 4,
+"tries": 5,
 "why": "no Polymarket event",
 "llm_fails": 1
 },
@@ -2896,7 +2910,7 @@
 "pick": "Per questa partita scelgo un mercato legato alla produzione offensiva dello Schalke. Il Multigol casa 1-2 permette di puntare su una squadra che può segnare almeno una rete, senza richiedere necessariamente una prestazione da più gol. La giocata resta interessante se i padroni di casa riusciranno a sfruttare le occasioni create, anche contro un avversario impegnativo come il Lipsia. Esito: Multigol 1-2 casa — Quota 1.55",
 "match": "SCHALKE-LIPSIA",
 "picked_at": 1793370936.6794083,
-"tries": 4,
+"tries": 5,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/bayern-monaco-borussia-dortmund-statistiche-quote-e-pronostico": {
@@ -2944,12 +2958,12 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/francoforte-amburgo-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
-"status": "pending",
+"status": "skipped",
 "pick": "Per chiudere, scelgo una giocata legata al secondo tempo dell’Eintracht. Il Francoforte avrà l’opportunità di sfruttare la spinta del proprio pubblico e cercare il gol anche nella ripresa, una frazione in cui le partite possono aprirsi e lasciare più spazi. L’obiettivo è che i padroni di casa riescano a segnare almeno una rete dopo l’intervallo. Esito: Eintracht Francoforte segna nel 2° tempo — Quota 1.35",
 "match": "FRANCOFORTE-AMBURGO",
 "picked_at": 1793370936.6794083,
 "tries": 4,
-"why": "no LLM answer",
+"why": "no half-time market available",
 "llm_fails": 1
 },
 "https://www.mondopengwin.it/pronostici/calcio/ligue-1/le-havre-psg-statistiche-quote-e-pronostico-2026-2": {
@@ -3026,31 +3040,71 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/como-venezia-statistiche-quote-e-pronostico-2026": {
 "first": 1793365440.6237967,
-"status": "pending"
+"status": "skipped",
+"pick": "I lariani sono in un buon momento di forma, come si è visto anche contro Sassuolo e Manchester United. Dall’altro lato, il Venezia viene da una sconfitta contro l’Inter, mentre l’ultimo successo è quello contro il Napoli, l’unico finora in Serie A. Difficilmente, fuori casa, riuscirà a fare risultato contro questo Como. Con l’arrivo di Nicola, i lagunari hanno migliorato la propria fase difensiva e le occasioni concesse non sempre si sono tramutate in gol subiti. Al contrario, i comaschi riescono a produrre una mole di gioco notevole e possono quindi sfruttare questo stile offensivo per raccogliere diverse chance nella metà campo avversaria. Mi affido quindi all’esito 1 Corner, a quota 1.30 circa.",
+"match": "COMO-VENEZIA",
+"picked_at": 1793378226.21915,
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/frosinone-torino-statistiche-quote-e-pronostico-2026": {
 "first": 1793365440.6237967,
-"status": "pending"
+"status": "pending",
+"pick": "Il Frosinone continua a brillare, anche nel turno infrasettimanale, con la bella vittoria sul Lecce. I granata hanno giocato una buona partita contro il Como, pur uscendo sconfitti nella sfida con i lariani. Fuori casa, la formazione piemontese ha perso solo una delle quattro partite disputate in Serie A quest’anno. Ma la squadra ciociara ha prodotto molti più gol e, in casa, è reduce da quattro vittorie consecutive in campionato. Al contrario, il Torino si è dimostrato piuttosto solido difensivamente. E potrebbe quindi sfruttare questo stile di gioco nella ripresa con qualche ripartenza. Per questo motivo, punto sull’ esito Ospite segna 2T, quotato 1.60 .",
+"match": "FROSINONE-TORINO",
+"picked_at": 1793378226.21915,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/lazio-cagliari-statistiche-quote-e-pronostico-2026": {
 "first": 1793365440.6237967,
-"status": "pending"
+"status": "pending",
+"pick": "La squadra rossoblù ha disputato un’ottima partita contro la Roma nel turno infrasettimanale, pur incappando nella terza sconfitta consecutiva. I biancocelesti sono reduci da una fantastica vittoria in trasferta col Sassuolo che li ha proiettati al primo posto in classifica condiviso con l’Inter. Nelle ultime quattro uscite, però, la formazione allenata da Gattuso ha subito reti in tre partite, riuscendo a mantenere la porta inviolata solo contro la Juventus. Per questo motivo, punto sul pronostico Casa vince a zero No, a quota 1.56 .",
+"match": "LAZIO-CAGLIARI",
+"picked_at": 1793378226.21915,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/lecce-genoa-statistiche-quote-e-pronostico-2026": {
 "first": 1793365440.6237967,
-"status": "pending"
+"status": "pending",
+"pick": "Tre vittorie casalinghe consecutive per la formazione ligure, che però, in trasferta, ancora fatica a trovare i tre punti. Al contrario, i salentini hanno incontrato le maggiori difficoltà davanti al proprio pubblico, con tre sconfitte in quattro partite. Le due squadre, dunque, potrebbero anche accontentarsi un pareggio, dividendosi così la posta in palio. Mi affido quindi all’ esito X o Goal, a 1.60 circa.",
+"match": "LECCE-GENOA",
+"picked_at": 1793378226.21915,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/juventus-napoli-statistiche-quote-e-pronostico-2026": {
 "first": 1793365440.6237967,
-"status": "pending"
+"status": "traded",
+"pick": "Periodo nero per la Juventus. Nelle ultime settimane, la Vecchia Signora sembra aver perso serenità e compattezza ed è reduce da due sconfitte nelle ultime tre partite, entrambe arrivate senza segnare reti. Dall’altra parte, il Napoli sembra avere più organizzazione, anche se vanno considerati i limiti mostrati dai partenopei in stagione. Le difficoltà dei bianconeri, però, sembrano davvero difficili da superare in un match così importante. E la formazione azzurra potrebbe approfittarne per uscire dallo Stadium con un pari o addirittura una vittoria. Mi affido pertanto all’esito X2, quotato a 1.60 circa.",
+"match": "JUVENTUS-NAPOLI",
+"picked_at": 1793378226.21915,
+"market": "Will Juventus FC win on 2026-11-01?",
+"outcome": "No",
+"map": "exact"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/sassuolo-fiorentina-statistiche-quote-e-pronostico-2026": {
 "first": 1793365440.6237967,
-"status": "pending"
+"status": "pending",
+"pick": "Stagione di alti e bassi per la Viola, che alterna prestazioni offensive di alto livello a una difesa traballante. In trasferta, la squadra toscana ha vinto solo una partita, perdendo invece le altre tre: sono 10 le reti subite lontane da Firenze, con sei gol, invece, segnati. Il Sassuolo, in casa, è reduce da buone prestazioni contro Juventus e Milan, ma nell’ultima giornata ha subito ben sei reti dalla Lazio, palesando così le proprie difficoltà nel reparto arretrato. Punto così sull’esito X2, a quota 1.45.",
+"match": "SASSUOLO-FIORENTINA",
+"picked_at": 1793378226.21915,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/atalanta-parma-statistiche-quote-e-pronostico-2026": {
 "first": 1793365440.6237967,
-"status": "pending"
+"status": "pending",
+"pick": "La Dea ricomincia finalmente a mostrare un buon gioco, come visto in casa della Fiorentina. Al contrario, la formazione crociata non è ancora riuscita a risollevarsi dopo l’arrivo in panchina di Gilardino. Le difficoltà maggiori si sono viste proprio nel reparto difensivo, caposaldo del gioco di Cuesta. In questo momento, la squadra di Sarri sembra riuscire ad attaccare con solidità ed efficacia e potrebbe sfruttare queste caratteristiche per trovare una vittoria agevole Per questo motivo, mi affido all’esito Casa Over 1.5, a quota 1.50 .",
+"match": "ATALANTA-PARMA",
+"picked_at": 1793378226.21915,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-b/cremonese-benevento-statistiche-quote-e-pronostico-2026": {
 "first": 1793365440.6237967,
@@ -3074,6 +3128,10 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-b/arezzo-ascoli-statistiche-quote-e-pronostico-2026": {
 "first": 1793374606.9932537,
+"status": "pending"
+},
+"https://www.mondopengwin.it/pronostici/calcio/serie-b/avellino-pisa-statistiche-quote-e-pronostico-2026": {
+"first": 1793378226.21915,
 "status": "pending"
 }
 }

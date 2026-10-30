@@ -23000,3 +23000,61 @@
 2026-10-30 17:34:42   llm groq-120b: rate limited, skip 220s
 2026-10-30 17:34:44   drop[verify] C.J. Gardner-Johnson (S, Buffalo Bills) ruled out: Active -> Suspension [NFL] (ESPN) :: uncertain if new
 2026-10-30 17:34:44   drop[not-key] Emeka Egbuka (WR, Tampa Bay Buccaneers) ruled out: Questionable -> Out [NFL] (ESPN) :: Emeka Egbuka: injury
+2026-10-30 17:38:50   llm groq-120b: rate limited, skip 54s
+2026-10-30 17:38:51   drop[team-not-named] With another World Series ring in tow, Dustin May officially returns to free agency: www.m (MLB Trade Rumors) :: Los Angeles Dodgers
+2026-10-30 17:39:13 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 76)
+2026-10-30 17:39:15 [pengwin] TORINO-COMO: no Polymarket event (try 76)
+2026-10-30 17:39:18 [pengwin] skip BOLOGNA-MONZA [Casa vince almeno un tempo]: no matching market
+2026-10-30 17:39:23 [pengwin] skip UDINESE-ROMA [Multigol 1-3 Ospite]: no matching market
+2026-10-30 17:39:26   llm groq-20b: rate limited, skip 2s
+2026-10-30 17:39:26 [pengwin] MILAN-INTER: no LLM answer (try 1)
+2026-10-30 17:39:29 [pengwin] skip NEWCASTLE-EVERTON [MULTIGOL 1-3 SECONDO TEMPO]: no matching market
+2026-10-30 17:39:31   llm groq-20b: rate limited, skip 1s
+2026-10-30 17:39:32 [pengwin] BAYER LEVERKUSEN-STOCCARDA: no Polymarket event (try 5)
+2026-10-30 17:39:34 [pengwin] SCHALKE-LIPSIA: no Polymarket event (try 5)
+2026-10-30 17:39:39 [pengwin] skip FRANCOFORTE-AMBURGO [Eintracht Frankfurt scores in 2nd half]: no half-time market available
+2026-10-30 17:40:06   llm groq-120b: rate limited, skip 487s
+2026-10-30 17:40:07 [pengwin] skip COMO-VENEZIA [1 Corner]: no matching market
+2026-10-30 17:40:10   llm groq-20b: rate limited, skip 5s
+2026-10-30 17:40:10 [pengwin] FROSINONE-TORINO: no LLM answer (try 1)
+2026-10-30 17:40:13 [pengwin] LAZIO-CAGLIARI: no LLM answer (try 1)
+2026-10-30 17:40:15 [pengwin] LECCE-GENOA: no LLM answer (try 1)
+2026-10-30 17:40:19 [pengwin]   BUY No @ 0.580 x17.2 ($10.00) :: Will Juventus FC win on 2026-11-01?
+2026-10-30 17:40:22   llm groq-20b: rate limited, skip 4s
+2026-10-30 17:40:22 [pengwin] SASSUOLO-FIORENTINA: no LLM answer (try 1)
+2026-10-30 17:40:24 [pengwin] ATALANTA-PARMA: no LLM answer (try 1)
+2026-10-30 17:41:45   drop[no-pick] Larkin's Suspension Changes What Detroit Can Spend This Season (Detroit Sports Nation) :: no matching NFL market
+2026-10-30 17:44:15   drop[unconfirmed] Jets sacks leader David Bailey doubtful vs. Raiders with a groin injury (Medicine Hat News) :: groin injury
+2026-10-30 17:44:44 indexed 983 markets
+2026-10-30 17:45:46   drop[team-not-named] US court reinstates 'Sunday Ticket' class action verdict against NFL reut.rs/4BwXEid (Reuters) :: National Football League
+2026-10-30 17:46:22   drop[team-not-named] At least 2 students were suspended for bullying 15-year-old Javits Frimpong, school bus ai (CBS News) :: 
+2026-10-30 17:46:23   drop[not-key] Emeka Egbuka has cleared concussion protocol, but will miss Sunday's game with a foot inju (NBC Sports) :: Emeka Egbuka: foot injury
+2026-10-30 17:46:23   drop[1-source] Giovanni van Bronckhorst’s probable Feyenoord XI with Jeremiah St. Juste ruled out (OneFootball) :: Jeremiah St. Juste, wait 2nd source
+2026-10-30 17:46:55   drop[not-key] Connor Zary (C, Calgary Flames) ruled out: healthy -> Out [NHL] (ESPN) :: Connor Zary: healthy out
+2026-10-30 17:46:55   drop[not-key] Brennan Othmann (LW, Calgary Flames) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Brennan Othmann: injury
+2026-10-30 17:46:56   drop[not-key] Devin Cooley (G, Calgary Flames) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: Devin Cooley: injured
+2026-10-30 17:51:00   drop[kind] City review finds Kalamazoo traffic and injury crashes down in 2025, fatalities unchanged (wwmtarc) :: other
+2026-10-30 17:51:01   drop[no-pick] St. Louis Fed's Musalem: Another rate hike needed 'soon' (CNBC) :: short
+2026-10-30 17:53:33   llm groq-120b: rate limited, skip 37s
+2026-10-30 17:53:34   drop[1-source] Szoboszlai, Wirtz, Munoz: Liverpool injury latest for FPL Gameweek 9 (www.fantasyfootballscout.co.uk) :: Dominik Szoboszlai, wait 2nd source
+2026-10-30 17:54:43 indexed 992 markets
+2026-10-30 17:55:36   drop[1-source] Thunder urged to pursue Herb Jones after devastating Jalen Williams injury (Business Upturn) :: Jalen Williams, wait 2nd source
+2026-10-30 17:57:55   llm groq-120b: rate limited, skip 33s
+2026-10-30 17:57:55   drop[unconfirmed] Mikel Arteta hands Arsenal major injury boost as star duo return to training ahead of Live (Goal.com) :: boost
+2026-10-30 18:00:13   drop[kind] Norfolk police investigating serious-injury crash on West Brambleton Avenue in Norfolk (13newsnow.com) :: other
+2026-10-30 18:01:17   llm groq-120b: rate limited, skip 105s
+2026-10-30 18:01:20   drop[no-pick] Javon Kinlaw (DT, Washington Commanders) ruled out: Doubtful -> Out [NFL] (ESPN) :: no outcome should rise
+2026-10-30 18:02:43   drop[1-source] SHATTERED: Michigan State Reeling as Ben Roberts Injury EXPOSES Critical Defensive Line WE (13newsnow.com) :: Ben Roberts, wait 2nd source
+2026-10-30 18:02:44   drop[1-source] Maddison + Udogie: Tottenham injury latest for FPL Gameweek 9 (www.fantasyfootballscout.co.uk) :: Maddison, wait 2nd source
+2026-10-30 18:02:44   drop[not-key] Joao Pedro, Lacroix, Martinez: Chelsea injury latest for FPL Gameweek 9 (www.fantasyfootballscout.co.uk) :: Joao Pedro: injury
+2026-10-30 18:02:45   drop[1-source] Semenyo, Ndiaye, Nunes: Man City injury latest for FPL Gameweek 9 (www.fantasyfootballscout.co.uk) :: Semenyo, wait 2nd source
+2026-10-30 18:02:47   drop[not-key] Calafiori, Rice, Madueke: Arsenal injury latest for FPL Gameweek 9 (www.fantasyfootballscout.co.uk) :: Calafiori: injury
+2026-10-30 18:04:46 indexed 1002 markets
+2026-10-30 18:04:52   drop[1-source] Nuggets Injury Report: Denver Lists 2 Out, 2 Questionable vs. Suns (Sports Illustrated) :: Denver Nuggets, wait 2nd source
+2026-10-30 18:04:52   llm groq-120b: rate limited, skip 208s
+2026-10-30 18:04:52   drop[1-source] Grealish + Branthwaite: Everton injury latest for FPL Gameweek 9 (www.fantasyfootballscout.co.uk) :: Jack Grealish, wait 2nd source
+2026-10-30 18:04:53   drop[team-not-named] Hearts vs Hibs injury latest: 12 players out, three doubts and ace back (Edinburgh News) :: Heart of Midlothian F.C.
+2026-10-30 18:06:59   drop[side] Nice confirmed lineup vs Stade Rennais: Alidu Seidu, Axel Witsel, Gauthier Hein ruled out  (ESPN) :: Will Stade Rennais FC 1901 win on 2026-10-31? -> Yes vs fact ruled_out: Alidu Seidu (Stade Rennais, soccer), bad for Sta
+2026-10-30 18:07:00   drop[side] Stade Rennais confirmed lineup vs Nice: Brice Samba, Mahdi Camara ruled out of starting XI (ESPN) :: Will Stade Rennais FC 1901 win on 2026-10-31? -> Yes vs fact ruled_out: Brice Samba (Stade Rennais, soccer), bad for Sta
+2026-10-30 18:07:10   drop[kind] 4 injury crashes reported in 1 day in Longmont (Police notes) (Longmont Times-Call) :: other
+2026-10-30 18:07:10   drop[unconfirmed] England beat Papua New Guinea but World Cup hopes in doubt (BBC) :: win

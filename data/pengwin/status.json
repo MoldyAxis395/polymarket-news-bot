@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T17:36:06",
+ "updated": "2026-10-30T18:06:14",
  "start": 100.0,
- "cash": 14.12,
- "equity": 130.82,
+ "cash": 4.12,
+ "equity": 130.67,
  "open": [
   {
    "market_id": "5797216",
@@ -19,7 +19,7 @@
    "reason": "pengwin exact: home win",
    "conf": 1.0,
    "end": "2026-10-30T20:00:00+00:00",
-   "last_bid": 0.69,
+   "last_bid": 0.7,
    "book_err": false
   },
   {
@@ -91,7 +91,7 @@
    "reason": "pengwin exact: replicates the Over 1.5 leg of the combo",
    "conf": 1.0,
    "end": "2026-10-30T19:30:00+00:00",
-   "last_bid": 0.83,
+   "last_bid": 0.82,
    "book_err": false
   },
   {
@@ -219,15 +219,33 @@
    "end": "2026-10-31T20:00:00+00:00",
    "last_bid": 0.79,
    "book_err": false
+  },
+  {
+   "market_id": "5909608",
+   "question": "Will Juventus FC win on 2026-11-01?",
+   "slug": "sea-juv-nap-2026-11-01-juv",
+   "outcome": "No",
+   "token": "32713108264704692668630043344317082530774051793866534624856773330309158084799",
+   "shares": 17.24137931034483,
+   "entry": 0.58,
+   "cost": 10.0,
+   "opened": 1793378419.223549,
+   "opened_iso": "2026-10-30T16:40:19+00:00",
+   "news": "JUVENTUS-NAPOLI: X2 (esatto)",
+   "reason": "pengwin exact: X2 = No on Juventus win",
+   "conf": 1.0,
+   "end": "2026-11-01T19:45:00+00:00",
+   "last_bid": 0.57,
+   "book_err": false
   }
  ],
  "closed_count": 47,
  "realized_pnl": 34.12,
  "pages": {
-  "pending": 114,
+  "pending": 109,
   "picked": 1,
-  "traded": 59,
-  "skipped": 157,
+  "traded": 60,
+  "skipped": 162,
   "expired": 120
  }
 }
