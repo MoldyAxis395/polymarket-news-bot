@@ -2556,7 +2556,7 @@
 "pick": "I capitolini sono decisamente favoriti nella sfida casalinga con il Cagliari e penso che riusciranno a conquistare i tre punti davanti ai propri tifosi: pertanto, come pronostico base mi affido al segno 1, quotato a 1.30. Attenzione alla proposta Malen marcatore DUO a quota 1.75: il centravanti olandese non segna da tre partite e vuole assolutamente ritrovare la via del gol. Per chi non si accontenta del segno 1, propongo la combo 1 + 1 corner, a moltiplicatore 1.50.",
 "match": "ROMA-CAGLIARI",
 "picked_at": 1793126841.9154024,
-"tries": 71,
+"tries": 72,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2566,7 +2566,7 @@
 "pick": "Il Como ha ritrovato ottime sensazioni nelle ultime settimane e giunge alla trasferta di Torino in grande fiducia. La compagine lombarda ha tutte le carte in regola per centrare il bottino pieno ed espugnare il campo dei granata. Dunque, punto sul segno 2, a moltiplicatore 1.80. Per chi volesse osare meno, consiglio l'esito 2 draw no bet, a quota 1.32 (in caso di pareggio la giocata viene rimborsata).",
 "match": "TORINO-COMO",
 "picked_at": 1793126841.9154024,
-"tries": 71,
+"tries": 72,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2761,22 +2761,25 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/elche-valencia-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
-"status": "pending",
+"status": "traded",
 "pick": "L'Elche ha ricominciato a convincere nelle ultime settimane e la vittoria per 0-3 in casa del Rayo ha davvero cambiato le carte in tavola per il Franjiverde. La sfida al Valencia arriva quindi nel momento giusto. La squadra di Aguirre, infatti, non ha ancora appreso i dittami tattici del tecnico messicano ed è senza vittorie. Mi prendo un semplice Multigol 1-3 casa dal valore di 1.38.",
 "match": "Elche-Valencia",
 "picked_at": 1793367274.3017788,
 "tries": 2,
 "llm_fails": 2,
-"why": "no LLM answer"
+"why": "no LLM answer",
+"market": "Elche CF vs. Valencia CF: Elche CF O/U 1.5",
+"outcome": "Over",
+"map": "approx"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/athletic-bilbao-real-sociedad-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
-"status": "pending",
+"status": "skipped",
 "pick": "La squadra di Terzic ha rialzato la testa dopo la batosta rimediata dal Levante nel recupero della 6° giornata grazie alla goleada sul Getafe. Il San Mames è un fortino, i baschi solitamente non deludono ma l'avversario di questa settimana, la Sociedad, è in un ottimo momento di forma. Matarazzo insegue la Champions mentre Terzic non può sbagliare se vuole accorciare in classifica. Vedo i locali avanti, mi prendo il segno 1X dal valore di 1.35.",
 "match": "Athletic Bilbao-Real Sociedad",
 "picked_at": 1793367274.3017788,
 "tries": 2,
-"why": "no LLM answer",
+"why": "double chance mapped to YES: Will Athletic Club win on 2026-11-01?",
 "llm_fails": 1
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/deportivo-osasuna-statistiche-quote-e-pronostico-2026": {
@@ -2791,39 +2794,89 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/elversberg-mainz-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "traded",
+"pick": "L’Elversberg può giocarsi le proprie carte davanti al pubblico di casa, in una sfida in cui mi aspetto una partita aperta e con occasioni da entrambe le parti. La doppia chance a favore dei padroni di casa, abbinata all’Over 1.5, permette di coprire sia la vittoria sia il pareggio mi piace molto, per me una quota di valore. Esito: Elversberg X2 + Over 1.5 — Quota 1.55",
+"match": "ELVERSBERG-MAINZ",
+"picked_at": 1793370936.6794083,
+"market": "SV 07 Elversberg vs. 1. FSV Mainz 05: O/U 1.5",
+"outcome": "Over",
+"map": "exact"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/augsburg-friburgo-statistiche-quote-e-pronostico": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "Per questa sfida mi piace la possibilità di vedere almeno un gol in entrambe le frazioni. L’Augsburg ha segnato 13 dei suoi 17 gol nel secondo tempo, un dato che evidenzia come la squadra riesca spesso a trovare la via della rete dopo l’intervallo. Dall’altra parte, in 8 delle 9 partite disputate dal Friburgo si sono visti almeno due gol nel primo tempo: una tendenza interessante per una giocata che punta su una gara vivace fin dai primi 45 minuti. Esito: Over 0.5 gol 1° tempo + Over 0.5 gol 2° tempo — Quota 1.45",
+"match": "AUGSBURG-FRIBURGO",
+"picked_at": 1793370936.6794083,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/bayer-leverkusen-stoccarda-statistiche-quote-e-pronostico": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "Sfida interessante tra due squadre che hanno le qualità per rendersi pericolose in fase offensiva. Per questo preferisco evitare di puntare su un vincitore secco e affidarmi a una combo che copra sia la vittoria sia il pareggio del Leverkusen, aggiungendo la possibilità che anche lo Stoccarda riesca a trovare la rete. Esito: Leverkusen 1X + GOAL — Quota 1.70",
+"match": "BAYER LEVERKUSEN-STOCCARDA",
+"picked_at": 1793370936.6794083,
+"tries": 1,
+"why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/schalke-lipsia-statistiche-quote-e-pronostico": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "Per questa partita scelgo un mercato legato alla produzione offensiva dello Schalke. Il Multigol casa 1-2 permette di puntare su una squadra che può segnare almeno una rete, senza richiedere necessariamente una prestazione da più gol. La giocata resta interessante se i padroni di casa riusciranno a sfruttare le occasioni create, anche contro un avversario impegnativo come il Lipsia. Esito: Multigol 1-2 casa — Quota 1.55",
+"match": "SCHALKE-LIPSIA",
+"picked_at": 1793370936.6794083,
+"tries": 1,
+"why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/bayern-monaco-borussia-dortmund-statistiche-quote-e-pronostico": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "È una delle sfide più attese del turno e mi aspetto una partita intensa, nella quale il Bayern proverà a imporre il proprio potenziale offensivo. Invece di puntare direttamente sul segno 1, preferisco un mercato che consenta di coprire un intervallo di reti dei padroni di casa. Il Multigol 2-4 casa è una soluzione da valutare se il Bayern riuscirà a creare il consueto volume di occasioni. Esito: Multigol 2-4 casa — Quota 1.45",
+"match": "BAYERN MONACO-BORUSSIA DORTMUND",
+"picked_at": 1793370936.6794083,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/werder-brema-hoffenheim-statistiche-quote-e-pronostico-2": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "Il Werder ha trovato la rete in tutte e sette le partite considerate, confermando una buona continuità offensiva. Anche l’Hoffenheim ha mostrato una spiccata propensione per le gare ricche di gol, con l’Over 2.5 centrato in tutte e sette le occasioni. Mi aspetto quindi una partita in cui le occasioni non dovrebbero mancare, soprattutto con il passare dei minuti. Esito: Werder Brema segna nel 2° tempo — Quota 1.55",
+"match": "WERDER BREMA-HOFFENHEIM",
+"picked_at": 1793370936.6794083,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/monchengladbach-paderborn-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "Il Gladbach torna a giocare in casa dopo aver ottenuto il primo punto interno, e l’obiettivo sarà dare continuità al risultato e provare a ritrovare una vittoria davanti ai propri tifosi. La squadra arriva inoltre da due vittorie consecutive, una delle quali in Coppa, un momento positivo da sfruttare per affrontare con fiducia questa partita. La doppia chance casalinga è una scelta prudente per dare fiducia ai padroni di casa senza dover necessariamente prevedere una loro vittoria. Esito: Gladbach 1X — Quota 1.30",
+"match": "MONCHENGLADBACH-PADERBORN",
+"picked_at": 1793370936.6794083,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/union-berlino-colonia-statistiche-quote-e-pronostico-2": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "In questa sfida mi concentro sul mercato disciplinare, puntando su una partita in cui possano esserci almeno due cartellini per l’Union Berlino. È una giocata che non dipende direttamente dal risultato finale, ma dall’intensità con cui la squadra affronterà i duelli e le situazioni di gioco. Esito: Union Berlino Over 1.5 cartellini",
+"match": "UNION BERLINO-COLONIA",
+"picked_at": 1793370936.6794083,
+"tries": 1,
+"why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/francoforte-amburgo-statistiche-quote-e-pronostico-2026": {
 "first": 1793338136.3545802,
-"status": "pending"
+"status": "pending",
+"pick": "Per chiudere, scelgo una giocata legata al secondo tempo dell’Eintracht. Il Francoforte avrà l’opportunità di sfruttare la spinta del proprio pubblico e cercare il gol anche nella ripresa, una frazione in cui le partite possono aprirsi e lasciare più spazi. L’obiettivo è che i padroni di casa riescano a segnare almeno una rete dopo l’intervallo. Esito: Eintracht Francoforte segna nel 2° tempo — Quota 1.35",
+"match": "FRANCOFORTE-AMBURGO",
+"picked_at": 1793370936.6794083,
+"tries": 1,
+"why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/ligue-1/le-havre-psg-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793338136.3545802,
