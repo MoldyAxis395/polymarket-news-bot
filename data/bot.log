@@ -23220,3 +23220,27 @@
 2026-10-30 21:53:48   drop[no-market] Talanoa Hufanga (S, Denver Broncos) ruled out: Questionable -> Out [NFL] (ESPN) :: Denver Broncos
 2026-10-30 21:53:48   llm groq-120b: rate limited, skip 234s
 2026-10-30 21:53:49   drop[not-key] Jaylon Tyson (G, Cleveland Cavaliers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Jaylon Tyson: day-to-day
+2026-10-30 21:55:23   drop[team-not-named] Eagles-Commanders Final Injury Report: Saquon Barkley WILL play (Bleeding Green Nation) :: Philadelphia Eagles
+2026-10-30 21:55:24   drop[kind] Commanders add DT Daron Payne to injury report as questionable (NBC Sports) :: other
+2026-10-30 21:55:24   drop[not-key] Tyjae Spears (knee) ruled out Sunday (FantasyPros) :: Tyjae Spears: knee injury
+2026-10-30 22:00:47 indexed 924 markets
+2026-10-30 22:02:35   drop[1-source] Steelers Lose Two CBs to Injury Against Browns (Sports Illustrated) :: Pittsburgh Steelers, wait 2nd source
+2026-10-30 22:04:42   drop[not-key] RJ Harvey Ruled out for Sunday's game (Fantasy Footballers Podcast) :: R.J. Harvey: injury
+2026-10-30 22:04:42   llm groq-120b: rate limited, skip 130s
+2026-10-30 22:04:42   drop[not-key] Jaylen Waddle questionable, RJ Harvey ruled out for Broncos-Chiefsharvey (NBC Sports) :: RJ Harvey: injury
+2026-10-30 22:06:59   drop[1-source] Press Conference: Jim Harbaugh on Players Returning From Injury Ahead of Rams Matchup (Los Angeles Chargers) :: Jim Harbaugh, wait 2nd source
+2026-10-30 22:07:01   llm groq-120b: rate limited, skip 238s
+2026-10-30 22:07:02   drop[not-key] KaVontae Turpin (WR, Dallas Cowboys) ruled out: Questionable -> Out [NFL] (ESPN) :: KaVontae Turpin: ruled out
+2026-10-30 22:10:44 indexed 917 markets
+2026-10-30 22:13:51   drop[kind] Rams Injury Report: Multiple Key Starters Questionable vs. Chargers in Week 8 (Sports Illustrated) :: other
+2026-10-30 22:15:29   drop[kind] Texas federal judge fails to appear for judicial misconduct investigative hearing reut.rs/ (Reuters) :: other
+2026-10-30 22:16:09   llm groq-120b: rate limited, skip 331s
+2026-10-30 22:16:09   drop[unconfirmed] Broncos rule RJ Harvey, Talanoa Hufanga out against Chiefs, slew of key players questionab (The Denver Post) :: injury
+2026-10-30 22:18:15   drop[unconfirmed] Dee Winters (LB, Dallas Cowboys) ruled out: Questionable -> Out [NFL] (ESPN) :: calf injury
+2026-10-30 22:18:27   drop[1-source] NYPD won't enforce NYC's bus fare while MTA security force is suspended (Gothamist) :: NYC Transit (MTA), wait 2nd source
+2026-10-30 22:18:27   drop[1-source] Bengals officially declare one player out, another questionable for Week 8 matchup against (A to Z Sports) :: Joe Mixon, wait 2nd source
+2026-10-30 22:20:46 indexed 910 markets
+2026-10-30 22:23:09   drop[kind] Timing of Surgical Intervention for Traumatic Spinal Injury and Its Association With 30-Da (Cureus) :: other
+2026-10-30 22:23:09   llm groq-120b: rate limited, skip 204s
+2026-10-30 22:23:09   drop[kind] George Pickens Injury: Questionable for Sunday (RotoWire) :: other
+2026-10-30 22:23:10   drop[not-key] Report: Senators place forward Warren Foegele on IL with knee injury (Sportsnet.ca) :: Warren Foegele: knee injury
