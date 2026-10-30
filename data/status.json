@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-30T23:55:06",
+ "updated": "2026-10-31T00:24:51",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 733,
- "markets_indexed": 929,
- "news_processed": 280,
+ "llm_calls_today": 754,
+ "markets_indexed": 939,
+ "news_processed": 303,
  "cash": 72.82,
- "equity": 82.65,
+ "equity": 82.82,
  "start": 100.0,
  "open": [
   {
@@ -24,7 +24,7 @@
    "reason": "llm[groq-20b] trusted: Jaylen Brown ruled out weakens 76ers, boosting Knicks odds",
    "conf": 0.65,
    "end": "2026-10-30T23:30:00+00:00",
-   "last_bid": 0.57,
+   "last_bid": 0.58,
    "book_err": false
   }
  ],
@@ -35,24 +35,22 @@
    "groq-20b"
   ],
   "fallbacks": 12,
-  "errors": {
-   "groq-120b": "rate limited, skip 1023s"
-  },
+  "errors": {},
   "rejects": {
    "no-pick": 7,
    "not-key": 35,
-   "unconfirmed": 12,
-   "verify": 8,
-   "side": 2,
-   "fluff": 40,
-   "team-not-named": 15,
-   "kind": 23,
-   "1-source": 16,
+   "unconfirmed": 14,
+   "verify": 9,
+   "side": 3,
+   "fluff": 43,
+   "team-not-named": 16,
+   "kind": 27,
+   "1-source": 17,
    "no-market": 4
   },
   "calls": {
-   "groq-120b": 392,
-   "groq-20b": 341
+   "groq-120b": 403,
+   "groq-20b": 351
   }
  },
  "realized_pnl": -17.18

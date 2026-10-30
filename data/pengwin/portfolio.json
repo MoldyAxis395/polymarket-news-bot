@@ -52,7 +52,7 @@
    "reason": "pengwin approx: approx via Elche O/U 1.5 Over",
    "conf": 1.0,
    "end": "2026-11-01T17:30:00+00:00",
-   "last_bid": 0.4,
+   "last_bid": 0.39,
    "book_err": false
   },
   {
@@ -142,7 +142,7 @@
    "reason": "pengwin approx: home team over 2.5 approximates 2-4",
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.55,
+   "last_bid": 0.54,
    "book_err": false
   },
   {

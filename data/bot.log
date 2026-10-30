@@ -23306,3 +23306,26 @@
 2026-10-30 23:46:29   drop[not-key] Warren Foegele Injury and Other Ottawa Senators News (Last Word On Sports) :: Warren Foegele: injury
 2026-10-30 23:48:47   drop[team-not-named] ZTS Suspended by BTIG -- Rating Maintained at Buy (GuruFocus) :: Zions Bancorporation
 2026-10-30 23:51:07 indexed 929 markets
+2026-10-30 23:57:15   drop[side] Obi Toppin (F, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Pacers vs. Heat -> Pacers vs fact ruled_out: Obi Toppin (Indiana Pacers, nba), bad for Indiana Pacers. lower-back sorene
+2026-10-31 00:00:24   drop[kind] Inside story: Freak injury that left Cat facing stroke risk — or worse (Herald Sun) :: other
+2026-10-31 00:01:09 indexed 935 markets
+2026-10-31 00:05:01   drop[unconfirmed] Commanders DT Daron Payne Suffers ‘Significant’ Foot Injury, Possibly Out For Season (NFLTradeRumors.co) :: significant foot injury may sideline him for season
+2026-10-31 00:05:02   drop[team-not-named] Rapsheet: ‘Significant’ injury for Daron Payne (NBC Sports) :: Washington Commanders
+2026-10-31 00:05:03   drop[1-source] Key Winger Reserve Ruled Out vs. Bucks, Injuries Hitting Cavaliers Early in Season (Sports Illustrated) :: Cleveland Cavaliers, wait 2nd source
+2026-10-31 00:05:22   llm groq-120b: rate limited, skip 8s
+2026-10-31 00:05:24 NEWS [ESPN 6m] Daron Payne (DT, Washington Commanders) ruled out: healthy -> Out [NFL]
+2026-10-31 00:05:24   skip Eagles :: Eagles vs. Commanders (illiquid)
+2026-10-31 00:09:39   llm groq-120b: rate limited, skip 91s
+2026-10-31 00:09:42   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-31 00:09:42   drop[verify] Commanders Injury News: Daron Payne suffers “significant foot injury” (Hogs Haven) :: no answer
+2026-10-31 00:09:42   drop[kind] Denver Broncos: RJ Harvey’s knee injury is not believed to be serious (Mile High Report) :: other
+2026-10-31 00:09:43   drop[unconfirmed] Commanders’ $90 Million Pro Bowler Ruled Out for ‘Foreseeable Future’ (heavy.com) :: player ruled out
+2026-10-31 00:11:11 indexed 939 markets
+2026-10-31 00:16:39 NEWS [ClutchPoints 3m] Commanders news: Daron Payne heading to IR after suffering significant foot injury
+2026-10-31 00:16:39   skip Eagles :: Eagles vs. Commanders (low conf 0.6)
+2026-10-31 00:21:11 indexed 939 markets
+2026-10-31 00:22:01   llm groq-120b: rate limited, skip 90s
+2026-10-31 00:22:01   drop[kind] Acute kidney injury up for older patients, men with OD-involved hospitalization (Medical Xpress) :: other
+2026-10-31 00:23:44 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-31 00:24:47   drop[kind] Kucherov doesn’t have a full no trade. It’s a modified no trade, 10-team list of approved  (Pierre LeBrun) :: other
+2026-10-31 00:25:13   SELL Knicks @ 0.580 (market closing) pnl +0.00 :: Knicks vs. 76ers
