@@ -22494,3 +22494,14 @@
 2026-10-30 02:45:22   drop[1-source] Ravens news: Kyle Hamilton eases concerns about knee injury after returning to practice (ClutchPoints) :: Kyle Hamilton, wait 2nd source
 2026-10-30 02:47:27   llm groq-120b: rate limited, skip 99s
 2026-10-30 02:47:28   drop[1-source] UCLA’s ‘Heartbroken’ Nico Iamaleava Makes Career Announcement After Season-Ending Injury (EssentiallySports) :: Nico Iamaleava, wait 2nd source
+2026-10-30 02:49:46   drop[no-market] Packers' Christian Watson hospitalized with chest injury after posting 100-yard first half (CBS Sports) :: Green Bay Packers
+2026-10-30 02:55:03 indexed 876 markets
+2026-10-30 02:59:00   drop[kind] Panthers' ailing secondary loses rookie CB Will Lee to injury; return doubtful (ABC11 News) :: other
+2026-10-30 03:00:10   drop[not-key] Andrei Iosivas (WR, Cincinnati Bengals) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: Andrei Iosivas: placed on injured reserve
+2026-10-30 03:05:05 indexed 892 markets
+2026-10-30 03:08:14   drop[no-market] Packers' Christian Watson taken to hospital with chest injury (ESPN) :: Green Bay Packers
+2026-10-30 03:13:04   drop[kind] Kansas State QB Jacob Knuth still doubtful to play at Colorado (The Topeka Capital-Journal) :: other
+2026-10-30 03:15:06 indexed 888 markets
+2026-10-30 03:15:10   llm groq-120b: rate limited, skip 26s
+2026-10-30 03:15:10   drop[no-market] Christian Watson taken to hospital with chest injury in Packers scare (New York Post) :: Green Bay Packers
+2026-10-30 03:15:11   drop[no-market] Packers WR Christian Watson returning to Lambeau Field after leaving first half in ambulan (Yahoo) :: Green Bay Packers
