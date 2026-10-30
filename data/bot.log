@@ -22834,3 +22834,32 @@
 2026-10-30 15:07:32   llm groq-20b: rate limited, skip 1s
 2026-10-30 15:07:32 [pengwin] Athletic Bilbao-Real Sociedad: no LLM answer (try 2)
 2026-10-30 15:08:15   drop[team-not-named] A.J. Brown’s troubling Patriots injury bubbles up with ‘degenerative’ issue (New York Post) :: Philadelphia Eagles
+2026-10-30 15:14:19 indexed 996 markets
+2026-10-30 15:15:23   drop[kind] The biggest injury question for the Miami Dolphins in Week 8 belongs to their opponent (A to Z Sports) :: other
+2026-10-30 15:15:27   drop[kind] Strikes on camp in Ethiopia kill at least 15, sources say reut.rs/4iP9Fbi (Reuters) :: other
+2026-10-30 15:20:06   llm groq-120b: rate limited, skip 114s
+2026-10-30 15:20:10   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-30 15:20:10   drop[verify] The Panthers have fired their defensive coordinator, Ejiro Evero (Ian Rapoport) :: no answer
+2026-10-30 15:20:37 NEWS [Fabrizio Romano 1m] 🔴⚫️🇺🇸 Official, confirmed. Christian Pulisic signs new deal at AC Milan until June 2031.
+2026-10-30 15:20:37   skip Yes :: Will AC Milan win on 2026-10-31? (low conf 0.6)
+2026-10-30 15:22:03   llm groq-120b: rate limited, skip 128s
+2026-10-30 15:22:04   drop[1-source] Brentford v Nottingham Forest Premier League team news: Fábio Carvalho out injured until i (Brentford FC) :: Fábio Carvalho, wait 2nd source
+2026-10-30 15:24:20 indexed 989 markets
+2026-10-30 15:26:43   drop[kind] Chelsea handed another significant injury blow (Yahoo Sports) :: other
+2026-10-30 15:29:02   drop[kind] Cops: Mastic Man Charged with Driving with License Suspended 59 Times on 16 Different Date (LongIsland.com) :: other
+2026-10-30 15:31:19   llm groq-120b: rate limited, skip 128s
+2026-10-30 15:31:21   drop[no-pick] Leeds United news: Tyler Adams' stay ruined by injury - Adam Pope (BBC) :: no relevant market for Leeds United's next game
+2026-10-30 15:34:21 indexed 995 markets
+2026-10-30 15:37:43 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 72)
+2026-10-30 15:37:45 [pengwin] TORINO-COMO: no Polymarket event (try 72)
+2026-10-30 15:38:06   llm groq-120b: rate limited, skip 338s
+2026-10-30 15:38:07 [pengwin]   BUY Over @ 0.428 x23.4 ($10.00) :: Elche CF vs. Valencia CF: Elche CF O/U 1.5
+2026-10-30 15:38:13 [pengwin] skip Athletic Bilbao-Real Sociedad [1X]: double chance mapped to YES: Will Athletic Club win on 2026-11-01?
+2026-10-30 15:38:17   drop[kind] Mikel Arteta Reveals Major Injury Boosts Ahead of Liverpool Trip (roundtable.io) :: other
+2026-10-30 15:38:18 [pengwin]   BUY Over @ 0.860 x11.6 ($10.00) :: SV 07 Elversberg vs. 1. FSV Mainz 05: O/U 1.5
+2026-10-30 15:38:21   llm groq-20b: rate limited, skip 18s
+2026-10-30 15:38:21 [pengwin] AUGSBURG-FRIBURGO: no LLM answer (try 1)
+2026-10-30 15:38:23 [pengwin] BAYER LEVERKUSEN-STOCCARDA: no Polymarket event (try 1)
+2026-10-30 15:38:25 [pengwin] SCHALKE-LIPSIA: no Polymarket event (try 1)
+2026-10-30 15:38:28 [pengwin] BAYERN MONACO-BORUSSIA DORTMUND: no LLM answer (try 1)
+2026-10-30 15:38:31 [pengwin] WERDER BREMA-HOFFENHEIM: no LLM answer (try 1)
