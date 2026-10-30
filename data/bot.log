@@ -22885,3 +22885,37 @@
 2026-10-30 16:03:37   drop[1-source] 'Fighting for People, Not Corporations': Florida Democrat's Instagram Account Suspended by (The Nerd Stash) :: Democratic Party (Florida), wait 2nd source
 2026-10-30 16:04:22 indexed 985 markets
 2026-10-30 16:06:52   drop[kind] Six dead after helicopter crashes in northern Indian state (BBC) :: other
+2026-10-30 16:08:38   llm groq-120b: rate limited, skip 162s
+2026-10-30 16:08:38   drop[team-not-named] Man who admitted dangerous driving given suspended sentence after 10-mile police chase (LincsOnline) :: 
+2026-10-30 16:08:45 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 73)
+2026-10-30 16:08:47 [pengwin] TORINO-COMO: no Polymarket event (try 73)
+2026-10-30 16:08:56 [pengwin]   BUY Over @ 0.820 x12.2 ($10.00) :: Chelsea FC vs. Manchester United FC: O/U 1.5
+2026-10-30 16:09:00 [pengwin] skip COVENTRY CITY-SUNDERLAND [Under 10.5 corners]: no matching market
+2026-10-30 16:09:03 [pengwin] skip HULL CITY-IPSWICH TOWN [Hull casa over 1.5 cartellini]: No Polymarket market covers Hull City yellow cards
+2026-10-30 16:09:08   llm groq-20b: rate limited, skip 4s
+2026-10-30 16:09:08 [pengwin] BOURNEMOUTH-LEEDS UNITED: no LLM answer (try 1)
+2026-10-30 16:09:10 [pengwin] MANCHESTER CITY-BRIGHTON: no LLM answer (try 1)
+2026-10-30 16:09:22 [pengwin]   BUY Over @ 0.790 x12.7 ($10.00) :: FC Augsburg vs. SC Freiburg: 1st Half O/U 0.5
+2026-10-30 16:09:25   llm groq-20b: rate limited, skip 8s
+2026-10-30 16:09:25 [pengwin] BAYER LEVERKUSEN-STOCCARDA: no LLM answer (try 2)
+2026-10-30 16:09:27 [pengwin] SCHALKE-LIPSIA: no Polymarket event (try 2)
+2026-10-30 16:09:30 [pengwin] BAYERN MONACO-BORUSSIA DORTMUND: no LLM answer (try 2)
+2026-10-30 16:09:33 [pengwin] WERDER BREMA-HOFFENHEIM: no LLM answer (try 2)
+2026-10-30 16:09:37 [pengwin] skip MONCHENGLADBACH-PADERBORN [Gladbach 1X]: no double‑chance market available
+2026-10-30 16:09:40   llm groq-20b: rate limited, skip 10s
+2026-10-30 16:09:40 [pengwin] UNION BERLINO-COLONIA: no LLM answer (try 2)
+2026-10-30 16:09:42 [pengwin] FRANCOFORTE-AMBURGO: no Polymarket event (try 2)
+2026-10-30 16:10:38 bluesky error x1: HTTPSConnectionPool(host='public.api.bsky.app', port=443): Read timed out. (read timeout=15)
+2026-10-30 16:10:44   drop[team-not-named] GP suspended after tribunal finds 'serious patient safety concerns' (The Wiltshire Gazette and Herald) :: 
+2026-10-30 16:14:25 indexed 987 markets
+2026-10-30 16:15:15 bluesky error x1: HTTPSConnectionPool(host='public.api.bsky.app', port=443): Read timed out. (read timeout=15)
+2026-10-30 16:17:55   drop[1-source] PADEL. “It makes me really angry not to be able to help the national team at the World Cha (Tennis Tonic) :: Juan Lebrón Galán, wait 2nd source
+2026-10-30 16:22:21   drop[kind] Cyclist suffers traumatic brain injury in road rage attack (Discover SWNS) :: other
+2026-10-30 16:24:35 indexed 981 markets
+2026-10-30 16:27:10   drop[kind] Acute Kidney Injury Market and Pipeline Appear Robust With Key Pharma Companies Actively W (StreetInsider) :: other
+2026-10-30 16:27:10   drop[1-source] Ja Morant Exits Blazers' Loss To Grizzlies With Hamstring Injury (RealGM) :: Ja Morant, wait 2nd source
+2026-10-30 16:34:33 indexed 972 markets
+2026-10-30 16:36:27   drop[kind] Roberto De Zerbi reveals Tottenham 'mistake' amid defensive injury woes (London Evening Standard) :: other
+2026-10-30 16:36:27   llm groq-120b: rate limited, skip 22s
+2026-10-30 16:36:27   drop[unconfirmed] Ribbons returns from injury as Pirates target first away win of the season (Cornish times) :: player returns
+2026-10-30 16:38:30   drop[kind] Hull school teacher given suspended sentence over sexual messages to pupil (Rayo) :: other

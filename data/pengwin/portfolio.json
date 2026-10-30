@@ -1,5 +1,5 @@
 {
- "cash": 84.11614327102225,
+ "cash": 64.11614327102225,
  "positions": [
   {
    "market_id": "5797216",
@@ -88,7 +88,43 @@
    "reason": "pengwin exact: replicates the Over 1.5 leg of the combo",
    "conf": 1.0,
    "end": "2026-10-30T19:30:00+00:00",
-   "last_bid": 0.84,
+   "last_bid": 0.83,
+   "book_err": false
+  },
+  {
+   "market_id": "5856822",
+   "question": "Chelsea FC vs. Manchester United FC: O/U 1.5",
+   "slug": "epl-che-mun-2026-10-31-total-1pt5",
+   "outcome": "Over",
+   "token": "19805731535723309782446777706145942439483996586757314892154888035358891311580",
+   "shares": 12.195121951219512,
+   "entry": 0.82,
+   "cost": 10.0,
+   "opened": 1793372936.4205647,
+   "opened_iso": "2026-10-30T15:08:56+00:00",
+   "news": "CHELSEA-MANCHESTER UNITED: OVER 1.5 (approssimato)",
+   "reason": "pengwin approx: replicates over leg of combo",
+   "conf": 1.0,
+   "end": "2026-10-31T12:30:00+00:00",
+   "last_bid": 0.81,
+   "book_err": false
+  },
+  {
+   "market_id": "5856542",
+   "question": "FC Augsburg vs. SC Freiburg: 1st Half O/U 0.5",
+   "slug": "bun-aug-fre-2026-10-31-first-half-total-0pt5",
+   "outcome": "Over",
+   "token": "98734388666110738108677415699996235444139745111881921625523256461281021830907",
+   "shares": 12.658227848101266,
+   "entry": 0.79,
+   "cost": 10.0,
+   "opened": 1793372962.5341005,
+   "opened_iso": "2026-10-30T15:09:22+00:00",
+   "news": "AUGSBURG-FRIBURGO: 1st Half O/U 0.5 Over (approssimato)",
+   "reason": "pengwin approx: replicates one leg of the combo",
+   "conf": 1.0,
+   "end": "2026-10-31T14:30:00+00:00",
+   "last_bid": 0.77,
    "book_err": false
   }
  ],
