@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T21:24:38",
+ "updated": "2026-10-30T21:54:16",
  "start": 100.0,
  "cash": 0.0,
- "equity": 132.4,
+ "equity": 131.38,
  "open": [
   {
    "market_id": "5797216",
@@ -19,7 +19,7 @@
    "reason": "pengwin exact: home win",
    "conf": 1.0,
    "end": "2026-10-30T20:00:00+00:00",
-   "last_bid": 0.63,
+   "last_bid": 0.57,
    "book_err": false
   },
   {
@@ -37,7 +37,7 @@
    "reason": "pengwin approx: represents 1X double chance as home win",
    "conf": 1.0,
    "end": "2026-11-02T20:00:00+00:00",
-   "last_bid": 0.44,
+   "last_bid": 0.43,
    "book_err": false
   },
   {
@@ -163,7 +163,7 @@
    "reason": "pengwin approx: approximate lower bound of multigol 1-3",
    "conf": 1.0,
    "end": "2026-10-31T15:00:00+00:00",
-   "last_bid": 0.82,
+   "last_bid": 0.81,
    "book_err": false
   },
   {
@@ -235,7 +235,7 @@
    "reason": "pengwin exact: X2 = No on Juventus win",
    "conf": 1.0,
    "end": "2026-11-01T19:45:00+00:00",
-   "last_bid": 0.57,
+   "last_bid": 0.58,
    "book_err": false
   },
   {

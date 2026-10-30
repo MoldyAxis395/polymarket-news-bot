@@ -23185,3 +23185,38 @@
 2026-10-30 21:20:36   drop[kind] Popular hair products recalled over ‘serious injury’ and ‘poisoning’ risks: Return ASAP (MLive.com) :: other
 2026-10-30 21:21:00 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-10-30 21:22:52   drop[unconfirmed] Lions CB is questionable as pair of stars are off the injury report vs. Vikings (MLive.com) :: CB questionable
+2026-10-30 21:25:23   drop[1-source] Amon-Ra St. Brown, Jahmyr Gibbs off injury report, will play in Week 8 (The Detroit News) :: Detroit Lions, wait 2nd source
+2026-10-30 21:25:24   llm groq-120b: rate limited, skip 51s
+2026-10-30 21:25:24   drop[no-pick] Avalanche’s Josh Manson out eight weeks with ankle injury (Yardbarker) :: no outcome is expected to rise by 5+ points
+2026-10-30 21:25:46   drop[not-key] Kadyn Proctor (OT, Miami Dolphins) ruled out: Questionable -> Out [NFL] (ESPN) :: Kadyn Proctor: injury
+2026-10-30 21:26:47   llm groq-120b: rate limited, skip 71s
+2026-10-30 21:26:48   drop[not-key] Brenen Thompson (WR, Los Angeles Chargers) ruled out: Questionable -> Out [NFL] (ESPN) :: Brenen Thompson: injury
+2026-10-30 21:27:28   drop[kind] Jaylen Brown Injury: Downgraded to doubtful (RotoWire) :: other
+2026-10-30 21:29:46   llm groq-120b: rate limited, skip 41s
+2026-10-30 21:29:47 NEWS [ESPN 2m] Eagles' Saquon Barkley carries no injury designation for Commanders matchup
+2026-10-30 21:29:47   skip Eagles :: Eagles vs. Commanders (low conf 0.6)
+2026-10-30 21:30:33 indexed 939 markets
+2026-10-30 21:30:52   llm groq-120b: rate limited, skip 64s
+2026-10-30 21:30:53   drop[side] Filip Chytil (C, Vancouver Canucks) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Maple Leafs vs. Canucks -> Canucks vs fact ruled_out: Filip Chytil (Vancouver Canucks, nhl), bad for Vancouver Canucks. 
+2026-10-30 21:31:37   drop[team-not-named] Medvedev clinches ATP Finals berth by reaching Vienna semi-finals reut.rs/4zX9KPU (Reuters) :: Russia
+2026-10-30 21:32:09   llm groq-120b: rate limited, skip 65s
+2026-10-30 21:32:10   drop[not-key] FSU Basketball: AJ Swinton suspended indefinitely for violation of team rules (247Sports) :: AJ Swinton: violation of team rules
+2026-10-30 21:32:10   drop[team-not-named] DeVonta Smith Ruled out for Sunday's game (Fantasy Footballers Podcast) :: Philadelphia Eagles
+2026-10-30 21:34:56   drop[not-key] Deane Leonard (CB, Los Angeles Chargers) ruled out: Questionable -> Out [NFL] (ESPN) :: Deane Leonard: ruled out due to injury
+2026-10-30 21:34:56   llm groq-120b: rate limited, skip 155s
+2026-10-30 21:34:57   drop[no-pick] Derwin James Jr. (S, Los Angeles Chargers) ruled out: Doubtful -> Out [NFL] (ESPN) :: short
+2026-10-30 21:34:57   drop[not-key] Kayode Awosika (G, Los Angeles Chargers) ruled out: Questionable -> Out [NFL] (ESPN) :: Kayode Awosika: injury
+2026-10-30 21:36:44   drop[not-key] Lions list DB as questionable, rule out Kerby Joseph in Friday injury report (Lions Wire) :: Kerby Joseph: injury
+2026-10-30 21:36:45   drop[kind] Jaguars WR Jakobi Meyers questionable for Week 8 game vs. Colts (Jaguars Wire) :: other
+2026-10-30 21:39:04   drop[not-key] Tyjae Spears Ruled out for Sunday's game (Fantasy Footballers Podcast) :: Tyjae Spears: injury
+2026-10-30 21:40:33 indexed 938 markets
+2026-10-30 21:43:38   drop[not-key] Isaiah Joe (G, Detroit Pistons) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Isaiah Joe: right hip contusion
+2026-10-30 21:48:16   drop[kind] Injury Report: CB Pat Surtain II not assigned game status, 4 Broncos listed as questionabl (Denver Broncos) :: other
+2026-10-30 21:50:44 indexed 930 markets
+2026-10-30 21:50:45   llm groq-120b: rate limited, skip 62s
+2026-10-30 21:50:45   drop[no-market] RJ Harvey (RB, Denver Broncos) ruled out: Questionable -> Out [NFL] (ESPN) :: Denver Broncos
+2026-10-30 21:50:49   drop[team-not-named] CMU wide receiver suspended after arrest (WSMH) :: Central Michigan Chippewas
+2026-10-30 21:50:49   drop[1-source] Daron Payne’s New Foot Injury Leaves the Commanders’ Interior Line Thin for the Eagles (Athlon Sports) :: Daron Payne, wait 2nd source
+2026-10-30 21:53:48   drop[no-market] Talanoa Hufanga (S, Denver Broncos) ruled out: Questionable -> Out [NFL] (ESPN) :: Denver Broncos
+2026-10-30 21:53:48   llm groq-120b: rate limited, skip 234s
+2026-10-30 21:53:49   drop[not-key] Jaylon Tyson (G, Cleveland Cavaliers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Jaylon Tyson: day-to-day
