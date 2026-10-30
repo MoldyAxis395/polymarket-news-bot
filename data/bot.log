@@ -23142,3 +23142,46 @@
 2026-10-30 20:52:30   drop[team-not-named] Ja Morant Injury Forces Blazers to Rethink Offense After 3-0 Start (roundtable.io) :: Memphis Grizzlies
 2026-10-30 20:53:31   drop[verify] Tommy Townsend (P, Tennessee Titans) ruled out: Questionable -> Out [NFL] (ESPN) :: player not on Titans
 2026-10-30 20:54:47   drop[team-not-named] Polish president en route to Senegal turns back as top court chief suspended (TRT Afrika) :: Poland
+2026-10-30 20:56:32 NEWS [ESPN 0m] Tyjae Spears (RB, Tennessee Titans) ruled out: Questionable -> Out [NFL]
+2026-10-30 20:56:32   skip Bengals :: Titans vs. Bengals (low conf 0.6)
+2026-10-30 20:56:47   drop[kind] ❤️💙 Luis Enrique becomes the manager with most wins in Paris Saint-Germain history. 127 wi (Fabrizio Romano) :: other
+2026-10-30 20:57:16   llm groq-120b: rate limited, skip 184s
+2026-10-30 20:57:18   drop[verify] Avalanche's Josh Manson out approximately eight weeks with ankle injury (Sportsnet.ca) :: Manson depth, market not injury-specific, uncertain newness
+2026-10-30 20:59:21   drop[kind] BPD Detectives arrest suspect on four counts of Injury to Child (City of Boise) :: other
+2026-10-30 20:59:21   drop[not-key] DeVonta, Dontayvion Wicks ruled out for Week 8 (NBC Sports) :: Dontayvion Wicks: injury
+2026-10-30 21:00:29 indexed 934 markets
+2026-10-30 21:01:18   drop[kind] USA vs England LIVE! Red Roses seek WXV response after two shock defeats (Sky Sports) :: other
+2026-10-30 21:02:04   llm groq-120b: rate limited, skip 284s
+2026-10-30 21:02:05   drop[not-key] Dontayvion Wicks ruled out for Week 8 (NBC Sports) :: Dontayvion Wicks: injury
+2026-10-30 21:02:05   drop[1-source] Saquon Barkley to play vs. Commanders; 5 others ruled out for Week 8 (Eagles Wire) :: Saquon Barkley, wait 2nd source
+2026-10-30 21:04:21   drop[no-pick] Friday Quick Hits: Johnson Ruled Out for Sunday (Jacksonville Jaguars) :: no suitable market
+2026-10-30 21:04:22   drop[not-key] Bengals vs. Titans Injury Report: Carnell Tate out; Calvin Ridley questionable (Cincy Jungle) :: Carnell Tate: out
+2026-10-30 21:04:22   drop[1-source] Sean Brady reveals the injury that forced him out of UFC Vegas 124 main event (MMA Fighting) :: Sean Brady, wait 2nd source
+2026-10-30 21:04:59   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-30 21:04:59   drop[verify] Jonathan Jones (CB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: no answer
+2026-10-30 21:04:59   drop[not-key] Britain Covey (WR, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: Britain Covey: injury
+2026-10-30 21:05:02   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-30 21:05:02   drop[verify] DeVonta Smith (WR, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: no answer
+2026-10-30 21:05:03   drop[not-key] Dontayvion Wicks (WR, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: Dontayvion Wicks: injury
+2026-10-30 21:05:03   drop[not-key] Jihaad Campbell (LB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] (ESPN) :: Jihaad Campbell: injury
+2026-10-30 21:06:50   llm groq-120b: rate limited, skip 36s
+2026-10-30 21:06:51   drop[unconfirmed] Dolphins rule out 1, list 2 as questionable for Week 8 vs. Patriots (Dolphins Wire) :: player ruled out
+2026-10-30 21:08:56   drop[unconfirmed] Ja Morant injury: Trail Blazers star expected to miss at least four weeks with hamstring s (CBS Sports) :: expected to miss at least four weeks with a hamstring strain
+2026-10-30 21:08:56   llm groq-120b: rate limited, skip 255s
+2026-10-30 21:08:57   drop[kind] Boise teen arrested on four felony child injury counts after infant hurt at daycare (KBOI) :: other
+2026-10-30 21:08:57   drop[not-key] Jaguars-Colts Final Injury Report: Antonio Johnson Ruled Out (Big Cat Country) :: Antonio Johnson: injury
+2026-10-30 21:10:27 indexed 921 markets
+2026-10-30 21:11:17   drop[kind] Mariners prospect has surgery to address 'chronic injury' (The Seattle Times) :: other
+2026-10-30 21:11:17   drop[kind] Canucks' Filip Chytil Being Evaluated For Upper-Body Injury (The Hockey News) :: other
+2026-10-30 21:13:37   drop[1-source] Broncos RB RJ Harvey not at practice after suffering knee injury (Colorado Springs Gazette) :: RJ Harvey, wait 2nd source
+2026-10-30 21:13:37   llm groq-120b: rate limited, skip 218s
+2026-10-30 21:13:37   drop[team-not-named] Stefon Diggs cleared off Week 8 injury report (NBC Sports) :: Buffalo Bills
+2026-10-30 21:13:38   drop[team-not-named] Saquon Barkley set to play, DeVonta Smith ruled out (NBC Sports) :: Philadelphia Eagles
+2026-10-30 21:14:34   drop[unconfirmed] Ziaire Williams (F, Los Angeles Lakers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: left foot injury
+2026-10-30 21:16:05   drop[team-not-named] Carnell Tate Ruled out for Week 8 (Fantasy Footballers Podcast) :: New York Jets
+2026-10-30 21:20:31 indexed 929 markets
+2026-10-30 21:20:35   llm groq-120b: rate limited, skip 194s
+2026-10-30 21:20:35   drop[team-not-named] Derwin James ruled out for Week 8 against Rams (NBC Sports) :: Tampa Bay Buccaneers
+2026-10-30 21:20:36   drop[kind] Popular hair products recalled over ‘serious injury’ and ‘poisoning’ risks: Return ASAP (MLive.com) :: other
+2026-10-30 21:21:00 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-30 21:22:52   drop[unconfirmed] Lions CB is questionable as pair of stars are off the injury report vs. Vikings (MLive.com) :: CB questionable
