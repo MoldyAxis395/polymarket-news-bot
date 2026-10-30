@@ -23058,3 +23058,37 @@
 2026-10-30 18:07:00   drop[side] Stade Rennais confirmed lineup vs Nice: Brice Samba, Mahdi Camara ruled out of starting XI (ESPN) :: Will Stade Rennais FC 1901 win on 2026-10-31? -> Yes vs fact ruled_out: Brice Samba (Stade Rennais, soccer), bad for Sta
 2026-10-30 18:07:10   drop[kind] 4 injury crashes reported in 1 day in Longmont (Police notes) (Longmont Times-Call) :: other
 2026-10-30 18:07:10   drop[unconfirmed] England beat Papua New Guinea but World Cup hopes in doubt (BBC) :: win
+2026-10-30 18:09:20 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 77)
+2026-10-30 18:09:22 [pengwin] TORINO-COMO: no Polymarket event (try 77)
+2026-10-30 18:09:24   llm groq-120b: rate limited, skip 1s
+2026-10-30 18:09:26   drop[kind] Light rail services suspended as crews investigate crash (WAVY.com) :: other
+2026-10-30 18:09:26 [pengwin]   BUY Yes @ 0.620 x6.6 ($4.12) :: AC Milan vs. FC Internazionale Milano: Both Teams to Score
+2026-10-30 18:09:30   llm groq-120b: rate limited, skip 850s
+2026-10-30 18:09:31 [pengwin] skip BAYER LEVERKUSEN-STOCCARDA [GOAL @0.71]: Bayer 04 Leverkusen vs. VfB Stuttgart: Both Teams to Score -> Yes: no cash
+2026-10-30 18:09:33 [pengwin] SCHALKE-LIPSIA: no Polymarket event (try 6)
+2026-10-30 18:10:03 [pengwin] skip FROSINONE-TORINO [TORINO O/U 1.5 OVER]: Frosinone Calcio vs. Torino FC: Torino FC O/U 1.5 -> Over: no cash
+2026-10-30 18:10:09 [pengwin] skip LAZIO-CAGLIARI [Casa vince a zero No]: no matching market
+2026-10-30 18:10:14 [pengwin] skip LECCE-GENOA [X]: Will US Lecce vs. Genoa CFC end in a draw? -> Yes: no cash
+2026-10-30 18:10:17   llm groq-20b: rate limited, skip 17s
+2026-10-30 18:10:17 [pengwin] SASSUOLO-FIORENTINA: no LLM answer (try 2)
+2026-10-30 18:10:19 [pengwin] ATALANTA-PARMA: no LLM answer (try 2)
+2026-10-30 18:10:58   drop[kind] Josh Heupel believes star RB DeSean Bishop will play in Kentucky vs. Tennessee following i (A Sea Of Blue) :: other
+2026-10-30 18:13:08   drop[not-key] 🚨 Hansi Flick on El Clásico: “We do not like to lose against Real Madrid, but we have to a (Fabrizio Romano) :: Hansi Flick: Barcelona lost to Real Madrid in El Clásico
+2026-10-30 18:14:47 indexed 993 markets
+2026-10-30 18:15:38   drop[1-source] Falcons injury report: RB Brian Robinson Jr. ruled out vs. Buccaneers (Atlanta Falcons) :: Brian Robinson Jr., wait 2nd source
+2026-10-30 18:15:38   drop[not-key] Kerby Joseph misses Lions practice to close week (The Detroit News) :: Kerby Joseph: missed practice
+2026-10-30 18:19:11   drop[unconfirmed] Isiah Pacheco (RB, Detroit Lions) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: injury
+2026-10-30 18:20:16   drop[team-not-named] Brian Robinson (hammy) ruled out vs. Buccaneers (NBC Sports) :: New England Patriots
+2026-10-30 18:21:19   drop[side] Le Havre AC confirmed lineup vs Paris Saint-Germain: Gauthier Gallon, Rassoul Ndiaye, Enzo (ESPN) :: Will Le Havre AC win on 2026-10-30? -> Yes vs fact ruled_out: Mbwana Samatta (Le Havre AC, soccer), bad for Le Havre AC.
+2026-10-30 18:21:20 NEWS [ESPN 0m] Paris Saint-Germain confirmed lineup vs Le Havre AC: Willian Pacho, Marquinhos, Vitinha, Fabián Ruiz, João Neves, Ousmane Dembélé, Désiré Doué, Khvicha Kvaratskhelia ruled out of starting XI [fra.1]
+2026-10-30 18:21:20   skip No :: Will Paris Saint-Germain FC win on 2026-10-30? (low conf 0.6)
+2026-10-30 18:24:48 indexed 984 markets
+2026-10-30 18:24:55   drop[no-pick] Kam Williams is nearing a return from injury but unlikely to play in Kentucky vs. Manhatta (A Sea Of Blue) :: short
+2026-10-30 18:24:55   drop[kind] Ravens' Lamar Jackson takes another step in right direction in injury recover ahead of Bil (ClutchPoints) :: other
+2026-10-30 18:27:23   drop[team-not-named] Brian Robinson Injury: Won't play Sunday (RotoWire) :: Washington Commanders
+2026-10-30 18:31:49   drop[1-source] Mike Hall Jr. back, Tytus Howard questionable for Browns at Steelers (Akron Beacon Journal) :: Mike Hall Jr., wait 2nd source
+2026-10-30 18:34:48 indexed 982 markets
+2026-10-30 18:35:01   llm groq-120b: rate limited, skip 103s
+2026-10-30 18:35:01   drop[unconfirmed] Brian Robinson Jr. (RB, Atlanta Falcons) ruled out: Questionable -> Out [NFL] (ESPN) :: hamstring injury
+2026-10-30 18:36:37   drop[kind] Chelsea goalkeeper Martinez targets early return from broken jaw injury (Blueprint Newspapers) :: other
+2026-10-30 18:38:46   drop[kind] Injury Doubts Over Will Osula As He Twist’s His Ankle In Defeat To Everton (roundtable.io) :: other
