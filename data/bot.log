@@ -22744,3 +22744,14 @@
 2026-10-30 12:11:55   llm groq-120b: rate limited, skip 99s
 2026-10-30 12:11:55   drop[kind] Woman, 81, taken to hospital with head injury after serious collision near Chesterfield (Derbyshire Times) :: other
 2026-10-30 12:13:57 shift over, state saved
+2026-10-30 13:03:19 === start mode=paper pid=2392 ===
+2026-10-30 13:03:19 brain=llm cash=82.82 open=0
+2026-10-30 13:03:19 resuming with 6941 known news items
+2026-10-30 13:03:46 indexed 1023 markets
+2026-10-30 13:04:05 NEWS [ESPN 4m] C.J. Gardner-Johnson (S, Buffalo Bills) cleared to play: Suspension -> Active [NFL]
+2026-10-30 13:04:05   skip Bills :: Ravens vs. Bills (low conf 0.6)
+2026-10-30 13:04:06   drop[team-not-named] Dolphins may not have to deal with A.J. Brown in Week 8 due to another injury (Phin Phanatic) :: Tennessee Titans
+2026-10-30 13:04:06   drop[1-source] Barcelona star ruled out against Alavés: Raphinha's injury grabs the headlines (LiveScore) :: Raphinha, wait 2nd source
+2026-10-30 13:04:56   drop[kind] Google value plunges by $500bn as its own AI search hits ad sales (BBC) :: other
+2026-10-30 13:05:25 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 67)
+2026-10-30 13:05:28 [pengwin] TORINO-COMO: no Polymarket event (try 67)
