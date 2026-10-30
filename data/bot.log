@@ -22585,3 +22585,6 @@
 2026-10-30 06:15:29   llm groq-120b: rate limited, skip 234s
 2026-10-30 06:15:29   drop[no-pick] Kings beat Senators in overtime after Brandt Clarke suffers injury (Los Angeles Times) :: no matching market
 2026-10-30 06:15:30   drop[kind] Branched-Chain Amino Acid Supplements Partially Ease Hormone Disruption After Brain Injury (Bioengineer.org) :: other
+2026-10-30 06:21:02 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-30 06:25:22 indexed 890 markets
+2026-10-30 06:28:41 shift over, state saved
