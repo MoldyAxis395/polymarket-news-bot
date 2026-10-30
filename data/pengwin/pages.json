@@ -2556,7 +2556,7 @@
 "pick": "I capitolini sono decisamente favoriti nella sfida casalinga con il Cagliari e penso che riusciranno a conquistare i tre punti davanti ai propri tifosi: pertanto, come pronostico base mi affido al segno 1, quotato a 1.30. Attenzione alla proposta Malen marcatore DUO a quota 1.75: il centravanti olandese non segna da tre partite e vuole assolutamente ritrovare la via del gol. Per chi non si accontenta del segno 1, propongo la combo 1 + 1 corner, a moltiplicatore 1.50.",
 "match": "ROMA-CAGLIARI",
 "picked_at": 1793126841.9154024,
-"tries": 77,
+"tries": 78,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2566,7 +2566,7 @@
 "pick": "Il Como ha ritrovato ottime sensazioni nelle ultime settimane e giunge alla trasferta di Torino in grande fiducia. La compagine lombarda ha tutte le carte in regola per centrare il bottino pieno ed espugnare il campo dei granata. Dunque, punto sul segno 2, a moltiplicatore 1.80. Per chi volesse osare meno, consiglio l'esito 2 draw no bet, a quota 1.32 (in caso di pareggio la giocata viene rimborsata).",
 "match": "TORINO-COMO",
 "picked_at": 1793126841.9154024,
-"tries": 77,
+"tries": 78,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -2913,7 +2913,7 @@
 "pick": "Per questa partita scelgo un mercato legato alla produzione offensiva dello Schalke. Il Multigol casa 1-2 permette di puntare su una squadra che può segnare almeno una rete, senza richiedere necessariamente una prestazione da più gol. La giocata resta interessante se i padroni di casa riusciranno a sfruttare le occasioni create, anche contro un avversario impegnativo come il Lipsia. Esito: Multigol 1-2 casa — Quota 1.55",
 "match": "SCHALKE-LIPSIA",
 "picked_at": 1793370936.6794083,
-"tries": 6,
+"tries": 7,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/bayern-monaco-borussia-dortmund-statistiche-quote-e-pronostico": {
@@ -3091,23 +3091,23 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/sassuolo-fiorentina-statistiche-quote-e-pronostico-2026": {
 "first": 1793365440.6237967,
-"status": "pending",
+"status": "skipped",
 "pick": "Stagione di alti e bassi per la Viola, che alterna prestazioni offensive di alto livello a una difesa traballante. In trasferta, la squadra toscana ha vinto solo una partita, perdendo invece le altre tre: sono 10 le reti subite lontane da Firenze, con sei gol, invece, segnati. Il Sassuolo, in casa, è reduce da buone prestazioni contro Juventus e Milan, ma nell’ultima giornata ha subito ben sei reti dalla Lazio, palesando così le proprie difficoltà nel reparto arretrato. Punto così sull’esito X2, a quota 1.45.",
 "match": "SASSUOLO-FIORENTINA",
 "picked_at": 1793378226.21915,
 "tries": 2,
 "llm_fails": 2,
-"why": "no LLM answer"
+"why": "Will US Sassuolo Calcio win on 2026-11-02? -> No: no cash"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/atalanta-parma-statistiche-quote-e-pronostico-2026": {
 "first": 1793365440.6237967,
-"status": "pending",
+"status": "skipped",
 "pick": "La Dea ricomincia finalmente a mostrare un buon gioco, come visto in casa della Fiorentina. Al contrario, la formazione crociata non è ancora riuscita a risollevarsi dopo l’arrivo in panchina di Gilardino. Le difficoltà maggiori si sono viste proprio nel reparto difensivo, caposaldo del gioco di Cuesta. In questo momento, la squadra di Sarri sembra riuscire ad attaccare con solidità ed efficacia e potrebbe sfruttare queste caratteristiche per trovare una vittoria agevole Per questo motivo, mi affido all’esito Casa Over 1.5, a quota 1.50 .",
 "match": "ATALANTA-PARMA",
 "picked_at": 1793378226.21915,
 "tries": 2,
 "llm_fails": 2,
-"why": "no LLM answer"
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-b/cremonese-benevento-statistiche-quote-e-pronostico-2026": {
 "first": 1793365440.6237967,
@@ -3139,6 +3139,14 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-b/empoli-juve-stabia-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793380034.0317202,
+"status": "pending"
+},
+"https://www.mondopengwin.it/pronostici/calcio/serie-b/hellas-verona-carrarese-statistiche-quote-e-pronostico-2026": {
+"first": 1793381894.5103526,
+"status": "pending"
+},
+"https://www.mondopengwin.it/pronostici/calcio/serie-b/palermo-vicenza-statistiche-quote-e-pronostico-2026": {
+"first": 1793381894.5103526,
 "status": "pending"
 }
 }

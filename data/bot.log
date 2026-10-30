@@ -23092,3 +23092,15 @@
 2026-10-30 18:35:01   drop[unconfirmed] Brian Robinson Jr. (RB, Atlanta Falcons) ruled out: Questionable -> Out [NFL] (ESPN) :: hamstring injury
 2026-10-30 18:36:37   drop[kind] Chelsea goalkeeper Martinez targets early return from broken jaw injury (Blueprint Newspapers) :: other
 2026-10-30 18:38:46   drop[kind] Injury Doubts Over Will Osula As He Twist’s His Ankle In Defeat To Everton (roundtable.io) :: other
+2026-10-30 18:40:13 [pengwin] page ie-b/benevento-catanzaro-statistiche-quote-e-pronostico-2026: Response ended prematurely
+2026-10-30 18:40:30   llm groq-120b: rate limited, skip 95s
+2026-10-30 18:40:30 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 78)
+2026-10-30 18:40:32 [pengwin] TORINO-COMO: no Polymarket event (try 78)
+2026-10-30 18:40:35 [pengwin] SCHALKE-LIPSIA: no Polymarket event (try 7)
+2026-10-30 18:41:05 [pengwin] skip SASSUOLO-FIORENTINA [X2]: Will US Sassuolo Calcio win on 2026-11-02? -> No: no cash
+2026-10-30 18:41:09 [pengwin] skip ATALANTA-PARMA [Casa Over 1.5]: no matching market
+2026-10-30 18:44:50 indexed 971 markets
+2026-10-30 18:45:53   drop[kind] Report: Injury-ridden Thunder sign ex-Raptor Ochai Agbaji (Sportsnet.ca) :: other
+2026-10-30 18:47:59   llm groq-120b: rate limited, skip 6s
+2026-10-30 18:47:59   drop[unconfirmed] Ravens QB Lamar Jackson finally set to return from ankle injury in Week 8 vs. Bills (ClutchPoints) :: ankle injury cleared
+2026-10-30 18:48:19 shift over, state saved
