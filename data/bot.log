@@ -23288,3 +23288,21 @@
 2026-10-30 23:21:00 indexed 893 markets
 2026-10-30 23:21:09   drop[team-not-named] Santi Aldama Injury: Out again Friday (RotoWire) :: Cleveland Cavaliers
 2026-10-30 23:21:21 [pengwin]   SELL Yes @ 0.000 (resolved) pnl -10.00 :: Will Villarreal CF win on 2026-10-30?
+2026-10-30 23:28:03   drop[not-key] RJ Harvey ruled OUT for Broncos game vs. Chiefs (Mile High Report) :: RJ Harvey: injury
+2026-10-30 23:28:04   drop[kind] St Johnstone star Sam Stanton’s new injury comeback target revealed (The Courier) :: other
+2026-10-30 23:31:05 indexed 893 markets
+2026-10-30 23:35:44   drop[no-market] Cox sets world record to win gold at Worlds (BBC) :: Great Britain
+2026-10-30 23:39:30   llm groq-120b: rate limited, skip 136s
+2026-10-30 23:39:32   drop[verify] Chet Holmgren (C, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: headline doesn't mention knee issue or bad for team
+2026-10-30 23:39:35   drop[kind] Gabby Agbonlahor concerned by tell-all Dejan Kulusevski interview on Tottenham injury (talkSPORT) :: other
+2026-10-30 23:41:03 indexed 934 markets
+2026-10-30 23:41:52   llm groq-120b: rate limited, skip 79s
+2026-10-30 23:41:52   drop[unconfirmed] Ja Morant out multiple weeks in latest early-season NBA injury crusher (New York Post) :: injury
+2026-10-30 23:43:36   llm groq-120b: rate limited, skip 1023s
+2026-10-30 23:43:36 NEWS [ESPN 8m] Alperen Sengun (C, Houston Rockets) ruled out: Day-To-Day -> Out [NBA]
+2026-10-30 23:43:36   skip Mavericks :: Rockets vs. Mavericks (low conf 0.6)
+2026-10-30 23:44:21   drop[unconfirmed] Jaylen Brown is out with a concerning new injury (Larry Brown Sports) :: injury
+2026-10-30 23:44:21   drop[1-source] Raiders Rule Out 2 Veterans vs. Jets Due to Injury (heavy.com) :: Las Vegas Raiders, wait 2nd source
+2026-10-30 23:46:29   drop[not-key] Warren Foegele Injury and Other Ottawa Senators News (Last Word On Sports) :: Warren Foegele: injury
+2026-10-30 23:48:47   drop[team-not-named] ZTS Suspended by BTIG -- Rating Maintained at Buy (GuruFocus) :: Zions Bancorporation
+2026-10-30 23:51:07 indexed 929 markets
