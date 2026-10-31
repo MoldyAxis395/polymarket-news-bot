@@ -23557,3 +23557,21 @@
 2026-10-31 12:08:15   skip Notre Dame :: Notre Dame vs. Navy (low conf 0.6)
 2026-10-31 12:08:16   drop[kind] QPR eye triple injury boost at Southampton as Julien Stephan stays positive (OneFootball) :: other
 2026-10-31 12:15:10 indexed 1020 markets
+2026-10-31 12:19:51   drop[kind] Jaylen Brown’s Injury Addressed Before 76ers-Knicks Game (heavy.com) :: other
+2026-10-31 12:20:27 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 95)
+2026-10-31 12:20:30 [pengwin] TORINO-COMO: no Polymarket event (try 95)
+2026-10-31 12:22:11   drop[kind] Man Utd XI vs Chelsea: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-10-31 12:24:38   drop[1-source] Defiantly ruled out of Melbourne Cup after vet inspection (North Norfolk News) :: Melbourne Cup (horse race), wait 2nd source
+2026-10-31 12:24:39   drop[team-not-named] Interference – Gates Suspended (Sporting Post) :: unspecified team
+2026-10-31 12:24:39   drop[kind] Randy Orton Struggles to Hold Back Laughter at Cody Rhodes’ Eye Injury During SmackDown Pr (Ringside News) :: other
+2026-10-31 12:25:10 indexed 1009 markets
+2026-10-31 12:29:04   drop[kind] Chelsea XI vs Man Utd: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-10-31 12:29:04   drop[1-source] Stoke City injury blow confirmed as Lamine Cisse set for period on sidelines (The Sentinel) :: Lamine Cissé, wait 2nd source
+2026-10-31 12:31:44 NEWS [ESPN 0m] Chelsea confirmed lineup vs Manchester United: Maxence Lacroix, Jordan Henderson, Geovany Quenda, Jorrel Hato ruled out of starting XI [eng.1]
+2026-10-31 12:31:44   skip No :: Will Manchester United FC win on 2026-10-31? (low conf 0.6)
+2026-10-31 12:31:44   llm groq-120b: rate limited, skip 113s
+2026-10-31 12:31:45   drop[not-key] Manchester United confirmed lineup vs Chelsea: Ayden Heaven, Youri Tielemans, Mason Mount  (ESPN) :: Ayden Heaven: injury
+2026-10-31 12:35:11 indexed 1006 markets
+2026-10-31 12:45:15 indexed 1004 markets
+2026-10-31 12:47:38   drop[1-source] Kenya building collapse crisis: Report reveals 95% of northeastern construction sites were (People Daily) :: Northeastern construction sites in Kenya, wait 2nd source
+2026-10-31 12:47:38   drop[kind] Bryce Young’s Knee Injury Raises a Bigger Concern for the Carolina Panthers’ Offense (TWSN) :: other

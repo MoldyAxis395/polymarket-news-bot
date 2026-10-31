@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T12:17:11",
+ "updated": "2026-10-31T12:48:06",
  "start": 100.0,
  "cash": 1.63,
- "equity": 121.06,
+ "equity": 120.93,
  "open": [
   {
    "market_id": "5960431",
@@ -235,7 +235,7 @@
    "reason": "pengwin approx: home Over 0.5 approximates scoring at least one goal",
    "conf": 1.0,
    "end": "2026-10-31T14:30:00+00:00",
-   "last_bid": 0.71,
+   "last_bid": 0.7,
    "book_err": false
   }
  ],
