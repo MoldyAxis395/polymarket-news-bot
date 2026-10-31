@@ -23989,3 +23989,19 @@
 2026-11-01 00:02:11 [pengwin] TORINO-COMO: no Polymarket event (try 112)
 2026-11-01 00:03:41   llm groq-120b: rate limited, skip 90s
 2026-11-01 00:03:42   drop[1-source] East Carolina’s David Coleman Jr. suffers leg injury after collision with referee (ClutchPoints) :: David Coleman Jr., wait 2nd source
+2026-11-01 00:08:29   llm groq-120b: rate limited, skip 32s
+2026-11-01 00:08:30   drop[verify] Kane misses penalty before late Dortmund goal earns draw against Bayern (BBC) :: Kane not in Bayern
+2026-11-01 00:09:52   drop[no-market] Kirby Dach (C, Montreal Canadiens) ruled out: healthy -> Out [NHL] (ESPN) :: Montreal Canadiens
+2026-11-01 00:10:29 indexed 994 markets
+2026-11-01 00:15:21   drop[team-not-named] Rudy Gobert (lower back spasms) has been ruled OUT for … (HoopsHype) :: Utah Jazz
+2026-11-01 00:17:25   llm groq-120b: rate limited, skip 344s
+2026-11-01 00:17:25   drop[1-source] Texas judge suspended, ordered to ungergo psych evaluation after bizarre racial comments t (New York Post) :: Texas, wait 2nd source
+2026-11-01 00:17:25   drop[kind] Blue heeler ruled out as Brisbane 2032 Olympics mascot (7NEWS) :: other
+2026-11-01 00:20:30 indexed 1005 markets
+2026-11-01 00:29:01   drop[team-not-named] Ajax coach Míchel Sánchez speaks out about Julian Brandt’s injury (Goal.com) :: Borussia Dortmund
+2026-11-01 00:30:33 indexed 1007 markets
+2026-11-01 00:30:53   drop[team-not-named] Ajax coach Míchel Sánchez speaks out on Julian Brandt’s injury (Goal.com) :: Borussia Dortmund
+2026-11-01 00:32:09 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 113)
+2026-11-01 00:32:11 [pengwin] TORINO-COMO: no Polymarket event (try 113)
+2026-11-01 00:32:57   llm groq-120b: rate limited, skip 24s
+2026-11-01 00:32:57   drop[1-source] Spurs not rushing Tobias Harris back from calf injury (HoopsHype) :: Tobias Harris, wait 2nd source
