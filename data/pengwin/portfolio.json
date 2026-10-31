@@ -160,7 +160,7 @@
    "reason": "pengwin approx: home win leg of combo",
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.59,
+   "last_bid": 0.58,
    "book_err": false
   },
   {
@@ -232,7 +232,7 @@
    "reason": "pengwin approx: home Over 0.5 approximates scoring at least one goal",
    "conf": 1.0,
    "end": "2026-10-31T14:30:00+00:00",
-   "last_bid": 0.73,
+   "last_bid": 0.74,
    "book_err": false
   }
  ],
