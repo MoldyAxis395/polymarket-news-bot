@@ -1,24 +1,6 @@
 {
- "cash": 62.82400358194319,
+ "cash": 72.82400358194319,
  "positions": [
-  {
-   "market_id": "5285927",
-   "question": "Oilers vs. Islanders",
-   "slug": "nhl-edm-nyi-2026-10-31",
-   "outcome": "Oilers",
-   "token": "114522652741423869303808898695601803681447339256048151959853540772753686371349",
-   "shares": 20.0,
-   "entry": 0.5,
-   "cost": 10.0,
-   "opened": 1793466224.9621778,
-   "opened_iso": "2026-10-31T17:03:44+00:00",
-   "news": "Ryan Pulock (D, New York Islanders) ruled out: Day-To-Day -> Out [NHL]",
-   "reason": "llm[groq-120b] trusted: Pulock's injury hurts the Islanders, making the Oilers more likely to win; the Oilers' win probability should rise by at least 5 points.",
-   "conf": 0.72,
-   "end": "2026-10-31T18:00:00+00:00",
-   "last_bid": 0.5,
-   "book_err": false
-  },
   {
    "market_id": "6167325",
    "question": "76ers vs. Hornets",
@@ -2104,6 +2086,28 @@
    "pnl": 0.0,
    "why": "market closing",
    "closed_iso": "2026-10-30T23:25:13+00:00"
+  },
+  {
+   "market_id": "5285927",
+   "question": "Oilers vs. Islanders",
+   "slug": "nhl-edm-nyi-2026-10-31",
+   "outcome": "Oilers",
+   "token": "114522652741423869303808898695601803681447339256048151959853540772753686371349",
+   "shares": 20.0,
+   "entry": 0.5,
+   "cost": 10.0,
+   "opened": 1793466224.9621778,
+   "opened_iso": "2026-10-31T17:03:44+00:00",
+   "news": "Ryan Pulock (D, New York Islanders) ruled out: Day-To-Day -> Out [NHL]",
+   "reason": "llm[groq-120b] trusted: Pulock's injury hurts the Islanders, making the Oilers more likely to win; the Oilers' win probability should rise by at least 5 points.",
+   "conf": 0.72,
+   "end": "2026-10-31T18:00:00+00:00",
+   "last_bid": 0.5,
+   "book_err": false,
+   "exit": 0.5,
+   "pnl": 0.0,
+   "why": "market closing",
+   "closed_iso": "2026-10-31T17:55:17+00:00"
   }
  ],
  "cooldown": {
@@ -2169,6 +2173,7 @@
   "4551285": 1792958103.1436505,
   "4551284": 1792958103.7324388,
   "5406624": 1793328267.1508827,
-  "6101711": 1793413513.771552
+  "6101711": 1793413513.771552,
+  "5285927": 1793480117.9071138
  }
 }

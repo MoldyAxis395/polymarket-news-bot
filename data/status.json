@@ -1,32 +1,14 @@
 {
- "updated": "2026-10-31T18:49:33",
+ "updated": "2026-10-31T19:19:41",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 382,
- "markets_indexed": 991,
- "news_processed": 110,
- "cash": 62.82,
+ "llm_calls_today": 407,
+ "markets_indexed": 983,
+ "news_processed": 146,
+ "cash": 72.82,
  "equity": 82.62,
  "start": 100.0,
  "open": [
-  {
-   "market_id": "5285927",
-   "question": "Oilers vs. Islanders",
-   "slug": "nhl-edm-nyi-2026-10-31",
-   "outcome": "Oilers",
-   "token": "114522652741423869303808898695601803681447339256048151959853540772753686371349",
-   "shares": 20.0,
-   "entry": 0.5,
-   "cost": 10.0,
-   "opened": 1793466224.9621778,
-   "opened_iso": "2026-10-31T17:03:44+00:00",
-   "news": "Ryan Pulock (D, New York Islanders) ruled out: Day-To-Day -> Out [NHL]",
-   "reason": "llm[groq-120b] trusted: Pulock's injury hurts the Islanders, making the Oilers more likely to win; the Oilers' win probability should rise by at least 5 points.",
-   "conf": 0.72,
-   "end": "2026-10-31T18:00:00+00:00",
-   "last_bid": 0.5,
-   "book_err": false
-  },
   {
    "market_id": "6167325",
    "question": "76ers vs. Hornets",
@@ -46,7 +28,7 @@
    "book_err": false
   }
  ],
- "closed_count": 96,
+ "closed_count": 97,
  "llm": {
   "backends": [
    "groq-120b",
@@ -54,22 +36,22 @@
   ],
   "fallbacks": 5,
   "errors": {
-   "groq-120b": "rate limited, skip 158s"
+   "groq-120b": "rate limited, skip 15s"
   },
   "rejects": {
-   "verify": 6,
+   "verify": 7,
    "side": 3,
-   "not-key": 5,
-   "fluff": 15,
-   "1-source": 3,
-   "kind": 5,
-   "no-pick": 6,
+   "not-key": 6,
+   "fluff": 22,
+   "1-source": 4,
+   "kind": 7,
+   "no-pick": 8,
    "unconfirmed": 6,
-   "team-not-named": 5
+   "team-not-named": 6
   },
   "calls": {
-   "groq-120b": 255,
-   "groq-20b": 127
+   "groq-120b": 266,
+   "groq-20b": 141
   }
  },
  "realized_pnl": -17.18

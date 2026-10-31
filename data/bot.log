@@ -23790,3 +23790,28 @@
 2026-10-31 18:47:41 [pengwin] TORINO-COMO: no Polymarket event (try 105)
 2026-10-31 18:47:43   llm groq-120b: rate limited, skip 158s
 2026-10-31 18:47:44   drop[team-not-named] Sen. Dan S. Sullivan’s X account temporarily suspended on concern it was fake (The Washington Post) :: Democratic Party
+2026-10-31 18:49:52   drop[no-pick] Patriots rule out AJ Brown with knee injury. WR to miss his fifth game (The New York Times) :: short
+2026-10-31 18:54:27   llm groq-120b: rate limited, skip 145s
+2026-10-31 18:54:29 NEWS [CBS Sports 3m] Ravens' Lamar Jackson returns from injury to face off with Bills' Josh Allen
+2026-10-31 18:54:29   skip Ravens :: Ravens vs. Bills (rss sport (measure only))
+2026-10-31 18:55:12 indexed 991 markets
+2026-10-31 18:55:17   SELL Oilers @ 0.500 (market closing) pnl +0.00 :: Oilers vs. Islanders
+2026-10-31 18:59:10   drop[kind] Martin O'Neill Confirms Fantastic Injury Boost for Celtic (roundtable.io) :: other
+2026-10-31 19:03:43   drop[team-not-named] ‘Like a Zombie’—Emiliano Martinez Makes Brutally Honest Admission on Life-Changing Injury (Sports Illustrated) :: Aston Villa
+2026-10-31 19:03:43   llm groq-120b: rate limited, skip 302s
+2026-10-31 19:03:45   drop[kind] ‘Quite confident’: Cummins responds to Smith injury debate, forecasts changes for home Tes (The Age) :: other
+2026-10-31 19:05:14 indexed 983 markets
+2026-10-31 19:07:20 NEWS [ESPN 0m] St. Louis CITY SC confirmed lineup vs San Diego FC: Damion Downs ruled out of starting XI [usa.1]
+2026-10-31 19:07:20   skip No :: Will St. Louis City SC win on 2026-10-31? (low conf 0.6)
+2026-10-31 19:07:24   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-31 19:07:24   drop[verify] San Diego FC confirmed lineup vs St. Louis CITY SC: Manu Duah, Oscar Verhoeven, Aníbal God (ESPN) :: no answer
+2026-10-31 19:08:25   drop[not-key] Florida vs. Georgia pregame availability report: Vernell Brown III ruled out (247Sports) :: Vernell Brown III: injury
+2026-10-31 19:13:29   llm groq-120b: rate limited, skip 30s
+2026-10-31 19:13:29   drop[no-pick] Sporting Kansas City confirmed lineup vs FC Dallas: Kwaku Agyabeng, Stephen Afrifa ruled o (ESPN) :: short
+2026-10-31 19:13:30 NEWS [ESPN 0m] FC Dallas confirmed lineup vs Sporting Kansas City: Daniel, Christian Cappis, Bernard Kamungo, Patrickson Delgado, Nolan Norris, Shaq Moore, Petar Musa ruled out of starting XI [usa.1]
+2026-10-31 19:13:30   skip No :: Will FC Dallas win on 2026-10-31? (low conf 0.6)
+2026-10-31 19:15:15 indexed 983 markets
+2026-10-31 19:17:39   drop[1-source] Notre Dame LB Drayk Bowen ruled out for rest of game vs. Navy after suffering injury (On3) :: Drayk Bowen, wait 2nd source
+2026-10-31 19:17:58 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 106)
+2026-10-31 19:18:00   llm groq-120b: rate limited, skip 15s
+2026-10-31 19:18:00 [pengwin] TORINO-COMO: no Polymarket event (try 106)
