@@ -201,4 +201,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-31T17:03:44+00:00,BUY,Oilers vs. Islanders,Oilers,20.00,0.5000,10.00,,"Ryan Pulock (D, New York Islanders) ruled out: Day-To-Day -> Out [NHL] | llm[groq-120b] trusted: Pulock's injury hurts the Islanders, making the Oilers more likely to win; the Oilers' win probability should rise by at least 5 points."
 2026-10-31T17:20:19+00:00,BUY,76ers vs. Hornets,Hornets,20.41,0.4900,10.00,,"Joel Embiid (C, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] | llm[groq-20b] trusted: Embiid ruled out, hurting 76ers, so Hornets' chance rises"
 2026-10-31T17:55:17+00:00,SELL,Oilers vs. Islanders,Oilers,20.00,0.5000,10.00,+0.00,market closing
-2026-10-31T21:14:43+00:00,SELL,76ers vs. Hornets,Hornets,20.41,0.4400,8.98,-1.02,stop loss
+2026-10-31T22:30:51+00:00,SELL,76ers vs. Hornets,Hornets,20.41,0.5500,11.22,+1.22,take profit

@@ -23953,80 +23953,26 @@
 2026-10-31 21:48:04   drop[1-source] Browns Get Major Injury Boost Before Steelers Game (247Sports) :: J.K. Dobbins, wait 2nd source
 2026-10-31 21:49:22 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 111)
 2026-10-31 21:49:25 [pengwin] TORINO-COMO: no Polymarket event (try 111)
-2026-10-31 21:50:23   llm groq-120b: rate limited, skip 112s
-2026-10-31 21:50:23   drop[1-source] NY Attorney Kelly McCollum Suspended Over Client Complaints (Hoodline) :: Kelly McCollum, wait 2nd source
-2026-10-31 21:52:15   drop[not-key] Rashid Shaheed (WR, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: Rashid Shaheed: knee injury
-2026-10-31 21:52:54   drop[kind] De Zerbi reveals Porro conversation after latest Spurs injury scare (London Evening Standard) :: other
-2026-10-31 21:55:34 indexed 1009 markets
-2026-10-31 21:57:38   llm groq-120b: rate limited, skip 89s
-2026-10-31 21:57:39   drop[no-market] Charles Cross (OT, Seattle Seahawks) ruled out: Doubtful -> Out [NFL] (ESPN) :: Seattle Seahawks
-2026-10-31 21:59:33   drop[kind] Saturday Night Injury Watch: Week 8 Skill Players (Footballguys) :: other
-2026-10-31 21:59:33   llm groq-120b: rate limited, skip 290s
-2026-10-31 21:59:33   drop[no-market] Chargers place Derwin James on Injured Reserve after hamstring setback (USA Today) :: Los Angeles Chargers
-2026-10-31 22:02:03   drop[team-not-named] Knicks' search for another center just got complicated by Chet Holmgren injury (Daily Knicks) :: Oklahoma City Thunder
-2026-10-31 22:05:37 indexed 1005 markets
-2026-10-31 22:06:28   drop[1-source] Loan report – Kabia suffers injury; Sagoe Jr and Setford feature (Jeorge Bird's Arsenal Youth) :: Kabia, wait 2nd source
-2026-10-31 22:08:51   llm groq-120b: rate limited, skip 19s
-2026-10-31 22:08:52   drop[side] Mikel Brown Jr. (G, Brooklyn Nets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Nets vs. Pacers -> Nets vs fact ruled_out: Mikel Brown Jr. (Brooklyn Nets, nba), bad for Brooklyn Nets. misses first gam
-2026-10-31 22:11:20   drop[not-key] Rashid Shaheed Ruled out for MNF (Fantasy Footballers Podcast) :: Rashid Shaheed: injury
-2026-10-31 22:11:20   llm groq-120b: rate limited, skip 170s
-2026-10-31 22:11:21   drop[kind] Seahawks Get Major RB Injury Boosts Ahead of Bears Game (Heavy.com) :: other
-2026-10-31 22:12:54   drop[not-key] Velus Jones Jr. (RB, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: Velus Jones Jr.: injury
-2026-10-31 22:13:25   drop[kind] Obi Toppin Injury: Questionable for Sunday (RotoWire) :: other
-2026-10-31 22:13:25   drop[unconfirmed] Mohammed Kudus completes first 90 minutes since injury return as Tottenham beat Crystal Pa (SportsWorldGhana) :: player returned
-2026-10-31 22:14:43   SELL Hornets @ 0.440 (stop loss) pnl -1.02 :: 76ers vs. Hornets
-2026-10-31 22:15:38 indexed 1005 markets
-2026-10-31 22:15:45   drop[kind] Babcock: Injury to Oilers’ Isaac Howard ‘not as serious as first thought’ (Oilers Nation) :: other
-2026-10-31 22:18:04   llm groq-120b: rate limited, skip 62s
-2026-10-31 22:18:04   drop[team-not-named] Ivica Zubac Injury: Ruled out for Sunday (RotoWire) :: Los Angeles Lakers
-2026-10-31 22:19:31 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 112)
-2026-10-31 22:19:33 [pengwin] TORINO-COMO: no Polymarket event (try 112)
-2026-10-31 22:20:40   llm groq-120b: rate limited, skip 27s
-2026-10-31 22:20:40   drop[not-key] Cavaliers' Jaylon Tyson Injury Takes a Turn Before Bucks Game (roundtable.io) :: Jaylon Tyson: injury
-2026-10-31 22:24:59   drop[1-source] 'Significant' ankle injury for LB Drayk Bowen costly for Notre Dame (South Bend Tribune) :: Drayk Bowen, wait 2nd source
-2026-10-31 22:25:00   llm groq-120b: rate limited, skip 177s
-2026-10-31 22:25:00   drop[not-key] Toronto Argonauts believe Chad Kelly injury occurred on strip-sack touchdown in East Semi- (3DownNation) :: Chad Kelly: injury
-2026-10-31 22:25:38 indexed 1004 markets
-2026-10-31 22:29:15   drop[not-key] Isaac Howard (LW, Edmonton Oilers) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Isaac Howard: ruled out after knee-on-knee hit
-2026-10-31 22:29:45   llm groq-120b: rate limited, skip 187s
-2026-10-31 22:29:45   drop[kind] Aaron Danks not concerned with injury situation ahead of Atlético Madrid tilt (Bavarian Football Works) :: other
-2026-10-31 22:29:46   drop[1-source] "The ankle and knee in danger": a shocking diagnosis for Sibari's injury (Goal.com) :: Sibari, wait 2nd source
-2026-10-31 22:34:17   drop[kind] Obi Toppin upgraded to questionable on the injury … (HoopsHype) :: other
-2026-10-31 22:34:17   llm groq-120b: rate limited, skip 234s
-2026-10-31 22:34:17   drop[not-key] Arizona WR Mosley carted off, taken to hospital with knee injury (ESPN La Crosse 105.5) :: Mosley: knee injury
-2026-10-31 22:35:39 indexed 1009 markets
-2026-10-31 22:36:35   drop[1-source] Mourinho names Real Madrid squad for Racing trip as Valverde ruled out (OneFootball) :: Jose Valverde, wait 2nd source
-2026-10-31 22:37:43   drop[no-pick] Dejounte Murray (G, New Orleans Pelicans) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: no suitable outcome to rise
-2026-10-31 22:45:39 indexed 1000 markets
-2026-10-31 22:46:34   drop[no-market] Bowen double helps Cardiff beat pointless Ospreys (BBC) :: Cardiff Rugby
-2026-10-31 22:49:40 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 113)
-2026-10-31 22:49:43 [pengwin] TORINO-COMO: no Polymarket event (try 113)
-2026-10-31 22:52:43   drop[kind] Boston Legacy FC Nearing End of Injury-Riddled Campaign (The Blazing Musket) :: other
-2026-10-31 22:52:43   drop[1-source] Goa POCSO Case Triggers Probe as Crime Branch Inspector Suspended (Urban Acres) :: Goa Crime Branch, wait 2nd source
-2026-10-31 22:55:01   drop[team-not-named] LeBron James, Joel Embiid Out Saturday Due To Injury Management (RealGM) :: Los Angeles Lakers
-2026-10-31 22:55:40 indexed 994 markets
-2026-10-31 22:58:07   llm groq-120b: rate limited, skip 166s
-2026-10-31 22:58:07   drop[not-key] C.J. Gardner-Johnson (S, Buffalo Bills) cleared to play: Suspension -> Active [NFL] (ESPN) :: C.J. Gardner-Johnson: suspension lifted
-2026-10-31 23:00:43   drop[unconfirmed] AC Milan score three first-half goals to seal derby victory over Inter (BBC) :: derby win
-2026-10-31 23:01:58   drop[1-source] Injured Ohio State DB Jay Timmons to miss game at USC (The Columbus Dispatch) :: Jay Timmons, wait 2nd source
-2026-10-31 23:05:41 indexed 998 markets
-2026-10-31 23:09:46   drop[no-market] Ryan Moore at his brilliant best! Benvenuto Cellini soars to Breeders' Cup Turf win (Sky Sports) :: Benvenuto Cellini
-2026-10-31 23:10:38 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +2.52 :: AC Milan vs. FC Internazionale Milano: Both Teams to Score
-2026-10-31 23:12:54   llm groq-120b: rate limited, skip 131s
-2026-10-31 23:12:54   drop[side] C.J. Gardner-Johnson (S, Buffalo Bills) ruled out: Active -> Suspension [NFL] (ESPN) :: Ravens vs. Bills -> Bills vs fact suspended: C.J. Gardner-Johnson (Buffalo Bills, nfl), bad for Buffalo Bills. suspensio
-2026-10-31 23:13:25   drop[not-key] The latest on Georgia football DB Ellis Robinson's injury vs. Florida (Online Athens) :: Ellis Robinson: injury
-2026-10-31 23:14:40 [pengwin]   book error Aston Villa FC vs. Fulham FC: O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=98317636645244041287968997024671232850737599188052541827175527680871861891967
-2026-10-31 23:15:42 indexed 1003 markets
-2026-10-31 23:15:59   drop[no-market] Northwestern safety Jon Jon Stevens exits in second half with upper-body injury (ESPN) :: Northwestern Wildcats
-2026-10-31 23:18:05   llm groq-120b: rate limited, skip 147s
-2026-10-31 23:18:06   drop[kind] Arsenal handed triple injury boost as three players travel to Liverpool (ArsenalNews.co.uk) :: other
-2026-10-31 23:19:48 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 114)
-2026-10-31 23:19:51 [pengwin] TORINO-COMO: no Polymarket event (try 114)
-2026-10-31 23:21:10   llm groq-120b: rate limited, skip 213s
-2026-10-31 23:21:13   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
-2026-10-31 23:21:13   drop[no-pick] Rudy Gobert (C, Minnesota Timberwolves) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: None
-2026-10-31 23:22:42   drop[team-not-named] Rudy Gobert Injury: Won't play Saturday (RotoWire) :: Utah Jazz
-2026-10-31 23:22:42   drop[1-source] Georgia star CB Ellis Robinson IV leaves game against Florida with lower-leg injury (247Sports) :: Ellis Robinson IV, wait 2nd source
-2026-10-31 23:25:34 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.50 :: Aston Villa FC vs. Fulham FC: O/U 1.5
-2026-10-31 23:25:41 indexed 990 markets
-2026-10-31 23:29:42 shift over, state saved
+2026-10-31 23:30:00 === start mode=paper pid=2170 ===
+2026-10-31 23:30:00 brain=llm cash=72.82 open=1
+2026-10-31 23:30:00 resuming with 6090 known news items
+2026-10-31 23:30:26 indexed 983 markets
+2026-10-31 23:30:45   drop[no-market] Velus Jones Jr. (RB, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: Seattle Seahawks
+2026-10-31 23:30:46   drop[no-market] Charles Cross (OT, Seattle Seahawks) ruled out: Doubtful -> Out [NFL] (ESPN) :: Seattle Seahawks
+2026-10-31 23:30:46   llm groq-120b: rate limited, skip 286s
+2026-10-31 23:30:46   drop[no-market] Rashid Shaheed (WR, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: Seattle Seahawks
+2026-10-31 23:30:47   drop[side] Mikel Brown Jr. (G, Brooklyn Nets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Nets vs. Pacers -> Nets vs fact ruled_out: Mikel Brown Jr. (Brooklyn Nets, nba), bad for Brooklyn Nets. misses first gam
+2026-10-31 23:30:48   drop[side] Rudy Gobert (C, Minnesota Timberwolves) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Timberwolves vs. Spurs -> Timberwolves vs fact ruled_out: Rudy Gobert (Minnesota Timberwolves, nba), bad for Minnesota T
+2026-10-31 23:30:50   drop[verify] Dejounte Murray (G, New Orleans Pelicans) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Murray no longer on Pelicans
+2026-10-31 23:30:51 NEWS [ESPN 0m] Isaac Howard (LW, Edmonton Oilers) ruled out: Day-To-Day -> Out [NHL]
+2026-10-31 23:30:51   skip Rangers :: Oilers vs. Rangers (low conf 0.6)
+2026-10-31 23:30:51   SELL Hornets @ 0.550 (take profit) pnl +1.22 :: 76ers vs. Hornets
+2026-10-31 23:32:06 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 111)
+2026-10-31 23:32:08 [pengwin] TORINO-COMO: no Polymarket event (try 111)
+2026-10-31 23:32:49 [pengwin]   book error Aston Villa FC vs. Fulham FC: O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=98317636645244041287968997024671232850737599188052541827175527680871861891967
+2026-10-31 23:32:49 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.50 :: Aston Villa FC vs. Fulham FC: O/U 1.5
+2026-10-31 23:32:50 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +2.52 :: AC Milan vs. FC Internazionale Milano: Both Teams to Score
+2026-10-31 23:33:12   drop[unconfirmed] Chelsea beat 10-man Man Utd to pile more pressure on Carrick (BBC) :: win
+2026-10-31 23:33:13   drop[no-pick] Coventry out of bottom three after win over struggling Sunderland (BBC) :: short
+2026-10-31 23:33:13   drop[no-market] Evanilson scores again as Bournemouth beat Leeds (BBC) :: Bournemouth
+2026-10-31 23:33:14   drop[unconfirmed] Thiago on target as Brentford beat Forest (BBC) :: win

@@ -1369,6 +1369,29 @@
    "closed_iso": "2026-10-31T19:59:54+00:00"
   },
   {
+   "market_id": "5855676",
+   "question": "Aston Villa FC vs. Fulham FC: O/U 1.5",
+   "slug": "epl-ast-ful-2026-10-31-total-1pt5",
+   "outcome": "Over",
+   "token": "98317636645244041287968997024671232850737599188052541827175527680871861891967",
+   "shares": 12.5,
+   "entry": 0.8,
+   "cost": 10.0,
+   "opened": 1793376562.9886117,
+   "opened_iso": "2026-10-30T16:09:22+00:00",
+   "news": "ASTON VILLA-FULHAM: OVER 1.5 (approssimato)",
+   "reason": "pengwin approx: replicates over 1.5 leg of combo",
+   "conf": 1.0,
+   "end": "2026-10-31T20:00:00+00:00",
+   "last_bid": 0.83,
+   "book_err": true,
+   "settle_retry": 1793486569.797118,
+   "exit": 1.0,
+   "pnl": 2.5,
+   "why": "resolved",
+   "closed_iso": "2026-10-31T22:32:50+00:00"
+  },
+  {
    "market_id": "5855754",
    "question": "AC Milan vs. FC Internazionale Milano: Both Teams to Score",
    "slug": "sea-mil-int-2026-10-31-btts",
@@ -1385,34 +1408,11 @@
    "end": "2026-10-31T19:45:00+00:00",
    "last_bid": null,
    "book_err": false,
-   "settle_retry": 1793485237.9467852,
+   "settle_retry": 1793486570.5061264,
    "exit": 1.0,
    "pnl": 2.522797488691058,
    "why": "resolved",
-   "closed_iso": "2026-10-31T22:10:38+00:00"
-  },
-  {
-   "market_id": "5855676",
-   "question": "Aston Villa FC vs. Fulham FC: O/U 1.5",
-   "slug": "epl-ast-ful-2026-10-31-total-1pt5",
-   "outcome": "Over",
-   "token": "98317636645244041287968997024671232850737599188052541827175527680871861891967",
-   "shares": 12.5,
-   "entry": 0.8,
-   "cost": 10.0,
-   "opened": 1793376562.9886117,
-   "opened_iso": "2026-10-30T16:09:22+00:00",
-   "news": "ASTON VILLA-FULHAM: OVER 1.5 (approssimato)",
-   "reason": "pengwin approx: replicates over 1.5 leg of combo",
-   "conf": 1.0,
-   "end": "2026-10-31T20:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1793486134.8495302,
-   "exit": 1.0,
-   "pnl": 2.5,
-   "why": "resolved",
-   "closed_iso": "2026-10-31T22:25:35+00:00"
+   "closed_iso": "2026-10-31T22:32:51+00:00"
   }
  ],
  "cooldown": {
@@ -1473,7 +1473,7 @@
   "5855698": 1793486984.5895953,
   "5852629": 1793487229.098592,
   "5862724": 1793487594.5860329,
-  "5855754": 1793495438.6013217,
-  "5855676": 1793496335.2806466
+  "5855676": 1793496770.2362266,
+  "5855754": 1793496771.0259392
  }
 }
