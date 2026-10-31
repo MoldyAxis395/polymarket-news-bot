@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T06:38:36",
+ "updated": "2026-10-31T07:08:57",
  "start": 100.0,
  "cash": 1.63,
- "equity": 122.28,
+ "equity": 121.88,
  "open": [
   {
    "market_id": "5960431",
@@ -109,7 +109,7 @@
    "reason": "pengwin exact: Both Teams to Score",
    "conf": 1.0,
    "end": "2026-10-31T15:00:00+00:00",
-   "last_bid": 0.66,
+   "last_bid": 0.65,
    "book_err": false
   },
   {
@@ -181,7 +181,7 @@
    "reason": "pengwin approx: replicates over 1.5 leg of combo",
    "conf": 1.0,
    "end": "2026-10-31T20:00:00+00:00",
-   "last_bid": 0.79,
+   "last_bid": 0.77,
    "book_err": false
   },
   {

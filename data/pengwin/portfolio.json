@@ -106,7 +106,7 @@
    "reason": "pengwin exact: Both Teams to Score",
    "conf": 1.0,
    "end": "2026-10-31T15:00:00+00:00",
-   "last_bid": 0.66,
+   "last_bid": 0.65,
    "book_err": false
   },
   {
@@ -178,7 +178,7 @@
    "reason": "pengwin approx: replicates over 1.5 leg of combo",
    "conf": 1.0,
    "end": "2026-10-31T20:00:00+00:00",
-   "last_bid": 0.79,
+   "last_bid": 0.77,
    "book_err": false
   },
   {
