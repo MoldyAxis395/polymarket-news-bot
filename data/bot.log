@@ -23644,3 +23644,27 @@
 2026-10-31 14:47:47   drop[kind] Packers Get Exciting Micah Parsons News Amid Ongoing Injury (heavy.com) :: other
 2026-10-31 14:47:47   llm groq-120b: rate limited, skip 5s
 2026-10-31 14:47:48   drop[team-not-named] Addl DIG suspended after raid uncovers drug use, DJ parties at his property (The Business Standard) :: 
+2026-10-31 14:52:38   llm groq-120b: rate limited, skip 67s
+2026-10-31 14:52:38   drop[side] TSG Hoffenheim confirmed lineup vs Werder Bremen: Robin Hranác, Vladimír Coufal, Alexander (ESPN) :: Will TSG 1899 Hoffenheim win on 2026-10-31? -> Yes vs fact ruled_out: - (TSG Hoffenheim, soccer), bad for TSG Hoffenheim
+2026-10-31 14:55:18 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 100)
+2026-10-31 14:55:21 [pengwin] TORINO-COMO: no Polymarket event (try 100)
+2026-10-31 14:55:25 indexed 1069 markets
+2026-10-31 15:02:44 NEWS [ESPN 0m] AFC Bournemouth confirmed lineup vs Leeds United: Lewis Cook ruled out of starting XI [eng.1]
+2026-10-31 15:02:44   skip No :: Will AFC Bournemouth win on 2026-10-31? (low conf 0.6)
+2026-10-31 15:02:44   llm groq-120b: rate limited, skip 296s
+2026-10-31 15:02:45   drop[side] Leeds United confirmed lineup vs AFC Bournemouth: Jaka Bijol, Brenden Aaronson ruled out o (ESPN) :: Will Leeds United FC win on 2026-10-31? -> Yes vs fact ruled_out: Jaka Bijol (Leeds United, soccer), bad for Leeds Unite
+2026-10-31 15:02:47   drop[verify] Brentford confirmed lineup vs Nottingham Forest: Aaron Hickey ruled out of starting XI [en (ESPN) :: Aaron Hickey no longer at Brentford
+2026-10-31 15:02:48 NEWS [ESPN 0m] Nottingham Forest confirmed lineup vs Brentford: Daniel Muñoz ruled out of starting XI [eng.1]
+2026-10-31 15:02:48   skip No :: Will Nottingham Forest FC win on 2026-10-31? (low conf 0.6)
+2026-10-31 15:02:48   drop[not-key] Coventry City confirmed lineup vs Sunderland: Bobby Thomas, Matt Grimes, Sidiki Cherif, Br (ESPN) :: Bobby Thomas: ruled out of starting XI
+2026-10-31 15:02:50   drop[side] Sunderland confirmed lineup vs Coventry City: Nordi Mukiele ruled out of starting XI [eng. (ESPN) :: Will Sunderland AFC win on 2026-10-31? -> Yes vs fact ruled_out: Nordi Mukiele (Sunderland AFC, soccer), bad for Sunderl
+2026-10-31 15:02:51   drop[unconfirmed] Hull City confirmed lineup vs Ipswich Town: Lucas Herrington ruled out of starting XI [eng (ESPN) :: ruled out
+2026-10-31 15:02:51   llm groq-20b: rate limited, skip 3s
+2026-10-31 15:02:51   drop[no-pick] Manchester City confirmed lineup vs Brighton & Hove Albion: Marc Guéhi, Rayan Cherki ruled (ESPN) :: None
+2026-10-31 15:05:26 indexed 1073 markets
+2026-10-31 15:08:35   drop[kind] Overhead Bin Injury Scam Warning—Passengers Taking Down Bags Are Being Extorted For Hittin (View from the Wing) :: other
+2026-10-31 15:11:06   llm groq-120b: rate limited, skip 86s
+2026-10-31 15:11:07   drop[1-source] New opportunity: Reus injury hands Al-Ittihad's professional a lifeline (Goal.com) :: Reus, wait 2nd source
+2026-10-31 15:15:24 indexed 1065 markets
+2026-10-31 15:15:28   drop[1-source] Frank Onyeka injury latest as Coventry City make big Matt Grimes call vs Sunderland (Coventry Telegraph) :: Frank Onyeka, wait 2nd source
+2026-10-31 15:17:29   drop[kind] 🚨 9 consecutive games without a win for Manchester United. 9️⃣❌ Only two wins this season  (Fabrizio Romano) :: other
