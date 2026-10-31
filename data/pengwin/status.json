@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T03:09:42",
+ "updated": "2026-10-31T03:39:28",
  "start": 100.0,
- "cash": 11.63,
- "equity": 123.07,
+ "cash": 1.63,
+ "equity": 122.8,
  "open": [
   {
    "market_id": "5960431",
@@ -219,14 +219,32 @@
    "end": "2026-10-31T19:45:00+00:00",
    "last_bid": 0.61,
    "book_err": false
+  },
+  {
+   "market_id": "5856405",
+   "question": "FC Schalke 04 vs. RB Leipzig: FC Schalke 04 O/U 0.5",
+   "slug": "bun-s04-lei-2026-10-31-team-total-home-0pt5",
+   "outcome": "Over",
+   "token": "48073521524771822021061186060579460692861652533151584671602609736732244344166",
+   "shares": 13.333333333333334,
+   "entry": 0.75,
+   "cost": 10.0,
+   "opened": 1793414327.8194883,
+   "opened_iso": "2026-10-31T02:38:47+00:00",
+   "news": "SCHALKE-LIPSIA: MULTIGOL 1-2 CASA (approssimato)",
+   "reason": "pengwin approx: home Over 0.5 approximates scoring at least one goal",
+   "conf": 1.0,
+   "end": "2026-10-31T14:30:00+00:00",
+   "last_bid": 0.73,
+   "book_err": false
   }
  ],
  "closed_count": 49,
  "realized_pnl": 25.74,
  "pages": {
-  "pending": 105,
+  "pending": 104,
   "picked": 1,
-  "traded": 61,
+  "traded": 62,
   "skipped": 168,
   "expired": 120
  }

@@ -112,3 +112,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-30T17:09:26+00:00,BUY,AC Milan vs. FC Internazionale Milano: Both Teams to Score,Yes,6.64,0.6200,4.12,,MILAN-INTER: GG (esatto) | pengwin exact: both teams to score
 2026-10-30T21:54:28+00:00,SELL,SV 07 Elversberg vs. 1. FSV Mainz 05: O/U 1.5,Over,11.63,1.0000,11.63,+1.63,resolved
 2026-10-30T22:21:21+00:00,SELL,Will Villarreal CF win on 2026-10-30?,Yes,14.29,0.0000,0.00,-10.00,resolved
+2026-10-31T02:38:47+00:00,BUY,FC Schalke 04 vs. RB Leipzig: FC Schalke 04 O/U 0.5,Over,13.33,0.7500,10.00,,SCHALKE-LIPSIA: MULTIGOL 1-2 CASA (approssimato) | pengwin approx: home Over 0.5 approximates scoring at least one goal
