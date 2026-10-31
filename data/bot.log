@@ -23935,3 +23935,21 @@
 2026-10-31 21:18:58   drop[verify] Real Salt Lake confirmed lineup vs San Jose Earthquakes: Kobi Henry, Morgan Guilavogui rul (ESPN) :: Uncertain if injury is new
 2026-10-31 21:19:14 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 110)
 2026-10-31 21:19:16 [pengwin] TORINO-COMO: no Polymarket event (try 110)
+2026-10-31 21:22:35   llm groq-120b: rate limited, skip 33s
+2026-10-31 21:22:35   drop[1-source] Three Bayern Munich players hit by injury storm in Der Klassiker (Bavarian Football Works) :: Bayern Munich, wait 2nd source
+2026-10-31 21:22:36   drop[1-source] Arizona WR R.J. Mosley carted off after knee injury vs Texas Tech (SuperWest Sports) :: R.J. Mosley, wait 2nd source
+2026-10-31 21:25:04   drop[not-key] Broncos will put running back R.J. Harvey on injured reserve after injury in practice (NBC Sports) :: R.J. Harvey: injured in practice and placed on injured reserve
+2026-10-31 21:25:05   llm groq-120b: rate limited, skip 152s
+2026-10-31 21:25:05   drop[kind] Patriots Elevate 6-Foot-2 Ex-Dolphins WR After A.J. Brown Ruled Out (Heavy.com) :: other
+2026-10-31 21:25:32 indexed 1017 markets
+2026-10-31 21:25:35   drop[side] Dark day for Manchester United and City after Halloween defeats reut.rs/3UZaS6P (Reuters) :: Will Manchester United FC win on 2026-11-03? -> Yes vs fact result: - (Manchester United, soccer), bad for Manchester Un
+2026-10-31 21:29:30   drop[not-key] Eagles downgrade CB Jakorian Bennett to out vs. Commanders (Eagles Wire) :: Jakorian Bennett: downgraded to out for upcoming game vs. Commanders
+2026-10-31 21:35:34 indexed 1015 markets
+2026-10-31 21:36:26   drop[kind] Wolves to assess Jordan James after injury in 3-0 win over Cardiff (OneFootball) :: other
+2026-10-31 21:38:45   drop[unconfirmed] Alex Mitchell leaves field with suspected injury against Gloucester — The Guardian (UA.NEWS) :: suspected injury forced him off the field
+2026-10-31 21:45:36 indexed 1014 markets
+2026-10-31 21:48:03   drop[1-source] Injury Hits Keep Coming on Oregon Offense With Running Back Jordon Davison (Sports Illustrated) :: Jordon Davison, wait 2nd source
+2026-10-31 21:48:03   llm groq-120b: rate limited, skip 10s
+2026-10-31 21:48:04   drop[1-source] Browns Get Major Injury Boost Before Steelers Game (247Sports) :: J.K. Dobbins, wait 2nd source
+2026-10-31 21:49:22 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 111)
+2026-10-31 21:49:25 [pengwin] TORINO-COMO: no Polymarket event (try 111)
