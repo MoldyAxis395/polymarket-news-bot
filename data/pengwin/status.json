@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T08:19:54",
+ "updated": "2026-10-31T10:18:24",
  "start": 100.0,
  "cash": 1.63,
- "equity": 122.1,
+ "equity": 121.53,
  "open": [
   {
    "market_id": "5960431",
@@ -55,7 +55,7 @@
    "reason": "pengwin approx: approx via Elche O/U 1.5 Over",
    "conf": 1.0,
    "end": "2026-11-01T17:30:00+00:00",
-   "last_bid": 0.41,
+   "last_bid": 0.4,
    "book_err": false
   },
   {
@@ -109,7 +109,7 @@
    "reason": "pengwin exact: Both Teams to Score",
    "conf": 1.0,
    "end": "2026-10-31T15:00:00+00:00",
-   "last_bid": 0.65,
+   "last_bid": 0.64,
    "book_err": false
   },
   {
@@ -145,7 +145,7 @@
    "reason": "pengwin approx: home team over 2.5 approximates 2-4",
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.53,
+   "last_bid": 0.52,
    "book_err": false
   },
   {
@@ -181,7 +181,7 @@
    "reason": "pengwin approx: replicates over 1.5 leg of combo",
    "conf": 1.0,
    "end": "2026-10-31T20:00:00+00:00",
-   "last_bid": 0.77,
+   "last_bid": 0.78,
    "book_err": false
   },
   {
@@ -217,7 +217,7 @@
    "reason": "pengwin exact: both teams to score",
    "conf": 1.0,
    "end": "2026-10-31T19:45:00+00:00",
-   "last_bid": 0.61,
+   "last_bid": 0.59,
    "book_err": false
   },
   {
