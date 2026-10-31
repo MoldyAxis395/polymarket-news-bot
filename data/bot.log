@@ -23381,3 +23381,28 @@
 2026-10-31 01:49:45   drop[not-key] Senators' Forward Hayden Hodgson Officially Suspended (The Hockey News) :: Hayden Hodgson: officially suspended
 2026-10-31 01:51:18 indexed 990 markets
 2026-10-31 01:52:08   drop[kind] Clippers Face Timberwolves in Key Western Conference Clash Amidst Injury Woes for Minnesot (SSBCrack) :: other
+2026-10-31 01:56:54   llm groq-120b: rate limited, skip 11s
+2026-10-31 01:56:54   drop[no-market] Texas edge Colin Simmons ruled out vs. Mississippi State (Burnt Orange Nation) :: Texas Longhorns
+2026-10-31 02:01:21 indexed 995 markets
+2026-10-31 02:01:25   drop[kind] Rams-Chargers injury report: Parkinson, McDuffie among 4 questionable (Rams Wire) :: other
+2026-10-31 02:01:25   llm groq-120b: rate limited, skip 28s
+2026-10-31 02:01:26   drop[1-source] Flyers May Have Already Been Ruled Out of Nikita Kucherov Sweepstakes (The Hockey News) :: Philadelphia Flyers, wait 2nd source
+2026-10-31 02:03:43   drop[kind] Queenstown bar assault: Kevin Mahmoudi Azar stomped victim with Ugg boot after finger inju (RNZ) :: other
+2026-10-31 02:05:30   llm groq-120b: rate limited, skip 21s
+2026-10-31 02:05:31   drop[unconfirmed] Holmgren had a biological treatment for the injury, and now will miss two-plus months with (Shams Charania) :: injury
+2026-10-31 02:08:18   drop[kind] Jackson Jones Leads Western Boone Stars After Knee Injury (BVM Sports) :: other
+2026-10-31 02:10:36   llm groq-120b: rate limited, skip 73s
+2026-10-31 02:10:37   drop[unconfirmed] Holmgren out at least 8 weeks in another injury blow to Thunder (theScore) :: injury
+2026-10-31 02:10:39   drop[team-not-named] Sens' Hodgson suspended 2 games for boarding Clarke (theScore) :: Montreal Canadiens
+2026-10-31 02:10:40   drop[1-source] Thunder’s Chet Holmgren out indefinitely with knee injury, joining Jalen Williams, Cason W (ClutchPoints) :: Chet Holmgren, wait 2nd source
+2026-10-31 02:11:20 indexed 992 markets
+2026-10-31 02:12:58   llm groq-120b: rate limited, skip 204s
+2026-10-31 02:12:59 NEWS [Sportsnet.ca 3m] Report: Thunder's Chet Holmgren out eight to 10 weeks with knee injury
+2026-10-31 02:12:59   skip Rockets :: Thunder vs. Rockets (low conf 0.6)
+2026-10-31 02:15:27   drop[kind] “I Wasn’t Sleeping at Night”: Scott Hanson Recalls Hosting NFL RedZone With a Painful Inju (EssentiallySports) :: other
+2026-10-31 02:17:30   llm groq-120b: rate limited, skip 196s
+2026-10-31 02:17:31   drop[side] Thunder Discover Telling Chet Holmgren Injury Amid Injury Woes (Heavy.com) :: Thunder vs. Rockets -> Thunder vs fact ruled_out: Chet Holmgren (Oklahoma City Thunder, nba), bad for Oklahoma City Thun
+2026-10-31 02:17:31   drop[unconfirmed] Chet Holmgren out at least 2 months with knee injury and Cason Wallace has shoulder surger (AP News) :: knee injury
+2026-10-31 02:19:46   drop[team-not-named] Ja Morant’s injury disrupts Blazers’ momentum and his own quest for redemption | Bill Oram (OregonLive.com) :: Oklahoma City Thunder
+2026-10-31 02:21:19 indexed 995 markets
+2026-10-31 02:22:09   drop[1-source] Fancied Melbourne Cup horse Defiantly ruled out by vets (ABC News & Headlines – Australian Broadcasting Corporation) :: Defiantly, wait 2nd source
