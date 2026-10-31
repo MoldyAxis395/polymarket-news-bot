@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T15:48:50",
+ "updated": "2026-10-31T15:59:08",
  "start": 100.0,
- "cash": 1.63,
- "equity": 125.76,
+ "cash": 13.82,
+ "equity": 125.14,
  "open": [
   {
    "market_id": "5960431",
@@ -59,25 +59,6 @@
    "book_err": false
   },
   {
-   "market_id": "5856822",
-   "question": "Chelsea FC vs. Manchester United FC: O/U 1.5",
-   "slug": "epl-che-mun-2026-10-31-total-1pt5",
-   "outcome": "Over",
-   "token": "19805731535723309782446777706145942439483996586757314892154888035358891311580",
-   "shares": 12.195121951219512,
-   "entry": 0.82,
-   "cost": 10.0,
-   "opened": 1793372936.4205647,
-   "opened_iso": "2026-10-30T15:08:56+00:00",
-   "news": "CHELSEA-MANCHESTER UNITED: OVER 1.5 (approssimato)",
-   "reason": "pengwin approx: replicates over leg of combo",
-   "conf": 1.0,
-   "end": "2026-10-31T12:30:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1793458667.1139898
-  },
-  {
    "market_id": "5856542",
    "question": "FC Augsburg vs. SC Freiburg: 1st Half O/U 0.5",
    "slug": "bun-aug-fre-2026-10-31-first-half-total-0pt5",
@@ -92,7 +73,7 @@
    "reason": "pengwin approx: replicates one leg of the combo",
    "conf": 1.0,
    "end": "2026-10-31T14:30:00+00:00",
-   "last_bid": 0.99,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -128,7 +109,7 @@
    "reason": "pengwin approx: approximate lower bound of multigol 1-3",
    "conf": 1.0,
    "end": "2026-10-31T15:00:00+00:00",
-   "last_bid": 0.81,
+   "last_bid": 0.8,
    "book_err": false
   },
   {
@@ -146,7 +127,7 @@
    "reason": "pengwin approx: home team over 2.5 approximates 2-4",
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.54,
+   "last_bid": 0.55,
    "book_err": false
   },
   {
@@ -236,12 +217,12 @@
    "reason": "pengwin approx: home Over 0.5 approximates scoring at least one goal",
    "conf": 1.0,
    "end": "2026-10-31T14:30:00+00:00",
-   "last_bid": 0.64,
+   "last_bid": 0.58,
    "book_err": false
   }
  ],
- "closed_count": 49,
- "realized_pnl": 25.74,
+ "closed_count": 50,
+ "realized_pnl": 27.94,
  "pages": {
   "pending": 104,
   "picked": 1,
