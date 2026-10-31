@@ -116,3 +116,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-31T14:58:04+00:00,SELL,Chelsea FC vs. Manchester United FC: O/U 1.5,Over,12.20,1.0000,12.20,+2.20,resolved
 2026-10-31T16:47:33+00:00,SELL,FC Augsburg vs. SC Freiburg: 1st Half O/U 0.5,Over,12.66,1.0000,12.66,+2.66,resolved
 2026-10-31T16:47:34+00:00,SELL,FC Schalke 04 vs. RB Leipzig: FC Schalke 04 O/U 0.5,Over,13.33,0.0000,0.00,-10.00,resolved
+2026-10-31T17:09:02+00:00,SELL,Brentford FC vs. Nottingham Forest FC: Brentford FC O/U 0.5,Over,12.05,1.0000,12.05,+2.05,resolved

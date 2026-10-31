@@ -1,5 +1,5 @@
 {
- "cash": 26.481256776064964,
+ "cash": 38.5294495471493,
  "positions": [
   {
    "market_id": "5960431",
@@ -70,26 +70,9 @@
    "reason": "pengwin exact: Both Teams to Score",
    "conf": 1.0,
    "end": "2026-10-31T15:00:00+00:00",
-   "last_bid": 0.14,
-   "book_err": false
-  },
-  {
-   "market_id": "5856219",
-   "question": "Brentford FC vs. Nottingham Forest FC: Brentford FC O/U 0.5",
-   "slug": "epl-bre-not-2026-10-31-team-total-home-0pt5",
-   "outcome": "Over",
-   "token": "5811718216860607645931032382643949134982615456589633995831514690402090212257",
-   "shares": 12.048192771084338,
-   "entry": 0.83,
-   "cost": 10.0,
-   "opened": 1793374754.9276638,
-   "opened_iso": "2026-10-30T15:39:14+00:00",
-   "news": "BRENTFORD-NOTTINGHAM FOREST: HOME O/U 0.5 OVER (approssimato)",
-   "reason": "pengwin approx: approximate lower bound of multigol 1-3",
-   "conf": 1.0,
-   "end": "2026-10-31T15:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false
+   "last_bid": null,
+   "book_err": true,
+   "settle_retry": 1793467448.9299445
   },
   {
    "market_id": "5855698",
@@ -106,7 +89,7 @@
    "reason": "pengwin approx: home team over 2.5 approximates 2-4",
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.55,
+   "last_bid": 0.54,
    "book_err": false
   },
   {
@@ -124,7 +107,7 @@
    "reason": "pengwin approx: home win leg of combo",
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.57,
+   "last_bid": 0.58,
    "book_err": false
   },
   {
@@ -1378,6 +1361,29 @@
    "pnl": -10.0,
    "why": "resolved",
    "closed_iso": "2026-10-31T16:47:35+00:00"
+  },
+  {
+   "market_id": "5856219",
+   "question": "Brentford FC vs. Nottingham Forest FC: Brentford FC O/U 0.5",
+   "slug": "epl-bre-not-2026-10-31-team-total-home-0pt5",
+   "outcome": "Over",
+   "token": "5811718216860607645931032382643949134982615456589633995831514690402090212257",
+   "shares": 12.048192771084338,
+   "entry": 0.83,
+   "cost": 10.0,
+   "opened": 1793374754.9276638,
+   "opened_iso": "2026-10-30T15:39:14+00:00",
+   "news": "BRENTFORD-NOTTINGHAM FOREST: HOME O/U 0.5 OVER (approssimato)",
+   "reason": "pengwin approx: approximate lower bound of multigol 1-3",
+   "conf": 1.0,
+   "end": "2026-10-31T15:00:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1793467142.4975843,
+   "exit": 1.0,
+   "pnl": 2.048192771084338,
+   "why": "resolved",
+   "closed_iso": "2026-10-31T17:09:03+00:00"
   }
  ],
  "cooldown": {
@@ -1432,6 +1438,7 @@
   "5797216": 1793409682.5718572,
   "5856822": 1793469485.1488342,
   "5856542": 1793476053.4039342,
-  "5856405": 1793476055.0310588
+  "5856405": 1793476055.0310588,
+  "5856219": 1793477343.0156102
  }
 }

@@ -23727,3 +23727,34 @@
 2026-10-31 17:47:33 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.66 :: FC Augsburg vs. SC Freiburg: 1st Half O/U 0.5
 2026-10-31 17:47:34 [pengwin]   book error FC Schalke 04 vs. RB Leipzig: FC Schalke 04 O/U 0.: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=48073521524771822021061186060579460692861652533151584671602609736732244344166
 2026-10-31 17:47:34 [pengwin]   SELL Over @ 0.000 (resolved) pnl -10.00 :: FC Schalke 04 vs. RB Leipzig: FC Schalke 04 O/U 0.5
+2026-10-31 17:49:44   drop[not-key] Buccaneers Week 8 injury report: Egbuka ruled out vs. Falcons (Buccaneers Wire) :: J.J. Egbuka: ruled out for Week 8 game vs Falcons
+2026-10-31 17:55:07 indexed 1029 markets
+2026-10-31 18:01:39   drop[not-key] Kyle Monangai (RB, Chicago Bears) ruled out: Questionable -> Out [NFL] (ESPN) :: Kyle Monangai: ruled out with thumb and toe injuries
+2026-10-31 18:03:37   drop[1-source] Auburn football CB Andre Jordan Jr. exits vs Ole Miss with apparent ankle injury (Montgomery Advertiser) :: Andre Jordan Jr., wait 2nd source
+2026-10-31 18:03:38   drop[kind] Aday Mara Set To Take On Bigger Role With Chet Holmgren Injury (Sports Illustrated) :: other
+2026-10-31 18:03:44 NEWS [ESPN 11m] Ryan Pulock (D, New York Islanders) ruled out: Day-To-Day -> Out [NHL]
+2026-10-31 18:03:44   BUY Oilers @ 0.500 x20.0 ($10.00) :: Oilers vs. Islanders
+2026-10-31 18:05:10 indexed 1024 markets
+2026-10-31 18:06:01   drop[1-source] Report | A three goal comeback with a goal in injury time from Redditch United sees the po (The Southern Football League) :: Redditch United, wait 2nd source
+2026-10-31 18:08:19   drop[kind] OKC Thunder Linked to Trey Murphy Trade Amid Injury Woes (Heavy.com) :: other
+2026-10-31 18:08:53   drop[no-pick] A.J. Brown (WR, New England Patriots) ruled out: Questionable -> Out [NFL] (ESPN) :: No relevant market among the candidates
+2026-10-31 18:09:02 [pengwin]   book error Brentford FC vs. Nottingham Forest FC: Brentford F: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=5811718216860607645931032382643949134982615456589633995831514690402090212257
+2026-10-31 18:09:02 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.05 :: Brentford FC vs. Nottingham Forest FC: Brentford FC O/U 0.5
+2026-10-31 18:10:50   drop[kind] Holger Rune shares message on social media after his best run since return from injury (Tennis365) :: other
+2026-10-31 18:11:05 [pengwin]   book error Manchester City FC vs. Brighton & Hove Albion FC: : 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=21072331789296453439061846400558618551687854585112247408741104346930010084707
+2026-10-31 18:15:10 indexed 1028 markets
+2026-10-31 18:16:01   llm groq-120b: rate limited, skip 74s
+2026-10-31 18:16:02 NEWS [ESPN 0m] Columbus Crew confirmed lineup vs D.C. United: Brooks Lennon ruled out of starting XI [usa.1]
+2026-10-31 18:16:02   skip No :: Will Columbus Crew win on 2026-10-31? (low conf 0.6)
+2026-10-31 18:16:03   drop[no-pick] D.C. United confirmed lineup vs Columbus Crew: Sean Johnson ruled out of starting XI [usa. (ESPN) :: short
+2026-10-31 18:16:04 NEWS [ESPN 0m] FC Cincinnati confirmed lineup vs Philadelphia Union: Gerardo Valenzuela, Evander, David Doudera ruled out of starting XI [usa.1]
+2026-10-31 18:16:04   skip Yes :: Will Philadelphia Union win on 2026-10-31? (low conf 0.6)
+2026-10-31 18:16:06   drop[verify] Philadelphia Union confirmed lineup vs FC Cincinnati: Japhet Sery, Danley Jean Jacques, Ma (ESPN) :: player not on team
+2026-10-31 18:16:06   drop[unconfirmed] Chelsea capitalise on second-half implosion to defeat 10-man Man Utd (Sky Sports) :: Chelsea won
+2026-10-31 18:16:07   drop[no-pick] West Brom inflict second straight home defeat on West Ham (Sky Sports) :: no matching market
+2026-10-31 18:16:08   drop[unconfirmed] Fer Lopez strikes in Wolves win (Sky Sports) :: score
+2026-10-31 18:16:13   drop[unconfirmed] TreVeyon Henderson (RB, New England Patriots) ruled out: Questionable -> Out [NFL] (ESPN) :: injury
+2026-10-31 18:17:15 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 104)
+2026-10-31 18:17:18 [pengwin] TORINO-COMO: no Polymarket event (try 104)
+2026-10-31 18:17:35   llm groq-120b: rate limited, skip 173s
+2026-10-31 18:17:36   drop[no-pick] Patriots WR A.J. Brown, RB TreVeyon Henderson among 3 ruled out for Dolphins game (Boston Herald) :: short
