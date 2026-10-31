@@ -23876,3 +23876,31 @@
 2026-10-31 20:15:35   drop[1-source] B.C. acupuncturist suspended over alleged ‘serious boundary and informed consent violation (CTV News) :: B.C. acupuncturist, wait 2nd source
 2026-10-31 20:18:38 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 108)
 2026-10-31 20:18:40 [pengwin] TORINO-COMO: no Polymarket event (try 108)
+2026-10-31 20:20:24   drop[1-source] Poland In Turmoil: Court Chiefs Suspended, President Turns Plane Around As Crisis Erupts (NDTV) :: Poland, wait 2nd source
+2026-10-31 20:21:46   drop[not-key] Mansoor Delane (CB, Kansas City Chiefs) ruled out: Questionable -> Out [NFL] (ESPN) :: Mansoor Delane: shoulder injury
+2026-10-31 20:22:10   llm groq-120b: rate limited, skip 133s
+2026-10-31 20:22:10   drop[not-key] The Chiefs have downgraded CB Mansoor Delane to out with a shoulder injury. They also have (Ian Rapoport) :: Mansoor Delane: shoulder injury
+2026-10-31 20:25:24 indexed 993 markets
+2026-10-31 20:27:04   drop[kind] Week 8 Injury Report: More Questionable RBs To Monitor (Blitz Sports Media) :: other
+2026-10-31 20:29:33   drop[not-key] Bears vs. Seahawks Injury Report: Kyle Monangai is out for Chicago (Windy City Gridiron) :: Kyle Monangai: injury
+2026-10-31 20:29:33   llm groq-120b: rate limited, skip 281s
+2026-10-31 20:29:34   drop[team-not-named] Robert Williams III and Chris Youngblood are AVAILABLE … (Yahoo Sports) :: Philadelphia 76ers
+2026-10-31 20:31:45   drop[not-key] Colston Loveland good to go, Kyle Monangai ruled out in Bears’ latest Week 8 injury report (ClutchPoints) :: Kyle Monangai: injury
+2026-10-31 20:34:04   drop[not-key] Arizona WR R.J. Mosley taken to hospital with knee injury (ESPN) :: R.J. Mosley: knee injury
+2026-10-31 20:35:27 indexed 1011 markets
+2026-10-31 20:38:50   drop[not-key] Addl DIG Zahir suspended over renting out house for DJ parties (New Age BD) :: Addl DIG Zahir: suspended for renting out house for DJ parties
+2026-10-31 20:41:00   drop[kind] OKC Thunder Injury Report: Every Injury and Status vs. Rockets (Sports Illustrated) :: other
+2026-10-31 20:41:00   llm groq-120b: rate limited, skip 251s
+2026-10-31 20:41:00   drop[no-market] Drayk Bowen suffers 'significant' injury, dealing Notre Dame major blow (USA Today) :: Notre Dame Fighting Irish
+2026-10-31 20:43:48 [pengwin]   book error Will Tottenham Hotspur FC win on 2026-10-31?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=86485533606162469866365105310499422626774688947215885542387344625537007460579
+2026-10-31 20:45:28 indexed 1005 markets
+2026-10-31 20:45:30   drop[kind] UN says Yemeni staff member dies in Houthi custody, demands investigation reut.rs/48nNdjw (Reuters) :: other
+2026-10-31 20:48:04   llm groq-120b: rate limited, skip 12s
+2026-10-31 20:48:05   drop[unconfirmed] LeBron James, Joel Embiid Ruled Out vs. Hornets — What This Means for Charlotte (Sports Illustrated) :: injury
+2026-10-31 20:48:38   llm groq-120b: rate limited, skip 84s
+2026-10-31 20:48:38   drop[team-not-named] World number one-bound Zverev loses to De Minaur (BBC) :: Germany
+2026-10-31 20:49:00 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 109)
+2026-10-31 20:49:02 [pengwin] TORINO-COMO: no Polymarket event (try 109)
+2026-10-31 20:49:43 [pengwin]   book error Real Betis Balompié vs. Málaga CF: O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=103886056229041775312862534592017004390354093847122952378551251197670427237816
+2026-10-31 20:49:44 [pengwin]   book error FC Bayern München vs. BV Borussia 09 Dortmund: FC : 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=65223251593293144802097528102965191490270165814929467814030341926042534916843
+2026-10-31 20:49:44 [pengwin]   SELL Over @ 0.000 (resolved) pnl -10.00 :: FC Bayern München vs. BV Borussia 09 Dortmund: FC Bayern München O/U 2.5

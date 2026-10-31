@@ -35,7 +35,8 @@
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
    "last_bid": 0.999,
-   "book_err": false
+   "book_err": true,
+   "settle_retry": 1793476783.6961484
   },
   {
    "market_id": "5916983",
@@ -56,24 +57,6 @@
    "book_err": false
   },
   {
-   "market_id": "5855698",
-   "question": "FC Bayern M\u00fcnchen vs. BV Borussia 09 Dortmund: FC Bayern M\u00fcnchen O/U 2.5",
-   "slug": "bun-bay-dor-2026-10-31-team-total-home-2pt5",
-   "outcome": "Over",
-   "token": "65223251593293144802097528102965191490270165814929467814030341926042534916843",
-   "shares": 17.54385964912281,
-   "entry": 0.57,
-   "cost": 10.0,
-   "opened": 1793374775.9308004,
-   "opened_iso": "2026-10-30T15:39:35+00:00",
-   "news": "BAYERN MONACO-BORUSSIA DORTMUND: MULTIGOL 2-4 CASA (approssimato)",
-   "reason": "pengwin approx: home team over 2.5 approximates 2-4",
-   "conf": 1.0,
-   "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.22,
-   "book_err": false
-  },
-  {
    "market_id": "5852629",
    "question": "Will Tottenham Hotspur FC win on 2026-10-31?",
    "slug": "epl-tot-cry-2026-10-31-tot",
@@ -89,7 +72,8 @@
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
    "last_bid": 0.999,
-   "book_err": false
+   "book_err": true,
+   "settle_retry": 1793476428.2460952
   },
   {
    "market_id": "5855676",
@@ -1388,6 +1372,29 @@
    "pnl": -10.0,
    "why": "resolved",
    "closed_iso": "2026-10-31T17:25:08+00:00"
+  },
+  {
+   "market_id": "5855698",
+   "question": "FC Bayern M\u00fcnchen vs. BV Borussia 09 Dortmund: FC Bayern M\u00fcnchen O/U 2.5",
+   "slug": "bun-bay-dor-2026-10-31-team-total-home-2pt5",
+   "outcome": "Over",
+   "token": "65223251593293144802097528102965191490270165814929467814030341926042534916843",
+   "shares": 17.54385964912281,
+   "entry": 0.57,
+   "cost": 10.0,
+   "opened": 1793374775.9308004,
+   "opened_iso": "2026-10-30T15:39:35+00:00",
+   "news": "BAYERN MONACO-BORUSSIA DORTMUND: MULTIGOL 2-4 CASA (approssimato)",
+   "reason": "pengwin approx: home team over 2.5 approximates 2-4",
+   "conf": 1.0,
+   "end": "2026-10-31T17:30:00+00:00",
+   "last_bid": null,
+   "book_err": true,
+   "settle_retry": 1793476784.0219133,
+   "exit": 0.0,
+   "pnl": -10.0,
+   "why": "resolved",
+   "closed_iso": "2026-10-31T19:49:44+00:00"
   }
  ],
  "cooldown": {
@@ -1444,6 +1451,7 @@
   "5856542": 1793476053.4039342,
   "5856405": 1793476055.0310588,
   "5856219": 1793477343.0156102,
-  "5856683": 1793478308.0031877
+  "5856683": 1793478308.0031877,
+  "5855698": 1793486984.5895953
  }
 }

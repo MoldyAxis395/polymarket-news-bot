@@ -118,3 +118,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-31T16:47:34+00:00,SELL,FC Schalke 04 vs. RB Leipzig: FC Schalke 04 O/U 0.5,Over,13.33,0.0000,0.00,-10.00,resolved
 2026-10-31T17:09:02+00:00,SELL,Brentford FC vs. Nottingham Forest FC: Brentford FC O/U 0.5,Over,12.05,1.0000,12.05,+2.05,resolved
 2026-10-31T17:25:07+00:00,SELL,Manchester City FC vs. Brighton & Hove Albion FC: Both Teams to Score,Yes,15.15,0.0000,0.00,-10.00,resolved
+2026-10-31T19:49:44+00:00,SELL,FC Bayern München vs. BV Borussia 09 Dortmund: FC Bayern München O/U 2.5,Over,17.54,0.0000,0.00,-10.00,resolved
