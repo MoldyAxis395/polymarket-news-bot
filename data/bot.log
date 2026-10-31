@@ -24022,3 +24022,11 @@
 2026-10-31 23:18:06   drop[kind] Arsenal handed triple injury boost as three players travel to Liverpool (ArsenalNews.co.uk) :: other
 2026-10-31 23:19:48 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 114)
 2026-10-31 23:19:51 [pengwin] TORINO-COMO: no Polymarket event (try 114)
+2026-10-31 23:21:10   llm groq-120b: rate limited, skip 213s
+2026-10-31 23:21:13   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-31 23:21:13   drop[no-pick] Rudy Gobert (C, Minnesota Timberwolves) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: None
+2026-10-31 23:22:42   drop[team-not-named] Rudy Gobert Injury: Won't play Saturday (RotoWire) :: Utah Jazz
+2026-10-31 23:22:42   drop[1-source] Georgia star CB Ellis Robinson IV leaves game against Florida with lower-leg injury (247Sports) :: Ellis Robinson IV, wait 2nd source
+2026-10-31 23:25:34 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.50 :: Aston Villa FC vs. Fulham FC: O/U 1.5
+2026-10-31 23:25:41 indexed 990 markets
+2026-10-31 23:29:42 shift over, state saved

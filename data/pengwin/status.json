@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T23:16:41",
+ "updated": "2026-10-31T23:29:37",
  "start": 100.0,
- "cash": 73.19,
- "equity": 115.04,
+ "cash": 85.69,
+ "equity": 115.05,
  "open": [
   {
    "market_id": "5960431",
@@ -41,25 +41,6 @@
    "book_err": false
   },
   {
-   "market_id": "5855676",
-   "question": "Aston Villa FC vs. Fulham FC: O/U 1.5",
-   "slug": "epl-ast-ful-2026-10-31-total-1pt5",
-   "outcome": "Over",
-   "token": "98317636645244041287968997024671232850737599188052541827175527680871861891967",
-   "shares": 12.5,
-   "entry": 0.8,
-   "cost": 10.0,
-   "opened": 1793376562.9886117,
-   "opened_iso": "2026-10-30T16:09:22+00:00",
-   "news": "ASTON VILLA-FULHAM: OVER 1.5 (approssimato)",
-   "reason": "pengwin approx: replicates over 1.5 leg of combo",
-   "conf": 1.0,
-   "end": "2026-10-31T20:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1793485480.55088
-  },
-  {
    "market_id": "5909608",
    "question": "Will Juventus FC win on 2026-11-01?",
    "slug": "sea-juv-nap-2026-11-01-juv",
@@ -78,8 +59,8 @@
    "book_err": false
   }
  ],
- "closed_count": 58,
- "realized_pnl": 13.19,
+ "closed_count": 59,
+ "realized_pnl": 15.69,
  "pages": {
   "pending": 104,
   "picked": 1,

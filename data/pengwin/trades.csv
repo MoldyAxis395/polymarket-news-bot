@@ -122,3 +122,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-31T19:53:48+00:00,SELL,Will Tottenham Hotspur FC win on 2026-10-31?,Yes,16.39,1.0000,16.39,+6.39,resolved
 2026-10-31T19:59:54+00:00,SELL,Real Betis Balompié vs. Málaga CF: O/U 1.5,Over,11.63,1.0000,11.63,+1.63,resolved
 2026-10-31T22:10:38+00:00,SELL,AC Milan vs. FC Internazionale Milano: Both Teams to Score,Yes,6.64,1.0000,6.64,+2.52,resolved
+2026-10-31T22:25:34+00:00,SELL,Aston Villa FC vs. Fulham FC: O/U 1.5,Over,12.50,1.0000,12.50,+2.50,resolved

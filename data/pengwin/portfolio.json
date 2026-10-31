@@ -1,5 +1,5 @@
 {
- "cash": 73.1897399065576,
+ "cash": 85.6897399065576,
  "positions": [
   {
    "market_id": "5960431",
@@ -36,25 +36,6 @@
    "end": "2026-11-01T17:30:00+00:00",
    "last_bid": 0.41,
    "book_err": false
-  },
-  {
-   "market_id": "5855676",
-   "question": "Aston Villa FC vs. Fulham FC: O/U 1.5",
-   "slug": "epl-ast-ful-2026-10-31-total-1pt5",
-   "outcome": "Over",
-   "token": "98317636645244041287968997024671232850737599188052541827175527680871861891967",
-   "shares": 12.5,
-   "entry": 0.8,
-   "cost": 10.0,
-   "opened": 1793376562.9886117,
-   "opened_iso": "2026-10-30T16:09:22+00:00",
-   "news": "ASTON VILLA-FULHAM: OVER 1.5 (approssimato)",
-   "reason": "pengwin approx: replicates over 1.5 leg of combo",
-   "conf": 1.0,
-   "end": "2026-10-31T20:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1793485480.55088
   },
   {
    "market_id": "5909608",
@@ -1409,6 +1390,29 @@
    "pnl": 2.522797488691058,
    "why": "resolved",
    "closed_iso": "2026-10-31T22:10:38+00:00"
+  },
+  {
+   "market_id": "5855676",
+   "question": "Aston Villa FC vs. Fulham FC: O/U 1.5",
+   "slug": "epl-ast-ful-2026-10-31-total-1pt5",
+   "outcome": "Over",
+   "token": "98317636645244041287968997024671232850737599188052541827175527680871861891967",
+   "shares": 12.5,
+   "entry": 0.8,
+   "cost": 10.0,
+   "opened": 1793376562.9886117,
+   "opened_iso": "2026-10-30T16:09:22+00:00",
+   "news": "ASTON VILLA-FULHAM: OVER 1.5 (approssimato)",
+   "reason": "pengwin approx: replicates over 1.5 leg of combo",
+   "conf": 1.0,
+   "end": "2026-10-31T20:00:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1793486134.8495302,
+   "exit": 1.0,
+   "pnl": 2.5,
+   "why": "resolved",
+   "closed_iso": "2026-10-31T22:25:35+00:00"
   }
  ],
  "cooldown": {
@@ -1469,6 +1473,7 @@
   "5855698": 1793486984.5895953,
   "5852629": 1793487229.098592,
   "5862724": 1793487594.5860329,
-  "5855754": 1793495438.6013217
+  "5855754": 1793495438.6013217,
+  "5855676": 1793496335.2806466
  }
 }
