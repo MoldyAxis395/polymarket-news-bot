@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T15:59:08",
+ "updated": "2026-10-31T17:49:37",
  "start": 100.0,
- "cash": 13.82,
- "equity": 125.14,
+ "cash": 26.48,
+ "equity": 111.91,
  "open": [
   {
    "market_id": "5960431",
@@ -55,25 +55,7 @@
    "reason": "pengwin approx: approx via Elche O/U 1.5 Over",
    "conf": 1.0,
    "end": "2026-11-01T17:30:00+00:00",
-   "last_bid": 0.41,
-   "book_err": false
-  },
-  {
-   "market_id": "5856542",
-   "question": "FC Augsburg vs. SC Freiburg: 1st Half O/U 0.5",
-   "slug": "bun-aug-fre-2026-10-31-first-half-total-0pt5",
-   "outcome": "Over",
-   "token": "98734388666110738108677415699996235444139745111881921625523256461281021830907",
-   "shares": 12.658227848101266,
-   "entry": 0.79,
-   "cost": 10.0,
-   "opened": 1793372962.5341005,
-   "opened_iso": "2026-10-30T15:09:22+00:00",
-   "news": "AUGSBURG-FRIBURGO: 1st Half O/U 0.5 Over (approssimato)",
-   "reason": "pengwin approx: replicates one leg of the combo",
-   "conf": 1.0,
-   "end": "2026-10-31T14:30:00+00:00",
-   "last_bid": 0.999,
+   "last_bid": 0.4,
    "book_err": false
   },
   {
@@ -91,7 +73,7 @@
    "reason": "pengwin exact: Both Teams to Score",
    "conf": 1.0,
    "end": "2026-10-31T15:00:00+00:00",
-   "last_bid": 0.64,
+   "last_bid": 0.14,
    "book_err": false
   },
   {
@@ -109,7 +91,7 @@
    "reason": "pengwin approx: approximate lower bound of multigol 1-3",
    "conf": 1.0,
    "end": "2026-10-31T15:00:00+00:00",
-   "last_bid": 0.8,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -145,7 +127,7 @@
    "reason": "pengwin approx: home win leg of combo",
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.58,
+   "last_bid": 0.57,
    "book_err": false
   },
   {
@@ -199,30 +181,12 @@
    "reason": "pengwin exact: both teams to score",
    "conf": 1.0,
    "end": "2026-10-31T19:45:00+00:00",
-   "last_bid": 0.59,
-   "book_err": false
-  },
-  {
-   "market_id": "5856405",
-   "question": "FC Schalke 04 vs. RB Leipzig: FC Schalke 04 O/U 0.5",
-   "slug": "bun-s04-lei-2026-10-31-team-total-home-0pt5",
-   "outcome": "Over",
-   "token": "48073521524771822021061186060579460692861652533151584671602609736732244344166",
-   "shares": 13.333333333333334,
-   "entry": 0.75,
-   "cost": 10.0,
-   "opened": 1793414327.8194883,
-   "opened_iso": "2026-10-31T02:38:47+00:00",
-   "news": "SCHALKE-LIPSIA: MULTIGOL 1-2 CASA (approssimato)",
-   "reason": "pengwin approx: home Over 0.5 approximates scoring at least one goal",
-   "conf": 1.0,
-   "end": "2026-10-31T14:30:00+00:00",
-   "last_bid": 0.58,
+   "last_bid": 0.6,
    "book_err": false
   }
  ],
- "closed_count": 50,
- "realized_pnl": 27.94,
+ "closed_count": 52,
+ "realized_pnl": 20.6,
  "pages": {
   "pending": 104,
   "picked": 1,

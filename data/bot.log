@@ -23697,3 +23697,33 @@
 2026-10-31 15:57:20 [pengwin] TORINO-COMO: no Polymarket event (try 102)
 2026-10-31 15:58:04 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.20 :: Chelsea FC vs. Manchester United FC: O/U 1.5
 2026-10-31 15:59:16 shift over, state saved
+2026-10-31 17:44:41 === start mode=paper pid=2176 ===
+2026-10-31 17:44:41 brain=llm cash=82.82 open=0
+2026-10-31 17:44:41 resuming with 6136 known news items
+2026-10-31 17:45:07 indexed 1031 markets
+2026-10-31 17:45:29   drop[verify] Bowen Byram (D, Chicago Blackhawks) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Byram not a market‑moving star
+2026-10-31 17:45:30 NEWS [ESPN 0m] Mike Matheson (D, Montreal Canadiens) ruled out: Day-To-Day -> Out [NHL]
+2026-10-31 17:45:30   skip Penguins :: Penguins vs. Canadiens (low conf 0.62)
+2026-10-31 17:45:32   drop[verify] Colton Parayko (D, St. Louis Blues) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Parayko not on Blues
+2026-10-31 17:45:34   drop[side] Tottenham Hotspur confirmed lineup vs Crystal Palace: James Maddison ruled out of starting (ESPN) :: Will Tottenham Hotspur FC win on 2026-10-31? -> Yes vs fact ruled_out: James Maddison (Tottenham Hotspur, soccer), bad f
+2026-10-31 17:45:37   drop[verify] Crystal Palace confirmed lineup vs Tottenham Hotspur: Walter Benítez, Anan Khalaili ruled  (ESPN) :: Uncertain if Benítez still plays for Palace and if the headline is current/accurate
+2026-10-31 17:45:37   llm groq-120b: rate limited, skip 4s
+2026-10-31 17:45:39 NEWS [ESPN 1m] Real Betis confirmed lineup vs Málaga: Diego Llorente, Ángel Ortiz, Valentín Gómez, Antony, Dani Ceballos, Nelson Deossa ruled out of starting XI [esp.1]
+2026-10-31 17:45:39   skip No :: Will Real Betis Balompié win on 2026-10-31? (low conf 0.6)
+2026-10-31 17:45:40 NEWS [ESPN 1m] Málaga confirmed lineup vs Real Betis: Ángel Recio ruled out of starting XI [esp.1]
+2026-10-31 17:45:40   skip Yes :: Will Real Betis Balompié win on 2026-10-31? (low conf 0.6)
+2026-10-31 17:45:40 NEWS [ESPN 1m] Udinese confirmed lineup vs AS Roma: Nicolò Bertola, Giorgi Chakvetadze ruled out of starting XI [ita.1]
+2026-10-31 17:45:40   skip No :: Will Udinese Calcio win on 2026-10-31? (low conf 0.6)
+2026-10-31 17:45:43   drop[verify] AS Roma confirmed lineup vs Udinese: Konstantinos Koulierakis, Gianluca Mancini, Niccolò P (ESPN) :: player affiliation/importance unclear
+2026-10-31 17:45:43   llm groq-120b: rate limited, skip 5s
+2026-10-31 17:45:44   drop[not-key] Bayern Munich confirmed lineup vs Borussia Dortmund: Nathaniel Brown, Josip Stanisic, Jona (ESPN) :: Tom Bischof: ruled out
+2026-10-31 17:45:45   drop[side] Borussia Dortmund confirmed lineup vs Bayern Munich: Ramy Bensebaini, Marcel Sabitzer, Jul (ESPN) :: Will BV Borussia 09 Dortmund win on 2026-10-31? -> Yes vs fact ruled_out: Ramy Bensebaini (Borussia Dortmund, soccer), b
+2026-10-31 17:45:46 NEWS [ESPN 1m] Charlotte FC confirmed lineup vs Orlando City SC: Rodolfo Aloko ruled out of starting XI [usa.1]
+2026-10-31 17:45:46   skip No :: Will Charlotte FC win on 2026-10-31? (low conf 0.6)
+2026-10-31 17:45:46   llm groq-20b: rate limited, skip 5s
+2026-10-31 17:46:49 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 103)
+2026-10-31 17:46:51 [pengwin] TORINO-COMO: no Polymarket event (try 103)
+2026-10-31 17:47:32 [pengwin]   book error FC Augsburg vs. SC Freiburg: 1st Half O/U 0.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=98734388666110738108677415699996235444139745111881921625523256461281021830907
+2026-10-31 17:47:33 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.66 :: FC Augsburg vs. SC Freiburg: 1st Half O/U 0.5
+2026-10-31 17:47:34 [pengwin]   book error FC Schalke 04 vs. RB Leipzig: FC Schalke 04 O/U 0.: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=48073521524771822021061186060579460692861652533151584671602609736732244344166
+2026-10-31 17:47:34 [pengwin]   SELL Over @ 0.000 (resolved) pnl -10.00 :: FC Schalke 04 vs. RB Leipzig: FC Schalke 04 O/U 0.5
