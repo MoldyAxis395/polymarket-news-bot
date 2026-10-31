@@ -23591,3 +23591,16 @@
 2026-10-31 13:14:22   skip No :: Will Club Atlético de Madrid win on 2026-10-31? (low conf 0.6)
 2026-10-31 13:15:15 indexed 1092 markets
 2026-10-31 13:15:19   drop[kind] Anton Stach injury hint ahead of Leeds United's trip to Bournemouth (Yorkshire Evening Post) :: other
+2026-10-31 13:21:25   drop[no-market] Lynn hails grit of 13-player Wales in Japan win (BBC) :: Wales national rugby union team
+2026-10-31 13:22:21 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 97)
+2026-10-31 13:22:23 [pengwin] TORINO-COMO: no Polymarket event (try 97)
+2026-10-31 13:25:17 indexed 1104 markets
+2026-10-31 13:26:52   drop[not-key] Senators' Hayden Hodgson Suspended Two Games for Boarding | NHL (RG.org) :: Hayden Hodgson: Suspended two games for boarding
+2026-10-31 13:28:23   llm groq-120b: rate limited, skip 133s
+2026-10-31 13:28:24   drop[no-pick] New Zealand into semis with statement win over Fiji (BBC) :: short
+2026-10-31 13:29:18   drop[kind] Hospital Inauguration Dispute in Feta Leads to Injury and Damage (Ratopati) :: other
+2026-10-31 13:35:18 indexed 1079 markets
+2026-10-31 13:36:07   drop[no-market] Tamil Nadu: Prisons DGP transferred after Theni jailbreak; nine staff suspended, all 17 es (Organiser) :: Tamil Nadu Prisons Department
+2026-10-31 13:38:37   drop[kind] “Leaving the Back Door Open”: Geno Auriemma Offers His Perspective on Allisha Gray Playing (EssentiallySports) :: other
+2026-10-31 13:43:01   drop[kind] Sunderland seek vital lift at Coventry City amid injury doubts (OneFootball) :: other
+2026-10-31 13:45:19 indexed 1075 markets
