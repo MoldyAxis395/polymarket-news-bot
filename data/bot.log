@@ -23843,3 +23843,36 @@
 2026-10-31 19:47:47   drop[kind] Clutch Scoops: Latest NBA injury talk, trade intel after Jalen Williams, Anthony Edwards i (ClutchPoints) :: other
 2026-10-31 19:48:16 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 107)
 2026-10-31 19:48:18 [pengwin] TORINO-COMO: no Polymarket event (try 107)
+2026-10-31 19:50:04   drop[1-source] 🚨 The group were handed suspended sentences (Facebook) :: the group mentioned in the article, wait 2nd source
+2026-10-31 19:52:31   llm groq-120b: rate limited, skip 144s
+2026-10-31 19:52:31   drop[not-key] Arizona’s R.J. Mosley Carted Off After Devastating Injury (The Spun) :: R.J. Mosley: devastating injury
+2026-10-31 19:53:46   drop[not-key] Brennan Othmann (LW, Calgary Flames) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Brennan Othmann: day‑to‑day injury
+2026-10-31 19:55:21 indexed 997 markets
+2026-10-31 19:57:01   drop[team-not-named] Saibari Forced Off With Knee Injury Against Dortmund (Morocco World News) :: Al Ahly
+2026-10-31 19:57:45   llm groq-120b: rate limited, skip 180s
+2026-10-31 19:57:45   drop[no-market] SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution (CNBC) :: SpaceX
+2026-10-31 19:59:18   drop[kind] Cardiff City: Injury issues mounting for Bluebirds as new fitness fears emerge (BBC) :: other
+2026-10-31 20:01:55   drop[1-source] Louisville football WR Lawayne McCoy out for 'extended period' with injury (The Courier-Journal) :: Lawayne McCoy, wait 2nd source
+2026-10-31 20:01:55   llm groq-120b: rate limited, skip 216s
+2026-10-31 20:01:56   drop[1-source] Josh Manson's Injury Gives Noah Juulsen a Golden Opportunity in Colorado (The Hockey News) :: Josh Manson, wait 2nd source
+2026-10-31 20:02:47   drop[side] Aston Villa confirmed lineup vs Fulham: João Gomes ruled out of starting XI [eng.1] (ESPN) :: Will Aston Villa FC win on 2026-10-31? -> Yes vs fact ruled_out: João Gomes (Aston Villa, soccer), bad for Aston Villa. 
+2026-10-31 20:02:48   drop[side] Fulham confirmed lineup vs Aston Villa: Hugo Larsson ruled out of starting XI [eng.1] (ESPN) :: Will Fulham FC win on 2026-10-31? -> Yes vs fact ruled_out: Hugo Larsson (Fulham, soccer), bad for Fulham. injury
+2026-10-31 20:02:49   drop[side] AC Milan confirmed lineup vs Internazionale: Pervis Estupiñán, Fikayo Tomori, Alphadjo Cis (ESPN) :: Will AC Milan win on 2026-10-31? -> Yes vs fact ruled_out: Omari Hutchinson (AC Milan, soccer), bad for AC Milan. injury
+2026-10-31 20:02:50 NEWS [ESPN 0m] Internazionale confirmed lineup vs AC Milan: Ivan Provedel, Piotr Zielinski, Aleksandar Stankovic, Federico Dimarco, Ange-Yoan Bonny ruled out of starting XI [ita.1]
+2026-10-31 20:02:50   skip Yes :: Will FC Internazionale Milano win on 2026-10-31? (low conf 0.6)
+2026-10-31 20:05:23 indexed 1003 markets
+2026-10-31 20:11:07 NEWS [NBC Sports 3m] Before Daron Payne suffered a season-ending injury, the Commanders were in trade talks
+2026-10-31 20:11:07   skip Eagles :: Eagles vs. Commanders (low conf 0.6)
+2026-10-31 20:11:07   llm groq-120b: rate limited, skip 227s
+2026-10-31 20:11:07   drop[unconfirmed] Morocco fear for Ismael Saibari after injury in Der Klassiker (Dailysports) :: injury
+2026-10-31 20:11:08   drop[not-key] Mike Matheson Injury: Canadiens Defenseman Out Two Weeks (Gino Hard) :: Mike Matheson: injury
+2026-10-31 20:14:33   drop[not-key] L'Jarius Sneed (CB, Kansas City Chiefs) ruled out: Questionable -> Injured Reserve [NFL] (ESPN) :: L'Jarius Sneed: knee injury
+2026-10-31 20:15:26 indexed 986 markets
+2026-10-31 20:15:28   llm groq-120b: rate limited, skip 314s
+2026-10-31 20:15:29 NEWS [ESPN 0m] Barcelona confirmed lineup vs Alavés: Gerard Martín, Xavi Espart, Anthony Gordon, Marc Bernal, Dani Olmo ruled out of starting XI [esp.1]
+2026-10-31 20:15:29   skip No :: Will FC Barcelona win on 2026-10-31? (low conf 0.6)
+2026-10-31 20:15:29   drop[unconfirmed] Alavés confirmed lineup vs Barcelona: Carles Aleñá, Nicolás Valentini, Mariano Díaz, Pablo (ESPN) :: injury
+2026-10-31 20:15:34   drop[not-key] Arizona freshman R.J. Mosley taken off on cart with left leg injury against Texas Tech (WSLS) :: R.J. Mosley: left leg injury
+2026-10-31 20:15:35   drop[1-source] B.C. acupuncturist suspended over alleged ‘serious boundary and informed consent violation (CTV News) :: B.C. acupuncturist, wait 2nd source
+2026-10-31 20:18:38 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 108)
+2026-10-31 20:18:40 [pengwin] TORINO-COMO: no Polymarket event (try 108)
