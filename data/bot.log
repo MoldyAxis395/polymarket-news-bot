@@ -23613,3 +23613,34 @@
 2026-10-31 14:05:21 indexed 1071 markets
 2026-10-31 14:15:23 indexed 1068 markets
 2026-10-31 14:15:41   drop[team-not-named] Bad news for Burak Yılmaz! The star player has been suspended for the Fenerbahçe match. (Haberler.com) :: Beşiktaş JK
+2026-10-31 14:20:04   drop[1-source] Arsenal star ruled out for several weeks as Arteta names tendon damage fears (Football FanCast) :: Arsenal Football Club, wait 2nd source
+2026-10-31 14:22:22   drop[1-source] Joseph O'Brien's Defiantly ruled out of the Melbourne Cup (RTE.ie) :: Joseph O'Brien, wait 2nd source
+2026-10-31 14:24:17 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 99)
+2026-10-31 14:24:20 [pengwin] TORINO-COMO: no Polymarket event (try 99)
+2026-10-31 14:25:22 indexed 1075 markets
+2026-10-31 14:25:24   drop[no-pick] West Indies beat Bangladesh by eight wickets to take series lead reut.rs/48vbCDG (Reuters) :: No relevant market
+2026-10-31 14:25:51   drop[not-key] Bologna confirmed lineup vs Monza: Matteo Darmian, Nicoló, Rahim Alhassane, Samuel Mbangul (ESPN) :: Matteo Darmian: injury
+2026-10-31 14:25:51   llm groq-120b: rate limited, skip 119s
+2026-10-31 14:25:52   drop[not-key] Monza confirmed lineup vs Bologna: Andrea Carboni, Ebenezer Akinsanmiro, Jay Robinson rule (ESPN) :: Andrea Carboni: ruled out
+2026-10-31 14:29:20   drop[1-source] Brighton confirm double injury boost for Manchester City (SussexWorld) :: Manchester City, wait 2nd source
+2026-10-31 14:31:58   llm groq-120b: rate limited, skip 84s
+2026-10-31 14:31:59   drop[side] Bayer Leverkusen confirmed lineup vs VfB Stuttgart: Janis Blaswich, Loïc Badé, Malik Tillm (ESPN) :: Will Bayer 04 Leverkusen win on 2026-10-31? -> Yes vs fact ruled_out: Janis Blaswich (Bayer Leverkusen, soccer), bad for
+2026-10-31 14:32:00   drop[no-pick] VfB Stuttgart confirmed lineup vs Bayer Leverkusen: Finn Jeltsch, Maximilian Mittelstädt,  (ESPN) :: short
+2026-10-31 14:32:01 NEWS [ESPN 0m] Schalke 04 confirmed lineup vs RB Leipzig: Soufian El-Faouzi, Junior Dina Ebimbe, Robin Gosens ruled out of starting XI [ger.1]
+2026-10-31 14:32:01   skip Yes :: Will RB Leipzig win on 2026-10-31? (low conf 0.6)
+2026-10-31 14:32:02   drop[side] RB Leipzig confirmed lineup vs Schalke 04: Ørjan Nyland, Maxime Estève, Max Finkgrafe, And (ESPN) :: Will RB Leipzig win on 2026-10-31? -> Yes vs fact ruled_out: Ørjan Nyland (RB Leipzig, soccer), bad for RB Leipzig. inju
+2026-10-31 14:34:04   drop[kind] Chiefs face concerning injury situation ahead of crucial Week 8 divisional clash (KC Kingdom) :: other
+2026-10-31 14:35:23 indexed 1076 markets
+2026-10-31 14:38:30   drop[kind] Chelsea vs Manchester United - Premier League: Estevao and Matheus Cunha have goals ruled  (Daily Mail) :: other
+2026-10-31 14:40:15   llm groq-120b: rate limited, skip 57s
+2026-10-31 14:40:15 NEWS [ESPN 0m] FC Augsburg confirmed lineup vs SC Freiburg: Calvin Brackelmann, Juma Bah, Marius Wolf ruled out of starting XI [ger.1]
+2026-10-31 14:40:15   skip No :: Will FC Augsburg win on 2026-10-31? (low conf 0.6)
+2026-10-31 14:40:16   drop[side] SC Freiburg confirmed lineup vs FC Augsburg: Philipp Treu, Patrick Osterhage ruled out of  (ESPN) :: Will SC Freiburg win on 2026-10-31? -> Yes vs fact ruled_out: Philipp Treu (SC Freiburg, soccer), bad for SC Freiburg. r
+2026-10-31 14:42:16   llm groq-120b: rate limited, skip 21s
+2026-10-31 14:42:17   drop[side] Borussia Mönchengladbach confirmed lineup vs SC Paderborn 07: Moritz Nicolas, Hugo Bolin r (ESPN) :: Will Borussia Mönchengladbach win on 2026-10-31? -> Yes vs fact ruled_out: Moritz Nicolas (Borussia Mönchengladbach, soc
+2026-10-31 14:42:18 NEWS [ESPN 0m] SC Paderborn 07 confirmed lineup vs Borussia Mönchengladbach: Steffen Tigges, Laurin Ulrich ruled out of starting XI [ger.1]
+2026-10-31 14:42:18   skip No :: Will SC Paderborn 07 win on 2026-10-31? (low conf 0.6)
+2026-10-31 14:45:25 indexed 1073 markets
+2026-10-31 14:47:47   drop[kind] Packers Get Exciting Micah Parsons News Amid Ongoing Injury (heavy.com) :: other
+2026-10-31 14:47:47   llm groq-120b: rate limited, skip 5s
+2026-10-31 14:47:48   drop[team-not-named] Addl DIG suspended after raid uncovers drug use, DJ parties at his property (The Business Standard) :: 
