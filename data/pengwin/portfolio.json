@@ -71,7 +71,8 @@
    "conf": 1.0,
    "end": "2026-10-31T12:30:00+00:00",
    "last_bid": 0.999,
-   "book_err": false
+   "book_err": true,
+   "settle_retry": 1793458667.1139898
   },
   {
    "market_id": "5856542",
@@ -88,7 +89,7 @@
    "reason": "pengwin approx: replicates one leg of the combo",
    "conf": 1.0,
    "end": "2026-10-31T14:30:00+00:00",
-   "last_bid": 0.76,
+   "last_bid": 0.99,
    "book_err": false
   },
   {
@@ -232,7 +233,7 @@
    "reason": "pengwin approx: home Over 0.5 approximates scoring at least one goal",
    "conf": 1.0,
    "end": "2026-10-31T14:30:00+00:00",
-   "last_bid": 0.7,
+   "last_bid": 0.64,
    "book_err": false
   }
  ],

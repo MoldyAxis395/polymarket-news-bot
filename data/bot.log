@@ -23668,3 +23668,22 @@
 2026-10-31 15:15:24 indexed 1065 markets
 2026-10-31 15:15:28   drop[1-source] Frank Onyeka injury latest as Coventry City make big Matt Grimes call vs Sunderland (Coventry Telegraph) :: Frank Onyeka, wait 2nd source
 2026-10-31 15:17:29   drop[kind] 🚨 9 consecutive games without a win for Manchester United. 9️⃣❌ Only two wins this season  (Fabrizio Romano) :: other
+2026-10-31 15:20:51   llm groq-120b: rate limited, skip 86s
+2026-10-31 15:20:51   drop[1-source] Commanders star DT Daron Payne suffers significant foot injury (Touchdown Wire) :: Daron Payne, wait 2nd source
+2026-10-31 15:25:27 indexed 1073 markets
+2026-10-31 15:26:18 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 101)
+2026-10-31 15:26:21   llm groq-120b: rate limited, skip 687s
+2026-10-31 15:26:21 [pengwin] TORINO-COMO: no Polymarket event (try 101)
+2026-10-31 15:27:49   drop[team-not-named] Game-Day Cal Injury Report: Key Players Suddenly Available (Sports Illustrated) :: California Golden Bears
+2026-10-31 15:27:50   drop[team-not-named] Additional DIG suspended after DJ party raid at his rented Dhaka house (bdnews24.com) :: Bangladesh Police
+2026-10-31 15:29:38 NEWS [ESPN 0m] Rayo Vallecano confirmed lineup vs Celta Vigo: Iván Balliu, Pathé Ciss ruled out of starting XI [esp.1]
+2026-10-31 15:29:38   skip No :: Will Rayo Vallecano de Madrid win on 2026-10-31? (low conf 0.6)
+2026-10-31 15:29:39   drop[side] Celta Vigo confirmed lineup vs Rayo Vallecano: Marcos Alonso, Pablo Durán ruled out of sta (ESPN) :: Will RC Celta de Vigo win on 2026-10-31? -> Yes vs fact ruled_out: Marcos Alonso (Celta Vigo, soccer), bad for Celta Vig
+2026-10-31 15:30:08   drop[1-source] Shah Ghouse to Raghavendra Udipi: 14 Hyderabad eateries licences suspended by TGSAFE (NewsMeter) :: Hyderabad eateries, wait 2nd source
+2026-10-31 15:35:27 indexed 1062 markets
+2026-10-31 15:37:48   drop[1-source] A curse that won't stop: injury rules Salem Al-Dawsari out of the Al-Hilal and Al-Fateh ma (Goal.com) :: Salem Al-Dawsari, wait 2nd source
+2026-10-31 15:37:48   drop[team-not-named] Addl DIG Abdullah Al Jahir suspended over DJ party at Purbachal house (The Daily Star) :: Bangladesh Police
+2026-10-31 15:40:52   drop[1-source] A curse that will not stop: injury rules Salem Al-Dawsari out of the Al-Hilal and Al-Fateh (Goal.com) :: Salem Al-Dawsari, wait 2nd source
+2026-10-31 15:43:10   drop[team-not-named] Additional DIG suspended over drug use and DJ party at home (en.bd-pratidin.com) :: Bangladesh Police
+2026-10-31 15:45:29 indexed 1066 markets
+2026-10-31 15:47:47 [pengwin]   book error Chelsea FC vs. Manchester United FC: O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=19805731535723309782446777706145942439483996586757314892154888035358891311580
