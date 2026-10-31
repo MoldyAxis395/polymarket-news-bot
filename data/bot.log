@@ -23953,3 +23953,31 @@
 2026-10-31 21:48:04   drop[1-source] Browns Get Major Injury Boost Before Steelers Game (247Sports) :: J.K. Dobbins, wait 2nd source
 2026-10-31 21:49:22 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 111)
 2026-10-31 21:49:25 [pengwin] TORINO-COMO: no Polymarket event (try 111)
+2026-10-31 21:50:23   llm groq-120b: rate limited, skip 112s
+2026-10-31 21:50:23   drop[1-source] NY Attorney Kelly McCollum Suspended Over Client Complaints (Hoodline) :: Kelly McCollum, wait 2nd source
+2026-10-31 21:52:15   drop[not-key] Rashid Shaheed (WR, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: Rashid Shaheed: knee injury
+2026-10-31 21:52:54   drop[kind] De Zerbi reveals Porro conversation after latest Spurs injury scare (London Evening Standard) :: other
+2026-10-31 21:55:34 indexed 1009 markets
+2026-10-31 21:57:38   llm groq-120b: rate limited, skip 89s
+2026-10-31 21:57:39   drop[no-market] Charles Cross (OT, Seattle Seahawks) ruled out: Doubtful -> Out [NFL] (ESPN) :: Seattle Seahawks
+2026-10-31 21:59:33   drop[kind] Saturday Night Injury Watch: Week 8 Skill Players (Footballguys) :: other
+2026-10-31 21:59:33   llm groq-120b: rate limited, skip 290s
+2026-10-31 21:59:33   drop[no-market] Chargers place Derwin James on Injured Reserve after hamstring setback (USA Today) :: Los Angeles Chargers
+2026-10-31 22:02:03   drop[team-not-named] Knicks' search for another center just got complicated by Chet Holmgren injury (Daily Knicks) :: Oklahoma City Thunder
+2026-10-31 22:05:37 indexed 1005 markets
+2026-10-31 22:06:28   drop[1-source] Loan report – Kabia suffers injury; Sagoe Jr and Setford feature (Jeorge Bird's Arsenal Youth) :: Kabia, wait 2nd source
+2026-10-31 22:08:51   llm groq-120b: rate limited, skip 19s
+2026-10-31 22:08:52   drop[side] Mikel Brown Jr. (G, Brooklyn Nets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Nets vs. Pacers -> Nets vs fact ruled_out: Mikel Brown Jr. (Brooklyn Nets, nba), bad for Brooklyn Nets. misses first gam
+2026-10-31 22:11:20   drop[not-key] Rashid Shaheed Ruled out for MNF (Fantasy Footballers Podcast) :: Rashid Shaheed: injury
+2026-10-31 22:11:20   llm groq-120b: rate limited, skip 170s
+2026-10-31 22:11:21   drop[kind] Seahawks Get Major RB Injury Boosts Ahead of Bears Game (Heavy.com) :: other
+2026-10-31 22:12:54   drop[not-key] Velus Jones Jr. (RB, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: Velus Jones Jr.: injury
+2026-10-31 22:13:25   drop[kind] Obi Toppin Injury: Questionable for Sunday (RotoWire) :: other
+2026-10-31 22:13:25   drop[unconfirmed] Mohammed Kudus completes first 90 minutes since injury return as Tottenham beat Crystal Pa (SportsWorldGhana) :: player returned
+2026-10-31 22:14:43   SELL Hornets @ 0.440 (stop loss) pnl -1.02 :: 76ers vs. Hornets
+2026-10-31 22:15:38 indexed 1005 markets
+2026-10-31 22:15:45   drop[kind] Babcock: Injury to Oilers’ Isaac Howard ‘not as serious as first thought’ (Oilers Nation) :: other
+2026-10-31 22:18:04   llm groq-120b: rate limited, skip 62s
+2026-10-31 22:18:04   drop[team-not-named] Ivica Zubac Injury: Ruled out for Sunday (RotoWire) :: Los Angeles Lakers
+2026-10-31 22:19:31 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 112)
+2026-10-31 22:19:33 [pengwin] TORINO-COMO: no Polymarket event (try 112)

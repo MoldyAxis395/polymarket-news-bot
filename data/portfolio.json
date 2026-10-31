@@ -1,25 +1,6 @@
 {
- "cash": 72.82400358194319,
- "positions": [
-  {
-   "market_id": "6167325",
-   "question": "76ers vs. Hornets",
-   "slug": "nba-phi-cha-2026-10-31",
-   "outcome": "Hornets",
-   "token": "63066883240502395157907848966581056033418482625131124489143915905261888331687",
-   "shares": 20.408163265306122,
-   "entry": 0.49,
-   "cost": 10.0,
-   "opened": 1793467219.733439,
-   "opened_iso": "2026-10-31T17:20:19+00:00",
-   "news": "Joel Embiid (C, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA]",
-   "reason": "llm[groq-20b] trusted: Embiid ruled out, hurting 76ers, so Hornets' chance rises",
-   "conf": 0.7,
-   "end": "2026-10-31T22:00:00+00:00",
-   "last_bid": 0.48,
-   "book_err": false
-  }
- ],
+ "cash": 81.80359541867789,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -2108,6 +2089,28 @@
    "pnl": 0.0,
    "why": "market closing",
    "closed_iso": "2026-10-31T17:55:17+00:00"
+  },
+  {
+   "market_id": "6167325",
+   "question": "76ers vs. Hornets",
+   "slug": "nba-phi-cha-2026-10-31",
+   "outcome": "Hornets",
+   "token": "63066883240502395157907848966581056033418482625131124489143915905261888331687",
+   "shares": 20.408163265306122,
+   "entry": 0.49,
+   "cost": 10.0,
+   "opened": 1793467219.733439,
+   "opened_iso": "2026-10-31T17:20:19+00:00",
+   "news": "Joel Embiid (C, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA]",
+   "reason": "llm[groq-20b] trusted: Embiid ruled out, hurting 76ers, so Hornets' chance rises",
+   "conf": 0.7,
+   "end": "2026-10-31T22:00:00+00:00",
+   "last_bid": 0.44,
+   "book_err": false,
+   "exit": 0.44,
+   "pnl": -1.0204081632653068,
+   "why": "stop loss",
+   "closed_iso": "2026-10-31T21:14:43+00:00"
   }
  ],
  "cooldown": {
@@ -2174,6 +2177,7 @@
   "4551284": 1792958103.7324388,
   "5406624": 1793328267.1508827,
   "6101711": 1793413513.771552,
-  "5285927": 1793480117.9071138
+  "5285927": 1793480117.9071138,
+  "6167325": 1793492083.5112715
  }
 }
