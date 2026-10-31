@@ -23357,3 +23357,28 @@
 2026-10-31 02:37:14 [pengwin] TORINO-COMO: no Polymarket event (try 79)
 2026-10-31 02:37:16   llm groq-120b: rate limited, skip 13s
 2026-10-31 02:37:16 [pengwin] SCHALKE-LIPSIA: no Polymarket event (try 8)
+2026-10-31 02:42:56   drop[kind] Falcons Face Serious Injury Issues Before Buccaneers Game (heavy.com) :: other
+2026-10-31 02:45:35 indexed 985 markets
+2026-10-31 02:45:51   drop[not-key] Auburn football wide receiver Jeremiah Koger ruled out against Ole Miss (Yahoo Sports) :: Jeremiah Koger: ruled out for Auburn vs Ole Miss
+2026-10-31 02:45:51   llm groq-120b: rate limited, skip 179s
+2026-10-31 02:45:52   drop[not-key] Ottawa Senators F Hayden Hodgson suspended by NHL's Department of Player Safety (ESPN) :: Hayden Hodgson: suspension
+2026-10-31 02:52:39   drop[1-source] Thunder injury woes grow; Chet Holmgren out 8-10 weeks for knee treatment (Marco Eagle) :: Chet Holmgren, wait 2nd source
+2026-10-31 02:52:39   llm groq-120b: rate limited, skip 113s
+2026-10-31 02:52:41   drop[unconfirmed] Sesko injury leaves Man United looking at 14-goal star ahead of January window (Yardbarker) :: injury
+2026-10-31 02:55:35 indexed 987 markets
+2026-10-31 02:57:16   drop[1-source] Riley Van Poppel return gives Nebraska a major boost before Washington showdown (Husker Corner) :: Riley Van Poppel, wait 2nd source
+2026-10-31 02:59:33   drop[team-not-named] Polish president turns back from Senegal trip after ally suspended from top court in judic (New York Post) :: Poland
+2026-10-31 03:01:50   llm groq-120b: rate limited, skip 207s
+2026-10-31 03:01:51   drop[1-source] Tigers respond to Gelof injury lawsuit in court. Here's what the team says (The Detroit News) :: Gelof, wait 2nd source
+2026-10-31 03:04:24   drop[unconfirmed] UCF QB Alonza Barnett returns after Keyone Jenkins injury vs. Baylor (The Palm Beach Post) :: returns after injury
+2026-10-31 03:04:25   drop[team-not-named] News in Easy English: Man gets suspended prison sentence after sushi shop videos (毎日新聞) :: 
+2026-10-31 03:05:35 indexed 1001 markets
+2026-10-31 03:05:53 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-10-31 03:06:28   drop[1-source] Texas football news: Colin Simmons ruled out for Mississippi State (ClutchPoints) :: Colin Simmons, wait 2nd source
+2026-10-31 03:07:55 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 80)
+2026-10-31 03:07:57   llm groq-120b: rate limited, skip 76s
+2026-10-31 03:07:57 [pengwin] TORINO-COMO: no Polymarket event (try 80)
+2026-10-31 03:08:00 [pengwin] SCHALKE-LIPSIA: no Polymarket event (try 9)
+2026-10-31 03:08:46   drop[unconfirmed] R.J. Harvey's Knee Injury Not Long-Term (Draft Sharks) :: knee injury
+2026-10-31 03:08:46   drop[unconfirmed] LJ Cleary Sidelined With Injury For 9-12 Months (Fightful) :: injury
+2026-10-31 03:08:47   drop[1-source] Cheetah Shooting Case: Six MP Forest Staff Suspended, Two Held (urbanacres.in) :: MP Forest Staff, wait 2nd source
