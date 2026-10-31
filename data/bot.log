@@ -23358,3 +23358,26 @@
 2026-10-31 01:15:10   drop[no-market] Michigan Football Dealt Major Injury Blow Ahead of Rutgers Showdown (Detroit Sports Nation) :: Michigan Wolverines football
 2026-10-31 01:21:15 indexed 992 markets
 2026-10-31 01:21:16   drop[kind] Gen Z protests reach Germany as over 160,000 expected at Halloween rallies reut.rs/4zjaeQl (Reuters) :: other
+2026-10-31 01:26:41   drop[1-source] Penn State vs. Purdue injury report (Friday): Wide receiver downgraded, defensive tackle r (247Sports) :: Jared McKinney, wait 2nd source
+2026-10-31 01:31:16 indexed 1002 markets
+2026-10-31 01:31:20   drop[1-source] Texas EDGE Colin Simmons officially ruled out on Friday's SEC injury report (247Sports) :: Colin Simmons, wait 2nd source
+2026-10-31 01:31:20   llm groq-120b: rate limited, skip 13s
+2026-10-31 01:31:20   drop[not-key] FRIDAY Ole Miss vs. Auburn Injury Report: Luke Ferrelli Added, Terez Davis Upgraded (The Rebel Walk) :: Luke Ferrelli: injury
+2026-10-31 01:33:39   drop[not-key] Hayden Hodgson (RW, Ottawa Senators) ruled out: healthy -> Suspension [NHL] (ESPN) :: Hayden Hodgson: suspended
+2026-10-31 01:33:39   llm groq-120b: rate limited, skip 78s
+2026-10-31 01:33:40   drop[no-market] Texas Longhorns Make Final Injury Decision on Colin Simmons vs. Mississippi State (Sports Illustrated) :: Texas Longhorns
+2026-10-31 01:33:41   drop[no-pick] Senators’ Hayden Hodgson suspended 2 games for hit on Kings’ Brandt Clarke (The New York Times) :: short
+2026-10-31 01:35:56   llm groq-120b: rate limited, skip 9s
+2026-10-31 01:35:57 NEWS [Sportsnet.ca 5m] Senators' Hodgson suspended two games for boarding Kings' Clarke
+2026-10-31 01:35:57   skip Sharks :: Senators vs. Sharks (low conf 0.6)
+2026-10-31 01:38:26   drop[not-key] Hodgson suspended two games for actions in Senators game (NHL.com) :: Jesse Hodgson: suspended two games for actions in Senators game
+2026-10-31 01:38:26   llm groq-120b: rate limited, skip 149s
+2026-10-31 01:38:26   drop[kind] 'Stick to your routine' - injury warning from ACC ahead of Auckland marathon (RNZ) :: other
+2026-10-31 01:40:33   drop[no-pick] Commanders DT Daron Payne, potential trade deadline target, suffers significant injury: So (The New York Times) :: no suitable outcome to rise
+2026-10-31 01:41:17 indexed 989 markets
+2026-10-31 01:42:54   drop[unconfirmed] Report: Daron Payne suffers foot injury, likely headed to IR (Ahn Fire Digital) :: foot injury likely leads to IR
+2026-10-31 01:42:54   llm groq-120b: rate limited, skip 236s
+2026-10-31 01:42:54   drop[not-key] Senators F Hodgson suspended two games for boarding Kings D Clarke (TSN) :: F Hodgson: boarding
+2026-10-31 01:49:45   drop[not-key] Senators' Forward Hayden Hodgson Officially Suspended (The Hockey News) :: Hayden Hodgson: officially suspended
+2026-10-31 01:51:18 indexed 990 markets
+2026-10-31 01:52:08   drop[kind] Clippers Face Timberwolves in Key Western Conference Clash Amidst Injury Woes for Minnesot (SSBCrack) :: other

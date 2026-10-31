@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T01:24:03",
+ "updated": "2026-10-31T01:54:31",
  "start": 100.0,
  "cash": 11.63,
- "equity": 122.84,
+ "equity": 123.07,
  "open": [
   {
    "market_id": "5960431",
@@ -55,7 +55,7 @@
    "reason": "pengwin approx: approx via Elche O/U 1.5 Over",
    "conf": 1.0,
    "end": "2026-11-01T17:30:00+00:00",
-   "last_bid": 0.39,
+   "last_bid": 0.4,
    "book_err": false
   },
   {
