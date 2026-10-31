@@ -23815,3 +23815,31 @@
 2026-10-31 19:17:58 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 106)
 2026-10-31 19:18:00   llm groq-120b: rate limited, skip 15s
 2026-10-31 19:18:00 [pengwin] TORINO-COMO: no Polymarket event (try 106)
+2026-10-31 19:23:49   llm groq-120b: rate limited, skip 29s
+2026-10-31 19:23:49   drop[side] Adrian Kempe (RW, Los Angeles Kings) ruled out: healthy -> Out [NHL] (ESPN) :: Sabres vs. Kings -> Kings vs fact ruled_out: Adrian Kempe (Los Angeles Kings, nhl), bad for Los Angeles Kings. out with 
+2026-10-31 19:25:18 indexed 989 markets
+2026-10-31 19:29:13   drop[1-source] Bayern Munich’s Ismael Saibari and Serge Gnabry come off injured against Borussia Dortmund (Bavarian Football Works) :: Serge Gnabry, wait 2nd source
+2026-10-31 19:31:30   llm groq-120b: rate limited, skip 38s
+2026-10-31 19:31:30   drop[unconfirmed] Penn State Football Receivers Chase Sowell & Koby Howard Ruled Out Against Purdue (Onward State) :: injury
+2026-10-31 19:35:19 indexed 996 markets
+2026-10-31 19:36:11   drop[no-market] Gators’ WR Vernell Brown III ruled out against Georgia (Orlando Sentinel) :: Florida Gators
+2026-10-31 19:36:12   drop[1-source] Dolphins Get Unexpected Injury Development Before Patriots Game (Heavy.com) :: Miami Dolphins, wait 2nd source
+2026-10-31 19:38:26   llm groq-120b: rate limited, skip 121s
+2026-10-31 19:38:27   drop[1-source] On video: worrying injury for Al-Saibari in the German Clasico, and another blow for Bayer (Goal.com) :: Al-Saibari, wait 2nd source
+2026-10-31 19:40:46   llm groq-120b: rate limited, skip 343s
+2026-10-31 19:40:46   drop[no-pick] Florida football injury report: WR Vernell Brown III out for UF vs UGA (Sarasota Herald-Tribune) :: short
+2026-10-31 19:40:47   drop[1-source] Double injury shock for Bayern Munich! Two Bayern stars forced off early against Borussia  (Goal.com) :: Joshua Kimmich, wait 2nd source
+2026-10-31 19:45:22 indexed 996 markets
+2026-10-31 19:45:27   drop[not-key] Broncos RB Jonah Coleman 'ready for any opportunity' vs. Chiefs with RJ Harvey ruled out (NFL.com) :: RJ Harvey: injury
+2026-10-31 19:45:29 NEWS [Gators Wire 3m] Florida WR Vernell Brown III ruled out against Georgia
+2026-10-31 19:45:29   skip Georgia :: Florida vs. Georgia (rss sport (measure only))
+2026-10-31 19:45:29   drop[kind] Predicting What Lamar Jackson Will Do Vs. Bills In First Game Back From Injury (Sports Illustrated) :: other
+2026-10-31 19:45:33   drop[unconfirmed] Andre Burakovsky (LW, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: injury
+2026-10-31 19:46:31   llm groq-120b: rate limited, skip 147s
+2026-10-31 19:46:33   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-10-31 19:46:33   drop[verify] Le Mans confirmed lineup vs Troyes: Djibril Sidibé ruled out of starting XI [fra.1] (ESPN) :: no answer
+2026-10-31 19:47:46   drop[1-source] Double injury blow for Bayern Munich! Two Bayern stars forced off early against Borussia D (Goal.com) :: Joshua Kimmich, wait 2nd source
+2026-10-31 19:47:46   drop[not-key] Sanandaj: Pouria Saeidi Sentenced to Three Years of Suspended Imprisonment (Hana Human Rights Organization) :: Pouria Saeidi: legal sentence
+2026-10-31 19:47:47   drop[kind] Clutch Scoops: Latest NBA injury talk, trade intel after Jalen Williams, Anthony Edwards i (ClutchPoints) :: other
+2026-10-31 19:48:16 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 107)
+2026-10-31 19:48:18 [pengwin] TORINO-COMO: no Polymarket event (try 107)

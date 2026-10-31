@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T19:19:43",
+ "updated": "2026-10-31T19:49:01",
  "start": 100.0,
  "cash": 38.53,
- "equity": 113.74,
+ "equity": 112.73,
  "open": [
   {
    "market_id": "5960431",
@@ -37,7 +37,7 @@
    "reason": "pengwin approx: Multigol 2-5 casa approximated to over 1.5",
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.83,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -73,7 +73,7 @@
    "reason": "pengwin approx: home team over 2.5 approximates 2-4",
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.43,
+   "last_bid": 0.27,
    "book_err": false
   },
   {
@@ -91,7 +91,7 @@
    "reason": "pengwin approx: home win leg of combo",
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.91,
+   "last_bid": 0.92,
    "book_err": false
   },
   {
@@ -109,7 +109,7 @@
    "reason": "pengwin approx: replicates over 1.5 leg of combo",
    "conf": 1.0,
    "end": "2026-10-31T20:00:00+00:00",
-   "last_bid": 0.78,
+   "last_bid": 0.77,
    "book_err": false
   },
   {
@@ -145,7 +145,7 @@
    "reason": "pengwin exact: both teams to score",
    "conf": 1.0,
    "end": "2026-10-31T19:45:00+00:00",
-   "last_bid": 0.6,
+   "last_bid": 0.57,
    "book_err": false
   }
  ],
