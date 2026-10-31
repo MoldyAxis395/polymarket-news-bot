@@ -1,5 +1,5 @@
 {
- "cash": 38.5294495471493,
+ "cash": 66.5507991468443,
  "positions": [
   {
    "market_id": "5960431",
@@ -20,25 +20,6 @@
    "book_err": false
   },
   {
-   "market_id": "5862724",
-   "question": "Real Betis Balompi\u00e9 vs. M\u00e1laga CF: O/U 1.5",
-   "slug": "lal-bet-mala-2026-10-31-total-1pt5",
-   "outcome": "Over",
-   "token": "103886056229041775312862534592017004390354093847122952378551251197670427237816",
-   "shares": 11.627906976744185,
-   "entry": 0.8600000000000001,
-   "cost": 10.0,
-   "opened": 1793369233.2321844,
-   "opened_iso": "2026-10-30T14:07:13+00:00",
-   "news": "Betis-Malaga: REAL BETIS O/U 1.5 OVER (approssimato)",
-   "reason": "pengwin approx: Multigol 2-5 casa approximated to over 1.5",
-   "conf": 1.0,
-   "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1793476783.6961484
-  },
-  {
    "market_id": "5916983",
    "question": "Elche CF vs. Valencia CF: Elche CF O/U 1.5",
    "slug": "lal-elc-val-2026-11-01-team-total-home-1pt5",
@@ -57,25 +38,6 @@
    "book_err": false
   },
   {
-   "market_id": "5852629",
-   "question": "Will Tottenham Hotspur FC win on 2026-10-31?",
-   "slug": "epl-tot-cry-2026-10-31-tot",
-   "outcome": "Yes",
-   "token": "86485533606162469866365105310499422626774688947215885542387344625537007460579",
-   "shares": 16.39344262295082,
-   "entry": 0.61,
-   "cost": 9.999999999999998,
-   "opened": 1793376557.7987247,
-   "opened_iso": "2026-10-30T16:09:17+00:00",
-   "news": "TOTTENHAM-CRYSTAL PALACE: 1 (approssimato)",
-   "reason": "pengwin approx: home win leg of combo",
-   "conf": 1.0,
-   "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1793476428.2460952
-  },
-  {
    "market_id": "5855676",
    "question": "Aston Villa FC vs. Fulham FC: O/U 1.5",
    "slug": "epl-ast-ful-2026-10-31-total-1pt5",
@@ -90,7 +52,7 @@
    "reason": "pengwin approx: replicates over 1.5 leg of combo",
    "conf": 1.0,
    "end": "2026-10-31T20:00:00+00:00",
-   "last_bid": 0.79,
+   "last_bid": 0.75,
    "book_err": false
   },
   {
@@ -126,7 +88,7 @@
    "reason": "pengwin exact: both teams to score",
    "conf": 1.0,
    "end": "2026-10-31T19:45:00+00:00",
-   "last_bid": 0.58,
+   "last_bid": 0.999,
    "book_err": false
   }
  ],
@@ -1395,6 +1357,52 @@
    "pnl": -10.0,
    "why": "resolved",
    "closed_iso": "2026-10-31T19:49:44+00:00"
+  },
+  {
+   "market_id": "5852629",
+   "question": "Will Tottenham Hotspur FC win on 2026-10-31?",
+   "slug": "epl-tot-cry-2026-10-31-tot",
+   "outcome": "Yes",
+   "token": "86485533606162469866365105310499422626774688947215885542387344625537007460579",
+   "shares": 16.39344262295082,
+   "entry": 0.61,
+   "cost": 9.999999999999998,
+   "opened": 1793376557.7987247,
+   "opened_iso": "2026-10-30T16:09:17+00:00",
+   "news": "TOTTENHAM-CRYSTAL PALACE: 1 (approssimato)",
+   "reason": "pengwin approx: home win leg of combo",
+   "conf": 1.0,
+   "end": "2026-10-31T17:30:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1793477028.5158231,
+   "exit": 1.0,
+   "pnl": 6.39344262295082,
+   "why": "resolved",
+   "closed_iso": "2026-10-31T19:53:49+00:00"
+  },
+  {
+   "market_id": "5862724",
+   "question": "Real Betis Balompi\u00e9 vs. M\u00e1laga CF: O/U 1.5",
+   "slug": "lal-bet-mala-2026-10-31-total-1pt5",
+   "outcome": "Over",
+   "token": "103886056229041775312862534592017004390354093847122952378551251197670427237816",
+   "shares": 11.627906976744185,
+   "entry": 0.8600000000000001,
+   "cost": 10.0,
+   "opened": 1793369233.2321844,
+   "opened_iso": "2026-10-30T14:07:13+00:00",
+   "news": "Betis-Malaga: REAL BETIS O/U 1.5 OVER (approssimato)",
+   "reason": "pengwin approx: Multigol 2-5 casa approximated to over 1.5",
+   "conf": 1.0,
+   "end": "2026-10-31T17:30:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1793477394.063846,
+   "exit": 1.0,
+   "pnl": 1.6279069767441854,
+   "why": "resolved",
+   "closed_iso": "2026-10-31T19:59:54+00:00"
   }
  ],
  "cooldown": {
@@ -1452,6 +1460,8 @@
   "5856405": 1793476055.0310588,
   "5856219": 1793477343.0156102,
   "5856683": 1793478308.0031877,
-  "5855698": 1793486984.5895953
+  "5855698": 1793486984.5895953,
+  "5852629": 1793487229.098592,
+  "5862724": 1793487594.5860329
  }
 }

@@ -23904,3 +23904,34 @@
 2026-10-31 20:49:43 [pengwin]   book error Real Betis Balompié vs. Málaga CF: O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=103886056229041775312862534592017004390354093847122952378551251197670427237816
 2026-10-31 20:49:44 [pengwin]   book error FC Bayern München vs. BV Borussia 09 Dortmund: FC : 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=65223251593293144802097528102965191490270165814929467814030341926042534916843
 2026-10-31 20:49:44 [pengwin]   SELL Over @ 0.000 (resolved) pnl -10.00 :: FC Bayern München vs. BV Borussia 09 Dortmund: FC Bayern München O/U 2.5
+2026-10-31 20:50:12   drop[1-source] Rangers 1 Aberdeen 0: Late Hampden heartache for injury hit Dons in Premier Sports Cup sem (Press and Journal) :: Rangers Football Club, wait 2nd source
+2026-10-31 20:50:47   llm groq-120b: rate limited, skip 262s
+2026-10-31 20:50:49 NEWS [ESPN 3m] Stephen Curry (G, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA]
+2026-10-31 20:50:49   skip Clippers :: Clippers vs. Warriors (illiquid)
+2026-10-31 20:52:31   drop[team-not-named] Stephen Curry News: Ruled out for Sunday (RotoWire) :: Golden State Warriors
+2026-10-31 20:53:48 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +6.39 :: Will Tottenham Hotspur FC win on 2026-10-31?
+2026-10-31 20:55:28 indexed 1004 markets
+2026-10-31 20:57:19   drop[1-source] Personnel disaster: Bayern leader suffers injury in Der Klassiker (Dailysports) :: Manuel Neuer, wait 2nd source
+2026-10-31 20:59:24   drop[team-not-named] UN demands investigation after Yemeni staff member dies in Houthi custody (Latest news from Azerbaijan) :: United Nations
+2026-10-31 20:59:54 [pengwin]   SELL Over @ 1.000 (resolved) pnl +1.63 :: Real Betis Balompié vs. Málaga CF: O/U 1.5
+2026-10-31 21:05:04   llm groq-120b: rate limited, skip 218s
+2026-10-31 21:05:04 NEWS [ESPN 0m] Divine Deablo (LB, Atlanta Falcons) ruled out: Questionable -> Out [NFL]
+2026-10-31 21:05:04   skip Buccaneers :: Falcons vs. Buccaneers (low conf 0.6)
+2026-10-31 21:05:30 indexed 1015 markets
+2026-10-31 21:05:33 NEWS [Reuters 0m] Kane misses penalty, hits post as Dortmund snatch draw reut.rs/48rC55a
+2026-10-31 21:05:33   skip No :: Will BV Borussia 09 Dortmund win on 2026-11-04? (low conf 0.6)
+2026-10-31 21:06:06   drop[unconfirmed] Draymond Green (F, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: injury
+2026-10-31 21:08:41   drop[team-not-named] Derwin James hits IR with hamstring injury (NBC Sports) :: Tampa Bay Buccaneers
+2026-10-31 21:08:42   drop[unconfirmed] Mitchell injury blow adds to England’s woes as Northampton sink Gloucester (The Guardian) :: injury
+2026-10-31 21:12:13   llm groq-120b: rate limited, skip 55s
+2026-10-31 21:12:14   drop[side] Billy Bowman Jr. (CB, Atlanta Falcons) ruled out: Questionable -> Out [NFL] (ESPN) :: Falcons vs. Buccaneers -> Falcons vs fact ruled_out: Billy Bowman Jr. (Atlanta Falcons, nfl), bad for Atlanta Falcons. i
+2026-10-31 21:12:41   drop[side] LA Galaxy confirmed lineup vs Austin FC: Erik Thommy, Robert Taylor ruled out of starting  (ESPN) :: Will Los Angeles Galaxy win on 2026-10-31? -> Yes vs fact ruled_out: Erik Thommy (LA Galaxy, soccer), bad for LA Galaxy.
+2026-10-31 21:12:44   drop[verify] Austin FC confirmed lineup vs LA Galaxy: Joseph Rosales, Myrto Uzuni, Facundo Torres, Bran (ESPN) :: Player not confirmed on roster or not star
+2026-10-31 21:15:32 indexed 1014 markets
+2026-10-31 21:15:52   drop[kind] Wolves to assess midfielder after injury in Cardiff win (Express and Star) :: other
+2026-10-31 21:17:57   llm groq-120b: rate limited, skip 66s
+2026-10-31 21:17:57   drop[not-key] T'Vondre Sweat placed on injured reserve with knee injury (ESPN) :: T'Vondre Sweat: knee injury
+2026-10-31 21:18:56   drop[verify] San Jose Earthquakes confirmed lineup vs Real Salt Lake: Angus Gunn, Eduard Löwen, Vítor C (ESPN) :: Timo Werner is not a San Jose Earthquakes player
+2026-10-31 21:18:58   drop[verify] Real Salt Lake confirmed lineup vs San Jose Earthquakes: Kobi Henry, Morgan Guilavogui rul (ESPN) :: Uncertain if injury is new
+2026-10-31 21:19:14 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 110)
+2026-10-31 21:19:16 [pengwin] TORINO-COMO: no Polymarket event (try 110)
