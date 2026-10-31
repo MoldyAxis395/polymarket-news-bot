@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T22:46:32",
+ "updated": "2026-10-31T23:16:41",
  "start": 100.0,
- "cash": 66.55,
- "equity": 115.03,
+ "cash": 73.19,
+ "equity": 115.04,
  "open": [
   {
    "market_id": "5960431",
@@ -56,7 +56,8 @@
    "conf": 1.0,
    "end": "2026-10-31T20:00:00+00:00",
    "last_bid": 0.999,
-   "book_err": false
+   "book_err": true,
+   "settle_retry": 1793485480.55088
   },
   {
    "market_id": "5909608",
@@ -75,28 +76,10 @@
    "end": "2026-11-01T19:45:00+00:00",
    "last_bid": 0.58,
    "book_err": false
-  },
-  {
-   "market_id": "5855754",
-   "question": "AC Milan vs. FC Internazionale Milano: Both Teams to Score",
-   "slug": "sea-mil-int-2026-10-31-btts",
-   "outcome": "Yes",
-   "token": "33623585067916950365228558270235774812392260631014405783663177273175800708386",
-   "shares": 6.638940759713311,
-   "entry": 0.62,
-   "cost": 4.116143271022253,
-   "opened": 1793380166.2743297,
-   "opened_iso": "2026-10-30T17:09:26+00:00",
-   "news": "MILAN-INTER: GG (esatto)",
-   "reason": "pengwin exact: both teams to score",
-   "conf": 1.0,
-   "end": "2026-10-31T19:45:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false
   }
  ],
- "closed_count": 57,
- "realized_pnl": 10.67,
+ "closed_count": 58,
+ "realized_pnl": 13.19,
  "pages": {
   "pending": 104,
   "picked": 1,

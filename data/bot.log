@@ -24001,3 +24001,24 @@
 2026-10-31 22:46:34   drop[no-market] Bowen double helps Cardiff beat pointless Ospreys (BBC) :: Cardiff Rugby
 2026-10-31 22:49:40 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 113)
 2026-10-31 22:49:43 [pengwin] TORINO-COMO: no Polymarket event (try 113)
+2026-10-31 22:52:43   drop[kind] Boston Legacy FC Nearing End of Injury-Riddled Campaign (The Blazing Musket) :: other
+2026-10-31 22:52:43   drop[1-source] Goa POCSO Case Triggers Probe as Crime Branch Inspector Suspended (Urban Acres) :: Goa Crime Branch, wait 2nd source
+2026-10-31 22:55:01   drop[team-not-named] LeBron James, Joel Embiid Out Saturday Due To Injury Management (RealGM) :: Los Angeles Lakers
+2026-10-31 22:55:40 indexed 994 markets
+2026-10-31 22:58:07   llm groq-120b: rate limited, skip 166s
+2026-10-31 22:58:07   drop[not-key] C.J. Gardner-Johnson (S, Buffalo Bills) cleared to play: Suspension -> Active [NFL] (ESPN) :: C.J. Gardner-Johnson: suspension lifted
+2026-10-31 23:00:43   drop[unconfirmed] AC Milan score three first-half goals to seal derby victory over Inter (BBC) :: derby win
+2026-10-31 23:01:58   drop[1-source] Injured Ohio State DB Jay Timmons to miss game at USC (The Columbus Dispatch) :: Jay Timmons, wait 2nd source
+2026-10-31 23:05:41 indexed 998 markets
+2026-10-31 23:09:46   drop[no-market] Ryan Moore at his brilliant best! Benvenuto Cellini soars to Breeders' Cup Turf win (Sky Sports) :: Benvenuto Cellini
+2026-10-31 23:10:38 [pengwin]   SELL Yes @ 1.000 (resolved) pnl +2.52 :: AC Milan vs. FC Internazionale Milano: Both Teams to Score
+2026-10-31 23:12:54   llm groq-120b: rate limited, skip 131s
+2026-10-31 23:12:54   drop[side] C.J. Gardner-Johnson (S, Buffalo Bills) ruled out: Active -> Suspension [NFL] (ESPN) :: Ravens vs. Bills -> Bills vs fact suspended: C.J. Gardner-Johnson (Buffalo Bills, nfl), bad for Buffalo Bills. suspensio
+2026-10-31 23:13:25   drop[not-key] The latest on Georgia football DB Ellis Robinson's injury vs. Florida (Online Athens) :: Ellis Robinson: injury
+2026-10-31 23:14:40 [pengwin]   book error Aston Villa FC vs. Fulham FC: O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=98317636645244041287968997024671232850737599188052541827175527680871861891967
+2026-10-31 23:15:42 indexed 1003 markets
+2026-10-31 23:15:59   drop[no-market] Northwestern safety Jon Jon Stevens exits in second half with upper-body injury (ESPN) :: Northwestern Wildcats
+2026-10-31 23:18:05   llm groq-120b: rate limited, skip 147s
+2026-10-31 23:18:06   drop[kind] Arsenal handed triple injury boost as three players travel to Liverpool (ArsenalNews.co.uk) :: other
+2026-10-31 23:19:48 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 114)
+2026-10-31 23:19:51 [pengwin] TORINO-COMO: no Polymarket event (try 114)
