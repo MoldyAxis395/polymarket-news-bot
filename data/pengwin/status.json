@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T18:19:00",
+ "updated": "2026-10-31T18:49:24",
  "start": 100.0,
  "cash": 38.53,
- "equity": 119.79,
+ "equity": 110.48,
  "open": [
   {
    "market_id": "5960431",
@@ -37,7 +37,7 @@
    "reason": "pengwin approx: Multigol 2-5 casa approximated to over 1.5",
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.84,
+   "last_bid": 0.78,
    "book_err": false
   },
   {
@@ -55,27 +55,8 @@
    "reason": "pengwin approx: approx via Elche O/U 1.5 Over",
    "conf": 1.0,
    "end": "2026-11-01T17:30:00+00:00",
-   "last_bid": 0.4,
+   "last_bid": 0.41,
    "book_err": false
-  },
-  {
-   "market_id": "5856683",
-   "question": "Manchester City FC vs. Brighton & Hove Albion FC: Both Teams to Score",
-   "slug": "epl-mac-bri-2026-10-31-btts",
-   "outcome": "Yes",
-   "token": "21072331789296453439061846400558618551687854585112247408741104346930010084707",
-   "shares": 15.15151515151515,
-   "entry": 0.66,
-   "cost": 10.0,
-   "opened": 1793374750.1519399,
-   "opened_iso": "2026-10-30T15:39:10+00:00",
-   "news": "MANCHESTER CITY-BRIGHTON: GG (esatto)",
-   "reason": "pengwin exact: Both Teams to Score",
-   "conf": 1.0,
-   "end": "2026-10-31T15:00:00+00:00",
-   "last_bid": null,
-   "book_err": true,
-   "settle_retry": 1793467448.9299445
   },
   {
    "market_id": "5855698",
@@ -92,7 +73,7 @@
    "reason": "pengwin approx: home team over 2.5 approximates 2-4",
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.54,
+   "last_bid": 0.4,
    "book_err": false
   },
   {
@@ -110,7 +91,7 @@
    "reason": "pengwin approx: home win leg of combo",
    "conf": 1.0,
    "end": "2026-10-31T17:30:00+00:00",
-   "last_bid": 0.58,
+   "last_bid": 0.8,
    "book_err": false
   },
   {
@@ -168,8 +149,8 @@
    "book_err": false
   }
  ],
- "closed_count": 53,
- "realized_pnl": 22.65,
+ "closed_count": 54,
+ "realized_pnl": 12.65,
  "pages": {
   "pending": 104,
   "picked": 1,

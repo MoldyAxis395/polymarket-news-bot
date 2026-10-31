@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-31T18:19:28",
+ "updated": "2026-10-31T18:49:33",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 348,
- "markets_indexed": 1028,
- "news_processed": 67,
- "cash": 72.82,
- "equity": 82.82,
+ "llm_calls_today": 382,
+ "markets_indexed": 991,
+ "news_processed": 110,
+ "cash": 62.82,
+ "equity": 82.62,
  "start": 100.0,
  "open": [
   {
@@ -26,6 +26,24 @@
    "end": "2026-10-31T18:00:00+00:00",
    "last_bid": 0.5,
    "book_err": false
+  },
+  {
+   "market_id": "6167325",
+   "question": "76ers vs. Hornets",
+   "slug": "nba-phi-cha-2026-10-31",
+   "outcome": "Hornets",
+   "token": "63066883240502395157907848966581056033418482625131124489143915905261888331687",
+   "shares": 20.408163265306122,
+   "entry": 0.49,
+   "cost": 10.0,
+   "opened": 1793467219.733439,
+   "opened_iso": "2026-10-31T17:20:19+00:00",
+   "news": "Joel Embiid (C, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA]",
+   "reason": "llm[groq-20b] trusted: Embiid ruled out, hurting 76ers, so Hornets' chance rises",
+   "conf": 0.7,
+   "end": "2026-10-31T22:00:00+00:00",
+   "last_bid": 0.48,
+   "book_err": false
   }
  ],
  "closed_count": 96,
@@ -36,21 +54,22 @@
   ],
   "fallbacks": 5,
   "errors": {
-   "groq-120b": "rate limited, skip 173s"
+   "groq-120b": "rate limited, skip 158s"
   },
   "rejects": {
-   "verify": 5,
-   "side": 2,
-   "not-key": 3,
-   "fluff": 8,
-   "1-source": 2,
-   "kind": 3,
-   "no-pick": 4,
-   "unconfirmed": 3
+   "verify": 6,
+   "side": 3,
+   "not-key": 5,
+   "fluff": 15,
+   "1-source": 3,
+   "kind": 5,
+   "no-pick": 6,
+   "unconfirmed": 6,
+   "team-not-named": 5
   },
   "calls": {
-   "groq-120b": 243,
-   "groq-20b": 105
+   "groq-120b": 255,
+   "groq-20b": 127
   }
  },
  "realized_pnl": -17.18

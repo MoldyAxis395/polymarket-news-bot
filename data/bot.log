@@ -23758,3 +23758,35 @@
 2026-10-31 18:17:18 [pengwin] TORINO-COMO: no Polymarket event (try 104)
 2026-10-31 18:17:35   llm groq-120b: rate limited, skip 173s
 2026-10-31 18:17:36   drop[no-pick] Patriots WR A.J. Brown, RB TreVeyon Henderson among 3 ruled out for Dolphins game (Boston Herald) :: short
+2026-10-31 18:20:07   drop[unconfirmed] Ja Morant To Miss 4 Weeks After Injury Sustained on Return to Memphis Shocks Fans - "Seaso (FirstSportz) :: injury
+2026-10-31 18:20:17   drop[side] Fred VanVleet (G, Houston Rockets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Thunder vs. Rockets -> Rockets vs fact ruled_out: Fred VanVleet (Houston Rockets, nba), bad for Houston Rockets. injury
+2026-10-31 18:20:17   drop[unconfirmed] LeBron James (F, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: player out
+2026-10-31 18:20:19 NEWS [ESPN 8m] Joel Embiid (C, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA]
+2026-10-31 18:20:19   BUY Hornets @ 0.490 x20.4 ($10.00) :: 76ers vs. Hornets
+2026-10-31 18:22:14   llm groq-120b: rate limited, skip 155s
+2026-10-31 18:22:14   drop[no-pick] New York City FC confirmed lineup vs CF Montréal: Hannes Wolf, Aiden O'Neill, Alonso Martí (ESPN) :: short
+2026-10-31 18:22:16 NEWS [ESPN 0m] CF Montréal confirmed lineup vs New York City FC: Efraín Morales, Luca Petrasso, Victor Loturi, Matthew Longstaff, Daniel Ríos, Noah Streit ruled out of starting XI [usa.1]
+2026-10-31 18:22:16   skip No :: Will CF Montréal win on 2026-10-31? (low conf 0.6)
+2026-10-31 18:23:19   drop[unconfirmed] Logan O'Connor (RW, Colorado Avalanche) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: father's death
+2026-10-31 18:24:29   drop[1-source] Arsenal receive early team news boost for Hull clash as suspension confirmed (Sports Mole) :: Arsenal, wait 2nd source
+2026-10-31 18:24:30   drop[no-pick] Pakistan beat Sri Lanka as Zaman’s century turns thrilling tri-series final (Al Jazeera) :: short
+2026-10-31 18:25:07 [pengwin]   SELL Yes @ 0.000 (resolved) pnl -10.00 :: Manchester City FC vs. Brighton & Hove Albion FC: Both Teams to Score
+2026-10-31 18:25:12 indexed 1024 markets
+2026-10-31 18:29:14   drop[team-not-named] BREAKING: Wide receiver A.J. Brown and running back TreVeyon Henderson have been downgrade (Facebook) :: Philadelphia Eagles
+2026-10-31 18:31:25   drop[team-not-named] Sixers Roster News: 2 Key Superstars Ruled Out Tonight vs Hornets (97.3 ESPN) :: Philadelphia 76ers
+2026-10-31 18:35:12 indexed 1003 markets
+2026-10-31 18:35:35   llm groq-120b: rate limited, skip 96s
+2026-10-31 18:35:35   drop[not-key] Reed Sheppard (G, Houston Rockets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Reed Sheppard: day‑to‑day injury
+2026-10-31 18:36:03   drop[kind] Iranian envoys meet Qatari mediators as threat looms of U.S. strikes after midterms (The Globe and Mail) :: other
+2026-10-31 18:36:03   drop[team-not-named] Fred VanVleet Injury: Ruled out for Saturday (RotoWire) :: Toronto Raptors
+2026-10-31 18:38:39   llm groq-120b: rate limited, skip 97s
+2026-10-31 18:38:41   drop[verify] Erik Cernak (D, Tampa Bay Lightning) ruled out: healthy -> Out [NHL] (ESPN) :: Cernak not star, market not about him
+2026-10-31 18:38:41   drop[not-key] Zemgus Girgensons (C, Tampa Bay Lightning) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Zemgus Girgensons: day-to-day
+2026-10-31 18:40:39   llm groq-120b: rate limited, skip 82s
+2026-10-31 18:40:40   drop[kind] Hyderabad Restaurant Licences Suspended Over Food Safety Lapses (urbanacres.in) :: other
+2026-10-31 18:45:12 indexed 991 markets
+2026-10-31 18:45:18   drop[team-not-named] Ja Morant’s Injury Opens the Door for Scoot Henderson (heavy.com) :: Memphis Grizzlies
+2026-10-31 18:47:38 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 105)
+2026-10-31 18:47:41 [pengwin] TORINO-COMO: no Polymarket event (try 105)
+2026-10-31 18:47:43   llm groq-120b: rate limited, skip 158s
+2026-10-31 18:47:44   drop[team-not-named] Sen. Dan S. Sullivan’s X account temporarily suspended on concern it was fake (The Washington Post) :: Democratic Party
