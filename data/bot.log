@@ -24125,3 +24125,19 @@
 2026-11-01 16:00:12   drop[1-source] SSC, NatHealth Partner to Audit Work Injury Claims (Fana News -) :: SSC and NatHealth, wait 2nd source
 2026-11-01 16:03:21 indexed 1133 markets
 2026-11-01 16:04:57   drop[kind] Judge Ends Florence Prison Shoulder Injury Lawsuit (Hoodline) :: other
+2026-11-01 16:13:12 indexed 1114 markets
+2026-11-01 16:14:05   drop[kind] Arsenal XI vs Liverpool: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-11-01 16:15:17   drop[kind] German engineering industry workers begin wage strikes reut.rs/4sBmgSQ (Reuters) :: other
+2026-11-01 16:20:20 NEWS [ESPN 15m] Mitchell Robinson (C, Boston Celtics) ruled out: Day-To-Day -> Out [NBA]
+2026-11-01 16:20:20   skip Magic :: Celtics vs. Magic (low conf 0.6)
+2026-11-01 16:20:58   drop[kind] Liverpool XI vs Arsenal: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-11-01 16:20:59   drop[kind] Toddler treated in hospital after firework injury as NIFRS reports crews targeted on Hallo (loveballymena.online) :: other
+2026-11-01 16:23:11 indexed 1101 markets
+2026-11-01 16:25:17   drop[kind] Portugal weighing bigger Galp stake after Moeve merger collapse, minister says reut.rs/3Wf (Reuters) :: other
+2026-11-01 16:32:42 NEWS [ESPN 0m] Liverpool confirmed lineup vs Arsenal: Ryan Gravenberch ruled out of starting XI [eng.1]
+2026-11-01 16:32:42   skip No :: Will Liverpool FC win on 2026-11-01? (low conf 0.6)
+2026-11-01 16:32:44   drop[verify] Arsenal confirmed lineup vs Liverpool: Ben White, Myles Lewis-Skelly, Mikel Merino, Eberec (ESPN) :: Key players listed aren't Arsenal members, so premise fails
+2026-11-01 16:33:27 indexed 1112 markets
+2026-11-01 16:35:04   drop[kind] Jets RB Braelon Allen set to start vs. Raiders while Breece Hall deals with quad injury: r (SNY) :: other
+2026-11-01 16:35:04   drop[not-key] Arsenal get triple fitness boost as Arteta backs suspended Dowman (Nogomania) :: Dowman: Dowman is suspended, reducing Arsenal's squad
+2026-11-01 16:35:48   drop[no-market] Hardie clinches fifth gold as Scots win European Championship (BBC) :: Scotland (national curling team)
