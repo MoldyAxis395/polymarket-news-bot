@@ -24032,3 +24032,16 @@
 2026-11-01 01:30:39 indexed 1046 markets
 2026-11-01 01:32:14 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 115)
 2026-11-01 01:32:17 [pengwin] TORINO-COMO: no Polymarket event (try 115)
+2026-11-01 01:40:02   drop[1-source] Lakers news: LA rookie guard cleared for debut after preseason injury (ClutchPoints) :: Los Angeles Lakers, wait 2nd source
+2026-11-01 01:40:38 indexed 1037 markets
+2026-11-01 01:42:18   drop[kind] Kirill Marchenko tries something new to help heal his leg injury (Hockey Patrol) :: other
+2026-11-01 01:42:51   llm groq-120b: rate limited, skip 173s
+2026-11-01 01:42:52 NEWS [ESPN 0m] Colorado Rapids confirmed lineup vs Chicago Fire FC: Kosi Thompson, Donavan Phillip, Joshua Atencio ruled out of starting XI [usa.1]
+2026-11-01 01:42:52   skip Yes :: Will Chicago Fire FC win on 2026-10-31? (low conf 0.6)
+2026-11-01 01:42:52   drop[unconfirmed] Chicago Fire FC confirmed lineup vs Colorado Rapids: Leonardo Barroso, Andrew Gutman, Andr (ESPN) :: injury
+2026-11-01 01:50:38 indexed 1035 markets
+2026-11-01 01:53:59   drop[kind] Watch Jake Dickert talk about Gio Lopez' injury (Greensboro News and Record) :: other
+2026-11-01 01:56:09   drop[1-source] FSU football's Deante McCray injury: DE helped off field vs. Clemson (Naples Daily News) :: Deante McCray, wait 2nd source
+2026-11-01 02:00:42 indexed 1043 markets
+2026-11-01 02:02:18 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 116)
+2026-11-01 02:02:20 [pengwin] TORINO-COMO: no Polymarket event (try 116)
