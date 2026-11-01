@@ -24833,3 +24833,35 @@
 2026-11-02 00:04:40   llm groq-20b: rate limited, skip 296s
 2026-11-02 00:05:41   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-11-02 00:05:41   llm groq-120b: rate limited, skip 267s
+2026-11-02 00:09:43   llm groq-20b: rate limited, skip 2s
+2026-11-02 00:10:44   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 00:10:44   llm groq-120b: rate limited, skip 100s
+2026-11-02 00:10:45   llm groq-20b: rate limited, skip 308s
+2026-11-02 00:10:45   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-11-02 00:12:41 indexed 1151 markets
+2026-11-02 00:12:48   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 00:12:48   llm groq-120b: rate limited, skip 337s
+2026-11-02 00:16:55   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 00:16:55   llm groq-20b: rate limited, skip 98s
+2026-11-02 00:18:55   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 00:18:56   llm groq-120b: rate limited, skip 251s
+2026-11-02 00:18:56   llm groq-20b: rate limited, skip 22s
+2026-11-02 00:19:56   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-02 00:19:56   llm groq-20b: rate limited, skip 336s
+2026-11-02 00:22:28 indexed 1139 markets
+2026-11-02 00:23:23   llm groq-120b: rate limited, skip 349s
+2026-11-02 00:23:23   drop[no-pick] New England Revolution confirmed lineup vs Inter Miami CF: Jackson Yueill, Luca Langoni ru (ESPN) :: None
+2026-11-02 00:26:04   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-02 00:26:05   llm groq-20b: rate limited, skip 290s
+2026-11-02 00:30:09   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 00:30:09   llm groq-120b: rate limited, skip 229s
+2026-11-02 00:31:10   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 00:31:10   llm groq-20b: rate limited, skip 257s
+2026-11-02 00:32:38 indexed 1137 markets
+2026-11-02 00:33:16 [pengwin] page b/virtus-entella-mantova-statistiche-quote-e-pronostico-2026: Response ended prematurely
+2026-11-02 00:34:16   drop[team-not-named] #Mavs guard Kyrie Irving (left knee injury management) … (HoopsHype) :: Dallas Mavericks
+2026-11-02 00:34:16   llm groq-120b: rate limited, skip 226s
+2026-11-02 00:34:28 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 134)
+2026-11-02 00:34:30 [pengwin] TORINO-COMO: no Polymarket event (try 134)
+2026-11-02 00:35:43   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-02 00:35:43   llm groq-20b: rate limited, skip 366s
