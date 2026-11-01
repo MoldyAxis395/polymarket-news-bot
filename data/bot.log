@@ -24068,83 +24068,23 @@
 2026-11-01 13:31:32 indexed 1118 markets
 2026-11-01 13:34:05   drop[kind] Mets Castoff Tyler Zuber Cut By Division Rival Shortly After Brutal Injury Setback (Forbes) :: other
 2026-11-01 13:34:05   drop[1-source] Fabio Celestini confirms another injury setback for Burnley's Dastan Satpayev (Burnley Express) :: Dastan Satpayev, wait 2nd source
-2026-11-01 13:40:49   drop[verify] Chiefs Defense Suffers Devastating Blow as Two Starters Are Ruled Out Ahead of Broncos Gam (شبكة تواصل الإخبارية) :: cannot verify player identity, recency, or impact; uncertainty fails criteria
-2026-11-01 13:41:50 indexed 1120 markets
-2026-11-01 13:44:55   drop[no-market] Britain's Dart wins first WTA title in 'wild week' (BBC) :: Great Britain
-2026-11-01 13:45:42   drop[kind] Liverpool offered new hope over major ouble injury boost vs Arsenal (London Evening Standard) :: other
-2026-11-01 13:48:01   drop[kind] Tia Kemp Blames 50 Cent Fans After Her Instagram Live and TikTok Get Suspended (Baller Alert) :: other
-2026-11-01 13:50:18   drop[not-key] Bayern Munich reveal Al-Sibari's injury and announce he will undergo surgery (Goal.com) :: Al‑Sibari: will miss games due to injury and surgery
-2026-11-01 13:51:34 indexed 1124 markets
-2026-11-01 13:52:45   drop[not-key] Bayern Munich reveals Sibari injury and announces he has undergone successful surgery (Goal.com) :: Sibari: underwent successful surgery, will miss upcoming matches
-2026-11-01 13:52:45   drop[1-source] Arsenal new signing suffers serious ankle injury (now.arsenal) :: Arsenal, wait 2nd source
-2026-11-01 13:57:11   drop[unconfirmed] Kenny Gainwell Injury: Expected to play Sunday (RotoWire) :: expected to be available for Sunday game
-2026-11-01 14:01:38 indexed 1129 markets
-2026-11-01 14:04:03   drop[kind] Popular Hair Growth Products Recalled Over Risk of Serious Injury (en.econostrum.info) :: other
-2026-11-01 14:08:39   drop[kind] Arsenal handed huge triple injury boost ahead of trip to Anfield (now.arsenal) :: other
-2026-11-01 14:11:38 indexed 1130 markets
-2026-11-01 14:16:31   drop[not-key] Frosinone confirmed lineup vs Torino: Giorgio Cittadini, Anthony Oyono ruled out of starti (ESPN) :: Giorgio Cittadini: injury
-2026-11-01 14:16:32   drop[not-key] Torino confirmed lineup vs Frosinone: Kian Fitz-Jim, Alessio Cacciamani ruled out of start (ESPN) :: Kian Fitz-Jim: injury
-2026-11-01 14:18:32 NEWS [ESPN 0m] Lazio confirmed lineup vs Cagliari: Diogo Leite ruled out of starting XI [ita.1]
-2026-11-01 14:18:32   skip No :: Will SS Lazio win on 2026-11-01? (low conf 0.6)
-2026-11-01 14:18:34 NEWS [ESPN 0m] Cagliari confirmed lineup vs Lazio: Yerry Mina, Yukinari Sugawara ruled out of starting XI [ita.1]
-2026-11-01 14:18:34   skip Yes :: Will SS Lazio win on 2026-11-01? (low conf 0.6)
-2026-11-01 14:18:34   drop[not-key] Strasbourg confirmed lineup vs AJ Auxerre: Genesis Antwi, Jeyland Mitchell, Pape Diop, Dio (ESPN) :: Genesis Antwi: ruled out of today's starting XI
-2026-11-01 14:20:22   drop[1-source] Chargers Make Crushing Derwin James Injury Decision Before Week 8 vs. Rams (Heavy.com) :: Derwin James, wait 2nd source
-2026-11-01 14:21:39 indexed 1132 markets
-2026-11-01 14:29:30   drop[1-source] Oilers Week Ahead: Schedule & Storylines – Nugent-Hopkins Milestone Watch, Howard’s Injury (The Hockey Writers) :: Evan Bouchard, wait 2nd source
-2026-11-01 14:31:42 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1400&order=volume24hr&ascending=false&end_date_min=2026-11-01T13%3A31%3A12Z&end_date_max=2026-12-01T13%3A31%3A12Z
-2026-11-01 14:32:16 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1100&order=volume24hr&ascending=false&end_date_min=2026-11-01T13%3A31%3A54Z&end_date_max=2026-12-01T13%3A31%3A54Z
-2026-11-01 14:33:09 indexed 1134 markets
-2026-11-01 14:39:15   drop[not-key] 1. FC Union Berlin confirmed lineup vs FC Cologne: Tom Rothe, Felix Uduokhai, Jeong Woo-Ye (ESPN) :: Tom Rothe: injury
-2026-11-01 14:39:15   drop[no-market] FC Cologne confirmed lineup vs 1. FC Union Berlin: Luka Lochoshvili, Mikey Moore ruled out (ESPN) :: FC Cologne
-2026-11-01 14:40:20   drop[1-source] Bayern Munich Confirm Ismael Saibari Injury, Moroccan Midfielder Faces Three-Month Absence (Morocco World News) :: Ismael Saibari, wait 2nd source
-2026-11-01 14:42:55 indexed 1131 markets
-2026-11-01 14:47:34   drop[1-source] Panchkula School Assault: 8-yr-old boy sent to observation home; 2 teachers suspended, FIR (Babushahi.com) :: Panchkula School, wait 2nd source
-2026-11-01 14:49:51   drop[1-source] Just in: Barcelona receive major injury boost as key defender returns to part group traini (Barca Universal) :: Ronald Araújo, wait 2nd source
-2026-11-01 14:52:57 indexed 1133 markets
-2026-11-01 14:54:32   drop[not-key] Saibari has surgery for an ankle ligament tear and Bayern teammate Gnabry has a hamstring  (The Lethbridge Herald) :: Saibari: underwent surgery for an ankle ligament tear
-2026-11-01 14:56:49   drop[1-source] Bayern Munich suffer double injury blow as Saibari undergoes surgery, Gnabry sidelined (IANS LIVE) :: Serge Gnabry, wait 2nd source
-2026-11-01 15:00:46   drop[kind] Russian strikes cut power to thousands in Ukraine as drones damage Russian facility reut.r (Reuters) :: other
-2026-11-01 15:03:00 indexed 1125 markets
-2026-11-01 15:13:00 indexed 1125 markets
-2026-11-01 15:18:04   drop[not-key] Racing Santander confirmed lineup vs Real Madrid: Jorge Salinas, Andrés Martín ruled out o (ESPN) :: Jorge Salinas: ruled out of starting XI vs Real Madrid
-2026-11-01 15:18:05   drop[side] Real Madrid confirmed lineup vs Racing Santander: Federico Valverde, Antonio Rüdiger, Álva (ESPN) :: Will Real Racing Club vs. Real Madrid CF end in a draw? -> Yes vs fact ruled_out: Federico Valverde (Real Madrid, soccer
-2026-11-01 15:23:03 indexed 1124 markets
-2026-11-01 15:32:29   drop[1-source] Saibari, Gnabry ruled out indefinitely, say Bayern (Free Malaysia Today) :: Bayern Munich, wait 2nd source
-2026-11-01 15:32:30   drop[not-key] Falkirk's Jacob Murrell has goal ruled out for handball against Celtic (Sky Sports) :: Jacob Murrell: goal disallowed for handball
-2026-11-01 15:33:04 indexed 1131 markets
-2026-11-01 15:41:43   drop[1-source] Chiefs vs. Broncos Injury Report: KC Loses 2 Key Starters, Denver Faces 4 Concerns (heavy.com) :: Kansas City Chiefs, wait 2nd source
-2026-11-01 15:43:03 indexed 1129 markets
-2026-11-01 15:46:42   drop[kind] Jets RB Braelon Allen is slated to start again for the Jets, with Breece Hall still dealin (Ian Rapoport) :: other
-2026-11-01 15:47:13   drop[kind] Titans WR Calvin Ridley (hip) is listed as questionable and and expected to play, source s (Ian Rapoport) :: other
-2026-11-01 15:47:54   drop[unconfirmed] Broncos WR Jaylen Waddle, who has been dealing with a chest injury that he aggravated last (Ian Rapoport) :: Waddle's chest injury appears improving, suggesting he may be able to play soon
-2026-11-01 15:48:31   drop[team-not-named] DJ Moore Injury: On track for return Sunday (RotoWire) :: Chicago Bears
-2026-11-01 15:48:46 NEWS [Ian Rapoport 1m] Jaguars WR Jakobi Meyers, questionable with hamstring and ankle injuries, is good to go today, per source.
-2026-11-01 15:48:46   skip Jaguars :: Colts vs. Jaguars (low conf 0.6)
-2026-11-01 15:53:04 indexed 1131 markets
-2026-11-01 16:00:12   drop[1-source] SSC, NatHealth Partner to Audit Work Injury Claims (Fana News -) :: SSC and NatHealth, wait 2nd source
-2026-11-01 16:03:21 indexed 1133 markets
-2026-11-01 16:04:57   drop[kind] Judge Ends Florence Prison Shoulder Injury Lawsuit (Hoodline) :: other
-2026-11-01 16:13:12 indexed 1114 markets
-2026-11-01 16:14:05   drop[kind] Arsenal XI vs Liverpool: Starting lineup and confirmed team news (London Evening Standard) :: other
-2026-11-01 16:15:17   drop[kind] German engineering industry workers begin wage strikes reut.rs/4sBmgSQ (Reuters) :: other
-2026-11-01 16:20:20 NEWS [ESPN 15m] Mitchell Robinson (C, Boston Celtics) ruled out: Day-To-Day -> Out [NBA]
-2026-11-01 16:20:20   skip Magic :: Celtics vs. Magic (low conf 0.6)
-2026-11-01 16:20:58   drop[kind] Liverpool XI vs Arsenal: Starting lineup and confirmed team news (London Evening Standard) :: other
-2026-11-01 16:20:59   drop[kind] Toddler treated in hospital after firework injury as NIFRS reports crews targeted on Hallo (loveballymena.online) :: other
-2026-11-01 16:23:11 indexed 1101 markets
-2026-11-01 16:25:17   drop[kind] Portugal weighing bigger Galp stake after Moeve merger collapse, minister says reut.rs/3Wf (Reuters) :: other
-2026-11-01 16:32:42 NEWS [ESPN 0m] Liverpool confirmed lineup vs Arsenal: Ryan Gravenberch ruled out of starting XI [eng.1]
-2026-11-01 16:32:42   skip No :: Will Liverpool FC win on 2026-11-01? (low conf 0.6)
-2026-11-01 16:32:44   drop[verify] Arsenal confirmed lineup vs Liverpool: Ben White, Myles Lewis-Skelly, Mikel Merino, Eberec (ESPN) :: Key players listed aren't Arsenal members, so premise fails
-2026-11-01 16:33:27 indexed 1112 markets
-2026-11-01 16:35:04   drop[kind] Jets RB Braelon Allen set to start vs. Raiders while Breece Hall deals with quad injury: r (SNY) :: other
-2026-11-01 16:35:04   drop[not-key] Arsenal get triple fitness boost as Arteta backs suspended Dowman (Nogomania) :: Dowman: Dowman is suspended, reducing Arsenal's squad
-2026-11-01 16:35:48   drop[no-market] Hardie clinches fifth gold as Scots win European Championship (BBC) :: Scotland (national curling team)
-2026-11-01 16:40:43   drop[team-not-named] Lyon confirmed lineup vs Angers: Steeve Kango, Ruben Kluivert, Clinton Mata, Noah Nartey,  (ESPN) :: Olympique Lyonnais
-2026-11-01 16:40:44   drop[no-pick] Angers confirmed lineup vs Lyon: Amine El Ouazzani ruled out of starting XI [fra.1] (ESPN) :: short
-2026-11-01 16:40:46   drop[no-pick] Paris FC confirmed lineup vs AS Monaco: Obed Nkambadio, Adama Camara, Moustapha Mbow, Luca (ESPN) :: short
-2026-11-01 16:40:47 NEWS [ESPN 0m] AS Monaco confirmed lineup vs Paris FC: Ansu Fati, Jordan Teze, Mamadou Coulibaly ruled out of starting XI [fra.1]
-2026-11-01 16:40:47   skip Yes :: Will Paris FC win on 2026-11-01? (low conf 0.62)
-2026-11-01 16:43:13 indexed 1104 markets
-2026-11-01 16:45:39 shift over, state saved
+2026-11-01 16:45:52 === start mode=paper pid=2191 ===
+2026-11-01 16:45:52 brain=llm cash=84.05 open=0
+2026-11-01 16:45:52 resuming with 4894 known news items
+2026-11-01 16:46:17 indexed 1105 markets
+2026-11-01 16:46:37   drop[verify] Mitchell Robinson (C, Boston Celtics) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: player status uncertain and impact likely insufficient
+2026-11-01 16:46:38 NEWS [ESPN 0m] Liverpool confirmed lineup vs Arsenal: Ryan Gravenberch ruled out of starting XI [eng.1]
+2026-11-01 16:46:38   skip No :: Will Liverpool FC win on 2026-11-01? (low conf 0.62)
+2026-11-01 16:47:38   llm groq-120b: unreachable (ReadTimeout), skip 5 min
+2026-11-01 16:47:39   drop[side] Arsenal confirmed lineup vs Liverpool: Ben White, Myles Lewis-Skelly, Mikel Merino, Eberec (ESPN) :: Will Arsenal FC win on 2026-11-01? -> Yes vs fact ruled_out: Viktor Gyökeres (Arsenal, soccer), bad for Arsenal. injury
+2026-11-01 16:47:39   drop[team-not-named] Lyon confirmed lineup vs Angers: Steeve Kango, Ruben Kluivert, Clinton Mata, Noah Nartey,  (ESPN) :: Olympique Lyonnais
+2026-11-01 16:47:40   drop[side] Angers confirmed lineup vs Lyon: Amine El Ouazzani ruled out of starting XI [fra.1] (ESPN) :: Will Angers SCO win on 2026-10-31? -> Yes vs fact ruled_out: Amine El Ouazzani (Angers SCO, soccer), bad for Angers SCO.
+2026-11-01 16:47:40   drop[no-pick] Paris FC confirmed lineup vs AS Monaco: Obed Nkambadio, Adama Camara, Moustapha Mbow, Luca (ESPN) :: short
+2026-11-01 16:47:41   drop[side] AS Monaco confirmed lineup vs Paris FC: Ansu Fati, Jordan Teze, Mamadou Coulibaly ruled ou (ESPN) :: Will AS Monaco FC win on 2026-11-01? -> Yes vs fact ruled_out: Ansu Fati (AS Monaco, soccer), bad for AS Monaco. ruled o
+2026-11-01 16:47:43   drop[verify] Jaguars WR Jakobi Meyers, questionable with hamstring and ankle injuries, is good to go to (Ian Rapoport) :: unknown if still on roster
+2026-11-01 16:47:43   llm groq-20b: rate limited, skip 4s
+2026-11-01 16:47:59 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 123)
+2026-11-01 16:48:01 [pengwin] TORINO-COMO: no Polymarket event (try 123)
+2026-11-01 16:48:22   drop[side] Eintracht Frankfurt confirmed lineup vs Hamburg SV: Nnamdi Collins, Jonathan Burkardt rule (ESPN) :: Will Eintracht Frankfurt win on 2026-11-01? -> Yes vs fact ruled_out: Nnamdi Collins (Eintracht Frankfurt, soccer), bad 
+2026-11-01 16:48:23   drop[no-pick] Hamburg SV confirmed lineup vs Eintracht Frankfurt: Sebastiaan Bornauw, Zakaria El Ouahdi, (ESPN) :: short
+2026-11-01 16:50:51   drop[kind] Child suffers serious injury after being hit by a car in Portsmouth (Portsmouth News) :: other
