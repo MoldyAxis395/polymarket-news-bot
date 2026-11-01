@@ -24798,3 +24798,38 @@
 2026-11-01 23:33:41 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 132)
 2026-11-01 23:33:44 [pengwin] TORINO-COMO: no Polymarket event (try 132)
 2026-11-01 23:34:14   llm groq-20b: rate limited, skip 115s
+2026-11-01 23:36:35   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 23:36:36   llm groq-120b: rate limited, skip 278s
+2026-11-01 23:36:36   llm groq-20b: rate limited, skip 6s
+2026-11-01 23:37:36   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 23:37:36   llm groq-20b: rate limited, skip 288s
+2026-11-01 23:41:43   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 23:41:43   llm groq-120b: rate limited, skip 331s
+2026-11-01 23:42:11 indexed 1139 markets
+2026-11-01 23:42:43   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 23:42:44   llm groq-20b: rate limited, skip 300s
+2026-11-01 23:47:48   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 23:47:48   llm groq-120b: rate limited, skip 125s
+2026-11-01 23:47:49   llm groq-20b: rate limited, skip 265s
+2026-11-01 23:47:49   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-11-01 23:50:51   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 23:50:51   llm groq-120b: rate limited, skip 147s
+2026-11-01 23:52:25 indexed 1137 markets
+2026-11-01 23:52:27   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 23:52:27   llm groq-20b: rate limited, skip 359s
+2026-11-01 23:52:27 NEWS [ESPN 16m] Sean Durzi (D, New York Rangers) ruled out: Day-To-Day -> Out [NHL]
+2026-11-01 23:52:27   skip Oilers :: Oilers vs. Rangers (rules fallback, LLM down (not traded))
+2026-11-01 23:53:26   llm groq-120b: rate limited, skip 37s
+2026-11-01 23:54:27   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 23:54:27   llm groq-120b: rate limited, skip 326s
+2026-11-01 23:58:30   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 23:58:30   llm groq-20b: rate limited, skip 357s
+2026-11-02 00:00:34   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 00:00:34   llm groq-120b: rate limited, skip 260s
+2026-11-02 00:02:27 indexed 1150 markets
+2026-11-02 00:04:05 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 133)
+2026-11-02 00:04:07 [pengwin] TORINO-COMO: no Polymarket event (try 133)
+2026-11-02 00:04:40   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-02 00:04:40   llm groq-20b: rate limited, skip 296s
+2026-11-02 00:05:41   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 00:05:41   llm groq-120b: rate limited, skip 267s
