@@ -24080,3 +24080,18 @@
 2026-11-01 13:57:11   drop[unconfirmed] Kenny Gainwell Injury: Expected to play Sunday (RotoWire) :: expected to be available for Sunday game
 2026-11-01 14:01:38 indexed 1129 markets
 2026-11-01 14:04:03   drop[kind] Popular Hair Growth Products Recalled Over Risk of Serious Injury (en.econostrum.info) :: other
+2026-11-01 14:08:39   drop[kind] Arsenal handed huge triple injury boost ahead of trip to Anfield (now.arsenal) :: other
+2026-11-01 14:11:38 indexed 1130 markets
+2026-11-01 14:16:31   drop[not-key] Frosinone confirmed lineup vs Torino: Giorgio Cittadini, Anthony Oyono ruled out of starti (ESPN) :: Giorgio Cittadini: injury
+2026-11-01 14:16:32   drop[not-key] Torino confirmed lineup vs Frosinone: Kian Fitz-Jim, Alessio Cacciamani ruled out of start (ESPN) :: Kian Fitz-Jim: injury
+2026-11-01 14:18:32 NEWS [ESPN 0m] Lazio confirmed lineup vs Cagliari: Diogo Leite ruled out of starting XI [ita.1]
+2026-11-01 14:18:32   skip No :: Will SS Lazio win on 2026-11-01? (low conf 0.6)
+2026-11-01 14:18:34 NEWS [ESPN 0m] Cagliari confirmed lineup vs Lazio: Yerry Mina, Yukinari Sugawara ruled out of starting XI [ita.1]
+2026-11-01 14:18:34   skip Yes :: Will SS Lazio win on 2026-11-01? (low conf 0.6)
+2026-11-01 14:18:34   drop[not-key] Strasbourg confirmed lineup vs AJ Auxerre: Genesis Antwi, Jeyland Mitchell, Pape Diop, Dio (ESPN) :: Genesis Antwi: ruled out of today's starting XI
+2026-11-01 14:20:22   drop[1-source] Chargers Make Crushing Derwin James Injury Decision Before Week 8 vs. Rams (Heavy.com) :: Derwin James, wait 2nd source
+2026-11-01 14:21:39 indexed 1132 markets
+2026-11-01 14:29:30   drop[1-source] Oilers Week Ahead: Schedule & Storylines – Nugent-Hopkins Milestone Watch, Howard’s Injury (The Hockey Writers) :: Evan Bouchard, wait 2nd source
+2026-11-01 14:31:42 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1400&order=volume24hr&ascending=false&end_date_min=2026-11-01T13%3A31%3A12Z&end_date_max=2026-12-01T13%3A31%3A12Z
+2026-11-01 14:32:16 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1100&order=volume24hr&ascending=false&end_date_min=2026-11-01T13%3A31%3A54Z&end_date_max=2026-12-01T13%3A31%3A54Z
+2026-11-01 14:33:09 indexed 1134 markets
