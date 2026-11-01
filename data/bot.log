@@ -24033,3 +24033,14 @@
 2026-11-01 06:32:24   drop[kind] Bati dealt triple injury blow in World Cup exit (FBC News) :: other
 2026-11-01 06:36:05 indexed 1004 markets
 2026-11-01 06:46:12 indexed 1005 markets
+2026-11-01 06:50:56   drop[not-key] Broncos lose RB RJ Harvey to injured reserve after a knee injury at practice (Newsday) :: RJ Harvey: placed on injured reserve after knee injury
+2026-11-01 06:53:14   drop[1-source] Star India player ruled out of NZ 'A' vs IND 'A' 3rd match; in doubt for NZ vs IND 2026 1s (Sportskeeda) :: India A, wait 2nd source
+2026-11-01 06:56:13 indexed 997 markets
+2026-11-01 07:00:09 feed gnews_reuters error x1: 404 Client Error: Not Found for url: https://news.google.com/rss/search?q=when:1h+source:reuters&hl=en-US&gl=US&ceid=US:en
+2026-11-01 07:00:09 feed gnews_injury error x1: 404 Client Error: Not Found for url: https://news.google.com/rss/search?q=when:1h+(injury+OR+%22ruled+out%22+OR+suspended)&hl=en-US&gl=US&ceid=US:en
+2026-11-01 07:00:54   drop[no-market] Hanwha signs $269 million shipbuilding contract for US Navy reut.rs/4idbi2k (Reuters) :: Hanwha
+2026-11-01 07:06:15 indexed 994 markets
+2026-11-01 07:07:55   drop[team-not-named] NFL Week 8 Injury Report: A.J. Brown, TreVeyon Henderson ruled out for Week 8, DJ Moore, K (NBC Sports) :: Philadelphia Eagles
+2026-11-01 07:12:33   drop[kind] Star reveals gruesome on-set injury (The Courier Mail) :: other
+2026-11-01 07:14:51   drop[1-source] NBA: Rockets beat injury depleted Thunder (Inquirer.net) :: Houston Rockets, wait 2nd source
+2026-11-01 07:16:15 indexed 1000 markets
