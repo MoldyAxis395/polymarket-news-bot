@@ -24880,3 +24880,38 @@
 2026-11-01 21:49:56   llm groq-120b: rate limited, skip 280s
 2026-11-01 21:50:39   drop[1-source] Detroit Lions’ Jack Campbell Suffers Serious Injury Against Vikings (SSBCrack) :: Jack Campbell, wait 2nd source
 2026-11-01 21:50:57   llm groq-20b: rate limited, skip 188s
+2026-11-01 21:55:02   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 21:55:03   llm groq-120b: rate limited, skip 284s
+2026-11-01 21:55:03   llm groq-20b: rate limited, skip 3s
+2026-11-01 21:56:03   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 21:56:03   llm groq-20b: rate limited, skip 224s
+2026-11-01 21:57:21 indexed 1135 markets
+2026-11-01 22:00:03   drop[team-not-named] James Cook Injury: Heads to medical tent Sunday (RotoWire) :: Buffalo Bills
+2026-11-01 22:00:27   llm groq-120b: rate limited, skip 234s
+2026-11-01 22:00:27   llm groq-20b: rate limited, skip 17s
+2026-11-01 22:01:29   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 22:01:29   llm groq-20b: rate limited, skip 321s
+2026-11-01 22:04:25   drop[1-source] Bengals’ DJ Turner, Cashius Howell, and Cedric Johnson exit Titans game due to injury (Cincy Jungle) :: DJ Turner, wait 2nd source
+2026-11-01 22:04:32   llm groq-120b: rate limited, skip 275s
+2026-11-01 22:07:23 indexed 1140 markets
+2026-11-01 22:07:36   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 22:07:37   llm groq-20b: rate limited, skip 280s
+2026-11-01 22:09:12   drop[kind] Adams County Injury Crash (Mercer County Outlook) :: other
+2026-11-01 22:09:36   llm groq-120b: rate limited, skip 225s
+2026-11-01 22:12:41   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 22:12:41   llm groq-20b: rate limited, skip 241s
+2026-11-01 22:13:42   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 22:13:42   llm groq-120b: rate limited, skip 199s
+2026-11-01 22:13:42 NEWS [ESPN 10m] Ziaire Williams (F, Los Angeles Lakers) ruled out: Day-To-Day -> Out [NBA]
+2026-11-01 22:13:42   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
+2026-11-01 22:13:42   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
+2026-11-01 22:13:42   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
+2026-11-01 22:16:45   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 22:16:46   llm groq-20b: rate limited, skip 295s
+2026-11-01 22:17:22 indexed 1141 markets
+2026-11-01 22:17:46   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 22:17:46   llm groq-120b: rate limited, skip 215s
+2026-11-01 22:17:46 NEWS [ESPN 0m] Christian Haynes (G, Miami Dolphins) ruled out: healthy -> Out [NFL]
+2026-11-01 22:17:46   skip Patriots :: Patriots vs. Dolphins (rules fallback, LLM down (not traded))
+2026-11-01 22:19:39 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 134)
+2026-11-01 22:19:41 [pengwin] TORINO-COMO: no Polymarket event (try 134)
