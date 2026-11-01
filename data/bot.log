@@ -24915,3 +24915,14 @@
 2026-11-01 22:17:46   skip Patriots :: Patriots vs. Dolphins (rules fallback, LLM down (not traded))
 2026-11-01 22:19:39 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 134)
 2026-11-01 22:19:41 [pengwin] TORINO-COMO: no Polymarket event (try 134)
+2026-11-01 22:21:51   llm groq-120b: rate limited, skip 40s
+2026-11-01 22:21:51   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 22:21:52   llm groq-20b: rate limited, skip 368s
+2026-11-01 22:22:52   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 22:22:52   llm groq-120b: rate limited, skip 320s
+2026-11-01 22:27:35 indexed 1147 markets
+2026-11-01 22:28:57   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 22:28:57   llm groq-120b: rate limited, skip 280s
+2026-11-01 22:28:57   llm groq-20b: rate limited, skip 282s
+2026-11-01 22:28:57   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-11-01 22:31:00 shift over, state saved
