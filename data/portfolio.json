@@ -16,7 +16,7 @@
    "reason": "llm[groq-20b] trusted: Browns injury lowers win odds, so Steelers win price should rise",
    "conf": 0.8,
    "end": "2026-11-01T18:00:00+00:00",
-   "last_bid": 0.64,
+   "last_bid": 0.65,
    "book_err": false
   },
   {

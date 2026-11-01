@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-01T17:50:41",
+ "updated": "2026-11-01T18:20:40",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 149,
- "markets_indexed": 1085,
- "news_processed": 168,
+ "llm_calls_today": 288,
+ "markets_indexed": 1095,
+ "news_processed": 252,
  "cash": 64.05,
- "equity": 83.63,
+ "equity": 83.79,
  "start": 100.0,
  "open": [
   {
@@ -24,7 +24,7 @@
    "reason": "llm[groq-20b] trusted: Browns injury lowers win odds, so Steelers win price should rise",
    "conf": 0.8,
    "end": "2026-11-01T18:00:00+00:00",
-   "last_bid": 0.64,
+   "last_bid": 0.65,
    "book_err": false
   },
   {
@@ -54,23 +54,23 @@
   ],
   "fallbacks": 51,
   "errors": {
-   "groq-120b": "rate limited, skip 193s"
+   "groq-120b": "rate limited, skip 308s"
   },
   "rejects": {
    "verify": 5,
-   "side": 7,
-   "team-not-named": 3,
+   "side": 9,
+   "team-not-named": 16,
    "no-pick": 4,
-   "fluff": 23,
-   "kind": 6,
-   "unconfirmed": 3,
-   "1-source": 3,
+   "fluff": 26,
+   "kind": 20,
+   "unconfirmed": 6,
+   "1-source": 7,
    "no-market": 1,
-   "not-key": 25
+   "not-key": 30
   },
   "calls": {
-   "groq-120b": 67,
-   "groq-20b": 82
+   "groq-120b": 80,
+   "groq-20b": 208
   }
  },
  "realized_pnl": -15.95
