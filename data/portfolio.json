@@ -1,6 +1,43 @@
 {
- "cash": 84.04849337786156,
- "positions": [],
+ "cash": 64.04849337786156,
+ "positions": [
+  {
+   "market_id": "5603316",
+   "question": "Browns vs. Steelers",
+   "slug": "nfl-cle-pit-2026-11-01",
+   "outcome": "Steelers",
+   "token": "46032175510256434028893756378954093075432194615983233494337200719073165215499",
+   "shares": 15.384615384615383,
+   "entry": 0.65,
+   "cost": 10.0,
+   "opened": 1793551472.447721,
+   "opened_iso": "2026-11-01T16:44:32+00:00",
+   "news": "Noah Igbinoghene (CB, Cleveland Browns) ruled out: Active -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: Browns injury lowers win odds, so Steelers win price should rise",
+   "conf": 0.8,
+   "end": "2026-11-01T18:00:00+00:00",
+   "last_bid": 0.64,
+   "book_err": false
+  },
+  {
+   "market_id": "5603308",
+   "question": "Vikings vs. Lions",
+   "slug": "nfl-min-det-2026-11-01",
+   "outcome": "Vikings",
+   "token": "20904731047675781517425101354497783626872100601316312073571108855159174653041",
+   "shares": 26.31578947368421,
+   "entry": 0.38,
+   "cost": 10.0,
+   "opened": 1793551478.4514813,
+   "opened_iso": "2026-11-01T16:44:38+00:00",
+   "news": "Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL]",
+   "reason": "llm[groq-20b] trusted: player cleared to play boosts Vikings' chances",
+   "conf": 0.7,
+   "end": "2026-11-01T18:00:00+00:00",
+   "last_bid": 0.37,
+   "book_err": false
+  }
+ ],
  "closed": [
   {
    "market_id": "3871412",

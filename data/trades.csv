@@ -202,3 +202,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-31T17:20:19+00:00,BUY,76ers vs. Hornets,Hornets,20.41,0.4900,10.00,,"Joel Embiid (C, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] | llm[groq-20b] trusted: Embiid ruled out, hurting 76ers, so Hornets' chance rises"
 2026-10-31T17:55:17+00:00,SELL,Oilers vs. Islanders,Oilers,20.00,0.5000,10.00,+0.00,market closing
 2026-10-31T22:30:51+00:00,SELL,76ers vs. Hornets,Hornets,20.41,0.5500,11.22,+1.22,take profit
+2026-11-01T16:44:32+00:00,BUY,Browns vs. Steelers,Steelers,15.38,0.6500,10.00,,"Noah Igbinoghene (CB, Cleveland Browns) ruled out: Active -> Out [NFL] | llm[groq-20b] trusted: Browns injury lowers win odds, so Steelers win price should rise"
+2026-11-01T16:44:38+00:00,BUY,Vikings vs. Lions,Vikings,26.32,0.3800,10.00,,"Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] | llm[groq-20b] trusted: player cleared to play boosts Vikings' chances"
