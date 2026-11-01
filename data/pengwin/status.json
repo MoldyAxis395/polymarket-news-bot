@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T21:20:24",
+ "updated": "2026-11-01T21:50:55",
  "start": 100.0,
  "cash": 85.69,
- "equity": 104.95,
+ "equity": 105.12,
  "open": [
   {
    "market_id": "5960431",
@@ -37,7 +37,7 @@
    "reason": "pengwin exact: X2 = No on Juventus win",
    "conf": 1.0,
    "end": "2026-11-01T19:45:00+00:00",
-   "last_bid": 0.55,
+   "last_bid": 0.56,
    "book_err": false
   }
  ],

@@ -24842,3 +24842,41 @@
 2026-11-01 21:20:24   skip Broncos :: Chiefs vs. Broncos (rules fallback, LLM down (not traded))
 2026-11-01 21:20:24 NEWS [ESPN 14m] Garrett Nussmeier (QB, Kansas City Chiefs) ruled out: Active -> Out [NFL]
 2026-11-01 21:20:24   skip Broncos :: Chiefs vs. Broncos (rules fallback, LLM down (not traded))
+2026-11-01 21:21:24   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 21:21:24   llm groq-20b: rate limited, skip 315s
+2026-11-01 21:24:30   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 21:24:30   llm groq-120b: rate limited, skip 332s
+2026-11-01 21:27:16 indexed 1123 markets
+2026-11-01 21:27:32   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 21:27:32   llm groq-20b: rate limited, skip 342s
+2026-11-01 21:29:32 NEWS [ESPN 3m] Obi Toppin (F, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA]
+2026-11-01 21:29:32   skip Nets :: Nets vs. Pacers (rules fallback, LLM down (not traded))
+2026-11-01 21:29:32   skip Hawks :: Hawks vs. Pacers (rules fallback, LLM down (not traded))
+2026-11-01 21:30:34   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 21:30:35   llm groq-120b: rate limited, skip 266s
+2026-11-01 21:33:39   drop[unconfirmed] Joshua Palmer (WR, Buffalo Bills) ruled out: Questionable -> Out [NFL] (ESPN) :: injury
+2026-11-01 21:33:39   llm groq-20b: rate limited, skip 253s
+2026-11-01 21:35:41   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 21:35:41   llm groq-120b: rate limited, skip 252s
+2026-11-01 21:37:17 indexed 1120 markets
+2026-11-01 21:38:44   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 21:38:44   llm groq-20b: rate limited, skip 55s
+2026-11-01 21:39:44   llm groq-20b: rate limited, skip 22s
+2026-11-01 21:40:44   llm groq-120b: rate limited, skip 25s
+2026-11-01 21:40:45   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 21:40:45   llm groq-20b: rate limited, skip 324s
+2026-11-01 21:41:26   drop[kind] Ravens’ Lamar Jackson seen with ‘hard brace’ on right hand after thumb injury vs. Bills (ClutchPoints) :: other
+2026-11-01 21:41:44   llm groq-120b: rate limited, skip 116s
+2026-11-01 21:43:47   llm groq-120b: rate limited, skip 23s
+2026-11-01 21:44:28   llm groq-120b: rate limited, skip 35s
+2026-11-01 21:45:48   drop[team-not-named] Lamar Jackson Ruled Out vs. Bills With Right Thumb Injury (RG.org) :: Baltimore Ravens
+2026-11-01 21:45:48   llm groq-120b: rate limited, skip 211s
+2026-11-01 21:46:53   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 21:46:53   llm groq-20b: rate limited, skip 208s
+2026-11-01 21:47:17 indexed 1121 markets
+2026-11-01 21:49:11 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 133)
+2026-11-01 21:49:14 [pengwin] TORINO-COMO: no Polymarket event (try 133)
+2026-11-01 21:49:56   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 21:49:56   llm groq-120b: rate limited, skip 280s
+2026-11-01 21:50:39   drop[1-source] Detroit Lions’ Jack Campbell Suffers Serious Injury Against Vikings (SSBCrack) :: Jack Campbell, wait 2nd source
+2026-11-01 21:50:57   llm groq-20b: rate limited, skip 188s
