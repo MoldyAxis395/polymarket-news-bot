@@ -24666,263 +24666,65 @@
 2026-11-01 19:48:09 [pengwin] TORINO-COMO: no Polymarket event (try 129)
 2026-11-01 19:49:15 NEWS [ESPN 6m] Zachariah Branch (WR, Atlanta Falcons) ruled out: Active -> Out [NFL]
 2026-11-01 19:49:15   skip Natus Vincere :: Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Grou (rules fallback, LLM down (not traded))
-2026-11-01 19:52:05   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 19:52:05   llm groq-120b: rate limited, skip 289s
-2026-11-01 19:52:29   drop[kind] Giants Had Interest In DT Daron Payne Prior To Injury (NFLTradeRumors.co) :: other
-2026-11-01 19:53:06   llm groq-20b: rate limited, skip 151s
-2026-11-01 19:56:10   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 19:56:10   llm groq-20b: rate limited, skip 422s
-2026-11-01 19:57:02 indexed 1125 markets
-2026-11-01 19:57:12   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 19:57:12   llm groq-120b: rate limited, skip 291s
-2026-11-01 20:02:15   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:02:15   llm groq-120b: rate limited, skip 325s
-2026-11-01 20:03:16   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 20:03:16   llm groq-20b: rate limited, skip 323s
-2026-11-01 20:07:02 indexed 1127 markets
-2026-11-01 20:08:23   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:08:23   llm groq-120b: rate limited, skip 292s
-2026-11-01 20:08:51   drop[kind] Jeremiyah Love questionable to return with ankle injury as Cardinals trail 14-0 (NBC Sports) :: other
-2026-11-01 20:08:51   llm groq-20b: rate limited, skip 284s
-2026-11-01 20:13:30   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:13:30   llm groq-120b: rate limited, skip 112s
-2026-11-01 20:14:30   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:14:30   llm groq-20b: rate limited, skip 250s
-2026-11-01 20:15:32   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:15:32   llm groq-120b: rate limited, skip 156s
-2026-11-01 20:17:05 indexed 1141 markets
-2026-11-01 20:18:06 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 130)
-2026-11-01 20:18:09 [pengwin] TORINO-COMO: no Polymarket event (try 130)
-2026-11-01 20:18:34   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:18:34   llm groq-120b: rate limited, skip 357s
-2026-11-01 20:19:35   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:19:35   llm groq-20b: rate limited, skip 154s
-2026-11-01 20:22:38   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:22:38   llm groq-20b: rate limited, skip 145s
-2026-11-01 20:24:41   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:24:41   llm groq-120b: rate limited, skip 320s
-2026-11-01 20:25:43   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 20:25:43   llm groq-20b: rate limited, skip 312s
-2026-11-01 20:27:05 indexed 1132 markets
-2026-11-01 20:30:09   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:30:09   llm groq-120b: rate limited, skip 315s
-2026-11-01 20:31:10   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 20:31:10   llm groq-20b: rate limited, skip 388s
-2026-11-01 20:36:17   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:36:17   llm groq-120b: rate limited, skip 281s
-2026-11-01 20:37:06 indexed 1129 markets
-2026-11-01 20:38:20   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:38:20   llm groq-20b: rate limited, skip 172s
-2026-11-01 20:41:06   drop[1-source] Buccaneers Lose Starter to Knee Injury (Sports Illustrated) :: Baker Mayfield, wait 2nd source
-2026-11-01 20:41:23   llm groq-120b: rate limited, skip 187s
-2026-11-01 20:41:24   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 20:41:24   llm groq-20b: rate limited, skip 313s
-2026-11-01 20:41:59 [pengwin]   book error Elche CF vs. Valencia CF: Elche CF O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=109999057809249971845033173505291186346462534315227738836647866174812094464497
-2026-11-01 20:45:30   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:45:30   llm groq-120b: rate limited, skip 168s
-2026-11-01 20:45:30 NEWS [ESPN 6m] Theo Wease Jr. (WR, Los Angeles Chargers) ruled out: Active -> Out [NFL]
-2026-11-01 20:45:30   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
-2026-11-01 20:45:30   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
-2026-11-01 20:45:30   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
-2026-11-01 20:45:30 NEWS [ESPN 6m] Rodney Shelley (CB, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
-2026-11-01 20:45:30   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
-2026-11-01 20:45:30   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
-2026-11-01 20:45:30   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
-2026-11-01 20:45:30 NEWS [ESPN 6m] Donte Jackson (CB, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
-2026-11-01 20:45:30   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
-2026-11-01 20:45:30   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
-2026-11-01 20:45:30   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
-2026-11-01 20:47:09 indexed 1127 markets
-2026-11-01 20:47:32   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 20:47:32   llm groq-20b: rate limited, skip 290s
-2026-11-01 20:47:32 NEWS [ESPN 7m] Ty Simpson (QB, Los Angeles Rams) ruled out: Active -> Out [NFL]
-2026-11-01 20:47:32   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32 NEWS [ESPN 7m] Keagen Trost (OT, Los Angeles Rams) ruled out: Active -> Out [NFL]
-2026-11-01 20:47:32   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32 NEWS [ESPN 7m] Bill Murray (G, Los Angeles Rams) ruled out: Active -> Out [NFL]
-2026-11-01 20:47:32   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32 NEWS [ESPN 7m] Colby Parkinson (TE, Los Angeles Rams) ruled out: Questionable -> Out [NFL]
-2026-11-01 20:47:32   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32 NEWS [ESPN 7m] Desjuan Johnson (DE, Los Angeles Rams) ruled out: healthy -> Out [NFL]
-2026-11-01 20:47:32   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32 NEWS [ESPN 7m] Joe Cardona (LS, Los Angeles Rams) ruled out: Doubtful -> Out [NFL]
-2026-11-01 20:47:32   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
-2026-11-01 20:47:32   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
-2026-11-01 20:48:09 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 131)
-2026-11-01 20:48:12 [pengwin] TORINO-COMO: no Polymarket event (try 131)
-2026-11-01 20:48:33   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:48:33   llm groq-120b: rate limited, skip 222s
-2026-11-01 20:50:53 [pengwin]   SELL Over @ 0.000 (resolved) pnl -10.00 :: Elche CF vs. Valencia CF: Elche CF O/U 1.5
-2026-11-01 20:52:35   llm groq-120b: rate limited, skip 83s
-2026-11-01 20:52:35   drop[1-source] Latest Lamar Jackson Injury Further Complicates His Ravens Contract Status (Front Office Sports) :: Lamar Jackson, wait 2nd source
-2026-11-01 20:52:38   llm groq-20b: rate limited, skip 223s
-2026-11-01 20:54:40   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:54:40   llm groq-120b: rate limited, skip 224s
-2026-11-01 20:56:41   llm groq-20b: rate limited, skip 51s
-2026-11-01 20:57:09 indexed 1132 markets
-2026-11-01 20:57:43   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 20:57:43   llm groq-20b: rate limited, skip 358s
-2026-11-01 20:58:46   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 20:58:46   llm groq-120b: rate limited, skip 307s
-2026-11-01 21:00:47 NEWS [ESPN 4m] Behren Morton (QB, New England Patriots) ruled out: Active -> Out [NFL]
-2026-11-01 21:00:47   skip Dolphins :: Patriots vs. Dolphins (rules fallback, LLM down (not traded))
-2026-11-01 21:00:47 NEWS [ESPN 4m] Karon Prunty (CB, New England Patriots) ruled out: Active -> Out [NFL]
-2026-11-01 21:00:47   skip Dolphins :: Patriots vs. Dolphins (rules fallback, LLM down (not traded))
-2026-11-01 21:00:47 NEWS [ESPN 4m] Channing Canada (CB, New England Patriots) ruled out: Active -> Out [NFL]
-2026-11-01 21:00:47   skip Dolphins :: Patriots vs. Dolphins (rules fallback, LLM down (not traded))
-2026-11-01 21:00:47 NEWS [ESPN 4m] Elliott Davison (S, New England Patriots) ruled out: healthy -> Out [NFL]
-2026-11-01 21:00:47   skip Dolphins :: Patriots vs. Dolphins (rules fallback, LLM down (not traded))
-2026-11-01 21:02:49 NEWS [ESPN 4m] Jaylin Simpson (S, Miami Dolphins) ruled out: healthy -> Out [NFL]
-2026-11-01 21:02:49   skip Patriots :: Patriots vs. Dolphins (rules fallback, LLM down (not traded))
-2026-11-01 21:02:49 NEWS [ESPN 4m] Jared Wayne (WR, Miami Dolphins) ruled out: Active -> Out [NFL]
-2026-11-01 21:02:49   skip Patriots :: Patriots vs. Dolphins (rules fallback, LLM down (not traded))
-2026-11-01 21:02:49 NEWS [ESPN 4m] Justin Joly (TE, Miami Dolphins) ruled out: Active -> Out [NFL]
-2026-11-01 21:02:49   skip Patriots :: Patriots vs. Dolphins (rules fallback, LLM down (not traded))
-2026-11-01 21:02:49 NEWS [ESPN 4m] Jamree Kromah (DE, Miami Dolphins) ruled out: Active -> Out [NFL]
-2026-11-01 21:02:49   skip Patriots :: Patriots vs. Dolphins (rules fallback, LLM down (not traded))
-2026-11-01 21:02:49 NEWS [ESPN 4m] Marcellas Dial Jr. (CB, Miami Dolphins) ruled out: Active -> Out [NFL]
-2026-11-01 21:02:49   skip Patriots :: Patriots vs. Dolphins (rules fallback, LLM down (not traded))
-2026-11-01 21:03:51   drop[unconfirmed] Kendrick Bourne (WR, Arizona Cardinals) ruled out: Questionable -> Out [NFL] (ESPN) :: injury
-2026-11-01 21:03:51   llm groq-20b: rate limited, skip 191s
-2026-11-01 21:04:19   llm groq-120b: rate limited, skip 344s
-2026-11-01 21:04:19   drop[no-pick] Arsenal move clear at the top with a rare win at Liverpool (BBC) :: None
-2026-11-01 21:07:11 indexed 1120 markets
-2026-11-01 21:07:13   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 21:07:13   llm groq-20b: rate limited, skip 196s
-2026-11-01 21:10:15   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 21:10:15   llm groq-120b: rate limited, skip 34s
-2026-11-01 21:11:17   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 21:11:17   llm groq-120b: rate limited, skip 126s
-2026-11-01 21:11:17   llm groq-20b: rate limited, skip 346s
-2026-11-01 21:11:17   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
-2026-11-01 21:13:41   llm groq-120b: rate limited, skip 15s
-2026-11-01 21:14:19   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 21:14:19   llm groq-120b: rate limited, skip 318s
-2026-11-01 21:14:19 NEWS [ESPN 6m] Jordan Poole (G, New Orleans Pelicans) ruled out: Day-To-Day -> Out [NBA]
-2026-11-01 21:14:19   skip Grizzlies :: Pelicans vs. Grizzlies (rules fallback, LLM down (not traded))
-2026-11-01 21:17:13 indexed 1118 markets
-2026-11-01 21:17:20   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 21:17:20   llm groq-20b: rate limited, skip 217s
-2026-11-01 21:17:20 NEWS [ESPN 16m] Tyler Onyedim (DT, Denver Broncos) ruled out: Active -> Out [NFL]
-2026-11-01 21:17:20   skip Chiefs :: Chiefs vs. Broncos (rules fallback, LLM down (not traded))
-2026-11-01 21:17:20 NEWS [ESPN 16m] Gavin Ortega (OT, Denver Broncos) ruled out: healthy -> Out [NFL]
-2026-11-01 21:17:20   skip Chiefs :: Chiefs vs. Broncos (rules fallback, LLM down (not traded))
-2026-11-01 21:17:20 NEWS [ESPN 16m] Jordan Jackson (DT, Denver Broncos) ruled out: Active -> Out [NFL]
-2026-11-01 21:17:20   skip Chiefs :: Chiefs vs. Broncos (rules fallback, LLM down (not traded))
-2026-11-01 21:17:20 NEWS [ESPN 16m] Dallen Bentley (TE, Denver Broncos) ruled out: Active -> Out [NFL]
-2026-11-01 21:17:20   skip Chiefs :: Chiefs vs. Broncos (rules fallback, LLM down (not traded))
-2026-11-01 21:17:20 NEWS [ESPN 16m] Kage Casey (OT, Denver Broncos) ruled out: Active -> Out [NFL]
-2026-11-01 21:17:20   skip Chiefs :: Chiefs vs. Broncos (rules fallback, LLM down (not traded))
-2026-11-01 21:17:20 NEWS [ESPN 16m] Sam Ehlinger (QB, Denver Broncos) ruled out: Active -> Out [NFL]
-2026-11-01 21:17:20   skip Chiefs :: Chiefs vs. Broncos (rules fallback, LLM down (not traded))
-2026-11-01 21:18:40 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 132)
-2026-11-01 21:18:43 [pengwin] TORINO-COMO: no Polymarket event (try 132)
-2026-11-01 21:19:22 NEWS [ESPN 10m] Tyler Huntley (QB, Baltimore Ravens) ruled out: Questionable -> Out [NFL]
-2026-11-01 21:19:22   skip Jaguars :: Jaguars vs. Ravens (rules fallback, LLM down (not traded))
-2026-11-01 21:20:24   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 21:20:24   llm groq-120b: rate limited, skip 203s
-2026-11-01 21:20:24 NEWS [ESPN 14m] Ben VanSumeren (FB, Kansas City Chiefs) ruled out: Active -> Out [NFL]
-2026-11-01 21:20:24   skip Broncos :: Chiefs vs. Broncos (rules fallback, LLM down (not traded))
-2026-11-01 21:20:24 NEWS [ESPN 14m] Diego Pounds (OT, Kansas City Chiefs) ruled out: Active -> Out [NFL]
-2026-11-01 21:20:24   skip Broncos :: Chiefs vs. Broncos (rules fallback, LLM down (not traded))
-2026-11-01 21:20:24 NEWS [ESPN 14m] Jack Pyburn (LB, Kansas City Chiefs) ruled out: Active -> Out [NFL]
-2026-11-01 21:20:24   skip Broncos :: Chiefs vs. Broncos (rules fallback, LLM down (not traded))
-2026-11-01 21:20:24 NEWS [ESPN 14m] Tyreke Smith (DE, Kansas City Chiefs) ruled out: Active -> Out [NFL]
-2026-11-01 21:20:24   skip Broncos :: Chiefs vs. Broncos (rules fallback, LLM down (not traded))
-2026-11-01 21:20:24 NEWS [ESPN 14m] Garrett Nussmeier (QB, Kansas City Chiefs) ruled out: Active -> Out [NFL]
-2026-11-01 21:20:24   skip Broncos :: Chiefs vs. Broncos (rules fallback, LLM down (not traded))
-2026-11-01 21:21:24   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 21:21:24   llm groq-20b: rate limited, skip 315s
-2026-11-01 21:24:30   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 21:24:30   llm groq-120b: rate limited, skip 332s
-2026-11-01 21:27:16 indexed 1123 markets
-2026-11-01 21:27:32   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 21:27:32   llm groq-20b: rate limited, skip 342s
-2026-11-01 21:29:32 NEWS [ESPN 3m] Obi Toppin (F, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA]
-2026-11-01 21:29:32   skip Nets :: Nets vs. Pacers (rules fallback, LLM down (not traded))
-2026-11-01 21:29:32   skip Hawks :: Hawks vs. Pacers (rules fallback, LLM down (not traded))
-2026-11-01 21:30:34   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 21:30:35   llm groq-120b: rate limited, skip 266s
-2026-11-01 21:33:39   drop[unconfirmed] Joshua Palmer (WR, Buffalo Bills) ruled out: Questionable -> Out [NFL] (ESPN) :: injury
-2026-11-01 21:33:39   llm groq-20b: rate limited, skip 253s
-2026-11-01 21:35:41   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 21:35:41   llm groq-120b: rate limited, skip 252s
-2026-11-01 21:37:17 indexed 1120 markets
-2026-11-01 21:38:44   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 21:38:44   llm groq-20b: rate limited, skip 55s
-2026-11-01 21:39:44   llm groq-20b: rate limited, skip 22s
-2026-11-01 21:40:44   llm groq-120b: rate limited, skip 25s
-2026-11-01 21:40:45   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 21:40:45   llm groq-20b: rate limited, skip 324s
-2026-11-01 21:41:26   drop[kind] Ravens’ Lamar Jackson seen with ‘hard brace’ on right hand after thumb injury vs. Bills (ClutchPoints) :: other
-2026-11-01 21:41:44   llm groq-120b: rate limited, skip 116s
-2026-11-01 21:43:47   llm groq-120b: rate limited, skip 23s
-2026-11-01 21:44:28   llm groq-120b: rate limited, skip 35s
-2026-11-01 21:45:48   drop[team-not-named] Lamar Jackson Ruled Out vs. Bills With Right Thumb Injury (RG.org) :: Baltimore Ravens
-2026-11-01 21:45:48   llm groq-120b: rate limited, skip 211s
-2026-11-01 21:46:53   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 21:46:53   llm groq-20b: rate limited, skip 208s
-2026-11-01 21:47:17 indexed 1121 markets
-2026-11-01 21:49:11 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 133)
-2026-11-01 21:49:14 [pengwin] TORINO-COMO: no Polymarket event (try 133)
-2026-11-01 21:49:56   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 21:49:56   llm groq-120b: rate limited, skip 280s
-2026-11-01 21:50:39   drop[1-source] Detroit Lions’ Jack Campbell Suffers Serious Injury Against Vikings (SSBCrack) :: Jack Campbell, wait 2nd source
-2026-11-01 21:50:57   llm groq-20b: rate limited, skip 188s
-2026-11-01 21:55:02   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 21:55:03   llm groq-120b: rate limited, skip 284s
-2026-11-01 21:55:03   llm groq-20b: rate limited, skip 3s
-2026-11-01 21:56:03   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 21:56:03   llm groq-20b: rate limited, skip 224s
-2026-11-01 21:57:21 indexed 1135 markets
-2026-11-01 22:00:03   drop[team-not-named] James Cook Injury: Heads to medical tent Sunday (RotoWire) :: Buffalo Bills
-2026-11-01 22:00:27   llm groq-120b: rate limited, skip 234s
-2026-11-01 22:00:27   llm groq-20b: rate limited, skip 17s
-2026-11-01 22:01:29   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 22:01:29   llm groq-20b: rate limited, skip 321s
-2026-11-01 22:04:25   drop[1-source] Bengals’ DJ Turner, Cashius Howell, and Cedric Johnson exit Titans game due to injury (Cincy Jungle) :: DJ Turner, wait 2nd source
-2026-11-01 22:04:32   llm groq-120b: rate limited, skip 275s
-2026-11-01 22:07:23 indexed 1140 markets
-2026-11-01 22:07:36   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 22:07:37   llm groq-20b: rate limited, skip 280s
-2026-11-01 22:09:12   drop[kind] Adams County Injury Crash (Mercer County Outlook) :: other
-2026-11-01 22:09:36   llm groq-120b: rate limited, skip 225s
-2026-11-01 22:12:41   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 22:12:41   llm groq-20b: rate limited, skip 241s
-2026-11-01 22:13:42   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 22:13:42   llm groq-120b: rate limited, skip 199s
-2026-11-01 22:13:42 NEWS [ESPN 10m] Ziaire Williams (F, Los Angeles Lakers) ruled out: Day-To-Day -> Out [NBA]
-2026-11-01 22:13:42   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
-2026-11-01 22:13:42   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
-2026-11-01 22:13:42   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
-2026-11-01 22:16:45   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 22:16:46   llm groq-20b: rate limited, skip 295s
-2026-11-01 22:17:22 indexed 1141 markets
-2026-11-01 22:17:46   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 22:17:46   llm groq-120b: rate limited, skip 215s
-2026-11-01 22:17:46 NEWS [ESPN 0m] Christian Haynes (G, Miami Dolphins) ruled out: healthy -> Out [NFL]
-2026-11-01 22:17:46   skip Patriots :: Patriots vs. Dolphins (rules fallback, LLM down (not traded))
-2026-11-01 22:19:39 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 134)
-2026-11-01 22:19:41 [pengwin] TORINO-COMO: no Polymarket event (try 134)
-2026-11-01 22:21:51   llm groq-120b: rate limited, skip 40s
-2026-11-01 22:21:51   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
-2026-11-01 22:21:52   llm groq-20b: rate limited, skip 368s
-2026-11-01 22:22:52   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 22:22:52   llm groq-120b: rate limited, skip 320s
-2026-11-01 22:27:35 indexed 1147 markets
-2026-11-01 22:28:57   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
-2026-11-01 22:28:57   llm groq-120b: rate limited, skip 280s
-2026-11-01 22:28:57   llm groq-20b: rate limited, skip 282s
-2026-11-01 22:28:57   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
-2026-11-01 22:31:00 shift over, state saved
+2026-11-01 22:31:12 === start mode=paper pid=2179 ===
+2026-11-01 22:31:12 brain=llm cash=83.79 open=0
+2026-11-01 22:31:12 resuming with 4592 known news items
+2026-11-01 22:31:35 indexed 1138 markets
+2026-11-01 22:31:52   llm groq-120b: rate limited, skip 100s
+2026-11-01 22:31:52   llm groq-20b: rate limited, skip 95s
+2026-11-01 22:31:52 NEWS [ESPN 0m] Tyler Huntley (QB, Baltimore Ravens) ruled out: Active -> Out [NFL]
+2026-11-01 22:31:52   skip Jaguars :: Jaguars vs. Ravens (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52 NEWS [ESPN 0m] Rodney Shelley (CB, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
+2026-11-01 22:31:52   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52 NEWS [ESPN 0m] Donte Jackson (CB, Los Angeles Chargers) ruled out: Questionable -> Out [NFL]
+2026-11-01 22:31:52   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52 NEWS [ESPN 0m] Theo Wease Jr. (WR, Los Angeles Chargers) ruled out: Active -> Out [NFL]
+2026-11-01 22:31:52   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52 NEWS [ESPN 0m] Joe Cardona (LS, Los Angeles Rams) ruled out: Doubtful -> Out [NFL]
+2026-11-01 22:31:52   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52 NEWS [ESPN 0m] Ty Simpson (QB, Los Angeles Rams) ruled out: Active -> Out [NFL]
+2026-11-01 22:31:52   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52 NEWS [ESPN 0m] Colby Parkinson (TE, Los Angeles Rams) ruled out: Questionable -> Out [NFL]
+2026-11-01 22:31:52   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52 NEWS [ESPN 0m] Keagen Trost (OT, Los Angeles Rams) ruled out: Active -> Out [NFL]
+2026-11-01 22:31:52   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52 NEWS [ESPN 0m] Bill Murray (G, Los Angeles Rams) ruled out: Active -> Out [NFL]
+2026-11-01 22:31:52   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52 NEWS [ESPN 0m] Desjuan Johnson (DE, Los Angeles Rams) ruled out: healthy -> Out [NFL]
+2026-11-01 22:31:52   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52 NEWS [ESPN 0m] Obi Toppin (F, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA]
+2026-11-01 22:31:52   skip Hawks :: Hawks vs. Pacers (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip Nets :: Nets vs. Pacers (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52 NEWS [ESPN 28m] Ziaire Williams (F, Los Angeles Lakers) ruled out: Day-To-Day -> Out [NBA]
+2026-11-01 22:31:52   skip No :: Will Los Angeles FC win on 2026-11-01? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Los Angeles FC vs. Minnesota United FC: Both Teams to Score (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52   skip No :: Exact Score: Los Angeles FC 1 - 0 Minnesota United FC? (rules fallback, LLM down (not traded))
+2026-11-01 22:31:52 NEWS [ESPN 0m] Jordan Poole (G, New Orleans Pelicans) ruled out: Day-To-Day -> Out [NBA]
+2026-11-01 22:31:52   skip Grizzlies :: Pelicans vs. Grizzlies (rules fallback, LLM down (not traded))
+2026-11-01 22:32:49 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 130)
+2026-11-01 22:32:51 [pengwin] TORINO-COMO: no Polymarket event (try 130)
+2026-11-01 22:33:32 [pengwin]   book error Elche CF vs. Valencia CF: Elche CF O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=109999057809249971845033173505291186346462534315227738836647866174812094464497
+2026-11-01 22:33:32 [pengwin]   SELL Over @ 0.000 (resolved) pnl -10.00 :: Elche CF vs. Valencia CF: Elche CF O/U 1.5
+2026-11-01 22:33:38   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 22:33:38   llm groq-120b: rate limited, skip 290s
+2026-11-01 22:33:39   llm groq-20b: rate limited, skip 12s
+2026-11-01 22:34:39   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 22:34:40   llm groq-20b: rate limited, skip 128s

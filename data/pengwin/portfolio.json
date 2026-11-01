@@ -34,8 +34,9 @@
    "reason": "pengwin exact: X2 = No on Juventus win",
    "conf": 1.0,
    "end": "2026-11-01T19:45:00+00:00",
-   "last_bid": 0.04,
-   "book_err": false
+   "last_bid": null,
+   "book_err": false,
+   "settle_retry": 1793569473.2599745
   }
  ],
  "closed": [
@@ -1411,13 +1412,13 @@
    "reason": "pengwin approx: approx via Elche O/U 1.5 Over",
    "conf": 1.0,
    "end": "2026-11-01T17:30:00+00:00",
-   "last_bid": null,
+   "last_bid": 0.08,
    "book_err": true,
-   "settle_retry": 1793563253.7655418,
+   "settle_retry": 1793569412.3371103,
    "exit": 0.0,
    "pnl": -10.0,
    "why": "resolved",
-   "closed_iso": "2026-11-01T19:50:54+00:00"
+   "closed_iso": "2026-11-01T21:33:32+00:00"
   }
  ],
  "cooldown": {
@@ -1480,6 +1481,6 @@
   "5862724": 1793487594.5860329,
   "5855676": 1793496770.2362266,
   "5855754": 1793496771.0259392,
-  "5916983": 1793573454.3185394
+  "5916983": 1793579612.877177
  }
 }
