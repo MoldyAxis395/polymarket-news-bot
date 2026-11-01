@@ -24728,3 +24728,39 @@
 2026-11-01 22:33:39   llm groq-20b: rate limited, skip 12s
 2026-11-01 22:34:39   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-11-01 22:34:40   llm groq-20b: rate limited, skip 128s
+2026-11-01 22:37:43   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 22:37:43   llm groq-20b: rate limited, skip 227s
+2026-11-01 22:38:43   llm groq-120b: rate limited, skip 23s
+2026-11-01 22:39:44   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 22:39:45   llm groq-120b: rate limited, skip 259s
+2026-11-01 22:41:44 indexed 1142 markets
+2026-11-01 22:41:47   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 22:41:47   llm groq-20b: rate limited, skip 306s
+2026-11-01 22:44:48   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 22:44:48   llm groq-120b: rate limited, skip 224s
+2026-11-01 22:47:51   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 22:47:51   llm groq-20b: rate limited, skip 394s
+2026-11-01 22:48:51   llm groq-120b: rate limited, skip 166s
+2026-11-01 22:48:51   drop[no-pick] Lamar Jackson (QB, Baltimore Ravens) ruled out: Questionable -> Out [NFL] (ESPN) :: None
+2026-11-01 22:51:25 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=200&order=volume24hr&ascending=false&end_date_min=2026-11-01T21%3A51%3A21Z&end_date_max=2026-12-01T21%3A51%3A21Z
+2026-11-01 22:52:11 indexed 1141 markets
+2026-11-01 22:52:13   llm groq-120b: rate limited, skip 109s
+2026-11-01 22:54:17   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 22:54:17   llm groq-120b: rate limited, skip 245s
+2026-11-01 22:55:17   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 22:55:17   llm groq-20b: rate limited, skip 278s
+2026-11-01 22:55:38 [pengwin]   book error Will Juventus FC win on 2026-11-01?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=32713108264704692668630043344317082530774051793866534624856773330309158084799
+2026-11-01 22:59:23   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 22:59:23   llm groq-120b: rate limited, skip 310s
+2026-11-01 23:00:24   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 23:00:24   llm groq-20b: rate limited, skip 113s
+2026-11-01 23:01:24 NEWS [ESPN 11m] Jaylon Tyson (G, Cleveland Cavaliers) ruled out: Day-To-Day -> Out [NBA]
+2026-11-01 23:01:24   skip Thunder :: Thunder vs. Cavaliers (rules fallback, LLM down (not traded))
+2026-11-01 23:02:02 indexed 1148 markets
+2026-11-01 23:02:26   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 23:02:26   llm groq-20b: rate limited, skip 231s
+2026-11-01 23:03:17 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 131)
+2026-11-01 23:03:19 [pengwin] TORINO-COMO: no Polymarket event (try 131)
+2026-11-01 23:04:34   drop[kind] Lions, Dan Campbell don't have new info on Jack Campbell injury yet (Lions Wire) :: other
+2026-11-01 23:04:34   llm groq-120b: rate limited, skip 309s
+2026-11-01 23:05:00 [pengwin]   SELL No @ 0.000 (resolved) pnl -10.00 :: Will Juventus FC win on 2026-11-01?

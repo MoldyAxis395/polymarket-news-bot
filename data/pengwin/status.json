@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T22:35:33",
+ "updated": "2026-11-01T23:06:01",
  "start": 100.0,
  "cash": 85.69,
- "equity": 105.47,
+ "equity": 95.47,
  "open": [
   {
    "market_id": "5960431",
@@ -21,29 +21,10 @@
    "end": "2026-11-02T20:00:00+00:00",
    "last_bid": 0.44,
    "book_err": false
-  },
-  {
-   "market_id": "5909608",
-   "question": "Will Juventus FC win on 2026-11-01?",
-   "slug": "sea-juv-nap-2026-11-01-juv",
-   "outcome": "No",
-   "token": "32713108264704692668630043344317082530774051793866534624856773330309158084799",
-   "shares": 17.24137931034483,
-   "entry": 0.58,
-   "cost": 10.0,
-   "opened": 1793378419.223549,
-   "opened_iso": "2026-10-30T16:40:19+00:00",
-   "news": "JUVENTUS-NAPOLI: X2 (esatto)",
-   "reason": "pengwin exact: X2 = No on Juventus win",
-   "conf": 1.0,
-   "end": "2026-11-01T19:45:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1793569473.2599745
   }
  ],
- "closed_count": 60,
- "realized_pnl": 5.69,
+ "closed_count": 61,
+ "realized_pnl": -4.31,
  "pages": {
   "pending": 84,
   "picked": 1,
