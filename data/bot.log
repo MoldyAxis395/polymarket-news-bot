@@ -24005,94 +24005,14 @@
 2026-11-01 00:32:11 [pengwin] TORINO-COMO: no Polymarket event (try 113)
 2026-11-01 00:32:57   llm groq-120b: rate limited, skip 24s
 2026-11-01 00:32:57   drop[1-source] Spurs not rushing Tobias Harris back from calf injury (HoopsHype) :: Tobias Harris, wait 2nd source
-2026-11-01 00:36:39   drop[not-key] Ty Jerome (G, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Ty Jerome: Jerome ruled out with back injury
-2026-11-01 00:36:40   llm groq-120b: rate limited, skip 12s
-2026-11-01 00:36:40   drop[unconfirmed] Scotty Pippen Jr. (G, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: back injury
-2026-11-01 00:36:41   drop[not-key] Quinten Post (C, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Quinten Post: ruled out
-2026-11-01 00:40:34 indexed 1005 markets
-2026-11-01 00:50:34 indexed 1009 markets
-2026-11-01 00:55:04   drop[not-key] Anthony Johnson Jr. (S, Chicago Bears) cleared to play: Injured Reserve -> Active [NFL] (ESPN) :: Anthony Johnson Jr.: cleared from IR to active roster
-2026-11-01 01:00:36 indexed 1042 markets
-2026-11-01 01:00:38   drop[kind] Salvadoran families demand fair trials, mourn prison dead on Day of the Dead reut.rs/3WhB6 (Reuters) :: other
-2026-11-01 01:02:12 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 114)
-2026-11-01 01:02:14 [pengwin] TORINO-COMO: no Polymarket event (try 114)
-2026-11-01 01:05:19   drop[team-not-named] NFL Week 8 Injury Report: A.J. Brown, TreVeyon Henderson ruled out for Week 8, DJ Moore, K (NBC Sports) :: Philadelphia Eagles
-2026-11-01 01:08:54   drop[not-key] Jock Landale (C, Atlanta Hawks) ruled out: healthy -> Out [NBA] (ESPN) :: Jock Landale: nasal fracture
-2026-11-01 01:09:52   drop[kind] Colin Selby Injury: Clears waivers, assigned to Triple-A (RotoWire) :: other
-2026-11-01 01:10:34 indexed 1040 markets
-2026-11-01 01:14:30   drop[1-source] Report suggests that Notre Dame LB Drayk Bowen’s injury is severe (Fighting Irish Wire) :: Drayk Bowen, wait 2nd source
-2026-11-01 01:17:00   drop[1-source] Two Boise State impact players ruled out against Texas State (Sports Illustrated) :: Boise State University Football, wait 2nd source
-2026-11-01 01:19:06   drop[not-key] Lakers Injury Report: Cameron Carr Available Vs Raptors (Lakers Nation) :: Cameron Carr: available to play
-2026-11-01 01:19:06   llm groq-120b: rate limited, skip 156s
-2026-11-01 01:19:07   drop[no-market] 'Significant' ankle injury for LB Drayk Bowen costly for Notre Dame (nwitimes.com) :: Notre Dame Fighting Irish
-2026-11-01 01:19:07   drop[1-source] Clemson offensive lineman Elyjah Thurmon suffers serious injury against FSU (TigerNet) :: Elyjah Thurmon, wait 2nd source
-2026-11-01 01:20:35 indexed 1039 markets
-2026-11-01 01:23:44   llm groq-120b: rate limited, skip 124s
-2026-11-01 01:23:44   drop[no-pick] Clemson offensive lineman Elyjah Thurman placed on backboard following injury vs. FSU (On3) :: short
-2026-11-01 01:30:39 indexed 1046 markets
-2026-11-01 01:32:14 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 115)
-2026-11-01 01:32:17 [pengwin] TORINO-COMO: no Polymarket event (try 115)
-2026-11-01 01:40:02   drop[1-source] Lakers news: LA rookie guard cleared for debut after preseason injury (ClutchPoints) :: Los Angeles Lakers, wait 2nd source
-2026-11-01 01:40:38 indexed 1037 markets
-2026-11-01 01:42:18   drop[kind] Kirill Marchenko tries something new to help heal his leg injury (Hockey Patrol) :: other
-2026-11-01 01:42:51   llm groq-120b: rate limited, skip 173s
-2026-11-01 01:42:52 NEWS [ESPN 0m] Colorado Rapids confirmed lineup vs Chicago Fire FC: Kosi Thompson, Donavan Phillip, Joshua Atencio ruled out of starting XI [usa.1]
-2026-11-01 01:42:52   skip Yes :: Will Chicago Fire FC win on 2026-10-31? (low conf 0.6)
-2026-11-01 01:42:52   drop[unconfirmed] Chicago Fire FC confirmed lineup vs Colorado Rapids: Leonardo Barroso, Andrew Gutman, Andr (ESPN) :: injury
-2026-11-01 01:50:38 indexed 1035 markets
-2026-11-01 01:53:59   drop[kind] Watch Jake Dickert talk about Gio Lopez' injury (Greensboro News and Record) :: other
-2026-11-01 01:56:09   drop[1-source] FSU football's Deante McCray injury: DE helped off field vs. Clemson (Naples Daily News) :: Deante McCray, wait 2nd source
-2026-11-01 02:00:42 indexed 1043 markets
-2026-11-01 02:02:18 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 116)
-2026-11-01 02:02:20 [pengwin] TORINO-COMO: no Polymarket event (try 116)
-2026-11-01 02:10:40 indexed 1040 markets
-2026-11-01 02:19:13   drop[team-not-named] Jalen Johnson Injury: Leaves game with ankle injury (RotoWire) :: Detroit Pistons
-2026-11-01 02:20:41 indexed 1041 markets
-2026-11-01 02:30:44 indexed 1047 markets
-2026-11-01 02:31:05   drop[not-key] Clemson’s Elyjah Thurmon carted off field after suffering serious injury vs. Florida State (ClutchPoints) :: Elyjah Thurmon: suffered serious injury and was carted off field
-2026-11-01 02:32:21 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 117)
-2026-11-01 02:32:23 [pengwin] TORINO-COMO: no Polymarket event (try 117)
-2026-11-01 02:33:08   drop[1-source] Chet Holmgren's injury must force the Thunder to make much-needed trade (Hoops Habit) :: Chet Holmgren, wait 2nd source
-2026-11-01 02:40:50 indexed 1044 markets
-2026-11-01 02:42:29   drop[unconfirmed] Oilers Face Potentially Devastating Horward Injury, Expert Says (heavy.com) :: expert says Horward has a potentially devastating injury
-2026-11-01 02:49:37   drop[1-source] Iowa State football's Omari Hayes exits Oklahoma State game with injury (The Des Moines Register) :: Omari Hayes, wait 2nd source
-2026-11-01 02:50:50 indexed 1048 markets
-2026-11-01 02:54:02   drop[kind] Dan Lanning unclear of the significance of Jordon Davison's injury, Dakorien Moore will 'b (247Sports) :: other
-2026-11-01 03:00:53 indexed 1055 markets
-2026-11-01 03:02:24 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 118)
-2026-11-01 03:02:27 [pengwin] TORINO-COMO: no Polymarket event (try 118)
-2026-11-01 03:10:51 indexed 1049 markets
-2026-11-01 03:12:29   drop[team-not-named] Leonardo Jardim boosted by Carrascal return as Plata is suspended (OneFootball) :: Al Ahly
-2026-11-01 03:20:55 indexed 1056 markets
-2026-11-01 03:26:33   drop[1-source] Iowa State LB Sullivan Schlimgen exits Saturday game with injury (The Des Moines Register) :: Sullivan Schlimgen, wait 2nd source
-2026-11-01 03:30:56 indexed 1052 markets
-2026-11-01 03:32:27 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 119)
-2026-11-01 03:32:30 [pengwin] TORINO-COMO: no Polymarket event (try 119)
-2026-11-01 03:40:57 indexed 1041 markets
-2026-11-01 03:45:17   drop[1-source] Panchkula school assault case: Two JBT teachers suspended, child rights panel seeks report (ANI News) :: JBT school, wait 2nd source
-2026-11-01 03:51:00 indexed 1046 markets
-2026-11-01 03:54:22   drop[no-market] Two teachers suspended in Panchkula school assault; child rights panel seeks report (The News Mill) :: Panchkula school
-2026-11-01 03:58:49   drop[no-market] Haryana school horror: 2 teachers suspended after Class 3 boy assaults girl (India Today) :: Haryana school
-2026-11-01 04:01:04 indexed 1047 markets
-2026-11-01 04:02:29 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 120)
-2026-11-01 04:02:31 [pengwin] TORINO-COMO: no Polymarket event (try 120)
-2026-11-01 04:03:39   drop[1-source] JJ McCarthy Struggles & Will Miss 2-4 Weeks With Ankle Injury (Vikings Territory) :: JJ McCarthy, wait 2nd source
-2026-11-01 04:11:02 indexed 1048 markets
-2026-11-01 04:21:04 indexed 1047 markets
-2026-11-01 04:26:32   drop[1-source] Lakers Injury Report: One Player Out, One Questionable For Showdown vs. Raptors (Fadeaway World) :: Los Angeles Lakers, wait 2nd source
-2026-11-01 04:31:06 indexed 1050 markets
-2026-11-01 04:31:24   drop[1-source] Jemimah Rodrigues Declared Fit After 3-Month Injury Layoff, Joins Mumbai Team (www.sportsyaari.com) :: Jemimah Rodrigues, wait 2nd source
-2026-11-01 04:32:29 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 121)
-2026-11-01 04:32:31 [pengwin] TORINO-COMO: no Polymarket event (try 121)
-2026-11-01 04:33:28   drop[1-source] Shai Gilgeous-Alexander, injury-shortened OKC Thunder fall to red-hot Houston Rockets (The Oklahoman) :: Shai Gilgeous-Alexander, wait 2nd source
-2026-11-01 04:41:04 indexed 1042 markets
-2026-11-01 04:44:16   drop[kind] 🔵🔴 Hansi Flick becomes the second fastest manager in Barcelona history to reach 100 wins.  (Fabrizio Romano) :: other
-2026-11-01 04:51:06 indexed 1037 markets
-2026-11-01 05:01:08 indexed 988 markets
-2026-11-01 05:03:30 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 122)
-2026-11-01 05:03:33 [pengwin] TORINO-COMO: no Polymarket event (try 122)
-2026-11-01 05:05:53   drop[team-not-named] Page gets the call as Dyer ruled out by injury (The Rugby Paper) :: Leicester Tigers
-2026-11-01 05:05:54   drop[1-source] Mitchell adds to England injury woe (The Rugby Paper) :: Mitchell, wait 2nd source
-2026-11-01 05:05:55   drop[1-source] Ringrose ruled out (The Rugby Paper) :: Jack Ringrose, wait 2nd source
-2026-11-01 05:11:05 indexed 985 markets
-2026-11-01 05:15:01 shift over, state saved
+2026-11-01 05:15:18 === start mode=paper pid=2197 ===
+2026-11-01 05:15:18 brain=llm cash=84.05 open=0
+2026-11-01 05:15:18 resuming with 5968 known news items
+2026-11-01 05:15:42 indexed 983 markets
+2026-11-01 05:16:00   drop[not-key] Jock Landale (C, Atlanta Hawks) ruled out: healthy -> Out [NBA] (ESPN) :: Jock Landale: ruled out for upcoming game
+2026-11-01 05:16:01   drop[not-key] Ty Jerome (G, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Ty Jerome: back injury
+2026-11-01 05:16:01   drop[not-key] Scotty Pippen Jr. (G, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Scotty Pippen Jr.: back injury
+2026-11-01 05:16:02   drop[not-key] Quinten Post (C, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Quinten Post: ruled out and placed on inactive list
+2026-11-01 05:16:02   drop[kind] 🔵🔴 Hansi Flick becomes the second fastest manager in Barcelona history to reach 100 wins.  (Fabrizio Romano) :: other
+2026-11-01 05:16:03   drop[kind] Salvadoran families demand fair trials, mourn prison dead on Day of the Dead reut.rs/3WhB6 (Reuters) :: other
+2026-11-01 05:18:26   drop[1-source] Panchkula school assault case: Two JBT teachers suspended, child rights panel seeks report (First India) :: JBT, wait 2nd source
