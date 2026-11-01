@@ -24095,3 +24095,14 @@
 2026-11-01 14:31:42 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1400&order=volume24hr&ascending=false&end_date_min=2026-11-01T13%3A31%3A12Z&end_date_max=2026-12-01T13%3A31%3A12Z
 2026-11-01 14:32:16 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1100&order=volume24hr&ascending=false&end_date_min=2026-11-01T13%3A31%3A54Z&end_date_max=2026-12-01T13%3A31%3A54Z
 2026-11-01 14:33:09 indexed 1134 markets
+2026-11-01 14:39:15   drop[not-key] 1. FC Union Berlin confirmed lineup vs FC Cologne: Tom Rothe, Felix Uduokhai, Jeong Woo-Ye (ESPN) :: Tom Rothe: injury
+2026-11-01 14:39:15   drop[no-market] FC Cologne confirmed lineup vs 1. FC Union Berlin: Luka Lochoshvili, Mikey Moore ruled out (ESPN) :: FC Cologne
+2026-11-01 14:40:20   drop[1-source] Bayern Munich Confirm Ismael Saibari Injury, Moroccan Midfielder Faces Three-Month Absence (Morocco World News) :: Ismael Saibari, wait 2nd source
+2026-11-01 14:42:55 indexed 1131 markets
+2026-11-01 14:47:34   drop[1-source] Panchkula School Assault: 8-yr-old boy sent to observation home; 2 teachers suspended, FIR (Babushahi.com) :: Panchkula School, wait 2nd source
+2026-11-01 14:49:51   drop[1-source] Just in: Barcelona receive major injury boost as key defender returns to part group traini (Barca Universal) :: Ronald Araújo, wait 2nd source
+2026-11-01 14:52:57 indexed 1133 markets
+2026-11-01 14:54:32   drop[not-key] Saibari has surgery for an ankle ligament tear and Bayern teammate Gnabry has a hamstring  (The Lethbridge Herald) :: Saibari: underwent surgery for an ankle ligament tear
+2026-11-01 14:56:49   drop[1-source] Bayern Munich suffer double injury blow as Saibari undergoes surgery, Gnabry sidelined (IANS LIVE) :: Serge Gnabry, wait 2nd source
+2026-11-01 15:00:46   drop[kind] Russian strikes cut power to thousands in Ukraine as drones damage Russian facility reut.r (Reuters) :: other
+2026-11-01 15:03:00 indexed 1125 markets
