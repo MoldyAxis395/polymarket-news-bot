@@ -34,8 +34,9 @@
    "reason": "pengwin approx: approx via Elche O/U 1.5 Over",
    "conf": 1.0,
    "end": "2026-11-01T17:30:00+00:00",
-   "last_bid": 0.08,
-   "book_err": false
+   "last_bid": 0.001,
+   "book_err": false,
+   "settle_retry": 1793561390.3393025
   },
   {
    "market_id": "5909608",

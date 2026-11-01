@@ -24666,3 +24666,34 @@
 2026-11-01 19:48:09 [pengwin] TORINO-COMO: no Polymarket event (try 129)
 2026-11-01 19:49:15 NEWS [ESPN 6m] Zachariah Branch (WR, Atlanta Falcons) ruled out: Active -> Out [NFL]
 2026-11-01 19:49:15   skip Natus Vincere :: Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Grou (rules fallback, LLM down (not traded))
+2026-11-01 19:52:05   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 19:52:05   llm groq-120b: rate limited, skip 289s
+2026-11-01 19:52:29   drop[kind] Giants Had Interest In DT Daron Payne Prior To Injury (NFLTradeRumors.co) :: other
+2026-11-01 19:53:06   llm groq-20b: rate limited, skip 151s
+2026-11-01 19:56:10   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 19:56:10   llm groq-20b: rate limited, skip 422s
+2026-11-01 19:57:02 indexed 1125 markets
+2026-11-01 19:57:12   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 19:57:12   llm groq-120b: rate limited, skip 291s
+2026-11-01 20:02:15   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 20:02:15   llm groq-120b: rate limited, skip 325s
+2026-11-01 20:03:16   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 20:03:16   llm groq-20b: rate limited, skip 323s
+2026-11-01 20:07:02 indexed 1127 markets
+2026-11-01 20:08:23   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 20:08:23   llm groq-120b: rate limited, skip 292s
+2026-11-01 20:08:51   drop[kind] Jeremiyah Love questionable to return with ankle injury as Cardinals trail 14-0 (NBC Sports) :: other
+2026-11-01 20:08:51   llm groq-20b: rate limited, skip 284s
+2026-11-01 20:13:30   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 20:13:30   llm groq-120b: rate limited, skip 112s
+2026-11-01 20:14:30   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 20:14:30   llm groq-20b: rate limited, skip 250s
+2026-11-01 20:15:32   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 20:15:32   llm groq-120b: rate limited, skip 156s
+2026-11-01 20:17:05 indexed 1141 markets
+2026-11-01 20:18:06 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 130)
+2026-11-01 20:18:09 [pengwin] TORINO-COMO: no Polymarket event (try 130)
+2026-11-01 20:18:34   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 20:18:34   llm groq-120b: rate limited, skip 357s
+2026-11-01 20:19:35   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 20:19:35   llm groq-20b: rate limited, skip 154s
