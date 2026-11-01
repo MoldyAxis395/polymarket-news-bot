@@ -24616,3 +24616,53 @@
 2026-11-01 19:17:11   llm groq-20b: rate limited, skip 333s
 2026-11-01 19:18:05 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 128)
 2026-11-01 19:18:07 [pengwin] TORINO-COMO: no Polymarket event (try 128)
+2026-11-01 19:21:17   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 19:21:17   llm groq-120b: rate limited, skip 111s
+2026-11-01 19:23:20   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 19:23:20   llm groq-120b: rate limited, skip 359s
+2026-11-01 19:23:21   llm groq-20b: rate limited, skip 80s
+2026-11-01 19:23:21   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-11-01 19:24:50   drop[kind] Lamar Jackson Injury: Hurts hand during opening drive (RotoWire) :: other
+2026-11-01 19:24:50   llm groq-20b: rate limited, skip 220s
+2026-11-01 19:27:01 indexed 1126 markets
+2026-11-01 19:29:28   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 19:29:28   llm groq-120b: rate limited, skip 242s
+2026-11-01 19:29:29   llm groq-20b: rate limited, skip 112s
+2026-11-01 19:29:29   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-11-01 19:31:29   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 19:31:29   llm groq-20b: rate limited, skip 181s
+2026-11-01 19:31:29 NEWS [ESPN 10m] Cole Koepke (LW, Winnipeg Jets) ruled out: healthy -> Out [NHL]
+2026-11-01 19:31:29   skip Canadiens :: Jets vs. Canadiens (rules fallback, LLM down (not traded))
+2026-11-01 19:32:11 NEWS [Ian Rapoport 0m] Here is the video and replay of the play that injured Ravens QB Lamar Jackson’s thumb.
+2026-11-01 19:32:11   skip Jaguars :: Jaguars vs. Ravens (rules fallback, LLM down (not traded))
+2026-11-01 19:33:31   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 19:33:31   llm groq-120b: rate limited, skip 172s
+2026-11-01 19:34:32   llm groq-20b: rate limited, skip 77s
+2026-11-01 19:36:35   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 19:36:35   llm groq-120b: rate limited, skip 280s
+2026-11-01 19:36:36   llm groq-20b: rate limited, skip 191s
+2026-11-01 19:36:36   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-11-01 19:37:00 indexed 1129 markets
+2026-11-01 19:39:24 NEWS [BBC 2m] Bellingham & Mbappe score as Real Madrid earn statement win
+2026-11-01 19:39:24   skip Yes :: Exact Score: Any Other Score? (rules fallback, LLM down (not traded))
+2026-11-01 19:39:24   skip Yes :: Real Madrid CF leading at halftime? (rules fallback, LLM down (not traded))
+2026-11-01 19:39:24   skip Yes :: Will Real Madrid CF win on 2026-11-04? (rules fallback, LLM down (not traded))
+2026-11-01 19:40:41   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-01 19:40:41   llm groq-20b: rate limited, skip 309s
+2026-11-01 19:41:42   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 19:41:43   llm groq-120b: rate limited, skip 293s
+2026-11-01 19:45:35 NEWS [The New York Times 4m] Lamar Jackson’s return lasts just 1 play before Ravens QB ruled out with thumb injury
+2026-11-01 19:45:35   skip Jaguars :: Jaguars vs. Ravens (rules fallback, LLM down (not traded))
+2026-11-01 19:45:35 NEWS [CBS Sports 4m] Lamar Jackson exits game with injury: Ravens QB ruled out vs. Bills after just one play
+2026-11-01 19:45:35   skip Jaguars :: Jaguars vs. Ravens (rules fallback, LLM down (not traded))
+2026-11-01 19:45:45 NEWS [ESPN 20m] Lamar Jackson (QB, Baltimore Ravens) ruled out: Questionable -> Out [NFL]
+2026-11-01 19:45:45   skip Jaguars :: Jaguars vs. Ravens (rules fallback, LLM down (not traded))
+2026-11-01 19:47:00 indexed 1130 markets
+2026-11-01 19:47:03   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-01 19:47:03   llm groq-120b: rate limited, skip 278s
+2026-11-01 19:47:04   llm groq-20b: rate limited, skip 318s
+2026-11-01 19:47:04   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-11-01 19:48:06 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 129)
+2026-11-01 19:48:09 [pengwin] TORINO-COMO: no Polymarket event (try 129)
+2026-11-01 19:49:15 NEWS [ESPN 6m] Zachariah Branch (WR, Atlanta Falcons) ruled out: Active -> Out [NFL]
+2026-11-01 19:49:15   skip Natus Vincere :: Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Grou (rules fallback, LLM down (not traded))

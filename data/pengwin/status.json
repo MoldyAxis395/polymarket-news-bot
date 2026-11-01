@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T19:20:49",
+ "updated": "2026-11-01T19:50:51",
  "start": 100.0,
  "cash": 85.69,
- "equity": 109.44,
+ "equity": 106.82,
  "open": [
   {
    "market_id": "5960431",
@@ -37,7 +37,7 @@
    "reason": "pengwin approx: approx via Elche O/U 1.5 Over",
    "conf": 1.0,
    "end": "2026-11-01T17:30:00+00:00",
-   "last_bid": 0.17,
+   "last_bid": 0.08,
    "book_err": false
   },
   {
@@ -55,7 +55,7 @@
    "reason": "pengwin exact: X2 = No on Juventus win",
    "conf": 1.0,
    "end": "2026-11-01T19:45:00+00:00",
-   "last_bid": 0.58,
+   "last_bid": 0.55,
    "book_err": false
   }
  ],
