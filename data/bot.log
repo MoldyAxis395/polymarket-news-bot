@@ -25057,3 +25057,37 @@
 2026-11-02 06:48:04 indexed 1081 markets
 2026-11-02 06:48:25   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-11-02 06:48:25   llm groq-120b: rate limited, skip 188s
+2026-11-02 06:51:49 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 141)
+2026-11-02 06:51:52   llm groq-120b: rate limited, skip 87s
+2026-11-02 06:51:52 [pengwin] TORINO-COMO: no Polymarket event (try 141)
+2026-11-02 06:53:30   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 06:53:30   llm groq-120b: rate limited, skip 155s
+2026-11-02 06:54:31   llm groq-20b: rate limited, skip 78s
+2026-11-02 06:56:34   llm groq-120b: rate limited, skip 295s
+2026-11-02 06:56:34   llm groq-20b: rate limited, skip 326s
+2026-11-02 06:58:06 indexed 1078 markets
+2026-11-02 07:01:45 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x704a6e6ca870>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
+2026-11-02 07:02:08   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 07:02:08   llm groq-120b: rate limited, skip 50s
+2026-11-02 07:02:09   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: short
+2026-11-02 07:03:10   llm groq-120b: rate limited, skip 377s
+2026-11-02 07:03:10   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 07:03:11   llm groq-20b: rate limited, skip 344s
+2026-11-02 07:08:17 indexed 1082 markets
+2026-11-02 07:09:07   drop[1-source] New Zealand dealt injury blow as Mark Chapman, Rachin Ravindra ruled out of ODI series (India Today) :: Mark Chapman, wait 2nd source
+2026-11-02 07:09:07   llm groq-20b: rate limited, skip 319s
+2026-11-02 07:10:20   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 07:10:20   llm groq-120b: rate limited, skip 56s
+2026-11-02 07:11:21   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 07:11:21   llm groq-120b: rate limited, skip 72s
+2026-11-02 07:13:24   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 07:13:24   llm groq-120b: rate limited, skip 148s
+2026-11-02 07:15:25   llm groq-20b: rate limited, skip 98s
+2026-11-02 07:16:03   llm groq-120b: rate limited, skip 129s
+2026-11-02 07:17:28   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 07:17:28   llm groq-20b: rate limited, skip 124s
+2026-11-02 07:18:16 indexed 1080 markets
+2026-11-02 07:18:29   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 07:18:29   llm groq-120b: rate limited, skip 614s
+2026-11-02 07:20:32   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 07:20:32   llm groq-20b: rate limited, skip 366s
