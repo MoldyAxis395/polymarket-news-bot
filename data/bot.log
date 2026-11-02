@@ -25336,3 +25336,32 @@
 2026-11-02 12:32:46   llm groq-20b: rate limited, skip 213s
 2026-11-02 12:33:47   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-11-02 12:33:47   llm groq-120b: rate limited, skip 94s
+2026-11-02 12:35:34   drop[kind] SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports reut.rs/4s (Reuters) :: other
+2026-11-02 12:35:34   llm groq-120b: rate limited, skip 253s
+2026-11-02 12:36:49   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 12:36:50   llm groq-20b: rate limited, skip 320s
+2026-11-02 12:40:20 indexed 1081 markets
+2026-11-02 12:40:23   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 12:40:23   llm groq-120b: rate limited, skip 336s
+2026-11-02 12:42:23   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 12:42:23   llm groq-20b: rate limited, skip 411s
+2026-11-02 12:46:28   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 12:46:28   llm groq-120b: rate limited, skip 207s
+2026-11-02 12:49:31   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 12:49:31   llm groq-20b: rate limited, skip 275s
+2026-11-02 12:50:22 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=2000&order=volume24hr&ascending=false&end_date_min=2026-11-02T11%3A49%3A42Z&end_date_max=2026-12-02T11%3A49%3A42Z
+2026-11-02 12:51:12 indexed 1075 markets
+2026-11-02 12:51:15   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 12:51:15   llm groq-120b: rate limited, skip 216s
+2026-11-02 12:54:25   drop[1-source] Carl Tamayo out of next FIBA window due to ankle injury, says Cone (SPIN.ph: Sports Interactive Network Philippines) :: Carl Tamayo, wait 2nd source
+2026-11-02 12:54:28   llm groq-20b: rate limited, skip 270s
+2026-11-02 12:55:02   drop[not-key] 🚨 Patrick Dorgu returns in team training with Man United squad ahead of AS Roma game. (Fabrizio Romano) :: Patrick Dorgu: back in training
+2026-11-02 12:55:28   llm groq-120b: rate limited, skip 206s
+2026-11-02 12:59:01   drop[kind] Manhunt launched after victim injured in Essex assault (Colchester Gazette) :: other
+2026-11-02 12:59:01   llm groq-120b: rate limited, skip 274s
+2026-11-02 12:59:01   llm groq-20b: rate limited, skip 175s
+2026-11-02 13:01:17 indexed 1205 markets
+2026-11-02 13:01:53 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-11-02 13:02:19   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-02 13:02:19   llm groq-20b: rate limited, skip 188s
+2026-11-02 13:03:41   llm groq-120b: rate limited, skip 57s
