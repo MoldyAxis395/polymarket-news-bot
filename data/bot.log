@@ -25227,3 +25227,14 @@
 2026-11-02 09:48:47 indexed 1084 markets
 2026-11-02 09:48:55   drop[1-source] Hawks’ Kingston Flemings suspended one game without pay (TalkBasket.net) :: Kingston Flemings, wait 2nd source
 2026-11-02 09:49:02   llm groq-120b: rate limited, skip 256s
+2026-11-02 09:53:07   llm groq-20b: rate limited, skip 403s
+2026-11-02 09:54:08   llm groq-120b: rate limited, skip 493s
+2026-11-02 09:55:52 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 147)
+2026-11-02 09:55:54 [pengwin] TORINO-COMO: no Polymarket event (try 147)
+2026-11-02 09:58:48 indexed 1083 markets
+2026-11-02 10:00:14   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 10:00:15   llm groq-20b: rate limited, skip 42s
+2026-11-02 10:00:15   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-11-02 10:01:15   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 10:01:15   llm groq-20b: rate limited, skip 246s
+2026-11-02 10:01:33 shift over, state saved
