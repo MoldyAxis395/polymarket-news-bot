@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02T22:24:37",
+ "updated": "2026-11-02T22:54:44",
  "start": 100.0,
  "cash": 85.69,
- "equity": 88.36,
+ "equity": 107.69,
  "open": [
   {
    "market_id": "5960431",
@@ -19,7 +19,7 @@
    "reason": "pengwin approx: represents 1X double chance as home win",
    "conf": 1.0,
    "end": "2026-11-02T20:00:00+00:00",
-   "last_bid": 0.12,
+   "last_bid": 0.99,
    "book_err": false
   }
  ],

@@ -25773,3 +25773,15 @@
 2026-11-02 22:23:49   drop[kind] Lions report positive progress for linebacker Campbell after injury (Reuters) :: other
 2026-11-02 22:23:50   drop[team-not-named] Rui Hachimura Injury: Won't play Monday (RotoWire) :: Washington Wizards
 2026-11-02 22:25:04 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x73919f26a780>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
+2026-11-02 22:29:02   drop[unconfirmed] The Seahawks plan to activate first-round RB Jadarian Price from Injured Reserve to play t (Ian Rapoport) :: activated from IR to play
+2026-11-02 22:31:05 indexed 1133 markets
+2026-11-02 22:31:27   drop[kind] Commanders concerned with ‘significant injury’ on offense following Week 8 win (The Big Lead) :: other
+2026-11-02 22:40:40   drop[1-source] Gators Look To Reignite Offense Amid QB Battle, Brown's Injury (Florida Gators) :: Brown, wait 2nd source
+2026-11-02 22:41:07 indexed 1127 markets
+2026-11-02 22:43:47 gdelt error: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2026-11-02 22:47:20   drop[kind] Lakers Get Major Ziaire Williams Boost Ahead of Heat Showdown (heavy.com) :: other
+2026-11-02 22:50:22   drop[kind] Lions say signs are positive for injured Campbell (BBC) :: other
+2026-11-02 22:50:35   book error Jaguars vs. Ravens: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-11-02 22:51:09 indexed 1135 markets
+2026-11-02 22:54:20   drop[team-not-named] Jeremiyah Love suffered new ankle injury Sunday, did not aggravate previous one (NBC Sports) :: New York Giants
+2026-11-02 22:54:21   drop[1-source] Scottie Barnes has been added to the Raptors’ injury … (HoopsHype) :: Scottie Barnes, wait 2nd source
