@@ -25396,3 +25396,35 @@
 2026-11-02 13:31:48 indexed 1209 markets
 2026-11-02 13:31:57   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-11-02 13:31:57   llm groq-20b: rate limited, skip 156s
+2026-11-02 13:35:01   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 13:35:01   llm groq-20b: rate limited, skip 225s
+2026-11-02 13:35:56   drop[kind] Spinal cord injury alters gut bacteria linked to wider health – study (NR Times) :: other
+2026-11-02 13:35:56   llm groq-120b: rate limited, skip 273s
+2026-11-02 13:39:02   llm groq-20b: rate limited, skip 67s
+2026-11-02 13:40:20   drop[kind] Mike Vrabel mum on Patriots' handling of A.J. Brown's injury (Audacy) :: other
+2026-11-02 13:40:44   drop[team-not-named] UK adventurer returns home after 28-year trek around the world reut.rs/4zxqWvB (Reuters) :: United Kingdom
+2026-11-02 13:41:03   llm groq-120b: rate limited, skip 265s
+2026-11-02 13:41:03   llm groq-20b: rate limited, skip 220s
+2026-11-02 13:41:42 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1800&order=volume24hr&ascending=false&end_date_min=2026-11-02T12%3A41%3A08Z&end_date_max=2026-12-02T12%3A41%3A08Z
+2026-11-02 13:42:30 indexed 1204 markets
+2026-11-02 13:45:35   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 13:45:35   llm groq-120b: rate limited, skip 220s
+2026-11-02 13:45:35   llm groq-20b: rate limited, skip 277s
+2026-11-02 13:45:35   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-11-02 13:49:41   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 13:49:41   llm groq-120b: rate limited, skip 166s
+2026-11-02 13:50:42   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 13:50:42   llm groq-20b: rate limited, skip 332s
+2026-11-02 13:52:18 indexed 1210 markets
+2026-11-02 13:52:43   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 13:52:43   llm groq-120b: rate limited, skip 270s
+2026-11-02 13:56:50   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 13:56:50   llm groq-20b: rate limited, skip 333s
+2026-11-02 13:57:51   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 13:57:51   llm groq-120b: rate limited, skip 210s
+2026-11-02 14:01:55   drop[1-source] Mike Vrabel offers latest on A.J. Brown after Patriots win over Dolphins (Boston Herald) :: New England Patriots, wait 2nd source
+2026-11-02 14:01:56   llm groq-120b: rate limited, skip 317s
+2026-11-02 14:02:10 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=500&order=volume24hr&ascending=false&end_date_min=2026-11-02T13%3A01%3A58Z&end_date_max=2026-12-02T13%3A01%3A58Z
+2026-11-02 14:03:02 indexed 1216 markets
+2026-11-02 14:03:07   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 14:03:07   llm groq-20b: rate limited, skip 145s
