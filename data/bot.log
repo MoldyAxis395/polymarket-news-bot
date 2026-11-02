@@ -25847,3 +25847,30 @@
 2026-11-03 00:18:14   drop[kind] Badminton: Yuqi serves up wedding bliss while recovering from injury (The Star) :: other
 2026-11-03 00:20:20   drop[no-pick] Kyrie Irving (G, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: The fact is bad for the Mavericks, so the price of the Mavericks outcome should fall, not rise. No suitable outcome to p
 2026-11-03 00:21:58 indexed 1091 markets
+2026-11-03 00:28:29   drop[not-key] Peyton Watson (G, Cleveland Cavaliers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Peyton Watson: right hamstring soreness
+2026-11-03 00:29:15   drop[1-source] FDA grants orphan drug status to Neuren's NNZ-2591 for newborn brain injury (BiotechDispatch) :: Neuren, wait 2nd source
+2026-11-03 00:31:19   drop[1-source] 4 members of SAE suspended from national chapter after drug video (The State News) :: Sigma Alpha Epsilon National Chapter, wait 2nd source
+2026-11-03 00:31:57 indexed 1093 markets
+2026-11-03 00:33:35   llm groq-120b: rate limited, skip 49s
+2026-11-03 00:33:35   drop[kind] Detroit Lions coach Dan Campbell said he visited injured LB Jack Campbell at the hospital  (Facebook) :: other
+2026-11-03 00:33:38   drop[verify] Mavericks news: Kyrie Irving officially ruled out for Monday clash with Kings (ClutchPoints) :: Kyrie not confirmed on Mavericks
+2026-11-03 00:34:01   drop[unconfirmed] Terrence Shannon Jr. (G, Minnesota Timberwolves) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: left hip contusion
+2026-11-03 00:35:51   llm groq-120b: rate limited, skip 13s
+2026-11-03 00:35:52   drop[no-pick] Rams get major injury boost, but Sean McVay reveals several new concerns (New York Post) :: no matching NFL market
+2026-11-03 00:40:30   drop[kind] 'Encouraged by the progress made': Phoenix Symphony board, staff, musicians meet to discus (12News) :: other
+2026-11-03 00:42:00 indexed 1087 markets
+2026-11-03 00:42:50   drop[kind] 7-year-old boy critically injured after being struck by vehicle in Spanish Fork (KUTV) :: other
+2026-11-03 00:45:10   llm groq-120b: rate limited, skip 221s
+2026-11-03 00:45:10   drop[team-not-named] Video Highly anticipated Bears-Seahawks showdown, Lamar Jackson's injury and more NFL news (ABC News - Breaking News, Latest News and Videos) :: Baltimore Ravens
+2026-11-03 00:45:13   drop[unconfirmed] David Njoku (TE, Los Angeles Chargers) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: placed on Injured Reserve
+2026-11-03 00:49:48   llm groq-120b: rate limited, skip 290s
+2026-11-03 00:49:48   drop[unconfirmed] Louisville guard De'Shayne Montgomery to miss 4-6 weeks with foot injury (WHAS11) :: foot injury
+2026-11-03 00:49:48   drop[unconfirmed] NFL to Make Punishment Decision After Deshaun Watson Injury Scare (Athlon Sports) :: pending punishment decision
+2026-11-03 00:51:04 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-11-03 00:52:04 indexed 1089 markets
+2026-11-03 00:52:08   drop[team-not-named] Jags DT DaVon Hamilton Suffered Season-Ending Quad Injury (NFLTradeRumors.co) :: Jacksonville Jaguars
+2026-11-03 00:52:54   drop[not-key] Bears-Seahawks inactives: CB Malik Muhammad ruled out (Chicago Sun-Times) :: Malik Muhammad: injury
+2026-11-03 00:54:25   drop[not-key] Brandon Pili (DT, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: Brandon Pili: injury
+2026-11-03 00:54:26   drop[not-key] Beau Stephens (G, Seattle Seahawks) ruled out: Active -> Out [NFL] (ESPN) :: Beau Stephens: injury
+2026-11-03 00:54:27   drop[side] Drew Lock (QB, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: Bears vs. Seahawks -> Seahawks vs fact ruled_out: Drew Lock (Seattle Seahawks, nfl), bad for Seattle Seahawks. injury
+2026-11-03 00:54:29   drop[verify] Uchenna Nwosu (LB, Seattle Seahawks) ruled out: Doubtful -> Out [NFL] (ESPN) :: player not on team
