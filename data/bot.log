@@ -25825,3 +25825,25 @@
 2026-11-02 23:55:00   drop[1-source] Cardinals’ Jeremiyah Love suffered ‘new’ ankle injury, Kendrick Bourne outlook is not good (Arizona Sports) :: Jeremiah Love, wait 2nd source
 2026-11-02 23:55:01   drop[kind] Ravens sign quarterback to practice squad after Lamar Jackson injury (Marco Eagle) :: other
 2026-11-02 23:55:01   drop[1-source] Former 49ers WR Suffers Season-Ending Injury in First Year With New Team (Heavy.com) :: new team of former 49ers wide receiver, wait 2nd source
+2026-11-03 00:00:21   drop[no-market] Apple results beat Wall Street expectations on strong iPhone sales reut.rs/47WwLGR (Reuters) :: Apple Inc.
+2026-11-03 00:01:27 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-11-03 00:01:56 indexed 1100 markets
+2026-11-03 00:01:59   drop[verify] Kendrick Bourne (WR, Arizona Cardinals) ruled out: Doubtful -> Out [NFL] (ESPN) :: Kendrick Bourne no longer on the Cardinals roster
+2026-11-03 00:02:03   drop[1-source] In Brazil, two municipal employees suspended over threats to poison water — Mongabay (UA.NEWS) :: Brazil municipal government, wait 2nd source
+2026-11-03 00:05:02   drop[verify] Jalen Johnson (F, Atlanta Hawks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Uncertain if Johnson still on Hawks and he isn’t a market‑moving star
+2026-11-03 00:06:46   drop[team-not-named] Larry Nance Jr. (illness) ruled out Monday vs. ATL (NBC Sports) :: Cleveland Cavaliers
+2026-11-03 00:11:19   drop[team-not-named] Fed. Judge Suspended for Psychiatric Eval After Anti-White Outburst in Court Leads to Asto (The Western Journal) :: United States Federal Judiciary
+2026-11-03 00:11:57 indexed 1093 markets
+2026-11-03 00:15:06 NEWS [Reuters 1m] On the eve of the midterms, the Supreme Court quickly rejected a bid by the Trump administration to temporarily block California ​from counting mail-in ballots from more than 20,000 registered voters who federal officials allege are likely noncitizens reut.rs/4isfk5H
+2026-11-03 00:15:06   skip Yes :: Will Xavier Becerra win Fresno County in the California governor race  (low conf 0.6)
+2026-11-03 00:15:36   drop[kind] Diamondback Energy beats profit estimates as Iran war lifts oil prices reut.rs/4zj91bS (Reuters) :: other
+2026-11-03 00:15:58   drop[no-pick] Myles Garrett is returning to Rams practice after 7-game absence because of knee injury (Your Valley) :: short
+2026-11-03 00:15:59   drop[team-not-named] JuJu Watkins drops 21 points in long-awaited return from ACL injury to lead No. 3 USC past (Yahoo) :: University of Southern California Trojans
+2026-11-03 00:17:17   drop[verify] Larry Nance Jr. (F, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: uncertain if Nance still on Pacers and his impact likely insufficient to shift market >5 points
+2026-11-03 00:17:18 NEWS [ESPN 10m] Obi Toppin (F, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA]
+2026-11-03 00:17:18   skip Hawks :: Hawks vs. Pacers (low conf 0.6)
+2026-11-03 00:18:13   llm groq-120b: rate limited, skip 213s
+2026-11-03 00:18:14   drop[kind] Lions' Aidan Hutchinson speaks out after emotional Jack Campbell injury (Sporting News) :: other
+2026-11-03 00:18:14   drop[kind] Badminton: Yuqi serves up wedding bliss while recovering from injury (The Star) :: other
+2026-11-03 00:20:20   drop[no-pick] Kyrie Irving (G, Dallas Mavericks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: The fact is bad for the Mavericks, so the price of the Mavericks outcome should fall, not rise. No suitable outcome to p
+2026-11-03 00:21:58 indexed 1091 markets
