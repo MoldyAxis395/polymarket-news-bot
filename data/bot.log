@@ -25459,3 +25459,30 @@
 2026-11-02 14:33:10 indexed 1218 markets
 2026-11-02 14:33:13   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-11-02 14:33:13   llm groq-120b: rate limited, skip 277s
+2026-11-02 14:36:15   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 14:36:15   llm groq-20b: rate limited, skip 311s
+2026-11-02 14:38:16   llm groq-120b: rate limited, skip 2s
+2026-11-02 14:38:54   drop[1-source] Ravens Lose Lamar Jackson to Thumb Injury Against Bills (Cirebon Times) :: Lamar Jackson, wait 2nd source
+2026-11-02 14:38:54   llm groq-120b: rate limited, skip 228s
+2026-11-02 14:42:21   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 14:42:22   llm groq-20b: rate limited, skip 321s
+2026-11-02 14:43:11 indexed 1212 markets
+2026-11-02 14:43:18   drop[kind] Mother of 12-year-old Enfield girl who died of overdose to appear in court (New Haven Register) :: other
+2026-11-02 14:43:23   llm groq-120b: rate limited, skip 176s
+2026-11-02 14:46:28   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 14:46:28   llm groq-120b: rate limited, skip 244s
+2026-11-02 14:47:55   drop[team-not-named] Man Utd Handed Big Injury Boost As 2 Stars Are Pictured Back In Training (ManUNews.com) :: Manchester United
+2026-11-02 14:47:59   llm groq-20b: rate limited, skip 260s
+2026-11-02 14:51:34   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 14:51:34   llm groq-120b: rate limited, skip 164s
+2026-11-02 14:52:31   drop[team-not-named] “It stays secret” – Dominik Szoboszlai coy on injury return being rushed (This Is Anfield) :: Liverpool FC
+2026-11-02 14:52:34   llm groq-20b: rate limited, skip 204s
+2026-11-02 14:53:15 indexed 1211 markets
+2026-11-02 14:54:38   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 14:54:38   llm groq-120b: rate limited, skip 308s
+2026-11-02 14:56:41   llm groq-20b: rate limited, skip 42s
+2026-11-02 14:57:42   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 14:57:42   llm groq-20b: rate limited, skip 374s
+2026-11-02 15:00:46   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 15:00:46   llm groq-120b: rate limited, skip 219s
+2026-11-02 15:03:17 indexed 1202 markets
