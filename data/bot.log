@@ -25298,3 +25298,41 @@
 2026-11-02 12:01:41   llm groq-120b: rate limited, skip 258s
 2026-11-02 12:01:42   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: short
 2026-11-02 12:02:40   llm groq-20b: rate limited, skip 261s
+2026-11-02 12:06:03   llm groq-120b: rate limited, skip 182s
+2026-11-02 12:06:03   drop[no-pick] Apollo launches €10 billion European credit platform reut.rs/4ijvuzB (Reuters) :: None
+2026-11-02 12:07:31   drop[1-source] CoCT to pay R1.5m plus interest over suspended stormwater works (Cape Argus) :: Cape Town City Council, wait 2nd source
+2026-11-02 12:07:49   llm groq-20b: rate limited, skip 236s
+2026-11-02 12:09:30 indexed 1071 markets
+2026-11-02 12:09:54   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 12:09:54   llm groq-120b: rate limited, skip 227s
+2026-11-02 12:11:52   drop[1-source] Ryan Pulock injury: Islanders D-man to miss 2-4 weeks (amNewYork) :: Ryan Pulock, wait 2nd source
+2026-11-02 12:11:52   llm groq-20b: rate limited, skip 145s
+2026-11-02 12:13:57   llm groq-120b: rate limited, skip 52s
+2026-11-02 12:14:59   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 12:14:59   llm groq-120b: rate limited, skip 315s
+2026-11-02 12:14:59   llm groq-20b: rate limited, skip 228s
+2026-11-02 12:19:28 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1800&order=volume24hr&ascending=false&end_date_min=2026-11-02T11%3A18%3A54Z&end_date_max=2026-12-02T11%3A18%3A54Z
+2026-11-02 12:20:18 indexed 1075 markets
+2026-11-02 12:20:38   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 12:20:38   llm groq-120b: rate limited, skip 73s
+2026-11-02 12:20:38   llm groq-20b: rate limited, skip 41s
+2026-11-02 12:20:38   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-11-02 12:21:21   llm groq-20b: rate limited, skip 116s
+2026-11-02 12:22:23   llm groq-120b: rate limited, skip 29s
+2026-11-02 12:23:25   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 12:23:25   llm groq-120b: rate limited, skip 256s
+2026-11-02 12:23:25   llm groq-20b: rate limited, skip 17s
+2026-11-02 12:23:56   drop[1-source] Blockx withdraws from Paris with an ankle injury, Baez enters as a lucky loser (Tennis Majors) :: Blockx, wait 2nd source
+2026-11-02 12:23:56   llm groq-20b: rate limited, skip 275s
+2026-11-02 12:28:25   drop[1-source] Bus services suspended on six Barishal routes over three-wheeler ban demand (United News of Bangladesh) :: Barishal bus services, wait 2nd source
+2026-11-02 12:28:29   llm groq-120b: rate limited, skip 229s
+2026-11-02 12:29:32   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 12:29:32   llm groq-20b: rate limited, skip 107s
+2026-11-02 12:30:06 indexed 1069 markets
+2026-11-02 12:30:41 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x70015a2d7440>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
+2026-11-02 12:31:45   llm groq-20b: rate limited, skip 39s
+2026-11-02 12:32:45   llm groq-120b: rate limited, skip 10s
+2026-11-02 12:32:46   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 12:32:46   llm groq-20b: rate limited, skip 213s
+2026-11-02 12:33:47   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 12:33:47   llm groq-120b: rate limited, skip 94s
