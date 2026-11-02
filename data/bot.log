@@ -25029,3 +25029,31 @@
 2026-11-02 06:20:41   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
 2026-11-02 06:21:07 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 140)
 2026-11-02 06:21:09 [pengwin] TORINO-COMO: no Polymarket event (try 140)
+2026-11-02 06:23:43   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 06:23:43   llm groq-120b: rate limited, skip 277s
+2026-11-02 06:27:59 indexed 1079 markets
+2026-11-02 06:29:01   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 06:29:01   llm groq-120b: rate limited, skip 112s
+2026-11-02 06:31:03   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 06:31:03   llm groq-120b: rate limited, skip 280s
+2026-11-02 06:33:04   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 06:33:04   llm groq-20b: rate limited, skip 315s
+2026-11-02 06:36:06   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 06:36:06   llm groq-120b: rate limited, skip 107s
+2026-11-02 06:38:00 indexed 1075 markets
+2026-11-02 06:38:09   llm groq-120b: rate limited, skip 31s
+2026-11-02 06:39:10   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 06:39:11   llm groq-120b: rate limited, skip 187s
+2026-11-02 06:39:11   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: short
+2026-11-02 06:40:10   llm groq-20b: rate limited, skip 34s
+2026-11-02 06:41:11   drop[not-key] Atlanta Hawks Rookie Kingston Flemings Suspended by NBA (Heavy.com) :: Kingston Flemings: suspension
+2026-11-02 06:41:13   llm groq-20b: rate limited, skip 279s
+2026-11-02 06:43:16   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 06:43:16   llm groq-120b: rate limited, skip 161s
+2026-11-02 06:46:21   llm groq-120b: rate limited, skip 23s
+2026-11-02 06:46:22   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 06:46:22   llm groq-20b: rate limited, skip 452s
+2026-11-02 06:47:23   llm groq-120b: rate limited, skip 2s
+2026-11-02 06:48:04 indexed 1081 markets
+2026-11-02 06:48:25   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 06:48:25   llm groq-120b: rate limited, skip 188s
