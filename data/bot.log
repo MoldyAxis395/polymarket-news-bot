@@ -25238,3 +25238,20 @@
 2026-11-02 10:01:15   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
 2026-11-02 10:01:15   llm groq-20b: rate limited, skip 246s
 2026-11-02 10:01:33 shift over, state saved
+2026-11-02 11:28:50 === start mode=paper pid=2459 ===
+2026-11-02 11:28:50 brain=llm cash=83.79 open=0
+2026-11-02 11:28:50 resuming with 4493 known news items
+2026-11-02 11:29:26 indexed 1080 markets
+2026-11-02 11:29:44   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 11:29:45   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: The fact concerns an NFL player and does not affect any of the listed political markets.
+2026-11-02 11:29:45   drop[kind] Temperature soars at Swedish grocery store freezers, one store blames hackers reut.rs/4sE4 (Reuters) :: other
+2026-11-02 11:29:46   drop[kind] Ukraine says Russia used Oleshky ceasefire to reinforce positions reut.rs/4kmYYOo (Reuters) :: other
+2026-11-02 11:29:46   drop[kind] RMG unrest: 670 factories suspended operations (The Financial Express) :: other
+2026-11-02 11:30:27   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 11:30:28   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: The fact concerns an NFL player and does not affect any of the listed political markets.
+2026-11-02 11:31:29   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 11:31:30   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: short
+2026-11-02 11:32:30   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 11:32:31   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: No market directly related to the Vikings or NFL game; the fact concerns a player availability, not a political race.
+2026-11-02 11:33:32   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 11:33:33   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: No market directly related to the Vikings or NFL; the fact does not affect any listed political markets.
