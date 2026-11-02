@@ -24996,3 +24996,40 @@
 2026-11-02 02:33:15   llm groq-20b: rate limited, skip 324s
 2026-11-02 02:36:09 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 138)
 2026-11-02 02:36:11 [pengwin] TORINO-COMO: no Polymarket event (try 138)
+2026-11-02 02:37:10   drop[1-source] Another Lamar Jackson injury raises serious questions about future in Baltimore (FanSided) :: Lamar Jackson, wait 2nd source
+2026-11-02 02:37:18   llm groq-120b: rate limited, skip 153s
+2026-11-02 02:39:18   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 02:39:18   llm groq-20b: rate limited, skip 251s
+2026-11-02 02:40:19   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 02:40:19   llm groq-120b: rate limited, skip 286s
+2026-11-02 02:43:22 indexed 1117 markets
+2026-11-02 02:44:25   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 02:44:25   llm groq-20b: rate limited, skip 325s
+2026-11-02 02:45:26   llm groq-120b: rate limited, skip 16s
+2026-11-02 02:46:27   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 02:46:27   llm groq-120b: rate limited, skip 228s
+2026-11-02 02:50:29   llm groq-120b: rate limited, skip 25s
+2026-11-02 02:50:29   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 02:50:29   llm groq-20b: rate limited, skip 313s
+2026-11-02 02:51:08   drop[kind] Kyrie Irving Questionable as Mavericks List Six Players on Kings Injury Report (Yardbarker) :: other
+2026-11-02 02:51:30   llm groq-120b: rate limited, skip 147s
+2026-11-02 02:53:24 indexed 1113 markets
+2026-11-02 02:54:34   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 02:54:34   llm groq-120b: rate limited, skip 310s
+2026-11-02 02:55:50   llm groq-20b: rate limited, skip 30s
+2026-11-02 02:56:35   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 02:56:35   llm groq-20b: rate limited, skip 170s
+2026-11-02 02:59:40   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 02:59:40   llm groq-20b: rate limited, skip 127s
+2026-11-02 02:59:40 NEWS [ESPN 16m] Jakob Poeltl (C, Toronto Raptors) ruled out: Day-To-Day -> Out [NBA]
+2026-11-02 02:59:40   skip Clippers :: Raptors vs. Clippers (rules fallback, LLM down (not traded))
+2026-11-02 02:59:40   skip Lakers :: Raptors vs. Lakers (rules fallback, LLM down (not traded))
+2026-11-02 03:00:41   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 03:00:41   llm groq-120b: rate limited, skip 239s
+2026-11-02 03:00:41 NEWS [ESPN 7m] Kingston Flemings (G, Atlanta Hawks) ruled out: healthy -> Suspension [NBA]
+2026-11-02 03:00:41   skip Pacers :: Hawks vs. Pacers (rules fallback, LLM down (not traded))
+2026-11-02 03:02:44   drop[1-source] Tamil Nadu temple engineer suspended over power outage during V-P’s visit (DT Next) :: Tamil Nadu temple, wait 2nd source
+2026-11-02 03:02:47   llm groq-20b: rate limited, skip 200s
+2026-11-02 03:03:25 indexed 1132 markets
+2026-11-02 03:04:50   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 03:04:50   llm groq-120b: rate limited, skip 316s
