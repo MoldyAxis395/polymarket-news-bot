@@ -25608,3 +25608,12 @@
 2026-11-02 17:04:06 indexed 1153 markets
 2026-11-02 17:04:16   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-11-02 17:04:16   llm groq-120b: rate limited, skip 276s
+2026-11-02 17:05:10   drop[not-key] Chris Brown Handed Suspended Prison Sentence Over London Nightclub Attack (Central News South Africa) :: Chris Brown: suspended prison sentence
+2026-11-02 17:05:16   llm groq-20b: rate limited, skip 384s
+2026-11-02 17:09:23   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: ruled out due to injury
+2026-11-02 17:09:23   llm groq-120b: rate limited, skip 278s
+2026-11-02 17:11:47   llm groq-20b: rate limited, skip 80s
+2026-11-02 17:13:28   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 17:13:28   llm groq-20b: rate limited, skip 333s
+2026-11-02 17:14:05 indexed 1143 markets
+2026-11-02 17:14:07 shift over, state saved
