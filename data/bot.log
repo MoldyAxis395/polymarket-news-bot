@@ -25033,3 +25033,34 @@
 2026-11-02 03:03:25 indexed 1132 markets
 2026-11-02 03:04:50   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-11-02 03:04:50   llm groq-120b: rate limited, skip 316s
+2026-11-02 03:06:34 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 139)
+2026-11-02 03:06:36 [pengwin] TORINO-COMO: no Polymarket event (try 139)
+2026-11-02 03:06:51   llm groq-20b: rate limited, skip 207s
+2026-11-02 03:10:58   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 03:10:58   llm groq-120b: rate limited, skip 222s
+2026-11-02 03:10:58   llm groq-20b: rate limited, skip 245s
+2026-11-02 03:10:58   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-11-02 03:13:26 indexed 1128 markets
+2026-11-02 03:15:28   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 03:15:29   llm groq-120b: rate limited, skip 84s
+2026-11-02 03:15:29   llm groq-20b: rate limited, skip 198s
+2026-11-02 03:15:29   drop[no-pick] Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] (ESPN) :: None
+2026-11-02 03:17:30   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 03:17:30   llm groq-120b: rate limited, skip 297s
+2026-11-02 03:19:31   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 03:19:31   llm groq-20b: rate limited, skip 387s
+2026-11-02 03:22:38   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 03:22:38   llm groq-120b: rate limited, skip 304s
+2026-11-02 03:23:13 indexed 1137 markets
+2026-11-02 03:26:47   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 03:26:47   llm groq-20b: rate limited, skip 328s
+2026-11-02 03:27:48   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 03:27:48   llm groq-120b: rate limited, skip 206s
+2026-11-02 03:31:53   llm groq-120b: rate limited, skip 21s
+2026-11-02 03:32:55   drop[not-key] Caleb Douglas shakes off injury, goes 4/43 in loss (NBC Sports) :: Caleb Douglas: Douglas played despite injury, went 4‑for‑43 and his team lost
+2026-11-02 03:32:55   llm groq-120b: rate limited, skip 320s
+2026-11-02 03:32:55   drop[unconfirmed] Tanner McKee Takes Over as Starting Quarterback for Philadelphia Eagles After Jalen Hurts' (SSBCrack) :: injury
+2026-11-02 03:33:32 indexed 1137 markets
+2026-11-02 03:33:35   llm groq-20b: rate limited, skip 74s
+2026-11-02 03:35:13   drop[kind] Kent Hounds Meet: Horse Injury and Pub Violence Alleged in Doddington (UKNIP) :: other
+2026-11-02 03:35:34   llm groq-20b: rate limited, skip 371s
