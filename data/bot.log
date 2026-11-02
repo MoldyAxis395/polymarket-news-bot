@@ -24865,3 +24865,41 @@
 2026-11-02 00:34:30 [pengwin] TORINO-COMO: no Polymarket event (try 134)
 2026-11-02 00:35:43   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
 2026-11-02 00:35:43   llm groq-20b: rate limited, skip 366s
+2026-11-02 00:38:45   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 00:38:45   llm groq-120b: rate limited, skip 300s
+2026-11-02 00:42:31 indexed 1131 markets
+2026-11-02 00:42:50   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-02 00:42:50   llm groq-20b: rate limited, skip 312s
+2026-11-02 00:43:51   llm groq-120b: rate limited, skip 33s
+2026-11-02 00:44:53   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 00:44:53   llm groq-120b: rate limited, skip 305s
+2026-11-02 00:48:57   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 00:48:57   llm groq-20b: rate limited, skip 153s
+2026-11-02 00:49:59   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 00:49:59   llm groq-120b: rate limited, skip 237s
+2026-11-02 00:52:00   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-02 00:52:00   llm groq-20b: rate limited, skip 326s
+2026-11-02 00:52:34 indexed 1117 markets
+2026-11-02 00:54:02   llm groq-120b: rate limited, skip 85s
+2026-11-02 00:56:04   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 00:56:04   llm groq-120b: rate limited, skip 203s
+2026-11-02 00:58:06   drop[kind] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: other
+2026-11-02 00:58:06   llm groq-20b: rate limited, skip 365s
+2026-11-02 01:00:07   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 01:00:07   llm groq-120b: rate limited, skip 279s
+2026-11-02 01:01:09 NEWS [ESPN 6m] Jake Majors (C, Philadelphia Eagles) ruled out: Active -> Out [NFL]
+2026-11-02 01:01:09   skip Commanders :: Eagles vs. Commanders (rules fallback, LLM down (not traded))
+2026-11-02 01:01:09 NEWS [ESPN 8m] Isaac Yiadom (CB, Washington Commanders) ruled out: Active -> Out [NFL]
+2026-11-02 01:01:09   skip Eagles :: Eagles vs. Commanders (rules fallback, LLM down (not traded))
+2026-11-02 01:01:09 NEWS [ESPN 8m] Tanoa Togiai (G, Washington Commanders) ruled out: Active -> Out [NFL]
+2026-11-02 01:01:09   skip Eagles :: Eagles vs. Commanders (rules fallback, LLM down (not traded))
+2026-11-02 01:01:09 NEWS [ESPN 8m] Fabian Moreau (CB, Washington Commanders) ruled out: Active -> Out [NFL]
+2026-11-02 01:01:09   skip Eagles :: Eagles vs. Commanders (rules fallback, LLM down (not traded))
+2026-11-02 01:01:09 NEWS [ESPN 8m] Athan Kaliakmanis (QB, Washington Commanders) ruled out: healthy -> Out [NFL]
+2026-11-02 01:01:09   skip Eagles :: Eagles vs. Commanders (rules fallback, LLM down (not traded))
+2026-11-02 01:02:38 indexed 1120 markets
+2026-11-02 01:04:14   drop[1-source] Chiefs DT Peter Woods leaves game in Denver with neck injury (Arrowhead Pride) :: Peter Woods, wait 2nd source
+2026-11-02 01:04:14   llm groq-20b: rate limited, skip 249s
+2026-11-02 01:04:54 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 135)
+2026-11-02 01:04:57 [pengwin] TORINO-COMO: no Polymarket event (try 135)
+2026-11-02 01:05:12   llm groq-120b: rate limited, skip 89s
