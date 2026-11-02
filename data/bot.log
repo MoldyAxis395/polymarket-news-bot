@@ -25518,3 +25518,31 @@
 2026-11-02 15:31:47   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-11-02 15:31:47   llm groq-120b: rate limited, skip 226s
 2026-11-02 15:33:22 indexed 1203 markets
+2026-11-02 15:34:25   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 15:34:25   llm groq-20b: rate limited, skip 344s
+2026-11-02 15:35:47   drop[kind] Ravens, Lamar Jackson may be headed toward divorce after latest injury setback (Yardbarker) :: other
+2026-11-02 15:35:47   llm groq-120b: rate limited, skip 352s
+2026-11-02 15:40:24   drop[kind] Carrick reflects on Man United 7-1 Roma and has four injury doubts ahead of UCL test (Football Italia) :: other
+2026-11-02 15:40:28   llm groq-20b: rate limited, skip 717s
+2026-11-02 15:42:29   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: ruled out due to injury
+2026-11-02 15:42:29   llm groq-120b: rate limited, skip 214s
+2026-11-02 15:43:32 indexed 1194 markets
+2026-11-02 15:46:37   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 15:46:37   llm groq-120b: rate limited, skip 264s
+2026-11-02 15:51:44   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 15:51:44   llm groq-120b: rate limited, skip 245s
+2026-11-02 15:52:44   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrect
+2026-11-02 15:52:45   llm groq-20b: rate limited, skip 18s
+2026-11-02 15:53:36 indexed 1179 markets
+2026-11-02 15:53:46   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 15:53:46   llm groq-20b: rate limited, skip 326s
+2026-11-02 15:54:46 NEWS [ESPN 6m] DaVon Hamilton (DT, Jacksonville Jaguars) ruled out: Questionable -> Out [NFL]
+2026-11-02 15:54:46   skip Ravens :: Jaguars vs. Ravens (rules fallback, LLM down (not traded))
+2026-11-02 15:56:47   llm groq-120b: rate limited, skip 8s
+2026-11-02 15:57:51   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 15:57:51   llm groq-120b: rate limited, skip 165s
+2026-11-02 15:59:54   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 15:59:54   llm groq-20b: rate limited, skip 309s
+2026-11-02 16:00:57   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 16:00:58   llm groq-120b: rate limited, skip 152s
+2026-11-02 16:03:21 indexed 1179 markets
