@@ -25486,3 +25486,35 @@
 2026-11-02 15:00:46   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
 2026-11-02 15:00:46   llm groq-120b: rate limited, skip 219s
 2026-11-02 15:03:17 indexed 1202 markets
+2026-11-02 15:04:20   drop[kind] Englander Peebles Earns Best Law Firms' Ranking Honors for Fort Lauderdale Personal Injury (PR Newswire) :: other
+2026-11-02 15:04:25   llm groq-20b: rate limited, skip 243s
+2026-11-02 15:05:24   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 15:05:24   llm groq-120b: rate limited, skip 234s
+2026-11-02 15:08:36   llm groq-20b: rate limited, skip 10s
+2026-11-02 15:08:48   drop[1-source] Two SFI leaders suspended for disrupting Kerala minister's college event (India Today) :: Students' Federation of India, wait 2nd source
+2026-11-02 15:08:48   llm groq-20b: rate limited, skip 226s
+2026-11-02 15:09:37   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 15:09:38   llm groq-120b: rate limited, skip 283s
+2026-11-02 15:13:17 indexed 1199 markets
+2026-11-02 15:13:20   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 15:13:21   llm groq-20b: rate limited, skip 143s
+2026-11-02 15:14:56   drop[kind] Connecticut Sen. Chris Murphy hospitalized after stroke, office says (CNBC) :: other
+2026-11-02 15:15:19   llm groq-120b: rate limited, skip 123s
+2026-11-02 15:16:21   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 15:16:22   llm groq-20b: rate limited, skip 341s
+2026-11-02 15:18:05   drop[kind] Michael Carrick issues Leny Yoro injury problem (centredevils.co.uk) :: other
+2026-11-02 15:18:24   llm groq-120b: rate limited, skip 296s
+2026-11-02 15:22:28   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 15:22:29   llm groq-20b: rate limited, skip 305s
+2026-11-02 15:23:19 indexed 1204 markets
+2026-11-02 15:23:38   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 15:23:39   llm groq-120b: rate limited, skip 154s
+2026-11-02 15:26:41   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 15:26:41   llm groq-120b: rate limited, skip 280s
+2026-11-02 15:27:41   drop[unconfirmed] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: headline incorrectly lists him as a Cleveland Browns linebacker
+2026-11-02 15:27:41   llm groq-20b: rate limited, skip 369s
+2026-11-02 15:30:44 NEWS [ESPN 11m] Gui Santos (F, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA]
+2026-11-02 15:30:44   skip Suns :: Suns vs. Warriors (rules fallback, LLM down (not traded))
+2026-11-02 15:31:47   drop[team-not-named] Justin Jefferson (LB, Cleveland Browns) ruled out: Active -> Out [NFL] (ESPN) :: Minnesota Vikings
+2026-11-02 15:31:47   llm groq-120b: rate limited, skip 226s
+2026-11-02 15:33:22 indexed 1203 markets
