@@ -206,3 +206,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-11-01T16:44:38+00:00,BUY,Vikings vs. Lions,Vikings,26.32,0.3800,10.00,,"Justin Jefferson (WR, Minnesota Vikings) cleared to play: Out -> Active [NFL] | llm[groq-20b] trusted: player cleared to play boosts Vikings' chances"
 2026-11-01T17:55:06+00:00,SELL,Browns vs. Steelers,Steelers,15.38,0.6500,10.00,+0.00,market closing
 2026-11-01T17:55:06+00:00,SELL,Vikings vs. Lions,Vikings,26.32,0.3700,9.74,-0.26,market closing
+2026-11-02T21:22:06+00:00,BUY,Jaguars vs. Ravens,Ravens,47.62,0.2100,10.00,,"Aeneas Peebles (DT, Baltimore Ravens) cleared to play: Out -> Active [NFL] | llm[groq-20b] trusted: player cleared to play boosts Ravens' odds"

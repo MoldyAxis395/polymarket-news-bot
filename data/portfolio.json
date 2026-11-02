@@ -1,6 +1,25 @@
 {
- "cash": 83.78533548312473,
- "positions": [],
+ "cash": 73.78533548312473,
+ "positions": [
+  {
+   "market_id": "5772981",
+   "question": "Jaguars vs. Ravens",
+   "slug": "nfl-jax-bal-2026-11-06",
+   "outcome": "Ravens",
+   "token": "75442632507328767732122689740017101063097070455601175973569764093594701638351",
+   "shares": 47.61904761904762,
+   "entry": 0.21,
+   "cost": 10.0,
+   "opened": 1793654526.9276319,
+   "opened_iso": "2026-11-02T21:22:06+00:00",
+   "news": "Aeneas Peebles (DT, Baltimore Ravens) cleared to play: Out -> Active [NFL]",
+   "reason": "llm[groq-20b] trusted: player cleared to play boosts Ravens' odds",
+   "conf": 0.7,
+   "end": "2026-11-06T01:15:00+00:00",
+   "last_bid": 0.2,
+   "book_err": false
+  }
+ ],
  "closed": [
   {
    "market_id": "3871412",

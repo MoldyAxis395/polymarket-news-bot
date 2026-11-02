@@ -1,38 +1,54 @@
 {
- "updated": "2026-11-02T17:14:05",
+ "updated": "2026-11-02T22:25:27",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 630,
- "markets_indexed": 1143,
- "news_processed": 1028,
- "cash": 83.79,
- "equity": 83.79,
+ "llm_calls_today": 667,
+ "markets_indexed": 1137,
+ "news_processed": 176,
+ "cash": 73.79,
+ "equity": 83.31,
  "start": 100.0,
- "open": [],
+ "open": [
+  {
+   "market_id": "5772981",
+   "question": "Jaguars vs. Ravens",
+   "slug": "nfl-jax-bal-2026-11-06",
+   "outcome": "Ravens",
+   "token": "75442632507328767732122689740017101063097070455601175973569764093594701638351",
+   "shares": 47.61904761904762,
+   "entry": 0.21,
+   "cost": 10.0,
+   "opened": 1793654526.9276319,
+   "opened_iso": "2026-11-02T21:22:06+00:00",
+   "news": "Aeneas Peebles (DT, Baltimore Ravens) cleared to play: Out -> Active [NFL]",
+   "reason": "llm[groq-20b] trusted: player cleared to play boosts Ravens' odds",
+   "conf": 0.7,
+   "end": "2026-11-06T01:15:00+00:00",
+   "last_bid": 0.2,
+   "book_err": false
+  }
+ ],
  "closed_count": 100,
  "llm": {
   "backends": [
    "groq-120b",
    "groq-20b"
   ],
-  "fallbacks": 622,
+  "fallbacks": 115,
   "errors": {
-   "groq-120b": "rate limited, skip 278s",
-   "groq-20b": "rate limited, skip 333s"
+   "groq-20b": "rate limited, skip 1s"
   },
   "rejects": {
-   "team-not-named": 80,
-   "no-pick": 24,
-   "fluff": 117,
-   "kind": 15,
-   "unconfirmed": 36,
-   "1-source": 9,
-   "not-key": 2,
-   "no-market": 1
+   "not-key": 11,
+   "verify": 4,
+   "side": 1,
+   "fluff": 7,
+   "kind": 1,
+   "team-not-named": 1
   },
   "calls": {
-   "groq-120b": 325,
-   "groq-20b": 305
+   "groq-120b": 348,
+   "groq-20b": 319
   }
  },
  "realized_pnl": -16.21

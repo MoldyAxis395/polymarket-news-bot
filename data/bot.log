@@ -25617,3 +25617,159 @@
 2026-11-02 17:13:28   llm groq-20b: rate limited, skip 333s
 2026-11-02 17:14:05 indexed 1143 markets
 2026-11-02 17:14:07 shift over, state saved
+2026-11-02 22:20:36 === start mode=paper pid=2169 ===
+2026-11-02 22:20:36 brain=llm cash=83.79 open=0
+2026-11-02 22:20:36 resuming with 4839 known news items
+2026-11-02 22:21:15 indexed 1137 markets
+2026-11-02 22:21:52   drop[not-key] Evan Hull (RB, Arizona Cardinals) cleared to play: Out -> Active [NFL] (ESPN) :: Evan Hull: cleared to play
+2026-11-02 22:21:55   drop[verify] Eku Leota (LB, Arizona Cardinals) cleared to play: Out -> Active [NFL] (ESPN) :: player not a key starter and unlikely to shift market
+2026-11-02 22:21:55   drop[not-key] Carson Beck (QB, Arizona Cardinals) cleared to play: Out -> Active [NFL] (ESPN) :: Carson Beck: cleared to play after being listed out
+2026-11-02 22:21:56   drop[not-key] Starling Thomas V (CB, Arizona Cardinals) cleared to play: Out -> Active [NFL] (ESPN) :: Starling Thomas V: cleared to play after being out
+2026-11-02 22:21:56   drop[not-key] Albert Reese IV (OT, Arizona Cardinals) cleared to play: Out -> Active [NFL] (ESPN) :: Albert Reese IV: cleared to play
+2026-11-02 22:21:58   drop[verify] Zachariah Branch (WR, Atlanta Falcons) ruled out: Questionable -> Out [NFL] (ESPN) :: Uncertain if Branch is on the active roster and he’s not a key player likely to shift the market 5+ points
+2026-11-02 22:22:01   drop[verify] Jack Strand (QB, Atlanta Falcons) cleared to play: Out -> Active [NFL] (ESPN) :: Jack Strand isn't a known Falcons QB, so the claim fails point 1 and the headline is likely inaccurate
+2026-11-02 22:22:01   drop[not-key] Andy Dalton (QB, Atlanta Falcons) cleared to play: Out -> Active [NFL] (ESPN) :: Andy Dalton: cleared to play
+2026-11-02 22:22:01   llm groq-120b: rate limited, skip 4s
+2026-11-02 22:22:02   drop[not-key] Drake Jackson (DE, Atlanta Falcons) cleared to play: Out -> Active [NFL] (ESPN) :: Drake Jackson: cleared to play
+2026-11-02 22:22:02   drop[not-key] Robert Longerbeam (CB, Atlanta Falcons) cleared to play: Out -> Active [NFL] (ESPN) :: Robert Longerbeam: cleared to play
+2026-11-02 22:22:03   drop[side] Samson Ebukam (DE, Atlanta Falcons) ruled out: Questionable -> Out [NFL] (ESPN) :: Bengals vs. Falcons -> Falcons vs fact ruled_out: Samson Ebukam (Atlanta Falcons, nfl), bad for Atlanta Falcons. hamstri
+2026-11-02 22:22:06 NEWS [ESPN 1m] Aeneas Peebles (DT, Baltimore Ravens) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:06   BUY Ravens @ 0.210 x47.6 ($10.00) :: Jaguars vs. Ravens
+2026-11-02 22:22:08   llm groq-120b: rate limited, skip 1s
+2026-11-02 22:22:08 NEWS [ESPN 1m] Emery Jones Jr. (OT, Baltimore Ravens) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:08   skip Ravens :: Jaguars vs. Ravens (already in market)
+2026-11-02 22:22:09   drop[not-key] Elijah Sarratt (WR, Baltimore Ravens) cleared to play: Out -> Active [NFL] (ESPN) :: Elijah Sarratt: return
+2026-11-02 22:22:09   drop[not-key] Chandler Rivers (CB, Baltimore Ravens) cleared to play: Out -> Active [NFL] (ESPN) :: Chandler Rivers: cleared to play
+2026-11-02 22:22:10   llm groq-120b: rate limited, skip 2s
+2026-11-02 22:22:13   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-11-02 22:22:13   drop[verify] Mike Danna (DE, Buffalo Bills) cleared to play: Out -> Active [NFL] (ESPN) :: no answer
+2026-11-02 22:22:13   drop[not-key] Skyler Bell (WR, Buffalo Bills) cleared to play: Out -> Active [NFL] (ESPN) :: Skyler Bell: player returns
+2026-11-02 22:22:14   llm groq-20b: rate limited, skip 1s
+2026-11-02 22:22:14 NEWS [ESPN 1m] Myles Hinton (OT, Cincinnati Bengals) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Bengals :: Bengals vs. Falcons (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Mitchell Tinsley (WR, Cincinnati Bengals) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Bengals :: Bengals vs. Falcons (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Connor Lew (C, Cincinnati Bengals) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Bengals :: Bengals vs. Falcons (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Landon Robinson (DT, Cincinnati Bengals) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Bengals :: Bengals vs. Falcons (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Tyrus Wheat (LB, Dallas Cowboys) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Cowboys :: Cowboys vs. Colts (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Drew Shelton (OT, Dallas Cowboys) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Cowboys :: Cowboys vs. Colts (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Shavon Revel Jr. (CB, Dallas Cowboys) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Cowboys :: Cowboys vs. Colts (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Jackson Meeks (WR, Detroit Lions) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Lions :: Lions vs. Dolphins (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Bishop Fitzgerald (S, Detroit Lions) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Lions :: Lions vs. Dolphins (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Ahmed Hassanein (DE, Detroit Lions) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Lions :: Lions vs. Dolphins (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Mekhi Wingo (DT, Detroit Lions) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Lions :: Lions vs. Dolphins (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Seth McLaughlin (C, Detroit Lions) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Lions :: Lions vs. Dolphins (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Jimmy Rolder (LB, Detroit Lions) ruled out: Questionable -> Out [NFL]
+2026-11-02 22:22:14   skip Dolphins :: Lions vs. Dolphins (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Charlie Heck (OT, Indianapolis Colts) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Colts :: Cowboys vs. Colts (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Pharaoh Brown (TE, Indianapolis Colts) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Colts :: Cowboys vs. Colts (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14   skip Brown :: Ohio Senate favorite on November 2? (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Riley Leonard (QB, Indianapolis Colts) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Colts :: Cowboys vs. Colts (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Kevin Givens (DT, Indianapolis Colts) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Colts :: Cowboys vs. Colts (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] CJ Williams (WR, Jacksonville Jaguars) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Jaguars :: Jaguars vs. Ravens (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Jamal Hill (LB, Jacksonville Jaguars) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Jaguars :: Jaguars vs. Ravens (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Albert Regis (DT, Jacksonville Jaguars) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Jaguars :: Jaguars vs. Ravens (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Wesley Williams (DE, Jacksonville Jaguars) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Jaguars :: Jaguars vs. Ravens (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Alijah Huzzie (CB, Jacksonville Jaguars) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Jaguars :: Jaguars vs. Ravens (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] JJ Pegues (DT, Las Vegas Raiders) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Raiders :: Raiders vs. 49ers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Aidan O'Connell (QB, Las Vegas Raiders) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Raiders :: Raiders vs. 49ers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Bryce Cabeldue (G, Las Vegas Raiders) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Raiders :: Raiders vs. 49ers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Malik Benson (WR, Las Vegas Raiders) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Raiders :: Raiders vs. 49ers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Dalton Johnson (S, Las Vegas Raiders) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Raiders :: Raiders vs. 49ers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Dont'e Thornton Jr. (WR, Las Vegas Raiders) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Raiders :: Raiders vs. 49ers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Tristin McCollum (S, Las Vegas Raiders) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Raiders :: Raiders vs. 49ers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Theo Wease Jr. (WR, Los Angeles Chargers) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Yes :: Will Nithya Raman win the 2026 Los Angeles mayoral election by 0%-4%? (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Bill Murray (G, Los Angeles Rams) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Yes :: Will Nithya Raman win the 2026 Los Angeles mayoral election by 0%-4%? (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Ty Simpson (QB, Los Angeles Rams) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Yes :: Will Nithya Raman win the 2026 Los Angeles mayoral election by 0%-4%? (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Desjuan Johnson (DE, Los Angeles Rams) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Yes :: Will Nithya Raman win the 2026 Los Angeles mayoral election by 0%-4%? (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Keagen Trost (OT, Los Angeles Rams) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Yes :: Will Nithya Raman win the 2026 Los Angeles mayoral election by 0%-4%? (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Christian Haynes (G, Miami Dolphins) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Dolphins :: Lions vs. Dolphins (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Jaylin Simpson (S, Miami Dolphins) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Dolphins :: Lions vs. Dolphins (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Marcellas Dial Jr. (CB, Miami Dolphins) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Dolphins :: Lions vs. Dolphins (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Justin Joly (TE, Miami Dolphins) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Dolphins :: Lions vs. Dolphins (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Jamree Kromah (DE, Miami Dolphins) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Dolphins :: Lions vs. Dolphins (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Jared Wayne (WR, Miami Dolphins) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Dolphins :: Lions vs. Dolphins (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Channing Canada (CB, New England Patriots) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Patriots :: Packers vs. Patriots (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Karon Prunty (CB, New England Patriots) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Patriots :: Packers vs. Patriots (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Elliott Davison (S, New England Patriots) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Patriots :: Packers vs. Patriots (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Behren Morton (QB, New England Patriots) cleared to play: Out -> Active [NFL]
+2026-11-02 22:22:14   skip Patriots :: Packers vs. Patriots (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Paul George (F, Boston Celtics) ruled out: Day-To-Day -> Out [NBA]
+2026-11-02 22:22:14   skip Rockets :: Celtics vs. Rockets (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 15m] Al Horford (C, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA]
+2026-11-02 22:22:14   skip Suns :: Suns vs. Warriors (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Clint Capela (C, Houston Rockets) ruled out: Day-To-Day -> Out [NBA]
+2026-11-02 22:22:14   skip Celtics :: Celtics vs. Rockets (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Aaron Nesmith (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA]
+2026-11-02 22:22:14   skip Hawks :: Hawks vs. Pacers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Andrew Nembhard (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA]
+2026-11-02 22:22:14   skip Hawks :: Hawks vs. Pacers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Pascal Siakam (F, Indiana Pacers) ruled out: healthy -> Out [NBA]
+2026-11-02 22:22:14   skip Hawks :: Hawks vs. Pacers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 6m] Rui Hachimura (F, LA Clippers) ruled out: Day-To-Day -> Out [NBA]
+2026-11-02 22:22:14   skip Raptors :: Raptors vs. Clippers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14   skip Heat :: Heat vs. Clippers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 10m] Derrick Jones Jr. (F, LA Clippers) ruled out: Day-To-Day -> Out [NBA]
+2026-11-02 22:22:14   skip Raptors :: Raptors vs. Clippers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14   skip Heat :: Heat vs. Clippers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Anthony Black (G, Orlando Magic) ruled out: Day-To-Day -> Out [NBA]
+2026-11-02 22:22:14   skip Wizards :: Wizards vs. Magic (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Reece Beekman (G, Washington Wizards) ruled out: healthy -> Out [NBA]
+2026-11-02 22:22:14   skip Magic :: Wizards vs. Magic (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Anthony Gill (F, Washington Wizards) ruled out: Day-To-Day -> Out [NBA]
+2026-11-02 22:22:14   skip Magic :: Wizards vs. Magic (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Alex Sarr (C, Washington Wizards) ruled out: Day-To-Day -> Out [NBA]
+2026-11-02 22:22:14   skip Magic :: Wizards vs. Magic (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] A.J. Greer (LW, Anaheim Ducks) ruled out: healthy -> Injured Reserve [NHL]
+2026-11-02 22:22:14   skip Canucks :: Ducks vs. Canucks (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Bowen Byram (D, Chicago Blackhawks) ruled out: Day-To-Day -> Out [NHL]
+2026-11-02 22:22:14   skip Avalanche :: Avalanche vs. Blackhawks (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Albert Johansson (D, Detroit Red Wings) ruled out: Day-To-Day -> Out [NHL]
+2026-11-02 22:22:14   skip Lightning :: Red Wings vs. Lightning (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14   skip Panthers :: Red Wings vs. Panthers (rules fallback, LLM down (not traded))
+2026-11-02 22:22:14 NEWS [ESPN 1m] Zemgus Girgensons (C, Tampa Bay Lightning) ruled out: Day-To-Day -> Out [NHL]
+2026-11-02 22:22:14   skip Red Wings :: Red Wings vs. Lightning (rules fallback, LLM down (not traded))
+2026-11-02 22:23:19   drop[not-key] Jadarian Price (RB, Seattle Seahawks) cleared to play: Injured Reserve -> Active [NFL] (ESPN) :: Jadarian Price: cleared from IR to active
+2026-11-02 22:23:49   drop[kind] Lions report positive progress for linebacker Campbell after injury (Reuters) :: other
+2026-11-02 22:23:50   drop[team-not-named] Rui Hachimura Injury: Won't play Monday (RotoWire) :: Washington Wizards
+2026-11-02 22:25:04 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28injured+OR+injury+OR+%22ruled+out%22+OR+suspended+OR+resigns+OR+resigned+OR+withdraws+OR+arrested+OR+indicted+OR+ceasefire+OR+wins+OR+elected%29+sourcelang%3Aenglish&mode=artlist&format=json&maxrecords=75&timespan=1h&sort=datedesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x73919f26a780>, 'Connection to api.gdeltproject.org timed out. (connect timeout=30)'))
