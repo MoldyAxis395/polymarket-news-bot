@@ -1,31 +1,11 @@
 {
- "updated": "2026-11-02T23:24:50",
+ "updated": "2026-11-02T23:54:53",
  "start": 100.0,
- "cash": 85.69,
- "equity": 107.89,
- "open": [
-  {
-   "market_id": "5960431",
-   "question": "Will RC Deportivo A Coru\u00f1a win on 2026-11-02?",
-   "slug": "lal-dep-osa-2026-11-02-dep",
-   "outcome": "Yes",
-   "token": "49774902034672140677694476829790676777787864704921838291132682644257558316480",
-   "shares": 22.22222222222222,
-   "entry": 0.45,
-   "cost": 10.0,
-   "opened": 1793367458.2921891,
-   "opened_iso": "2026-10-30T13:37:38+00:00",
-   "news": "Deportivo-Osasuna: 1 (approssimato)",
-   "reason": "pengwin approx: represents 1X double chance as home win",
-   "conf": 1.0,
-   "end": "2026-11-02T20:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1793658769.8265579
-  }
- ],
- "closed_count": 61,
- "realized_pnl": -4.31,
+ "cash": 107.91,
+ "equity": 107.91,
+ "open": [],
+ "closed_count": 62,
+ "realized_pnl": 7.91,
  "pages": {
   "pending": 78,
   "picked": 1,

@@ -1,26 +1,6 @@
 {
- "cash": 85.6897399065576,
- "positions": [
-  {
-   "market_id": "5960431",
-   "question": "Will RC Deportivo A Coru\u00f1a win on 2026-11-02?",
-   "slug": "lal-dep-osa-2026-11-02-dep",
-   "outcome": "Yes",
-   "token": "49774902034672140677694476829790676777787864704921838291132682644257558316480",
-   "shares": 22.22222222222222,
-   "entry": 0.45,
-   "cost": 10.0,
-   "opened": 1793367458.2921891,
-   "opened_iso": "2026-10-30T13:37:38+00:00",
-   "news": "Deportivo-Osasuna: 1 (approssimato)",
-   "reason": "pengwin approx: represents 1X double chance as home win",
-   "conf": 1.0,
-   "end": "2026-11-02T20:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1793658769.8265579
-  }
- ],
+ "cash": 107.91196212877983,
+ "positions": [],
  "closed": [
   {
    "market_id": "5009005",
@@ -1424,6 +1404,29 @@
    "pnl": -10.0,
    "why": "resolved",
    "closed_iso": "2026-11-01T22:05:01+00:00"
+  },
+  {
+   "market_id": "5960431",
+   "question": "Will RC Deportivo A Coru\u00f1a win on 2026-11-02?",
+   "slug": "lal-dep-osa-2026-11-02-dep",
+   "outcome": "Yes",
+   "token": "49774902034672140677694476829790676777787864704921838291132682644257558316480",
+   "shares": 22.22222222222222,
+   "entry": 0.45,
+   "cost": 10.0,
+   "opened": 1793367458.2921891,
+   "opened_iso": "2026-10-30T13:37:38+00:00",
+   "news": "Deportivo-Osasuna: 1 (approssimato)",
+   "reason": "pengwin approx: represents 1X double chance as home win",
+   "conf": 1.0,
+   "end": "2026-11-02T20:00:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1793659371.4287567,
+   "exit": 1.0,
+   "pnl": 12.222222222222221,
+   "why": "resolved",
+   "closed_iso": "2026-11-02T22:32:52+00:00"
   }
  ],
  "cooldown": {
@@ -1487,6 +1490,7 @@
   "5855676": 1793496770.2362266,
   "5855754": 1793496771.0259392,
   "5916983": 1793579612.877177,
-  "5909608": 1793581501.019567
+  "5909608": 1793581501.019567,
+  "5960431": 1793669572.1163938
  }
 }

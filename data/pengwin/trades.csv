@@ -125,3 +125,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-10-31T22:32:50+00:00,SELL,AC Milan vs. FC Internazionale Milano: Both Teams to Score,Yes,6.64,1.0000,6.64,+2.52,resolved
 2026-11-01T21:33:32+00:00,SELL,Elche CF vs. Valencia CF: Elche CF O/U 1.5,Over,23.37,0.0000,0.00,-10.00,resolved
 2026-11-01T22:05:00+00:00,SELL,Will Juventus FC win on 2026-11-01?,No,17.24,0.0000,0.00,-10.00,resolved
+2026-11-02T22:32:51+00:00,SELL,Will RC Deportivo A Coruña win on 2026-11-02?,Yes,22.22,1.0000,22.22,+12.22,resolved
