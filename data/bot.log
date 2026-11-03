@@ -26425,3 +26425,34 @@
 2026-11-03 18:36:37 indexed 1252 markets
 2026-11-03 18:36:38   drop[kind] 🚨⚪️ José Mourinho: “I can tell you that Vini Jr will play tomorrow night”. (Fabrizio Romano) :: other
 2026-11-03 18:37:28   drop[1-source] With Gonzalo Plata suspended, Jorge Carrascal back and vying for Flamengo start against Gr (OneFootball) :: Gonzalo Plata, wait 2nd source
+2026-11-03 18:39:46   drop[no-market] US billionaire leads swap plan to buy Lukoil’s overseas assets, sources say (American Journal of Transportation) :: Lukoil's overseas assets
+2026-11-03 18:39:47   drop[not-key] Edwin Uceta Injury: Recovering from shoulder surgery (RotoWire) :: Edwin Uceta: recovering from shoulder surgery
+2026-11-03 18:39:47   llm groq-120b: rate limited, skip 246s
+2026-11-03 18:39:47   drop[kind] Dan Campbell Shares Encouraging News on Lions’ Jack Campbell After Frightening Injury (Heavy.com) :: other
+2026-11-03 18:40:47   drop[side] Marathon beats quarterly estimates, to sell two refineries to CVR Energy reut.rs/3UyT964 (Reuters) :: Will oil be at least $80 on November 2 and the Republicans win the Senate? -> Yes vs fact official_decision: - (Marathon
+2026-11-03 18:40:52   drop[not-key] Sean Durzi (D, New York Rangers) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Sean Durzi: day‑to‑day injury
+2026-11-03 18:42:06   drop[kind] Swinney Gives More Info on O-Lineman’s Injury (The Clemson Insider) :: other
+2026-11-03 18:42:07   drop[no-pick] Ryan Gravenberch ruled out of Liverpool’s Champions League trip to Fenerbahce (OneFootball) :: no suitable outcome to rise
+2026-11-03 18:43:52   drop[kind] 🚨 José Mourinho on comparing this team with his previous winning teams: “No comparisons. T (Fabrizio Romano) :: other
+2026-11-03 18:44:32   drop[kind] Fillier Expected To Be Ready For Worlds Following Injury Scare In Pre-Tournament Action (The Hockey News) :: other
+2026-11-03 18:44:32   llm groq-120b: rate limited, skip 220s
+2026-11-03 18:44:33   drop[1-source] Bournemouth's Alex Tóth undergoes hamstring surgery after October injury (OneFootball) :: Alex Tóth, wait 2nd source
+2026-11-03 18:44:34   drop[1-source] Tram and trolleybus service in Kyiv has been completely suspended; additional buses have b (UA.NEWS) :: Kyiv City State Administration, wait 2nd source
+2026-11-03 18:44:34   drop[1-source] 13 suspended civil servants cost Government $148,381 (Fiji Sun) :: Government of Fiji, wait 2nd source
+2026-11-03 18:46:26 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=700&order=volume24hr&ascending=false&end_date_min=2026-11-03T17%3A46%3A10Z&end_date_max=2026-12-03T17%3A46%3A10Z
+2026-11-03 18:47:23 indexed 1245 markets
+2026-11-03 18:47:39   drop[kind] Teva profit beats forecasts, raises 2026 revenue estimates reut.rs/4kuNAQy (Reuters) :: other
+2026-11-03 18:47:40   drop[kind] Horse Dies After Injury at Los Alamitos; 14th Death This Year (MyNewsLA.com) :: other
+2026-11-03 18:50:00   llm groq-120b: rate limited, skip 546s
+2026-11-03 18:50:00   drop[1-source] Double Chelsea injury boost as Emi Martinez and second star receive international call-ups (The Chelsea Chronicle) :: Emi Martinez, wait 2nd source
+2026-11-03 18:54:36   drop[team-not-named] Vikings Offense Hits Obstacle With Kyler Murray Injury Stream of National Football League (CBS Sports) :: Arizona Cardinals
+2026-11-03 18:57:06 indexed 1252 markets
+2026-11-03 19:00:48   llm groq-120b: rate limited, skip 152s
+2026-11-03 19:00:49   drop[verify] Colton Parayko (D, St. Louis Blues) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: depth player
+2026-11-03 19:04:09   drop[1-source] AFE calls for all football in Spain to be suspended from 3 to 9 November (OneFootball) :: Spanish football (Spain), wait 2nd source
+2026-11-03 19:05:48 [pengwin] page league/jablonec-brighton-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-11-03 19:05:50 [pengwin] page er-escaldes-univ-craiova-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-11-03 19:06:37   drop[1-source] Everything Phil Parkinson Said Ahead Of Wrexham Vs Middlesbrough: Sam Smith Injury, Squad  (roundtable.io) :: Sam Smith, wait 2nd source
+2026-11-03 19:06:37   llm groq-120b: rate limited, skip 233s
+2026-11-03 19:06:39   drop[1-source] Arsenal Receive Major Injury Boost Ahead Of Slavia Praha Encounter (New Telegraph) :: Kieran Tierney, wait 2nd source
+2026-11-03 19:07:09 indexed 1252 markets
