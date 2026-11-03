@@ -26471,3 +26471,38 @@
 2026-11-03 19:34:36   drop[kind] Rams Have Reason to Be Concerned About Matthew Stafford's Elbow Injury (Sports Illustrated) :: other
 2026-11-03 19:37:11 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1100&order=volume24hr&ascending=false&end_date_min=2026-11-03T18%3A36%3A45Z&end_date_max=2026-12-03T18%3A36%3A45Z
 2026-11-03 19:37:26 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=100&order=volume24hr&ascending=false&end_date_min=2026-11-03T18%3A37%3A23Z&end_date_max=2026-12-03T18%3A37%3A23Z
+2026-11-03 19:38:25 indexed 1259 markets
+2026-11-03 19:38:38   drop[1-source] Defensive heavyweight Arsenal welcome William Saliba back in Mikel Arteta injury boost (OneFootball) :: William Saliba, wait 2nd source
+2026-11-03 19:38:39   llm groq-120b: rate limited, skip 281s
+2026-11-03 19:38:40   drop[no-pick] Alex Mitchell ruled out of England Autumn Tests (Talking Rugby Union) :: short
+2026-11-03 19:40:32   drop[kind] Oklahoma City man charged with sending hundreds of threatening letters reut.rs/4zmiH5p (Reuters) :: other
+2026-11-03 19:48:07 indexed 1252 markets
+2026-11-03 19:48:23   drop[1-source] Carson Hocevar Suspended by Spire Motorsports For NASCAR Cup Finale at Homestead (heavy.com) :: Carson Hocevar, wait 2nd source
+2026-11-03 19:50:32   drop[no-market] Carson Hocevar Suspended by Spire, Will Miss Miami Finale (The Daily Downforce) :: Spire Motorsports
+2026-11-03 19:55:09   drop[kind] Man Utd XI vs Roma: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-11-03 19:58:10 indexed 1241 markets
+2026-11-03 19:58:11   llm groq-120b: rate limited, skip 26s
+2026-11-03 19:58:11   drop[not-key] Jake Miller (SP, Detroit Tigers) ruled out: Day-To-Day -> Out [MLB] (ESPN) :: Jake Miller: Day-to-day
+2026-11-03 19:59:48   llm groq-120b: rate limited, skip 29s
+2026-11-03 19:59:48   drop[kind] Ravens QB Joe Fagnano practices with large brace on injured ankle (Ravens Wire) :: other
+2026-11-03 20:01:08 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-11-03 20:01:12   drop[not-key] Atlético Madrid confirmed lineup vs Bayern Munich: Morten Hjulmand, Lee Kang-In ruled out  (ESPN) :: Morten Hjulmand: injury
+2026-11-03 20:01:12   drop[not-key] Bayern Munich confirmed lineup vs Atlético Madrid: Jonas Urbig, Kim Min-Jae, Ismael Saibar (ESPN) :: Jonas Urbig: injury
+2026-11-03 20:01:13   llm groq-120b: rate limited, skip 236s
+2026-11-03 20:01:18   drop[verify] Barcelona confirmed lineup vs Aston Villa: Frenkie de Jong, Karim Adeyemi ruled out of sta (ESPN) :: uncertain about newness
+2026-11-03 20:01:20   drop[side] Aston Villa confirmed lineup vs Barcelona: Leon Goretzka, Alysson ruled out of starting XI (ESPN) :: Will Aston Villa FC win on 2026-11-03? -> Yes vs fact ruled_out: Leon Goretzka (Aston Villa, soccer), bad for Aston Vill
+2026-11-03 20:01:21   drop[side] Feyenoord Rotterdam confirmed lineup vs Internazionale: Jerry St. Juste ruled out of start (ESPN) :: Will Feyenoord Rotterdam win on 2026-11-03? -> Yes vs fact ruled_out: Jerry St. Juste (Feyenoord Rotterdam, soccer), bad
+2026-11-03 20:01:22 NEWS [ESPN 0m] Internazionale confirmed lineup vs Feyenoord Rotterdam: Alessandro Bastoni, Petar Sucic, Andy Diouf ruled out of starting XI [uefa.champions]
+2026-11-03 20:01:22   skip No :: Will FC Internazionale Milano win on 2026-11-03? (low conf 0.6)
+2026-11-03 20:01:24   drop[side] LASK Linz confirmed lineup vs Slovan Bratislava: Sasa Kalajdzic, Krystof Danek, Christoph  (ESPN) :: Will LASK Linz win on 2026-11-03? -> Yes vs fact ruled_out: Sasa Kalajdzic (LASK Linz, soccer), bad for LASK Linz. ruled
+2026-11-03 20:01:25   llm groq-20b: rate limited, skip 5s
+2026-11-03 20:01:25   drop[no-pick] Slovan Bratislava confirmed lineup vs LASK Linz: Dominik Takac, Kenan Bajric, Peter Pokorn (ESPN) :: None
+2026-11-03 20:04:33   drop[kind] Birth Injury Claims Aren’t Ordinary Personal Injury Cases (Law.com) :: other
+2026-11-03 20:05:14   llm groq-120b: rate limited, skip 517s
+2026-11-03 20:05:15   drop[side] Bodo/Glimt confirmed lineup vs Lille: Jostein Gundersen ruled out of starting XI [uefa.cha (ESPN) :: Will FK Bodø/Glimt win on 2026-11-03? -> Yes vs fact ruled_out: Jostein Gundersen (Bodø/Glimt, soccer), bad for Bodø/Gli
+2026-11-03 20:05:17   drop[side] Lille confirmed lineup vs Bodo/Glimt: Alexsandro, Nabil Bentaleb, Maxima Goffi, Romain Per (ESPN) :: Will Lille OSC win on 2026-11-03? -> Yes vs fact ruled_out: Ethan Mbappé (Lille OSC, soccer), bad for Lille OSC. ruled o
+2026-11-03 20:05:52   drop[not-key] Cleared Lambert (WIN) on waivers (Elliotte Friedman) :: Lambert: waiver clearance
+2026-11-03 20:07:06   drop[team-not-named] Carson Hocevar suspended for NASCAR championship in Miami (RacingNews.co) :: Kaulig Racing
+2026-11-03 20:07:07   drop[team-not-named] Carson Hocevar Suspended for NASCAR Season Finale After Martinsville Controversy (MotorBiscuit) :: Stewart-Haas Racing
+2026-11-03 20:08:12 indexed 1244 markets
+2026-11-03 20:08:34   drop[unconfirmed] Jeremiyah Love (RB, Arizona Cardinals) ruled out: Questionable -> Out [NFL] (ESPN) :: ankle sprain
