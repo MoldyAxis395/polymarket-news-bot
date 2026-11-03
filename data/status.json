@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-03T11:43:50",
+ "updated": "2026-11-03T11:53:14",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 313,
- "markets_indexed": 1143,
- "news_processed": 321,
+ "markets_indexed": 1132,
+ "news_processed": 323,
  "cash": 83.31,
  "equity": 83.31,
  "start": 100.0,
@@ -24,7 +24,7 @@
    "not-key": 25,
    "unconfirmed": 28,
    "no-market": 10,
-   "fluff": 42,
+   "fluff": 43,
    "1-source": 29,
    "no-pick": 5,
    "kind": 31

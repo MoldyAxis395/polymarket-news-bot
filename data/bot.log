@@ -26253,3 +26253,6 @@
 2026-11-03 11:40:19   drop[1-source] Blackhawks’ Patrick Kane to miss time with upper-body injury (Daily Faceoff) :: Patrick Kane, wait 2nd source
 2026-11-03 11:42:23   llm groq-120b: rate limited, skip 89s
 2026-11-03 11:42:23   drop[kind] Authorities purge 71,749 suspended vehicles from registry (ERR) :: other
+2026-11-03 11:46:09 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-03 11:49:53 indexed 1132 markets
+2026-11-03 11:53:32 shift over, state saved
