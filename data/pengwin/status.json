@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-03T07:12:45",
+ "updated": "2026-11-03T07:43:30",
  "start": 100.0,
  "cash": 77.91,
- "equity": 107.55,
+ "equity": 107.66,
  "open": [
   {
    "market_id": "6022437",
@@ -19,7 +19,7 @@
    "reason": "pengwin approx: replicates Over 1.5 leg of combo",
    "conf": 1.0,
    "end": "2026-11-03T20:00:00+00:00",
-   "last_bid": 0.86,
+   "last_bid": 0.87,
    "book_err": false
   },
   {
@@ -62,10 +62,10 @@
  "closed_count": 62,
  "realized_pnl": 7.91,
  "pages": {
-  "pending": 80,
+  "pending": 76,
   "picked": 1,
   "traded": 65,
-  "skipped": 173,
+  "skipped": 177,
   "expired": 147
  }
 }

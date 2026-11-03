@@ -26129,3 +26129,20 @@
 2026-11-03 07:12:39 [pengwin] BODØ/GLIMT-LILLE: no LLM answer (try 3)
 2026-11-03 07:12:41 [pengwin] LASK-SLOVAN BRATISLAVA: no LLM answer (try 3)
 2026-11-03 07:12:44 [pengwin] VIKING-SABAH BAKU: no LLM answer (try 3)
+2026-11-03 07:14:03   drop[team-not-named] NZ vs IND: CSK Player Left Out Of ODI Squad As Kiwis Suffer Continuous Injury Woes (Sportscape Magazine) :: India national cricket team
+2026-11-03 07:16:19   llm groq-20b: rate limited, skip 160s
+2026-11-03 07:19:11 indexed 1131 markets
+2026-11-03 07:23:14   drop[1-source] Arsenal News Today: Anfield Win, Madueke Clash and Saka Injury (3 November) (The False 9) :: Bukayo Saka, wait 2nd source
+2026-11-03 07:29:13 indexed 1134 markets
+2026-11-03 07:34:47   drop[1-source] After a Hill Country Crash: Texas Injury Claim Rules (BNO News) :: State of Texas, wait 2nd source
+2026-11-03 07:39:14 indexed 1133 markets
+2026-11-03 07:39:34   drop[unconfirmed] Slavia Praha vs Arsenal early injury news as 3 ruled out and 4 doubts (Pain in the Arsenal) :: Three Arsenal players are reported as ruled out for the upcoming match
+2026-11-03 07:39:35   drop[1-source] Twickenham restaurant has licence suspended over alleged illegal workers (My London) :: Twickenham restaurant, wait 2nd source
+2026-11-03 07:41:18 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-03 07:41:42   drop[team-not-named] I didn’t want to leave on a stretcher so I walked: Pratika opens up on ODI WC injury (IANS LIVE) :: India women's cricket team
+2026-11-03 07:43:21   llm groq-120b: rate limited, skip 217s
+2026-11-03 07:43:22 [pengwin] skip MANCHESTER UNITED-ROMA [over 3.5 cards]: no matching market
+2026-11-03 07:43:24   llm groq-20b: rate limited, skip 769s
+2026-11-03 07:43:24 [pengwin] BODØ/GLIMT-LILLE: no LLM answer (try 4)
+2026-11-03 07:43:26 [pengwin] LASK-SLOVAN BRATISLAVA: no LLM answer (try 4)
+2026-11-03 07:43:28 [pengwin] VIKING-SABAH BAKU: no LLM answer (try 4)
