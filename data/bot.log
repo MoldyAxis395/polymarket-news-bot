@@ -25976,3 +25976,16 @@
 2026-11-03 02:49:31   drop[unconfirmed] Kutter Crawford (SP, Boston Red Sox) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
 2026-11-03 02:49:31   drop[not-key] Johan Oviedo (SP, Boston Red Sox) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Johan Oviedo: injury
 2026-11-03 02:52:23 indexed 1153 markets
+2026-11-03 02:56:36   drop[verify] Brennan Othmann (LW, Calgary Flames) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Othmann is a depth forward, not a star, so his injury unlikely to move the Flames vs. Sharks market 5+ points
+2026-11-03 03:00:27   drop[1-source] Resumption of Russian gas supplies are ruled out after war: Brussels (Shipping Telegraph) :: Brussels, wait 2nd source
+2026-11-03 03:02:27 indexed 1170 markets
+2026-11-03 03:04:42   drop[not-key] Carter Baumler (RP, Texas Rangers) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Carter Baumler: ruled out, placed on 60-Day IL
+2026-11-03 03:05:44   drop[no-pick] Harrison Bader (CF, San Francisco Giants) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: short
+2026-11-03 03:12:33 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1900&order=volume24hr&ascending=false&end_date_min=2026-11-03T02%3A11%3A59Z&end_date_max=2026-12-03T02%3A11%3A59Z
+2026-11-03 03:13:25 indexed 1163 markets
+2026-11-03 03:14:30   drop[kind] US Strikes Iran’s Qeshm Island Even as Trump Rules Out Renewed War: Report (Deccan Chronicle) :: other
+2026-11-03 03:14:30   drop[1-source] Bridget Malone makes her presence known in injury comeback against Boston College (The Daily Tar Heel) :: Bridget Malone, wait 2nd source
+2026-11-03 03:14:31   drop[kind] Arizona Cardinals head coach talks injury frustration for Jeremiyah Love (azcentral.com and The Arizona Republic) :: other
+2026-11-03 03:21:21   drop[kind] Suspected Drug-Induced Hepatocellular Injury Following Use of an Unregulated Injectable Pr (Cureus) :: other
+2026-11-03 03:23:14 indexed 1157 markets
+2026-11-03 03:24:05   drop[team-not-named] Myles Garrett & Micah Parsons Near Their Returns From Injury (SportsGrid) :: Pittsburgh Steelers
