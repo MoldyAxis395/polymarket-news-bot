@@ -25954,3 +25954,25 @@
 2026-11-03 02:22:19 indexed 1140 markets
 2026-11-03 02:22:25   drop[kind] Eagles' Sirianni Talks Potential QB, OC Changes Amid Jalen Hurts' Injury, 6-Game Losing St (Bleacher Report) :: other
 2026-11-03 02:24:41   drop[not-key] Joe Fagnano Listed as limited due to ankle injury (Fantasy Footballers Podcast) :: Joe Fagnano: ankle injury
+2026-11-03 02:29:29   drop[1-source] Ravens staring into the abyss after Jackson's thumb injury — and he's not the only QB hurt (Seattle Post-Intelligencer) :: Jackson, wait 2nd source
+2026-11-03 02:32:22 indexed 1150 markets
+2026-11-03 02:33:54   llm groq-120b: rate limited, skip 126s
+2026-11-03 02:33:55   drop[no-pick] Brandon Williams (G, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: no suitable outcome to rise
+2026-11-03 02:34:56   drop[not-key] Eduardo Rivera (SP, Boston Red Sox) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Eduardo Rivera: injury
+2026-11-03 02:34:56   drop[unconfirmed] Will Wilson (3B, Seattle Mariners) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: fractured left thumb
+2026-11-03 02:34:57   drop[not-key] Brennen Davis (CF, Seattle Mariners) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Brennen Davis: 60-day IL
+2026-11-03 02:34:57   drop[no-market] Luke Raley (RF, Seattle Mariners) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Seattle Mariners
+2026-11-03 02:34:58   drop[unconfirmed] Nick Davila (RP, Seattle Mariners) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: 60‑day IL
+2026-11-03 02:34:58   drop[unconfirmed] Matt Brash (RP, Seattle Mariners) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: season-ending
+2026-11-03 02:34:58   drop[unconfirmed] Colt Emerson (SS, Seattle Mariners) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: season-ending wrist surgery
+2026-11-03 02:34:59   drop[not-key] Logan Evans (SP, Seattle Mariners) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Logan Evans: injury
+2026-11-03 02:40:57   drop[not-key] Tyler Loop’s Injury Moves Jake Moody Into Starting Kicker Role | News & Notes (Baltimore Ravens) :: Tyler Loop: Loop injured, promoting Moody to starter
+2026-11-03 02:40:57   drop[not-key] Brandon Williams (quad) ruled out vs. Phoenix (NBC Sports) :: Brandon Williams: quad injury
+2026-11-03 02:42:20 indexed 1153 markets
+2026-11-03 02:49:29   drop[no-pick] Eli White (CF, Boston Red Sox) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: No relevant market; the fact concerns MLB Boston Red Sox, not the NHL game listed.
+2026-11-03 02:49:29   llm groq-120b: rate limited, skip 685s
+2026-11-03 02:49:30   drop[not-key] Justin Slaten (RP, Boston Red Sox) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Justin Slaten: injury
+2026-11-03 02:49:30   drop[unconfirmed] Triston Casas (1B, Boston Red Sox) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: season-ending injury
+2026-11-03 02:49:31   drop[unconfirmed] Kutter Crawford (SP, Boston Red Sox) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
+2026-11-03 02:49:31   drop[not-key] Johan Oviedo (SP, Boston Red Sox) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Johan Oviedo: injury
+2026-11-03 02:52:23 indexed 1153 markets
