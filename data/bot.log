@@ -25899,3 +25899,29 @@
 2026-11-03 01:19:51   drop[not-key] Seahawks-Bears inactives: Uchenna Nwosu sidelined with ankle injury (Field Gulls) :: Uchenna Nwosu: ankle injury
 2026-11-03 01:22:04 indexed 1091 markets
 2026-11-03 01:24:37   drop[kind] The Role of Home Care in Preventing Illness and Injury (MedicalResearch.com) :: other
+2026-11-03 01:32:06 indexed 1115 markets
+2026-11-03 01:33:28   drop[no-pick] Andrew Nardi (RP, Miami Marlins) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: short
+2026-11-03 01:33:29   drop[not-key] Adam Mazur (SP, Miami Marlins) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Adam Mazur: UCL surgery recovery leads to 60-Day IL placement
+2026-11-03 01:33:29   drop[not-key] Robby Snelling (SP, Miami Marlins) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Robby Snelling: short
+2026-11-03 01:33:30   drop[not-key] Ronny Henriquez (RP, Miami Marlins) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Ronny Henriquez: ruled out on 60-Day IL after UCL surgery
+2026-11-03 01:33:30   llm groq-120b: rate limited, skip 257s
+2026-11-03 01:33:30   drop[unconfirmed] William Kempner (RP, Miami Marlins) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
+2026-11-03 01:33:53   drop[not-key] Louisville basketball guard De'Shayne Montgomery out with foot injury (WLKY) :: De'Shayne Montgomery: foot injury
+2026-11-03 01:42:07 indexed 1111 markets
+2026-11-03 01:43:08   llm groq-120b: rate limited, skip 304s
+2026-11-03 01:43:09   drop[kind] Lions are trying to refocus on football amid concerns over Jack Campbell's injury (Seattle Post-Intelligencer) :: other
+2026-11-03 01:43:09   drop[kind] Springfield police officers suffers head injury, 2 others injured in assault (MassLive) :: other
+2026-11-03 01:47:39   drop[unconfirmed] Kelly Oubre Jr. (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: knee injury
+2026-11-03 01:47:39   drop[unconfirmed] Anthony Santander (RF, Toronto Blue Jays) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
+2026-11-03 01:47:40   drop[not-key] Cody Ponce (SP, Toronto Blue Jays) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Cody Ponce: injury
+2026-11-03 01:47:40   drop[unconfirmed] Jonatan Clase (LF, Toronto Blue Jays) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
+2026-11-03 01:47:41   drop[not-key] Bowden Francis (SP, Toronto Blue Jays) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Bowden Francis: injury
+2026-11-03 01:47:41   drop[unconfirmed] Addison Barger (RF, Toronto Blue Jays) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: 60-day IL
+2026-11-03 01:47:42   drop[unconfirmed] Jake Bloss (SP, Toronto Blue Jays) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: season‑long injury
+2026-11-03 01:47:42   drop[unconfirmed] Jose Berrios (SP, Toronto Blue Jays) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: season‑ending injury
+2026-11-03 01:48:39   drop[not-key] Will Vest (RP, Detroit Tigers) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Will Vest: ruled out for season after elbow surgery
+2026-11-03 01:48:40   drop[no-pick] Matt Vierling (CF, Detroit Tigers) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: short
+2026-11-03 01:48:40   llm groq-120b: rate limited, skip 48s
+2026-11-03 01:48:41   drop[unconfirmed] Trey Sweeney (SS, Detroit Tigers) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: season-ending injury
+2026-11-03 01:48:41   drop[not-key] Wenceel Perez (RF, Detroit Tigers) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Wenceel Perez: orbital fracture
+2026-11-03 01:52:10 indexed 1110 markets
