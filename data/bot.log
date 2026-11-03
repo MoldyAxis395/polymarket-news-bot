@@ -26646,3 +26646,21 @@
 2026-11-04 00:11:38   drop[kind] SSG Starting Trio Key as National Team Adjusts to Injury (조선일보) :: other
 2026-11-04 00:13:58   drop[team-not-named] 3M agrees to $5.8B settlement over PFAS personal injury claims (StreetInsider) :: 3M
 2026-11-04 00:16:00   drop[kind] Skyworks tumbles as sluggish smartphone market weighs on forecast reut.rs/3V21EXu (Reuters) :: other
+2026-11-04 00:20:45 indexed 1143 markets
+2026-11-04 00:20:53   drop[team-not-named] Rodri injury mars easy win for Barcelona over Emery's Villa in front of Prince William (Seattle Post-Intelligencer) :: Manchester City
+2026-11-04 00:23:08   llm groq-120b: rate limited, skip 41s
+2026-11-04 00:23:09   drop[not-key] Scotty Pippen Injury: Ruled out for Wednesday (RotoWire) :: Scotty Pippen: injury
+2026-11-04 00:23:10   drop[no-pick] Swansea City: Stephen Welsh knee injury adds to misery at Portsmouth (BBC) :: no matching market for Swansea City
+2026-11-04 00:24:05   llm groq-120b: rate limited, skip 13s
+2026-11-04 00:24:05   drop[unconfirmed] Scotty Pippen Jr. (G, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: lower-back soreness
+2026-11-04 00:27:54   drop[kind] Badminton: Doubts over whether Wooi Yik’s heel injury can heal in time before Japan Master (The Star) :: other
+2026-11-04 00:30:03   llm groq-120b: rate limited, skip 258s
+2026-11-04 00:30:04   drop[no-pick] Man Utd beat Roma - the other great Champions League comebacks (BBC) :: short
+2026-11-04 00:30:47 indexed 1133 markets
+2026-11-04 00:30:49 NEWS [Reuters 0m] Mauritania signs two offshore contracts with Murphy Oil reut.rs/4zw0YZq
+2026-11-04 00:30:49   skip Yes :: Will oil be at least $80 on November 2 and the Republicans win the Sen (low conf 0.6)
+2026-11-04 00:40:48 indexed 1146 markets
+2026-11-04 00:43:21   drop[kind] Park Chang Hwan Avoids Season-Ending Injury (조선일보) :: other
+2026-11-04 00:43:22   drop[team-not-named] Carrick issues Man Utd injury latest after Baleba blow (London Evening Standard) :: Manchester United
+2026-11-04 00:43:52   llm groq-120b: rate limited, skip 112s
+2026-11-04 00:43:52   drop[unconfirmed] Kailer Yamamoto (RW, Utah Mammoth) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: day-to-day
