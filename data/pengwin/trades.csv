@@ -126,3 +126,6 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-11-01T21:33:32+00:00,SELL,Elche CF vs. Valencia CF: Elche CF O/U 1.5,Over,23.37,0.0000,0.00,-10.00,resolved
 2026-11-01T22:05:00+00:00,SELL,Will Juventus FC win on 2026-11-01?,No,17.24,0.0000,0.00,-10.00,resolved
 2026-11-02T22:32:51+00:00,SELL,Will RC Deportivo A Coruña win on 2026-11-02?,Yes,22.22,1.0000,22.22,+12.22,resolved
+2026-11-03T05:10:54+00:00,BUY,Feyenoord Rotterdam vs. FC Internazionale Milano: O/U 1.5,Over,11.36,0.8800,10.00,,FEYENOORD-INTER: OVER 1.5 (approssimato) | pengwin approx: replicates Over 1.5 leg of combo
+2026-11-03T05:10:58+00:00,BUY,FC Barcelona vs. Aston Villa FC: Both Teams to Score,Yes,14.71,0.6800,10.00,,BARCELLONA-ASTON VILLA: Both Teams to Score @1.45 (esatto) | pengwin exact: Base pick is segno gol (BTTS); market 22 is BTTS Yes
+2026-11-03T05:11:12+00:00,BUY,Will FK Shakhtar Donetsk win on 2026-11-03?,No,13.51,0.7400,10.00,,SHAKHTAR-SPORTING: X2 (esatto) | pengwin exact: replicates X2 as NO on home win

@@ -2552,21 +2552,21 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/roma-cagliari-statistiche-quote-e-pronostico-2026": {
 "first": 1793047591.1460824,
-"status": "pending",
+"status": "skipped",
 "pick": "I capitolini sono decisamente favoriti nella sfida casalinga con il Cagliari e penso che riusciranno a conquistare i tre punti davanti ai propri tifosi: pertanto, come pronostico base mi affido al segno 1, quotato a 1.30. Attenzione alla proposta Malen marcatore DUO a quota 1.75: il centravanti olandese non segna da tre partite e vuole assolutamente ritrovare la via del gol. Per chi non si accontenta del segno 1, propongo la combo 1 + 1 corner, a moltiplicatore 1.50.",
 "match": "ROMA-CAGLIARI",
 "picked_at": 1793126841.9154024,
-"tries": 147,
+"tries": 148,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/torino-como-statistiche-quote-e-pronostico-2026": {
 "first": 1793047591.1460824,
-"status": "pending",
+"status": "skipped",
 "pick": "Il Como ha ritrovato ottime sensazioni nelle ultime settimane e giunge alla trasferta di Torino in grande fiducia. La compagine lombarda ha tutte le carte in regola per centrare il bottino pieno ed espugnare il campo dei granata. Dunque, punto sul segno 2, a moltiplicatore 1.80. Per chi volesse osare meno, consiglio l'esito 2 draw no bet, a quota 1.32 (in caso di pareggio la giocata viene rimborsata).",
 "match": "TORINO-COMO",
 "picked_at": 1793126841.9154024,
-"tries": 147,
+"tries": 148,
 "llm_fails": 3,
 "why": "no Polymarket event"
 },
@@ -3150,6 +3150,104 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-b/palermo-vicenza-statistiche-quote-e-pronostico-2026": {
 "first": 1793381894.5103526,
+"status": "pending"
+},
+"https://www.mondopengwin.it/pronostici/calcio/champions-league/galatasaray-stoccarda-statistiche-quote-e-pronostico-2026": {
+"first": 1793682512.0199397,
+"status": "skipped",
+"pick": "Mi aspetto una gara giocata a viso aperto da entrambe le formazioni. Il Galatasaray, tra le mura amiche, ha dimostrato di sapersi esaltare e sono convinto che uscirà dal campo con un risultato positivo. Riflettori puntati sui due bomber: Demirovic e, soprattutto, Osimhen, che potrebbero trovare la via della rete. Occhio ai risultati esatti 1-1/2-1/2-2. Come pronostico base mi affido alla combo 1X + casa segna, a moltiplicatore 1.50.",
+"match": "GALATASARAY-STOCCARDA",
+"picked_at": 1793682512.0199397,
+"why": "Base pick is a combo (double chance 1X plus home scores) which has no single-market equivalent on Polymarket"
+},
+"https://www.mondopengwin.it/pronostici/calcio/champions-league/atletico-madrid-bayern-monaco-statistiche-quote-e-pronostico-2026": {
+"first": 1793682512.0199397,
+"status": "skipped",
+"pick": "L’Atletico affronta il Bayern Monaco, che si presenta a Madrid con grande motivazione, dopo i due pareggi di fila registrati in questa edizione. L’imminente impegno in campionato contro il Barcellona potrebbe condizionare i colchoneros, che hanno sofferto nella sfida casalinga con il Manchester United (nonostante la vittoria finale). Sono convinto che i bavaresi usciranno imbattuti e punto sulla doppia chance X2, a quota 1.45. Attenzione ai risultati esatti 1-1/1-2/2-2 e occhio alla combo X2 + gol. Riflettori puntati su Harry Kane, a caccia del record di match consecutivi a segno in Champions League.",
+"match": "ATLETICO MADRID-BAYERN MONACO",
+"picked_at": 1793682512.0199397,
+"why": "double chance mapped to YES: Will FC Bayern München win on 2026-11-03?"
+},
+"https://www.mondopengwin.it/pronostici/calcio/champions-league/feyenoord-inter-statistiche-quote-e-pronostico-2026": {
+"first": 1793682512.0199397,
+"status": "traded",
+"pick": "L’Inter si gioca una fetta importante del proprio percorso in Champions League, contro un’avversaria non irresistibile. Sono convinto che i nerazzurri segneranno almeno due reti (occhio ai risultati 0-2/0-3/1-2/1-3), con buone chance di centrare il bottino pieno. Tuttavia, l’ottimo rendimento casalingo del Feyenoord suggerisce una copertura: punto sulla combo X2 + over 1.5, a moltiplicatore 1.50.",
+"match": "FEYENOORD-INTER",
+"picked_at": 1793682512.0199397,
+"market": "Feyenoord Rotterdam vs. FC Internazionale Milano: O/U 1.5",
+"outcome": "Over",
+"map": "approx"
+},
+"https://www.mondopengwin.it/pronostici/calcio/champions-league/barcellona-aston-villa-statistiche-quote-e-pronostico-2026": {
+"first": 1793682512.0199397,
+"status": "traded",
+"pick": "Si prospetta una gara scoppiettante tra Barcellona e Aston Villa, con tanti gol ed emozioni. I blaugrana segnano moltissime reti, ma in fase di copertura hanno dimostrato di soffrire e i Villans potrebbero approfittarne. Attenzione al gol special (con entrambe le squadre con almeno due reti all’attivo). Come proposta base mi affido al segno gol a moltiplicatore 1.45 , mentre per chi volesse alzare la quota è valida anche la combo 1X + gol, quotata a 1.65.",
+"match": "BARCELLONA-ASTON VILLA",
+"picked_at": 1793682512.0199397,
+"market": "FC Barcelona vs. Aston Villa FC: Both Teams to Score",
+"outcome": "Yes",
+"map": "exact"
+},
+"https://www.mondopengwin.it/pronostici/calcio/champions-league/villarreal-psg-statistiche-quote-e-pronostico-2026": {
+"first": 1793682512.0199397,
+"status": "skipped",
+"pick": "Il Paris Saint-Germain sfida una formazione in difficoltà, che in questa stagione non ha trovato grande continuità di risultati. I parigini sono ampiamente superiori e dovrebbero portare a casa il bottino pieno. Tuttavia, le migliori prestazioni del Submarino amarillo sono state registrate proprio tra le mura amiche e quindi preferisco coprirmi con la proposta ospite vince almeno un tempo, a moltiplicatore 1.30. Occhio a Desiré Doué gol o assist.",
+"match": "VILLARREAL-PSG",
+"picked_at": 1793682512.0199397,
+"why": "no matching market"
+},
+"https://www.mondopengwin.it/pronostici/calcio/champions-league/manchester-united-roma-statistiche-quote-e-pronostico-2026": {
+"first": 1793682512.0199397,
+"status": "pending",
+"pick": "La Roma si presenta a Old Trafford per affrontare una formazione in evidente difficoltà. Preferisco evitare i segni, in un incontro che potrebbe prendere differenti pieghe. Mi aspetto un match teso, nervoso, con un peso specifico diverso da altre sfide, anche in virtù dei precedenti tra le due formazioni. L’arbitro dell’incontro è Jesùs Gil Manzano, che vanta una media elevata di cartellini (in Fenerbahce-Roma ne ha estratti sei). Pertanto, mi affido all’esito over 3.5 cartellini, a moltiplicatore 1.40 . Per chi volesse osare di più almeno due cartellini a testa, a quota 1.90, di grande valore e da potenziale singola.",
+"match": "MANCHESTER UNITED-ROMA",
+"picked_at": 1793682512.0199397,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
+},
+"https://www.mondopengwin.it/pronostici/calcio/champions-league/bod-glimt-lille-statistiche-quote-e-pronostico-2026": {
+"first": 1793682512.0199397,
+"status": "pending",
+"pick": "Mi aspetto che il Bodo possa spingere tra le mura amiche, ma attenzione al segno 1: le quote sono troppo schiacciate in favore dei norvegesi e non escludo una possibile sorpresa. Tuttavia, sono convinto che i padroni di casa sfrutteranno le corsie esterne, collezionando numerosi calci d’angolo: il mio pronostico base è 1 corner, a moltiplicatore 1.50.",
+"match": "BODØ/GLIMT-LILLE",
+"picked_at": 1793682512.0199397,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
+},
+"https://www.mondopengwin.it/pronostici/calcio/champions-league/lask-slovan-bratislava-statistiche-quote-e-pronostico-2026": {
+"first": 1793682512.0199397,
+"status": "pending",
+"pick": "Si sfidano due squadre che non hanno grande tradizione in Europa, in un match che preferisco evitare sui segni fissi. La mia proposta base è la combo over 0.5 primo tempo + over 0.5 secondo tempo, a quota 1.40.",
+"match": "LASK-SLOVAN BRATISLAVA",
+"picked_at": 1793682512.0199397,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
+},
+"https://www.mondopengwin.it/pronostici/calcio/champions-league/shakhtar-sporting-statistiche-quote-e-pronostico-2026": {
+"first": 1793682512.0199397,
+"status": "traded",
+"pick": "È una partita da prendere con le molle, anche in virtù dei cambiamenti sulla panchina lusitana. La maggiore qualità dello Sporting consentirà alla formazione ospite di conquistare almeno un punto, in una gara non semplice da decifrare. Come pronostico base mi affido alla doppia chance in favore dei biancoverdi: punto sull’X2, a quota 1.30.",
+"match": "SHAKHTAR-SPORTING",
+"picked_at": 1793682512.0199397,
+"market": "Will FK Shakhtar Donetsk win on 2026-11-03?",
+"outcome": "No",
+"map": "exact"
+},
+"https://www.mondopengwin.it/pronostici/calcio/champions-league/viking-sabah-baku-statistiche-quote-e-pronostico-2026": {
+"first": 1793682512.0199397,
+"status": "pending",
+"pick": "Il Viking affronta una squadra sulla carta inferiore e potrà sfruttare la spinta dei propri sostenitori. Tuttavia, la formazione norvegese è reduce dal dispendioso e sentitissimo impegno disputato in campionato contro il Bodo/Glimt (concluso con un deludente ko, in una sfida tirata). Per questo motivo, preferisco evitare il segno 1 e decido di puntare sulla combo 1 corner + casa over 0.5, a moltiplicatore 1.40.",
+"match": "VIKING-SABAH BAKU",
+"picked_at": 1793682512.0199397,
+"tries": 1,
+"llm_fails": 1,
+"why": "no LLM answer"
+},
+"https://www.mondopengwin.it/pronostici/calcio/europa-league/statistiche-quote-e-pronostico-2026-66": {
+"first": 1793682512.0199397,
 "status": "pending"
 }
 }

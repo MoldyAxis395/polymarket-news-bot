@@ -1,26 +1,6 @@
 {
- "cash": 73.78533548312473,
- "positions": [
-  {
-   "market_id": "5772981",
-   "question": "Jaguars vs. Ravens",
-   "slug": "nfl-jax-bal-2026-11-06",
-   "outcome": "Ravens",
-   "token": "75442632507328767732122689740017101063097070455601175973569764093594701638351",
-   "shares": 47.61904761904762,
-   "entry": 0.21,
-   "cost": 10.0,
-   "opened": 1793654526.9276319,
-   "opened_iso": "2026-11-02T21:22:06+00:00",
-   "news": "Aeneas Peebles (DT, Baltimore Ravens) cleared to play: Out -> Active [NFL]",
-   "reason": "llm[groq-20b] trusted: player cleared to play boosts Ravens' odds",
-   "conf": 0.7,
-   "end": "2026-11-06T01:15:00+00:00",
-   "last_bid": 0.2,
-   "book_err": false,
-   "settle_retry": 1793664731.0580015
-  }
- ],
+ "cash": 83.30914500693424,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -2175,6 +2155,29 @@
    "pnl": -0.2631578947368425,
    "why": "market closing",
    "closed_iso": "2026-11-01T17:55:07+00:00"
+  },
+  {
+   "market_id": "5772981",
+   "question": "Jaguars vs. Ravens",
+   "slug": "nfl-jax-bal-2026-11-06",
+   "outcome": "Ravens",
+   "token": "75442632507328767732122689740017101063097070455601175973569764093594701638351",
+   "shares": 47.61904761904762,
+   "entry": 0.21,
+   "cost": 10.0,
+   "opened": 1793654526.9276319,
+   "opened_iso": "2026-11-02T21:22:06+00:00",
+   "news": "Aeneas Peebles (DT, Baltimore Ravens) cleared to play: Out -> Active [NFL]",
+   "reason": "llm[groq-20b] trusted: player cleared to play boosts Ravens' odds",
+   "conf": 0.7,
+   "end": "2026-11-06T01:15:00+00:00",
+   "last_bid": 0.2,
+   "book_err": false,
+   "settle_retry": 1793664731.0580015,
+   "exit": 0.19999999999999998,
+   "pnl": -0.4761904761904763,
+   "why": "max hold",
+   "closed_iso": "2026-11-03T05:09:23+00:00"
   }
  ],
  "cooldown": {
@@ -2244,6 +2247,7 @@
   "5285927": 1793480117.9071138,
   "6167325": 1793496652.103765,
   "5603316": 1793566506.6231375,
-  "5603308": 1793566507.2653675
+  "5603308": 1793566507.2653675,
+  "5772981": 1793693363.784322
  }
 }

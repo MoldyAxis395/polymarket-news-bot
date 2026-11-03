@@ -26003,3 +26003,59 @@
 2026-11-03 04:00:42   drop[not-key] Mavericks' Max Christie exits game vs. Kings with hip injury (Dallas News) :: Max Christie: exited game with hip injury
 2026-11-03 04:03:21 indexed 1171 markets
 2026-11-03 04:05:38 shift over, state saved
+2026-11-03 06:08:32 === start mode=paper pid=2311 ===
+2026-11-03 06:08:32 brain=llm cash=73.79 open=1
+2026-11-03 06:08:32 resuming with 5134 known news items
+2026-11-03 06:08:54 indexed 1172 markets
+2026-11-03 06:09:09   drop[team-not-named] Patrick Kane (RW, Chicago Blackhawks) ruled out: healthy -> Out [NHL] (ESPN) :: New York Rangers
+2026-11-03 06:09:10   drop[not-key] Cristian Mena (RP, Arizona Diamondbacks) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Cristian Mena: setback in shoulder recovery leads to continued 60‑day IL
+2026-11-03 06:09:11   drop[not-key] Tyler Locklear (1B, Arizona Diamondbacks) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Tyler Locklear: placed on 60‑day IL, ending his season
+2026-11-03 06:09:11   drop[not-key] Tyler Soderstrom (LF, Athletics) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Tyler Soderstrom: will miss rest of season after hip surgery
+2026-11-03 06:09:11   drop[unconfirmed] Brent Rooker (DH, Athletics) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: cartilage tear will keep him out for the season
+2026-11-03 06:09:12   drop[no-market] Ben Brown (RP, Chicago Cubs) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Chicago Cubs
+2026-11-03 06:09:12   drop[no-market] Justin Steele (SP, Chicago Cubs) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Chicago Cubs
+2026-11-03 06:09:13   drop[not-key] Porter Hodge (RP, Chicago Cubs) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Porter Hodge: ruled out, placed on 60‑day IL
+2026-11-03 06:09:14   drop[not-key] Phil Maton (RP, Chicago Cubs) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Phil Maton: placed on 60-day IL
+2026-11-03 06:09:14   drop[not-key] Shelby Miller (RP, Chicago Cubs) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Shelby Miller: season-ending injury
+2026-11-03 06:09:15   drop[not-key] Tyler Austin (1B, Chicago Cubs) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Tyler Austin: placed on 60-Day IL and removed from 40-man roster
+2026-11-03 06:09:16   drop[no-market] Brandon Walter (SP, Houston Astros) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Houston Astros
+2026-11-03 06:09:16   llm groq-120b: rate limited, skip 2s
+2026-11-03 06:09:16   drop[unconfirmed] Will Klein (RP, Los Angeles Dodgers) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
+2026-11-03 06:09:17   drop[not-key] Fernando Cruz (RP, New York Yankees) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Fernando Cruz: injury
+2026-11-03 06:09:18   drop[unconfirmed] Adrian Houser (SP, San Francisco Giants) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: 60‑day IL
+2026-11-03 06:09:18   drop[unconfirmed] Matt Chapman (3B, San Francisco Giants) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
+2026-11-03 06:09:18   drop[unconfirmed] Rafael Devers (1B, San Francisco Giants) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: 60‑day IL
+2026-11-03 06:09:19   drop[not-key] Hayden Birdsong (RP, San Francisco Giants) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Hayden Birdsong: placed on 60-day injured list
+2026-11-03 06:09:19   llm groq-120b: rate limited, skip 4s
+2026-11-03 06:09:20   drop[not-key] Casey Schmitt (LF, San Francisco Giants) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Casey Schmitt: injury
+2026-11-03 06:09:20   drop[unconfirmed] Joel Peguero (RP, San Francisco Giants) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: hamstring injury
+2026-11-03 06:09:21   drop[unconfirmed] Randy Rodriguez (RP, San Francisco Giants) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
+2026-11-03 06:09:21   drop[unconfirmed] Jesus Rodriguez (C, San Francisco Giants) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
+2026-11-03 06:09:22   drop[unconfirmed] Trevor McDonald (SP, San Francisco Giants) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: 60‑day IL
+2026-11-03 06:09:22   drop[unconfirmed] Daniel Susac (C, San Francisco Giants) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: knee injury
+2026-11-03 06:09:22   drop[unconfirmed] Keaton Winn (RP, San Francisco Giants) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: right elbow neuritis
+2026-11-03 06:09:23   drop[not-key] Rowan Wick (RP, San Francisco Giants) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Rowan Wick: 60‑day IL
+2026-11-03 06:09:23   llm groq-20b: rate limited, skip 3s
+2026-11-03 06:09:23   SELL Ravens @ 0.200 (max hold) pnl -0.48 :: Jaguars vs. Ravens
+2026-11-03 06:09:56   drop[not-key] Mike Paredes (SP, Minnesota Twins) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Mike Paredes: Diagnosed with Grade 2 left oblique strain and placed on 60-day IL, making him ineligible until Sept 21
+2026-11-03 06:09:56   drop[not-key] Cole Winn (RP, Texas Rangers) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Cole Winn: season-ending rotator cuff injury
+2026-11-03 06:09:57 [pengwin] ROMA-CAGLIARI: no Polymarket event (try 148)
+2026-11-03 06:09:57   drop[not-key] Jose Corniell (RP, Texas Rangers) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Jose Corniell: right flexor strain placed him on 60‑day IL, ineligible to pitch until Sept 19
+2026-11-03 06:09:59 [pengwin] TORINO-COMO: no Polymarket event (try 148)
+2026-11-03 06:10:43 [pengwin] skip GALATASARAY-STOCCARDA [1X + casa segna]: Base pick is a combo (double chance 1X plus home scores) which has no single-market equivalent on Polymarket
+2026-11-03 06:10:48 [pengwin] skip ATLETICO MADRID-BAYERN MONACO [X2 (Bayern) approx → Bayern win]: double chance mapped to YES: Will FC Bayern München win on 2026-11-03?
+2026-11-03 06:10:51   llm groq-120b: rate limited, skip 1s
+2026-11-03 06:10:54 [pengwin]   BUY Over @ 0.880 x11.4 ($10.00) :: Feyenoord Rotterdam vs. FC Internazionale Milano: O/U 1.5
+2026-11-03 06:10:58 [pengwin]   BUY Yes @ 0.680 x14.7 ($10.00) :: FC Barcelona vs. Aston Villa FC: Both Teams to Score
+2026-11-03 06:10:59   llm groq-120b: rate limited, skip 302s
+2026-11-03 06:10:59   drop[team-not-named] Patrick Kane Injury Sidelines Him for a Couple of Games (Gino Hard) :: Chicago Blackhawks
+2026-11-03 06:11:02 [pengwin] skip VILLARREAL-PSG [away team wins at least one half]: no matching market
+2026-11-03 06:11:04   llm groq-20b: rate limited, skip 5s
+2026-11-03 06:11:04 [pengwin] MANCHESTER UNITED-ROMA: no LLM answer (try 1)
+2026-11-03 06:11:06 [pengwin] BODØ/GLIMT-LILLE: no LLM answer (try 1)
+2026-11-03 06:11:09 [pengwin] LASK-SLOVAN BRATISLAVA: no LLM answer (try 1)
+2026-11-03 06:11:12 [pengwin]   BUY No @ 0.740 x13.5 ($10.00) :: Will FK Shakhtar Donetsk win on 2026-11-03?
+2026-11-03 06:11:15   llm groq-20b: rate limited, skip 14s
+2026-11-03 06:11:15 [pengwin] VIKING-SABAH BAKU: no LLM answer (try 1)
+2026-11-03 06:13:16   drop[team-not-named] Jake Davis Injury 'Doesn't Sound Great': What It Means for Illinois if He's Out (Sports Illustrated) :: Indianapolis Colts
+2026-11-03 06:13:17   drop[unconfirmed] Cardinals WR Kendrick Bourne’s 2026 season is over after ankle injury (ClutchPoints) :: season-ending ankle injury
