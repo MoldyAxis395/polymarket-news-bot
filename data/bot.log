@@ -26256,3 +26256,28 @@
 2026-11-03 11:46:09 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-11-03 11:49:53 indexed 1132 markets
 2026-11-03 11:53:32 shift over, state saved
+2026-11-03 14:32:28 === start mode=paper pid=2197 ===
+2026-11-03 14:32:28 brain=llm cash=83.31 open=0
+2026-11-03 14:32:28 resuming with 5536 known news items
+2026-11-03 14:33:11 indexed 1242 markets
+2026-11-03 14:33:27 NEWS [ESPN 34m] Ja'Tavion Sanders (TE, Carolina Panthers) cleared to play: Out -> Active [NFL]
+2026-11-03 14:33:27   skip Panthers :: Broncos vs. Panthers (low conf 0.62)
+2026-11-03 14:33:29 NEWS [ESPN 34m] Haynes King (QB, Carolina Panthers) cleared to play: Out -> Active [NFL]
+2026-11-03 14:33:29   skip Panthers :: Broncos vs. Panthers (low conf 0.62)
+2026-11-03 14:33:31   drop[verify] AJ Dillon (RB, Carolina Panthers) cleared to play: Out -> Active [NFL] (ESPN) :: AJ Dillon isn’t on the Panthers (and isn’t a star likely to shift the game >5 points)
+2026-11-03 14:33:32 NEWS [ESPN 35m] Jordan van den Berg (DT, Chicago Bears) cleared to play: Out -> Active [NFL]
+2026-11-03 14:33:32   skip Bears :: Buccaneers vs. Bears (low conf 0.4)
+2026-11-03 14:33:33   drop[not-key] Jayden Loving (DT, Chicago Bears) cleared to play: Out -> Active [NFL] (ESPN) :: Jayden Loving: cleared to play after being out
+2026-11-03 14:33:34   drop[not-key] Jordan McFadden (G, Chicago Bears) cleared to play: Out -> Active [NFL] (ESPN) :: Jordan McFadden: cleared from injury and moved to active roster
+2026-11-03 14:33:34   drop[not-key] Case Keenum (QB, Chicago Bears) cleared to play: Out -> Active [NFL] (ESPN) :: Case Keenum: cleared to play after being out
+2026-11-03 14:33:35   drop[not-key] Kaleb Johnson (RB, Green Bay Packers) cleared to play: Out -> Active [NFL] (ESPN) :: Kaleb Johnson: cleared to play
+2026-11-03 14:33:35   drop[no-market] Jonnu Smith (TE, Green Bay Packers) cleared to play: Out -> Active [NFL] (ESPN) :: Green Bay Packers
+2026-11-03 14:33:35   llm groq-120b: rate limited, skip 11s
+2026-11-03 14:33:36   drop[not-key] Donovan Jennings (G, Green Bay Packers) cleared to play: Out -> Active [NFL] (ESPN) :: Donovan Jennings: cleared to play
+2026-11-03 14:33:36   drop[not-key] Beau Stephens (G, Seattle Seahawks) cleared to play: Out -> Active [NFL] (ESPN) :: Beau Stephens: cleared to play
+2026-11-03 14:33:38   drop[no-pick] 🚨🔴⚪️ Brian Brobbey signs a contract extension at Sunderland valid until 2031. (Fabrizio Romano) :: short
+2026-11-03 14:33:39   drop[kind] Tenerife striker De Miguel dies after collision in match reut.rs/4BFvKR7 (Reuters) :: other
+2026-11-03 14:33:39   drop[unconfirmed] Dillard overcomes injury to play DI basketball (The Temple News) :: injury cleared
+2026-11-03 14:33:40   drop[1-source] Jaguars lose DaVon Hamilton to season-ending quadriceps injury (Dailyfly News) :: DaVon Hamilton, wait 2nd source
+2026-11-03 14:33:40   drop[kind] Suspended police officer appears in court charged with rape and sexual assault (Nation.Cymru) :: other
+2026-11-03 14:35:16   drop[unconfirmed] Cardinals Likely to Lose $12M Offensive Starter to Season-Ending Injury (heavy.com) :: offensive starter with $12M contract expected to miss rest of season
