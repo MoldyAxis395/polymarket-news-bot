@@ -25874,3 +25874,28 @@
 2026-11-03 00:54:26   drop[not-key] Beau Stephens (G, Seattle Seahawks) ruled out: Active -> Out [NFL] (ESPN) :: Beau Stephens: injury
 2026-11-03 00:54:27   drop[side] Drew Lock (QB, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: Bears vs. Seahawks -> Seahawks vs fact ruled_out: Drew Lock (Seattle Seahawks, nfl), bad for Seattle Seahawks. injury
 2026-11-03 00:54:29   drop[verify] Uchenna Nwosu (LB, Seattle Seahawks) ruled out: Doubtful -> Out [NFL] (ESPN) :: player not on team
+2026-11-03 00:57:29   drop[not-key] Ravens QB Joe Fagnano Dealing With Ankle Injury; Team Adds Austin Reed To Practice Squad (ProFootballRumors.com) :: Joe Fagnano: ankle injury
+2026-11-03 01:00:30   drop[verify] Jordan van den Berg (DT, Chicago Bears) ruled out: healthy -> Out [NFL] (ESPN) :: cannot confirm Jordan van den Berg is still on the Bears roster; uncertainty fails criteria
+2026-11-03 01:00:30   llm groq-120b: rate limited, skip 286s
+2026-11-03 01:00:31   drop[not-key] Case Keenum (QB, Chicago Bears) ruled out: Active -> Out [NFL] (ESPN) :: Case Keenum: injury
+2026-11-03 01:00:32   drop[side] Jayden Loving (DT, Chicago Bears) ruled out: Active -> Out [NFL] (ESPN) :: Bears vs. Seahawks -> Bears vs fact ruled_out: Jayden Loving (Chicago Bears, nfl), bad for Chicago Bears. injury
+2026-11-03 01:00:33   drop[not-key] Jordan McFadden (G, Chicago Bears) ruled out: Active -> Out [NFL] (ESPN) :: Jordan McFadden: injury
+2026-11-03 01:00:33   drop[not-key] Malik Muhammad II (CB, Chicago Bears) ruled out: Questionable -> Out [NFL] (ESPN) :: Malik Muhammad II: injury
+2026-11-03 01:02:07 indexed 1094 markets
+2026-11-03 01:02:11   book error Jaguars vs. Ravens: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-11-03 01:07:33   llm groq-120b: rate limited, skip 7s
+2026-11-03 01:07:34   drop[kind] Pacers news: Indiana down to 7 players vs. Hawks due to injury (ClutchPoints) :: other
+2026-11-03 01:09:19   drop[1-source] Rockets vs Celtics Injury Report Capela Out as VanVleet Returns (roundtable.io) :: Clint Capela, wait 2nd source
+2026-11-03 01:09:19   drop[kind] Lions Sign 77-Game Veteran Linebacker After Jack Campbell Injury (heavy.com) :: other
+2026-11-03 01:09:51   llm groq-120b: rate limited, skip 1381s
+2026-11-03 01:09:51   drop[no-market] Browns Breathe Sigh of Relief After Myles Garrett’s Newest Injury Brief (heavy.com) :: Cleveland Browns
+2026-11-03 01:12:05 indexed 1087 markets
+2026-11-03 01:15:28   drop[kind] Arizona Cardinals' Mike LaFleur: Jeremiyah Love's injury to 'new portion' of his ankle (TSN) :: other
+2026-11-03 01:17:32   drop[not-key] Cardinals Reveal 'Frustrating' New Jeremiyah Love Injury (Sports Illustrated) :: Jeremiyah Love: injury
+2026-11-03 01:19:14   drop[unconfirmed] Scotty Pippen Jr. (G, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: injury
+2026-11-03 01:19:14   drop[unconfirmed] Quinten Post (C, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: injury
+2026-11-03 01:19:14   drop[unconfirmed] Reese Olson (SP, Detroit Tigers) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: season‑ending shoulder injury
+2026-11-03 01:19:15   drop[not-key] Kerry Carpenter (RF, Detroit Tigers) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Kerry Carpenter: 60‑day IL
+2026-11-03 01:19:51   drop[not-key] Seahawks-Bears inactives: Uchenna Nwosu sidelined with ankle injury (Field Gulls) :: Uchenna Nwosu: ankle injury
+2026-11-03 01:22:04 indexed 1091 markets
+2026-11-03 01:24:37   drop[kind] The Role of Home Care in Preventing Illness and Injury (MedicalResearch.com) :: other
