@@ -26540,3 +26540,26 @@
 2026-11-03 22:09:34   drop[not-key] 🚨 More bad news for Manchester United as Carlos Baleba leaves the pitch due to suspect mus (Fabrizio Romano) :: Carlos Baleba: suspect muscle injury forced him off the field
 2026-11-03 22:15:28 indexed 1169 markets
 2026-11-03 22:17:06   drop[1-source] Warriors' Draymond Green Reportedly Won't Be Suspended by NBA After Fight With Suns' Dillo (Bleacher Report) :: Draymond Green, wait 2nd source
+2026-11-03 22:21:42   drop[1-source] US billionaire moves to acquire sanctioned Russian Lukoil's foreign assets, Reuters says (RBC-Ukraine) :: Lukoil, wait 2nd source
+2026-11-03 22:21:43   drop[kind] Kim Hyun-soo Refuses Medical Checkup After Korean Series Injury (조선일보) :: other
+2026-11-03 22:21:43   drop[1-source] Bad news! Manchester United star suffers injury in Champions League clash (Dailysports) :: Marcus Rashford, wait 2nd source
+2026-11-03 22:25:31 indexed 1171 markets
+2026-11-03 22:26:23   drop[no-pick] Manchester United dealt major injury blow as star limps off in Champions League (Yahoo Sports) :: short
+2026-11-03 22:26:23   llm groq-120b: rate limited, skip 34s
+2026-11-03 22:26:23   drop[1-source] Delhi ACP Suspended After Police HQ Protest Over Shahdara Transfers (urbanacres.in) :: Delhi Police, wait 2nd source
+2026-11-03 22:30:50 bluesky error x1: HTTPSConnectionPool(host='public.api.bsky.app', port=443): Read timed out. (read timeout=15)
+2026-11-03 22:32:55   drop[not-key] Luis Gutierrez (SP, San Diego Padres) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Luis Gutierrez: placed on 60-Day IL, will miss games
+2026-11-03 22:34:57   llm groq-120b: rate limited, skip 56s
+2026-11-03 22:34:58   drop[no-pick] Tyler Loop (PK, Baltimore Ravens) ruled out: Doubtful -> Injured Reserve [NFL] (ESPN) :: no suitable outcome to rise
+2026-11-03 22:35:32 indexed 1181 markets
+2026-11-03 22:35:34   drop[kind] AIG beats profit estimates on premium growth, investment income reut.rs/4iV3FxD (Reuters) :: other
+2026-11-03 22:37:57   drop[team-not-named] Man Utd Spiral Further Into Despair With Fresh Injury to Carlos Baleba (Sports Illustrated) :: Manchester United
+2026-11-03 22:37:59   llm groq-120b: rate limited, skip 267s
+2026-11-03 22:38:00   drop[not-key] Jeremy McNichols (RB, Washington Commanders) ruled out: Doubtful -> Injured Reserve [NFL] (ESPN) :: Jeremy McNichols: mid-foot injury
+2026-11-03 22:40:16   drop[kind] Patriots Activate 6-Foot-7 All-Conference OL Amid Injury Woes (Heavy.com) :: other
+2026-11-03 22:40:16   drop[1-source] The Atlético Madrid clash approaches: the curse of injuries strikes a prominent Barcelona  (Goal.com) :: Pedri, wait 2nd source
+2026-11-03 22:42:42   drop[1-source] Atlético Madrid clash approaches: injury curse strikes Barcelona star against Aston Villa (Goal.com) :: Robert Lewandowski, wait 2nd source
+2026-11-03 22:44:04   llm groq-120b: rate limited, skip 203s
+2026-11-03 22:44:05   drop[no-market] Javon Kinlaw (DT, Washington Commanders) ruled out: Questionable -> Injured Reserve [NFL] (ESPN) :: Washington Commanders
+2026-11-03 22:44:51   drop[kind] Vikings QB Kyler Murray May Miss Time With New Injury (heavy.com) :: None
+2026-11-03 22:45:34 indexed 1181 markets
