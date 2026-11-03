@@ -26388,3 +26388,26 @@
 2026-11-03 17:26:20   drop[1-source] Alex Mitchell ruled out of England’s Nations Championship campaign with fourth hamstring i (Mezha.net) :: Alex Mitchell, wait 2nd source
 2026-11-03 17:33:25   drop[kind] Week 9 Waiver Wire: MUST ADD Players, Injury Replacements & Streamers | FFT Stream of Nati (CBS Sports) :: other
 2026-11-03 17:36:14 indexed 1247 markets
+2026-11-03 17:39:33   drop[team-not-named] Jack Campbell injury casts a dark shadow over the Lions’ win (detroitsportsnation.com) :: Detroit Red Wings
+2026-11-03 17:40:23   llm groq-120b: rate limited, skip 517s
+2026-11-03 17:40:24   drop[no-market] EXCLUSIVE: US billionaire leads swap plan to buy Lukoil's overseas assets, sources say reu (Reuters) :: Lukoil
+2026-11-03 17:45:16   drop[kind] US factory orders beat expectations in September amid broad strength reut.rs/4A8aDVQ (Reuters) :: other
+2026-11-03 17:45:46 NEWS [ESPN 0m] Galatasaray confirmed lineup vs VfB Stuttgart: Gabriel Gomes ruled out of starting XI [uefa.champions]
+2026-11-03 17:45:46   skip Yes :: Will VfB Stuttgart win on 2026-11-03? (low conf 0.6)
+2026-11-03 17:45:47   drop[side] VfB Stuttgart confirmed lineup vs Galatasaray: Dennis Seimen, Luca Jaquez ruled out of sta (ESPN) :: Will VfB Stuttgart win on 2026-11-03? -> Yes vs fact ruled_out: Dennis Seimen (VfB Stuttgart, soccer), bad for VfB Stutt
+2026-11-03 17:45:50 NEWS [ESPN 0m] Sporting CP confirmed lineup vs Shakhtar Donetsk: Kaique, Iván Fresneda, João Simões, Nestory Irankunda ruled out of starting XI [uefa.champions]
+2026-11-03 17:45:50   skip No :: Will Sporting CP win on 2026-11-03? (low conf 0.6)
+2026-11-03 17:46:20 indexed 1246 markets
+2026-11-03 17:53:18   drop[1-source] Duce Robinson tears ACL, will miss rest of FSU football season (FL Times-Union) :: Duce Robinson, wait 2nd source
+2026-11-03 17:55:37   drop[kind] LeBron James Says He Tried to Avoid Injury During Jalen Slawson Chase-Down Block in 76ers- (Bleacher Report) :: other
+2026-11-03 17:56:28 indexed 1242 markets
+2026-11-03 17:57:31   drop[not-key] Jose Butto (RP, San Francisco Giants) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Jose Butto: ruled out and placed on 60‑day IL
+2026-11-03 17:58:14   llm groq-120b: rate limited, skip 245s
+2026-11-03 17:58:14   drop[kind] 2 escape injury when seaplane becomes partially submerged after aborted takeoff on Orchard (The Oakland Press) :: other
+2026-11-03 17:58:31   drop[not-key] Mitchell Parker (RP, Washington Nationals) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Mitchell Parker: elbow injury
+2026-11-03 18:00:24   drop[unconfirmed] Andoni Iraola explains Ryan Gravenberch injury and timeframe (Liverpool FC) :: injury
+2026-11-03 18:00:25   drop[no-market] Newry: Inpatient maternity services at Daisy Hill to be temporarily suspended (BBC) :: Daisy Hill Hospital
+2026-11-03 18:00:35   drop[no-pick] Evgeni Malkin (C, Pittsburgh Penguins) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: no outcome should rise by 5+ points
+2026-11-03 18:05:01   drop[team-not-named] Tight End Mark Bowman Drops Honest Insight Into Injury Return (Sports Illustrated) :: New York Giants
+2026-11-03 18:06:39 indexed 1265 markets
+2026-11-03 18:07:41   drop[1-source] “It’s New”: Cardinals’ Jeremiyah Love Hit With Third Separate Ankle Injury (heavy.com) :: Jeremiah Love, wait 2nd source
