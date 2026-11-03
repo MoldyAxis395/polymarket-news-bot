@@ -26059,3 +26059,49 @@
 2026-11-03 06:11:15 [pengwin] VIKING-SABAH BAKU: no LLM answer (try 1)
 2026-11-03 06:13:16   drop[team-not-named] Jake Davis Injury 'Doesn't Sound Great': What It Means for Illinois if He's Out (Sports Illustrated) :: Indianapolis Colts
 2026-11-03 06:13:17   drop[unconfirmed] Cardinals WR Kendrick Bourne’s 2026 season is over after ankle injury (ClutchPoints) :: season-ending ankle injury
+2026-11-03 06:13:59   drop[not-key] Bryan Hoeing (RP, San Diego Padres) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Bryan Hoeing: injury
+2026-11-03 06:17:02   drop[not-key] Riley Martin (RP, Chicago Cubs) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Riley Martin: left flexor strain leads to 60‑day IL, likely season‑ending
+2026-11-03 06:17:02   llm groq-120b: rate limited, skip 21s
+2026-11-03 06:17:03   drop[not-key] Cade Horton (SP, Chicago Cubs) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Cade Horton: 60‑day IL
+2026-11-03 06:17:03   drop[unconfirmed] Gavin Stone (SP, Los Angeles Dodgers) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: 60-day IL
+2026-11-03 06:17:04   drop[unconfirmed] Ben Casparius (RP, Los Angeles Dodgers) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injured
+2026-11-03 06:17:04   drop[not-key] Jake Cousins (RP, Los Angeles Dodgers) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Jake Cousins: injury
+2026-11-03 06:17:04   drop[unconfirmed] Jacob Melton (LF, Tampa Bay Rays) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: hamstring
+2026-11-03 06:18:57 indexed 1165 markets
+2026-11-03 06:19:46   drop[no-market] King's former horse wins prestigious Melbourne Cup (BBC) :: Point of Law
+2026-11-03 06:22:49   drop[team-not-named] Patrick Kane Injury: Set to miss some time (RotoWire) :: Chicago Blackhawks
+2026-11-03 06:25:18   llm groq-120b: rate limited, skip 18s
+2026-11-03 06:25:19   drop[1-source] Suns news: Phoenix lose guard to concerning injury amid Warriors clash (ClutchPoints) :: Devin Booker, wait 2nd source
+2026-11-03 06:25:22   drop[not-key] Gunnar Hoglund (SP, Athletics) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Gunnar Hoglund: injury
+2026-11-03 06:25:22   drop[no-market] J.T. Ginn (SP, Athletics) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Oakland Athletics
+2026-11-03 06:25:22   drop[unconfirmed] Justin Sterner (RP, Athletics) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: season-ending
+2026-11-03 06:25:23   drop[unconfirmed] Jacob Wilson (SS, Athletics) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: ruled out
+2026-11-03 06:25:23   drop[unconfirmed] Pablo Lopez (SP, Minnesota Twins) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
+2026-11-03 06:25:23   drop[unconfirmed] David Festa (SP, Minnesota Twins) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: season-ending injury
+2026-11-03 06:25:24   drop[unconfirmed] Mick Abel (SP, Minnesota Twins) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
+2026-11-03 06:25:24   drop[unconfirmed] Jack Leiter (SP, Texas Rangers) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
+2026-11-03 06:28:25   llm groq-120b: rate limited, skip 142s
+2026-11-03 06:28:25   drop[no-pick] Johan Rojas (CF, Philadelphia Phillies) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: no relevant market
+2026-11-03 06:28:26   drop[no-pick] Felix Reyes (LF, Philadelphia Phillies) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: short
+2026-11-03 06:28:26   drop[unconfirmed] Brad Keller (RP, Philadelphia Phillies) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: torn UCL
+2026-11-03 06:28:26   drop[not-key] Caleb Kilian (RP, Philadelphia Phillies) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Caleb Kilian: 60-day IL
+2026-11-03 06:28:27   drop[unconfirmed] Endy Rodriguez (C, Pittsburgh Pirates) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: season-ending injury
+2026-11-03 06:28:27   drop[unconfirmed] Mitch Keller (SP, Pittsburgh Pirates) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: injury
+2026-11-03 06:28:28   drop[not-key] Rodolfo Duran (C, San Diego Padres) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Rodolfo Duran: injury
+2026-11-03 06:28:59 indexed 1164 markets
+2026-11-03 06:32:09   drop[kind] Bayern get doubt boost ahead of Atletico Madrid clash (LiveScore) :: other
+2026-11-03 06:32:35   llm groq-120b: rate limited, skip 372s
+2026-11-03 06:32:36   drop[not-key] Kervin Castro (RP, New York Yankees) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Kervin Castro: injury
+2026-11-03 06:32:36   drop[not-key] Ryan Pepiot (SP, Tampa Bay Rays) ruled out: 60-Day-IL -> Out [MLB] (ESPN) :: Ryan Pepiot: 60‑day IL
+2026-11-03 06:34:36   drop[1-source] ADEO Suspended Over PMAY Irregularities In Boudh (Ommcom News) :: ADEO, wait 2nd source
+2026-11-03 06:36:42   drop[kind] US military carries out limited strikes on Iran’s Qeshm Island (Latest news from Azerbaijan) :: other
+2026-11-03 06:36:42   llm groq-20b: rate limited, skip 42s
+2026-11-03 06:39:00 indexed 1153 markets
+2026-11-03 06:39:50 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-03 06:41:21   drop[1-source] Braves pass on qualifying offer for Kim Ha-seong after injury-hit season (Korea JoongAng Daily) :: Kim Ha-seong, wait 2nd source
+2026-11-03 06:41:52   llm groq-120b: rate limited, skip 789s
+2026-11-03 06:41:52   llm groq-20b: rate limited, skip 461s
+2026-11-03 06:41:52 [pengwin] MANCHESTER UNITED-ROMA: no LLM answer (try 2)
+2026-11-03 06:41:54 [pengwin] BODØ/GLIMT-LILLE: no LLM answer (try 2)
+2026-11-03 06:41:57 [pengwin] LASK-SLOVAN BRATISLAVA: no LLM answer (try 2)
+2026-11-03 06:41:59 [pengwin] VIKING-SABAH BAKU: no LLM answer (try 2)
