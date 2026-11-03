@@ -1,31 +1,11 @@
 {
- "updated": "2026-11-03T23:20:06",
+ "updated": "2026-11-03T23:50:21",
  "start": 100.0,
  "cash": 102.79,
- "equity": 112.79,
- "open": [
-  {
-   "market_id": "6021830",
-   "question": "FC Barcelona vs. Aston Villa FC: Both Teams to Score",
-   "slug": "ucl-fcb-ast-2026-11-03-btts",
-   "outcome": "Yes",
-   "token": "81729442082904295370415513733834061892925130437636843534212185851300438884067",
-   "shares": 14.705882352941176,
-   "entry": 0.68,
-   "cost": 10.0,
-   "opened": 1793682658.4491096,
-   "opened_iso": "2026-11-03T05:10:58+00:00",
-   "news": "BARCELLONA-ASTON VILLA: Both Teams to Score @1.45 (esatto)",
-   "reason": "pengwin exact: Base pick is segno gol (BTTS); market 22 is BTTS Yes",
-   "conf": 1.0,
-   "end": "2026-11-03T20:00:00+00:00",
-   "last_bid": null,
-   "book_err": true,
-   "settle_retry": 1793744633.2046773
-  }
- ],
- "closed_count": 64,
- "realized_pnl": 12.79,
+ "equity": 102.79,
+ "open": [],
+ "closed_count": 65,
+ "realized_pnl": 2.79,
  "pages": {
   "pending": 79,
   "picked": 1,

@@ -1,26 +1,6 @@
 {
  "cash": 102.78911200592971,
- "positions": [
-  {
-   "market_id": "6021830",
-   "question": "FC Barcelona vs. Aston Villa FC: Both Teams to Score",
-   "slug": "ucl-fcb-ast-2026-11-03-btts",
-   "outcome": "Yes",
-   "token": "81729442082904295370415513733834061892925130437636843534212185851300438884067",
-   "shares": 14.705882352941176,
-   "entry": 0.68,
-   "cost": 10.0,
-   "opened": 1793682658.4491096,
-   "opened_iso": "2026-11-03T05:10:58+00:00",
-   "news": "BARCELLONA-ASTON VILLA: Both Teams to Score @1.45 (esatto)",
-   "reason": "pengwin exact: Base pick is segno gol (BTTS); market 22 is BTTS Yes",
-   "conf": 1.0,
-   "end": "2026-11-03T20:00:00+00:00",
-   "last_bid": null,
-   "book_err": true,
-   "settle_retry": 1793744633.2046773
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "market_id": "5009005",
@@ -1493,6 +1473,29 @@
    "pnl": 1.3636363636363633,
    "why": "resolved",
    "closed_iso": "2026-11-03T22:20:06+00:00"
+  },
+  {
+   "market_id": "6021830",
+   "question": "FC Barcelona vs. Aston Villa FC: Both Teams to Score",
+   "slug": "ucl-fcb-ast-2026-11-03-btts",
+   "outcome": "Yes",
+   "token": "81729442082904295370415513733834061892925130437636843534212185851300438884067",
+   "shares": 14.705882352941176,
+   "entry": 0.68,
+   "cost": 10.0,
+   "opened": 1793682658.4491096,
+   "opened_iso": "2026-11-03T05:10:58+00:00",
+   "news": "BARCELLONA-ASTON VILLA: Both Teams to Score @1.45 (esatto)",
+   "reason": "pengwin exact: Base pick is segno gol (BTTS); market 22 is BTTS Yes",
+   "conf": 1.0,
+   "end": "2026-11-03T20:00:00+00:00",
+   "last_bid": null,
+   "book_err": true,
+   "settle_retry": 1793745246.950903,
+   "exit": 0.0,
+   "pnl": -10.0,
+   "why": "resolved",
+   "closed_iso": "2026-11-03T22:24:07+00:00"
   }
  ],
  "cooldown": {
@@ -1559,6 +1562,7 @@
   "5909608": 1793581501.019567,
   "5960431": 1793669572.1163938,
   "5981121": 1793749628.8401453,
-  "6022437": 1793755206.3426046
+  "6022437": 1793755206.3426046,
+  "6021830": 1793755447.412515
  }
 }
