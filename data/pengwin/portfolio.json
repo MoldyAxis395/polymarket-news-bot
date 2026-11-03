@@ -1,5 +1,5 @@
 {
- "cash": 77.91196212877983,
+ "cash": 91.42547564229335,
  "positions": [
   {
    "market_id": "6022437",
@@ -16,7 +16,7 @@
    "reason": "pengwin approx: replicates Over 1.5 leg of combo",
    "conf": 1.0,
    "end": "2026-11-03T20:00:00+00:00",
-   "last_bid": 0.87,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -34,25 +34,7 @@
    "reason": "pengwin exact: Base pick is segno gol (BTTS); market 22 is BTTS Yes",
    "conf": 1.0,
    "end": "2026-11-03T20:00:00+00:00",
-   "last_bid": 0.7,
-   "book_err": false
-  },
-  {
-   "market_id": "5981121",
-   "question": "Will FK Shakhtar Donetsk win on 2026-11-03?",
-   "slug": "ucl-shd-spo-2026-11-03-shd",
-   "outcome": "No",
-   "token": "115783785217376486050169143578354257769901930150961530762174656169346851443144",
-   "shares": 13.513513513513514,
-   "entry": 0.74,
-   "cost": 10.0,
-   "opened": 1793682672.8650715,
-   "opened_iso": "2026-11-03T05:11:12+00:00",
-   "news": "SHAKHTAR-SPORTING: X2 (esatto)",
-   "reason": "pengwin exact: replicates X2 as NO on home win",
-   "conf": 1.0,
-   "end": "2026-11-03T17:45:00+00:00",
-   "last_bid": 0.969,
+   "last_bid": 0.56,
    "book_err": false
   }
  ],
@@ -1482,6 +1464,29 @@
    "pnl": 12.222222222222221,
    "why": "resolved",
    "closed_iso": "2026-11-02T22:32:52+00:00"
+  },
+  {
+   "market_id": "5981121",
+   "question": "Will FK Shakhtar Donetsk win on 2026-11-03?",
+   "slug": "ucl-shd-spo-2026-11-03-shd",
+   "outcome": "No",
+   "token": "115783785217376486050169143578354257769901930150961530762174656169346851443144",
+   "shares": 13.513513513513514,
+   "entry": 0.74,
+   "cost": 10.0,
+   "opened": 1793682672.8650715,
+   "opened_iso": "2026-11-03T05:11:12+00:00",
+   "news": "SHAKHTAR-SPORTING: X2 (esatto)",
+   "reason": "pengwin exact: replicates X2 as NO on home win",
+   "conf": 1.0,
+   "end": "2026-11-03T17:45:00+00:00",
+   "last_bid": 0.969,
+   "book_err": true,
+   "settle_retry": 1793739428.3308954,
+   "exit": 1.0,
+   "pnl": 3.513513513513514,
+   "why": "resolved",
+   "closed_iso": "2026-11-03T20:47:08+00:00"
   }
  ],
  "cooldown": {
@@ -1546,6 +1551,7 @@
   "5855754": 1793496771.0259392,
   "5916983": 1793579612.877177,
   "5909608": 1793581501.019567,
-  "5960431": 1793669572.1163938
+  "5960431": 1793669572.1163938,
+  "5981121": 1793749628.8401453
  }
 }

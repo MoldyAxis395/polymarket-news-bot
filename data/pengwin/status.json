@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-03T20:16:47",
+ "updated": "2026-11-03T21:49:09",
  "start": 100.0,
- "cash": 77.91,
- "equity": 111.19,
+ "cash": 91.43,
+ "equity": 111.01,
  "open": [
   {
    "market_id": "6022437",
@@ -19,7 +19,7 @@
    "reason": "pengwin approx: replicates Over 1.5 leg of combo",
    "conf": 1.0,
    "end": "2026-11-03T20:00:00+00:00",
-   "last_bid": 0.87,
+   "last_bid": 0.999,
    "book_err": false
   },
   {
@@ -37,32 +37,14 @@
    "reason": "pengwin exact: Base pick is segno gol (BTTS); market 22 is BTTS Yes",
    "conf": 1.0,
    "end": "2026-11-03T20:00:00+00:00",
-   "last_bid": 0.7,
-   "book_err": false
-  },
-  {
-   "market_id": "5981121",
-   "question": "Will FK Shakhtar Donetsk win on 2026-11-03?",
-   "slug": "ucl-shd-spo-2026-11-03-shd",
-   "outcome": "No",
-   "token": "115783785217376486050169143578354257769901930150961530762174656169346851443144",
-   "shares": 13.513513513513514,
-   "entry": 0.74,
-   "cost": 10.0,
-   "opened": 1793682672.8650715,
-   "opened_iso": "2026-11-03T05:11:12+00:00",
-   "news": "SHAKHTAR-SPORTING: X2 (esatto)",
-   "reason": "pengwin exact: replicates X2 as NO on home win",
-   "conf": 1.0,
-   "end": "2026-11-03T17:45:00+00:00",
-   "last_bid": 0.969,
+   "last_bid": 0.56,
    "book_err": false
   }
  ],
- "closed_count": 62,
- "realized_pnl": 7.91,
+ "closed_count": 63,
+ "realized_pnl": 11.43,
  "pages": {
-  "pending": 75,
+  "pending": 79,
   "picked": 1,
   "traded": 65,
   "skipped": 177,

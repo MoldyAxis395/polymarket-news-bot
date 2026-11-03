@@ -26511,3 +26511,15 @@
 2026-11-03 20:10:36   drop[not-key] Mitch Spence (RP, Kansas City Royals) ruled out: Day-To-Day -> Out [MLB] (ESPN) :: Mitch Spence: day‑to‑day IL
 2026-11-03 20:15:44   drop[verify] Kirby Dach (C, Montreal Canadiens) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Uncertain roster status and impact; Dach may not be a key enough player to shift the market >5 points
 2026-11-03 20:17:30 shift over, state saved
+2026-11-03 21:44:58 === start mode=paper pid=2400 ===
+2026-11-03 21:44:58 brain=llm cash=83.31 open=0
+2026-11-03 21:44:58 resuming with 5825 known news items
+2026-11-03 21:45:23 indexed 1197 markets
+2026-11-03 21:45:39   drop[not-key] Isaac Howard (LW, Edmonton Oilers) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Isaac Howard: injury ruled him out
+2026-11-03 21:45:39   drop[not-key] Cole Sands (RP, Minnesota Twins) ruled out: Day-To-Day -> Out [MLB] (ESPN) :: Cole Sands: season-ending elbow surgery
+2026-11-03 21:45:40   drop[team-not-named] Defending Route du Rhum champion drops out after foil damage reut.rs/3Wk0F5q (Reuters) :: Charles Caudrelier
+2026-11-03 21:45:42   drop[no-pick] Spanish transport minister resigns days after deadly train crash (BBC) :: short
+2026-11-03 21:47:08 [pengwin]   book error Will FK Shakhtar Donetsk win on 2026-11-03?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=115783785217376486050169143578354257769901930150961530762174656169346851443144
+2026-11-03 21:47:08 [pengwin]   SELL No @ 1.000 (resolved) pnl +3.51 :: Will FK Shakhtar Donetsk win on 2026-11-03?
+2026-11-03 21:48:05   drop[kind] A review of Ravens quarterback Lamar Jackson’s chaotic injury history (Capital Gazette) :: other
+2026-11-03 21:48:05   drop[1-source] Woodstock Coaches Suspended After Hobgood Park Fight (Hoodline) :: Woodstock Coaches, wait 2nd source
