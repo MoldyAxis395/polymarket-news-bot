@@ -26354,3 +26354,28 @@
 2026-11-03 16:33:58 indexed 1236 markets
 2026-11-03 16:34:02   drop[kind] Ragging complaints surface at 12 Rajasthan medical colleges; 19 students suspended in Jodh (The New Indian Express) :: other
 2026-11-03 16:34:50 [pengwin] page /calcio/europa-league/statistiche-quote-e-pronostico-2026-52: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-11-03 16:38:39   llm groq-120b: rate limited, skip 156s
+2026-11-03 16:38:40   drop[unconfirmed] Peque sidelined by hamstring injury, Isaac Romero and Kike Salas work separately (OneFootball) :: hamstring injury
+2026-11-03 16:41:15   drop[team-not-named] Julia Stiles Breaks Down After DWTS Disney Night Elimination: The Injury, Rehearsal Clashe (Istituto Impariamo) :: 
+2026-11-03 16:43:15   drop[1-source] Trump wanted to give No Kings no air. Then, Meta suspended its Instagram. (Ars Technica) :: Instagram, wait 2nd source
+2026-11-03 16:43:15   llm groq-120b: rate limited, skip 50s
+2026-11-03 16:43:16   drop[not-key] Bengals Make Roster Move Surrounding Cashius Howell's Wrist Injury (Sports Illustrated) :: Cashius Howell: wrist injury
+2026-11-03 16:44:10 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1900&order=volume24hr&ascending=false&end_date_min=2026-11-03T15%3A43%3A29Z&end_date_max=2026-12-03T15%3A43%3A29Z
+2026-11-03 16:45:00 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1800&order=volume24hr&ascending=false&end_date_min=2026-11-03T15%3A44%3A22Z&end_date_max=2026-12-03T15%3A44%3A22Z
+2026-11-03 16:45:30 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=800&order=volume24hr&ascending=false&end_date_min=2026-11-03T15%3A45%3A12Z&end_date_max=2026-12-03T15%3A45%3A12Z
+2026-11-03 16:46:25 indexed 1241 markets
+2026-11-03 16:46:39   drop[not-key] Cashius Howell (DE, Cincinnati Bengals) ruled out: Questionable -> Injured Reserve [NFL] (ESPN) :: Cashius Howell: placed on injured reserve
+2026-11-03 16:51:22   llm groq-120b: rate limited, skip 102s
+2026-11-03 16:51:24   drop[kind] Cam Skattebo injury: NY Giants’ RB a question mark heading into game vs. Eagles (Big Blue View) :: other
+2026-11-03 16:51:26   drop[not-key] Thunder address injury problems with Dalen Terry signing (TalkBasket.net) :: Dalen Terry: signing to address injury problems
+2026-11-03 16:53:40   drop[kind] Man left with 'serious chest injury' after police shot him (Bristol Live) :: other
+2026-11-03 16:56:09 indexed 1243 markets
+2026-11-03 16:56:24   llm groq-120b: rate limited, skip 29s
+2026-11-03 16:56:24   drop[unconfirmed] Mateo Returns From Ankle Injury, Helps ClearSkiiin Hold Off AFP Comeback (Sports Bytes Philippines) :: player returns
+2026-11-03 16:58:31   drop[1-source] Chelsea's £75m star needs to send Xabi Alonso message after crucial injury blow (Football London) :: Enzo Fernández, wait 2nd source
+2026-11-03 16:58:32   drop[1-source] England star ruled out of Nations Championship (Rugby365) :: Maro Itoje, wait 2nd source
+2026-11-03 17:00:50   llm groq-120b: rate limited, skip 429s
+2026-11-03 17:00:51   drop[kind] Tenerife striker Jesus de Miguel died at the age of 30, a day after suffering a cardiac ar (Reuters) :: other
+2026-11-03 17:03:08   drop[kind] Major Injury Crash in San Jose on Highway 85, Camden Avenue (Johnson Attorney Group) :: other
+2026-11-03 17:05:37   drop[1-source] A defensive heavyweight returns! Arsenal welcome William Saliba back as Arteta gets timely (Goal.com) :: William Saliba, wait 2nd source
+2026-11-03 17:06:12 indexed 1236 markets
