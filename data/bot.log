@@ -26189,3 +26189,18 @@
 2026-11-03 09:39:36 indexed 1125 markets
 2026-11-03 09:42:43   llm groq-120b: rate limited, skip 168s
 2026-11-03 09:42:43   drop[no-pick] 🚨⚒️ BREAKING: Nuno Espirito Santo has been sacked by West Ham. Decision made, @RoshaneSpor (Fabrizio Romano) :: short
+2026-11-03 09:43:47 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-03 09:49:36 indexed 1122 markets
+2026-11-03 09:51:16   drop[1-source] Blow for Sunderland man after injury setback – Player out for ‘at least 3 weeks’ (Sport Witness) :: Sunderland AFC, wait 2nd source
+2026-11-03 09:53:34   drop[kind] Szoboszlai admits listening to his heart over his body after injury setbacks (Nogomania) :: other
+2026-11-03 09:55:24   llm groq-120b: rate limited, skip 10s
+2026-11-03 09:55:25   drop[no-pick] 🚨 OFFICIAL: West Ham confirm Nuno Espirito Santo has been sacked with immediate effect. ⚒️ (Fabrizio Romano) :: short
+2026-11-03 09:58:21   drop[kind] Malaysia's IOI Properties launches $660m share sale of property trust, Money News (AsiaOne.com) :: other
+2026-11-03 09:58:21   llm groq-120b: rate limited, skip 74s
+2026-11-03 09:58:21   drop[not-key] Indiana Freshman Prince-Alexander Moody To Miss 'Extended Period' With Knee Injury (Sports Illustrated) :: Prince-Alexander Moody: knee injury
+2026-11-03 09:59:50 indexed 1132 markets
+2026-11-03 10:05:18   drop[1-source] Tandoori restaurant licence suspended after workers allegedly had no right to work (London Evening Standard) :: Tandoori restaurant (London), wait 2nd source
+2026-11-03 10:09:38 indexed 1147 markets
+2026-11-03 10:09:54   drop[kind] College football analysts dig into possible injury with Indiana quarterback (IndyStar) :: other
+2026-11-03 10:09:54   llm groq-120b: rate limited, skip 72s
+2026-11-03 10:09:55   drop[kind] Tenerife striker De Miguel dies after on-field collision (BBC) :: other
