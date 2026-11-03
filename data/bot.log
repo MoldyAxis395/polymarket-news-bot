@@ -26204,3 +26204,17 @@
 2026-11-03 10:09:54   drop[kind] College football analysts dig into possible injury with Indiana quarterback (IndyStar) :: other
 2026-11-03 10:09:54   llm groq-120b: rate limited, skip 72s
 2026-11-03 10:09:55   drop[kind] Tenerife striker De Miguel dies after on-field collision (BBC) :: other
+2026-11-03 10:14:23 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-03 10:14:31   drop[team-not-named] Sentence In Heinous Offences Can't Be Suspended Merely Because Appeal Is Unlikely To Be He (Live Law) :: Indian judiciary
+2026-11-03 10:15:31   drop[kind] Gulf bourses mixed as Iran-Saudi talks offset fears over US strikes on Iran's Qeshm Island (Reuters) :: other
+2026-11-03 10:19:06   llm groq-120b: rate limited, skip 149s
+2026-11-03 10:19:07   drop[kind] WATCH VIDEO: China’s ‘Floating Highway’ in Hubei Looks Like a Road Suspended Over Emerald  (The Sunday Guardian) :: other
+2026-11-03 10:19:38 indexed 1143 markets
+2026-11-03 10:21:24   drop[1-source] 245 TASMAC Supervisors Suspended for Closing Shops Amid Staff Strike (Deccan Chronicle) :: TASMAC, wait 2nd source
+2026-11-03 10:21:25   drop[1-source] Merkezefendi Mayor Şeniz Doğan has been suspended from duty. (Haberler.com) :: Şeniz Doğan, wait 2nd source
+2026-11-03 10:29:46 indexed 1146 markets
+2026-11-03 10:30:38   drop[kind] Teenager hospitalised after suffering head injury during fall in Peak District (Derbyshire Times) :: other
+2026-11-03 10:30:50   drop[kind] Defence firm KNDS launches suicide drone with startup SeaOwl reut.rs/4egwWQV (Reuters) :: other
+2026-11-03 10:32:58   drop[1-source] Springbok opponents Italy dealt major injury blow ahead of Turin Test (SABC Sport) :: Italy national rugby union team, wait 2nd source
+2026-11-03 10:37:32   drop[1-source] India vs New Zealand: Devon Conway ruled out of 1st ODI with concussion, Tim Seifert set f (DD News) :: Devon Conway, wait 2nd source
+2026-11-03 10:39:45 indexed 1153 markets
