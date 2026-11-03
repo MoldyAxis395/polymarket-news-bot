@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-03T08:10:38",
+ "updated": "2026-11-03T08:41:12",
  "start": 100.0,
  "cash": 77.91,
- "equity": 107.66,
+ "equity": 107.53,
  "open": [
   {
    "market_id": "6022437",
@@ -55,7 +55,7 @@
    "reason": "pengwin exact: replicates X2 as NO on home win",
    "conf": 1.0,
    "end": "2026-11-03T17:45:00+00:00",
-   "last_bid": 0.73,
+   "last_bid": 0.72,
    "book_err": false
   }
  ],
