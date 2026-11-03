@@ -26563,3 +26563,38 @@
 2026-11-03 22:44:05   drop[no-market] Javon Kinlaw (DT, Washington Commanders) ruled out: Questionable -> Injured Reserve [NFL] (ESPN) :: Washington Commanders
 2026-11-03 22:44:51   drop[kind] Vikings QB Kyler Murray May Miss Time With New Injury (heavy.com) :: None
 2026-11-03 22:45:34 indexed 1181 markets
+2026-11-03 22:54:07   drop[kind] Anthony Gill Injury: Iffy for Wednesday (RotoWire) :: other
+2026-11-03 22:54:07   drop[kind] Josh Hart Injury: Iffy for Wednesday (RotoWire) :: other
+2026-11-03 22:54:07   llm groq-120b: rate limited, skip 199s
+2026-11-03 22:54:09   drop[not-key] Bhayshul Tuten Injury: Sits out Tuesday's practice (RotoWire) :: Bhayshul Tuten: injury
+2026-11-03 22:54:10   drop[1-source] Baltimore Ravens sign quarterback away from Green Bay Packers following Lamar Jackson ugly (www.the-sun.com) :: Aaron Rodgers, wait 2nd source
+2026-11-03 22:55:33 indexed 1181 markets
+2026-11-03 22:58:42   drop[1-source] Ravens injury report: 4 starters return to full practice for Week 9 (Ravens Wire) :: Baltimore Ravens, wait 2nd source
+2026-11-03 23:00:38   llm groq-120b: rate limited, skip 139s
+2026-11-03 23:00:38   drop[unconfirmed] Romy Gonzalez (DH, Boston Red Sox) ruled out: Day-To-Day -> Out [MLB] (ESPN) :: injury
+2026-11-03 23:01:24   drop[not-key] Dawgs trade with Quad City; Valerian suspended, called up (Albany Democrat-Herald) :: Valerian: suspension
+2026-11-03 23:01:25   drop[team-not-named] Carson Hocevar Suspended for NASCAR Homestead Finale (Hoodline) :: Kaulig Racing
+2026-11-03 23:03:40   drop[not-key] Richard Fitts (SP, St. Louis Cardinals) ruled out: Day-To-Day -> Out [MLB] (ESPN) :: Richard Fitts: ruled out after right lat surgery
+2026-11-03 23:05:35 indexed 1172 markets
+2026-11-03 23:05:40   llm groq-120b: rate limited, skip 109s
+2026-11-03 23:05:40   drop[1-source] Jockey fined, suspended for Melb Cup act (Herald Sun) :: Melbourne Cup, wait 2nd source
+2026-11-03 23:05:41   drop[1-source] Liverpool News: Reds hit with injury blow (Live4Liverpool.com) :: Jordan Henderson, wait 2nd source
+2026-11-03 23:07:57   drop[team-not-named] Carson Hocevar Suspended After Martinsville Controversy (Yahoo Sports) :: Niece Motorsports
+2026-11-03 23:07:57   llm groq-120b: rate limited, skip 266s
+2026-11-03 23:07:57   drop[not-key] Bills release C.J. Gardner-Johnson just days after being suspended for spitting incident (CBS Sports) :: C.J. Gardner-Johnson: released after suspension
+2026-11-03 23:07:58   drop[team-not-named] Award-winning farm manager suspended as dogs kill two cows valued at US$8k (Herald.co.zw) :: 
+2026-11-03 23:12:51   drop[not-key] Jock Landale (C, Atlanta Hawks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Jock Landale: ruled out with injury
+2026-11-03 23:13:51   llm groq-120b: rate limited, skip 206s
+2026-11-03 23:13:51   drop[not-key] Marcus Bryant (OT, New England Patriots) cleared to play: Injured Reserve -> Active [NFL] (ESPN) :: Marcus Bryant: return
+2026-11-03 23:13:53 [pengwin]   book error FC Barcelona vs. Aston Villa FC: Both Teams to Sco: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=81729442082904295370415513733834061892925130437636843534212185851300438884067
+2026-11-03 23:14:53   drop[unconfirmed] Jaylon Tyson (G, Cleveland Cavaliers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: injury
+2026-11-03 23:14:54   drop[side] Peyton Watson (G, Cleveland Cavaliers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Cavaliers vs. Thunder -> Cavaliers vs fact ruled_out: Peyton Watson (Cleveland Cavaliers, nba), bad for Cleveland Cavali
+2026-11-03 23:15:39 indexed 1172 markets
+2026-11-03 23:15:44   drop[kind] CFTC gets into legal clash over stock perps after having cleared path for crypto version (CoinDesk) :: other
+2026-11-03 23:17:16   drop[kind] AOC’s failed Haley Stevens intervention politi.co/4AbhldQ (Politico) :: other
+2026-11-03 23:17:17   drop[no-pick] Manchester United suffer huge injury blow ahead of Liverpool clash (DaveOCKOP) :: short
+2026-11-03 23:19:41   drop[kind] Commanders Reunite With Former Seahawks RB Amid Jacory Croskey-Merritt Injury (Heavy.com) :: other
+2026-11-03 23:19:41   llm groq-120b: rate limited, skip 290s
+2026-11-03 23:19:41   drop[not-key] Ravens news: Tyler Loop joins Lamar Jackson on injured reserve as injury woes worsen (ClutchPoints) :: Tyler Loop: injury
+2026-11-03 23:20:05 [pengwin]   book error Feyenoord Rotterdam vs. FC Internazionale Milano: : 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=453956262814956376326974322588299520829507539427722025185098173787371936412
+2026-11-03 23:20:05 [pengwin]   SELL Over @ 1.000 (resolved) pnl +1.36 :: Feyenoord Rotterdam vs. FC Internazionale Milano: O/U 1.5
