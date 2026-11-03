@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-03T06:43:01",
+ "updated": "2026-11-03T07:12:45",
  "start": 100.0,
  "cash": 77.91,
- "equity": 107.4,
+ "equity": 107.55,
  "open": [
   {
    "market_id": "6022437",
@@ -37,7 +37,7 @@
    "reason": "pengwin exact: Base pick is segno gol (BTTS); market 22 is BTTS Yes",
    "conf": 1.0,
    "end": "2026-11-03T20:00:00+00:00",
-   "last_bid": 0.67,
+   "last_bid": 0.68,
    "book_err": false
   },
   {

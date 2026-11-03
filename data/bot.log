@@ -26105,3 +26105,27 @@
 2026-11-03 06:41:54 [pengwin] BODØ/GLIMT-LILLE: no LLM answer (try 2)
 2026-11-03 06:41:57 [pengwin] LASK-SLOVAN BRATISLAVA: no LLM answer (try 2)
 2026-11-03 06:41:59 [pengwin] VIKING-SABAH BAKU: no LLM answer (try 2)
+2026-11-03 06:49:15 indexed 1145 markets
+2026-11-03 06:53:22   drop[unconfirmed] Notebook: Jake Davis injury 'doesn't sound great'; Freshmen guards shine vs. FDU (247Sports) :: injury
+2026-11-03 06:53:22   drop[1-source] Day after leading protests over transfers, Delhi Police ACP suspended (National Herald) :: Delhi Police, wait 2nd source
+2026-11-03 06:55:29   drop[no-market] Delhi Police ACP suspended for leading protest against transfer of two officers (Mangalore Today) :: Delhi Police
+2026-11-03 06:57:47   drop[1-source] Blackhawks Star Suffers Injury in Loss to Colorado (Heavy.com) :: Alex DeBrincat, wait 2nd source
+2026-11-03 06:59:17 indexed 1129 markets
+2026-11-03 07:00:09   drop[team-not-named] Devon Conway ruled out of the 1st ODI against India after suffering a concussion (Sports Tiger) :: New Zealand national cricket team
+2026-11-03 07:00:10   drop[kind] Maharashtra FDA Crackdown: Food Worth ₹9 Crore Seized, 19 Licences Suspended; Patanjali Gh (theopenpress.in) :: other
+2026-11-03 07:02:40   drop[1-source] Delhi Police ACP Manasvi Vashishta Suspended After Protest (India News Network) :: Manasvi Vashishta, wait 2nd source
+2026-11-03 07:02:40   llm groq-120b: rate limited, skip 261s
+2026-11-03 07:02:40   drop[1-source] “I didn’t want to leave on a stretcher”: Pratika Rawal opens up on heartbreaking injury du (Sports Tiger) :: Pratika Rawal, wait 2nd source
+2026-11-03 07:04:45   drop[no-market] Delhi Police ACP Manasvi Vashishta Suspended After Leading Officers' Protest Outside Polic (Pragativadi) :: Delhi Police
+2026-11-03 07:07:03   drop[kind] INJURY IMPACT: Kalani Sitake Explains HIGH-STAKES Call for BYU Football on LJ Martin Statu (thv11.com) :: other
+2026-11-03 07:09:23 indexed 1127 markets
+2026-11-03 07:09:28   llm groq-120b: rate limited, skip 185s
+2026-11-03 07:09:28   drop[1-source] New Zealand Star Suffers Freak Injury During Practice, Ruled Out Of 1st ODI vs India (NDTV Sports) :: Kane Williamson, wait 2nd source
+2026-11-03 07:09:29   llm groq-20b: rate limited, skip 64s
+2026-11-03 07:10:33 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-03 07:12:05   llm groq-20b: rate limited, skip 57s
+2026-11-03 07:12:37   llm groq-120b: rate limited, skip 710s
+2026-11-03 07:12:37 [pengwin] MANCHESTER UNITED-ROMA: no LLM answer (try 3)
+2026-11-03 07:12:39 [pengwin] BODØ/GLIMT-LILLE: no LLM answer (try 3)
+2026-11-03 07:12:41 [pengwin] LASK-SLOVAN BRATISLAVA: no LLM answer (try 3)
+2026-11-03 07:12:44 [pengwin] VIKING-SABAH BAKU: no LLM answer (try 3)
