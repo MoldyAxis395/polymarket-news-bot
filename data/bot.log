@@ -26177,3 +26177,15 @@
 2026-11-03 09:09:31 indexed 1116 markets
 2026-11-03 09:09:36   drop[1-source] Delhi High Court asks lawyers to petition formally over suspended ACP (India Today) :: ACP (Assistant Commissioner of Police), wait 2nd source
 2026-11-03 09:13:11 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-03 09:15:19   drop[kind] 'Fuel of the poor' LPG soars in Pakistan, forcing rickshaw drivers to cut meals reut.rs/47 (Reuters) :: other
+2026-11-03 09:19:34 indexed 1115 markets
+2026-11-03 09:27:32   drop[kind] U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran (CNBC) :: other
+2026-11-03 09:29:47 indexed 1117 markets
+2026-11-03 09:32:55   drop[1-source] Petra Diamonds Shares Suspended as Miner Fights for Survival (IDEX Online) :: Petra Diamonds, wait 2nd source
+2026-11-03 09:32:55   drop[team-not-named] McKennie ruled out of AZ trip with adductor fatigue as Alajbegović and Cabal return - (Juvefc.com) :: Juventus Football Club
+2026-11-03 09:35:13   drop[kind] Seeram given 13-month suspended sentence for assaulting ex-wife (Guyana Chronicle) :: other
+2026-11-03 09:36:06 NEWS [Reuters 1m] The Supreme Court quickly rejected a bid by the Trump administration to temporarily block California from counting mail-in ballots from more than 20,000 registered voters who federal officials allege are likely non-US citizens. reut.rs/4BYmCaz
+2026-11-03 09:36:06   skip Yes :: Billionaire one-time wealth tax passes in California election 2026? (low conf 0.6)
+2026-11-03 09:39:36 indexed 1125 markets
+2026-11-03 09:42:43   llm groq-120b: rate limited, skip 168s
+2026-11-03 09:42:43   drop[no-pick] 🚨⚒️ BREAKING: Nuno Espirito Santo has been sacked by West Ham. Decision made, @RoshaneSpor (Fabrizio Romano) :: short
