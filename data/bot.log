@@ -27165,3 +27165,16 @@
 2026-11-04 21:47:49 NEWS [CBS Sports 3m] Agent's Take: What's next between Lamar Jackson, Ravens after yet another injury
 2026-11-04 21:47:49   skip Jaguars :: Jaguars vs. Ravens (low conf 0.6)
 2026-11-04 21:49:55   drop[1-source] Washington Commanders: 29-Year-Old Trade Candidate’s Injury Revealed (Gridiron Heroics) :: Washington Commanders, wait 2nd source
+2026-11-04 21:57:33 indexed 686 markets
+2026-11-04 21:57:34   drop[no-market] David Montgomery (RB, Houston Texans) ruled out: Questionable -> Out [NFL] (ESPN) :: Houston Texans
+2026-11-04 22:01:28   drop[1-source] All-American Toby Fournier Sits Out Duke’s NCAA Opener with Injury (Just Women's Sports) :: Toby Fournier, wait 2nd source
+2026-11-04 22:01:29   drop[1-source] Dallas Cowboys injury tracker ahead of Week 9 vs. Colts includes both first-round rookies, (A to Z Sports) :: Dallas Cowboys, wait 2nd source
+2026-11-04 22:03:46   drop[1-source] Greensburg Central Catholic, Serra Catholic football players suspended ahead of playoff ga (TribLIVE.com) :: Greensburg Central Catholic and Serra Catholic high school football teams, wait 2nd source
+2026-11-04 22:05:42   drop[not-key] Daeqwon Plowden (G, Sacramento Kings) ruled out: healthy -> Out [NBA] (ESPN) :: Daeqwon Plowden: ruled out with injury
+2026-11-04 22:07:16 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=400&order=volume24hr&ascending=false&end_date_min=2026-11-04T21%3A07%3A07Z&end_date_max=2026-12-04T21%3A07%3A07Z
+2026-11-04 22:07:33 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=200&order=volume24hr&ascending=false&end_date_min=2026-11-04T21%3A07%3A28Z&end_date_max=2026-12-04T21%3A07%3A28Z
+2026-11-04 22:08:11 indexed 678 markets
+2026-11-04 22:10:18   drop[kind] Two dead after incident at Citigroup's complex in Florida reut.rs/4sGhTpF (Reuters) :: other
+2026-11-04 22:15:42   drop[1-source] TISG Shares Suspended as Plan Gives Shareholders Nothing (Powerboat News) :: TISG, wait 2nd source
+2026-11-04 22:18:13 indexed 679 markets
+2026-11-04 22:20:05   drop[kind] Injury Prevents Ryu Hae-ran from Claiming LPGA Stroke Average Title (조선일보) :: other

@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T21:51:59",
+ "updated": "2026-11-04T22:21:59",
  "start": 100.0,
  "cash": 62.79,
- "equity": 106.59,
+ "equity": 112.95,
  "open": [
   {
    "market_id": "6053913",
@@ -39,7 +39,7 @@
    "end": "2026-11-04T20:00:00+00:00",
    "last_bid": null,
    "book_err": false,
-   "settle_retry": 1793825827.6268573
+   "settle_retry": 1793827798.7605991
   },
   {
    "market_id": "6054205",
@@ -74,7 +74,7 @@
    "reason": "pengwin exact: Both Teams to Score",
    "conf": 1.0,
    "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.56,
+   "last_bid": 0.999,
    "book_err": false
   }
  ],

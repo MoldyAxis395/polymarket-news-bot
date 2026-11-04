@@ -36,7 +36,7 @@
    "end": "2026-11-04T20:00:00+00:00",
    "last_bid": null,
    "book_err": false,
-   "settle_retry": 1793825827.6268573
+   "settle_retry": 1793827798.7605991
   },
   {
    "market_id": "6054205",
@@ -71,7 +71,7 @@
    "reason": "pengwin exact: Both Teams to Score",
    "conf": 1.0,
    "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.56,
+   "last_bid": 0.999,
    "book_err": false
   }
  ],
