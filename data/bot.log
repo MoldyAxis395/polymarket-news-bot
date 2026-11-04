@@ -27195,3 +27195,24 @@
 2026-11-04 22:40:49   drop[1-source] Lions make multiple linebacker moves after Jack Campbell’s injury (The Big Lead) :: Jack Campbell, wait 2nd source
 2026-11-04 22:48:25 indexed 671 markets
 2026-11-04 22:50:04   drop[team-not-named] Rensch set to miss 3 weeks after latest injury (RomaPress) :: A.S. Roma
+2026-11-04 22:58:26 indexed 674 markets
+2026-11-04 22:59:15   drop[1-source] Wisconsin's Austin Rapp embraces his return to court after knee injury (Milwaukee Journal Sentinel) :: Austin Rapp, wait 2nd source
+2026-11-04 23:03:49   drop[kind] Researchers Receive $4M NIH Grant to Build AI Model To Prevent Kidney Injury (MedCity News) :: other
+2026-11-04 23:05:49   drop[no-market] Jaylen Watson (CB, Los Angeles Rams) ruled out: Questionable -> Out [NFL] (ESPN) :: Los Angeles Rams
+2026-11-04 23:06:07   drop[1-source] Coach Kellen Moore announces return of 2 key Saints players after injury (WWLTV.com) :: Kellen Moore, wait 2nd source
+2026-11-04 23:06:07   llm groq-120b: rate limited, skip 84s
+2026-11-04 23:06:08   drop[no-market] LASK cruise past bottom side Bratislava for back-to-back wins (BBC) :: LASK
+2026-11-04 23:06:08   drop[no-market] Managerless Sporting back on track with win at Shakhtar (BBC) :: Sporting CP
+2026-11-04 23:08:27 indexed 671 markets
+2026-11-04 23:11:03 [pengwin]   book error FC Porto vs. SSC Napoli: FC Porto O/U 0.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=1579175685502576737233858176415777183801350353680855486603383799312787370147
+2026-11-04 23:11:03 [pengwin]   SELL Under @ 0.000 (resolved) pnl -10.00 :: FC Porto vs. SSC Napoli: FC Porto O/U 0.5
+2026-11-04 23:11:37 NEWS [BBC 2m] Arsenal survive late Slavia scare for hard-fought win
+2026-11-04 23:11:37   skip Yes :: Will Arsenal FC win on 2026-11-07? (low conf 0.6)
+2026-11-04 23:12:04 [pengwin]   book error SK Slavia Praha vs. Arsenal FC: Arsenal FC O/U 1.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=78145147227097949637696874814269170671398188204032154850718615669318115510695
+2026-11-04 23:12:04 [pengwin]   SELL Over @ 1.000 (resolved) pnl +3.51 :: SK Slavia Praha vs. Arsenal FC: Arsenal FC O/U 1.5
+2026-11-04 23:15:05 [pengwin]   book error RB Leipzig vs. Manchester City FC: Both Teams to S: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=68678945669249409912221280852300562782819479945897150828017184936596063146753
+2026-11-04 23:17:05 [pengwin]   book error PSV vs. Club Brugge KV: 1st Half O/U 0.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=106400863302283300945468494992576854515942486221259483772097661863216937856180
+2026-11-04 23:17:47   drop[1-source] Syracuse Football Injury Returns Change Season, Bowl Chase (heavy.com) :: Syracuse University Football, wait 2nd source
+2026-11-04 23:18:26 indexed 671 markets
+2026-11-04 23:20:18   llm groq-120b: rate limited, skip 13s
+2026-11-04 23:20:19   drop[1-source] Namangan Soap Factory Suspended Over Environmental Violations (UzDaily.uz) :: Namangan Soap Factory, wait 2nd source

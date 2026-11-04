@@ -1,43 +1,6 @@
 {
- "cash": 62.78911200592971,
+ "cash": 76.30262551944323,
  "positions": [
-  {
-   "market_id": "6053913",
-   "question": "SK Slavia Praha vs. Arsenal FC: Arsenal FC O/U 1.5",
-   "slug": "ucl-slp-ars-2026-11-04-team-total-away-1pt5",
-   "outcome": "Over",
-   "token": "78145147227097949637696874814269170671398188204032154850718615669318115510695",
-   "shares": 13.513513513513514,
-   "entry": 0.74,
-   "cost": 10.0,
-   "opened": 1793751532.5688841,
-   "opened_iso": "2026-11-04T00:18:52+00:00",
-   "news": "SLAVIA PRAGA-ARSENAL: Arsenal O/U 1.5 Over (esatto)",
-   "reason": "pengwin exact: replicates base pick: Arsenal over 1.5 goals",
-   "conf": 1.0,
-   "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false
-  },
-  {
-   "market_id": "6054149",
-   "question": "FC Porto vs. SSC Napoli: FC Porto O/U 0.5",
-   "slug": "ucl-por-nap-2026-11-04-team-total-home-0pt5",
-   "outcome": "Under",
-   "token": "1579175685502576737233858176415777183801350353680855486603383799312787370147",
-   "shares": 52.63157894736842,
-   "entry": 0.19,
-   "cost": 10.0,
-   "opened": 1793751541.7782285,
-   "opened_iso": "2026-11-04T00:19:01+00:00",
-   "news": "PORTO-NAPOLI: UNDER 3.5 CASA (approssimato)",
-   "reason": "pengwin approx: replicates the upper bound of the 1\u20113 home\u2011team goal range",
-   "conf": 1.0,
-   "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1793829654.783484
-  },
   {
    "market_id": "6054205",
    "question": "PSV vs. Club Brugge KV: 1st Half O/U 0.5",
@@ -54,7 +17,8 @@
    "conf": 1.0,
    "end": "2026-11-04T20:00:00+00:00",
    "last_bid": 0.999,
-   "book_err": false
+   "book_err": true,
+   "settle_retry": 1793831225.7260857
   },
   {
    "market_id": "6053962",
@@ -72,7 +36,8 @@
    "conf": 1.0,
    "end": "2026-11-04T20:00:00+00:00",
    "last_bid": 0.999,
-   "book_err": false
+   "book_err": true,
+   "settle_retry": 1793831105.3838246
   }
  ],
  "closed": [
@@ -1570,6 +1535,52 @@
    "pnl": -10.0,
    "why": "resolved",
    "closed_iso": "2026-11-03T22:24:07+00:00"
+  },
+  {
+   "market_id": "6054149",
+   "question": "FC Porto vs. SSC Napoli: FC Porto O/U 0.5",
+   "slug": "ucl-por-nap-2026-11-04-team-total-home-0pt5",
+   "outcome": "Under",
+   "token": "1579175685502576737233858176415777183801350353680855486603383799312787370147",
+   "shares": 52.63157894736842,
+   "entry": 0.19,
+   "cost": 10.0,
+   "opened": 1793751541.7782285,
+   "opened_iso": "2026-11-04T00:19:01+00:00",
+   "news": "PORTO-NAPOLI: UNDER 3.5 CASA (approssimato)",
+   "reason": "pengwin approx: replicates the upper bound of the 1\u20113 home\u2011team goal range",
+   "conf": 1.0,
+   "end": "2026-11-04T20:00:00+00:00",
+   "last_bid": null,
+   "book_err": true,
+   "settle_retry": 1793830863.3149524,
+   "exit": 0.0,
+   "pnl": -10.0,
+   "why": "resolved",
+   "closed_iso": "2026-11-04T22:11:03+00:00"
+  },
+  {
+   "market_id": "6053913",
+   "question": "SK Slavia Praha vs. Arsenal FC: Arsenal FC O/U 1.5",
+   "slug": "ucl-slp-ars-2026-11-04-team-total-away-1pt5",
+   "outcome": "Over",
+   "token": "78145147227097949637696874814269170671398188204032154850718615669318115510695",
+   "shares": 13.513513513513514,
+   "entry": 0.74,
+   "cost": 10.0,
+   "opened": 1793751532.5688841,
+   "opened_iso": "2026-11-04T00:18:52+00:00",
+   "news": "SLAVIA PRAGA-ARSENAL: Arsenal O/U 1.5 Over (esatto)",
+   "reason": "pengwin exact: replicates base pick: Arsenal over 1.5 goals",
+   "conf": 1.0,
+   "end": "2026-11-04T20:00:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1793830924.0690978,
+   "exit": 1.0,
+   "pnl": 3.513513513513514,
+   "why": "resolved",
+   "closed_iso": "2026-11-04T22:12:04+00:00"
   }
  ],
  "cooldown": {
@@ -1637,6 +1648,8 @@
   "5960431": 1793669572.1163938,
   "5981121": 1793749628.8401453,
   "6022437": 1793755206.3426046,
-  "6021830": 1793755447.412515
+  "6021830": 1793755447.412515,
+  "6054149": 1793841063.7550516,
+  "6053913": 1793841124.5357816
  }
 }
