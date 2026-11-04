@@ -26724,3 +26724,21 @@
 2026-11-04 03:32:26 [pengwin] LIPSIA-MANCHESTER CITY: no Polymarket event (try 3)
 2026-11-04 03:32:29 [pengwin] LENS-COMO: no LLM answer (try 3)
 2026-11-04 03:35:09   drop[1-source] Star India player recovers from injury, gets fitness clearance ahead of NZ vs IND 2026 Tes (Sportskeeda) :: India national cricket team, wait 2nd source
+2026-11-04 03:39:17   llm groq-120b: rate limited, skip 267s
+2026-11-04 03:39:17   llm groq-20b: rate limited, skip 10s
+2026-11-04 03:39:17   drop[no-pick] Keisha Lance Bottoms delivered a historic win for Democrats in Georgia, an optimistic sign (Politico) :: None
+2026-11-04 03:40:48 indexed 1059 markets
+2026-11-04 03:49:20   drop[1-source] Man United's comeback comes at a cost as Carlos Baleba suffers hamstring injury (Business Upturn) :: Carlos Baleba, wait 2nd source
+2026-11-04 03:50:50 indexed 1058 markets
+2026-11-04 03:56:04   llm groq-120b: rate limited, skip 16s
+2026-11-04 03:56:06   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-11-04 03:56:06   drop[verify] 🚨 Republican Rep. Thomas H. Kean Jr. lost reelection in New Jersey’s 7th District, defeate (Politico) :: no answer
+2026-11-04 03:56:24   llm groq-120b: rate limited, skip 66s
+2026-11-04 03:56:25   drop[unconfirmed] South Carolina men's basketball coach Lamont Paris provides latest on Marcus Johnson injur (On3) :: injury update
+2026-11-04 04:00:52 indexed 1068 markets
+2026-11-04 04:01:08 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-04 04:01:37 [pengwin] page serie-b/carrarese-arezzo-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-11-04 04:03:09   llm groq-120b: rate limited, skip 540s
+2026-11-04 04:03:11 [pengwin]   BUY Yes @ 0.690 x14.5 ($10.00) :: RB Leipzig vs. Manchester City FC: Both Teams to Score
+2026-11-04 04:03:14   llm groq-20b: rate limited, skip 1178s
+2026-11-04 04:03:14 [pengwin] LENS-COMO: no LLM answer (try 4)

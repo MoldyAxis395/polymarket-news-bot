@@ -3366,12 +3366,15 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/lipsia-manchester-city-statistiche-quote-e-pronostico-2026": {
 "first": 1793751408.2341309,
-"status": "skipped",
+"status": "traded",
 "pick": "Il Manchester City si presenta a Lipsia con ambizione e voglia di conquistare i tre punti. Il ruolino di marcia dei tedeschi tra le mura amiche in questa stagione è stato impressionante: solo vittorie senza gol al passivo. Pertanto, sono convinto che sarà registrata la prima rete subita dal Lipsia in casa, in una gara che mi aspetto con almeno una rete da entrambe le parti: il segno gol quota 1.42. Per chi volesse osare di più, è valida anche la combo X2 + gol.",
 "match": "LIPSIA-MANCHESTER CITY",
 "picked_at": 1793751408.2341309,
 "tries": 3,
-"why": "no Polymarket event"
+"why": "no Polymarket event",
+"market": "RB Leipzig vs. Manchester City FC: Both Teams to Score",
+"outcome": "Yes",
+"map": "exact"
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/slavia-praga-arsenal-statistiche-quote-e-pronostico-2026": {
 "first": 1793751408.2341309,
@@ -3418,12 +3421,12 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/lens-como-statistiche-quote-e-pronostico-2026": {
 "first": 1793751408.2341309,
-"status": "traded",
+"status": "skipped",
 "pick": "Il Como giunge in Francia con grande fiducia, in virtù dei recenti risultati, maturati sia in campionato che in coppa. I lariani potrebbero ottenere un risultato positivo, guadagnando almeno un punto (la vittoria esterna non mi convince del tutto, anche in virtù dell’imminente impegno in Serie A contro l’Inter). Occhio al segno X, che presenta un ritardo statistico: il pareggio manca da tanto e non è da escludere. Attenzione alla chance mix X o gol e ai possibili risultati esatti 1-1/1-2/2-2: il Como ha sempre subito gol in trasferta in questa stagione e mi aspetto che questa statistica possa essere confermata. Come pronostico base mi affido alla doppia chance X2, a moltiplicatore 1.40.",
 "match": "LENS-COMO",
 "picked_at": 1793751408.2341309,
-"tries": 3,
-"llm_fails": 3,
+"tries": 4,
+"llm_fails": 4,
 "why": "no LLM answer"
 }
 }
