@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T05:35:07",
+ "updated": "2026-11-04T06:02:24",
  "start": 100.0,
  "cash": 62.79,
- "equity": 100.27,
+ "equity": 100.42,
  "open": [
   {
    "market_id": "6053913",
@@ -73,7 +73,7 @@
    "reason": "pengwin exact: Both Teams to Score",
    "conf": 1.0,
    "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.67,
+   "last_bid": 0.68,
    "book_err": false
   }
  ],

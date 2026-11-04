@@ -26780,3 +26780,14 @@
 2026-11-04 05:30:52   skip Yes :: Will the Democratic Party candidate win the 2026 Wisconsin gubernatori (low conf 0.6)
 2026-11-04 05:32:01 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=100&order=volume24hr&ascending=false&end_date_min=2026-11-04T04%3A31%3A59Z&end_date_max=2026-12-04T04%3A31%3A59Z
 2026-11-04 05:32:46 indexed 1112 markets
+2026-11-04 05:39:14 NEWS [Politico 0m] 🚨 Democrats have won control of the Senate, pulling off a feat that many in the party once viewed as impossible. The upset is a significant victory for a party that has spent the last two years effectively locked out of power in Washington.
+2026-11-04 05:39:14   skip Yes :: Will the Democratic Party candidate win the 2026 Texas Senate election (low conf 0.6)
+2026-11-04 05:41:16   drop[kind] Jones trying to be ‘best player I can’ for Panthers after foot injury last season (NHL.com) :: other
+2026-11-04 05:42:42 indexed 1108 markets
+2026-11-04 05:52:44 indexed 1108 markets
+2026-11-04 05:52:58   drop[team-not-named] Democrat Hochul wins New York governor race, AP projects (The Straits Times) :: Democratic Party
+2026-11-04 05:59:44   drop[1-source] Trading Of Kanger Shares To Be Suspended From Nov 10 (BusinessToday Malaysia) :: Kanger, wait 2nd source
+2026-11-04 05:59:45   drop[kind] 'It didn't look great': Pompey concerns after being hit by fresh injury blows (Portsmouth News) :: other
+2026-11-04 06:01:14   drop[team-not-named] ⭐️🇳🇱 Hansi Flick: “It's very important that Frenkie de Jong is back. He's at a good level, (Fabrizio Romano) :: FC Barcelona
+2026-11-04 06:02:47 indexed 624 markets
+2026-11-04 06:03:49 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
