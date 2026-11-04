@@ -26736,3 +26736,25 @@
 2026-11-04 02:48:01   skip Yes :: Will the Republican Party win the NC-13 House seat? (low conf 0.6)
 2026-11-04 02:48:10   drop[no-pick] Yvette Drucker defeats criminally charged Mike Caruso in Palm Beach County clerk race (WPEC) :: short
 2026-11-04 02:48:32   drop[no-pick] In Virginia’s 7th District, Democrat Eugene S. Vindman won reelection, defeating a challen (Politico) :: short
+2026-11-04 02:51:09 indexed 1014 markets
+2026-11-04 02:52:56   drop[kind] Natural plant extract reduces cisplatin-induced kidney injury in mice (News-Medical) :: other
+2026-11-04 02:55:05   drop[no-market] Red Wings’ John Gibson leaves game with lower-body injury (Daily Faceoff) :: Detroit Red Wings
+2026-11-04 02:59:30   drop[not-key] Tom Willander (D, Vancouver Canucks) ruled out: healthy -> Out [NHL] (ESPN) :: Tom Willander: ruled out due to injury
+2026-11-04 02:59:40   llm groq-120b: rate limited, skip 99s
+2026-11-04 02:59:40   drop[not-key] Jaguars' Bhayshul Tuten misses second Week 9 practice (Jaguars Wire) :: Bhayshul Tuten: missed practice
+2026-11-04 02:59:40   drop[team-not-named] Devon Conway Ruled Out of First India ODI (Cricketkeeda Sports) :: New Zealand
+2026-11-04 03:01:13 indexed 1006 markets
+2026-11-04 03:02:35   llm groq-120b: rate limited, skip 4s
+2026-11-04 03:02:36   drop[unconfirmed] Brady Christensen (G, Carolina Panthers) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: placed on injured reserve
+2026-11-04 03:04:21   drop[no-market] Canucks' Tom Willander a late scratch vs. Ducks with lower-body injury (Sportsnet.ca) :: Vancouver Canucks
+2026-11-04 03:04:21   llm groq-120b: rate limited, skip 195s
+2026-11-04 03:04:22   drop[kind] Tongue injury victim awaits justice (The Fiji Times) :: other
+2026-11-04 03:08:54   drop[team-not-named] John Gibson Exits Game With Lower-Body Injury (Pro Hockey Rumors) :: Anaheim Ducks
+2026-11-04 03:11:12 indexed 1022 markets
+2026-11-04 03:11:29   drop[team-not-named] Heiskanen suffers upper-body injury vs. Capitals (theScore) :: Dallas Stars
+2026-11-04 03:13:34   llm groq-120b: rate limited, skip 195s
+2026-11-04 03:13:35   drop[no-market] Red Wings’ John Gibson Exits Lightning Game With Injury (www.ginohard.com) :: Detroit Red Wings
+2026-11-04 03:15:56   drop[no-market] Stars' Miro Heiskanen exits vs. Capitals with upper-body injury (Sportsnet.ca) :: Dallas Stars
+2026-11-04 03:20:01   llm groq-120b: rate limited, skip 201s
+2026-11-04 03:20:03 NEWS [Politico 0m] 🚨 Byron Donalds has won the Florida governor’s race, making history as the first Black person to lead the state and extending Republicans’ hold on the adopted home of Trump.
+2026-11-04 03:20:03   skip Yes :: Will the Republican Party candidate win the 2026 Florida gubernatorial (ask 0.024 out of range)
