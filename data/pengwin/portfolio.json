@@ -16,7 +16,7 @@
    "reason": "pengwin exact: replicates base pick: Arsenal over 1.5 goals",
    "conf": 1.0,
    "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.72,
+   "last_bid": 0.71,
    "book_err": false
   },
   {
@@ -52,7 +52,7 @@
    "reason": "pengwin exact: replicates first\u2011half over 0.5 leg of the combo",
    "conf": 1.0,
    "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.81,
+   "last_bid": 0.8,
    "book_err": false
   },
   {

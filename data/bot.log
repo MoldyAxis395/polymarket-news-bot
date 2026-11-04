@@ -26767,3 +26767,16 @@
 2026-11-04 05:02:24 indexed 1103 markets
 2026-11-04 05:02:42 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
 2026-11-04 05:05:02   drop[no-pick] Xavier Becerra wins California governor race politi.co/4izGsQe (Politico) :: short
+2026-11-04 05:07:24   llm groq-120b: rate limited, skip 804s
+2026-11-04 05:07:25   drop[team-not-named] Kd On Lebron - The Impact of KD s Injury The Sportsletter (www.auroradesio.it) :: Brooklyn Nets
+2026-11-04 05:10:56 NEWS [Politico 0m] 🚨 For the first time since 1988, Texas has elected a Democrat to the U.S. Senate. James Talarico prevailed over Ken Paxton in a bruising general election that saw a record infusion of cash to the Lone Star State.
+2026-11-04 05:10:56   skip Yes :: Will the Democratic Party candidate win the 2026 Texas Senate election (low conf 0.6)
+2026-11-04 05:12:24 indexed 1106 markets
+2026-11-04 05:14:32   drop[no-pick] 🚨 Former Sen. Sherrod Brown is returning to the Senate, notching a major victory for Democ (Politico) :: short
+2026-11-04 05:15:47   drop[no-pick] 🚨 Democrat Rob Sand defeated Republican Zach Lahn in Iowa's gubernatorial race, the first  (Politico) :: short
+2026-11-04 05:22:28 indexed 1109 markets
+2026-11-04 05:28:15   drop[no-pick] 🚨 Adam Hamilton just ousted GOP Sen. Roger Marshall in Kansas, becoming the first Democrat (Politico) :: short
+2026-11-04 05:30:52 NEWS [Politico 0m] 🚨Democrat David Crowley defeated Republican Tom Tiffany in the Wisconsin governor's race, making history as the first Black person to be elected to the seat.
+2026-11-04 05:30:52   skip Yes :: Will the Democratic Party candidate win the 2026 Wisconsin gubernatori (low conf 0.6)
+2026-11-04 05:32:01 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=100&order=volume24hr&ascending=false&end_date_min=2026-11-04T04%3A31%3A59Z&end_date_max=2026-12-04T04%3A31%3A59Z
+2026-11-04 05:32:46 indexed 1112 markets
