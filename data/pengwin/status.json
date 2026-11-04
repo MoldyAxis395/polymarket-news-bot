@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T15:27:25",
+ "updated": "2026-11-04T15:57:51",
  "start": 100.0,
  "cash": 62.79,
- "equity": 100.01,
+ "equity": 100.15,
  "open": [
   {
    "market_id": "6053913",
@@ -19,7 +19,7 @@
    "reason": "pengwin exact: replicates base pick: Arsenal over 1.5 goals",
    "conf": 1.0,
    "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.68,
+   "last_bid": 0.69,
    "book_err": false
   },
   {

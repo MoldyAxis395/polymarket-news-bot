@@ -27009,3 +27009,29 @@
 2026-11-04 15:26:31   drop[not-key] Ravens QB Tyler Huntley To Miss Rest Of Season With Turf Toe Injury (ProFootballRumors.com) :: Tyler Huntley: Will miss rest of season with turf toe injury
 2026-11-04 15:26:35   drop[kind] Fake student who dodged £14,500 in council tax given suspended sentence (London Evening Standard) :: other
 2026-11-04 15:27:21 indexed 805 markets
+2026-11-04 15:28:57   llm groq-120b: rate limited, skip 30s
+2026-11-04 15:28:58   drop[1-source] Rodri suffers hamstring injury set to miss Atlético Madrid clash (NotjustOk) :: Rodri, wait 2nd source
+2026-11-04 15:31:25   llm groq-120b: rate limited, skip 53s
+2026-11-04 15:31:25 NEWS [ESPN 0m] Stade Rennais confirmed lineup vs Olympiacos: Nicolas Lemaitre, Abdelhamid Aït Boudlal, Valentin Rongier, Przemyslaw Frankowski ruled out of starting XI [uefa.europa]
+2026-11-04 15:31:25   skip No :: Will Stade Rennais FC 1901 win on 2026-11-05? (low conf 0.6)
+2026-11-04 15:31:26   drop[no-market] Olympiacos confirmed lineup vs Stade Rennais: Lorenzo Pirola, Gelson Martins, Remo Freuler (ESPN) :: Olympiacos
+2026-11-04 15:36:04   drop[kind] Suspended Ogun monarch drags Abiodun, police to court (Daily Trust) :: other
+2026-11-04 15:37:07 indexed 805 markets
+2026-11-04 15:38:11   drop[kind] New Castle Workers’ Compensation Attorney Lawrence M. Kelly Explains What Happens When a C (StreetInsider) :: other
+2026-11-04 15:45:20   llm groq-120b: rate limited, skip 56s
+2026-11-04 15:45:21   drop[unconfirmed] He will miss a series of matches: Rodri's injury is worse than Barcelona revealed (Goal.com) :: injury
+2026-11-04 15:45:24   drop[team-not-named] Cork woman (87) gets fully suspended 18-month sentence over fatal Charleville crash (echo live) :: 
+2026-11-04 15:45:25   drop[kind] "Can't write a $60M annual check": Colin Cowherd compares Lamar Jackson with Kawhi Leonard (Sportskeeda) :: other
+2026-11-04 15:47:07 indexed 803 markets
+2026-11-04 15:47:23   llm groq-120b: rate limited, skip 95s
+2026-11-04 15:47:24   drop[team-not-named] He will miss a series of matches: Rodri's injury worse than Barcelona revealed (Goal.com) :: Real Madrid
+2026-11-04 15:49:42   drop[team-not-named] Injury Ward: Gibson, P. Kane, Heiskanen, Malkin & More (DobberHockey) :: Chicago Blackhawks
+2026-11-04 15:50:47   llm groq-120b: rate limited, skip 33s
+2026-11-04 15:50:48   drop[kind] Three injured in violence at Athens university campus reut.rs/4zaWtmg (Reuters) :: other
+2026-11-04 15:52:00   drop[kind] Woman, 87, gets suspended sentence for dangerous driving causing death (RTE.ie) :: other
+2026-11-04 15:52:00   llm groq-120b: rate limited, skip 496s
+2026-11-04 15:52:00   drop[1-source] LaLiga: Barcelona suffer major injury blow ahead of Atletico Madrid clash (Daily Post Nigeria) :: Pedri González, wait 2nd source
+2026-11-04 15:52:44   drop[kind] 10-year Treasury yield slips after Democrats win House and Senate majorities (CNBC) :: other
+2026-11-04 15:56:52 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=500&order=volume24hr&ascending=false&end_date_min=2026-11-04T14%3A56%3A39Z&end_date_max=2026-12-04T14%3A56%3A39Z
+2026-11-04 15:57:09 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=200&order=volume24hr&ascending=false&end_date_min=2026-11-04T14%3A57%3A04Z&end_date_max=2026-12-04T14%3A57%3A04Z
+2026-11-04 15:57:34 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=500&order=volume24hr&ascending=false&end_date_min=2026-11-04T14%3A57%3A21Z&end_date_max=2026-12-04T14%3A57%3A21Z
