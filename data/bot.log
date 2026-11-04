@@ -26791,3 +26791,14 @@
 2026-11-04 06:01:14   drop[team-not-named] ⭐️🇳🇱 Hansi Flick: “It's very important that Frenkie de Jong is back. He's at a good level, (Fabrizio Romano) :: FC Barcelona
 2026-11-04 06:02:47 indexed 624 markets
 2026-11-04 06:03:49 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-04 06:06:41   drop[1-source] Wrexham star Josh Windass suffers slight injury setback (North Wales Pioneer) :: Josh Windass, wait 2nd source
+2026-11-04 06:12:47 indexed 628 markets
+2026-11-04 06:22:49 indexed 622 markets
+2026-11-04 06:28:36 NEWS [Politico 1m] Iowa Dems’ big wins paper over cracks with red-state voters politi.co/4jSuuUg
+2026-11-04 06:28:36   skip Yes :: Will Democrats win white voters in the midterms? (low conf 0.6)
+2026-11-04 06:30:08   drop[kind] Ohio State leads effort to improve brain injury care for first responders (wowo.com) :: other
+2026-11-04 06:30:12   drop[team-not-named] Schmidt successfully wins reelection in KS-02 politi.co/4sDx4jr (Politico) :: Kansas's 2nd congressional district
+2026-11-04 06:32:51 indexed 630 markets
+2026-11-04 06:34:28   drop[team-not-named] Cuellar successfully wins reelection in TX-28 politi.co/4zqDC7o (Politico) :: Democratic Party
+2026-11-04 06:34:28   llm groq-120b: rate limited, skip 20s
+2026-11-04 06:34:28   drop[1-source] Government eyes cap on minor injury damages to bring down insurance premiums (Irish Independent) :: Irish Government, wait 2nd source
