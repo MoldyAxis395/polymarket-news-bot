@@ -26664,3 +26664,23 @@
 2026-11-04 00:43:22   drop[team-not-named] Carrick issues Man Utd injury latest after Baleba blow (London Evening Standard) :: Manchester United
 2026-11-04 00:43:52   llm groq-120b: rate limited, skip 112s
 2026-11-04 00:43:52   drop[unconfirmed] Kailer Yamamoto (RW, Utah Mammoth) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: day-to-day
+2026-11-04 00:50:50 indexed 1144 markets
+2026-11-04 01:00:52 indexed 1048 markets
+2026-11-04 01:02:03   drop[not-key] Grizzlies Reveal New Injury Diagnosis for Scotty Pippen Jr. Before Pacers Game (roundtable.io) :: Scotty Pippen Jr.: new injury diagnosis suggests he will miss the upcoming game
+2026-11-04 01:02:03   drop[kind] Jim Cramer sees signs of life in tech stocks — but not from the usual winners (CNBC) :: other
+2026-11-04 01:04:02   drop[team-not-named] Minor injury compensation cap sought to reduce premiums (RTE.ie) :: Insurance industry
+2026-11-04 01:04:03   drop[kind] Corporate mafia RCI not ruled out, says Saifuddin (The Star) :: other
+2026-11-04 01:10:52 indexed 1051 markets
+2026-11-04 01:13:15   drop[team-not-named] 3M commits $7.35 bln over 9 years to settle PFAS foam injury claims (Investing.com) :: 3M
+2026-11-04 01:18:40   llm groq-120b: rate limited, skip 303s
+2026-11-04 01:18:41 [pengwin] skip AEK-REAL MADRID [UNDER 4.5]: period mismatch: AEK vs. Real Madrid CF: O/U 4.5
+2026-11-04 01:18:46   llm groq-20b: HTTP 400 / bad answer: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-11-04 01:18:46 [pengwin] FENERBAHCE-LIVERPOOL: no LLM answer (try 1)
+2026-11-04 01:18:49 [pengwin] LIPSIA-MANCHESTER CITY: no Polymarket event (try 1)
+2026-11-04 01:18:52 [pengwin]   BUY Over @ 0.740 x13.5 ($10.00) :: SK Slavia Praha vs. Arsenal FC: Arsenal FC O/U 1.5
+2026-11-04 01:18:55   llm groq-20b: rate limited, skip 3s
+2026-11-04 01:18:55 [pengwin] PSV-CLUB BRUGGE: no LLM answer (try 1)
+2026-11-04 01:18:57 [pengwin] BORUSSIA DORTMUND-BETIS: no LLM answer (try 1)
+2026-11-04 01:19:01 [pengwin]   BUY Under @ 0.190 x52.6 ($10.00) :: FC Porto vs. SSC Napoli: FC Porto O/U 0.5
+2026-11-04 01:19:04   llm groq-20b: rate limited, skip 17s
+2026-11-04 01:19:04 [pengwin] LENS-COMO: no LLM answer (try 1)
