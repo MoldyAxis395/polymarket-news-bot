@@ -16,7 +16,7 @@
    "reason": "pengwin exact: replicates base pick: Arsenal over 1.5 goals",
    "conf": 1.0,
    "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.7,
+   "last_bid": 0.68,
    "book_err": false
   },
   {
@@ -34,7 +34,7 @@
    "reason": "pengwin approx: replicates the upper bound of the 1\u20113 home\u2011team goal range",
    "conf": 1.0,
    "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.15,
+   "last_bid": 0.16,
    "book_err": false
   },
   {
