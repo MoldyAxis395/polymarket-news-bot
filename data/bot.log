@@ -26704,3 +26704,17 @@
 2026-11-04 01:49:14 [pengwin] skip BORUSSIA DORTMUND-BETIS [casa over 4.5 corner]: no corner market
 2026-11-04 01:49:16   llm groq-20b: rate limited, skip 7s
 2026-11-04 01:49:16 [pengwin] LENS-COMO: no LLM answer (try 2)
+2026-11-04 01:50:58 indexed 1023 markets
+2026-11-04 01:54:53   drop[1-source] Chubb Sued by Pharmaceutical Ingredient Firm Over Injury Cases (Bloomberg Law News) :: Chubb, wait 2nd source
+2026-11-04 01:54:54   drop[unconfirmed] 49ers Linebacker Nick Martin and His Return From Injury is a GIANT MYSTERY (WNEP) :: return from injury
+2026-11-04 01:57:27   drop[team-not-named] In Ohio’s 13th District, Democrat Emilia Sykes won reelection, defeating a challenge from  (Politico) :: Democratic Party
+2026-11-04 02:01:03 indexed 1027 markets
+2026-11-04 02:01:54   drop[1-source] NASCAR Driver Carson Hocevar Suspended by Spire Motorsports (Kickin' the Tires) :: Carson Hocevar, wait 2nd source
+2026-11-04 02:11:04 indexed 1001 markets
+2026-11-04 02:11:11   drop[1-source] Baron & Budd and Douglas & London Obtain $7.350 Billion Settlement With 3M Company to Reso (Business Wire) :: 3M Company, wait 2nd source
+2026-11-04 02:13:31   drop[team-not-named] John Gibson Injury: Exits Tuesday's game (RotoWire) :: Anaheim Ducks
+2026-11-04 02:18:03   drop[1-source] West Brom to be without George Campbell for Millwall after muscle injury (OneFootball) :: George Campbell, wait 2nd source
+2026-11-04 02:19:19   llm groq-120b: rate limited, skip 93s
+2026-11-04 02:19:20 [pengwin] skip LIPSIA-MANCHESTER CITY [first goal conceded by Leipzig]: no matching market
+2026-11-04 02:19:24 [pengwin]   BUY No @ 0.710 x14.1 ($10.00) :: Will Racing Club de Lens win on 2026-11-04?
+2026-11-04 02:20:12   drop[team-not-named] In Florida’s 25th District, Democrat Jared Moskowitz won reelection, defeating a challenge (Politico) :: Democratic Party

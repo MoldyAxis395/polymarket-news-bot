@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T01:50:17",
+ "updated": "2026-11-04T02:20:25",
  "start": 100.0,
- "cash": 72.79,
- "equity": 101.22,
+ "cash": 62.79,
+ "equity": 101.08,
  "open": [
   {
    "market_id": "6053913",
@@ -57,15 +57,33 @@
    "end": "2026-11-04T20:00:00+00:00",
    "last_bid": 0.8,
    "book_err": false
+  },
+  {
+   "market_id": "6053608",
+   "question": "Will Racing Club de Lens win on 2026-11-04?",
+   "slug": "ucl-rcl-com-2026-11-04-rcl",
+   "outcome": "No",
+   "token": "63316200314474873902722644938998324945279259791690838698577150092499785043420",
+   "shares": 14.084507042253522,
+   "entry": 0.71,
+   "cost": 10.0,
+   "opened": 1793755164.6414702,
+   "opened_iso": "2026-11-04T01:19:24+00:00",
+   "news": "LENS-COMO: X2 (esatto)",
+   "reason": "pengwin exact: X2 = No on Will Lens win",
+   "conf": 1.0,
+   "end": "2026-11-04T20:00:00+00:00",
+   "last_bid": 0.7,
+   "book_err": false
   }
  ],
  "closed_count": 65,
  "realized_pnl": 2.79,
  "pages": {
-  "pending": 65,
+  "pending": 63,
   "picked": 1,
-  "traded": 68,
-  "skipped": 180,
+  "traded": 69,
+  "skipped": 181,
   "expired": 184
  }
 }
