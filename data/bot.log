@@ -26946,3 +26946,22 @@
 2026-11-04 13:53:36   drop[unconfirmed] Moises Caicedo injury scare but Chelsea get triple boost as stars return to training (Football London) :: injury scare
 2026-11-04 13:53:57 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=100&order=volume24hr&ascending=false&end_date_min=2026-11-04T12%3A53%3A55Z&end_date_max=2026-12-04T12%3A53%3A55Z
 2026-11-04 13:54:53 indexed 777 markets
+2026-11-04 13:58:01   drop[kind] Brighton Marina Collision: Man Charged Over Serious Injury (sussex.news) :: other
+2026-11-04 14:00:21   drop[team-not-named] 3M agrees $7.35 billion settlement for PFAS-related personal injury claims (theinsurer.com) :: 3M
+2026-11-04 14:00:21   drop[1-source] Ravens quarterback out for season after tests reveal extent of injury (thecomeback.com) :: Tyler Huntley, wait 2nd source
+2026-11-04 14:01:13   drop[kind] FTSE 100 climbs 1% on banks, miners boost reut.rs/3V05lNk (Reuters) :: other
+2026-11-04 14:02:38   drop[team-not-named] Sunil Singh Cleared To Return After Collapsed Lung Injury (PWMania) :: New York City FC
+2026-11-04 14:04:25 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=700&order=volume24hr&ascending=false&end_date_min=2026-11-04T13%3A04%3A10Z&end_date_max=2026-12-04T13%3A04%3A10Z
+2026-11-04 14:05:14 indexed 777 markets
+2026-11-04 14:05:30   llm groq-120b: rate limited, skip 87s
+2026-11-04 14:05:31   drop[1-source] Lincoln City Title Winner Ruled Out Of Queens Park Rangers Clash (The Stacey West) :: Jack Marriott, wait 2nd source
+2026-11-04 14:15:14 indexed 777 markets
+2026-11-04 14:16:49   drop[not-key] Report: Ravens QB Tyler Huntley out for season with turf toe injury (NFL.com) :: Tyler Huntley: season-ending turf toe injury
+2026-11-04 14:21:28   drop[team-not-named] Rodri ruled out of Atletico clash with hamstring injury (The Daily Star) :: Manchester City
+2026-11-04 14:21:29   drop[1-source] Celtic handed major injury boost as key star returns to training (The Herald) :: Kyogo Furuhashi, wait 2nd source
+2026-11-04 14:22:13   drop[no-market] Uber beats on revenue even as mobility and delivery units miss estimates (CNBC) :: Uber
+2026-11-04 14:23:56   llm groq-120b: rate limited, skip 188s
+2026-11-04 14:23:59   drop[1-source] NPFL Fines Rivers United ₦15m Over Blocked Live Broadcast Against Rangers (Africa Top Sports) :: Rivers United, wait 2nd source
+2026-11-04 14:25:12 indexed 776 markets
+2026-11-04 14:26:04 NEWS [Business Upturn 3m] Rodri hit with one-month injury blow as Barcelona confirm hamstring problem
+2026-11-04 14:26:04   skip No :: Will FC Barcelona win on 2026-11-08? (low conf 0.6)
