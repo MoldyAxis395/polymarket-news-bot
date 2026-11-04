@@ -26718,3 +26718,21 @@
 2026-11-04 02:19:20 [pengwin] skip LIPSIA-MANCHESTER CITY [first goal conceded by Leipzig]: no matching market
 2026-11-04 02:19:24 [pengwin]   BUY No @ 0.710 x14.1 ($10.00) :: Will Racing Club de Lens win on 2026-11-04?
 2026-11-04 02:20:12   drop[team-not-named] In Florida’s 25th District, Democrat Jared Moskowitz won reelection, defeating a challenge (Politico) :: Democratic Party
+2026-11-04 02:21:06 indexed 993 markets
+2026-11-04 02:22:45   drop[kind] Trump promises $5,000 payments to Americans if Republicans win elections (Latest news from Azerbaijan) :: other
+2026-11-04 02:22:46   drop[kind] Lions try to refocus on football amid concerns over Campbell’s injury (Iron Mountain Daily News) :: other
+2026-11-04 02:22:47   drop[1-source] Red Wings Goaltender John Gibson Exits Lightning Tilt With Lower-Body Injury (The Hockey News) :: John Gibson, wait 2nd source
+2026-11-04 02:25:22   llm groq-120b: rate limited, skip 316s
+2026-11-04 02:25:22   drop[no-pick] 🚨Rep. Chris Pappas defeated former GOP Sen. John E. Sununu for New Hampshire’s open Senate (Politico) :: short
+2026-11-04 02:27:58   drop[no-pick] 🚨Former Democratic Gov. Roy Cooper beat Republican Michael Whatley in North Carolina’s Sen (Politico) :: short
+2026-11-04 02:29:44   drop[kind] Timing of Acute Kidney Injury Affects Outcomes in VA-ECMO Patients (Udaipur Kiran) :: other
+2026-11-04 02:31:08 indexed 1009 markets
+2026-11-04 02:36:39   drop[no-market] John Gibson Exits Red Wings-Lightning Game with Apparent Lower-Body Injury (heavy.com) :: Detroit Red Wings
+2026-11-04 02:41:10 indexed 1012 markets
+2026-11-04 02:41:18   drop[team-not-named] Howard out ‘a couple weeks’ with injury after getting kneed against Islanders (Yardbarker) :: 
+2026-11-04 02:45:51   drop[1-source] Suspended Palm Beach County clerk loses election to Democrat challenger Yvette Drucker (Sun Sentinel) :: Yvette Drucker, wait 2nd source
+2026-11-04 02:48:00   llm groq-120b: rate limited, skip 337s
+2026-11-04 02:48:01 NEWS [Politico 0m] Republican Sydney Gruters just beat Democrat Kelly Kirschner for an open seat.
+2026-11-04 02:48:01   skip Yes :: Will the Republican Party win the NC-13 House seat? (low conf 0.6)
+2026-11-04 02:48:10   drop[no-pick] Yvette Drucker defeats criminally charged Mike Caruso in Palm Beach County clerk race (WPEC) :: short
+2026-11-04 02:48:32   drop[no-pick] In Virginia’s 7th District, Democrat Eugene S. Vindman won reelection, defeating a challen (Politico) :: short
