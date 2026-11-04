@@ -26704,61 +26704,23 @@
 2026-11-04 01:49:14 [pengwin] skip BORUSSIA DORTMUND-BETIS [casa over 4.5 corner]: no corner market
 2026-11-04 01:49:16   llm groq-20b: rate limited, skip 7s
 2026-11-04 01:49:16 [pengwin] LENS-COMO: no LLM answer (try 2)
-2026-11-04 01:50:58 indexed 1023 markets
-2026-11-04 01:54:53   drop[1-source] Chubb Sued by Pharmaceutical Ingredient Firm Over Injury Cases (Bloomberg Law News) :: Chubb, wait 2nd source
-2026-11-04 01:54:54   drop[unconfirmed] 49ers Linebacker Nick Martin and His Return From Injury is a GIANT MYSTERY (WNEP) :: return from injury
-2026-11-04 01:57:27   drop[team-not-named] In Ohio’s 13th District, Democrat Emilia Sykes won reelection, defeating a challenge from  (Politico) :: Democratic Party
-2026-11-04 02:01:03 indexed 1027 markets
-2026-11-04 02:01:54   drop[1-source] NASCAR Driver Carson Hocevar Suspended by Spire Motorsports (Kickin' the Tires) :: Carson Hocevar, wait 2nd source
-2026-11-04 02:11:04 indexed 1001 markets
-2026-11-04 02:11:11   drop[1-source] Baron & Budd and Douglas & London Obtain $7.350 Billion Settlement With 3M Company to Reso (Business Wire) :: 3M Company, wait 2nd source
-2026-11-04 02:13:31   drop[team-not-named] John Gibson Injury: Exits Tuesday's game (RotoWire) :: Anaheim Ducks
-2026-11-04 02:18:03   drop[1-source] West Brom to be without George Campbell for Millwall after muscle injury (OneFootball) :: George Campbell, wait 2nd source
-2026-11-04 02:19:19   llm groq-120b: rate limited, skip 93s
-2026-11-04 02:19:20 [pengwin] skip LIPSIA-MANCHESTER CITY [first goal conceded by Leipzig]: no matching market
-2026-11-04 02:19:24 [pengwin]   BUY No @ 0.710 x14.1 ($10.00) :: Will Racing Club de Lens win on 2026-11-04?
-2026-11-04 02:20:12   drop[team-not-named] In Florida’s 25th District, Democrat Jared Moskowitz won reelection, defeating a challenge (Politico) :: Democratic Party
-2026-11-04 02:21:06 indexed 993 markets
-2026-11-04 02:22:45   drop[kind] Trump promises $5,000 payments to Americans if Republicans win elections (Latest news from Azerbaijan) :: other
-2026-11-04 02:22:46   drop[kind] Lions try to refocus on football amid concerns over Campbell’s injury (Iron Mountain Daily News) :: other
-2026-11-04 02:22:47   drop[1-source] Red Wings Goaltender John Gibson Exits Lightning Tilt With Lower-Body Injury (The Hockey News) :: John Gibson, wait 2nd source
-2026-11-04 02:25:22   llm groq-120b: rate limited, skip 316s
-2026-11-04 02:25:22   drop[no-pick] 🚨Rep. Chris Pappas defeated former GOP Sen. John E. Sununu for New Hampshire’s open Senate (Politico) :: short
-2026-11-04 02:27:58   drop[no-pick] 🚨Former Democratic Gov. Roy Cooper beat Republican Michael Whatley in North Carolina’s Sen (Politico) :: short
-2026-11-04 02:29:44   drop[kind] Timing of Acute Kidney Injury Affects Outcomes in VA-ECMO Patients (Udaipur Kiran) :: other
-2026-11-04 02:31:08 indexed 1009 markets
-2026-11-04 02:36:39   drop[no-market] John Gibson Exits Red Wings-Lightning Game with Apparent Lower-Body Injury (heavy.com) :: Detroit Red Wings
-2026-11-04 02:41:10 indexed 1012 markets
-2026-11-04 02:41:18   drop[team-not-named] Howard out ‘a couple weeks’ with injury after getting kneed against Islanders (Yardbarker) :: 
-2026-11-04 02:45:51   drop[1-source] Suspended Palm Beach County clerk loses election to Democrat challenger Yvette Drucker (Sun Sentinel) :: Yvette Drucker, wait 2nd source
-2026-11-04 02:48:00   llm groq-120b: rate limited, skip 337s
-2026-11-04 02:48:01 NEWS [Politico 0m] Republican Sydney Gruters just beat Democrat Kelly Kirschner for an open seat.
-2026-11-04 02:48:01   skip Yes :: Will the Republican Party win the NC-13 House seat? (low conf 0.6)
-2026-11-04 02:48:10   drop[no-pick] Yvette Drucker defeats criminally charged Mike Caruso in Palm Beach County clerk race (WPEC) :: short
-2026-11-04 02:48:32   drop[no-pick] In Virginia’s 7th District, Democrat Eugene S. Vindman won reelection, defeating a challen (Politico) :: short
-2026-11-04 02:51:09 indexed 1014 markets
-2026-11-04 02:52:56   drop[kind] Natural plant extract reduces cisplatin-induced kidney injury in mice (News-Medical) :: other
-2026-11-04 02:55:05   drop[no-market] Red Wings’ John Gibson leaves game with lower-body injury (Daily Faceoff) :: Detroit Red Wings
-2026-11-04 02:59:30   drop[not-key] Tom Willander (D, Vancouver Canucks) ruled out: healthy -> Out [NHL] (ESPN) :: Tom Willander: ruled out due to injury
-2026-11-04 02:59:40   llm groq-120b: rate limited, skip 99s
-2026-11-04 02:59:40   drop[not-key] Jaguars' Bhayshul Tuten misses second Week 9 practice (Jaguars Wire) :: Bhayshul Tuten: missed practice
-2026-11-04 02:59:40   drop[team-not-named] Devon Conway Ruled Out of First India ODI (Cricketkeeda Sports) :: New Zealand
-2026-11-04 03:01:13 indexed 1006 markets
-2026-11-04 03:02:35   llm groq-120b: rate limited, skip 4s
-2026-11-04 03:02:36   drop[unconfirmed] Brady Christensen (G, Carolina Panthers) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: placed on injured reserve
-2026-11-04 03:04:21   drop[no-market] Canucks' Tom Willander a late scratch vs. Ducks with lower-body injury (Sportsnet.ca) :: Vancouver Canucks
-2026-11-04 03:04:21   llm groq-120b: rate limited, skip 195s
-2026-11-04 03:04:22   drop[kind] Tongue injury victim awaits justice (The Fiji Times) :: other
-2026-11-04 03:08:54   drop[team-not-named] John Gibson Exits Game With Lower-Body Injury (Pro Hockey Rumors) :: Anaheim Ducks
-2026-11-04 03:11:12 indexed 1022 markets
-2026-11-04 03:11:29   drop[team-not-named] Heiskanen suffers upper-body injury vs. Capitals (theScore) :: Dallas Stars
-2026-11-04 03:13:34   llm groq-120b: rate limited, skip 195s
-2026-11-04 03:13:35   drop[no-market] Red Wings’ John Gibson Exits Lightning Game With Injury (www.ginohard.com) :: Detroit Red Wings
-2026-11-04 03:15:56   drop[no-market] Stars' Miro Heiskanen exits vs. Capitals with upper-body injury (Sportsnet.ca) :: Dallas Stars
-2026-11-04 03:20:01   llm groq-120b: rate limited, skip 201s
-2026-11-04 03:20:03 NEWS [Politico 0m] 🚨 Byron Donalds has won the Florida governor’s race, making history as the first Black person to lead the state and extending Republicans’ hold on the adopted home of Trump.
-2026-11-04 03:20:03   skip Yes :: Will the Republican Party candidate win the 2026 Florida gubernatorial (ask 0.024 out of range)
-2026-11-04 03:21:12 indexed 1027 markets
-2026-11-04 03:27:32   drop[team-not-named] 🚨 Former Atlanta Mayor Keisha Lance Bottoms just made history as the first Black woman ele (Politico) :: State of Georgia
-2026-11-04 03:29:55   drop[team-not-named] Derrick Jones Jr. and Rui Hachimura are off the injury … (HoopsHype) :: Chicago Bulls and Washington Wizards
-2026-11-04 03:29:59 shift over, state saved
+2026-11-04 03:30:18 === start mode=paper pid=2729 ===
+2026-11-04 03:30:18 brain=llm cash=83.31 open=0
+2026-11-04 03:30:18 resuming with 5934 known news items
+2026-11-04 03:30:46 indexed 1048 markets
+2026-11-04 03:31:11   llm groq-120b: rate limited, skip 111s
+2026-11-04 03:31:11   drop[unconfirmed] Brady Christensen (G, Carolina Panthers) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: placed on injured reserve
+2026-11-04 03:31:11   drop[not-key] Tom Willander (D, Vancouver Canucks) ruled out: healthy -> Out [NHL] (ESPN) :: Tom Willander: healthy out
+2026-11-04 03:31:12   drop[team-not-named] 🚨 Former Atlanta Mayor Keisha Lance Bottoms just made history as the first Black woman ele (Politico) :: Georgia
+2026-11-04 03:31:13   drop[verify] 🚨 Byron Donalds has won the Florida governor’s race, making history as the first Black per (Politico) :: point1 fails
+2026-11-04 03:31:14   drop[no-pick] In Virginia’s 7th District, Democrat Eugene S. Vindman won reelection, defeating a challen (Politico) :: short
+2026-11-04 03:31:15   llm groq-20b: rate limited, skip 249s
+2026-11-04 03:31:15   drop[verify] Republican Sydney Gruters just beat Democrat Kelly Kirschner for an open seat. (Politico) :: no answer
+2026-11-04 03:31:15 NEWS [Politico 64m] 🚨Former Democratic Gov. Roy Cooper beat Republican Michael Whatley in North Carolina’s Senate race, becoming the first Democrat to win a Senate election in the state in nearly two decades.
+2026-11-04 03:31:15   skip Yes :: Will the Democratic Party candidate win the 2026 North Carolina Senate (rules fallback, LLM down (not traded))
+2026-11-04 03:31:15   skip Yes :: Will the Democratic Party candidate win the 2026 North Carolina Senate (rules fallback, LLM down (not traded))
+2026-11-04 03:31:15   skip Yes :: Will the Democrats win the North Carolina Senate race in 2026? (rules fallback, LLM down (not traded))
+2026-11-04 03:31:30 [pengwin] page mpdoria-virtus-entella-statistiche-quote-e-pronostico-2026-2: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-11-04 03:32:26 [pengwin] LIPSIA-MANCHESTER CITY: no Polymarket event (try 3)
+2026-11-04 03:32:29 [pengwin] LENS-COMO: no LLM answer (try 3)
+2026-11-04 03:35:09   drop[1-source] Star India player recovers from injury, gets fitness clearance ahead of NZ vs IND 2026 Tes (Sportskeeda) :: India national cricket team, wait 2nd source
