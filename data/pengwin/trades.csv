@@ -139,3 +139,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-11-04T03:03:11+00:00,BUY,RB Leipzig vs. Manchester City FC: Both Teams to Score,Yes,14.49,0.6900,10.00,,LIPSIA-MANCHESTER CITY: GG (esatto) | pengwin exact: Both Teams to Score
 2026-11-04T22:11:03+00:00,SELL,FC Porto vs. SSC Napoli: FC Porto O/U 0.5,Under,52.63,0.0000,0.00,-10.00,resolved
 2026-11-04T22:12:04+00:00,SELL,SK Slavia Praha vs. Arsenal FC: Arsenal FC O/U 1.5,Over,13.51,1.0000,13.51,+3.51,resolved
+2026-11-04T22:25:59+00:00,SELL,RB Leipzig vs. Manchester City FC: Both Teams to Score,Yes,14.49,1.0000,14.49,+4.49,resolved
+2026-11-04T22:27:59+00:00,SELL,PSV vs. Club Brugge KV: 1st Half O/U 0.5,Over,12.20,1.0000,12.20,+2.20,resolved

@@ -1,45 +1,6 @@
 {
- "cash": 76.30262551944323,
- "positions": [
-  {
-   "market_id": "6054205",
-   "question": "PSV vs. Club Brugge KV: 1st Half O/U 0.5",
-   "slug": "ucl-psv-bru-2026-11-04-first-half-total-0pt5",
-   "outcome": "Over",
-   "token": "106400863302283300945468494992576854515942486221259483772097661863216937856180",
-   "shares": 12.195121951219512,
-   "entry": 0.82,
-   "cost": 10.0,
-   "opened": 1793753350.4573724,
-   "opened_iso": "2026-11-04T00:49:10+00:00",
-   "news": "PSV-CLUB BRUGGE: 1st Half O/U 0.5 Over (esatto)",
-   "reason": "pengwin exact: replicates first\u2011half over 0.5 leg of the combo",
-   "conf": 1.0,
-   "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1793831225.7260857
-  },
-  {
-   "market_id": "6053962",
-   "question": "RB Leipzig vs. Manchester City FC: Both Teams to Score",
-   "slug": "ucl-rbl-mnc-2026-11-04-btts",
-   "outcome": "Yes",
-   "token": "68678945669249409912221280852300562782819479945897150828017184936596063146753",
-   "shares": 14.492753623188406,
-   "entry": 0.69,
-   "cost": 10.0,
-   "opened": 1793761391.286731,
-   "opened_iso": "2026-11-04T03:03:11+00:00",
-   "news": "LIPSIA-MANCHESTER CITY: GG (esatto)",
-   "reason": "pengwin exact: Both Teams to Score",
-   "conf": 1.0,
-   "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": true,
-   "settle_retry": 1793831105.3838246
-  }
- ],
+ "cash": 102.99050109385115,
+ "positions": [],
  "closed": [
   {
    "market_id": "5009005",
@@ -1581,6 +1542,52 @@
    "pnl": 3.513513513513514,
    "why": "resolved",
    "closed_iso": "2026-11-04T22:12:04+00:00"
+  },
+  {
+   "market_id": "6053962",
+   "question": "RB Leipzig vs. Manchester City FC: Both Teams to Score",
+   "slug": "ucl-rbl-mnc-2026-11-04-btts",
+   "outcome": "Yes",
+   "token": "68678945669249409912221280852300562782819479945897150828017184936596063146753",
+   "shares": 14.492753623188406,
+   "entry": 0.69,
+   "cost": 10.0,
+   "opened": 1793761391.286731,
+   "opened_iso": "2026-11-04T03:03:11+00:00",
+   "news": "LIPSIA-MANCHESTER CITY: GG (esatto)",
+   "reason": "pengwin exact: Both Teams to Score",
+   "conf": 1.0,
+   "end": "2026-11-04T20:00:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1793831758.8993225,
+   "exit": 1.0,
+   "pnl": 4.492753623188406,
+   "why": "resolved",
+   "closed_iso": "2026-11-04T22:25:59+00:00"
+  },
+  {
+   "market_id": "6054205",
+   "question": "PSV vs. Club Brugge KV: 1st Half O/U 0.5",
+   "slug": "ucl-psv-bru-2026-11-04-first-half-total-0pt5",
+   "outcome": "Over",
+   "token": "106400863302283300945468494992576854515942486221259483772097661863216937856180",
+   "shares": 12.195121951219512,
+   "entry": 0.82,
+   "cost": 10.0,
+   "opened": 1793753350.4573724,
+   "opened_iso": "2026-11-04T00:49:10+00:00",
+   "news": "PSV-CLUB BRUGGE: 1st Half O/U 0.5 Over (esatto)",
+   "reason": "pengwin exact: replicates first\u2011half over 0.5 leg of the combo",
+   "conf": 1.0,
+   "end": "2026-11-04T20:00:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1793831879.698193,
+   "exit": 1.0,
+   "pnl": 2.1951219512195124,
+   "why": "resolved",
+   "closed_iso": "2026-11-04T22:28:00+00:00"
   }
  ],
  "cooldown": {
@@ -1650,6 +1657,8 @@
   "6022437": 1793755206.3426046,
   "6021830": 1793755447.412515,
   "6054149": 1793841063.7550516,
-  "6053913": 1793841124.5357816
+  "6053913": 1793841124.5357816,
+  "6053962": 1793841959.472221,
+  "6054205": 1793842080.1091626
  }
 }
