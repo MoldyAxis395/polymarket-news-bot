@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T01:20:05",
+ "updated": "2026-11-04T01:50:17",
  "start": 100.0,
- "cash": 82.79,
- "equity": 101.47,
+ "cash": 72.79,
+ "equity": 101.22,
  "open": [
   {
    "market_id": "6053913",
@@ -39,15 +39,33 @@
    "end": "2026-11-04T20:00:00+00:00",
    "last_bid": 0.17,
    "book_err": false
+  },
+  {
+   "market_id": "6054205",
+   "question": "PSV vs. Club Brugge KV: 1st Half O/U 0.5",
+   "slug": "ucl-psv-bru-2026-11-04-first-half-total-0pt5",
+   "outcome": "Over",
+   "token": "106400863302283300945468494992576854515942486221259483772097661863216937856180",
+   "shares": 12.195121951219512,
+   "entry": 0.82,
+   "cost": 10.0,
+   "opened": 1793753350.4573724,
+   "opened_iso": "2026-11-04T00:49:10+00:00",
+   "news": "PSV-CLUB BRUGGE: 1st Half O/U 0.5 Over (esatto)",
+   "reason": "pengwin exact: replicates first\u2011half over 0.5 leg of the combo",
+   "conf": 1.0,
+   "end": "2026-11-04T20:00:00+00:00",
+   "last_bid": 0.8,
+   "book_err": false
   }
  ],
  "closed_count": 65,
  "realized_pnl": 2.79,
  "pages": {
-  "pending": 68,
+  "pending": 65,
   "picked": 1,
-  "traded": 67,
-  "skipped": 178,
+  "traded": 68,
+  "skipped": 180,
   "expired": 184
  }
 }

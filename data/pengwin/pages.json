@@ -3356,13 +3356,13 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/fenerbahce-liverpool-statistiche-quote-e-pronostico-2026": {
 "first": 1793751408.2341309,
-"status": "pending",
+"status": "skipped",
 "pick": "Il Liverpool è una delle formazioni che conquista il maggior numero di calci d’angoli in questa edizione di Champions League: i Reds ne hanno collezionati praticamente il doppio rispetto ai turchi e mi aspetto che tale statistica possa essere confermata. Come pronostico base mi affido all’esito 2 corner, a quota 1.45. In una possibile bet builder, punterei sul Liverpool che vince, realizza almeno due gol e conquista più corner e sul Fenerbahce che rimedia almeno due cartellini.",
 "match": "FENERBAHCE-LIVERPOOL",
 "picked_at": 1793751408.2341309,
 "tries": 1,
 "llm_fails": 1,
-"why": "no LLM answer"
+"why": "no corner market available"
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/lipsia-manchester-city-statistiche-quote-e-pronostico-2026": {
 "first": 1793751408.2341309,
@@ -3370,7 +3370,7 @@
 "pick": "Il Manchester City si presenta a Lipsia con ambizione e voglia di conquistare i tre punti. Il ruolino di marcia dei tedeschi tra le mura amiche in questa stagione è stato impressionante: solo vittorie senza gol al passivo. Pertanto, sono convinto che sarà registrata la prima rete subita dal Lipsia in casa, in una gara che mi aspetto con almeno una rete da entrambe le parti: il segno gol quota 1.42. Per chi volesse osare di più, è valida anche la combo X2 + gol.",
 "match": "LIPSIA-MANCHESTER CITY",
 "picked_at": 1793751408.2341309,
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/slavia-praga-arsenal-statistiche-quote-e-pronostico-2026": {
@@ -3385,23 +3385,26 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/psv-club-brugge-statistiche-quote-e-pronostico-2026": {
 "first": 1793751408.2341309,
-"status": "pending",
+"status": "traded",
 "pick": "PSV e Club Brugge sono pronti a dare spettacolo, in una gara che si preannuncia ricca di reti ed emozioni. Entrambe le compagini prediligono un atteggiamento offensivo, europeo: mi aspetto un match aperto e con tante occasioni, da una parte e dall’altra. Punto sulla combo over 0.5 primo tempo + over 0.5 secondo tempo, a moltiplicatore 1.35.",
 "match": "PSV-CLUB BRUGGE",
 "picked_at": 1793751408.2341309,
 "tries": 1,
 "llm_fails": 1,
-"why": "no LLM answer"
+"why": "no LLM answer",
+"market": "PSV vs. Club Brugge KV: 1st Half O/U 0.5",
+"outcome": "Over",
+"map": "exact"
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/borussia-dortmund-betis-statistiche-quote-e-pronostico-2026": {
 "first": 1793751408.2341309,
-"status": "pending",
+"status": "skipped",
 "pick": "Mi aspetto una partita equilibrata in Germania, non vedo i gialloneri così favoriti come mostrano le quote. Il Betis ha espresso il proprio valore, soprattutto in campo europeo e ha le carte in regola per mettere in difficoltà il Dortmund (la doppia chance X2, a moltiplicatore superiore al 2.00, è di valore). Sono convinto che i tedeschi spingeranno puntando sulle corsie esterne: il Borussia è la formazione che ha conquistato il maggior numero di calci d’angolo in questa edizione di Champions League e tale dato potrebbe essere confermato anche in questa occasione. Pertanto, punto sull’esito casa over 4.5 corner, a moltiplicatore 1.50.",
 "match": "BORUSSIA DORTMUND-BETIS",
 "picked_at": 1793751408.2341309,
 "tries": 1,
 "llm_fails": 1,
-"why": "no LLM answer"
+"why": "no corner market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/champions-league/porto-napoli-statistiche-quote-e-pronostico-2026": {
 "first": 1793751408.2341309,
@@ -3419,8 +3422,8 @@
 "pick": "Il Como giunge in Francia con grande fiducia, in virtù dei recenti risultati, maturati sia in campionato che in coppa. I lariani potrebbero ottenere un risultato positivo, guadagnando almeno un punto (la vittoria esterna non mi convince del tutto, anche in virtù dell’imminente impegno in Serie A contro l’Inter). Occhio al segno X, che presenta un ritardo statistico: il pareggio manca da tanto e non è da escludere. Attenzione alla chance mix X o gol e ai possibili risultati esatti 1-1/1-2/2-2: il Como ha sempre subito gol in trasferta in questa stagione e mi aspetto che questa statistica possa essere confermata. Come pronostico base mi affido alla doppia chance X2, a moltiplicatore 1.40.",
 "match": "LENS-COMO",
 "picked_at": 1793751408.2341309,
-"tries": 1,
-"llm_fails": 1,
+"tries": 2,
+"llm_fails": 2,
 "why": "no LLM answer"
 }
 }

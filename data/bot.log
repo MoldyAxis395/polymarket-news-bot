@@ -26684,3 +26684,23 @@
 2026-11-04 01:19:01 [pengwin]   BUY Under @ 0.190 x52.6 ($10.00) :: FC Porto vs. SSC Napoli: FC Porto O/U 0.5
 2026-11-04 01:19:04   llm groq-20b: rate limited, skip 17s
 2026-11-04 01:19:04 [pengwin] LENS-COMO: no LLM answer (try 1)
+2026-11-04 01:20:56 indexed 1040 markets
+2026-11-04 01:22:32   drop[team-not-named] 3M commits $7.35 bln over 9 years to settle PFAS foam injury claims By Investing.com (Investing.com India) :: 3M
+2026-11-04 01:24:49   drop[1-source] Jeremiyah Love’s injury puts the Cardinals’ draft gamble into perspective (Raising Zona) :: Jeremiyah Love, wait 2nd source
+2026-11-04 01:27:08   drop[1-source] Pacers News: Indiana Finds Bright Spot Amidst Injury Woes (Last Word On Sports) :: Myles Turner, wait 2nd source
+2026-11-04 01:30:55 indexed 1064 markets
+2026-11-04 01:30:57   drop[team-not-named] 3M to take $5.8 billion hit under PFAS personal injury settlement reut.rs/3X55v6D (Reuters) :: 3M
+2026-11-04 01:34:08   drop[1-source] Suspended Midland County Judge Terry Johnson will officially resign as part of a lawsuit s (newswest9.com) :: Terry Johnson, wait 2nd source
+2026-11-04 01:34:12 NEWS [ESPN 2m] Jonathan Marchessault (RW, Nashville Predators) ruled out: Day-To-Day -> Out [NHL]
+2026-11-04 01:34:12   skip Hurricanes :: Hurricanes vs. Predators (low conf 0.6)
+2026-11-04 01:36:25   llm groq-120b: rate limited, skip 106s
+2026-11-04 01:36:26   drop[kind] Suspended Sanskrit University Students Move Supreme Court After Kerala High Court Denies I (Live Law) :: other
+2026-11-04 01:40:56 indexed 1049 markets
+2026-11-04 01:41:02   drop[kind] Minor-injury crash reported on southbound SR 347 (InMaricopa.com) :: other
+2026-11-04 01:49:02   llm groq-120b: rate limited, skip 419s
+2026-11-04 01:49:03 [pengwin] skip FENERBAHCE-LIVERPOOL [2 corners]: no corner market available
+2026-11-04 01:49:06 [pengwin] LIPSIA-MANCHESTER CITY: no Polymarket event (try 2)
+2026-11-04 01:49:10 [pengwin]   BUY Over @ 0.820 x12.2 ($10.00) :: PSV vs. Club Brugge KV: 1st Half O/U 0.5
+2026-11-04 01:49:14 [pengwin] skip BORUSSIA DORTMUND-BETIS [casa over 4.5 corner]: no corner market
+2026-11-04 01:49:16   llm groq-20b: rate limited, skip 7s
+2026-11-04 01:49:16 [pengwin] LENS-COMO: no LLM answer (try 2)
