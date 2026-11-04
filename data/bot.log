@@ -27080,3 +27080,8 @@
 2026-11-04 16:47:04   llm groq-120b: rate limited, skip 176s
 2026-11-04 16:47:08   drop[verify] Barcelona midfielder Rodri has minor hamstring injury and misses Sunday's trip to Atletico (The Washington Post) :: headline refers to a different match and Rodri’s current status is uncertain
 2026-11-04 16:56:33 indexed 792 markets
+2026-11-04 17:03:31   drop[kind] Barcelona Confirm Huge Injury Blow for Early Title Test Against Atletico Madrid (Sports Illustrated) :: other
+2026-11-04 17:03:31   drop[team-not-named] Barça: Rodri ruled out for clash against Atlético Madrid (Bénin Web TV) :: FC Barcelona
+2026-11-04 17:05:59   drop[kind] OnSport AI raises $2M pre-seed round to launch injury risk product (Sports Business Journal) :: other
+2026-11-04 17:06:33 indexed 784 markets
+2026-11-04 17:07:38 shift over, state saved
