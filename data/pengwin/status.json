@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T07:33:50",
+ "updated": "2026-11-04T08:04:10",
  "start": 100.0,
  "cash": 62.79,
- "equity": 99.48,
+ "equity": 100.01,
  "open": [
   {
    "market_id": "6053913",
@@ -37,7 +37,7 @@
    "reason": "pengwin approx: replicates the upper bound of the 1\u20113 home\u2011team goal range",
    "conf": 1.0,
    "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.15,
+   "last_bid": 0.16,
    "book_err": false
   },
   {
