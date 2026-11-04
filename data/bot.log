@@ -27085,3 +27085,39 @@
 2026-11-04 17:05:59   drop[kind] OnSport AI raises $2M pre-seed round to launch injury risk product (Sports Business Journal) :: other
 2026-11-04 17:06:33 indexed 784 markets
 2026-11-04 17:07:38 shift over, state saved
+2026-11-04 20:16:59 === start mode=paper pid=2434 ===
+2026-11-04 20:16:59 brain=llm cash=83.31 open=0
+2026-11-04 20:16:59 resuming with 5961 known news items
+2026-11-04 20:17:25 indexed 759 markets
+2026-11-04 20:17:43 NEWS [ESPN 16m] Sam Darnold (QB, Seattle Seahawks) ruled out: Active -> Out [NFL]
+2026-11-04 20:17:43   skip Cardinals :: Cardinals vs. Seahawks (low conf 0.6)
+2026-11-04 20:17:45 NEWS [ESPN 0m] Jayson Tatum (F, Boston Celtics) ruled out: Day-To-Day -> Out [NBA]
+2026-11-04 20:17:45   skip Bucks :: Bucks vs. Celtics (ask 0.18 out of range)
+2026-11-04 20:17:46 NEWS [ESPN 42m] Clint Capela (C, Houston Rockets) ruled out: Day-To-Day -> Out [NBA]
+2026-11-04 20:17:46   skip Timberwolves :: Timberwolves vs. Rockets (low conf 0.6)
+2026-11-04 20:17:47   drop[not-key] Terrence Shannon Jr. (G, Minnesota Timberwolves) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Terrence Shannon Jr.: ruled out for upcoming game
+2026-11-04 20:17:49   drop[verify] Josh Hart (G, New York Knicks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: player status uncertain and impact likely insufficient
+2026-11-04 20:17:51   drop[verify] Tyler Kleven (D, Ottawa Senators) ruled out: healthy -> Out [NHL] (ESPN) :: Kleven may not be a star to shift 5+ points and his current team status is uncertain
+2026-11-04 20:17:52   llm groq-120b: rate limited, skip 1s
+2026-11-04 20:17:52   drop[not-key] Borussia Dortmund confirmed lineup vs Real Betis: Kouakou Gadou, Maximilian Beier, Carney  (ESPN) :: Kouakou Gadou: ruled out
+2026-11-04 20:17:54 NEWS [ESPN 0m] Real Betis confirmed lineup vs Borussia Dortmund: Héctor Bellerín, Isco, Fran García, Pablo Fornals, Marc Bartra, Rodrigo Riquelme, Marc Roca ruled out of starting XI [uefa.champions]
+2026-11-04 20:17:54   skip No :: Will Real Betis Balompié win on 2026-11-04? (low conf 0.6)
+2026-11-04 20:17:54   llm groq-120b: rate limited, skip 7s
+2026-11-04 20:17:55   drop[side] FC Porto confirmed lineup vs Napoli: Zaidu Sanusi, Oskar Pietuszewski, Samu Aghehowa ruled (ESPN) :: Will FC Porto win on 2026-11-04? -> Yes vs fact ruled_out: Zaidu Sanusi (FC Porto, soccer), bad for FC Porto. ruled out
+2026-11-04 20:17:58   drop[side] Napoli confirmed lineup vs FC Porto: Benoît Badiashile, Mathías Olivera, Giovanni Di Loren (ESPN) :: Will SSC Napoli win on 2026-11-04? -> Yes vs fact ruled_out: Noa Lang (Napoli, soccer), bad for Napoli. injury
+2026-11-04 20:17:59 NEWS [ESPN 1m] Lens confirmed lineup vs Como: Jean-Clair Todibo, Saud Abdulhamid, Florian Sotoca ruled out of starting XI [uefa.champions]
+2026-11-04 20:17:59   skip Yes :: Will Como 1907 win on 2026-11-04? (low conf 0.6)
+2026-11-04 20:18:02   drop[team-not-named] Como confirmed lineup vs Lens: Kaiki, Samuele Ricci, Martin Baturina ruled out of starting (ESPN) :: AS Roma
+2026-11-04 20:18:03   drop[not-key] PSV Eindhoven confirmed lineup vs Club Brugge: Yarek Gasiorowski, Esmir Bajraktarevic rule (ESPN) :: Yarek Gasiorowski: ruled out of starting XI
+2026-11-04 20:18:03   llm groq-120b: rate limited, skip 4s
+2026-11-04 20:18:04   drop[side] Club Brugge confirmed lineup vs PSV Eindhoven: Felix Lemarechal ruled out of starting XI [ (ESPN) :: Will Club Brugge KV win on 2026-11-04? -> Yes vs fact ruled_out: Felix Lemarechal (Club Brugge, soccer), bad for Club Br
+2026-11-04 20:18:04   llm groq-20b: rate limited, skip 3s
+2026-11-04 20:18:04   drop[no-pick] RB Leipzig confirmed lineup vs Manchester City: Benjamin Henrichs, Rocco Reitz ruled out o (ESPN) :: None
+2026-11-04 20:18:04 NEWS [Ian Rapoport 9m] Seahawks QB Sam Darnold is going to be out Sunday vs. the Cardinals due to a quad injury, coach Mike Macdonald told reporters.
+2026-11-04 20:18:04   skip Cardinals :: Cardinals vs. Seahawks (rules fallback, LLM down (not traded))
+2026-11-04 20:18:04 NEWS [Fabrizio Romano 33m] 🚨🇦🇷 Cristian Romero will miss Atlético Madrid game against Barcelona this weekend. The centre back won’t recover in time; Cuti is out also for Argentina, @marca reports. ❌
+2026-11-04 20:18:04   skip Yes :: Will Club Atlético de Madrid win on 2026-11-08? (rules fallback, LLM down (not traded))
+2026-11-04 20:18:04   skip Yes :: Club Atlético de Madrid vs. FC Barcelona: Both Teams to Score (rules fallback, LLM down (not traded))
+2026-11-04 20:18:04   skip Yes :: Will FC Barcelona win on 2026-11-08? (rules fallback, LLM down (not traded))
+2026-11-04 20:18:04 NEWS [Yahoo Sports 5m] Sam Darnold ruled out for Week 9 game vs. Cardinals due to quad injury
+2026-11-04 20:18:04   skip Cardinals :: Cardinals vs. Seahawks (rules fallback, LLM down (not traded))

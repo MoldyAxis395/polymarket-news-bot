@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T17:06:41",
+ "updated": "2026-11-04T20:21:48",
  "start": 100.0,
  "cash": 62.79,
- "equity": 100.15,
+ "equity": 100.81,
  "open": [
   {
    "market_id": "6053913",
@@ -19,7 +19,7 @@
    "reason": "pengwin exact: replicates base pick: Arsenal over 1.5 goals",
    "conf": 1.0,
    "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.69,
+   "last_bid": 0.64,
    "book_err": false
   },
   {
@@ -37,7 +37,7 @@
    "reason": "pengwin approx: replicates the upper bound of the 1\u20113 home\u2011team goal range",
    "conf": 1.0,
    "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.16,
+   "last_bid": 0.18,
    "book_err": false
   },
   {
@@ -73,7 +73,7 @@
    "reason": "pengwin exact: Both Teams to Score",
    "conf": 1.0,
    "end": "2026-11-04T20:00:00+00:00",
-   "last_bid": 0.68,
+   "last_bid": 0.7,
    "book_err": false
   }
  ],
