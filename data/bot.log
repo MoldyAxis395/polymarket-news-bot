@@ -26749,3 +26749,21 @@
 2026-11-04 04:26:24   drop[kind] Early Postoperative Neurological Changes After Surgical Treatment of Traumatic Spinal Inju (Cureus) :: other
 2026-11-04 04:31:00 indexed 1109 markets
 2026-11-04 04:31:58 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-04 04:37:13   drop[team-not-named] Anthony Zurcher: Democrats surge deep into Republican territory with historic wins (BBC) :: Democratic Party
+2026-11-04 04:37:59   drop[team-not-named] Jason Robertson Registers Hat-Trick in 6-5 Win over Caps but Miro Heiskanen INJURY Raises  (cbs19.tv) :: Dallas Stars
+2026-11-04 04:40:45 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=500&order=volume24hr&ascending=false&end_date_min=2026-11-04T03%3A40%3A33Z&end_date_max=2026-12-04T03%3A40%3A33Z
+2026-11-04 04:41:24 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1200&order=volume24hr&ascending=false&end_date_min=2026-11-04T03%3A40%3A57Z&end_date_max=2026-12-04T03%3A40%3A57Z
+2026-11-04 04:41:39 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=100&order=volume24hr&ascending=false&end_date_min=2026-11-04T03%3A41%3A36Z&end_date_max=2026-12-04T03%3A41%3A36Z
+2026-11-04 04:42:28 indexed 1115 markets
+2026-11-04 04:42:41   drop[1-source] Bayern overcome injury setbacks to beat Atletico 2-0 (IANS LIVE) :: Bayern Munich, wait 2nd source
+2026-11-04 04:47:22   drop[no-pick] Jon Ossoff re-elected to Senate in Georgia, defeating Mike Collins - video (The Guardian) :: short
+2026-11-04 04:52:20 indexed 1116 markets
+2026-11-04 04:52:36 NEWS [Politico 0m] 🚨 Democrat Amy Acton defeated Republican Vivek Ramaswamy in the race for Ohio governor, a major victory for her party, which hasn't won the top seat since 2006.
+2026-11-04 04:52:36   skip Yes :: Will the Democratic Party win the VA-05 House seat? (low conf 0.6)
+2026-11-04 04:55:00   drop[kind] 3 Top Safety Trade Targets For Injury-Ravaged Jaguars (roundtable.io) :: other
+2026-11-04 04:55:01   drop[kind] Under-the-Radar QB Trade Target Is Worth Vikings' Attention Amid Kyler Murray Injury Uncer (Sports Illustrated) :: other
+2026-11-04 04:56:44   llm groq-120b: rate limited, skip 157s
+2026-11-04 04:56:45   drop[not-key] 🚨⚠️ Carlos Baleba’s injury “does not look great”, says Michael Carrick. “It's his hamstrin (Fabrizio Romano) :: Carlos Baleba: hamstring injury
+2026-11-04 05:02:24 indexed 1103 markets
+2026-11-04 05:02:42 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-04 05:05:02   drop[no-pick] Xavier Becerra wins California governor race politi.co/4izGsQe (Politico) :: short
