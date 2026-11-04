@@ -27244,3 +27244,26 @@
 2026-11-04 23:48:31 indexed 650 markets
 2026-11-04 23:49:04   drop[not-key] Kentavius Street (DT, Chicago Bears) ruled out: Questionable -> Injured Reserve [NFL] (ESPN) :: Kentavius Street: placed on injured reserve
 2026-11-04 23:50:07   drop[kind] Injury Care Solutions Group: Expert Services for Attorneys (EIN News) :: other
+2026-11-04 23:52:25   llm groq-120b: rate limited, skip 255s
+2026-11-04 23:52:27   drop[kind] Detroit Red Wings call up G Michal Postava after John Gibson's injury (Detroit Free Press) :: other
+2026-11-04 23:52:27   drop[unconfirmed] Rams CB Jaylen Watson is out for season after shoulder surgery. Myles Garrett returns to p (The Edwardsville Intelligencer) :: shoulder surgery
+2026-11-04 23:52:28   drop[no-market] Packers’ Christian Watson limited at practice with rib injury after TNF hospital trip (ClutchPoints) :: Green Bay Packers
+2026-11-04 23:54:44   drop[kind] Injury Report: WR Pat Bryant listed as full participant, 4 Broncos do not practice ahead o (Denver Broncos) :: other
+2026-11-04 23:54:45   drop[kind] 49ers Injury Statuses to Watch Coming Off Bye Week Stream of National Football League (CBS Sports) :: other
+2026-11-04 23:54:45   drop[kind] Major Injury Crash on Highway 36 in Coppervale, Lassen County (Johnson Attorney Group) :: other
+2026-11-04 23:54:46   drop[unconfirmed] Jets RB Breece Hall trending toward Week 9 return vs. Chiefs after nagging quad injury (ClutchPoints) :: return
+2026-11-04 23:57:10   drop[kind] 44-year-old Corpus Christi woman charged with injury to a child, CCPD says (kiiitv.com) :: other
+2026-11-04 23:58:32 indexed 646 markets
+2026-11-05 00:03:38   llm groq-120b: rate limited, skip 136s
+2026-11-05 00:03:39 NEWS [ESPN 2m] Jalen Johnson (F, Atlanta Hawks) ruled out: Day-To-Day -> Out [NBA]
+2026-11-05 00:03:39   skip Wizards :: Hawks vs. Wizards (low conf 0.6)
+2026-11-05 00:08:34 indexed 650 markets
+2026-11-05 00:08:45   drop[not-key] Brennan Othmann (LW, Calgary Flames) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Brennan Othmann: ruled out with injury
+2026-11-05 00:15:45   drop[team-not-named] 3M settles ‘forever chemical’ personal injury claims for $7B (The Hill) :: 3M
+2026-11-05 00:16:54   llm groq-120b: rate limited, skip 51s
+2026-11-05 00:16:54   drop[side] Trey Murphy III (F, New Orleans Pelicans) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Jazz vs. Pelicans -> Pelicans vs fact ruled_out: Trey Murphy III (New Orleans Pelicans, nba), bad for New Orleans Pelica
+2026-11-05 00:17:49   llm groq-120b: rate limited, skip 146s
+2026-11-05 00:17:50   drop[kind] Derrick Barnes Reveals Emotional Lions Locker Room Moment After Jack Campbell Injury (Detroit Sports Nation) :: other
+2026-11-05 00:18:34 indexed 653 markets
+2026-11-05 00:21:00   llm groq-120b: rate limited, skip 205s
+2026-11-05 00:21:01   drop[verify] Jaylin Williams (F, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: player not star
