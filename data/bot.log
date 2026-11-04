@@ -27267,3 +27267,19 @@
 2026-11-05 00:18:34 indexed 653 markets
 2026-11-05 00:21:00   llm groq-120b: rate limited, skip 205s
 2026-11-05 00:21:01   drop[verify] Jaylin Williams (F, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: player not star
+2026-11-05 00:22:31   drop[not-key] Staley's Nashville Restaurant Permit Suspended Over Roaches (Hoodline) :: Staley: roaches
+2026-11-05 00:24:57   llm groq-120b: rate limited, skip 50s
+2026-11-05 00:24:57   drop[1-source] Abuse Of Power: Three Judges Suspended By NJC (PM Parrot) :: NJC, wait 2nd source
+2026-11-05 00:25:33   drop[kind] Paraguay bank crisis spurs lawmakers' calls to impeach president reut.rs/4inggcX (Reuters) :: other
+2026-11-05 00:28:35 indexed 661 markets
+2026-11-05 00:29:27   drop[kind] Mikel Arteta is using NASA to help fix Arsenal's injury woes with Google and Apple helping (Sky Sports) :: other
+2026-11-05 00:31:46   drop[1-source] Bayern lose Saibari and Gnabry to injury (French Football Weekly) :: Jamal Gnabry, wait 2nd source
+2026-11-05 00:36:21   drop[unconfirmed] Rams May Be Better Equipped to Overcome Jaylen Watson Injury Than Expected (Sports Illustrated) :: Watson is injured and will miss upcoming games
+2026-11-05 00:38:35 indexed 648 markets
+2026-11-05 00:40:57   llm groq-120b: rate limited, skip 124s
+2026-11-05 00:40:58   drop[team-not-named] Shoulder injury dents Ahmed’s Bok learning experience | The Star - newspaper (Magzter) :: Arkansas Razorbacks
+2026-11-05 00:43:27   drop[kind] Ravens add Brissett amid Jackson injury (NBC Sports) :: other
+2026-11-05 00:45:36   drop[kind] Campbell issues first statement since neck injury (NBC Sports) :: other
+2026-11-05 00:45:36   llm groq-120b: rate limited, skip 307s
+2026-11-05 00:45:37   drop[team-not-named] 3M’s $7.35B AFFF Firefighting Foam Injury Settlement (openclassactions.com) :: 3M
+2026-11-05 00:48:37 indexed 651 markets
