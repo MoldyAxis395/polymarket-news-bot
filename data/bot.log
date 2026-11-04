@@ -26989,3 +26989,23 @@
 2026-11-04 14:55:17 indexed 777 markets
 2026-11-04 14:56:06   drop[kind] Tennessee Musician Gains Perfect Pitch After Brain Injury (Hoodline) :: other
 2026-11-04 14:56:07   drop[kind] Rangers injury latest as key duo target Hampden return and two near comeback (Glasgow Times) :: other
+2026-11-04 15:00:58   llm groq-120b: rate limited, skip 59s
+2026-11-04 15:00:59   drop[not-key] Reports: Tyler Huntley’s Toe Injury Is Season Ending (Baltimore Ravens) :: Tyler Huntley: season-ending toe injury
+2026-11-04 15:03:01   llm groq-120b: rate limited, skip 128s
+2026-11-04 15:03:01   drop[unconfirmed] Rodri to miss one month with right hamstring tear after Aston Villa injury (OneFootball) :: hamstring tear
+2026-11-04 15:05:18 indexed 779 markets
+2026-11-04 15:05:23   drop[1-source] Detroit Red Wings Suffer Another Major Injury Blow (detroitsportsnation.com) :: Detroit Red Wings, wait 2nd source
+2026-11-04 15:05:34   drop[not-key] Tyler Huntley (QB, Baltimore Ravens) ruled out: Doubtful -> Out [NFL] (ESPN) :: Tyler Huntley: thumb injury likely leads to missing upcoming game
+2026-11-04 15:07:40   llm groq-120b: rate limited, skip 371s
+2026-11-04 15:07:41   drop[kind] Jaguars Urged to Pursue Falcons All-Pro After Devastating Injury Blow (heavy.com) :: other
+2026-11-04 15:07:42   drop[team-not-named] Strictly star to miss episode over injury: ‘I’m absolutely devastated’ (The Independent) :: 
+2026-11-04 15:15:06 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=700&order=volume24hr&ascending=false&end_date_min=2026-11-04T14%3A14%3A50Z&end_date_max=2026-12-04T14%3A14%3A50Z
+2026-11-04 15:15:31 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=500&order=volume24hr&ascending=false&end_date_min=2026-11-04T14%3A15%3A18Z&end_date_max=2026-12-04T14%3A15%3A18Z
+2026-11-04 15:15:53 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=400&order=volume24hr&ascending=false&end_date_min=2026-11-04T14%3A15%3A43Z&end_date_max=2026-12-04T14%3A15%3A43Z
+2026-11-04 15:16:07 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=100&order=volume24hr&ascending=false&end_date_min=2026-11-04T14%3A16%3A05Z&end_date_max=2026-12-04T14%3A16%3A05Z
+2026-11-04 15:16:48 indexed 772 markets
+2026-11-04 15:19:26   drop[kind] In HelloNation, Personal Injury Attorney Steve Caya Addresses Civil Claims After Drunk Dri (PR Newswire) :: other
+2026-11-04 15:24:02   drop[1-source] The preliminary investigation releases Franco Saba, the suspended mayor of Ottana. (L'Unione Sarda.it) :: Franco Saba, wait 2nd source
+2026-11-04 15:26:31   drop[not-key] Ravens QB Tyler Huntley To Miss Rest Of Season With Turf Toe Injury (ProFootballRumors.com) :: Tyler Huntley: Will miss rest of season with turf toe injury
+2026-11-04 15:26:35   drop[kind] Fake student who dodged £14,500 in council tax given suspended sentence (London Evening Standard) :: other
+2026-11-04 15:27:21 indexed 805 markets
