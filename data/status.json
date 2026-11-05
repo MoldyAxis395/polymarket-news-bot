@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-05T13:21:57",
+ "updated": "2026-11-05T13:51:58",
  "mode": "paper",
  "brain": "llm",
  "llm_calls_today": 168,
- "markets_indexed": 801,
- "news_processed": 135,
+ "markets_indexed": 797,
+ "news_processed": 151,
  "cash": 83.31,
  "equity": 83.31,
  "start": 100.0,
@@ -18,7 +18,7 @@
   "fallbacks": 0,
   "errors": {},
   "rejects": {
-   "fluff": 34,
+   "fluff": 39,
    "no-market": 3,
    "unconfirmed": 1,
    "kind": 15,
