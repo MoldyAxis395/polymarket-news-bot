@@ -34,7 +34,7 @@
    "reason": "llm[groq-120b] trusted: Gibson's injury hurts Detroit, decreasing their win probability and boosting the Golden Knights odds",
    "conf": 0.72,
    "end": "2026-11-06T00:00:00+00:00",
-   "last_bid": 0.56,
+   "last_bid": 0.57,
    "book_err": false
   }
  ],
