@@ -27291,3 +27291,15 @@
 2026-11-05 01:11:20   drop[kind] Miami Hurricanes star WR dealing with injury (Altoona Mirror) :: other
 2026-11-05 01:15:39   drop[team-not-named] Kd 9 Youth - The Impact of KD s Injury The Sportsletter (auroradesio.it) :: Phoenix Suns
 2026-11-05 01:18:43 indexed 649 markets
+2026-11-05 01:22:37   drop[1-source] Bears Make Two Roster Moves After Losing Another Player to Injured Reserve (Sports Illustrated) :: Chicago Bears, wait 2nd source
+2026-11-05 01:22:56   llm groq-120b: rate limited, skip 12s
+2026-11-05 01:22:56   drop[not-key] Kam Jones (G, Milwaukee Bucks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Kam Jones: injury
+2026-11-05 01:27:16   drop[1-source] Barcelona confirms Rodri hamstring injury (beIN SPORTS) :: Rodri, wait 2nd source
+2026-11-05 01:28:44 indexed 649 markets
+2026-11-05 01:34:12   drop[team-not-named] Amon-Ra St. Brown says Jack Campbell’s neck injury put football in perspective (Mezha.net) :: Detroit Lions
+2026-11-05 01:34:12   drop[kind] Rams Defense Dealt Crushing Blow Amid Defensive Injury Plague (LA Sports Report) :: other
+2026-11-05 01:38:44 indexed 646 markets
+2026-11-05 01:47:42   drop[verify] Kelly Oubre Jr. (G, Indiana Pacers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: uncertain if Oubre still on Pacers and he isn’t a star enough to shift the game >5 points
+2026-11-05 01:48:46 indexed 644 markets
+2026-11-05 01:49:47   llm groq-120b: rate limited, skip 191s
+2026-11-05 01:49:48   drop[not-key] Darrell Baker Jr. (CB, Miami Dolphins) ruled out: healthy -> Out [NFL] (ESPN) :: Darrell Baker Jr.: injury

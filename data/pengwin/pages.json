@@ -3428,5 +3428,9 @@
 "tries": 4,
 "llm_fails": 4,
 "why": "no LLM answer"
+},
+"https://www.mondopengwin.it/pronostici/calcio/europa-league/statistiche-quote-e-pronostico-2026-63": {
+"first": 1793838140.9097762,
+"status": "pending"
 }
 }
