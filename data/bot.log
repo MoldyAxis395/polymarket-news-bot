@@ -27318,3 +27318,23 @@
 2026-11-05 02:16:02 indexed 648 markets
 2026-11-05 02:16:19   drop[verify] Jordan Goodwin (G, Phoenix Suns) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Jordan Goodwin is not a Phoenix Suns player
 2026-11-05 02:18:43   drop[kind] Injury Report: Michigan Football Lists John Henry Daley, Dom Nichols as 'Questionable' vs. (Sports Illustrated) :: other
+2026-11-05 02:21:00   llm groq-120b: rate limited, skip 76s
+2026-11-05 02:21:02   drop[kind] MSU injury report: Alessio Milivojevic questionable vs Michigan (Detroit Free Press) :: other
+2026-11-05 02:21:03   drop[not-key] Ohio State Injury Report: Jay Timmons Cleared to Play, Ian Moore and Brandon Inniss Questi (Eleven Warriors) :: Jay Timmons: cleared
+2026-11-05 02:23:19   drop[not-key] Jalen Smith Injury: Headed to locker room (RotoWire) :: Jalen Smith: sustained injury and headed to locker room
+2026-11-05 02:25:10   llm groq-120b: rate limited, skip 52s
+2026-11-05 02:25:11   drop[not-key] Curtis Douglas (C, Seattle Kraken) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: Curtis Douglas: injury
+2026-11-05 02:26:19 indexed 643 markets
+2026-11-05 02:30:14   drop[kind] 5 Texas Starters Questionable on Initial Injury Report vs. Missouri (Sports Illustrated) :: other
+2026-11-05 02:30:14   llm groq-120b: rate limited, skip 113s
+2026-11-05 02:30:15   drop[1-source] Duke Gets Major Injury Break Ahead of Miami Showdown Next Week (roundtable.io) :: Jalen Carter, wait 2nd source
+2026-11-05 02:34:57   drop[kind] Georgia SEC Availability Report | Six players questionable for Ole Miss (Online Athens) :: other
+2026-11-05 02:36:18 indexed 653 markets
+2026-11-05 02:37:08   drop[not-key] Texas injury report: Simmons, Littleton, Phillips, Coleman, Wingo all questionable; Smothe (247Sports) :: Jalen Smothers: out vs Missouri
+2026-11-05 02:37:08   llm groq-120b: rate limited, skip 300s
+2026-11-05 02:37:09   drop[1-source] Malachi Toney injury: Miami star to miss Notre Dame game after ankle surgery (SB Nation) :: Malachi Toney, wait 2nd source
+2026-11-05 02:39:27   drop[not-key] Jalen Smith Injury: Won't return Wednesday (RotoWire) :: Jalen Smith: injury
+2026-11-05 02:41:44   drop[no-pick] Miami star receiver Malachi Toney out indefinitely with ankle injury (College Sports Wire) :: no outcome should rise
+2026-11-05 02:44:11   drop[team-not-named] Malachi Toney injury ends Heisman Trophy chances, expected back for CFP (The Big Lead) :: Texas Longhorns
+2026-11-05 02:46:18 indexed 651 markets
+2026-11-05 02:46:50 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
