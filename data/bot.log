@@ -27303,3 +27303,12 @@
 2026-11-05 01:48:46 indexed 644 markets
 2026-11-05 01:49:47   llm groq-120b: rate limited, skip 191s
 2026-11-05 01:49:48   drop[not-key] Darrell Baker Jr. (CB, Miami Dolphins) ruled out: healthy -> Out [NFL] (ESPN) :: Darrell Baker Jr.: injury
+2026-11-05 01:57:27   drop[kind] Pacers get good news on Ivica Zubac injury; Braden Smith gets second start (IndyStar) :: other
+2026-11-05 01:58:47 indexed 651 markets
+2026-11-05 01:58:59   llm groq-120b: rate limited, skip 9s
+2026-11-05 01:59:00   drop[not-key] Ridly Greig (C, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Ridly Greig: day-to-day
+2026-11-05 02:00:01   drop[not-key] Gui Santos (F, Golden State Warriors) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Gui Santos: out for Thursday game
+2026-11-05 02:01:57   llm groq-120b: rate limited, skip 25s
+2026-11-05 02:01:59   drop[team-not-named] Christian McCaffrey says "I feel great" after hamstring injury, but he didn't practice on  (NBC Sports) :: San Francisco 49ers
+2026-11-05 02:02:00   drop[1-source] Miami (FL) star Malachi Toney needs surgery for ankle injury, CFP return possible (ClutchPoints) :: Malachi Toney, wait 2nd source
+2026-11-05 02:02:02 shift over, state saved
