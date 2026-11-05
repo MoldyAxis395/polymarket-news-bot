@@ -27715,3 +27715,15 @@
 2026-11-06 00:00:30   drop[team-not-named] Chuck Schumer just won a huge majority. He’s already thinking about making it bigger. poli (Politico) :: Democratic Party
 2026-11-06 00:01:10   drop[kind] Audi may boost size of new US auto plant by $3 billion, add 3,000 jobs reut.rs/4AfFxf8 (Reuters) :: other
 2026-11-06 00:01:24 [pengwin] page alcio/ligue-1/psg-troyes-statistiche-quote-e-pronostico-2026: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-11-06 00:05:13   drop[not-key] Matthew Poitras (C, Boston Bruins) ruled out: Day-To-Day -> Out [NHL] (ESPN) :: Matthew Poitras: ruled out due to injury
+2026-11-06 00:06:15   drop[verify] Isaiah Stewart (C, Memphis Grizzlies) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Isaiah Stewart likely not impactful enough to shift market >5 points
+2026-11-06 00:07:24 indexed 678 markets
+2026-11-06 00:12:05   drop[kind] Human Umbilical Cord Stem Cells Repair Chronic Liver Injury in Rats by Reshaping Metabolis (Bioengineer.org) :: other
+2026-11-06 00:13:34   drop[not-key] Kam Jones (G, Milwaukee Bucks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Kam Jones: injury
+2026-11-06 00:14:25   drop[team-not-named] Malachi Toney’s Injury Completely Changes the 2026 Heisman Market (sports.betmgm.com) :: Ohio State Buckeyes
+2026-11-06 00:17:15 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=700&order=volume24hr&ascending=false&end_date_min=2026-11-05T23%3A17%3A01Z&end_date_max=2026-12-05T23%3A17%3A01Z
+2026-11-06 00:18:05 indexed 684 markets
+2026-11-06 00:25:52   drop[not-key] Dolphins Injury Report Week 9: Jaylen Wright Upgraded Ahead of Lions Matchup (roundtable.io) :: Jaylen Wright: injury status upgraded, expected to play
+2026-11-06 00:26:25   drop[not-key] Jaylin Williams (F, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Jaylin Williams: lower back spasms
+2026-11-06 00:27:52 indexed 672 markets
+2026-11-06 00:28:18   drop[kind] Video Jaguars face injury-ravaged Ravens in Thursday Night Football matchup - ABC News (ABC News - Breaking News, Latest News and Videos) :: other
