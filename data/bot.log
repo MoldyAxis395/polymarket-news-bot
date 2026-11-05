@@ -27408,3 +27408,12 @@
 2026-11-05 05:16:41 indexed 654 markets
 2026-11-05 05:16:46   drop[unconfirmed] Suns news: Devin Booker exits Blazers game with concerning injury (ClutchPoints) :: Booker left the game due to a concerning injury, indicating he will miss at least that contest
 2026-11-05 05:19:01 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-05 05:21:02   drop[no-market] Vit Krejci (G, Portland Trail Blazers) ruled out: healthy -> Out [NBA] (ESPN) :: Portland Trail Blazers
+2026-11-05 05:21:34   llm groq-120b: rate limited, skip 141s
+2026-11-05 05:21:34   drop[unconfirmed] Hornets fall to Nets 114-104 as Kon Knueppel reaggravates leg injury (Rookie Wire) :: loss
+2026-11-05 05:23:40   drop[kind] Round Two Suspended Due to Darkness (West Virginia University Athletics) :: other
+2026-11-05 05:26:42 indexed 655 markets
+2026-11-05 05:30:54   drop[kind] Indian benchmarks open near three-month highs as oil slides after US Democratic win reut.r (Reuters) :: other
+2026-11-05 05:36:43 indexed 672 markets
+2026-11-05 05:46:42 indexed 675 markets
+2026-11-05 05:49:12 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
