@@ -27338,3 +27338,31 @@
 2026-11-05 02:44:11   drop[team-not-named] Malachi Toney injury ends Heisman Trophy chances, expected back for CFP (The Big Lead) :: Texas Longhorns
 2026-11-05 02:46:18 indexed 651 markets
 2026-11-05 02:46:50 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-05 02:53:30   drop[not-key] Jalen Smith won’t return with left hand injury, (HoopsHype) :: Jalen Smith: left hand injury prevents his return
+2026-11-05 02:55:39   drop[kind] Alabama offensive line faces injury questions ahead of LSU matchup (WBMA) :: other
+2026-11-05 02:55:39   llm groq-120b: rate limited, skip 85s
+2026-11-05 02:55:39   drop[not-key] NC State vs. Duke injury report: Duke Scott, Preston Douglas, Teague Andersen questionable (247Sports) :: Daniel Cruz: out
+2026-11-05 02:56:20 indexed 648 markets
+2026-11-05 02:57:56   drop[not-key] Kon Knueppel Injury: Won't return Wednesday (RotoWire) :: Kon Knueppel: won't return Wednesday
+2026-11-05 02:57:56   llm groq-120b: rate limited, skip 247s
+2026-11-05 02:57:57   drop[unconfirmed] Jarrett Allen Injury: Doubtful to return Wednesday (RotoWire) :: injury
+2026-11-05 03:00:16   drop[1-source] Warriors Trade Target Suffers Injury Scare In Bulls-Knicks Game (heavy.com) :: Golden State Warriors, wait 2nd source
+2026-11-05 03:02:43   drop[not-key] Kon Knueppel leaves season debut with Hornets early with leg injury after offseason hamstr (Yahoo Sports) :: Kon Knueppel: left season debut early due to leg injury
+2026-11-05 03:06:20 indexed 659 markets
+2026-11-05 03:06:22   llm groq-120b: rate limited, skip 40s
+2026-11-05 03:06:24   drop[unconfirmed] Nate Hobbs (CB, San Francisco 49ers) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: IR
+2026-11-05 03:07:13   drop[not-key] Kyle Monangai Injury: Misses Wednesday's walkthrough (RotoWire) :: Kyle Monangai: will miss Wednesday's walkthrough
+2026-11-05 03:07:23   llm groq-120b: rate limited, skip 313s
+2026-11-05 03:07:23   drop[unconfirmed] Ronnie Rivers (RB, Los Angeles Rams) ruled out: healthy -> Injured Reserve [NFL] (ESPN) :: IR
+2026-11-05 03:07:24   drop[unconfirmed] DeMar DeRozan (G, Denver Nuggets) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Day‑to‑day injury
+2026-11-05 03:09:31 NEWS [South Bend Tribune 5m] Miami star Malachi Toney to miss Notre Dame game, per reports
+2026-11-05 03:09:31   skip Notre Dame :: Miami (FL) vs. Notre Dame (low conf 0.6)
+2026-11-05 03:09:31   drop[team-not-named] DeMar DeRozan Injury: Late scratch Wednesday (RotoWire) :: Toronto Raptors
+2026-11-05 03:14:05   drop[1-source] Report: Florida DL Jeremiah McCloud Suspended for Oklahoma Game (WRUF 98.1 FM) :: Jeremiah McCloud, wait 2nd source
+2026-11-05 03:16:21 indexed 655 markets
+2026-11-05 03:16:25   llm groq-120b: rate limited, skip 68s
+2026-11-05 03:16:26   drop[team-not-named] NASCAR driver Carson Hocevar suspended for final race of 2026 season (WWAYTV3) :: Hendrick Motorsports
+2026-11-05 03:17:02 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-05 03:18:42   drop[1-source] Garrett Wilson Injury Will Test if New Jets' Optimism is Deserved (Sports Illustrated) :: Garrett Wilson, wait 2nd source
+2026-11-05 03:18:42   llm groq-120b: rate limited, skip 198s
+2026-11-05 03:18:43   drop[team-not-named] Cavs' Jarrett Allen exits early vs. Thunder with right knee injury (Yahoo) :: Cleveland Cavaliers
