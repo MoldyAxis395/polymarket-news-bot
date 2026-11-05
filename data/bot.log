@@ -27589,3 +27589,33 @@
 2026-11-05 16:46:43   drop[team-not-named] Kenyan national record-holder provisionally suspended for doping (Canadian Running Magazine) :: Kenya
 2026-11-05 16:46:44   drop[unconfirmed] Bulls news: Jalen Smith teases rapid injury return after scare vs. Knicks (ClutchPoints) :: teased a quick comeback after injury scare vs. Knicks
 2026-11-05 16:49:06   drop[kind] Mayport Man Escapes Injury in Route 66 Rollover Crash in Redbank Township (exploreJefferson) :: other
+2026-11-05 20:26:09 === start mode=paper pid=2214 ===
+2026-11-05 20:26:09 brain=llm cash=83.31 open=0
+2026-11-05 20:26:09 resuming with 6495 known news items
+2026-11-05 20:26:35 indexed 780 markets
+2026-11-05 20:26:52   drop[not-key] Zavier Scott (RB, Chicago Bears) ruled out: Questionable -> Injured Reserve [NFL] (ESPN) :: Zavier Scott: placed on injured reserve
+2026-11-05 20:26:53 NEWS [ESPN 0m] Jalen McMillan (WR, Tampa Bay Buccaneers) ruled out: healthy -> Injured Reserve [NFL]
+2026-11-05 20:26:53   skip Bears :: Buccaneers vs. Bears (low conf 0.6)
+2026-11-05 20:26:55 NEWS [ESPN 0m] Miro Heiskanen (D, Dallas Stars) ruled out: Day-To-Day -> Out [NHL]
+2026-11-05 20:26:56   BUY Blue Jackets @ 0.460 x21.7 ($10.00) :: Stars vs. Blue Jackets
+2026-11-05 20:26:57 NEWS [ESPN 0m] Sam Steel (C, Dallas Stars) ruled out: Day-To-Day -> Out [NHL]
+2026-11-05 20:26:57   skip Blue Jackets :: Stars vs. Blue Jackets (already in market)
+2026-11-05 20:26:59 NEWS [ESPN 0m] John Gibson (G, Detroit Red Wings) ruled out: Day-To-Day -> Out [NHL]
+2026-11-05 20:27:00   BUY Golden Knights @ 0.570 x17.5 ($10.00) :: Golden Knights vs. Red Wings
+2026-11-05 20:27:01 NEWS [ESPN 0m] Sean Durzi (D, New York Rangers) ruled out: Day-To-Day -> Out [NHL]
+2026-11-05 20:27:01   skip Flyers :: Flyers vs. Rangers (low conf 0.6)
+2026-11-05 20:27:02   drop[no-market] AZ Alkmaar confirmed lineup vs Juventus: Seiya Maikuma, Wesley Hoedt, Weslley Patati, Ayou (ESPN) :: AZ Alkmaar
+2026-11-05 20:27:02   llm groq-120b: rate limited, skip 1s
+2026-11-05 20:27:03   drop[side] Juventus confirmed lineup vs AZ Alkmaar: Bremer, Weston McKennie, Douglas Luiz ruled out o (ESPN) :: Will Juventus FC win on 2026-11-05? -> Yes vs fact ruled_out: Bremer (Juventus, soccer), bad for Juventus. injury
+2026-11-05 20:27:04   drop[not-key] Bayer Leverkusen confirmed lineup vs Marseille: Ezequiel Fernández, Afonso Moreira ruled o (ESPN) :: Ezequiel Fernández: ruled out of starting XI
+2026-11-05 20:27:04   llm groq-120b: rate limited, skip 3s
+2026-11-05 20:27:05   drop[side] Marseille confirmed lineup vs Bayer Leverkusen: Emerson, Tochukwu Nnadi, Amine Harit ruled (ESPN) :: Will Olympique de Marseille win on 2026-11-05? -> Yes vs fact ruled_out: Emerson (Olympique de Marseille, soccer), bad f
+2026-11-05 20:27:06   drop[side] Benfica confirmed lineup vs Lech Poznan: Alexander Bah, Fredrik Aursnes, Vangelis Pavlidis (ESPN) :: Will Sport Lisboa e Benfica win on 2026-11-05? -> Yes vs fact ruled_out: Alexander Bah (Benfica, soccer), bad for Benfic
+2026-11-05 20:27:06   drop[side] Lech Poznan confirmed lineup vs Benfica: Mikael Ishak ruled out of starting XI [uefa.europ (ESPN) :: Will Sport Lisboa e Benfica vs. KKS Lech Poznań end in a draw? -> Yes vs fact ruled_out: Mikael Ishak (Lech Poznan, socc
+2026-11-05 20:27:08   drop[side] Celta Vigo confirmed lineup vs Union St.-Gilloise: Sebastián Cáceres, Javi Galán, Ilaix Mo (ESPN) :: Will RC Celta de Vigo win on 2026-11-05? -> Yes vs fact ruled_out: Hugo Gonzalez (Celta Vigo, soccer), bad for Celta Vig
+2026-11-05 20:27:08   llm groq-120b: rate limited, skip 4s
+2026-11-05 20:27:09 NEWS [ESPN 1m] Union St.-Gilloise confirmed lineup vs Celta Vigo: Darius Olaru, Mateo Biondic ruled out of starting XI [uefa.europa]
+2026-11-05 20:27:09   skip No :: Will RU Saint-Gilloise win on 2026-11-05? (low conf 0.6)
+2026-11-05 20:27:09   llm groq-20b: rate limited, skip 2s
+2026-11-05 20:28:49   drop[kind] Green Bay Packers starting cornerback Keisean Nixon misses Nov. 5 practice (PackersNews.com) :: other
+2026-11-05 20:31:04   drop[kind] Aurelien Tchouameni misses Real Madrid training, raising injury fears – reports (Tribuna.com) :: other

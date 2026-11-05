@@ -208,3 +208,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-11-01T17:55:06+00:00,SELL,Vikings vs. Lions,Vikings,26.32,0.3700,9.74,-0.26,market closing
 2026-11-02T21:22:06+00:00,BUY,Jaguars vs. Ravens,Ravens,47.62,0.2100,10.00,,"Aeneas Peebles (DT, Baltimore Ravens) cleared to play: Out -> Active [NFL] | llm[groq-20b] trusted: player cleared to play boosts Ravens' odds"
 2026-11-03T05:09:23+00:00,SELL,Jaguars vs. Ravens,Ravens,47.62,0.2000,9.52,-0.48,max hold
+2026-11-05T19:26:56+00:00,BUY,Stars vs. Blue Jackets,Blue Jackets,21.74,0.4600,10.00,,"Miro Heiskanen (D, Dallas Stars) ruled out: Day-To-Day -> Out [NHL] | llm[groq-120b] trusted: Heiskanen out weakens Dallas Stars, increasing Blue Jackets win probability"
+2026-11-05T19:27:00+00:00,BUY,Golden Knights vs. Red Wings,Golden Knights,17.54,0.5700,10.00,,"John Gibson (G, Detroit Red Wings) ruled out: Day-To-Day -> Out [NHL] | llm[groq-120b] trusted: Gibson's injury hurts Detroit, decreasing their win probability and boosting the Golden Knights odds"
