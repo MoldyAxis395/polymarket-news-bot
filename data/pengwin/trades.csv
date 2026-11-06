@@ -141,3 +141,9 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-11-04T22:12:04+00:00,SELL,SK Slavia Praha vs. Arsenal FC: Arsenal FC O/U 1.5,Over,13.51,1.0000,13.51,+3.51,resolved
 2026-11-04T22:25:59+00:00,SELL,RB Leipzig vs. Manchester City FC: Both Teams to Score,Yes,14.49,1.0000,14.49,+4.49,resolved
 2026-11-04T22:27:59+00:00,SELL,PSV vs. Club Brugge KV: 1st Half O/U 0.5,Over,12.20,1.0000,12.20,+2.20,resolved
+2026-11-06T14:29:10+00:00,BUY,Málaga CF vs. Real Racing Club: Málaga CF O/U 0.5,Over,12.66,0.7900,10.00,,Malaga-Racing: MULTIGOL 1-3 CASA (approssimato) | pengwin approx: home scoring ≥1 approximated by Málaga O/U 0.5 Over
+2026-11-06T14:29:19+00:00,BUY,CA Osasuna vs. Athletic Club: O/U 4.5,Under,11.11,0.9000,10.00,,Osasuna-Athletic Bilbao: UNDER 4.5 GOALS (approssimato) | pengwin approx: combo leg
+2026-11-06T14:29:28+00:00,BUY,Will Elche CF win on 2026-11-08?,No,13.89,0.7200,10.00,,Elche-Betis: X2 (esatto) | pengwin exact: replicates X2 as No on Elche win
+2026-11-06T14:29:33+00:00,BUY,Will Real Sociedad de Fútbol win on 2026-11-08?,Yes,17.54,0.5700,10.00,,Real Sociedad-Rayo Vallecano: 1 (esatto) | pengwin exact: home win only
+2026-11-06T14:29:39+00:00,BUY,RC Celta de Vigo vs. Levante UD: RC Celta de Vigo O/U 1.5,Over,20.41,0.4900,10.00,,Celta Vigo-Levante: MULTIGOL 1-3 CASA (approssimato) | pengwin approx: Multigol 1-3 casa approximated by home O/U 1.5 Over (nearest available line for home goals)
+2026-11-06T14:29:50+00:00,BUY,Club Atlético de Madrid vs. FC Barcelona: Both Teams to Score,Yes,13.89,0.7200,10.00,,Atletico Madrid-Barcellona: GG (esatto) | pengwin exact: Both Teams to Score
