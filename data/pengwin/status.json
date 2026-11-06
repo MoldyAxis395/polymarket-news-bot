@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07T00:24:17",
+ "updated": "2026-11-07T00:54:18",
  "start": 100.0,
  "cash": 11.76,
- "equity": 82.71,
+ "equity": 82.66,
  "open": [
   {
    "market_id": "6181030",
@@ -55,7 +55,7 @@
    "reason": "pengwin exact: replicates X2 as No on Elche win",
    "conf": 1.0,
    "end": "2026-11-08T13:00:00+00:00",
-   "last_bid": 0.71,
+   "last_bid": 0.72,
    "book_err": false
   },
   {
@@ -127,7 +127,7 @@
    "reason": "pengwin approx: approximates Multigol 2-5 casa by betting home scores \u22653 goals, the nearest available line",
    "conf": 1.0,
    "end": "2026-11-07T14:30:00+00:00",
-   "last_bid": 0.48,
+   "last_bid": 0.47,
    "book_err": false
   },
   {

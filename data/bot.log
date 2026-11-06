@@ -28389,3 +28389,18 @@
 2026-11-07 00:22:50   drop[no-market] Rams Injury Report, Week 9 at Commanders: Myles Garrett expected to play; Trent McDuffie,  (Rams) :: Los Angeles Rams
 2026-11-07 00:23:30   llm groq-120b: rate limited, skip 30s
 2026-11-07 00:23:30 [pengwin] COLONIA-BAYER LEVERKUSEN: no Polymarket event (try 12)
+2026-11-07 00:26:26   llm groq-120b: rate limited, skip 88s
+2026-11-07 00:26:27   drop[no-pick] Charles Cross (OT, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: no outcome should rise
+2026-11-07 00:26:37   drop[kind] Inside the early GOP reckoning after historic defeat politi.co/48FFqO4 (Politico) :: other
+2026-11-07 00:27:14 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1100&order=volume24hr&ascending=false&end_date_min=2026-11-06T23%3A26%3A51Z&end_date_max=2026-12-06T23%3A26%3A51Z
+2026-11-07 00:28:07 indexed 693 markets
+2026-11-07 00:28:10   drop[kind] Inside the early GOP reckoning after historic defeat politi.co/48FFqO4 (Politico) :: other
+2026-11-07 00:33:05   drop[not-key] Rams' Terrance Ferguson Ruled Out After Sustaining New Injury (roundtable.io) :: Terrance Ferguson: new injury
+2026-11-07 00:38:06 indexed 697 markets
+2026-11-07 00:43:13   drop[team-not-named] Suaalii back to his favoured wing role as Ikitau returns from injury (Flashscore.com) :: Queensland Reds
+2026-11-07 00:45:07   drop[1-source] Chinese Cancer Association issues unified guideline for tumor-related lung injury care (Bioengineer.org) :: Chinese Cancer Association, wait 2nd source
+2026-11-07 00:47:26   llm groq-120b: rate limited, skip 154s
+2026-11-07 00:47:27   drop[verify] 76ers news: Adem Bona ruled out for NBA Cup clash with Cavs (ClutchPoints) :: Adem Bona no longer on 76ers
+2026-11-07 00:48:06 indexed 700 markets
+2026-11-07 00:49:44   drop[team-not-named] Ex-Lions QB Returns to the NFL With NFC West Contender (Heavy.com) :: Los Angeles Rams
+2026-11-07 00:53:32 [pengwin] COLONIA-BAYER LEVERKUSEN: no Polymarket event (try 13)
