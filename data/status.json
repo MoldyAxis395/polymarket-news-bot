@@ -1,52 +1,15 @@
 {
- "updated": "2026-11-06T00:31:29",
+ "updated": "2026-11-06T01:01:15",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 336,
- "markets_indexed": 672,
- "news_processed": 338,
- "cash": 63.31,
+ "llm_calls_today": 0,
+ "markets_indexed": 675,
+ "news_processed": 377,
+ "cash": 83.09,
  "equity": 83.09,
  "start": 100.0,
- "open": [
-  {
-   "market_id": "5458630",
-   "question": "Stars vs. Blue Jackets",
-   "slug": "nhl-dal-cbj-2026-11-05",
-   "outcome": "Blue Jackets",
-   "token": "61684684151620072745336652929869586212354581457262155710531486365167978220297",
-   "shares": 21.73913043478261,
-   "entry": 0.45999999999999996,
-   "cost": 10.0,
-   "opened": 1793906816.3367743,
-   "opened_iso": "2026-11-05T19:26:56+00:00",
-   "news": "Miro Heiskanen (D, Dallas Stars) ruled out: Day-To-Day -> Out [NHL]",
-   "reason": "llm[groq-120b] trusted: Heiskanen out weakens Dallas Stars, increasing Blue Jackets win probability",
-   "conf": 0.7,
-   "end": "2026-11-06T00:00:00+00:00",
-   "last_bid": 0.45,
-   "book_err": false
-  },
-  {
-   "market_id": "5458665",
-   "question": "Golden Knights vs. Red Wings",
-   "slug": "nhl-las-det-2026-11-05",
-   "outcome": "Golden Knights",
-   "token": "74589866065420173315808871318561386664045559967933570559164355158351723485369",
-   "shares": 17.54385964912281,
-   "entry": 0.57,
-   "cost": 10.0,
-   "opened": 1793906820.3149686,
-   "opened_iso": "2026-11-05T19:27:00+00:00",
-   "news": "John Gibson (G, Detroit Red Wings) ruled out: Day-To-Day -> Out [NHL]",
-   "reason": "llm[groq-120b] trusted: Gibson's injury hurts Detroit, decreasing their win probability and boosting the Golden Knights odds",
-   "conf": 0.72,
-   "end": "2026-11-06T00:00:00+00:00",
-   "last_bid": 0.57,
-   "book_err": false
-  }
- ],
- "closed_count": 101,
+ "open": [],
+ "closed_count": 103,
  "llm": {
   "backends": [
    "groq-120b",
@@ -54,24 +17,24 @@
   ],
   "fallbacks": 15,
   "errors": {
-   "groq-20b": "rate limited, skip 2s"
+   "groq-120b": "rate limited, skip 160s"
   },
   "rejects": {
-   "not-key": 18,
+   "not-key": 22,
    "no-market": 2,
    "side": 5,
-   "fluff": 84,
-   "kind": 31,
-   "team-not-named": 14,
-   "1-source": 15,
-   "unconfirmed": 2,
+   "fluff": 94,
+   "kind": 33,
+   "team-not-named": 17,
+   "1-source": 17,
+   "unconfirmed": 3,
    "no-pick": 1,
-   "verify": 3
+   "verify": 4
   },
   "calls": {
-   "groq-120b": 295,
-   "groq-20b": 41
+   "groq-120b": 313,
+   "groq-20b": 43
   }
  },
- "realized_pnl": -16.69
+ "realized_pnl": -16.91
 }

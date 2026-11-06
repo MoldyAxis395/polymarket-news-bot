@@ -1,43 +1,6 @@
 {
- "cash": 63.309145006934244,
- "positions": [
-  {
-   "market_id": "5458630",
-   "question": "Stars vs. Blue Jackets",
-   "slug": "nhl-dal-cbj-2026-11-05",
-   "outcome": "Blue Jackets",
-   "token": "61684684151620072745336652929869586212354581457262155710531486365167978220297",
-   "shares": 21.73913043478261,
-   "entry": 0.45999999999999996,
-   "cost": 10.0,
-   "opened": 1793906816.3367743,
-   "opened_iso": "2026-11-05T19:26:56+00:00",
-   "news": "Miro Heiskanen (D, Dallas Stars) ruled out: Day-To-Day -> Out [NHL]",
-   "reason": "llm[groq-120b] trusted: Heiskanen out weakens Dallas Stars, increasing Blue Jackets win probability",
-   "conf": 0.7,
-   "end": "2026-11-06T00:00:00+00:00",
-   "last_bid": 0.45,
-   "book_err": false
-  },
-  {
-   "market_id": "5458665",
-   "question": "Golden Knights vs. Red Wings",
-   "slug": "nhl-las-det-2026-11-05",
-   "outcome": "Golden Knights",
-   "token": "74589866065420173315808871318561386664045559967933570559164355158351723485369",
-   "shares": 17.54385964912281,
-   "entry": 0.57,
-   "cost": 10.0,
-   "opened": 1793906820.3149686,
-   "opened_iso": "2026-11-05T19:27:00+00:00",
-   "news": "John Gibson (G, Detroit Red Wings) ruled out: Day-To-Day -> Out [NHL]",
-   "reason": "llm[groq-120b] trusted: Gibson's injury hurts Detroit, decreasing their win probability and boosting the Golden Knights odds",
-   "conf": 0.72,
-   "end": "2026-11-06T00:00:00+00:00",
-   "last_bid": 0.57,
-   "book_err": false
-  }
- ],
+ "cash": 83.09175370258642,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -2215,6 +2178,50 @@
    "pnl": -0.4761904761904763,
    "why": "max hold",
    "closed_iso": "2026-11-03T05:09:23+00:00"
+  },
+  {
+   "market_id": "5458630",
+   "question": "Stars vs. Blue Jackets",
+   "slug": "nhl-dal-cbj-2026-11-05",
+   "outcome": "Blue Jackets",
+   "token": "61684684151620072745336652929869586212354581457262155710531486365167978220297",
+   "shares": 21.73913043478261,
+   "entry": 0.45999999999999996,
+   "cost": 10.0,
+   "opened": 1793906816.3367743,
+   "opened_iso": "2026-11-05T19:26:56+00:00",
+   "news": "Miro Heiskanen (D, Dallas Stars) ruled out: Day-To-Day -> Out [NHL]",
+   "reason": "llm[groq-120b] trusted: Heiskanen out weakens Dallas Stars, increasing Blue Jackets win probability",
+   "conf": 0.7,
+   "end": "2026-11-06T00:00:00+00:00",
+   "last_bid": 0.45,
+   "book_err": false,
+   "exit": 0.45,
+   "pnl": -0.21739130434782616,
+   "why": "market closing",
+   "closed_iso": "2026-11-05T23:55:01+00:00"
+  },
+  {
+   "market_id": "5458665",
+   "question": "Golden Knights vs. Red Wings",
+   "slug": "nhl-las-det-2026-11-05",
+   "outcome": "Golden Knights",
+   "token": "74589866065420173315808871318561386664045559967933570559164355158351723485369",
+   "shares": 17.54385964912281,
+   "entry": 0.57,
+   "cost": 10.0,
+   "opened": 1793906820.3149686,
+   "opened_iso": "2026-11-05T19:27:00+00:00",
+   "news": "John Gibson (G, Detroit Red Wings) ruled out: Day-To-Day -> Out [NHL]",
+   "reason": "llm[groq-120b] trusted: Gibson's injury hurts Detroit, decreasing their win probability and boosting the Golden Knights odds",
+   "conf": 0.72,
+   "end": "2026-11-06T00:00:00+00:00",
+   "last_bid": 0.57,
+   "book_err": false,
+   "exit": 0.57,
+   "pnl": 0.0,
+   "why": "market closing",
+   "closed_iso": "2026-11-05T23:55:02+00:00"
   }
  ],
  "cooldown": {
@@ -2285,6 +2292,8 @@
   "6167325": 1793496652.103765,
   "5603316": 1793566506.6231375,
   "5603308": 1793566507.2653675,
-  "5772981": 1793693363.784322
+  "5772981": 1793693363.784322,
+  "5458630": 1793933701.5082996,
+  "5458665": 1793933702.1045325
  }
 }
