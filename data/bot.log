@@ -28030,3 +28030,43 @@
 2026-11-06 16:16:28   drop[team-not-named] 60 YC leaders suspended for skipping Rahul's Ramlila rally (Rediff) :: Indian National Congress Youth Congress
 2026-11-06 16:18:57   drop[1-source] Lacroix, Martinez, Joao Pedro: Chelsea injury latest for FPL Gameweek 10 (www.fantasyfootballscout.co.uk) :: Luis Martinez, wait 2nd source
 2026-11-06 16:23:54 indexed 805 markets
+2026-11-06 16:28:07   drop[team-not-named] Every word Alonso said on Martinez return, Caicedo injury and brutal Palmer snub (Football London) :: Chelsea FC
+2026-11-06 16:29:55 [pengwin] skip CAGLIARI-FROSINONE [combo over 2.5 cartellini + casa over 0.5]: neither leg (total cards over 2.5 nor home team over 0.5) has a corresponding Polymarket market
+2026-11-06 16:30:00 [pengwin]   BUY Under @ 0.870 x3.4 ($2.99) :: Torino FC vs. US Lecce: O/U 4.5
+2026-11-06 16:30:03 [pengwin] skip PARMA-BOLOGNA [OVER 3.5 CARTELLI]: No card market on Polymarket
+2026-11-06 16:30:09 [pengwin] skip ROMA-SASSUOLO [casa over 1.5]: AS Roma vs. US Sassuolo Calcio: O/U 1.5 -> Over: no cash
+2026-11-06 16:30:26 [pengwin] skip LEEDS UNITED-TOTTENHAM [X2 @1.45]: Will Leeds United FC win on 2026-11-07? -> No: no cash
+2026-11-06 16:30:29   llm groq-120b: rate limited, skip 11s
+2026-11-06 16:30:32 [pengwin] skip FULHAM-NEWCASTLE [MULTIGOL 1-3 CASA]: Fulham FC vs. Newcastle United FC: O/U 3.5 -> Under: no cash
+2026-11-06 16:30:36 [pengwin] skip ARSENAL-HULL CITY [OVER 1.5 CARTELLINI OSPITE]: no matching market
+2026-11-06 16:30:39   llm groq-20b: rate limited, skip 2s
+2026-11-06 16:30:39 [pengwin] NOTTINGHAM FOREST-MANCHESTER CITY: no LLM answer (try 1)
+2026-11-06 16:30:44 [pengwin] skip SUNDERLAND-CHELSEA [MULTIGOL 1-5]: Sunderland AFC vs. Chelsea FC: O/U 5.5 -> Under: no cash
+2026-11-06 16:30:47   llm groq-120b: rate limited, skip 333s
+2026-11-06 16:30:49 [pengwin] skip IPSWICH TOWN-BOURNEMOUTH [OSPITE SEGNA 1° TEMPO]: no matching market
+2026-11-06 16:30:53 [pengwin] skip CRYSTAL PALACE-LIVERPOOL [OSPITE OVER 4,5 CORNER]: no corner market available
+2026-11-06 16:30:56   llm groq-20b: rate limited, skip 19s
+2026-11-06 16:30:56 [pengwin] BRIGHTON-BRENTFORD: no LLM answer (try 1)
+2026-11-06 16:30:58 [pengwin] MANCHESTER UNITED-ASTON VILLA: no Polymarket event (try 1)
+2026-11-06 16:31:01 [pengwin] LIPSIA-AUGSBURG: no Polymarket event (try 1)
+2026-11-06 16:31:04 [pengwin] MAINZ-BAYERN MONACO: no LLM answer (try 1)
+2026-11-06 16:31:07 [pengwin] STOCCARDA-WERDER BREMA: no Polymarket event (try 1)
+2026-11-06 16:31:09 [pengwin] PADERBORN-FRANCOFORTE: no Polymarket event (try 1)
+2026-11-06 16:31:12 [pengwin] COLONIA-BAYER LEVERKUSEN: no Polymarket event (try 1)
+2026-11-06 16:31:17 [pengwin] skip FRIBURGO-UNION BERLINO [Friburgo segna + 1 corner]: no matching market
+2026-11-06 16:31:20   llm groq-20b: rate limited, skip 4s
+2026-11-06 16:31:20 [pengwin] HOFFENHEIM-SCHALKE: no LLM answer (try 1)
+2026-11-06 16:32:32   drop[unconfirmed] Mothobi Mvala opens up on emotional toll of year-long injury lay-off (SABC Sport) :: injury lay‑off
+2026-11-06 16:33:00   drop[no-pick] Democrats scored a huge victory seizing one of the most powerful AG offices by winning in  (Politico) :: short
+2026-11-06 16:34:14 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=2000&order=volume24hr&ascending=false&end_date_min=2026-11-06T15%3A33%3A28Z&end_date_max=2026-12-06T15%3A33%3A28Z
+2026-11-06 16:34:33 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=300&order=volume24hr&ascending=false&end_date_min=2026-11-06T15%3A34%3A26Z&end_date_max=2026-12-06T15%3A34%3A26Z
+2026-11-06 16:35:30 indexed 806 markets
+2026-11-06 16:38:04   drop[1-source] TAXI DRIVER SUSPENDED BY SOUTH OXON DC TO PAY £1,924 AFTER CONTINUING TO TRANSPORT CHILDRE (Private Hire & Taxi Monthly) :: South Oxford District Council, wait 2nd source
+2026-11-06 16:45:10 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1100&order=volume24hr&ascending=false&end_date_min=2026-11-06T15%3A44%3A46Z&end_date_max=2026-12-06T15%3A44%3A46Z
+2026-11-06 16:45:27 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=200&order=volume24hr&ascending=false&end_date_min=2026-11-06T15%3A45%3A22Z&end_date_max=2026-12-06T15%3A45%3A22Z
+2026-11-06 16:45:44 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=200&order=volume24hr&ascending=false&end_date_min=2026-11-06T15%3A45%3A39Z&end_date_max=2026-12-06T15%3A45%3A39Z
+2026-11-06 16:46:04 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=300&order=volume24hr&ascending=false&end_date_min=2026-11-06T15%3A45%3A56Z&end_date_max=2026-12-06T15%3A45%3A56Z
+2026-11-06 16:46:45 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1400&order=volume24hr&ascending=false&end_date_min=2026-11-06T15%3A46%3A16Z&end_date_max=2026-12-06T15%3A46%3A16Z
+2026-11-06 16:47:19 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1000&order=volume24hr&ascending=false&end_date_min=2026-11-06T15%3A46%3A57Z&end_date_max=2026-12-06T15%3A46%3A57Z
+2026-11-06 16:48:14 indexed 808 markets
+2026-11-06 16:53:17   drop[not-key] Trevin Wallace (LB, New York Jets) ruled out: Questionable -> Out [NFL] (ESPN) :: Trevin Wallace: injury

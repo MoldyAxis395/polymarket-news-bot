@@ -1,5 +1,5 @@
 {
- "cash": 2.990501093851151,
+ "cash": 0.0,
  "positions": [
   {
    "market_id": "6181030",
@@ -142,7 +142,7 @@
    "reason": "pengwin approx: using leg of combo 1X+UNDER 4.5 as double\u2011chance not available",
    "conf": 1.0,
    "end": "2026-11-06T20:00:00+00:00",
-   "last_bid": 0.84,
+   "last_bid": 0.85,
    "book_err": false
   },
   {
@@ -178,7 +178,25 @@
    "reason": "pengwin approx: approximates Multigol 2-5 casa by betting home scores \u22653 goals, the nearest available line",
    "conf": 1.0,
    "end": "2026-11-07T14:30:00+00:00",
-   "last_bid": 0.48,
+   "last_bid": 0.47,
+   "book_err": false
+  },
+  {
+   "market_id": "6176008",
+   "question": "Torino FC vs. US Lecce: O/U 4.5",
+   "slug": "sea-tor-lec-2026-11-07-total-4pt5",
+   "outcome": "Under",
+   "token": "77421457644687367838287015911346491429982056983525971582158391445901379560985",
+   "shares": 3.437357579139254,
+   "entry": 0.87,
+   "cost": 2.990501093851151,
+   "opened": 1793979000.109616,
+   "opened_iso": "2026-11-06T15:30:00+00:00",
+   "news": "TORINO-LECCE: UNDER 4.5 (approssimato)",
+   "reason": "pengwin approx: leg of combo 1X+UNDER 4.5",
+   "conf": 1.0,
+   "end": "2026-11-07T14:00:00+00:00",
+   "last_bid": 0.86,
    "book_err": false
   }
  ],
