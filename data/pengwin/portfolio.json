@@ -106,7 +106,7 @@
    "reason": "pengwin exact: Both Teams to Score",
    "conf": 1.0,
    "end": "2026-11-08T20:00:00+00:00",
-   "last_bid": 0.71,
+   "last_bid": 0.7,
    "book_err": false
   },
   {
@@ -124,7 +124,7 @@
    "reason": "pengwin exact: X2 = draw or Udinese win, i.e., Venezia does NOT win, matching No on 'Will Venezia FC win?'",
    "conf": 1.0,
    "end": "2026-11-06T19:45:00+00:00",
-   "last_bid": 0.61,
+   "last_bid": 0.62,
    "book_err": false
   },
   {
@@ -142,7 +142,7 @@
    "reason": "pengwin approx: using leg of combo 1X+UNDER 4.5 as double\u2011chance not available",
    "conf": 1.0,
    "end": "2026-11-06T20:00:00+00:00",
-   "last_bid": 0.82,
+   "last_bid": 0.9,
    "book_err": false
   },
   {
@@ -160,8 +160,9 @@
    "reason": "pengwin exact: Exact match to tipster's Under 1.5 first half",
    "conf": 1.0,
    "end": "2026-11-06T19:30:00+00:00",
-   "last_bid": 0.45,
-   "book_err": false
+   "last_bid": null,
+   "book_err": false,
+   "settle_retry": 1793996659.816396
   },
   {
    "market_id": "6175750",
