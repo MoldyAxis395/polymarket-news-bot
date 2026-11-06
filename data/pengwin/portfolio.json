@@ -1,5 +1,5 @@
 {
- "cash": 0.0,
+ "cash": 11.764705882352942,
  "positions": [
   {
    "market_id": "6181030",
@@ -107,43 +107,6 @@
    "conf": 1.0,
    "end": "2026-11-08T20:00:00+00:00",
    "last_bid": 0.7,
-   "book_err": false
-  },
-  {
-   "market_id": "6099746",
-   "question": "Will Venezia FC win on 2026-11-06?",
-   "slug": "sea-ven-udi-2026-11-06-ven",
-   "outcome": "No",
-   "token": "90760236808516051521812806094183050210647295987088425775568113429692198793948",
-   "shares": 17.24137931034483,
-   "entry": 0.58,
-   "cost": 10.0,
-   "opened": 1793977159.5168211,
-   "opened_iso": "2026-11-06T14:59:19+00:00",
-   "news": "VENEZIA-UDINESE: X2 (draw or away) (esatto)",
-   "reason": "pengwin exact: X2 = draw or Udinese win, i.e., Venezia does NOT win, matching No on 'Will Venezia FC win?'",
-   "conf": 1.0,
-   "end": "2026-11-06T19:45:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1794002355.7341113
-  },
-  {
-   "market_id": "6107573",
-   "question": "Everton FC vs. Coventry City FC: O/U 4.5",
-   "slug": "epl-eve-cov-2026-11-06-total-4pt5",
-   "outcome": "Under",
-   "token": "51331225812174986911382596288311610771054337907424471440033865382898372789359",
-   "shares": 11.764705882352942,
-   "entry": 0.85,
-   "cost": 10.0,
-   "opened": 1793977185.2461374,
-   "opened_iso": "2026-11-06T14:59:45+00:00",
-   "news": "EVERTON-COVENTRY CITY: UNDER 4.5 (approssimato)",
-   "reason": "pengwin approx: using leg of combo 1X+UNDER 4.5 as double\u2011chance not available",
-   "conf": 1.0,
-   "end": "2026-11-06T20:00:00+00:00",
-   "last_bid": 0.93,
    "book_err": false
   },
   {
@@ -1793,6 +1756,52 @@
    "pnl": -10.0,
    "why": "resolved",
    "closed_iso": "2026-11-06T21:48:14+00:00"
+  },
+  {
+   "market_id": "6099746",
+   "question": "Will Venezia FC win on 2026-11-06?",
+   "slug": "sea-ven-udi-2026-11-06-ven",
+   "outcome": "No",
+   "token": "90760236808516051521812806094183050210647295987088425775568113429692198793948",
+   "shares": 17.24137931034483,
+   "entry": 0.58,
+   "cost": 10.0,
+   "opened": 1793977159.5168211,
+   "opened_iso": "2026-11-06T14:59:19+00:00",
+   "news": "VENEZIA-UDINESE: X2 (draw or away) (esatto)",
+   "reason": "pengwin exact: X2 = draw or Udinese win, i.e., Venezia does NOT win, matching No on 'Will Venezia FC win?'",
+   "conf": 1.0,
+   "end": "2026-11-06T19:45:00+00:00",
+   "last_bid": null,
+   "book_err": true,
+   "settle_retry": 1794003007.931996,
+   "exit": 0.0,
+   "pnl": -10.0,
+   "why": "resolved",
+   "closed_iso": "2026-11-06T22:00:08+00:00"
+  },
+  {
+   "market_id": "6107573",
+   "question": "Everton FC vs. Coventry City FC: O/U 4.5",
+   "slug": "epl-eve-cov-2026-11-06-total-4pt5",
+   "outcome": "Under",
+   "token": "51331225812174986911382596288311610771054337907424471440033865382898372789359",
+   "shares": 11.764705882352942,
+   "entry": 0.85,
+   "cost": 10.0,
+   "opened": 1793977185.2461374,
+   "opened_iso": "2026-11-06T14:59:45+00:00",
+   "news": "EVERTON-COVENTRY CITY: UNDER 4.5 (approssimato)",
+   "reason": "pengwin approx: using leg of combo 1X+UNDER 4.5 as double\u2011chance not available",
+   "conf": 1.0,
+   "end": "2026-11-06T20:00:00+00:00",
+   "last_bid": 0.999,
+   "book_err": true,
+   "settle_retry": 1794003739.9841821,
+   "exit": 1.0,
+   "pnl": 1.764705882352942,
+   "why": "resolved",
+   "closed_iso": "2026-11-06T22:12:20+00:00"
   }
  ],
  "cooldown": {
@@ -1865,6 +1874,8 @@
   "6053913": 1793841124.5357816,
   "6053962": 1793841959.472221,
   "6054205": 1793842080.1091626,
-  "6107512": 1794012494.8125913
+  "6107512": 1794012494.8125913,
+  "6099746": 1794013208.5755403,
+  "6107573": 1794013940.4779081
  }
 }

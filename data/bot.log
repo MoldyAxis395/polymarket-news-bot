@@ -28284,3 +28284,47 @@
 2026-11-06 22:53:49   llm groq-120b: rate limited, skip 52s
 2026-11-06 22:53:49   drop[kind] High school football player being treated at OrthoCincy after shoulder injury (WKRC) :: other
 2026-11-06 22:53:50   drop[unconfirmed] Oregon guard Tyrone Riley IV out four weeks with left hand injury (KVAL) :: left hand injury
+2026-11-06 22:55:05 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=100&order=volume24hr&ascending=false&end_date_min=2026-11-06T21%3A55%3A02Z&end_date_max=2026-12-06T21%3A55%3A02Z
+2026-11-06 22:55:24 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=300&order=volume24hr&ascending=false&end_date_min=2026-11-06T21%3A55%3A17Z&end_date_max=2026-12-06T21%3A55%3A17Z
+2026-11-06 22:56:01 indexed 755 markets
+2026-11-06 22:56:15   drop[kind] RB Cam Skattebo doubtful, but WR Malik Nabers has no injury designation (NBC Sports) :: other
+2026-11-06 22:57:04 [pengwin]   book error Will Venezia FC win on 2026-11-06?: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=90760236808516051521812806094183050210647295987088425775568113429692198793948
+2026-11-06 22:58:04   llm groq-120b: rate limited, skip 124s
+2026-11-06 22:58:05   drop[no-pick] Deebo Samuel Sr. (WR, San Francisco 49ers) ruled out: Questionable -> Out [NFL] (ESPN) :: no outcome should rise
+2026-11-06 22:58:06   drop[unconfirmed] Mike Evans (WR, San Francisco 49ers) ruled out: Questionable -> Out [NFL] (ESPN) :: injury
+2026-11-06 23:00:08 [pengwin]   SELL No @ 0.000 (resolved) pnl -10.00 :: Will Venezia FC win on 2026-11-06?
+2026-11-06 23:01:00   drop[1-source] Everton 3 Coventry 1: Thierno Barry leads comeback to send Toffees FIFTH as Frank Lampard  (The Irish Sun) :: Thierno Barry, wait 2nd source
+2026-11-06 23:01:08   llm groq-120b: rate limited, skip 279s
+2026-11-06 23:01:09   drop[not-key] Sean Rhyan (G, Green Bay Packers) ruled out: Questionable -> Out [NFL] (ESPN) :: Sean Rhyan: injury
+2026-11-06 23:01:09   drop[not-key] Zaire Franklin (LB, Green Bay Packers) ruled out: Questionable -> Out [NFL] (ESPN) :: Zaire Franklin: injury
+2026-11-06 23:01:10   drop[not-key] Josh Whyle (TE, Green Bay Packers) ruled out: Questionable -> Out [NFL] (ESPN) :: Josh Whyle: injury
+2026-11-06 23:01:10   drop[unconfirmed] Josh Hart (G, New York Knicks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: day-to-day
+2026-11-06 23:03:11   drop[not-key] Travis Glover (OT, Green Bay Packers) ruled out: Questionable -> Out [NFL] (ESPN) :: Travis Glover: ruled out
+2026-11-06 23:03:17   drop[team-not-named] Injury Report: Several Big Names Officially Ruled Out for Cardinals-Seahawks Clash (Sports Illustrated) :: Arizona Cardinals
+2026-11-06 23:03:17   drop[unconfirmed] Myles Garrett is expected to return for the Rams this weekend after a 7-game injury absenc (WHEC.com) :: player returning
+2026-11-06 23:03:18   drop[kind] Moisés Caicedo doubtful for Chelsea’s game against Sunderland (We Ain't Got No History) :: other
+2026-11-06 23:04:48   drop[no-market] Barry leads Everton comeback win vs Coventry - who suffer triple VAR woe (Sky Sports) :: Everton
+2026-11-06 23:05:54 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=300&order=volume24hr&ascending=false&end_date_min=2026-11-06T22%3A05%3A48Z&end_date_max=2026-12-06T22%3A05%3A48Z
+2026-11-06 23:06:44 indexed 745 markets
+2026-11-06 23:06:46   drop[not-key] Reed Blankenship (S, Houston Texans) ruled out: Questionable -> Out [NFL] (ESPN) :: Reed Blankenship: ruled out due to injury
+2026-11-06 23:07:44   llm groq-120b: rate limited, skip 216s
+2026-11-06 23:07:45   drop[side] Christian Kirk (WR, San Francisco 49ers) ruled out: Questionable -> Out [NFL] (ESPN) :: Raiders vs. 49ers -> 49ers vs fact ruled_out: Christian Kirk (San Francisco 49ers, nfl), bad for San Francisco 49ers. kn
+2026-11-06 23:09:56   drop[team-not-named] 49ers rule out Christian Kirk after he suffered an injury during Thursday’s practice (Niners Nation) :: Arizona Cardinals
+2026-11-06 23:09:57   drop[not-key] Jalen Johnson Injury: Ruled out for Friday (RotoWire) :: Jalen Johnson: injury
+2026-11-06 23:09:57   drop[1-source] 49ers say Bosa is ‘good to go’ vs. Raiders; 3 wideouts ruled out with injury (Oroville Mercury-Register) :: San Francisco 49ers, wait 2nd source
+2026-11-06 23:10:22   drop[no-market] Paraguay Senate votes to impeach President Peña reut.rs/4sMCMzh (Reuters) :: Paraguay
+2026-11-06 23:12:19 [pengwin]   book error Everton FC vs. Coventry City FC: O/U 4.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=51331225812174986911382596288311610771054337907424471440033865382898372789359
+2026-11-06 23:12:20 [pengwin]   SELL Under @ 1.000 (resolved) pnl +1.76 :: Everton FC vs. Coventry City FC: O/U 4.5
+2026-11-06 23:12:27   drop[not-key] Terrance Ferguson No injury designation (Fantasy Footballers Podcast) :: Terrance Ferguson: no injury designation
+2026-11-06 23:12:27   llm groq-120b: rate limited, skip 331s
+2026-11-06 23:12:27   drop[not-key] New York Jets Edge David Bailey Back to Full Practice, Will Face Kansas City Chiefs (Yahoo Sports) :: David Bailey: return to full practice
+2026-11-06 23:14:54   drop[verify] Jalen Johnson (F, Atlanta Hawks) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Jalen Johnson not star enough to move market 5+ points
+2026-11-06 23:16:17 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=500&order=volume24hr&ascending=false&end_date_min=2026-11-06T22%3A16%3A07Z&end_date_max=2026-12-06T22%3A16%3A07Z
+2026-11-06 23:16:54 indexed 732 markets
+2026-11-06 23:16:56   drop[not-key] Kendall Williamson (S, Los Angeles Chargers) ruled out: Questionable -> Out [NFL] (ESPN) :: Kendall Williamson: injury
+2026-11-06 23:16:57   drop[side] Deane Leonard (CB, Los Angeles Chargers) ruled out: Questionable -> Out [NFL] (ESPN) :: Texans vs. Chargers -> Chargers vs fact ruled_out: Deane Leonard (Los Angeles Chargers, nfl), bad for Los Angeles Charge
+2026-11-06 23:17:01   drop[team-not-named] Vikings Get Unexpected News on Kyler Murray’s Hamstring Injury (heavy.com) :: Arizona Cardinals
+2026-11-06 23:19:20   drop[kind] Dolphins Week 9 Final Injury Report: 3 Players Questionable (roundtable.io) :: other
+2026-11-06 23:21:48   llm groq-120b: rate limited, skip 241s
+2026-11-06 23:21:49   drop[no-pick] Quenton Nelson to miss Sunday's game with Seahawks due to knee injury 2 weeks after Colts' (IndyStar) :: short
+2026-11-06 23:23:23 [pengwin] COLONIA-BAYER LEVERKUSEN: no Polymarket event (try 10)
