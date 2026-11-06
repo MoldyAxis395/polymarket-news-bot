@@ -27869,3 +27869,10 @@
 2026-11-06 05:44:33   drop[kind] Breaking: Injury Crash on Ritchie Hwy in Glen Burnie Causes Delays (The Legal Advocate) :: other
 2026-11-06 05:53:33 indexed 659 markets
 2026-11-06 05:54:38   drop[kind] Trump's arch advances as questions swirl over secret military plans politi.co/3WS3Gdf (Politico) :: other
+2026-11-06 06:03:37 indexed 645 markets
+2026-11-06 06:10:50   drop[kind] Ties with Paraguay unaffected, Taiwan says after president resigns reut.rs/4AgjwwM (Reuters) :: other
+2026-11-06 06:13:43 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1600&order=volume24hr&ascending=false&end_date_min=2026-11-06T05%3A13%3A11Z&end_date_max=2026-12-06T05%3A13%3A11Z
+2026-11-06 06:14:35 indexed 644 markets
+2026-11-06 06:14:39   drop[not-key] David Ospina retires at 38 as elbow injury ends his career (Arsenal Core) :: David Ospina: retired because elbow injury ends his career
+2026-11-06 06:24:22 indexed 650 markets
+2026-11-06 06:25:02 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
