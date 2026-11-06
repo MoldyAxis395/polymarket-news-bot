@@ -28353,3 +28353,39 @@
 2026-11-06 23:47:25   drop[unconfirmed] Anthony Davis (F, Washington Wizards) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: ankle injury
 2026-11-06 23:50:35   drop[kind] Four-story building collapses in Sao Paulo reut.rs/4iAeqUN (Reuters) :: other
 2026-11-06 23:53:26 [pengwin] COLONIA-BAYER LEVERKUSEN: no Polymarket event (try 11)
+2026-11-06 23:55:09   llm groq-120b: rate limited, skip 92s
+2026-11-06 23:55:10   drop[1-source] IPS IN 5: In Print — Miami's Injury Looms Large As ACC Race Heats Up (Inside Pack Sports) :: Miami Hurricanes, wait 2nd source
+2026-11-06 23:57:22 indexed 708 markets
+2026-11-06 23:57:29   drop[team-not-named] Seahawks suffer brutal injury to Quenton Nelson days after Sam Darnold was ruled out (The Big Lead) :: Indianapolis Colts
+2026-11-07 00:01:37   llm groq-120b: rate limited, skip 33s
+2026-11-07 00:01:38   drop[no-pick] Corbin Carroll (RF, Arizona Diamondbacks) ruled out: healthy -> Out [MLB] (ESPN) :: no matching MLB market
+2026-11-07 00:02:29   drop[not-key] Lakers news: Sandro Mamukelashvili upgraded on LA injury report for NBA Cup game vs. Blaze (ClutchPoints) :: Sandro Mamukelashvili: upgraded injury status, now eligible to play in NBA Cup game
+2026-11-07 00:02:38   llm groq-120b: rate limited, skip 274s
+2026-11-07 00:02:41   drop[verify] DJ Wonnum (LB, Detroit Lions) ruled out: Questionable -> Out [NFL] (ESPN) :: Player not on roster or not starter; injury not significant enough
+2026-11-07 00:02:41   drop[not-key] D.J. Reed (CB, Detroit Lions) ruled out: Questionable -> Out [NFL] (ESPN) :: D.J. Reed: injury
+2026-11-07 00:02:42   drop[not-key] Cade Mays (C, Detroit Lions) ruled out: Questionable -> Out [NFL] (ESPN) :: Cade Mays: injury
+2026-11-07 00:02:43 NEWS [ESPN 16m] Jack Campbell (LB, Detroit Lions) ruled out: Doubtful -> Out [NFL]
+2026-11-07 00:02:43   skip Dolphins :: Lions vs. Dolphins (low conf 0.6)
+2026-11-07 00:04:40   drop[kind] 🌕✨ JJ Gabriel: “My dream is to win the Ballon d’Or”, told @marca. (Fabrizio Romano) :: other
+2026-11-07 00:05:45   drop[not-key] Will Lee III (CB, Carolina Panthers) ruled out: Questionable -> Out [NFL] (ESPN) :: Will Lee III: injury
+2026-11-07 00:06:43   drop[not-key] Raiders-49ers Week 9 Injury Report: Thomas Booker ruled Out, Darien Porter questionable fo (Raiders.com) :: Thomas Booker: injury
+2026-11-07 00:07:09 indexed 706 markets
+2026-11-07 00:08:11   llm groq-120b: rate limited, skip 267s
+2026-11-07 00:08:11   drop[side] Damien Lewis (G, Carolina Panthers) ruled out: Questionable -> Out [NFL] (ESPN) :: Broncos vs. Panthers -> Panthers vs fact ruled_out: Damien Lewis (Carolina Panthers, nfl), bad for Carolina Panthers. kn
+2026-11-07 00:09:01   drop[not-key] REPORT: Detroit Lions INJURY REPORT vs Miami Dolphins, Amon-Ra St. Brown QUESTIONABLE, DJ  (WKYC) :: DJ Reed: injury
+2026-11-07 00:09:02   drop[kind] Vikings Start Carson Wentz Against Bills After Murray Injury (JournalArta) :: other
+2026-11-07 00:14:17   llm groq-120b: rate limited, skip 136s
+2026-11-07 00:14:17   drop[side] Adem Bona (C, Philadelphia 76ers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: 76ers vs. Cavaliers -> 76ers vs fact ruled_out: Adem Bona (Philadelphia 76ers, nba), bad for Philadelphia 76ers. cervica
+2026-11-07 00:15:55   drop[1-source] Rams’ Terrance Ferguson ruled out vs. Commanders with ankle, hamstring injuries (ClutchPoints) :: Terrance Ferguson, wait 2nd source
+2026-11-07 00:15:56   drop[kind] Waterloo woman ticketed for driving with suspended license in Penn Yan (Fingerlakes1.com) :: other
+2026-11-07 00:17:12 indexed 698 markets
+2026-11-07 00:20:22   llm groq-120b: rate limited, skip 16s
+2026-11-07 00:20:22   drop[side] Bobby Okereke (LB, Carolina Panthers) ruled out: Questionable -> Out [NFL] (ESPN) :: Broncos vs. Panthers -> Panthers vs fact ruled_out: Bobby Okereke (Carolina Panthers, nfl), bad for Carolina Panthers. r
+2026-11-07 00:20:23   drop[not-key] Jaelan Phillips (LB, Carolina Panthers) ruled out: Questionable -> Out [NFL] (ESPN) :: Jaelan Phillips: injury
+2026-11-07 00:20:23   drop[not-key] Uchenna Nwosu (LB, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: Uchenna Nwosu: injury
+2026-11-07 00:20:24   drop[not-key] Brandon Pili (DT, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: Brandon Pili: injury
+2026-11-07 00:21:21   llm groq-120b: rate limited, skip 42s
+2026-11-07 00:21:22   drop[side] Leonard Williams (DT, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: Cardinals vs. Seahawks -> Seahawks vs fact ruled_out: Leonard Williams (Seattle Seahawks, nfl), bad for Seattle Seahawks
+2026-11-07 00:22:50   drop[no-market] Rams Injury Report, Week 9 at Commanders: Myles Garrett expected to play; Trent McDuffie,  (Rams) :: Los Angeles Rams
+2026-11-07 00:23:30   llm groq-120b: rate limited, skip 30s
+2026-11-07 00:23:30 [pengwin] COLONIA-BAYER LEVERKUSEN: no Polymarket event (try 12)
