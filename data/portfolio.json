@@ -1,25 +1,6 @@
 {
- "cash": 73.09175370258642,
- "positions": [
-  {
-   "market_id": "5458677",
-   "question": "Ducks vs. Oilers",
-   "slug": "nhl-ana-edm-2026-11-05",
-   "outcome": "Ducks",
-   "token": "11074718903456854413808097078551226167001565795243439118051254900373730843968",
-   "shares": 27.77777777777778,
-   "entry": 0.36,
-   "cost": 10.0,
-   "opened": 1793924525.8022974,
-   "opened_iso": "2026-11-06T00:22:05+00:00",
-   "news": "Tristan Jarry (G, Edmonton Oilers) ruled out: healthy -> Out [NHL]",
-   "reason": "llm[groq-20b] trusted: Jarry's injury hurts Oilers, likely shifting odds toward Ducks",
-   "conf": 0.7,
-   "end": "2026-11-06T01:00:00+00:00",
-   "last_bid": 0.35,
-   "book_err": false
-  }
- ],
+ "cash": 82.81397592480863,
+ "positions": [],
  "closed": [
   {
    "market_id": "3871412",
@@ -2241,6 +2222,28 @@
    "pnl": 0.0,
    "why": "market closing",
    "closed_iso": "2026-11-05T23:55:02+00:00"
+  },
+  {
+   "market_id": "5458677",
+   "question": "Ducks vs. Oilers",
+   "slug": "nhl-ana-edm-2026-11-05",
+   "outcome": "Ducks",
+   "token": "11074718903456854413808097078551226167001565795243439118051254900373730843968",
+   "shares": 27.77777777777778,
+   "entry": 0.36,
+   "cost": 10.0,
+   "opened": 1793924525.8022974,
+   "opened_iso": "2026-11-06T00:22:05+00:00",
+   "news": "Tristan Jarry (G, Edmonton Oilers) ruled out: healthy -> Out [NHL]",
+   "reason": "llm[groq-20b] trusted: Jarry's injury hurts Oilers, likely shifting odds toward Ducks",
+   "conf": 0.7,
+   "end": "2026-11-06T01:00:00+00:00",
+   "last_bid": 0.35,
+   "book_err": false,
+   "exit": 0.35,
+   "pnl": -0.27777777777777857,
+   "why": "market closing",
+   "closed_iso": "2026-11-06T00:55:12+00:00"
   }
  ],
  "cooldown": {
@@ -2313,6 +2316,7 @@
   "5603308": 1793566507.2653675,
   "5772981": 1793693363.784322,
   "5458630": 1793933701.5082996,
-  "5458665": 1793933702.1045325
+  "5458665": 1793933702.1045325,
+  "5458677": 1793937312.0036762
  }
 }

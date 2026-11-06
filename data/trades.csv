@@ -213,3 +213,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-11-05T23:55:01+00:00,SELL,Stars vs. Blue Jackets,Blue Jackets,21.74,0.4500,9.78,-0.22,market closing
 2026-11-05T23:55:01+00:00,SELL,Golden Knights vs. Red Wings,Golden Knights,17.54,0.5700,10.00,+0.00,market closing
 2026-11-06T00:22:05+00:00,BUY,Ducks vs. Oilers,Ducks,27.78,0.3600,10.00,,"Tristan Jarry (G, Edmonton Oilers) ruled out: healthy -> Out [NHL] | llm[groq-20b] trusted: Jarry's injury hurts Oilers, likely shifting odds toward Ducks"
+2026-11-06T00:55:11+00:00,SELL,Ducks vs. Oilers,Ducks,27.78,0.3500,9.72,-0.28,market closing
