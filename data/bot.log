@@ -27896,3 +27896,6 @@
 2026-11-06 07:37:48 indexed 665 markets
 2026-11-06 07:45:04   drop[team-not-named] Paraguayans protested against President Santiago Pena as he resigned following the collaps (Reuters) :: Paraguay
 2026-11-06 07:47:49 indexed 672 markets
+2026-11-06 07:57:36 indexed 663 markets
+2026-11-06 08:01:14 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
+2026-11-06 08:05:50 shift over, state saved
