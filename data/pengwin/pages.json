@@ -3479,23 +3479,43 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/napoli-lazio-statistiche-quote-e-pronostico-2026": {
 "first": 1793906769.2472434,
-"status": "pending"
+"status": "skipped",
+"pick": "La Lazio si presenta al Maradona con grande fiducia e, soprattutto, con maggiore freschezza, in virtù della settimana intera di riposo. Le quote sorridono ai partenopei, ma io non sono d'accordo: i biancocelesti hanno acquisito enorme consapevolezza e hanno tutte le carte in regola per mettere in difficoltà i padroni di casa. Mi aspetto che gli uomini di Gattuso riescano a segnare almeno una rete e quindi come pronostico base mi affido all'esito multigol ospite 1-3, a moltiplicatore 1.35.",
+"match": "NAPOLI-LAZIO",
+"picked_at": 1793990945.5641847,
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/genoa-milan-statistiche-quote-e-pronostico-2026": {
 "first": 1793906769.2472434,
-"status": "pending"
+"status": "skipped",
+"pick": "Il Milan è reduce dalla deludente battuta di arresto registrata in Europa League, ma sono convinto che i rossoneri in campionato possano voltare pagina, confermando la brillante prestazione nel derby. Penso che la formazione di Amorim uscirà imbattuta dalla trasferta al Ferraris, con almeno due reti complessive nel match: dunque, come pronostico base mi affido alla combo X2 + over 1.5, a quota 1.65. Per chi volesse osare di più, attenzione anche alla combo X2 + gol.",
+"match": "GENOA-MILAN",
+"picked_at": 1793990945.5641847,
+"why": "Genoa CFC vs. AC Milan: O/U 1.5 -> Over: no cash"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/monza-atalanta-statistiche-quote-e-pronostico-2026": {
 "first": 1793906769.2472434,
-"status": "pending"
+"status": "skipped",
+"pick": "L'Atalanta si presenta a Monza con la necessità di cambiare marcia, ma con evidenti difficoltà, come dimostrano le ultime uscite (sia in campionato che in coppa). Tra le mura amiche, i biancorossi hanno espresso il proprio potenziale offensivo in diverse occasioni e sono convinto che anche questa volta la storia si ripeterà. Mi aspetto una gara aperta, con occasioni da entrambe le parti: pertanto, preferisco evitare i segni e punto sull'esito gol, quotato a 1.50.",
+"match": "MONZA-ATALANTA",
+"picked_at": 1793990945.5641847,
+"why": "AC Monza vs. Atalanta BC: Both Teams to Score -> Yes: no cash"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/inter-como-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793906769.2472434,
-"status": "pending"
+"status": "skipped",
+"pick": "Il big match di giornata è previsto a San Siro e mette a confronto due tra le formazioni favorite al titolo. Nonostante i nove gol realizzati dal Como in Champions League, sono convinto che al Meazza la musica cambierà: nella scorsa stagione, l'Inter ha dimostrato di saper contrastare al meglio la squadra di Fabregas e penso che la storia possa ripetersi anche quest'anno. Come pronostico base mi affido alla combo 1X + over 1.5, a quota 1.50, mentre per chi volesse osare di più occhio anche alla combo 1X + gol, a moltiplicatore 1.95. Inoltre, l'Inter è la quarta squadra per calci d'angolo conquistati, il Como la seconda: dunque, mi attendo una gara con tanti corner e in una possibile bet builder consiglio: 1X, gol e over 8.5 corner, quotata a 3.00.",
+"match": "INTER-COMO",
+"picked_at": 1793990945.5641847,
+"why": "FC Internazionale Milano vs. Como 1907: O/U 1.5 -> Over: no cash"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-a/fiorentina-juventus-statistiche-quote-e-pronostico-2026": {
 "first": 1793906769.2472434,
-"status": "pending"
+"status": "skipped",
+"pick": "Il posticipo è previsto al Franchi e presenta una delle sfide più sentite del campionato italiano. L'arbitro del match è Colombo, che vanta una media di circa tre cartellini a partita. In campionato, la Fiorentina è la squadra che registra il maggior numero di cartellini e tale statistica potrebbe essere confermata: dunque, come proposta base mi affido all'esito over 1.5 cartellini casa, quotato a 1.35. Occhio anche al pronostico almeno due cartellini a testa, quotato a 1.90, da potenziale singola. In una bet builder, invece, consiglio l'accoppiata casa segna + over 1.5 cartellini casa, a moltiplicatore 1.80 (preferisco il gol della Viola rispetto a quello bianconero).",
+"match": "FIORENTINA-JUVENTUS",
+"picked_at": 1793990945.5641847,
+"why": "No Polymarket market for cards"
 },
 "https://www.mondopengwin.it/pronostici/calcio/serie-b/ascoli-palermo-statistiche-quote-e-pronostico-2026": {
 "first": 1793906769.2472434,
@@ -3709,13 +3729,13 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/mainz-bayern-monaco-statistiche-quote-e-pronostico-2": {
 "first": 1793906769.2472434,
-"status": "pending",
+"status": "skipped",
 "pick": "Il Bayern è chiamato a fare la partita e dopo quattro gare senza reti per Kane mi aspetto il ritorno al gol dell’attaccante inglese. C’è anche un dato curioso: nelle ultime due sfide contro il Mainz è sempre riuscito a trovare la rete. Mi aspetto una reazione del Bayern e una prestazione offensiva importante, con il neo Pallone d'Oro protagonista. Esito: Bayern vincente + Kane marcatore — Quota 1.80",
 "match": "MAINZ-BAYERN MONACO",
 "picked_at": 1793978870.7659123,
 "tries": 2,
 "llm_fails": 2,
-"why": "no LLM answer"
+"why": "no single Polymarket market covers both the Bayern win and a specific scorer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/stoccarda-werder-brema-statistiche-quote-e-pronostico-2": {
 "first": 1793906769.2472434,
@@ -3738,12 +3758,12 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/paderborn-francoforte-statistiche-quote-e-pronostico-2026": {
 "first": 1793906769.2472434,
-"status": "pending",
+"status": "skipped",
 "pick": "Il Paderborn arriva a questa sfida con l'idea di sfruttare il fattore campo, ma il Francoforte ha le qualità per uscire da questa trasferta con un risultato positivo. Preferisco quindi non cercare la vittoria secca degli ospiti e tutelarmi con la doppia chance X2, che copre sia il pareggio sia il successo dell’Eintracht, reduce da due vittorie in tre giorni - tra campionato e coppa - entrambe contro l'Amburgo. Esito: X2 — Quota 1.37",
 "match": "PADERBORN-FRANCOFORTE",
 "picked_at": 1793978870.7659123,
 "tries": 2,
-"why": "no Polymarket event"
+"why": "Will SC Paderborn 07 win on 2026-11-07? -> No: no cash"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/colonia-bayer-leverkusen-statistiche-quote-e-pronostico": {
 "first": 1793906769.2472434,
@@ -3751,7 +3771,7 @@
 "pick": "Un derby che si preannuncia intenso, con due squadre che avranno motivazioni importanti per fare risultato. In partite di questo tipo i duelli e la tensione possono aumentare, portando anche a diversi interventi fallosi e sanzioni disciplinari. Mi piace quindi il mercato dei cartellini, puntando su una gara con almeno quattro ammonizioni complessive. Esito: Over 3.5 cartellini",
 "match": "COLONIA-BAYER LEVERKUSEN",
 "picked_at": 1793978870.7659123,
-"tries": 2,
+"tries": 3,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/friburgo-union-berlino-statistiche-quote-e-pronostico": {
@@ -3768,8 +3788,8 @@
 "pick": "Anche in questa sfida scelgo una giocata legata alla produzione offensiva della squadra di casa. L’Hoffenheim ha le capacità di trovare almeno una rete e può conquistare un numero maggiori di calci d’angolo. Preferisco questa soluzione a un pronostico sul risultato secco. Esito: Hoffenheim segna + 1 corner squadra casa — Quota 1.50",
 "match": "HOFFENHEIM-SCHALKE",
 "picked_at": 1793978870.7659123,
-"tries": 2,
-"llm_fails": 2,
+"tries": 3,
+"llm_fails": 3,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/ligue-1/tolosa-strasburgo-statistiche-quote-e-pronostico-2026": {
@@ -3882,6 +3902,22 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/uefa-europa-conference-league/thun-hearts-statistiche-quote-e-pronostico-2026": {
 "first": 1793924966.6072588,
+"status": "pending"
+},
+"https://www.mondopengwin.it/pronostici/calcio/serie-b/padova-empoli-statistiche-quote-e-pronostico-2026-2": {
+"first": 1793990945.5641847,
+"status": "pending"
+},
+"https://www.mondopengwin.it/pronostici/calcio/serie-b/pisa-sdtirol-statistiche-quote-e-pronostico-2026": {
+"first": 1793990945.5641847,
+"status": "pending"
+},
+"https://www.mondopengwin.it/pronostici/calcio/serie-b/mantova-hellas-verona-statistiche-quote-e-pronostico-2026": {
+"first": 1793990945.5641847,
+"status": "pending"
+},
+"https://www.mondopengwin.it/pronostici/calcio/serie-b/benevento-avellino-statistiche-quote-e-pronostico-2026": {
+"first": 1793990945.5641847,
 "status": "pending"
 }
 }

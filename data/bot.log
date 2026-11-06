@@ -28087,3 +28087,45 @@
 2026-11-06 17:01:43 [pengwin] HOFFENHEIM-SCHALKE: no LLM answer (try 2)
 2026-11-06 17:02:52   drop[team-not-named] Oleksandr Zubkov has suffered a serious injury and may miss the rest of the year (UA.NEWS) :: FC Dynamo Kyiv
 2026-11-06 17:04:53 shift over, state saved
+2026-11-06 19:49:05 === start mode=paper pid=2445 ===
+2026-11-06 19:49:05 brain=llm cash=82.81 open=0
+2026-11-06 19:49:05 resuming with 7275 known news items
+2026-11-06 19:49:16 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=500&order=volume24hr&ascending=false&end_date_min=2026-11-06T18%3A49%3A05Z&end_date_max=2026-12-06T18%3A49%3A05Z
+2026-11-06 19:50:06 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1800&order=volume24hr&ascending=false&end_date_min=2026-11-06T18%3A49%3A28Z&end_date_max=2026-12-06T18%3A49%3A28Z
+2026-11-06 19:50:24 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=300&order=volume24hr&ascending=false&end_date_min=2026-11-06T18%3A50%3A18Z&end_date_max=2026-12-06T18%3A50%3A18Z
+2026-11-06 19:50:59 [pengwin] skip NAPOLI-LAZIO [MULTIGOL 1-3 OSPITE]: no matching market
+2026-11-06 19:51:04 [pengwin] skip GENOA-MILAN [OVER 1.5]: Genoa CFC vs. AC Milan: O/U 1.5 -> Over: no cash
+2026-11-06 19:51:09 [pengwin] skip MONZA-ATALANTA [Both Teams to Score @1.50]: AC Monza vs. Atalanta BC: Both Teams to Score -> Yes: no cash
+2026-11-06 19:51:09 indexed 801 markets
+2026-11-06 19:51:14 [pengwin] skip INTER-COMO [OVER 1.5]: FC Internazionale Milano vs. Como 1907: O/U 1.5 -> Over: no cash
+2026-11-06 19:51:17 [pengwin] skip FIORENTINA-JUVENTUS [OVER 1.5 CARTELLINI CASA]: No Polymarket market for cards
+2026-11-06 19:51:24   llm groq-120b: rate limited, skip 15s
+2026-11-06 19:51:26 [pengwin] skip MAINZ-BAYERN MONACO [Bayern win + Kane scorer]: no single Polymarket market covers both the Bayern win and a specific scorer
+2026-11-06 19:51:30 [pengwin] skip PADERBORN-FRANCOFORTE [X2]: Will SC Paderborn 07 win on 2026-11-07? -> No: no cash
+2026-11-06 19:51:32   drop[unconfirmed] Bam Knight (RB, Arizona Cardinals) ruled out: Questionable -> Out [NFL] (ESPN) :: concussed
+2026-11-06 19:51:32   drop[not-key] Jayden Williams (OT, Arizona Cardinals) ruled out: Questionable -> Out [NFL] (ESPN) :: Jayden Williams: knee injury
+2026-11-06 19:51:32   drop[unconfirmed] Jon Gaines II (G, Arizona Cardinals) ruled out: Questionable -> Out [NFL] (ESPN) :: injury
+2026-11-06 19:51:33 [pengwin] COLONIA-BAYER LEVERKUSEN: no Polymarket event (try 3)
+2026-11-06 19:51:33   drop[not-key] Kyle Dugger (S, Cincinnati Bengals) ruled out: Questionable -> Out [NFL] (ESPN) :: Kyle Dugger: injury
+2026-11-06 19:51:33   drop[not-key] Justin Walley (CB, Indianapolis Colts) ruled out: Questionable -> Out [NFL] (ESPN) :: Justin Walley: injury
+2026-11-06 19:51:33   llm groq-20b: rate limited, skip 5s
+2026-11-06 19:51:33 NEWS [ESPN 22m] TreVeyon Henderson (RB, New England Patriots) ruled out: Questionable -> Out [NFL]
+2026-11-06 19:51:33   skip Packers :: Packers vs. Patriots (rules fallback, LLM down (not traded))
+2026-11-06 19:51:33 NEWS [ESPN 30m] A.J. Brown (WR, New England Patriots) ruled out: Questionable -> Out [NFL]
+2026-11-06 19:51:33   skip Packers :: Packers vs. Patriots (rules fallback, LLM down (not traded))
+2026-11-06 19:51:33 NEWS [ESPN 0m] Garrett Wilson (WR, New York Jets) ruled out: Questionable -> Out [NFL]
+2026-11-06 19:51:33   skip Chiefs :: Jets vs. Chiefs (rules fallback, LLM down (not traded))
+2026-11-06 19:51:33 NEWS [ESPN 43m] Dennis Schroder (G, Charlotte Hornets) ruled out: Day-To-Day -> Out [NBA]
+2026-11-06 19:51:33   skip Celtics :: Celtics vs. Hornets (rules fallback, LLM down (not traded))
+2026-11-06 19:51:33 NEWS [ESPN 44m] Moussa Diabate (F, Charlotte Hornets) ruled out: Day-To-Day -> Out [NBA]
+2026-11-06 19:51:33   skip Celtics :: Celtics vs. Hornets (rules fallback, LLM down (not traded))
+2026-11-06 19:51:33 NEWS [ESPN 46m] Terrence Shannon Jr. (G, Minnesota Timberwolves) ruled out: Day-To-Day -> Out [NBA]
+2026-11-06 19:51:33   skip Pelicans :: Timberwolves vs. Pelicans (rules fallback, LLM down (not traded))
+2026-11-06 19:51:33 NEWS [ESPN 0m] Brennan Othmann (LW, Calgary Flames) ruled out: Day-To-Day -> Out [NHL]
+2026-11-06 19:51:33   skip Ducks :: Ducks vs. Flames (rules fallback, LLM down (not traded))
+2026-11-06 19:51:33 NEWS [ESPN 0m] Ridly Greig (C, Ottawa Senators) ruled out: Day-To-Day -> Out [NHL]
+2026-11-06 19:51:33   skip Utah :: Utah vs. Senators (rules fallback, LLM down (not traded))
+2026-11-06 19:51:35 [pengwin] HOFFENHEIM-SCHALKE: no LLM answer (try 3)
+2026-11-06 19:52:12 NEWS [ESPN 6m] Miro Heiskanen (D, Dallas Stars) ruled out: Day-To-Day -> Out [NHL]
+2026-11-06 19:52:12   skip Sharks :: Sharks vs. Stars (low conf 0.6)
+2026-11-06 19:53:54   drop[kind] Xabi Alonso confirms Chelsea injury scare ahead of Sunderland clash (EPL Index) :: other
