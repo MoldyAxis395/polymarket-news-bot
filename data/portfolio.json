@@ -1,6 +1,25 @@
 {
- "cash": 82.81397592480863,
- "positions": [],
+ "cash": 72.81397592480863,
+ "positions": [
+  {
+   "market_id": "5920629",
+   "question": "Giants vs. Eagles",
+   "slug": "nfl-nyg-phi-2026-11-08",
+   "outcome": "Giants",
+   "token": "91471525512370531263048668917293652754626557427218687859075864659124414889076",
+   "shares": 16.129032258064516,
+   "entry": 0.62,
+   "cost": 10.0,
+   "opened": 1794005244.9326384,
+   "opened_iso": "2026-11-06T22:47:24+00:00",
+   "news": "Jonathan Jones (CB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL]",
+   "reason": "llm[groq-20b] trusted: injury to key Eagles player likely boosts Giants odds",
+   "conf": 0.65,
+   "end": "2026-11-08T18:00:00+00:00",
+   "last_bid": 0.61,
+   "book_err": false
+  }
+ ],
  "closed": [
   {
    "market_id": "3871412",
