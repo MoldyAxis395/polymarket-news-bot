@@ -27944,3 +27944,10 @@
 2026-11-06 13:18:02 indexed 809 markets
 2026-11-06 13:20:36   drop[1-source] Joelinton + Fernandez-Pardo: Newcastle injury latest for FPL Gameweek 10 (www.fantasyfootballscout.co.uk) :: Newcastle United, wait 2nd source
 2026-11-06 13:20:37   drop[1-source] Akliouche suffers injury blow and is set to miss France national team camp (Tribuna.com) :: Romain Akliouche, wait 2nd source
+2026-11-06 13:28:03 indexed 802 markets
+2026-11-06 13:29:06 feed coindesk error x1: HTTPSConnectionPool(host='www.coindesk.com', port=443): Read timed out. (read timeout=15)
+2026-11-06 13:38:05 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1900&order=volume24hr&ascending=false&end_date_min=2026-11-06T12%3A37%3A23Z&end_date_max=2026-12-06T12%3A37%3A23Z
+2026-11-06 13:38:31 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=600&order=volume24hr&ascending=false&end_date_min=2026-11-06T12%3A38%3A17Z&end_date_max=2026-12-06T12%3A38%3A17Z
+2026-11-06 13:39:26 indexed 799 markets
+2026-11-06 13:49:27 indexed 806 markets
+2026-11-06 13:49:44   drop[1-source] Confirmed: Frenkie de Jong returns to Netherlands squad after recent comeback from injury (Barca Universal) :: Frenkie de Jong, wait 2nd source
