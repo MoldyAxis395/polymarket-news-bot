@@ -28250,3 +28250,37 @@
 2026-11-06 22:22:34   drop[not-key] Attorney Richard G. Kessler Suspended for 30 Days in Michigan Over Handling of Client’s Im (ALABnews -) :: Richard G. Kessler: suspension
 2026-11-06 22:22:58 [pengwin] COLONIA-BAYER LEVERKUSEN: no Polymarket event (try 8)
 2026-11-06 22:24:09 indexed 759 markets
+2026-11-06 22:25:00   llm groq-120b: rate limited, skip 261s
+2026-11-06 22:25:01   drop[no-pick] NC State’s Sigma Nu suspended & indefinitely closed, per national chapter decision (WRAL) :: short
+2026-11-06 22:27:19   drop[kind] Giants vs. Eagles Week 9 Injury Report: Cam Skattebo doubtful, Charlie Jones questionable (Giants.com) :: other
+2026-11-06 22:27:19   drop[not-key] Attorney Jeremiah W. Meyer-O’Day Suspended for 60 Days by Wisconsin Supreme Court (ALABnews -) :: Jeremiah W. Meyer-O’Day: court suspension
+2026-11-06 22:29:46   drop[kind] Recalled playsets sold on Amazon and Walmart pose a risk of injury or death, commission sa (ABC7 WWSB) :: other
+2026-11-06 22:31:54   llm groq-120b: rate limited, skip 97s
+2026-11-06 22:31:54   drop[1-source] Chicago Bears hit with another troubling development in injury-riddled secondary (ChiCitySports) :: Jalen Carter, wait 2nd source
+2026-11-06 22:34:07 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1700&order=volume24hr&ascending=false&end_date_min=2026-11-06T21%3A33%3A34Z&end_date_max=2026-12-06T21%3A33%3A34Z
+2026-11-06 22:34:56 indexed 754 markets
+2026-11-06 22:35:00   drop[team-not-named] Quenton Nelson (G, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: Indianapolis Colts
+2026-11-06 22:35:00   llm groq-120b: rate limited, skip 134s
+2026-11-06 22:35:01   drop[not-key] Rashid Shaheed (WR, Seattle Seahawks) ruled out: Questionable -> Out [NFL] (ESPN) :: Rashid Shaheed: injury
+2026-11-06 22:35:01   drop[kind] Injury Report: S Talanoa Hufanga among Broncos questionable for Week 9 game vs. Panthers,  (Denver Broncos) :: other
+2026-11-06 22:36:07   drop[no-market] US Supreme Court to hear Goldman Sachs appeal in bankruptcy arbitration case reut.rs/4z3dS (Reuters) :: Goldman Sachs
+2026-11-06 22:40:05 [pengwin]   book error Hamburger SV vs. Borussia Mönchengladbach: 1st Hal: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=86690999630385117634483853022064048414321790171833426906645573601967217155935
+2026-11-06 22:42:11   drop[kind] Patriots vs. Packers Friday injury report: Hunter Henry among seven questionable (Pats Pulpit) :: other
+2026-11-06 22:42:11   llm groq-120b: rate limited, skip 96s
+2026-11-06 22:42:12   drop[side] Five Detroit Lions Ruled Out, Star WR Questionable Against Dolphins (Sports Illustrated) :: Lions vs. Dolphins -> Lions vs fact ruled_out: - (Detroit Lions, nfl), bad for Detroit Lions. five players ruled out
+2026-11-06 22:44:18   drop[1-source] Quenton Nelson Gets Surgery on Knee Injury, Latest News on Seahawks Star's Status After Co (Bleacher Report) :: Quenton Nelson, wait 2nd source
+2026-11-06 22:44:49 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1500&order=volume24hr&ascending=false&end_date_min=2026-11-06T21%3A44%3A20Z&end_date_max=2026-12-06T21%3A44%3A20Z
+2026-11-06 22:45:40 indexed 742 markets
+2026-11-06 22:46:44   llm groq-120b: rate limited, skip 128s
+2026-11-06 22:46:44   drop[not-key] Kris Abrams-Draine (CB, Denver Broncos) ruled out: Questionable -> Out [NFL] (ESPN) :: Kris Abrams-Draine: injury
+2026-11-06 22:46:44   drop[not-key] Eyioma Uwazurike (DE, Denver Broncos) ruled out: Questionable -> Out [NFL] (ESPN) :: Eyioma Uwazurike: injury
+2026-11-06 22:46:45   drop[not-key] Brandon Jones (S, Denver Broncos) ruled out: Questionable -> Out [NFL] (ESPN) :: Brandon Jones: injury
+2026-11-06 22:48:14 [pengwin]   SELL Under @ 0.000 (resolved) pnl -10.00 :: Hamburger SV vs. Borussia Mönchengladbach: 1st Half O/U 1.5
+2026-11-06 22:51:02   llm groq-120b: rate limited, skip 51s
+2026-11-06 22:51:02 NEWS [Reuters 1m] Google acquires Wyoming data center site from AI infrastructure firm Crusoe reut.rs/4k2qxwo
+2026-11-06 22:51:02   skip Yes :: Will Google have the best AI model at the end of November 2026? (low conf 0.6)
+2026-11-06 22:51:30   drop[unconfirmed] Quenton Nelson out this Sunday, week-to-week with knee injury (NBC Sports) :: knee injury
+2026-11-06 22:53:14 [pengwin] COLONIA-BAYER LEVERKUSEN: no Polymarket event (try 9)
+2026-11-06 22:53:49   llm groq-120b: rate limited, skip 52s
+2026-11-06 22:53:49   drop[kind] High school football player being treated at OrthoCincy after shoulder injury (WKRC) :: other
+2026-11-06 22:53:50   drop[unconfirmed] Oregon guard Tyrone Riley IV out four weeks with left hand injury (KVAL) :: left hand injury

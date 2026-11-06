@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-06T22:23:46",
+ "updated": "2026-11-06T22:54:01",
  "start": 100.0,
  "cash": 0.0,
- "equity": 92.41,
+ "equity": 91.89,
  "open": [
   {
    "market_id": "6181030",
@@ -127,8 +127,9 @@
    "reason": "pengwin exact: X2 = draw or Udinese win, i.e., Venezia does NOT win, matching No on 'Will Venezia FC win?'",
    "conf": 1.0,
    "end": "2026-11-06T19:45:00+00:00",
-   "last_bid": 0.19,
-   "book_err": false
+   "last_bid": null,
+   "book_err": false,
+   "settle_retry": 1794002355.7341113
   },
   {
    "market_id": "6107573",
@@ -145,27 +146,8 @@
    "reason": "pengwin approx: using leg of combo 1X+UNDER 4.5 as double\u2011chance not available",
    "conf": 1.0,
    "end": "2026-11-06T20:00:00+00:00",
-   "last_bid": 0.712,
+   "last_bid": 0.93,
    "book_err": false
-  },
-  {
-   "market_id": "6107512",
-   "question": "Hamburger SV vs. Borussia M\u00f6nchengladbach: 1st Half O/U 1.5",
-   "slug": "bun-hsv-moe-2026-11-06-first-half-total-1pt5",
-   "outcome": "Under",
-   "token": "86690999630385117634483853022064048414321790171833426906645573601967217155935",
-   "shares": 15.625,
-   "entry": 0.64,
-   "cost": 10.0,
-   "opened": 1793977204.599341,
-   "opened_iso": "2026-11-06T15:00:04+00:00",
-   "news": "AMBURGO-MONCHENGLADBACH: UNDER 1.5 1ST HALF (esatto)",
-   "reason": "pengwin exact: Exact match to tipster's Under 1.5 first half",
-   "conf": 1.0,
-   "end": "2026-11-06T19:30:00+00:00",
-   "last_bid": null,
-   "book_err": false,
-   "settle_retry": 1794000416.087575
   },
   {
    "market_id": "6175750",
@@ -182,7 +164,7 @@
    "reason": "pengwin approx: approximates Multigol 2-5 casa by betting home scores \u22653 goals, the nearest available line",
    "conf": 1.0,
    "end": "2026-11-07T14:30:00+00:00",
-   "last_bid": 0.47,
+   "last_bid": 0.48,
    "book_err": false
   },
   {
@@ -204,8 +186,8 @@
    "book_err": false
   }
  ],
- "closed_count": 69,
- "realized_pnl": 2.99,
+ "closed_count": 70,
+ "realized_pnl": -7.01,
  "pages": {
   "pending": 100,
   "picked": 1,
