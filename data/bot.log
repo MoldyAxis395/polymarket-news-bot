@@ -27899,3 +27899,9 @@
 2026-11-06 07:57:36 indexed 663 markets
 2026-11-06 08:01:14 gdelt error: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)
 2026-11-06 08:05:50 shift over, state saved
+2026-11-06 11:19:51 === start mode=paper pid=2446 ===
+2026-11-06 11:19:51 brain=llm cash=82.81 open=0
+2026-11-06 11:19:51 resuming with 7232 known news items
+2026-11-06 11:20:35 indexed 698 markets
+2026-11-06 11:20:49   drop[team-not-named] ‘Total bloodbath’: Democrats‘ sweeping wins rock Wall Street over AI fears politi.co/4A6w8 (Politico) :: Democratic Party
+2026-11-06 11:20:50   drop[kind] Two dead after bus crashes in France, officials say (BBC) :: other
