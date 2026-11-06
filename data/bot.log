@@ -27825,3 +27825,14 @@
 2026-11-06 03:47:34   drop[kind] Illness, Injury or Assault Linked to Higher Suicide Attempt Risk in Adults With Suicidal T (Bioengineer.org) :: other
 2026-11-06 03:52:08 indexed 650 markets
 2026-11-06 03:52:35 [pengwin] league serie-a: HTTPSConnectionPool(host='www.mondopengwin.it', port=443): Read timed out. (read timeout=25)
+2026-11-06 03:56:51   drop[kind] Police investigating critical injury shooting in east Kansas City (KCTV) :: other
+2026-11-06 04:00:59   drop[kind] China's marriage rate in third quarter tumbles to 18-year low reut.rs/4z7MApk (Reuters) :: other
+2026-11-06 04:01:55 indexed 662 markets
+2026-11-06 04:02:12   drop[kind] Jets RB Breece Hall Claims His Family Was Threatened By Fans Amid Injury (roundtable.io) :: other
+2026-11-06 04:04:34   drop[1-source] Quality Ole Kirk Colt Ruled Out of G1 NZ 2000 Guineas (Breednet) :: New Zealand 2000 Guineas, wait 2nd source
+2026-11-06 04:04:35   drop[kind] Teacher suspended as Govt school found locked : Other detached (Cross Town News) :: other
+2026-11-06 04:10:18   drop[no-market] China's Standing Committee of the National People's Congress passes cross-border corruptio (Reuters) :: China
+2026-11-06 04:12:06 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1900&order=volume24hr&ascending=false&end_date_min=2026-11-06T03%3A11%3A28Z&end_date_max=2026-12-06T03%3A11%3A28Z
+2026-11-06 04:12:58 indexed 657 markets
+2026-11-06 04:21:46   drop[no-market] Democratic socialist-backed candidate Nithya Raman defeated incumbent Karen Bass in a clos (Reuters) :: Los Angeles
+2026-11-06 04:22:59 indexed 663 markets
