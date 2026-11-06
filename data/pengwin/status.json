@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-06T21:24:11",
+ "updated": "2026-11-06T21:53:29",
  "start": 100.0,
  "cash": 0.0,
- "equity": 102.23,
+ "equity": 104.39,
  "open": [
   {
    "market_id": "6181030",
@@ -127,7 +127,7 @@
    "reason": "pengwin exact: X2 = draw or Udinese win, i.e., Venezia does NOT win, matching No on 'Will Venezia FC win?'",
    "conf": 1.0,
    "end": "2026-11-06T19:45:00+00:00",
-   "last_bid": 0.62,
+   "last_bid": 0.69,
    "book_err": false
   },
   {
@@ -145,7 +145,7 @@
    "reason": "pengwin approx: using leg of combo 1X+UNDER 4.5 as double\u2011chance not available",
    "conf": 1.0,
    "end": "2026-11-06T20:00:00+00:00",
-   "last_bid": 0.9,
+   "last_bid": 0.981,
    "book_err": false
   },
   {
@@ -165,7 +165,7 @@
    "end": "2026-11-06T19:30:00+00:00",
    "last_bid": null,
    "book_err": false,
-   "settle_retry": 1793996659.816396
+   "settle_retry": 1793998536.0867712
   },
   {
    "market_id": "6175750",

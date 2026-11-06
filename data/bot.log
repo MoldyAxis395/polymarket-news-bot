@@ -28192,3 +28192,24 @@
 2026-11-06 21:22:22 [pengwin] COLONIA-BAYER LEVERKUSEN: no Polymarket event (try 6)
 2026-11-06 21:22:50 indexed 740 markets
 2026-11-06 21:23:42   drop[1-source] Cleveland Cavaliers Make Jarrett Allen Injury Announcement Before 76ers Game (heavy.com) :: Jarrett Allen, wait 2nd source
+2026-11-06 21:30:50   drop[team-not-named] Cleary prepares for more surgery as brother signs on (Nine.com.au) :: 
+2026-11-06 21:32:10   llm groq-120b: rate limited, skip 51s
+2026-11-06 21:32:10   drop[no-pick] KaVontae Turpin (WR, Dallas Cowboys) ruled out: Questionable -> Out [NFL] (ESPN) :: no outcome should rise
+2026-11-06 21:32:10   drop[not-key] Malachi Lawrence (LB, Dallas Cowboys) ruled out: Questionable -> Out [NFL] (ESPN) :: Malachi Lawrence: injury
+2026-11-06 21:33:10 indexed 737 markets
+2026-11-06 21:42:27   drop[team-not-named] No injury designation for Alvin Kamara for Week 9 (NBC Sports) :: New Orleans Saints
+2026-11-06 21:42:27   drop[1-source] The Hidden Impact of Oregon Receiver Jeremiah McClellan’s Return From Injury (Sports Illustrated) :: Jeremiah McClellan, wait 2nd source
+2026-11-06 21:43:08 indexed 731 markets
+2026-11-06 21:43:10   llm groq-120b: rate limited, skip 215s
+2026-11-06 21:43:10 NEWS [ESPN 11m] Clint Capela (C, Houston Rockets) ruled out: Day-To-Day -> Out [NBA]
+2026-11-06 21:43:10   skip Suns :: Rockets vs. Suns (low conf 0.6)
+2026-11-06 21:44:48   drop[unconfirmed] Leeds v Tottenham injury latest as Rodon nears return, Maddison and Porro available (OneFootball) :: injury update
+2026-11-06 21:47:06   drop[kind] Caleb Downs has no injury designation, George Pickens listed as questionable (NBC Sports) :: other
+2026-11-06 21:51:43   llm groq-120b: rate limited, skip 82s
+2026-11-06 21:51:44   drop[not-key] Zack Kelly Injury: Passes through waivers (RotoWire) :: Zack Kelly: injury waived
+2026-11-06 21:52:41 [pengwin] COLONIA-BAYER LEVERKUSEN: no Polymarket event (try 7)
+2026-11-06 21:53:08 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1400&order=volume24hr&ascending=false&end_date_min=2026-11-06T20%3A52%3A41Z&end_date_max=2026-12-06T20%3A52%3A41Z
+2026-11-06 21:53:59 indexed 733 markets
+2026-11-06 21:54:03   drop[team-not-named] Lenar Perez Withdraws From November 12 Fight After Training Injury (MiddleEasy) :: UFC
+2026-11-06 21:54:03   llm groq-120b: rate limited, skip 251s
+2026-11-06 21:54:03   drop[unconfirmed] France Squad For Nations League 2026-27: Zinedine Zidane Hands Pablo Pagis First Call-Up a (The Sunday Guardian) :: injury recovery
