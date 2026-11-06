@@ -3771,7 +3771,7 @@
 "pick": "Un derby che si preannuncia intenso, con due squadre che avranno motivazioni importanti per fare risultato. In partite di questo tipo i duelli e la tensione possono aumentare, portando anche a diversi interventi fallosi e sanzioni disciplinari. Mi piace quindi il mercato dei cartellini, puntando su una gara con almeno quattro ammonizioni complessive. Esito: Over 3.5 cartellini",
 "match": "COLONIA-BAYER LEVERKUSEN",
 "picked_at": 1793978870.7659123,
-"tries": 3,
+"tries": 4,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/friburgo-union-berlino-statistiche-quote-e-pronostico": {
@@ -3784,13 +3784,13 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/hoffenheim-schalke-statistiche-quote-e-pronostico": {
 "first": 1793906769.2472434,
-"status": "pending",
+"status": "skipped",
 "pick": "Anche in questa sfida scelgo una giocata legata alla produzione offensiva della squadra di casa. L’Hoffenheim ha le capacità di trovare almeno una rete e può conquistare un numero maggiori di calci d’angolo. Preferisco questa soluzione a un pronostico sul risultato secco. Esito: Hoffenheim segna + 1 corner squadra casa — Quota 1.50",
 "match": "HOFFENHEIM-SCHALKE",
 "picked_at": 1793978870.7659123,
 "tries": 3,
 "llm_fails": 3,
-"why": "no LLM answer"
+"why": "no matching market"
 },
 "https://www.mondopengwin.it/pronostici/calcio/ligue-1/tolosa-strasburgo-statistiche-quote-e-pronostico-2026": {
 "first": 1793906769.2472434,

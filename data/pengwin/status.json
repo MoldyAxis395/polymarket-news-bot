@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-06T19:53:24",
+ "updated": "2026-11-06T20:23:38",
  "start": 100.0,
  "cash": 0.0,
- "equity": 100.38,
+ "equity": 100.35,
  "open": [
   {
    "market_id": "6181030",
@@ -163,7 +163,7 @@
    "reason": "pengwin exact: Exact match to tipster's Under 1.5 first half",
    "conf": 1.0,
    "end": "2026-11-06T19:30:00+00:00",
-   "last_bid": 0.61,
+   "last_bid": 0.62,
    "book_err": false
   },
   {
@@ -181,7 +181,7 @@
    "reason": "pengwin approx: approximates Multigol 2-5 casa by betting home scores \u22653 goals, the nearest available line",
    "conf": 1.0,
    "end": "2026-11-07T14:30:00+00:00",
-   "last_bid": 0.48,
+   "last_bid": 0.47,
    "book_err": false
   },
   {
@@ -206,10 +206,10 @@
  "closed_count": 69,
  "realized_pnl": 2.99,
  "pages": {
-  "pending": 101,
+  "pending": 100,
   "picked": 1,
   "traded": 80,
-  "skipped": 207,
+  "skipped": 208,
   "expired": 184
  }
 }
