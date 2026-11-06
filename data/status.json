@@ -1,14 +1,33 @@
 {
- "updated": "2026-11-06T01:01:15",
+ "updated": "2026-11-06T01:31:07",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 0,
- "markets_indexed": 675,
- "news_processed": 377,
- "cash": 83.09,
- "equity": 83.09,
+ "llm_calls_today": 16,
+ "markets_indexed": 681,
+ "news_processed": 402,
+ "cash": 73.09,
+ "equity": 82.81,
  "start": 100.0,
- "open": [],
+ "open": [
+  {
+   "market_id": "5458677",
+   "question": "Ducks vs. Oilers",
+   "slug": "nhl-ana-edm-2026-11-05",
+   "outcome": "Ducks",
+   "token": "11074718903456854413808097078551226167001565795243439118051254900373730843968",
+   "shares": 27.77777777777778,
+   "entry": 0.36,
+   "cost": 10.0,
+   "opened": 1793924525.8022974,
+   "opened_iso": "2026-11-06T00:22:05+00:00",
+   "news": "Tristan Jarry (G, Edmonton Oilers) ruled out: healthy -> Out [NHL]",
+   "reason": "llm[groq-20b] trusted: Jarry's injury hurts Oilers, likely shifting odds toward Ducks",
+   "conf": 0.7,
+   "end": "2026-11-06T01:00:00+00:00",
+   "last_bid": 0.35,
+   "book_err": false
+  }
+ ],
  "closed_count": 103,
  "llm": {
   "backends": [
@@ -17,23 +36,23 @@
   ],
   "fallbacks": 15,
   "errors": {
-   "groq-120b": "rate limited, skip 160s"
+   "groq-120b": "rate limited, skip 145s"
   },
   "rejects": {
-   "not-key": 22,
+   "not-key": 26,
    "no-market": 2,
    "side": 5,
-   "fluff": 94,
-   "kind": 33,
+   "fluff": 98,
+   "kind": 37,
    "team-not-named": 17,
-   "1-source": 17,
+   "1-source": 19,
    "unconfirmed": 3,
    "no-pick": 1,
    "verify": 4
   },
   "calls": {
-   "groq-120b": 313,
-   "groq-20b": 43
+   "groq-20b": 8,
+   "groq-120b": 8
   }
  },
  "realized_pnl": -16.91

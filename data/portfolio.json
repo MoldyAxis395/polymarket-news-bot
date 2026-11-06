@@ -1,6 +1,25 @@
 {
- "cash": 83.09175370258642,
- "positions": [],
+ "cash": 73.09175370258642,
+ "positions": [
+  {
+   "market_id": "5458677",
+   "question": "Ducks vs. Oilers",
+   "slug": "nhl-ana-edm-2026-11-05",
+   "outcome": "Ducks",
+   "token": "11074718903456854413808097078551226167001565795243439118051254900373730843968",
+   "shares": 27.77777777777778,
+   "entry": 0.36,
+   "cost": 10.0,
+   "opened": 1793924525.8022974,
+   "opened_iso": "2026-11-06T00:22:05+00:00",
+   "news": "Tristan Jarry (G, Edmonton Oilers) ruled out: healthy -> Out [NHL]",
+   "reason": "llm[groq-20b] trusted: Jarry's injury hurts Oilers, likely shifting odds toward Ducks",
+   "conf": 0.7,
+   "end": "2026-11-06T01:00:00+00:00",
+   "last_bid": 0.35,
+   "book_err": false
+  }
+ ],
  "closed": [
   {
    "market_id": "3871412",
