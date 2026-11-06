@@ -28070,3 +28070,20 @@
 2026-11-06 16:47:19 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1000&order=volume24hr&ascending=false&end_date_min=2026-11-06T15%3A46%3A57Z&end_date_max=2026-12-06T15%3A46%3A57Z
 2026-11-06 16:48:14 indexed 808 markets
 2026-11-06 16:53:17   drop[not-key] Trevin Wallace (LB, New York Jets) ruled out: Questionable -> Out [NFL] (ESPN) :: Trevin Wallace: injury
+2026-11-06 16:55:25   drop[kind] Swimming Canada Hired, Then Fired, Man Suspended From Working or Attending Sanctioned Hock (SwimSwam) :: other
+2026-11-06 16:58:14 indexed 804 markets
+2026-11-06 17:01:09 [pengwin] skip NOTTINGHAM FOREST-MANCHESTER CITY [OSPITE SEGNA 2° TEMPO]: No Polymarket market matches the away team scoring in the second half
+2026-11-06 17:01:13   llm groq-120b: rate limited, skip 450s
+2026-11-06 17:01:15 [pengwin] skip BRIGHTON-BRENTFORD [OVER 1.5]: Brighton & Hove Albion FC vs. Brentford FC: O/U 1.5 -> Over: no cash
+2026-11-06 17:01:21 [pengwin] skip MANCHESTER UNITED-ASTON VILLA [GG]: Manchester United FC vs. Aston Villa FC: Both Teams to Score -> Yes: no cash
+2026-11-06 17:01:27 [pengwin] skip LIPSIA-AUGSBURG [GOAL]: RB Leipzig vs. FC Augsburg: Both Teams to Score -> Yes: no cash
+2026-11-06 17:01:30   llm groq-20b: rate limited, skip 1s
+2026-11-06 17:01:30 [pengwin] MAINZ-BAYERN MONACO: no LLM answer (try 2)
+2026-11-06 17:01:35 [pengwin] skip STOCCARDA-WERDER BREMA [GOAL]: VfB Stuttgart vs. SV Werder Bremen: Both Teams to Score -> Yes: no cash
+2026-11-06 17:01:38   drop[kind] McDonald's warning for Roehrig: 'I beat Dubois in the amateurs!' (Sky Sports) :: other
+2026-11-06 17:01:38   llm groq-20b: rate limited, skip 7s
+2026-11-06 17:01:38 [pengwin] PADERBORN-FRANCOFORTE: no Polymarket event (try 2)
+2026-11-06 17:01:40 [pengwin] COLONIA-BAYER LEVERKUSEN: no Polymarket event (try 2)
+2026-11-06 17:01:43 [pengwin] HOFFENHEIM-SCHALKE: no LLM answer (try 2)
+2026-11-06 17:02:52   drop[team-not-named] Oleksandr Zubkov has suffered a serious injury and may miss the rest of the year (UA.NEWS) :: FC Dynamo Kyiv
+2026-11-06 17:04:53 shift over, state saved

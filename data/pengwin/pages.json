@@ -3545,13 +3545,13 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/nottingham-forest-manchester-city-statistiche-quote-e-pronostico-2026": {
 "first": 1793906769.2472434,
-"status": "pending",
+"status": "skipped",
 "pick": "I padroni di casa si troveranno di fronte la corazzata Manchester City , che arriva a questo appuntamento con un dato statistico clamoroso e spaventoso. I Citizens, infatti, hanno una spiccata propensione a spaccare in due i match e a fare il bello e il cattivo tempo soprattutto dopo l'intervallo: pensate che ben 13 dei loro 20 gol complessivi sono stati segnati tutti nella ripresa! Con Haaland e compagni pronti a scatenarsi negli ultimi trenta metri quando le due squadre si allungheranno, l'opzione OSPITE SEGNA 2° TEMPO è una perla assoluta, proposta all'ottima quota di 1.45 .",
 "match": "NOTTINGHAM FOREST-MANCHESTER CITY",
 "picked_at": 1793978870.7659123,
 "tries": 1,
 "llm_fails": 1,
-"why": "no LLM answer"
+"why": "No Polymarket market matches the away team scoring in the second half"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/sunderland-chelsea-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793906769.2472434,
@@ -3579,22 +3579,22 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/brighton-brentford-statistiche-quote-e-pronostico-2026": {
 "first": 1793906769.2472434,
-"status": "pending",
+"status": "skipped",
 "pick": "I padroni di casa si presentano a questo appuntamento determinati a far valere la legge del proprio fortino casalingo, dove storicamente esprimono un calcio propositivo, spettacolare e ricco di occasioni da rete. La squadra di Hurzeler, infatti, viaggia con un'ottima solidità tra le mura amiche, e difficilmente si lascerà scappare punti preziosi in questo turno. Dall'altra parte arriva però un Brentford che è un cliente sempre spigoloso e capace di pungere in ripartenza, ma che in trasferta tende a concedere qualcosa di troppo nelle retrovie. Ci si aspetta dunque una gara saldamente indirizzata a favore dei Seagulls , ma condita da diverse marcature, escludendo quasi categoricamente un match bloccato o un pareggio a reti bianche. Per questo motivo, la combo 1X+OVER 1,5 è un'opzione di grandissima affidabilità, a quota 1.50 .",
 "match": "BRIGHTON-BRENTFORD",
 "picked_at": 1793978870.7659123,
 "tries": 1,
 "llm_fails": 1,
-"why": "no LLM answer"
+"why": "Brighton & Hove Albion FC vs. Brentford FC: O/U 1.5 -> Over: no cash"
 },
 "https://www.mondopengwin.it/pronostici/calcio/premier-league/manchester-united-aston-villa-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793906769.2472434,
-"status": "pending",
+"status": "skipped",
 "pick": "Inutile girarci intorno: quando si gioca a Birmingham i novanta minuti promettono scintille e spettacolo dal primo all'ultimo secondo. I Villans di Unai Emery , infatti, davanti al proprio pubblico si trasformano in una vera e propria macchina da gol, esaltandosi nei grandi appuntamenti e aggredendo alti gli avversari. Dall'altra parte, però, arriva un Manchester United affamato di punti, che può contare su un reparto offensivo ricco di talento e velocità capace di colpire in transizione in qualsiasi momento, malgrado il momento decisamente no vissuto dal club. Entrambe le squadre hanno una filosofia di gioco propositiva, ma al contempo tendono a concedere sempre qualcosa di troppo nelle retrovie quando i ritmi si alzano. Con il fattore Villa Park a spingere i padroni di casa e i Red Devils pronti a rispondere colpo su colpo, ci sono tutti i presupposti per assistere a una gara vibrante e ricca di capovolgimenti di fronte. L'esito più logico, di conseguenza, non può che essere il GOAL , quotato ad un interessante 1.50 .",
 "match": "MANCHESTER UNITED-ASTON VILLA",
 "picked_at": 1793978870.7659123,
 "tries": 1,
-"why": "no Polymarket event"
+"why": "Manchester United FC vs. Aston Villa FC: Both Teams to Score -> Yes: no cash"
 },
 "https://www.mondopengwin.it/pronostici/calcio/la-liga/siviglia-alaves-statistiche-quote-e-pronostico-2026-2": {
 "first": 1793906769.2472434,
@@ -3700,12 +3700,12 @@
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/lipsia-augsburg-statistiche-quote-e-pronostico-2": {
 "first": 1793906769.2472434,
-"status": "pending",
+"status": "skipped",
 "pick": "Il Lipsia giocherà in casa e ha le qualità per imporre il proprio gioco, con un Augsburg che può comunque dire la sua in fase offensiva. Per questa sfida mi prendo una combo che copre la vittoria o il pareggio dei padroni di casa, aggiungendo il gol di entrambe le squadre. Una soluzione interessante per una partita che potrebbe regalare occasioni da entrambe le parti. Esito: Lipsia 1X + GOAL — Quota 1.65",
 "match": "LIPSIA-AUGSBURG",
 "picked_at": 1793978870.7659123,
 "tries": 1,
-"why": "no Polymarket event"
+"why": "RB Leipzig vs. FC Augsburg: Both Teams to Score -> Yes: no cash"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/mainz-bayern-monaco-statistiche-quote-e-pronostico-2": {
 "first": 1793906769.2472434,
@@ -3713,18 +3713,18 @@
 "pick": "Il Bayern è chiamato a fare la partita e dopo quattro gare senza reti per Kane mi aspetto il ritorno al gol dell’attaccante inglese. C’è anche un dato curioso: nelle ultime due sfide contro il Mainz è sempre riuscito a trovare la rete. Mi aspetto una reazione del Bayern e una prestazione offensiva importante, con il neo Pallone d'Oro protagonista. Esito: Bayern vincente + Kane marcatore — Quota 1.80",
 "match": "MAINZ-BAYERN MONACO",
 "picked_at": 1793978870.7659123,
-"tries": 1,
-"llm_fails": 1,
+"tries": 2,
+"llm_fails": 2,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/stoccarda-werder-brema-statistiche-quote-e-pronostico-2": {
 "first": 1793906769.2472434,
-"status": "pending",
+"status": "skipped",
 "pick": "Lo Stoccarda può sfruttare il fattore campo e ha le qualità per mettere in difficoltà un Werder che sta comunque vivendo un ottimo momento della stagione. Non escludo infatti che gli ospiti riescano a trovare la via del gol, considerando la loro capacità di rendersi pericolosi in avanti. La combo 1X + GOAL mi sembra una buona soluzione per coprire il risultato senza rinunciare alla possibilità di vedere entrambe le squadre a segno. Esito: Stoccarda 1X + GOAL — Quota 1.70",
 "match": "STOCCARDA-WERDER BREMA",
 "picked_at": 1793978870.7659123,
 "tries": 1,
-"why": "no Polymarket event"
+"why": "VfB Stuttgart vs. SV Werder Bremen: Both Teams to Score -> Yes: no cash"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/borussia-dortmund-elversberg-statistiche-quote-e-pronostico-2026": {
 "first": 1793906769.2472434,
@@ -3742,7 +3742,7 @@
 "pick": "Il Paderborn arriva a questa sfida con l'idea di sfruttare il fattore campo, ma il Francoforte ha le qualità per uscire da questa trasferta con un risultato positivo. Preferisco quindi non cercare la vittoria secca degli ospiti e tutelarmi con la doppia chance X2, che copre sia il pareggio sia il successo dell’Eintracht, reduce da due vittorie in tre giorni - tra campionato e coppa - entrambe contro l'Amburgo. Esito: X2 — Quota 1.37",
 "match": "PADERBORN-FRANCOFORTE",
 "picked_at": 1793978870.7659123,
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/colonia-bayer-leverkusen-statistiche-quote-e-pronostico": {
@@ -3751,7 +3751,7 @@
 "pick": "Un derby che si preannuncia intenso, con due squadre che avranno motivazioni importanti per fare risultato. In partite di questo tipo i duelli e la tensione possono aumentare, portando anche a diversi interventi fallosi e sanzioni disciplinari. Mi piace quindi il mercato dei cartellini, puntando su una gara con almeno quattro ammonizioni complessive. Esito: Over 3.5 cartellini",
 "match": "COLONIA-BAYER LEVERKUSEN",
 "picked_at": 1793978870.7659123,
-"tries": 1,
+"tries": 2,
 "why": "no Polymarket event"
 },
 "https://www.mondopengwin.it/pronostici/calcio/bundesliga/friburgo-union-berlino-statistiche-quote-e-pronostico": {
@@ -3768,8 +3768,8 @@
 "pick": "Anche in questa sfida scelgo una giocata legata alla produzione offensiva della squadra di casa. L’Hoffenheim ha le capacità di trovare almeno una rete e può conquistare un numero maggiori di calci d’angolo. Preferisco questa soluzione a un pronostico sul risultato secco. Esito: Hoffenheim segna + 1 corner squadra casa — Quota 1.50",
 "match": "HOFFENHEIM-SCHALKE",
 "picked_at": 1793978870.7659123,
-"tries": 1,
-"llm_fails": 1,
+"tries": 2,
+"llm_fails": 2,
 "why": "no LLM answer"
 },
 "https://www.mondopengwin.it/pronostici/calcio/ligue-1/tolosa-strasburgo-statistiche-quote-e-pronostico-2026": {
