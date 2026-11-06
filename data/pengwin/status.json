@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-06T20:23:38",
+ "updated": "2026-11-06T20:53:56",
  "start": 100.0,
  "cash": 0.0,
- "equity": 100.35,
+ "equity": 98.28,
  "open": [
   {
    "market_id": "6181030",
@@ -127,7 +127,7 @@
    "reason": "pengwin exact: X2 = draw or Udinese win, i.e., Venezia does NOT win, matching No on 'Will Venezia FC win?'",
    "conf": 1.0,
    "end": "2026-11-06T19:45:00+00:00",
-   "last_bid": 0.58,
+   "last_bid": 0.61,
    "book_err": false
   },
   {
@@ -145,7 +145,7 @@
    "reason": "pengwin approx: using leg of combo 1X+UNDER 4.5 as double\u2011chance not available",
    "conf": 1.0,
    "end": "2026-11-06T20:00:00+00:00",
-   "last_bid": 0.83,
+   "last_bid": 0.82,
    "book_err": false
   },
   {
@@ -163,7 +163,7 @@
    "reason": "pengwin exact: Exact match to tipster's Under 1.5 first half",
    "conf": 1.0,
    "end": "2026-11-06T19:30:00+00:00",
-   "last_bid": 0.62,
+   "last_bid": 0.45,
    "book_err": false
   },
   {
@@ -181,7 +181,7 @@
    "reason": "pengwin approx: approximates Multigol 2-5 casa by betting home scores \u22653 goals, the nearest available line",
    "conf": 1.0,
    "end": "2026-11-07T14:30:00+00:00",
-   "last_bid": 0.47,
+   "last_bid": 0.48,
    "book_err": false
   },
   {
