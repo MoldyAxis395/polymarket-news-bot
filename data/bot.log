@@ -27951,3 +27951,11 @@
 2026-11-06 13:39:26 indexed 799 markets
 2026-11-06 13:49:27 indexed 806 markets
 2026-11-06 13:49:44   drop[1-source] Confirmed: Frenkie de Jong returns to Netherlands squad after recent comeback from injury (Barca Universal) :: Frenkie de Jong, wait 2nd source
+2026-11-06 13:59:21 indexed 800 markets
+2026-11-06 14:09:38 indexed 796 markets
+2026-11-06 14:10:27   drop[kind] Aberdeen suffer major double blow as Stephen Robinson confirms injury lay-offs (The Herald) :: other
+2026-11-06 14:15:03   drop[1-source] Tomato exports to African markets again suspended by Morocco to lower domestic prices (Hortidaily) :: Morocco, wait 2nd source
+2026-11-06 14:15:04   drop[kind] Multiple Corruption Allegations Against Suspended IAS Officer Abhishek Chandra, ED Yet to  (TRIPURAINFO) :: other
+2026-11-06 14:19:10 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=700&order=volume24hr&ascending=false&end_date_min=2026-11-06T13%3A18%3A55Z&end_date_max=2026-12-06T13%3A18%3A55Z
+2026-11-06 14:20:06 indexed 808 markets
+2026-11-06 14:20:11   drop[1-source] PADEL. Hand injury rules Ale Galán out of Dubai P1 (Tennis Tonic) :: Ale Galán, wait 2nd source
