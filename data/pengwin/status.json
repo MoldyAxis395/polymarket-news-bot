@@ -1,27 +1,9 @@
 {
- "updated": "2026-11-07T16:08:54",
+ "updated": "2026-11-07T16:18:30",
  "start": 100.0,
- "cash": 11.76,
- "equity": 81.03,
+ "cash": 24.42,
+ "equity": 80.08,
  "open": [
-  {
-   "market_id": "6181030",
-   "question": "M\u00e1laga CF vs. Real Racing Club: M\u00e1laga CF O/U 0.5",
-   "slug": "lal-mala-rrc-2026-11-07-team-total-home-0pt5",
-   "outcome": "Over",
-   "token": "39798330446033684595112279189309930448691686211679904547466423786053192801800",
-   "shares": 12.658227848101266,
-   "entry": 0.79,
-   "cost": 10.0,
-   "opened": 1793975350.7985992,
-   "opened_iso": "2026-11-06T14:29:10+00:00",
-   "news": "Malaga-Racing: MULTIGOL 1-3 CASA (approssimato)",
-   "reason": "pengwin approx: home scoring \u22651 approximated by M\u00e1laga O/U 0.5 Over",
-   "conf": 1.0,
-   "end": "2026-11-07T13:00:00+00:00",
-   "last_bid": 0.999,
-   "book_err": false
-  },
   {
    "market_id": "6180809",
    "question": "CA Osasuna vs. Athletic Club: O/U 4.5",
@@ -127,7 +109,7 @@
    "reason": "pengwin approx: approximates Multigol 2-5 casa by betting home scores \u22653 goals, the nearest available line",
    "conf": 1.0,
    "end": "2026-11-07T14:30:00+00:00",
-   "last_bid": 0.22,
+   "last_bid": 0.17,
    "book_err": false
   },
   {
@@ -149,8 +131,8 @@
    "book_err": false
   }
  ],
- "closed_count": 72,
- "realized_pnl": -15.24,
+ "closed_count": 73,
+ "realized_pnl": -12.59,
  "pages": {
   "pending": 92,
   "picked": 1,

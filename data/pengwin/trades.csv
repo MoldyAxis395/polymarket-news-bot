@@ -155,3 +155,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-11-06T21:48:14+00:00,SELL,Hamburger SV vs. Borussia Mönchengladbach: 1st Half O/U 1.5,Under,15.62,0.0000,0.00,-10.00,resolved
 2026-11-06T22:00:08+00:00,SELL,Will Venezia FC win on 2026-11-06?,No,17.24,0.0000,0.00,-10.00,resolved
 2026-11-06T22:12:20+00:00,SELL,Everton FC vs. Coventry City FC: O/U 4.5,Under,11.76,1.0000,11.76,+1.76,resolved
+2026-11-07T15:16:27+00:00,SELL,Málaga CF vs. Real Racing Club: Málaga CF O/U 0.5,Over,12.66,1.0000,12.66,+2.66,resolved
