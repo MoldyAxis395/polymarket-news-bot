@@ -28657,3 +28657,15 @@
 2026-11-07 15:02:15 NEWS [ESPN 0m] Newcastle United confirmed lineup vs Fulham: Fabian Schär, Joelinton, Joe Willock ruled out of starting XI [eng.1]
 2026-11-07 15:02:15   skip Yes :: Will Fulham FC win on 2026-11-07? (low conf 0.62)
 2026-11-07 15:04:36   drop[team-not-named] Josh Tongue to miss Australia ODIs due to toe injury (NewsBytes) :: England cricket team
+2026-11-07 15:12:04 indexed 819 markets
+2026-11-07 15:16:19 NEWS [ESPN 0m] Espanyol confirmed lineup vs Deportivo: Vanja Drkusic, Roger Hinojo, Javi Hernandez, Rafael Bauza, Bryan Zaragoza ruled out of starting XI [esp.1]
+2026-11-07 15:16:19   skip No :: Will RCD Espanyol de Barcelona win on 2026-11-07? (low conf 0.6)
+2026-11-07 15:16:20   drop[no-pick] Deportivo confirmed lineup vs Espanyol: Diego Villares ruled out of starting XI [esp.1] (ESPN) :: short
+2026-11-07 15:17:02   drop[no-market] England speedster Josh Tongue ruled out of ODI series against Australia due to toe injury (The Tribune) :: England cricket team
+2026-11-07 15:17:03   drop[no-market] England fast bowler Josh Tongue ruled out of Australia ODI series (The News Mill) :: England cricket team
+2026-11-07 15:19:09   drop[kind] Unlikely Bucks reunion cannot be ruled out until Giannis signs extension (Behind the Buck Pass) :: other
+2026-11-07 15:22:06 indexed 816 markets
+2026-11-07 15:26:14   drop[1-source] Gabriel Martinelli ‘to rejoin’ Al-Hilal training after injury (OneFootball) :: Gabriel Martinelli, wait 2nd source
+2026-11-07 15:26:14   drop[kind] Dog walker escapes injury after becoming trapped in quicksand on Donegal beach (Belfast Telegraph) :: other
+2026-11-07 15:32:10 indexed 808 markets
+2026-11-07 15:36:54   drop[no-pick] Okafor’s Leeds winner adds insult to Tel’s injury for Tottenham as Bogle escapes red (The Guardian) :: short
