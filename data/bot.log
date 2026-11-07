@@ -28522,3 +28522,11 @@
 2026-11-07 06:05:26   drop[1-source] Oxfordshire nurse suspended for nine months handed new order by misconduct panel (Bicester Advertiser) :: Oxfordshire healthcare sector, wait 2nd source
 2026-11-07 06:08:51 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1000&order=volume24hr&ascending=false&end_date_min=2026-11-07T05%3A08%3A31Z&end_date_max=2026-12-07T05%3A08%3A31Z
 2026-11-07 06:09:40 indexed 709 markets
+2026-11-07 06:12:10   drop[1-source] San Pedro Officer Suspended After Shoving Gun Into Man’s Mouth Tag (Greater Belize Media) :: San Pedro Police Department, wait 2nd source
+2026-11-07 06:16:43   drop[kind] Irish golfer who sued club over alleged spinal injury in fall settles action (Irish Mirror) :: other
+2026-11-07 06:19:42 indexed 697 markets
+2026-11-07 06:23:46   drop[team-not-named] FRIDAY INJURY REPORT: Ole Miss’ leading tackler gets an availability boost (On3) :: University of Mississippi
+2026-11-07 06:28:11   drop[kind] Boks warned injury-hit Italy won't roll over in Turin (KickOff) :: other
+2026-11-07 06:29:43 indexed 701 markets
+2026-11-07 06:30:33   drop[kind] 🇺🇦🇷🇺 Ukrainian soldier CUTS OFF own foot before historic DRONE RESCUE Kostiantyn Vlasenko, (X) :: other
+2026-11-07 06:39:53 indexed 711 markets
