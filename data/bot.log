@@ -28778,3 +28778,31 @@
 2026-11-07 19:52:56   drop[1-source] Penn State football injury issues at wide receiver vs Washington (Chambersburg Public Opinion) :: Jalen Reagor, wait 2nd source
 2026-11-07 19:55:44   llm groq-120b: rate limited, skip 23s
 2026-11-07 19:55:44   drop[not-key] Nahshon Wright (CB, New York Jets) ruled out: Questionable -> Out [NFL] (ESPN) :: Nahshon Wright: injury
+2026-11-07 20:02:50 indexed 721 markets
+2026-11-07 20:02:52   drop[not-key] Sandis Vilmanis (LW, Florida Panthers) ruled out: healthy -> Out [NHL] (ESPN) :: Sandis Vilmanis: ruled out due to injury
+2026-11-07 20:03:18   llm groq-120b: rate limited, skip 224s
+2026-11-07 20:03:19   drop[no-pick] Valencia confirmed lineup vs Real Madrid: Arnau Martínez, Luis Rioja ruled out of starting (ESPN) :: short
+2026-11-07 20:03:19   drop[unconfirmed] Real Madrid confirmed lineup vs Valencia: Antonio Rüdiger, Álvaro Carreras, Eduardo Camavi (ESPN) :: injury
+2026-11-07 20:04:31   drop[1-source] Celtic Confirm Injury Problem For Kilmarnock Game (roundtable.io) :: Celtic, wait 2nd source
+2026-11-07 20:07:34   llm groq-120b: rate limited, skip 324s
+2026-11-07 20:07:35   drop[side] Paris Saint-Germain confirmed lineup vs Troyes: Achraf Hakimi, João Neves, Maghnes Akliouc (ESPN) :: Will Paris Saint-Germain FC win on 2026-11-07? -> Yes vs fact ruled_out: Achraf Hakimi (Paris Saint-Germain, soccer), ba
+2026-11-07 20:07:35   drop[not-key] Troyes confirmed lineup vs Paris Saint-Germain: Paolo Gozzi Iweru, Timothé Nkada ruled out (ESPN) :: Paolo Gozzi Iweru: ruled out
+2026-11-07 20:09:35   drop[side] AS Roma confirmed lineup vs Sassuolo: Gianluca Mancini, Marten de Roon, Devyne Rensch rule (ESPN) :: Will AS Roma win on 2026-11-07? -> Yes vs fact ruled_out: Gianluca Mancini (AS Roma, soccer), bad for AS Roma. ruled out
+2026-11-07 20:09:35 NEWS [ESPN 0m] Sassuolo confirmed lineup vs AS Roma: Stefano Turati, Cas Odenthal, Luca Lipani, Darryl Bakola, Domenico Berardi ruled out of starting XI [ita.1]
+2026-11-07 20:09:35   skip No :: Will US Sassuolo Calcio win on 2026-11-07? (low conf 0.6)
+2026-11-07 20:10:38   drop[kind] Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa (Al Jazeera) :: other
+2026-11-07 20:11:36   drop[1-source] Train services suspended in Linha do Douro in Portugal (The Portugal News) :: Linha do Douro, wait 2nd source
+2026-11-07 20:12:49 indexed 713 markets
+2026-11-07 20:14:05   llm groq-120b: rate limited, skip 35s
+2026-11-07 20:14:06   drop[side] Kyler Murray (QB, Minnesota Vikings) ruled out: Questionable -> Out [NFL] (ESPN) :: Bills vs. Vikings -> Vikings vs fact ruled_out: Kyler Murray (Minnesota Vikings, nfl), bad for Minnesota Vikings. ruled 
+2026-11-07 20:14:06   drop[not-key] Jauan Jennings (WR, Minnesota Vikings) ruled out: Questionable -> Out [NFL] (ESPN) :: Jauan Jennings: injury
+2026-11-07 20:14:07   drop[not-key] Demond Claiborne (RB, Minnesota Vikings) ruled out: Questionable -> Out [NFL] (ESPN) :: Demond Claiborne: injury
+2026-11-07 20:16:47   drop[kind] 11 Fitness: Building hip strength and balance post-injury (WBAL News Radio) :: other
+2026-11-07 20:16:47   llm groq-120b: rate limited, skip 290s
+2026-11-07 20:16:47   drop[1-source] 6 Alabama Players Ruled Out for High-Stakes Matchup With LSU (heavy.com) :: Alabama Crimson Tide, wait 2nd source
+2026-11-07 20:18:19   drop[no-market] Paraguay's former president charged after bank collapse (BBC) :: Paraguay
+2026-11-07 20:19:05   drop[not-key] Vilmanis exits in first period with injury against Capitals (NHL.com) :: Vilmanis: injury
+2026-11-07 20:22:51 indexed 717 markets
+2026-11-07 20:23:15   drop[not-key] Jaylin Williams (F, Oklahoma City Thunder) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: Jaylin Williams: lower-back spasms
+2026-11-07 20:23:24   llm groq-120b: rate limited, skip 136s
+2026-11-07 20:23:25   drop[not-key] Rathbone has cleared Leppanen (EDM) on waivers Reimer (NYR) on unconditional waivers for p (Elliotte Friedman) :: Alex Leppanen: cleared waivers
