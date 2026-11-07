@@ -28627,3 +28627,33 @@
 2026-11-07 14:38:30   drop[1-source] Patriots Receive Major Gabe Jacas Injury Boost Ahead of Packers Showdown (Sportsnaut) :: Gabe Jacas, wait 2nd source
 2026-11-07 14:38:31   drop[no-market] Josh Tongue ruled out of England tour of Australia in hammer injury blow (The Independent) :: England cricket team
 2026-11-07 14:38:32   drop[1-source] Pacer ruled out of England's ODI series against Australia (ICC) :: England cricket team, wait 2nd source
+2026-11-07 14:40:03 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=900&order=volume24hr&ascending=false&end_date_min=2026-11-07T13%3A39%3A44Z&end_date_max=2026-12-07T13%3A39%3A44Z
+2026-11-07 14:40:57 indexed 827 markets
+2026-11-07 14:41:15 NEWS [ESPN 0m] RB Leipzig confirmed lineup vs FC Augsburg: Christoph Baumgartner, Antonio Nusa ruled out of starting XI [ger.1]
+2026-11-07 14:41:15   skip No :: Will RB Leipzig win on 2026-11-07? (low conf 0.6)
+2026-11-07 14:41:16 NEWS [ESPN 0m] FC Augsburg confirmed lineup vs RB Leipzig: Michael Gregoritsch ruled out of starting XI [ger.1]
+2026-11-07 14:41:16   skip Yes :: Will RB Leipzig win on 2026-11-07? (low conf 0.62)
+2026-11-07 14:41:17   drop[1-source] Blue Jackets Beat By Buffalo, Lose Monahan, Voronkov To Injury (The Hockey News) :: Buffalo Sabres, wait 2nd source
+2026-11-07 14:41:17   drop[no-market] Tottenham dealt latest attacking injury blow after VAR madness at Leeds (Yahoo Sports) :: Tottenham Hotspur
+2026-11-07 14:43:00 NEWS [ESPN 0m] Mainz confirmed lineup vs Bayern Munich: Phillip Tietz, Alexander Schwolow, Stefan Posch, Phillipp Mwene ruled out of starting XI [ger.1]
+2026-11-07 14:43:00   skip Yes :: Will FC Bayern München win on 2026-11-07? (low conf 0.6)
+2026-11-07 14:43:01 NEWS [ESPN 0m] Bayern Munich confirmed lineup vs Mainz: Alphonso Davies, Tom Bischof ruled out of starting XI [ger.1]
+2026-11-07 14:43:01   skip No :: Will FC Bayern München win on 2026-11-07? (low conf 0.6)
+2026-11-07 14:43:39   drop[kind] Arsenal XI vs Hull: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-11-07 14:45:58   drop[team-not-named] Tongue out of Australia ODI series due to toe injury (Cricbuzz) :: England cricket team
+2026-11-07 14:47:01 NEWS [ESPN 0m] SC Paderborn 07 confirmed lineup vs Eintracht Frankfurt: Marvin Pieringer ruled out of starting XI [ger.1]
+2026-11-07 14:47:01   skip No :: Will SC Paderborn 07 win on 2026-11-07? (low conf 0.6)
+2026-11-07 14:47:02   drop[not-key] Eintracht Frankfurt confirmed lineup vs SC Paderborn 07: Keita Kosugi, Younes Ebnoutalib r (ESPN) :: Keita Kosugi: ruled out of starting XI
+2026-11-07 14:48:17   drop[1-source] Colorado Loses Two Defenders in Latest Injury Report Before Arizona State (Sports Illustrated) :: University of Colorado Buffaloes, wait 2nd source
+2026-11-07 14:50:54 indexed 835 markets
+2026-11-07 14:51:13   drop[1-source] Service suspended on a stretch of Green Line through Nov. 15 for repairs (WHDH) :: MBTA Green Line, wait 2nd source
+2026-11-07 14:57:56   drop[kind] Fabio Silva to Start After Serhou Guirassy Injury for Dortmund Vs Sv Elversberg (شبكة تواصل الإخبارية) :: other
+2026-11-07 15:01:15 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1900&order=volume24hr&ascending=false&end_date_min=2026-11-07T14%3A00%3A34Z&end_date_max=2026-12-07T14%3A00%3A34Z
+2026-11-07 15:02:09 indexed 817 markets
+2026-11-07 15:02:12 NEWS [ESPN 0m] Arsenal confirmed lineup vs Hull City: Piero Hincapié, Ben White, Martín Zubimendi, Mikel Merino, Viktor Gyökeres, Eberechi Eze ruled out of starting XI [eng.1]
+2026-11-07 15:02:12   skip Yes :: Will Hull City AFC win on 2026-11-07? (low conf 0.6)
+2026-11-07 15:02:14 NEWS [ESPN 0m] Hull City confirmed lineup vs Arsenal: Ryan Giles, Mohamed Belloumi ruled out of starting XI [eng.1]
+2026-11-07 15:02:14   skip Yes :: Will Arsenal FC win on 2026-11-07? (low conf 0.6)
+2026-11-07 15:02:15 NEWS [ESPN 0m] Newcastle United confirmed lineup vs Fulham: Fabian Schär, Joelinton, Joe Willock ruled out of starting XI [eng.1]
+2026-11-07 15:02:15   skip Yes :: Will Fulham FC win on 2026-11-07? (low conf 0.62)
+2026-11-07 15:04:36   drop[team-not-named] Josh Tongue to miss Australia ODIs due to toe injury (NewsBytes) :: England cricket team
