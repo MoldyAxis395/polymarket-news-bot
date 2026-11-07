@@ -16,7 +16,7 @@
    "reason": "pengwin approx: home scoring \u22651 approximated by M\u00e1laga O/U 0.5 Over",
    "conf": 1.0,
    "end": "2026-11-07T13:00:00+00:00",
-   "last_bid": 0.78,
+   "last_bid": 0.79,
    "book_err": false
   },
   {
@@ -124,7 +124,7 @@
    "reason": "pengwin approx: approximates Multigol 2-5 casa by betting home scores \u22653 goals, the nearest available line",
    "conf": 1.0,
    "end": "2026-11-07T14:30:00+00:00",
-   "last_bid": 0.47,
+   "last_bid": 0.48,
    "book_err": false
   },
   {
@@ -142,7 +142,7 @@
    "reason": "pengwin approx: leg of combo 1X+UNDER 4.5",
    "conf": 1.0,
    "end": "2026-11-07T14:00:00+00:00",
-   "last_bid": 0.86,
+   "last_bid": 0.85,
    "book_err": false
   }
  ],
