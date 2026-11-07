@@ -1,34 +1,15 @@
 {
- "updated": "2026-11-07T05:41:07",
+ "updated": "2026-11-07T06:11:09",
  "mode": "paper",
  "brain": "llm",
- "llm_calls_today": 56,
- "markets_indexed": 722,
- "news_processed": 64,
- "cash": 72.81,
+ "llm_calls_today": 58,
+ "markets_indexed": 709,
+ "news_processed": 67,
+ "cash": 82.65,
  "equity": 82.65,
  "start": 100.0,
- "open": [
-  {
-   "market_id": "5920629",
-   "question": "Giants vs. Eagles",
-   "slug": "nfl-nyg-phi-2026-11-08",
-   "outcome": "Giants",
-   "token": "91471525512370531263048668917293652754626557427218687859075864659124414889076",
-   "shares": 16.129032258064516,
-   "entry": 0.62,
-   "cost": 10.0,
-   "opened": 1794005244.9326384,
-   "opened_iso": "2026-11-06T22:47:24+00:00",
-   "news": "Jonathan Jones (CB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL]",
-   "reason": "llm[groq-20b] trusted: injury to key Eagles player likely boosts Giants odds",
-   "conf": 0.65,
-   "end": "2026-11-08T18:00:00+00:00",
-   "last_bid": 0.61,
-   "book_err": false
-  }
- ],
- "closed_count": 104,
+ "open": [],
+ "closed_count": 105,
  "llm": {
   "backends": [
    "groq-120b",
@@ -37,7 +18,7 @@
   "fallbacks": 0,
   "errors": {},
   "rejects": {
-   "1-source": 13,
+   "1-source": 15,
    "fluff": 16,
    "verify": 2,
    "unconfirmed": 3,
@@ -47,9 +28,9 @@
    "no-market": 1
   },
   "calls": {
-   "groq-120b": 49,
+   "groq-120b": 51,
    "groq-20b": 7
   }
  },
- "realized_pnl": -17.19
+ "realized_pnl": -17.35
 }

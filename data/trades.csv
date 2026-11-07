@@ -215,3 +215,4 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-11-06T00:22:05+00:00,BUY,Ducks vs. Oilers,Ducks,27.78,0.3600,10.00,,"Tristan Jarry (G, Edmonton Oilers) ruled out: healthy -> Out [NHL] | llm[groq-20b] trusted: Jarry's injury hurts Oilers, likely shifting odds toward Ducks"
 2026-11-06T00:55:11+00:00,SELL,Ducks vs. Oilers,Ducks,27.78,0.3500,9.72,-0.28,market closing
 2026-11-06T22:47:24+00:00,BUY,Giants vs. Eagles,Giants,16.13,0.6200,10.00,,"Jonathan Jones (CB, Philadelphia Eagles) ruled out: Questionable -> Out [NFL] | llm[groq-20b] trusted: injury to key Eagles player likely boosts Giants odds"
+2026-11-07T04:47:35+00:00,SELL,Giants vs. Eagles,Giants,16.13,0.6100,9.84,-0.16,max hold
