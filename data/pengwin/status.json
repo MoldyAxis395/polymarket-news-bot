@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07T12:36:46",
+ "updated": "2026-11-07T13:07:38",
  "start": 100.0,
  "cash": 11.76,
- "equity": 82.91,
+ "equity": 82.66,
  "open": [
   {
    "market_id": "6181030",
@@ -19,7 +19,7 @@
    "reason": "pengwin approx: home scoring \u22651 approximated by M\u00e1laga O/U 0.5 Over",
    "conf": 1.0,
    "end": "2026-11-07T13:00:00+00:00",
-   "last_bid": 0.79,
+   "last_bid": 0.77,
    "book_err": false
   },
   {
