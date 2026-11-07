@@ -28509,3 +28509,8 @@
 2026-11-07 05:05:05   drop[kind] Suspended driver arrested (The Warragul & Drouin Gazette) :: other
 2026-11-07 05:08:00 indexed 716 markets
 2026-11-07 05:08:16   drop[verify] Rams listed Matthew Stafford with elbow injury because reporters asked about ice on it (NBC Sports) :: team affiliation unclear, headline not a clear ruling‑out, not confirmed new info, player impact uncertain
+2026-11-07 05:18:01 indexed 724 markets
+2026-11-07 05:27:29   drop[1-source] Maharashtra FDA Action: 105 Food Licences Suspended (Urban Acres) :: Maharashtra Food and Drug Administration, wait 2nd source
+2026-11-07 05:28:10 indexed 722 markets
+2026-11-07 05:37:42 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=400&order=volume24hr&ascending=false&end_date_min=2026-11-07T04%3A37%3A32Z&end_date_max=2026-12-07T04%3A37%3A32Z
+2026-11-07 05:38:32 indexed 722 markets
