@@ -28493,3 +28493,10 @@
 2026-11-07 04:01:56   drop[unconfirmed] OPPO Find X10 Ultra Project Possibly Suspended, New DCS Post Sparks Speculation (The Tech Outlook) :: project may be halted
 2026-11-07 04:06:14   drop[not-key] Sam Merrill Ruled Out With Elbow Injury vs. 76ers (roundtable.io) :: Sam Merrill: elbow injury
 2026-11-07 04:06:42 indexed 722 markets
+2026-11-07 04:16:58 indexed 728 markets
+2026-11-07 04:27:02 indexed 711 markets
+2026-11-07 04:27:07   drop[kind] LSU TE Trey’Dez Green Not 100 Percent As He Enters Injury Report At Questionable; Bama WR  (TigerRag.com |) :: other
+2026-11-07 04:29:34   drop[1-source] Malik Nabers makes his status clear after Giants injury scare: ‘I practiced!’ (New York Post) :: Malik Nabers, wait 2nd source
+2026-11-07 04:37:05 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1900&order=volume24hr&ascending=false&end_date_min=2026-11-07T03%3A36%3A27Z&end_date_max=2026-12-07T03%3A36%3A27Z
+2026-11-07 04:37:56 indexed 719 markets
+2026-11-07 04:38:00   drop[1-source] Hornets get obliterated by Celtics as Brandon Miller leaves due to injury (Rookie Wire) :: Brandon Miller, wait 2nd source
