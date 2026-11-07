@@ -28542,3 +28542,13 @@
 2026-11-07 10:34:18 brain=llm cash=82.65 open=0
 2026-11-07 10:34:18 resuming with 7301 known news items
 2026-11-07 10:34:55 indexed 704 markets
+2026-11-07 10:39:52   drop[kind] Injury toll after Russian attack on Kyiv rises to six, including one child (Ukrinform) :: other
+2026-11-07 10:44:59 indexed 710 markets
+2026-11-07 10:52:01   drop[kind] Injury scare the only black mark Cameron Carter-Vickers silences critics (The Celtic Bhoys) :: other
+2026-11-07 10:54:41 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=700&order=volume24hr&ascending=false&end_date_min=2026-11-07T09%3A54%3A27Z&end_date_max=2026-12-07T09%3A54%3A27Z
+2026-11-07 10:55:18 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1300&order=volume24hr&ascending=false&end_date_min=2026-11-07T09%3A54%3A53Z&end_date_max=2026-12-07T09%3A54%3A53Z
+2026-11-07 10:56:08 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=2000&order=volume24hr&ascending=false&end_date_min=2026-11-07T09%3A55%3A30Z&end_date_max=2026-12-07T09%3A55%3A30Z
+2026-11-07 10:56:57 indexed 713 markets
+2026-11-07 11:04:18   drop[1-source] 3 Cardinals ruled out for Seattle contest (Revenge of the Birds) :: Arizona Cardinals, wait 2nd source
+2026-11-07 11:06:59 indexed 716 markets
+2026-11-07 11:08:05   drop[team-not-named] 🚨 José Mourinho on Vinicius Jr: “The team is what matters most”. “It’s true that Vinicius  (Fabrizio Romano) :: Real Madrid
