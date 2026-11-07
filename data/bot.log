@@ -28500,3 +28500,12 @@
 2026-11-07 04:37:05 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1900&order=volume24hr&ascending=false&end_date_min=2026-11-07T03%3A36%3A27Z&end_date_max=2026-12-07T03%3A36%3A27Z
 2026-11-07 04:37:56 indexed 719 markets
 2026-11-07 04:38:00   drop[1-source] Hornets get obliterated by Celtics as Brandon Miller leaves due to injury (Rookie Wire) :: Brandon Miller, wait 2nd source
+2026-11-07 04:43:28   drop[not-key] Timberwolves news: Joan Beringer exits Pelican clash with nasal injury (ClutchPoints) :: Joan Beringer: Exited game with nasal injury
+2026-11-07 04:47:59 indexed 721 markets
+2026-11-07 04:48:16   drop[team-not-named] PSG Dealt Another Injury Blow Before Troyes Match (roundtable.io) :: Paris Saint-Germain Football Club
+2026-11-07 04:57:59 indexed 713 markets
+2026-11-07 04:58:16   drop[1-source] Kade Ruotolo Reportedly Out Of ONE Fight Night 50 With Undisclosed Injury (MiddleEasy) :: Kade Ruotolo, wait 2nd source
+2026-11-07 05:05:04   drop[1-source] Bears star Caleb Williams reveals biggest focus since injury return (ChiCitySports) :: Caleb Williams, wait 2nd source
+2026-11-07 05:05:05   drop[kind] Suspended driver arrested (The Warragul & Drouin Gazette) :: other
+2026-11-07 05:08:00 indexed 716 markets
+2026-11-07 05:08:16   drop[verify] Rams listed Matthew Stafford with elbow injury because reporters asked about ice on it (NBC Sports) :: team affiliation unclear, headline not a clear ruling‑out, not confirmed new info, player impact uncertain
