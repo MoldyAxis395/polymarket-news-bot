@@ -28404,3 +28404,19 @@
 2026-11-07 00:48:06 indexed 700 markets
 2026-11-07 00:49:44   drop[team-not-named] Ex-Lions QB Returns to the NFL With NFC West Contender (Heavy.com) :: Los Angeles Rams
 2026-11-07 00:53:32 [pengwin] COLONIA-BAYER LEVERKUSEN: no Polymarket event (try 13)
+2026-11-07 00:55:20   llm groq-120b: rate limited, skip 174s
+2026-11-07 00:55:22   drop[verify] Scottie Barnes (F, Toronto Raptors) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: uncertain
+2026-11-07 00:55:22   drop[no-pick] Immanuel Quickley (G, Toronto Raptors) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: no outcome should rise based on the fact
+2026-11-07 00:55:50   drop[no-market] Google executive Donald Harrison resigns from SpaceX board (Reuters) :: SpaceX
+2026-11-07 00:58:07 indexed 693 markets
+2026-11-07 01:02:35   drop[unconfirmed] Jarrett Allen (C, Cleveland Cavaliers) ruled out: Day-To-Day -> Out [NBA] (ESPN) :: tweaked knee, out for upcoming game
+2026-11-07 01:06:08   drop[not-key] Google executive Donald Harrison resigns from SpaceX board reut.rs/4iAtn9l (Reuters) :: Donald Harrison: Harrison stepped down from SpaceX board
+2026-11-07 01:07:41   llm groq-120b: rate limited, skip 77s
+2026-11-07 01:07:42   drop[no-pick] Terrance Ferguson Out For Week 9 With New Hamstring Injury (Draft Sharks) :: no outcome should rise
+2026-11-07 01:08:03 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1000&order=volume24hr&ascending=false&end_date_min=2026-11-07T00%3A07%3A44Z&end_date_max=2026-12-07T00%3A07%3A44Z
+2026-11-07 01:08:21 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=300&order=volume24hr&ascending=false&end_date_min=2026-11-07T00%3A08%3A15Z&end_date_max=2026-12-07T00%3A08%3A15Z
+2026-11-07 01:08:51 ERROR  File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=900&order=volume24hr&ascending=false&end_date_min=2026-11-07T00%3A08%3A33Z&end_date_max=2026-12-07T00%3A08%3A33Z
+2026-11-07 01:09:41 indexed 705 markets
+2026-11-07 01:19:30 indexed 707 markets
+2026-11-07 01:23:02   drop[1-source] 49ers Rule Out Three Wide Receivers vs. Raiders; Bosa Returns to Full Practice Ahead of We (San Francisco 49ers) :: San Francisco 49ers, wait 2nd source
+2026-11-07 01:23:34 [pengwin] COLONIA-BAYER LEVERKUSEN: no Polymarket event (try 14)
