@@ -28713,3 +28713,15 @@
 2026-11-07 18:24:03 [pengwin]   SELL Over @ 0.000 (resolved) pnl -10.00 :: BV Borussia 09 Dortmund vs. SV 07 Elversberg: BV Borussia 09 Dortmund O/U 2.5
 2026-11-07 18:24:04 [pengwin]   book error Torino FC vs. US Lecce: O/U 4.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=77421457644687367838287015911346491429982056983525971582158391445901379560985
 2026-11-07 18:24:04 [pengwin]   SELL Under @ 1.000 (resolved) pnl +0.45 :: Torino FC vs. US Lecce: O/U 4.5
+2026-11-07 18:29:37   drop[1-source] England suffer blow after Josh Tongue is ruled out ODI series in Australia (SABC Sport) :: Josh Tongue, wait 2nd source
+2026-11-07 18:32:08 indexed 723 markets
+2026-11-07 18:33:12 feed aljazeera error x1: HTTPSConnectionPool(host='www.aljazeera.com', port=443): Read timed out. (read timeout=15)
+2026-11-07 18:34:31   drop[team-not-named] ESPN's "Being Ben" Documentary Updated Following its Star's Season-Ending Injury (LaughingPlace.com) :: unknown
+2026-11-07 18:36:50   drop[team-not-named] Jack McGlynn replaces injured Gio Reyna on USMNT roster vs. Haiti (USA Today) :: United States Men's National Team
+2026-11-07 18:42:16 indexed 728 markets
+2026-11-07 18:46:11   drop[1-source] Browns $30 Million Defender Ruled Out for Week 9 (heavy.com) :: Myles Garrett, wait 2nd source
+2026-11-07 18:48:25 NEWS [ESPN 0m] Myles Garrett (DE, Los Angeles Rams) cleared to play: Injured Reserve -> Active [NFL]
+2026-11-07 18:48:25   skip Rams :: Rams vs. Commanders (low conf 0.6)
+2026-11-07 18:51:05   drop[kind] Letter Reconsiders Transfusion Thresholds in Severe Traumatic Brain Injury (Bioengineer.org) :: other
+2026-11-07 18:52:18 indexed 717 markets
+2026-11-07 18:53:30   drop[not-key] Ronnie Rivers (RB, Los Angeles Rams) cleared to play: Injured Reserve -> Active [NFL] (ESPN) :: Ronnie Rivers: cleared from IR to active roster
