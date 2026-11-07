@@ -124,7 +124,7 @@
    "reason": "pengwin approx: approximates Multigol 2-5 casa by betting home scores \u22653 goals, the nearest available line",
    "conf": 1.0,
    "end": "2026-11-07T14:30:00+00:00",
-   "last_bid": 0.43,
+   "last_bid": 0.22,
    "book_err": false
   },
   {
@@ -142,7 +142,7 @@
    "reason": "pengwin approx: leg of combo 1X+UNDER 4.5",
    "conf": 1.0,
    "end": "2026-11-07T14:00:00+00:00",
-   "last_bid": 0.9,
+   "last_bid": 0.988,
    "book_err": false
   }
  ],
