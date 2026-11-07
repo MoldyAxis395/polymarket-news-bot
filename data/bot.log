@@ -28564,3 +28564,19 @@
 2026-11-07 11:53:34   drop[kind] 🏆💭 Raphinha: “I don’t just want to win the Champions League; I want to win every possible  (Fabrizio Romano) :: other
 2026-11-07 11:57:13 indexed 727 markets
 2026-11-07 12:07:16 indexed 728 markets
+2026-11-07 12:10:27   drop[team-not-named] KBC 18 shoot suspended for a week amid Amitabh Bachchan`s health concerns (Mid-Day) :: Kaun Banega Crorepati Season 18
+2026-11-07 12:12:54   drop[kind] Arsenal Handed Perfect Injury Gift Before International Break (Sports Illustrated) :: other
+2026-11-07 12:12:55   drop[kind] Tottenham XI vs Leeds: Starting lineup and confirmed team news (London Evening Standard) :: other
+2026-11-07 12:17:21 indexed 729 markets
+2026-11-07 12:19:46   drop[1-source] Two changes and pair return from injury as Farke reveals XI to face Tottenham Hotspur - Le (Leeds United | Official Website - Leeds United) :: Leeds United, wait 2nd source
+2026-11-07 12:22:14   drop[1-source] Leeds team news vs Spurs with double injury boost as Nmecha starts (Yorkshire Evening Post) :: Felix Nmecha, wait 2nd source
+2026-11-07 12:27:22 indexed 741 markets
+2026-11-07 12:28:59   drop[team-not-named] Two changes and pair return from injury as Farke reveals XI to face Tottenham Hotspur (Yahoo Sports) :: Newcastle United
+2026-11-07 12:28:59   drop[1-source] Pompey pair ruled out as John Mousinho forced to make changes against Stoke (Portsmouth News) :: Portsmouth Football Club, wait 2nd source
+2026-11-07 12:31:31   drop[1-source] Ponga sends Kiwis into World Cup final after miraculous injury comeback (Nine.com.au) :: Shaun Ponga, wait 2nd source
+2026-11-07 12:32:27 NEWS [ESPN 0m] Leeds United confirmed lineup vs Tottenham Hotspur: Daniel James, Harry Wilson ruled out of starting XI [eng.1]
+2026-11-07 12:32:27   skip Yes :: Will Tottenham Hotspur FC win on 2026-11-07? (low conf 0.6)
+2026-11-07 12:32:28   drop[not-key] Tottenham Hotspur confirmed lineup vs Leeds United: Dominic Solanke ruled out of starting  (ESPN) :: Dominic Solanke: ruled out of match
+2026-11-07 12:37:04 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1000&order=volume24hr&ascending=false&end_date_min=2026-11-07T11%3A36%3A44Z&end_date_max=2026-12-07T11%3A36%3A44Z
+2026-11-07 12:37:55 indexed 745 markets
+2026-11-07 12:38:09   drop[kind] Trump launches new Iran blitz after US issues $20m for info on nuke program (The Sun) :: other

@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07T12:05:55",
+ "updated": "2026-11-07T12:36:46",
  "start": 100.0,
  "cash": 11.76,
- "equity": 82.72,
+ "equity": 82.91,
  "open": [
   {
    "market_id": "6181030",
@@ -127,7 +127,7 @@
    "reason": "pengwin approx: approximates Multigol 2-5 casa by betting home scores \u22653 goals, the nearest available line",
    "conf": 1.0,
    "end": "2026-11-07T14:30:00+00:00",
-   "last_bid": 0.47,
+   "last_bid": 0.48,
    "book_err": false
   },
   {
