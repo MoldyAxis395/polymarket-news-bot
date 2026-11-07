@@ -28600,3 +28600,30 @@
 2026-11-07 13:59:24 indexed 848 markets
 2026-11-07 14:04:07   drop[team-not-named] ADP Denies Suspending National Chairman, Says National Secretary Victor Fingesi Was Suspen (Nigeria Info FM) :: African Democratic Party
 2026-11-07 14:09:30 indexed 831 markets
+2026-11-07 14:13:27   drop[1-source] Dion Dawkins Misses Second Bills' Practice, Reveals Injury Status for Monday Night (Sports Illustrated) :: Dion Dawkins, wait 2nd source
+2026-11-07 14:13:27   drop[1-source] England quick Josh Tongue ruled out of white-ball Australia tour with toe injury (The Independent) :: Josh Tongue, wait 2nd source
+2026-11-07 14:13:28   drop[not-key] Official: Pavlovic will miss Milan’s game against Genoa due to injury (LiveScore) :: Filip Pavlovic: injury
+2026-11-07 14:15:47   drop[not-key] Mancini ruled out vs Sassuolo due to injury (RomaPress) :: Mancini: injury
+2026-11-07 14:15:47   drop[no-market] England suffer injury blow as Josh Tongue is ruled out of white-ball series against Austra (Cricket Addictor) :: England cricket team
+2026-11-07 14:18:04   drop[1-source] Tottenham hit with huge Mathys Tel injury blow as Leeds 'escape red card' (London Evening Standard) :: Mathys Tel, wait 2nd source
+2026-11-07 14:18:16 NEWS [ESPN 0m] Torino confirmed lineup vs Lecce: Ché Adams ruled out of starting XI [ita.1]
+2026-11-07 14:18:16   skip No :: Will Torino FC win on 2026-11-07? (low conf 0.6)
+2026-11-07 14:18:16   drop[not-key] Lecce confirmed lineup vs Torino: Olaf Gorter, Joel Monteiro, Konan N’Dri, Jamil Siebert r (ESPN) :: Olaf Gorter: injury
+2026-11-07 14:19:32 indexed 830 markets
+2026-11-07 14:20:16 NEWS [ESPN 0m] Cagliari confirmed lineup vs Frosinone: Yerry Mina, Adam Obert, Yukinari Sugawara, M'Bala Nzola, Alieu Fadera ruled out of starting XI [ita.1]
+2026-11-07 14:20:16   skip No :: Will Cagliari Calcio win on 2026-11-07? (low conf 0.6)
+2026-11-07 14:20:18 NEWS [ESPN 0m] Frosinone confirmed lineup vs Cagliari: Giorgio Cittadini, Patrizio Masini, Antonio Raimondo ruled out of starting XI [ita.1]
+2026-11-07 14:20:18   skip No :: Will Frosinone Calcio win on 2026-11-07? (low conf 0.6)
+2026-11-07 14:22:40   drop[kind] US Anti-Trans Ballot Wins Pose Challenge for Democrats Ahead of 2028 (Deccan Chronicle) :: other
+2026-11-07 14:22:41   drop[1-source] Bears Urged to Trade for Super Bowl Champion After Cole Kmet Injury (heavy.com) :: Cole Kmet, wait 2nd source
+2026-11-07 14:29:31 ERROR File "/home/runner/work/polymarket-news-bot/polymarket-news-bot/bot/polymarket.py", line 109, in fetch_markets |     r.raise_for_status() |   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status |     raise HTTPError(http_error_msg, response=self) | requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&offset=1900&order=volume24hr&ascending=false&end_date_min=2026-11-07T13%3A28%3A54Z&end_date_max=2026-12-07T13%3A28%3A54Z
+2026-11-07 14:30:25 indexed 828 markets
+2026-11-07 14:32:27 NEWS [ESPN 0m] Borussia Dortmund confirmed lineup vs SV Elversberg: Ramy Bensebaini, Julian Ryerson, Serhou Guirassy ruled out of starting XI [ger.1]
+2026-11-07 14:32:27   skip No :: Will BV Borussia 09 Dortmund win on 2026-11-07? (low conf 0.62)
+2026-11-07 14:32:28 NEWS [ESPN 0m] SV Elversberg confirmed lineup vs Borussia Dortmund: Jan Gyamerah, Frederik Schmahl ruled out of starting XI [ger.1]
+2026-11-07 14:32:28   skip Yes :: Will BV Borussia 09 Dortmund win on 2026-11-07? (low conf 0.6)
+2026-11-07 14:33:06   drop[kind] Commanders Haven't Ruled Out Adding Brandon Aiyuk (RealGM) :: other
+2026-11-07 14:33:07   drop[no-market] Josh Tongue out of England tour of Australia with toe injury as Jofra Archer and Adil Rash (Sky Sports) :: England cricket team
+2026-11-07 14:38:30   drop[1-source] Patriots Receive Major Gabe Jacas Injury Boost Ahead of Packers Showdown (Sportsnaut) :: Gabe Jacas, wait 2nd source
+2026-11-07 14:38:31   drop[no-market] Josh Tongue ruled out of England tour of Australia in hammer injury blow (The Independent) :: England cricket team
+2026-11-07 14:38:32   drop[1-source] Pacer ruled out of England's ODI series against Australia (ICC) :: England cricket team, wait 2nd source
