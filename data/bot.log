@@ -28691,3 +28691,25 @@
 2026-11-07 16:16:27 [pengwin]   SELL Over @ 1.000 (resolved) pnl +2.66 :: Málaga CF vs. Real Racing Club: Málaga CF O/U 0.5
 2026-11-07 16:17:29   drop[not-key] James Hagens (C, Boston Bruins) ruled out: Day-To-Day -> Injured Reserve [NHL] (ESPN) :: James Hagens: placed on injured reserve
 2026-11-07 16:19:19 shift over, state saved
+2026-11-07 18:21:28 === start mode=paper pid=2209 ===
+2026-11-07 18:21:28 brain=llm cash=82.65 open=0
+2026-11-07 18:21:28 resuming with 7149 known news items
+2026-11-07 18:22:07 indexed 751 markets
+2026-11-07 18:22:26 NEWS [ESPN 0m] Anton Lundell (C, Florida Panthers) ruled out: healthy -> Out [NHL]
+2026-11-07 18:22:26   skip Capitals :: Panthers vs. Capitals (low conf 0.62)
+2026-11-07 18:22:26   drop[not-key] Nottingham Forest confirmed lineup vs Manchester City: Ola Aina, Dan Ndoye ruled out of st (ESPN) :: Ola Aina: ruled out of starting XI
+2026-11-07 18:22:27   drop[side] Manchester City confirmed lineup vs Nottingham Forest: Nico O'Reilly, Matheus Nunes, Phil  (ESPN) :: Will Nottingham Forest FC vs. Manchester City FC end in a draw? -> Yes vs fact ruled_out: Phil Foden (Manchester City, s
+2026-11-07 18:22:29 NEWS [ESPN 0m] Osasuna confirmed lineup vs Athletic Club: Jonathan Dubasin ruled out of starting XI [esp.1]
+2026-11-07 18:22:29   skip No :: Will CA Osasuna win on 2026-11-07? (low conf 0.6)
+2026-11-07 18:22:30   drop[side] Athletic Club confirmed lineup vs Osasuna: Aitor Paredes, Iñigo Ruiz de Galarreta, Maroan  (ESPN) :: Will CA Osasuna vs. Athletic Club end in a draw? -> No vs fact ruled_out: - (Athletic Club, soccer), bad for Athletic Cl
+2026-11-07 18:22:31   drop[not-key] VfB Stuttgart confirmed lineup vs Werder Bremen: Fabian Bredlow, Atakan Karazor, Ermedin D (ESPN) :: Fabian Bredlow: ruled out of starting XI
+2026-11-07 18:22:32 NEWS [ESPN 0m] Werder Bremen confirmed lineup vs VfB Stuttgart: Chuki, Mitchell Weiser ruled out of starting XI [ger.1]
+2026-11-07 18:22:32   skip No :: Will SV Werder Bremen win on 2026-11-07? (low conf 0.62)
+2026-11-07 18:22:32   llm groq-120b: rate limited, skip 7s
+2026-11-07 18:22:32   drop[not-key] AJ Auxerre confirmed lineup vs Paris FC: Clément Akpa, Kévin Danois, Christ Makosso, Lamin (ESPN) :: Clément Akpa: ruled out
+2026-11-07 18:22:33   drop[side] Paris FC confirmed lineup vs AJ Auxerre: Samir Chergui ruled out of starting XI [fra.1] (ESPN) :: Will Paris FC win on 2026-11-07? -> Yes vs fact ruled_out: Samir Chergui (Paris FC, soccer), bad for Paris FC. injury
+2026-11-07 18:22:33   drop[kind] Two killed, at least 10 injured in shooting in Polish city of Krakow, TVN24 reports reut.r (Reuters) :: other
+2026-11-07 18:24:03 [pengwin]   book error BV Borussia 09 Dortmund vs. SV 07 Elversberg: BV B: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=92485564764327189935158220338837298926316144159916775938602334546863932749792
+2026-11-07 18:24:03 [pengwin]   SELL Over @ 0.000 (resolved) pnl -10.00 :: BV Borussia 09 Dortmund vs. SV 07 Elversberg: BV Borussia 09 Dortmund O/U 2.5
+2026-11-07 18:24:04 [pengwin]   book error Torino FC vs. US Lecce: O/U 4.5: 404 Client Error: Not Found for url: https://clob.polymarket.com/book?token_id=77421457644687367838287015911346491429982056983525971582158391445901379560985
+2026-11-07 18:24:04 [pengwin]   SELL Under @ 1.000 (resolved) pnl +0.45 :: Torino FC vs. US Lecce: O/U 4.5

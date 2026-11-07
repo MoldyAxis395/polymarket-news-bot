@@ -156,3 +156,5 @@ time,action,market,outcome,shares,price,usd,pnl,reason
 2026-11-06T22:00:08+00:00,SELL,Will Venezia FC win on 2026-11-06?,No,17.24,0.0000,0.00,-10.00,resolved
 2026-11-06T22:12:20+00:00,SELL,Everton FC vs. Coventry City FC: O/U 4.5,Under,11.76,1.0000,11.76,+1.76,resolved
 2026-11-07T15:16:27+00:00,SELL,Málaga CF vs. Real Racing Club: Málaga CF O/U 0.5,Over,12.66,1.0000,12.66,+2.66,resolved
+2026-11-07T17:24:03+00:00,SELL,BV Borussia 09 Dortmund vs. SV 07 Elversberg: BV Borussia 09 Dortmund O/U 2.5,Over,19.23,0.0000,0.00,-10.00,resolved
+2026-11-07T17:24:04+00:00,SELL,Torino FC vs. US Lecce: O/U 4.5,Under,3.44,1.0000,3.44,+0.45,resolved

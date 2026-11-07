@@ -1,5 +1,5 @@
 {
- "cash": 24.422933730454208,
+ "cash": 27.86029130959346,
  "positions": [
   {
    "market_id": "6180809",
@@ -16,7 +16,7 @@
    "reason": "pengwin approx: combo leg",
    "conf": 1.0,
    "end": "2026-11-07T17:30:00+00:00",
-   "last_bid": 0.89,
+   "last_bid": 0.9,
    "book_err": false
   },
   {
@@ -52,7 +52,7 @@
    "reason": "pengwin exact: home win only",
    "conf": 1.0,
    "end": "2026-11-08T15:15:00+00:00",
-   "last_bid": 0.55,
+   "last_bid": 0.54,
    "book_err": false
   },
   {
@@ -70,7 +70,7 @@
    "reason": "pengwin approx: Multigol 1-3 casa approximated by home O/U 1.5 Over (nearest available line for home goals)",
    "conf": 1.0,
    "end": "2026-11-08T17:30:00+00:00",
-   "last_bid": 0.47,
+   "last_bid": 0.49,
    "book_err": false
   },
   {
@@ -89,42 +89,6 @@
    "conf": 1.0,
    "end": "2026-11-08T20:00:00+00:00",
    "last_bid": 0.71,
-   "book_err": false
-  },
-  {
-   "market_id": "6175750",
-   "question": "BV Borussia 09 Dortmund vs. SV 07 Elversberg: BV Borussia 09 Dortmund O/U 2.5",
-   "slug": "bun-dor-elv-2026-11-07-team-total-home-2pt5",
-   "outcome": "Over",
-   "token": "92485564764327189935158220338837298926316144159916775938602334546863932749792",
-   "shares": 19.23076923076923,
-   "entry": 0.52,
-   "cost": 10.0,
-   "opened": 1793977215.0139709,
-   "opened_iso": "2026-11-06T15:00:15+00:00",
-   "news": "BORUSSIA DORTMUND-ELVERSBERG: BV Borussia 09 Dortmund O/U 2.5 Over @0.51 (approssimato)",
-   "reason": "pengwin approx: approximates Multigol 2-5 casa by betting home scores \u22653 goals, the nearest available line",
-   "conf": 1.0,
-   "end": "2026-11-07T14:30:00+00:00",
-   "last_bid": 0.17,
-   "book_err": false
-  },
-  {
-   "market_id": "6176008",
-   "question": "Torino FC vs. US Lecce: O/U 4.5",
-   "slug": "sea-tor-lec-2026-11-07-total-4pt5",
-   "outcome": "Under",
-   "token": "77421457644687367838287015911346491429982056983525971582158391445901379560985",
-   "shares": 3.437357579139254,
-   "entry": 0.87,
-   "cost": 2.990501093851151,
-   "opened": 1793979000.109616,
-   "opened_iso": "2026-11-06T15:30:00+00:00",
-   "news": "TORINO-LECCE: UNDER 4.5 (approssimato)",
-   "reason": "pengwin approx: leg of combo 1X+UNDER 4.5",
-   "conf": 1.0,
-   "end": "2026-11-07T14:00:00+00:00",
-   "last_bid": 0.988,
    "book_err": false
   }
  ],
@@ -1807,6 +1771,52 @@
    "pnl": 2.6582278481012658,
    "why": "resolved",
    "closed_iso": "2026-11-07T15:16:28+00:00"
+  },
+  {
+   "market_id": "6175750",
+   "question": "BV Borussia 09 Dortmund vs. SV 07 Elversberg: BV Borussia 09 Dortmund O/U 2.5",
+   "slug": "bun-dor-elv-2026-11-07-team-total-home-2pt5",
+   "outcome": "Over",
+   "token": "92485564764327189935158220338837298926316144159916775938602334546863932749792",
+   "shares": 19.23076923076923,
+   "entry": 0.52,
+   "cost": 10.0,
+   "opened": 1793977215.0139709,
+   "opened_iso": "2026-11-06T15:00:15+00:00",
+   "news": "BORUSSIA DORTMUND-ELVERSBERG: BV Borussia 09 Dortmund O/U 2.5 Over @0.51 (approssimato)",
+   "reason": "pengwin approx: approximates Multigol 2-5 casa by betting home scores \u22653 goals, the nearest available line",
+   "conf": 1.0,
+   "end": "2026-11-07T14:30:00+00:00",
+   "last_bid": 0.17,
+   "book_err": true,
+   "settle_retry": 1794072843.6656969,
+   "exit": 0.0,
+   "pnl": -10.0,
+   "why": "resolved",
+   "closed_iso": "2026-11-07T17:24:04+00:00"
+  },
+  {
+   "market_id": "6176008",
+   "question": "Torino FC vs. US Lecce: O/U 4.5",
+   "slug": "sea-tor-lec-2026-11-07-total-4pt5",
+   "outcome": "Under",
+   "token": "77421457644687367838287015911346491429982056983525971582158391445901379560985",
+   "shares": 3.437357579139254,
+   "entry": 0.87,
+   "cost": 2.990501093851151,
+   "opened": 1793979000.109616,
+   "opened_iso": "2026-11-06T15:30:00+00:00",
+   "news": "TORINO-LECCE: UNDER 4.5 (approssimato)",
+   "reason": "pengwin approx: leg of combo 1X+UNDER 4.5",
+   "conf": 1.0,
+   "end": "2026-11-07T14:00:00+00:00",
+   "last_bid": 0.988,
+   "book_err": true,
+   "settle_retry": 1794072844.3373802,
+   "exit": 1.0,
+   "pnl": 0.44685648528810296,
+   "why": "resolved",
+   "closed_iso": "2026-11-07T17:24:04+00:00"
   }
  ],
  "cooldown": {
@@ -1882,6 +1892,8 @@
   "6107512": 1794012494.8125913,
   "6099746": 1794013208.5755403,
   "6107573": 1794013940.4779081,
-  "6181030": 1794075388.371449
+  "6181030": 1794075388.371449,
+  "6175750": 1794083044.2092183,
+  "6176008": 1794083044.8415015
  }
 }
